@@ -1,0 +1,351 @@
+---
+title: "FOUR SPECIAL TYPES OF HOLY SPIRIT DIRECTION | GTWC BULAWAYO  | DAG HEWARD-MILLS | 2025"
+channel: "DagHewardMillsGTWC"
+platform: "YouTube"
+video_id: "6qBvTZOgQSk"
+url: "https://www.youtube.com/watch?v=6qBvTZOgQSk"
+year: 2025
+duration_min: 68
+source: "autocaption"
+match: "exact"
+---
+
+Now, now listen. I want to now share with you four types of guidance. Four types of guidance that are necessary for your spiritual development. Wow. As a Christian and as a minister.
+
+Ministers are Christians. Yeah. Ministers are Christians. Now this four types, how many are ready for the four types? Beautiful.
+
+Second Timothy chapter 3 verse 16. Let's go. WHAT DOES IT SAY? ALL scripture is given by inspiration. Not some scripture.
+
+Oh, is given by inspiration. Not the ones you like and the ones that favor your cause and the ones that make you happy and the ones that make things go the way you think it should go or the ones that favor the black man or the scripture that favor the white man or scripture that favor women or scripture that favor men. No, no, no, no. All scripture. I don't want to deviate.
+
+Four special types of directions. Number one, doctrinal direction. Doctrinal direction. Yeah. Doctrinal direction is where you develop a code of easy to remember scriptures that guide you all the time.
+
+Example of a doctrine. A doctrine is like a series or a set of guiding truths that are always together. So a good example of a doctrine is the ten commandments. Yeah. It's it's it's it's it's you know the ten commandments no matter how long you live and you want to not mention it.
+
+You get it? It is there. It's solid and it is affecting us. Thou shall h thou shalt love the Lord thy God. Thou shalt have no other God.
+
+No. Thou shall not make any graven image. No graven image. That's the second. Don't make any image.
+
+Thou shalt not take the name of the Lord thy God in vain. You can't run away from it. Thou shalt keep my Sabbath. That's the fourth commandment. My Sabbath is holy.
+
+And the famous fifth commandment, honor thy father and thy mother. Yes, a commandment with a this is like a doctrine. Then it goes on, thou shalt not steal. Thou shalt not kill. Thou shalt not commit adultery.
+
+Thou shalt not coveret thy neighbor's house, thy neighbor's wife, or anything that is thy neighbors. Huh? Ten Commandments is like a doctrine. The macarios is like a doctrine. It's like there's a series of teachings.
+
+It's like a set of teachings. Teachings on church growth. There are nine books on church growth. Yes. And you can get it on this website.
+
+Nine books on church growth. Number one, the mega church. Yes. Let's see. Big one, the mega church.
+
+Number two, church planting. Hello. Are you going to show the books whilst I'm saying them or you show them after? Glory be to God. I'm talking of doctrinal direction.
+
+Doctrinal like sets of teachings direction. Sets of teachings direction. Series of teachings. Yeah. And if you are in a ministry, the most difficult work is church work.
+
+It's more difficult than anything else you do. I can promise you that. How to fill the church building. Ah, IT'S AS THOUGH CHURCH BUILDINGS HAVE HAD THEIR own private meeting and the church buildings have decided among themselves that we will not allow anybody to fill us and overload us again. Yes.
+
+It's as if ALL CHURCH BUILDINGS all over THE WORLD HAVE HAD a meeting and they've come together and they've SAID THAT NEVER allow yourself to be failed church grow church mega church mega church planting number three church growth it is possible This is a doctrine. It's like a set of teachings. Number four, 1,000 micro churches. Number five, why is this church not working? This particular church Hey, WHY IS THIS CHURCH not working?
+
+Why? We want to know why. Number six, the church must send or it will end. It's a doctrine. Number seven, Double Mega Missionary Church.
+
+Wow. Double Mega Missionary Church. How many is that? Seven. Eight.
+
+Church administration. It's all they all church books. And then number nine, the gift of government because after the church is built, you have to govern the church. So these are nine books that have to do with it's a doctrine. It's a doctrine.
+
+So let's take it again quickly. Ready? Go. Mega church church growth one what? 1 micro 1,000 micro churches.
+
+Next one. Why is this church not working? Huh? The church is not working. The choir is not working well.
+
+The musicians are off key. The sound system is not good. People are not coming to church. ALL THE BACK is empty. All the upstairs is empty.
+
+HEY, WHY WHY WHY why don't the members come by themselves? Why do we have TO CALL THEM BEFORE THEY WILL COME? WHY DO WE HAVE TO PICK THEM WITH A BUS BEFORE THEY COME? WHY is this church not working? Why?
+
+The next one the church must send or it will end. Everything is ended by something. Everything is ended by something. Yeah. Everything has an end.
+
+And there is something that brings the end to everything. And what brings the end to churches is when the church does not send. Amazing. Is it? It's not logical.
+
+But the church must send or it will end. The next one, double mega missionary church. The next one, administration. Church administration. Then another set of doctrine is loyalty.
+
+Yeah. And that ONE I HAVE 20 BOOKS that 20. Wow. Wow. Wow.
+
+20 in the set. So you see there is direction. EVERYBODY SAY LET LET'S GO BACK to our our opening scripture. Jeremiah 10 10 what? 23 23 Oh Lord, I know that the way of man is not in himself.
+
+It is not in man that walketh to direct his steps. Now we are saying that scripture has there are four types of guidance that come AND ONE IS DOCTRINAL GUIDANCE. That's why churches have doctrines. doctrines is like these are set like a code and that's what Moses gave us when he gave us the ten commandments and he repeated it BECAUSE THE FIRST PEOPLE DIDN'T want to follow it so he gave it in Deuteronomy chapter in Exodus chapter 20 then he gave the same ten commandments in Deuteronomy chapter 5 SO YOU HAVE DIFFERENT CHURCHES actually confir because there's a slight difference in the two ten commandments there's a there's a very slight difference in one of the commandments Yes, when he gives the reason for whatever but there's a slight difference but the ten commandments are in the two places but that's a DOCTRINE THAT HAS GUIDED SO THAT'S WHY IN AMERICA WHEN THEY TOOK the ten commandment out of the school no it's changing the whole country they have to put the ten commandments at different places so that the ten commandments are there AND IT'S SOMETHING THAT GUIDES THE HUMAN race when you take it out you are leaving the human race.
+
+That's what we have now. You see now the human race you can see where we are going. Yeah. When you take out doctrine doctrines. So people think wonder what what are we PREACHING ABOUT LOYALTY?
+
+WHAT ARE WE PREACHING ABOUT CHURCH GROWTH? WHAT ARE WE PREACHING ABOUT SHEPHERING? These are the doctrines that guide the church and guide the ministry. Doctrines. Doctrines.
+
+Doctrine. sets of bodies of teachings, doctrines. And in Deuteronomy chapter 4, look at verse 5. Moses was talking again. He says, "BEHOLD, I HAVE TAUGHT you statutes, judgments, even as the Lord by God commanded me that you should go and possess it." Verse, verse 5, verse six.
+
+Therefore, keep them. All right? FOR THIS IS YOUR WISDOM AND YOUR understanding in the sight of the nations. No, these sets of teachings. It's your wisdom and your understanding in the sight of the nations which shall hear these statutes.
+
+They will hear of these doctrines or these sets of teachings. People will hear about these sets of teachings and they will say surely this great nation is a wise and understanding people. They shall hear all these verse seven. For what nation is there or what church is there that is so great which has God so nigh unto them as the Lord our God is in all things that we call upon him. So when you go back to Deuteronomy 4 or or even verse 8, WHAT NATION IS THERE THAT IS SO GREAT THAT HAS SUCH STATUTES, SUCH JUDGMENTS, SUCH DOCTRINES THAT such sets of teachings, such books, such doctrines and what nation IS SO GREAT THAT HAS these things.
+
+Yeah, this is this is what Moses was explaining to them about. I've given you set of doctrines, doctrinal direction. That's why the Bible says that all scripture is given by inspiration of God and is profitable for doctrine. The scripture is useful to bring doctrinal thinking and understanding. So even lawyers, lawyers have doctrines, things they go by.
+
+They they have things they go by, laws and they have some statements, some statement they say them in Latin and so on. There are things that guide lawyers. They say they say that you are not guilty until proved and until beyond whatever PROOF AND DIFFERENT HAVE THEY HAVE DIFFERENT LITTLE SAYINGS that the lawyers have done THAT THAT'S THAT GUIDES THE LAW. PROFESSION. Are you with me?
+
+And we also as a church, we have doctrines, sets of teachings, sets of teachings, sets of teachings. And it's a light for the church. So that's why I shared with you church book. When I was when I was becoming a pastor, I didn't have any books, sets of books like this. That's why he said in Deuteronomy Deuteronomy 4:8 he said he said what what nation OR WHAT CHURCH OR what ministry is it that has such you know is so good THAT HAS SUCH SETS OF teachings that's what makes Israel different that's What makes a church different?
+
+I said this is what we believe in. Now when it come to loyalty, we have also an amazing set 20. Number one, loyalty and disloyalty. Number two, you know something? You guys who are controlling it, just bring them up and then we we we pillars of loyalty.
+
+Number three, those who make shipwreck shipwreck. There are those uh and the famous Wait, the famous shipwreck. The famous shipwreck in the world. Yes. Is when Paul went and fell in the island of Malta.
+
+One time I was in Malta and I went to You'll be there. You'll be there practically. Practical. I went to where Paul's shipwreck was. Yes.
+
+Paul's shipwreck. They have a a place there. That's where he came. Remember the snake fasting to Paul's hand and he shook the snake off into the fire. Yeah.
+
+That's a famous shipwreck. And when the shipwreck was going up, Paul advised them said this thing we are going is going to be a bad thing. They didn't listen. So that's a famous shipwreck and there are people who make shipwreck. I think because Paul had experienced a shipwreck.
+
+He saw some people in the ministry. He said I minus and Alexander they make shipwreck of their ministry. Yeah. The next one. Why loyalty?
+
+Yeah. Why loyalty is important? WHY? WHY? Why are you Why are you talking about you have 20 books about this thing?
+
+Why? I'll tell you why you loyalty. The next one, those who are slanderers, slanderers, wicked, lying, defaming, wretched men with their wretched stories and rumors, they they type. You see, look at the look at in the in the book is those who are have you seen the computer? is sitting by a laptop and he's typing.
+
+HE'S GOING TO POST SOMETHING ON FACEBOOK. Those who are slanderersh do you have some here? Zimbabwe. more more than here. Psalm 140 verse 11.
+
+I just want to give that one for the slanderers before we go. Let not an evil speaker be established in the earth. Huh? Psalm 140:11. Let not an evil speaker be established in the air.
+
+Transverion. May a slanderer not be established in the air. It will never be stable on earth. It can never be established on earth. Slanderers.
+
+So we have a book specially for slanderers. Yes. Next one. those who are wolves. The Bible says that Paul said when I go wolves will come not sparing the flock.
+
+They want to eat up the church, take the members out, slander, do everything, scatter the church, reduce the church. But we are ready for them. Are you ready for them? We shall meet THEM TOE TO TOE. BOOT FOR BOOT.
+
+YES. Now we are at war. Fire for fire. One day I went to Nigeria. I d I drove there.
+
+Yeah, you'll be there. You'll be there. I was driving. I drove from Ghana. So I entered.
+
+It was night. was night. Then there were so many checkpoints about 40 checkpoints were going going. Then I was wondering different type of soldiers. Some were wearing shorts just shorts with sandbars slippers with slippers with AK-47 different types.
+
+So then I look on the car, one of the cars and they are written on it operation fire for fire. operation fire for fire. I said yes. Grievous wolves. The next one.
+
+The next one. The next one. The next one. Those who rebel. Huh?
+
+Do you see we bow to none change now? Justice now. Monkey they work baboon they chop. Justice now. But when these PEOPLE COME INTO POWER they cannot do much.
+
+Those who rebel they cannot do much. Rebellious people cannot lead. rebellious people BECAUSE AS THEY STAND there they are full and they exude rebellion. THAT'S WHY REBELLIOUS PEOPLE HAVE REBELLIOUS children because the spirit moves down to the children too and it moves down TO THE FOLLOWERS AND THE FOLLOWERS RECEIVE THE SPIRIT OF REBELLION. That's why they can't they can't control the people.
+
+Those who rebel Next one, be faithful unto death. Those of you who say, "I'm staying in THE CHURCH FOR 5 YEARS. I'll be around for 4 years." God has spoken to me that I must serve you for 3 years. After that, I must enter into my my my divine calling. THE BIBLE SAYS, "BE THOU FAITHFUL unto death." Faithful unto when?
+
+Faithful unto death. Remember this scripture we said, "Oh God, thou my guide forever and ever. Thou my God, thou shalt be my guide even." Psalm 48. Bring that scripture. FOR THIS GOD IS OUR GOD forever and ever.
+
+He will be our guide even unto death. That's what the Bible says. BE THOU FAITHFUL UNTO DEATH. So those of you who are members OF THE CHURCH, WHICHEVER church have to have a mind that I'm here to stay. You see, listen.
+
+Let me tell you something. Hello. Hello. Now, why are you standing up? Sit down.
+
+Sit down. You are blocking some people's view. But maybe those at the back, they are not even interested in in what what what is being said? Now, do you know why people the older people do you know why they didn't divorce much? They they have there's one difference between the older people and us.
+
+Yes. How many want to know the difference? Okay. These people don't want to after church. You see me after church and then we'll discuss it.
+
+But these people they are not interested in you are not you are NOT INTERESTED. YOU'RE MORE INTERESTED. Revelation 2:10, "Be thou faithful unto death, and I will give thee a crown of life." The reason why the older people like Oral Roberts and those type you rarely hear the divorce is because when they marry they have a mind that I am in it forever and divorce is impossible. It is not an option. It's not one of the possibilities.
+
+Yes. That's why they are stable. Yeah. But you see in our time there's a lot of options. Hey, you know something?
+
+No, I can't take this, YOU KNOW. I CAN'T I CAN'T THERE ARE CERTAIN THINGS I CAN'T I CAN'T I I CAN'T I CAN'T I CAN'T GO THROUGH CERTAIN THINGS, YOU KNOW. YEAH. YEAH. It's like you KNOW SOMETHING I READ A BOOK AND THAT BOOK WAS SAYING THAT THIS AND WHATEVER THESE ARE MENTAL HEALTH ISSUES TODAY THIS AND THAT AND SO ON SAY wow those ideas dabilize you.
+
+So when you are in a church or when you are in a marriage you have to have a mind of this is this is my what this is this is my group. When you are related to somebody spiritually, you have to have a mind. This people is my group. That's all. And you are in that group forever.
+
+Thou shalt be my guide FOREVER AND EVER EVEN UNTO DEATH. FOREVER. For this God tell this verse is nice. Oh. I mean this is a nice like it's like I mean stuffy this God is our God forever and ever.
+
+This God is our God forever and ever. He will be our guide even unto them. Beautiful. Now go back. I'm showing you doctrines.
+
+Be the next one. These are all in the doctrines OF LOYALTY. THOSE WHO ACCUSE YOU, DO YOU HAVE ACCUSERS in in Zimbabwe? THEY HAVE SOMETHING TO SAY ABOUT EVERYTHING. You cannot imagine.
+
+Should I give you the microphone so that you Hey, those who point fingers, you can not be happy in their presence. That is why we have to search and destroy. Everybody say search and destroy. Search and destroy. We have to find our accusers and remove.
+
+Say remove them. Not remove. And remove. Remove. We are clearing them.
+
+IT'S CALLED SEARCH AND DESTROY MISSION. YEAH. If you allow accusers to stay in your ministry, sitting your church, your committee, your council, and they are all part of the thing. When you preach, they don't write notes. Huh?
+
+When you preach, they don't say amen. WHEN EVERYBODY IS SMILING, THEY DON'T SMILE. THERE ARE YOUR ACCUSERS ARE SITTING THERE. After the meeting, THEY WILL DISCUSS YOU, ANALYZE YOU, DISSECT YOU AND FINISH YOU. AND YOU ALLOWING SUCH A PERSON TO BE IN YOUR IN YOUR COMMITTEE, your council.
+
+Listen, EVEN GOD DID NOT WASTE TIME ON LUCIFER. HE CAST HIM OUT OF heaven straight. AND MEANWHILE, YOU ARE COUNSELING LUCIFER. WHEN GOD HIMSELF DECIDED NOT TO COUNSEL LUCIFER, YOU ARE COUNSELING HIM. YOU'RE ADVISING LUCIFER.
+
+REMOVE. Tell somebody remove. Remove. Those who accuse you. Next one.
+
+Next one. Those who are dangerous sons. Those who are dangerous sons. It's a son. Absaloms.
+
+Absaloms. Absalom. Sons who can attack their fathers. Excuse me. This way.
+
+I need to go THIS WAY. SONS ARE people whom good things have been done for them. Do you have people in Zimbabwe like that? Good things have been done for them. Hh many.
+
+You have been kind to them. You have LOVED THEM, PROTECTED THEM, laid hands on them, bless them. And they forgotten everything. Yes. And then they turn around and they say, "Look at this man.
+
+He says he's a father." One day somebody was talking about some pastors who are having a conference in a certain country whose name begins with N. And he said that ALL THE PASTORS WHO ARE PREACHING at that conference, they are all expired fathers. They are what? Expired fathers. I never knew that FATHERS ALSO EXPIRE.
+
+Those who are dangerous sons. Next one. Next one. Next one. This is not the topic.
+
+Those who are ignorant. Hey, ignoramos. Empty head. Knock your neighbor's head to see whether there's something in there. Is there something in there?
+
+Not too hard. Not too hard. Yes. My God. My God.
+
+There's Tell your neighbor. There's a doctrine in my head. There's doctrines in my head. Yes. Next one.
+
+Those who are MSPishop, there's no time all these things. There's no time for all these things. Those who are mad Wow. Crazy, crazy, crazy. Next one.
+
+Those who are offended. Hey Luke chapter 6 vers 11 Luke chapter 6 vers 11 and they were filled with madness those who are mad they were filled with madness that's why I told you if what I'm preaching is not in the pages of the Bible, throw it away. No way. Just completely reject it. And if it is there and they were filled with madness serious.
+
+Hey Ecclesiastes chapter 9:3. This is an evil among all things that are done under the sun, that there is one event unto all. YAY. ALSO, THE HEART OF the sons of men is full OF EVIL, AND MADNESS is in their hearts. Yes.
+
+They were filled with madness. Those who are mad. DEUTERONOMY CHAPTER 28:28. The Lord shall smite thee with madness and blindness and astonishment of heart. One of the curses is for your mind to go off AND FOR YOUR BEHAVIOR to be inexplicable, UNEXPLAINABLE BY YOUR CULTURE, BY YOUR FAMILY, BY YOUR BEHAVIOR, BY YOUR EDUCATION, BY YOUR SPIRITUAL TRAINING.
+
+Your mind is completely deviated and completely off. Wow. You have listened to all these teachings. You know it. YOU HAVE EVEN ADVERTISED AND SOLD THOSE VERY books and taught the books.
+
+And look at your behavior today. Ecclesiastes 1:1 17 is the reason why I wrote this book. It says, "And I gave my heart to know wisdom and to know madness." You have to learn about madness so that when it is coming on you, YOU SAY, "HEY, I'VE RUN ABOUT I'VE RUN ABOUT THIS THING. SOMETHING WANTS TO COME on me. Yes.
+
+Are you listening to me? Second Peter chapter 2 verse 16. BUT HE WAS REBUKED. THIS IS WHY YOU SEE PASTORS GOING MAD. He said, "But he WAS REBUKED." THAT'S THE PROPHET BALAM.
+
+He was rebuked for HIS INIQUITY. THE DUMBASS SPEAKING with a man's voice FORBADE THE MADNESS OF THE PROPHET. MADNESS OF A PASTOR. MADNESS OF A PROPHET. MADNESS OF AN APOSTLE.
+
+SERIOUS. WOW. Do you have the TPT version? Do you have the TPT version? Do they have TPT?
+
+ALL RIGHT. 2 TIMOTHY CHAPTER 3 verse 8 and verse 9 in the TPT. History has given us an example of this with the Egyptian sorcerers Janice and Jambre who stood against Moses in their arrogance. So it will be in the last day that those who reject the faith with their corrupt minds and arrogant hearts standing against the truth of God. Verse 9, but they will not advance for everyone will see their madness.
+
+EVERYONE WILL SEE THEIR MADNESS JUST AS THEY DID WITH JANICE AND JAMBRE. Is madness in the Bible or is not in the Bible? Everyone will see their madness. 10 verse 12 and 13 Amplified Bible. The words of a wise man's mouth are gracious and win him favor, but the lips of a fool consume him.
+
+The beginning of his talking does a fool is foolishness and the end of his talk is wicked madness. Wicked madness. Amazing. Amazing. King James version says the end of his talk is mischievous madness.
+
+So we have mischievous madness and wicked madness. Are you there? Luke chapter 6 verse 7. And the scribes and the Pharisees watched him. These are the opposition pastors.
+
+H jealous men. Jealous men criticizing him all the time. The Bible says, "And the scribes and the Pharisees watched him whether he would heal on the Sabbath day so that they might find an accusation. But he knew their thoughts and said to the man which had a withered hand, RISE UP, STAND FORTH IN THEIR MIDST. And he rose and stood forth.
+
+And then Jesus said unto them, I will ask you one thing. Is it lawful on the Sabbath day to do good or to evil? To do evil, to save life or to destroy it? And looking around about all of that, he said UNTO THE MAN, STRETCH FORTH THINE HAND. And he did so, and his hand was restored whole as the other.
+
+And they were filled with madness. Ah the madness came when the miracle you see when the power is coming and the ministry is working they are sitting there they are watching they are jealous they ARE FILLED WITH MADNESS IT'S LIKE I MEAN LOOK AT THE MIRACLE THAT HAS JUST HAPPENED THAT IT DEPS THEM THAT THE CHURCH HAS BEEN DEDICATED the ministry is working THE POWER IS WORKING THE MIRACLE IS WORKING THEY CAN'T THEY HAVE NO OTHER ANSWER TO WHAT GOD IS doing and they are filled WITH MADNESS AS THEY ARE SITTING there wicked menus and they commune one with another what they might do to Jesus.
+
+They start sending WhatsApp and text to each other. Have you seen what the guy is saying? Look at what they are doing there and so on. They start sending messages. Those who are mad.
+
+Hey In that day, say the Lord, I will smite every horse with astonishment and his rider with madness, and I will Zechariah 12:4. In that day, say the Lord, I will smite every horse with astonment, his rider with madness, and I'll open my eyes on the house of Judah, and I will smite every horse of the people with blindness. Judgment. Judgment. Amen.
+
+So anyway, this is not the topic. Let's go. I'm showing you the books, doctrines. Yes. Oh yes.
+
+Oh yes. I'm not ashamed of this. These are I'm it's based on the Bible. My legs are standing on the word. Yes.
+
+If it's not in the word, it's not in the word. I don't I don't have I don't know any thing cuz you know I'm not an art student. So I don't have this wide extensive reading. I'm not I'm not an art student. I'm a science student.
+
+And science students we don't like a lot of reading this this this this. We we are more of the facts and so on. Uhhuh. So I don't want if it's there is there. If it's not there it's not there.
+
+That's it. Is it there or it's not there? Now the next one, what does it say? What's the name of what's the name of that lady? The wife who they sacked.
+
+Now you see you see somebody like Bashi is to be a good wife. You get it? You have to flow. Yes. When her husband called her, "Baby, baby, I want you to come.
+
+VAST SAID what me I should come I should come I should come where I should come for a party. Are you serious? Are you serious? At this time? At this time.
+
+ARE YOU NOT DRUNK? YOU FOOLISH MAN. That's Bash's response. That is why many people call their girlfriends baby. They want to call the person the opposite of a queen.
+
+You know, one day, one day I saw a sister, she told me, "My name is queen." I said it's not a good name. It's not a good name for a young girl. Queens, it will not help you because you can't easily call the queen baby. Baby, come here. You are too young to use such a name.
+
+Queen. I I change her name immediately. Queenie. Goodness. When your husband calls you, "Baby, baby, I want to cuddle." Yes.
+
+Then you ANSWER AND SAY, "OF COURSE, OF COURSE." YES. You say, "Of course." I I don't know whether YOU SAY OF COURSE IN Zimbabwe when your husband calls you in the middle of the night he says baby baby I'm hungry this man says I'm a man sent from God Huh? IF YOUR HUSBAND CALLS YOU IN THE MIDDLE OF THE NIGHT, "BABY, BABY, I'm hungry." And then you say, "WHAT AT THIS TIME? GO TO BED, BABY. DRINK SOME WATER AND SLEEP.
+
+I'M SLEEPING, BABY. NO. You say, "Of course. What do you want to eat, baby?" You want TO EAT PASTA? YOU WANT TO EAT SAUSAGE?
+
+YOU WANT TO EAT NOODLES? OF COURSE. Of course, baby. Baby, baby, I want a cuddle. What do you say?
+
+OF COURSE. LET'S DO IT NOW. LET'S DO IT NOW. But you see, YOU CAN'T SAY THAT TO A QUEEN. WHEN A QUEEN IS WALKING BY, you can't say baby.
+
+What baby? What do you mean by baby? By the time the queen will finish moving all her things. The time has passed. Wow.
+
+Wow. So listen those who are proud continue showing us the doctrine. This is the doctrines. Those who forget. Yes.
+
+Yes. Think of how many boyfriends you've had. And now that you are married and you are now the wife and your husband wants you to do, he says, "Baby, I want gymnastics." Gymnastics. THINK THINK OF THE AEROBICS. THINK OF THE AEROBICS YOU HAVE DONE ALREADY WITH SO MANY PEOPLE.
+
+SO MANY PEOPLE YOU DID WITH JOHN, WITH JACK, WITH JAY, WITH JOE, with G. And now you are married. IT'S ASKING FOR SOME SMALL GYMNASTICS OR SOMETHING something small to some delight. And look at look at your attitude. Those who forget the man who didn't put a ring ON YOUR FINGER, YOU DID EVERYTHING for him.
+
+Now the man who put a ring on YOUR FINGER, YOU HAVE BECOME A DEAD DOG. Those who forget. Next one. Those who honor you. Yes.
+
+Those who honor. Listen to what I'm saying. Those who honor. Yeah. You must become one of those who honor.
+
+Yes. Those who honor you. The next one, those who leave you. Wow. So, this is a doctrine.
+
+It's a set of teachings. If we take our time, you see all there's nothing that it's not. It's based on the Bible because it's like there's a verse, then you explain. There's a verse and you explain. It's not there.
+
+It's not there. Wow. Those who leave you. The prodigal son, he left his father. Yeah.
+
+He left HIS FATHER'S HOUSE. WHAT HAPPENED TO HIM? The next time we heard he was begging. You see so MANY PASTORS, THEY ARE NOW BEGGARS, BEGGING, USELESS, wretched men. They they they don't have anything.
+
+EVERY DAY THEY ARE TALKING TO somebody talking you know whatever so that you give ME AN OFFERING. ONE PASTOR WAS saying when I go and stand on the car park, I will get this amount of money from people who come by. They will be sewing seeds as they come and they are going home after church. I was I just stand on the car park and I he was giving it as a testimony when I stand on the car park, shamelessly begging, extortting, manipulating. suggesting suggesting to people.
+
+I suggest to you I suggest to YOU THAT YOU SUPPORT ME. I suggest to you that you give me Hey, I suggest the prodigal son was discussing with pigs. Give me some because he left his father's house. His father's house was cool. I said, "No, no, no.
+
+I want to be far this man. I want to be far from him. I want to go to another place. The Bible say he took his journey to a far country far country. After the after many days, the younger son gathered all and took his journey into a far I want to be as FAR AT THE BACK AS POSSIBLE.
+
+I WANT to be as far in another place, in another church, in another country, in another I want I don't want to be near my father. What type of where where did you get all these things from? And there when he was far he wasted his life and his whole life got spoiled you know you are fixed by God. Look at the planets all have been fixed. From the sun we come to Mercury and the sun is just a star.
+
+From the sun he come to Mercury then he come to Venus then he come to us we are here. Do you know that if the earth moves a little closer, all of us will burn, if it come just a little closer, we we it's going to burn. And if we go a little this way, look like right now in America. Right now in America and in Europe, it's it's snowing. is ice cold because they've just turned away.
+
+H who is bringing these things instead of bringing the scriptures fast? Look at what you are doing. You know if you move out of your position everything is good. The temperature will change. Everything is going to change.
+
+God has made us to be in particular positions. Look at look at Okay, bring your picture back. Now I say you should bring the picture. It's not coming. Look at it.
+
+Look at the sun. The sun is the yellow one on the left. They are not showing the whole sun because it's too big. The sun is very very very huge. Yes.
+
+Then the first planet is Mercury. You see? And then after that is Venus. And Venus looks yellow and it's very beautiful. Yes.
+
+But you wouldn't want to have your honeymoon there because the temperature is so hot and it is hotter than even Mercury. Look at Mercury. Mercury is next to the sun, but it's not as hot as Venus. Yeah. Because Mercury is just a solid rock, gray hard rock.
+
+No clouds, nothing. Just from the sun straight to the Mercury. So it is hot. But even when it turns around, it's cooler on the other side. Yes.
+
+But for Venus, what it is is that it's covered with clouds. God made it to be covered with clouds. So inside Venus is also the heat that comes in is trapped there. So it doesn't go out. That's why Venus is the hottest 470° C very hot.
+
+You wouldn't want to. So that is what that is one of the reason why they we have very and then also it rains a lot and there are volcanoes. It rains a lot in uh Venus but the rain is made of acid. So Venus is like the most beautiful planet very attractive. It's like some ladies they look so attractive you want to marry them.
+
+So you go towards when you go the temperature is very hot and then the mouth is like acid. It's coming very strong acid mouth. Lady Venus. My God. Yes.
+
+Now then you come to us. You come to us next door. We we have been put in a place. Now supposing the earth says those who leave you ch I'm leaving. Look this.
+
+I'm tired. I'm tired of my position. I'm tired of my place. And said, I'm going to move nearer. I heard the song come closer to me.
+
+Closer. So, I'm coming closer to the sun. What's going to HAPPEN TO US? WE ARE FINISHED. NOW, do you know the hottest place on earth is in the Iranian desert.
+
+Temperature 72. Yes. 70. Remember that boiling water is 100. Yes.
+
+So they they've recorded 70 that's on earth. So they already we are tending to get all my missionaries were telling me from Mali and uh this one was in Chad. She was telling me she said look sometimes the heat they can go like 50° 45 now now the temperature be like 24 or something yeah 50 solid nothing works no air conditioner nothing there's nothing like that it doesn't work conditioners don't work so those who live they leave their positions and and they say no I want to be I want to be closer I want to be further at this I want to go far now when you go let's say earth decides to leave his position and go to mass one of the problems there is the temperature is too cold it's cold because it's farther from the sun so one of the problems is the temperature is very cold now if you look at Mars and then you go now to Jupiter When you go to Jupiter, I want to be like Jupiter.
+
+But you see, when you get to Jupiter, you will be shocked because Jupiter, do you see Jupiter? Do you see Jupiter? H Jupiter. The next one is Saturn. But you do you see Jupiter?
+
+That Jupiter that you see is not solid. It's gas. There's not even one piece of rock. There's nowhere to stand because it is that is how it is. The only planet which has got something to stand on is Mercury, Venus, Earth and Mars.
+
+The rest is gas. So you say you are attracted to something. You want to go and be something. You want to turn into gas. I mean you are not happy with your position.
+
+You want to go and BE SOMETHING DIFFERENT FAR AWAY FROM WHERE YOU ARE SUPPOSED to be. Now if you look at Saturn, do you see the rings around it? Do you see the rings around it? It is those rings are ice ice h pieces that are going round at top speed. They're going round at top speed and you can't even go near.
+
+All these are gases. So I mean those who leave you is you've left your position God-given place in life and ministry and then you turn into nothing. That's why you need guidance. Even from the doctrines you are hearing you see that God gives you guidance. Those who live, don't leave your place.
+
+Don't leave where God has put you. Those who leave you. The next one, those who pretend. The next one. Our time is up.
+
+JUDAS. ASK YOUR NEIGHBOR. Are you Judas? Are you? ARE YOU JUDAS HERE?
+
+It would have been better that you were not born at all. Amen. Now listen carefully. Keep going. How many books do you have now?
+
+One of you is a devil. Wow. John chapter 6 verse 70. One of you is a devil. Underline it.
+
+And one of you is a devil. Next one. Next one. Is that it? 20.
+
+Okay. Beautiful. Sit down. Sit down. So these are doctrines, sets of teachings.
+
+Go. Go back. Go back. When you see my eyes, he says he will guide me WITH HIS EYE. WHY DO I HAVE TO EVEN WAVE MY HAND?
+
+My eye alone should be guiding you. My eye, my eye, my eye. WHERE IS THAT SCRIPTURE that he will guide you with his eyes? Where is that scripture? He will guide you with his mine eye.
+
+Psalm 32. I will instruct thee in the way which thou shalt go. I will guide thee with my eye. Fantastic. Now, second Timothy chapter 3.
+
+I've not forgotten what I was sharing with you. Some of you think I'm confused. I'm not confused at all. So, four types of guidance. Number one, doctrinal guidance like the Ten Commandments or some of these books.
+
+Number two, reproof blastings. Some of us we need to be blasted without being blasted. Do you know what I mean by blasting? Rebuking, reproving, shouting, anything like that. Very strong.
+
+Yes. Very strong. Very strong. Then correction is another form of guidance. And then instructions is another form of guidance.
+
+Don't forget our opening scripture. Jeremiah chapter 10 verse 23. What does it say? It is not. It's something you don't have.
+
+Lift your hand. Say it's something I don't have. It's something I don't have. How to direct myself? It's something I don't have.
+
+Yes, I don't have it. Nobody has it. It's not that you are inferior, but it's something we don't have. It is not in man to direct himself. So when you get AN OPPORTUNITY OR SOMETHING THAT IS GUIDING YOU, you should ALWAYS BE REJOICING.
+
+WOW, I'VE GOT SOMEBODY to to tell me what to do. If you ever have a shepherd or you even get to THE PLACE WHERE THE BIBLE IS GUIDING YOU, you should become very happy. Yes, you should become very very happy. Uh God is blessing you and taking you to the next level. Amen.
+
+Amen. Guidance. Everybody say guidance. Guidance. Wow.
+
+Wow.

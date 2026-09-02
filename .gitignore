@@ -1,0 +1,8 @@
+.DS_Store
+.obsidian/workspace*.json
+.obsidian/cache
+.context/
+pipeline/tmp/
+*.m4a
+*.mp3
+*.wav

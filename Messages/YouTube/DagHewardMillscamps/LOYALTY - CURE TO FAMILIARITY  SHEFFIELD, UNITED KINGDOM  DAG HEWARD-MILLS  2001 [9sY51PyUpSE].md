@@ -1,0 +1,59 @@
+---
+title: "LOYALTY - CURE TO FAMILIARITY | SHEFFIELD, UNITED KINGDOM | DAG HEWARD-MILLS | 2001"
+channel: "DagHewardMillscamps"
+platform: "YouTube"
+video_id: "9sY51PyUpSE"
+url: "https://www.youtube.com/watch?v=9sY51PyUpSE"
+year: 2001
+duration_min: 20
+source: "autocaption"
+match: "exact"
+---
+
+welcome to track number 25 of pasts of thousands C8 and 28 C8 and 28 all things all things means all things I said all things means all things I don't have anybody to look after my babies all things means all things work together it works the man and marriage is a fool it will work together for your good because all things means that I married it was dark it was midnight I woke up after 3 years and I realized man I've married a crazy guy all things means all things it's going to work out for
+
+your good pastor I married in the day but the one I married in the day she can't have a baby it's going to work out for your good it's going to work out for your good I have seen things working out for good it may not happen when you thought it would happen one day I went to raise the dead my friend's father was dead and they came they called me that his father was dead I said Matthew 10 verse 8 raise the Dead healed the sck cast out Devils freely have you received freely give
+
+so I said come and pick me let's go and raise him they came to pick me and They Carried me to a hospital far away when we got there I said in the name of Jesus he shall rise and we went into the ward where he was dead and they have tied his hand and there that was the first time I've seen one of those put a plaster on his chest and written his name on it and when the nurses were there I remembered what Jesus came to gyus daughter's house and he sacked all the
+
+people so I told the nurses all of you go out I was a man to raise a there I tell you look I tell you I was full of the Zeal and I had scriptures to back me I said raise the dead it's not a suggestion it's a command raise the dead command the dead so I told me and my brother looking for dead Deads all over the place to raise oh yeah I began to pray father we all pray they believe his son and his friend three of us in the room and we praying
+
+praying praying praying I began to lay hands at the point I realized that the dead was not rising from the dead so I remembered when Peter and John were going to the temple and they saw a man who was lame in his ankles and Peter and John said in the name of Jesus rise up and walk and the man didn't rise and so Peter took him by the hand and lifted him up and you see the man's hands were tied with a string and he was just lying there and I said brother when Peter and
+
+John went to the temple they took him by the hand so untie the hand so that we can pick him from oh man what have you been through I tell you some of you don't know what I've been through before I came here I I took him by the hand I said in the name of Jesus of nazare I command you to Rise Up from the dead and I pull okay oh man you see you can laugh about it now but I was going through various things because the next were outside and people were waiting
+
+and waiting for the performance of the miracle and the dead was not Rising but I remembered 8:28 that all things work together how do you think we went uh we had to open the door the nurses had to come in I had to go back we had to drive far back and as we were going in the car what do you think I was telling the guy I was encouraging them I was telling them that various scriptures were more scriptures were coming and I was stabilizing their mind that God was moving and that they shouldn't
+
+as we have commanded the word so shall my word be that good for the shall not return unto me void it shall prosper there in the thing that I have said even in the M he shall rise from the dead throughout the time that he was in the Mery I gathered a group We Gather a group praying said that the man is going to rise from the dead oh yeah daily week had prayer meetings and Faith one day somebody came from the M they had gone to visit the because in Ghana sometime you visit the
+
+dead we said that when they went to the moty somebody said that he was lying there and then he moved and I said man God has beg to do something about this dead that is being raised and we were very encouraged and we continued to believe listen to me as you go along your Christian Life you not understand why God does not seem to honor you after you have taken your facei and taken yourself you have done this you have served the Lord don't go crazy 8:28 will stabilize you I have lived to see and
+
+as I look back now I realize that if I had raised the dead I was a secondary school student I have not even gone to University I I'm coming to raise the dead and I ra this boy raises from the teenager I'm raising the dead I'm sure I would have become very proud oh yeah a lot of people would have heard of me would have come and gathered at my door and today what I know about God and what I know about the anointing and what I know about so is so different from almost 20
+
+years ago so God was even protecting me God is protecting you from various things today I should have married John I should have married James I should have even had a child at least i' have been okay don't go crazy I said don't go crazy God is going to work things out for your good amen am Hallelujah am how did we get into what we are talking about forgiveness forgiveness I said forgiveness Made Easy how many have read that book forgiveness Made Easy do you have any copies at the back all right okay so offenses
+
+amen don't lose your mind give me a copy of that book some people need to be healed come how much is it 23 pastors have read it One Pastor told me that's one of your best books a pastor one of the biggest I said this one of your best books and it is it will show you how to forgive amen am stage number three of disloyalty passivity what does it mean to be passive somebody should get me a drink what does it mean to be passive huh is there anything wrong in being passive how was
+
+listen look at me everyone how was Ura killed they went out fighting as they were all doing the witnessing some people just withdrew they didn't kill him they just became cool and gradually moved back and Ura was fighting in the middle and he gradually found that he was alone and then the guy surrounded him and then they killed him you can actually kill your church by being passive passivity means you are cool instead of active amen so to be passive is a stage of disloyalty recently I preached for 3 weeks on passivity in my church
+
+hey that's a stage of dis loyalty amen next stage huh critical spirit criticizing how many have criticized somebody before how many have stopped criticizing things how many have stopped criticizing how many still criticize sometimes raise your hand good be healed of criticism today don't criticize it criticism is manifestation of terrible arrogance write it down criticism is a manifestation of terrible arrogance amen do you suffer from a terrible arrogance is a manifestation of terrible arrogance and pride amen next one what is that political political stage of disloyalty what is the political stage of disloyalty where you
+
+involve people a lot of people are saying is that not so you say a lot of people are saying many people say we should have closed earlier many people are saying we are tired everybody thinks that this and that is when you start to talk to people amen am how many have been involved in political disloyalty before raise your hand only one person only two people okay how many are no more going to be involved with it only two people okay number three the next one what's the next stage of this loyalty open Rebellion Hallelujah
+
+open what Rebellion Rebellion is said open Rebellion am I is it open Rebellion no deception stage of deception I said a stage of what deception a stage of what deception people are deceived amen are people deceived sometimes are you deceived pray about it that you will not be deceived amen what's the next and the last stage what is open Rebellion when you attack your pastor amen Now give me a copy of this book loyalty and disloyalty and give me a copy of the tapes of loyalty here you are here how many don't have one of
+
+these how many have one very good how many have it but I've not read it you you have read not the I mean loyalty the book loyalty the same thing it's a little different but okay now I'm going to introduce to you listen there's no need for me to spend when I start preaching on loyalty and disloyalty we won't go home now is that not so instead of me spending 25 hours preaching to you about loyalty and disloyalty what I have done is that I have put together different loyalty messages and disloyalty that we've preached
+
+at different places and times on different aspects of loyalty and disloyal in two big packs this is loyalty volume one and this is loyalty volume two isn't it now each one contains tapes why it signs of disloyalty stages of disy remembrance six reasons why people do not remember meming satanic disloyalty seven reasons why Christians should avoid criticism the memory this one doesn't have any tapes in it hold this for me hold this for me it's the same thing this is volume two okay okay lessons of loyalty princip principles of loyalty all the different types of
+
+loyalty messages that there are are in these packs amen how many want to get one of these to take home with you only two people how many feel that it's important for you to have it instead of us to spend 27 hours preaching about these things get it and listen to it and you will be blessed amen and by Christmas time don't buy Christmas cards for people buy the tapes and go and give it to your friends or your pastor friends or whatever if you have a friend who is a pastor how many have got
+
+friends who is a pastor not in Lighthouse yeah these are the presents you should give them amen and they'll really be blessed Hallelujah let's stand to our feet and close you are already standing to your feet Lord I give you my heart I give you my soul I live for you alone every breath that I take every moment I'm aake Lord have your way in me this is my desire sing it for the last time this is my desire to H you Lord with all my heart Lord with all my heart I worship you all
+
+I I give you praise I give you prise Lord with all my heart that I adore is in you is in you Lord I give you Lord I give you my heart I give you my soul I live for you alone every breath that I take every moment I'm aake Lord have your way Lord have your way I Give You My Heart Lord I give you my heart I gave you my soul I live for you alone every breath that I say every moment I'm aw Lord have your way in me this is my desire
+
+this is my desire to I you Lord with all my heart my heart I worship you all I have Within Me Lord all I have within I give you praise I give you praise all that I adore all that I adore is in you yeah Lord I give you Lord I give you my heart I gave you my soul I live for you alone every breath that I take every moment I'm aake Lord have your way in me Lord I give you my heart I gave you my soul I live for you alone every breath
+
+that I take yeah every moment I'm aake Lord have your way Lord I give you my heart I give you my St I live for you alone every breath that I take Give the Lord a away away Lord have your way in me Lord I give you my heart give you my soul I live for you alone I live for you alone every breath that I take every moment I'm aake Lord have your way in me Father we thank you tonight have your way in US Lord we don't want to perish like mik perish in
+
+barness and dryness in bleakness because of familiarity Lord keep us in the spirit of loyalty Lord in Jesus wonderful name and everybody said amen amen tell somebody well done my brother

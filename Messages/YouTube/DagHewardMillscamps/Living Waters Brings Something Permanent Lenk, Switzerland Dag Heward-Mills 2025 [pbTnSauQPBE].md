@@ -1,0 +1,337 @@
+---
+title: "Living Waters Brings Something Permanent | Lenk, Switzerland | Dag Heward-Mills | 2025"
+channel: "DagHewardMillscamps"
+platform: "YouTube"
+video_id: "pbTnSauQPBE"
+url: "https://www.youtube.com/watch?v=pbTnSauQPBE"
+year: 2025
+duration_min: 67
+source: "autocaption"
+match: "exact"
+---
+
+Father we are grateful guide us in Jesus name. Amen. Amen. Now some people are saying that the Italianos are not yet here. So we should wait till we do outreach in Italy before we do the translation.
+
+Or do you want the Italian translation? So, let's vote Italian or no Italian for today. Italian How many want Italian? How many want Italian next time? How many want Italian this time?
+
+With a small Italian. What are they saying? Next time. Next time for her. Right.
+
+Okay. Father, thank you for your mighty power, your mighty spirit leading us in Jesus name. Amen. Amen. Amen.
+
+Okay, you may be seated. Now, number one is that the living waters is the Holy Spirit. Number two is that the living waters brings something permanent. Amen. One of the key things you must watch out for are things that are short-lived and things that last long in the spirit.
+
+things from the spirit are eternal. Amen. Amen. Turn to 2 Corinthians chapter 4. Beautiful.
+
+Wonderful. 2 Corinthians chapter 4, it says in verse 17, for our light affliction, which is but for a moment, workketh for us a far more exceeding and eternal weight of glory. While we look not at the things which are seen, but at the things which are not seen. For the things which are seen are temporal, but the things which are not seen are eternal. Then Jesus said, "Whoever drinks drinks this water will thirst again.
+
+But whoever drinks the water that I give him will never thirst again. Amen. Amen. So, one of the things that helps you to know things that are from God are things that don't finish and things that don't end and things that don't last for just a short time is one of the ways you can know that this thing is from God. So that is why you see that the church that starts and after 5 years is no more there or a church that starts and after a few years is gone is one of the ways to see whether God was doing something because things that God does are forever.
+
+Ecclesiastes chapter 3:14. If you check Ecclesiastes chapter 3:14, it says, "I know that whatsoever God doeth, it shall be forever." If God is the one doing it, it shall be forever. Nothing can be put to it. Nothing can be taken from it. For God doeth it that men should fear him.
+
+God is is help. That's from God. That is what God is doing. It is it last for a long time. It's forever.
+
+Look, look at your life and uh let us see the things you have tasted in this life and see how long did the satisfaction last for. Let's start with food. What did you eat last week? What did you eat last week? Thai.
+
+Thai. Thai. Thai food. Thai curry. Ah.
+
+With rice. Yes. Are you hungry today too? No. No.
+
+No. No. You're not hungry? So the Thai food you ate last week has ended up till today? No.
+
+No. No. So you are still Have you eaten today? Yes. A bit.
+
+A bit. A bit. Why didn't you rely on the Thai last week's Thai food? Because it's finished in your stomach. It doesn't last for a long time.
+
+True or not true. What about Coca-Cola? Who has Coca-Cola? has drunk Coca-Cola before. How long?
+
+Coca-Cola. Can you drink another Coca-Cola today? It doesn't last for long. You say, "Can I have some more?" True or not true? Yeah.
+
+Doesn't last for long. How you know something doesn't last is when you get tired of it. You get tired or you want a change. You don't want to drink the water anymore. You want to drink something else.
+
+What about love? How many have been in love before with somebody? How long? A couple months. Couple of months.
+
+And you were tired already. And you wanted another love. Did you want another love? Yes. Too much.
+
+SO, DID YOU GET ANOTHER LOVE? I was searching for it. You were searching for another love. finish already. Two months.
+
+What about you? Yes, please. You also had love. HOW LONG? HOW LONG?
+
+Couple of months. Couple of months love. How about you, my dear? I've not been in love. YOU'VE NOT TASTED LOVE BEFORE.
+
+SHE HASN'T TASTED LOVE BEFORE. She's yet to taste what you've tasted. What about on this side? Have you tasted love before? Have you tasted love before?
+
+How long? How long was this love? Huh? Yes. It lasted for years.
+
+Did you marry your love? NO. PLEASE. NO. YOU DIDN'T MARRY YOUR LOVE?
+
+WHY DIDN'T YOU MARRY YOUR LOVE? NO. I haven't married. I I not married. I know.
+
+Yes. Will you marry this new this love? Yes, it's God's will. If what? If it's God's will.
+
+If it's God's will. What about kisses? What about kisses? How many have tasted a kiss before? No kisses on this side.
+
+How long did the kiss last couple of minutes? Couple of minutes. And you were ready for another kiss. Yes, please. You see Jesus said, "Whoever drinks this water, you'll need it AGAIN VERY SOON." THAT'S THE DIFFERENCE BETWEEN WHAT I Jesus was saying that's the difference between what I will give you and what you will get.
+
+What you get you will need it again and another again and another and it will keep on finishing and you will always be needing more. What about sex? Sex. Have you tasted it before? Have you tasted it before?
+
+Yeah. I want to know how long it LASTS before you need another one. It's like it's finished. What about this side? Have you tasted sex?
+
+NO. OH, I should I should go to that side. This side know about sex. This side. This side know more about sex.
+
+They say you know more about sex. This side at the back there. This side. This side. Have you tasted sex?
+
+NO. NO SEX. WHAT ABOUT KISSES? What about kisses? What about kisses?
+
+They don't translate to German. They don't understand. Come. Come with me. You guys come with me.
+
+Why do you stay over there when I'm moving around? These people, are they French or German? German. Okay, come. When when you tasted sex, how long did it last?
+
+Like how long was the sweetness and then you wanted more? I haven't TASTED IT. YOU HAVEN'T TASTED IT. Do you want to taste it now? Now I don't want to taste it.
+
+NOW YOU DON'T WANT TO TASTE IT. But what about kisses? Maybe. Maybe% let's go down this way. Let's go down this way.
+
+Samson, come. Samson, come. Samson, come. Have you tasted kisses before? I did.
+
+Yes. How long did a kiss last and before you needed another kiss? COUPLE OF MINUTES. COUPLE OF minutes and then you needed another one. What about sex?
+
+I used TO DO IT. HOW LONG DOES IT LAST? THE feeling a weekend. A weekend. And then you need another weekend.
+
+Next it last for what? Next day. NEXT DAY HE NEEDED THE NEXT DAY. Samson needed the next day. And after the next day went again.
+
+Mercy. Mercy. The next day. Yes. So it doesn't last very long.
+
+No, it it don't. What about alcohol? Alcohol. Have you tasted alcohol here? Have you tasted alcohol?
+
+What's the alcohol? What do you call here? Alcohol. Beer. What do they drink here?
+
+Alcohol. What do you drink? Vodka. Huh? Meister.
+
+Yeah. Have you tasted? No. Never. Never.
+
+BUT VODKA. VODKA. VODKA. VODKA. VODKA.
+
+WHEN YOU DRINK YOUR VODKA, HOW LONG does it last? Vodka drinks. No, because I never got drunk. I just took like few shots, but I never got drunk. Yeah.
+
+And then you needed another one again. No. No. Because I don't really like alcohol because my mom wait. I don't like alcohol because my mom actually died because of alcohol.
+
+Your mother died because of alcohol. Alcohol. So he doesn't like alcohol. What about you? I used to do it.
+
+When you drink alcohol, which which alcohol were you drinking? Everything such as what? Give me five. Vodka. Vodka.
+
+Beer. Beer. Whiskey, liquor, everything. Everything. So when you drink, how long does the feeling last for?
+
+Half an hour. Then you NEED A REFILL. AH, ONLY HALF AN HOUR. Can you imagine if when Jesus Hello. Shh.
+
+Hey. Hey. Can you imagine if Jesus loves you and gives you his love and his living water and then you say, "Oh, after half an hour, I need another Jesus. You need it again tomorrow. What about smoking?
+
+I I have to be honest. I used to smoke eight joints a day. Eight a day. So joints on target. After one, how many minutes later you need the next one?
+
+Depends. Maybe 30 minutes. 30 minutes. After the 30 minutes, 1 hour is finished. I NEED MORE.
+
+I NEED it again. I NEED IT TOMORROW. I need more. There are people who are petting. Do you have petin addicts here?
+
+Pidine. What? What drug do we have here? Drugs. Drugger.
+
+Before Before I was in jail, I was like I was a criminal and I was in jail. I I met Jesus and now he he changed my life. Wow. Yes. Yes.
+
+Yeah. So, you were drinking all types of waters, isn't it? In the world, everything. Everything. Smoking, drinking, what else?
+
+Women, money, money, guilt, everything. Cars, women, everything. Everything. Violence. Violence was my drug.
+
+Violence was your drug. I needed it. Yes. I needed to hurt people to feel good. Yes.
+
+You needed you needed to do what to people? To hurt people. To beat them down. To beat people. When he beats you, he feels satisfied.
+
+But how long does it last and you need to beat another person? Not very long. Not very long. He needs to beat somebody else. Hey, listen everybody.
+
+Hello. Hello. Hey. Hey. Don't talk.
+
+Listen. This is the difference between something coming from God and something coming from the world. Almost everything that Satan offers you, I tell you, it will take half an hour. It will last 1 hour. It will last a minute.
+
+It will be you need one after 30 minutes. After 1 hour, after tomorrow, after next week and next month, you need more. You need more. You need more. You need more.
+
+You need more. Until you see you are crazy. Yeah. You have a women. You have all types of women.
+
+Small ones, big ones, brown ones, white ones, white, black, white, yes. Spanish speaking, English speaking, italiano, still you needed more. I was empty. You were still empty. YOU WERE DRINKING BUT still empty.
+
+Drinking, you never full. NEVER FULL. THIS IS THE DIFFERENCE. THE BIG BIG BIG DIFFERENCE. This is WHAT JESUS WAS EXPLAINING.
+
+ANYBODY who drinks this, you will need more and more and more and more and more and more. and let me let me tell you one of the tricks. Do you know that with drugs, okay? There is like say cocaine, there is a dose, there is a dose that will stop your heart. There is a dose like 5 milligrams, 10 milligrams, 8, 20, 30, 40 mill, 80 milligrams.
+
+There is a dose that will stop your heart. Let's say maybe 80 and your heart will stop and you are dead. Then stopped thine heads. So when you take it nobody knows you see when you put a powder nobody knows what is this dose because it's powder. So you don't know whether you are taking 10, 15, 20, you don't know whether you are taking 30, 40.
+
+Nobody knows. You don't know. Nobody knows. But the day you take and you cross, that's it. You take it and then that's your that's why you say people are dead from drugs.
+
+It is because they took that day the dose that will stop the heart. The name did mention milligram. And then every time you take like alcohol, your body has some enzymes which convert the alcohol back to normal. Okay? So each time you take the enzymes work and then they are in the system.
+
+So the next time you take alcohol, you need a little more because the enzymes are waiting for the alcohol because the first time alcohol the enzymes level has come up. So next time you need a little more and a little more and a little more. That's why one person can sit and drink a whole bottle and somebody will just even smell it and he's drunk. But you can drink a whole because your enzymes are more and more and more until you take the dose of alcohol that will kill you also. Alcohol.
+
+Alcohol drinks. bundle. Flash alcohol. Yeah. Yeah.
+
+So, Satan has every time have this, taste it, and then after you taste it, you need more. After you taste it, you need a little more. After you taste it, I need more and more and more until you take the one that kills you. Until you steal the one that they shoot you, until the day that your desire leads you to your death, then he's finished. He's got you.
+
+business to end the gate. Jesus said Jesus said the water that you get from this well when you drink it you will need more but the water that I give you when you drink it it will be for everlasting life it is living waters that's why we say come to Jesus he will give you THE LIVING WATER THAT'S WHY WE SAY, I DON'T NEED NO COCA-COLA. I don't need ordinary water. All I need is the living water. All I need is Jesus Christ.
+
+Hallelujah. Amen. Have you found the living waters? Of course, I I do go to school. And wait, wait, wait.
+
+Um, first of all, I have to shout out to my Reverend Kenneth. Reverend Kenneth. Where's Reverend Kenneth? Ah, God bless you. Um, he was visiting me in prison and this is the first um time I came in touch with the Bible and I was reading it and till the day I came out it's like three months ago.
+
+Um, I go every week to church. I go to schools and teach the younger people how to don't end up like I end up. And Jesus is the the thing that that fills me up. And yes. Wow.
+
+Wow. I I've changed your name to Samson. I'm changing your name to Samson. My name is Samson. Yes.
+
+God is going to use you. God used Samson and God will use you. Samson got better. What's your name? Gideon.
+
+Neio. Nio. Were you also in prison? No. But you were beating people.
+
+Yes. Listen, listen. Are you listening? He used to beat people. But now I want to tell you something.
+
+God wants you to be strong. Like very strong. Because you see, when you fight physically, it's useless. In this world even technology has made fighting useless. A little child can hold a gun and say kneel down.
+
+Yeah. Now spiritual strength, spiritual strength is something completely different. Yeah. You know when you are strong spiritual many people will listen to you have power. All these people here, all these people here, if I say to them, kneel down.
+
+Kneel down. Kneel down. Look at Look at my power. Look at this. It's more than your power.
+
+It's more than your power. I look at all these beautiful ladies. I say, "Kneel down." They all kneel. Kneel down. I don't have to fight.
+
+Did I Did I touch any of you? Did I Did I give you blows to make you kneel down? I just said kneel down. No. You know this is the only job where even the king's wife, the queen will even kneel down.
+
+If you tell her kneel down. One day I went somewhere to preach and then the king the king's wife came to see me. And I told her, "Kneel down. I want I want to pray for you. Kneel down." And the queen, she kneel down.
+
+THERE'S POWER HERE. DO YOU WANT THAT KIND OF POWER, MY BROTHER? SO, you see, God is going to turn your strength into a spiritual strength and you're going to be a strong man for Jesus. I'll call you Peter. Because Peter in the Bible, he was a fighter.
+
+When they came to arrest Jesus, he started fighting with the people. But this is not the way to fight. And when a little girl asked him, "Do you know Jesus?" He said, "No, I don't know her. But later he turn around he became spiritually strong. So I call him yes from today be a rock hard rock.
+
+And what what do you do? What work do you do? Do you work? Are you working or students? Where do you work?
+
+Paving construction. You are a builder. Empower them. Do you want to build for God? Huh?
+
+Yes. What What did you used to do in the past before you knew Jesus? everything. Drugs. I used to go out with women, do all kinds of stuff with them and and you were you were not tired of it.
+
+You needed more. Of course, I wanted it like over and over. But it came to a point where it just stopped when I met my pastor Kenneth. PASTOR KENNETH. KENNETH AGAIN.
+
+God bless you Kenneth. God bless you Kenneth. What sign it is? Wow. Now you you are going to be a builder for Jesus.
+
+And I'm going to give you a name. I don't know why, but I'm going to give you a name. And the name I'm giving you is Paul, the master builder. I know your name is Paul. God is going to use you to build this house.
+
+Many of you, you are thinking that when you are old and you have gray hair, God will use you. No, no, no. Like this. No, no, no, no. Yeah.
+
+God, you see living waters, God is going to use you to serve people. said, "Have a drink. This one, when you drink, you will never be thirsty again." This is it. This is it. This is it.
+
+Even marriage is another drink. People drink and they still want more marriage. Yes, they want more love. There's nothing in this world that can satisfy Jesus. That's why we say give your life to the Lord.
+
+Give thine labor. Give your life to the Lord. Give him your life. Give him thy labor. Give your life.
+
+Jesus. Give your life to him. Keep thine labor life to him. I was not always a Christian, you know. I used to laugh at Christians.
+
+Sorry. Yeah. Not mock laugh. Not mock laugh. I used to laugh.
+
+Yeah. Like I found them so strange. What are they doing in this room? I saw them praying like what is that because I only knew you pray in your mind. Then I found Jesus.
+
+I found Jesus. Living water 15 years old. 15 15 that was all and my whole life is changed I am over 60 years old now I'm more than 60 years old do I look 60 years old yeah Jesus is the living water he will give you life so your Life is about to start. Samson, Samson, God is going to use you. Peter, God is going to use you.
+
+God is going to use you. Take off your heart. Take off your heart. Jesus, let me lay hands on you. Jesus, thank you.
+
+Thank you. You bless him, Lord. You use him, Jesus. I pray for him, Lord. Change his life forever.
+
+As somebody came to him, send him to people also. I pray for him, Lord. Thank you for this Peter. Use him, Lord, as you never use anyone. I pray for him Lord and for Samson Lord.
+
+I pray for him. Use him Lord. Anoint him Lord. Bless him to be a blessing to other people for your blessing. Thank you for your blessing for Paul.
+
+Jesus name. Amen. Amen. Bless you. Now, sorry for those of you who are on this side.
+
+We we Okay. Yeah. Come to Jesus. Come to Jesus. Yes.
+
+Everywhere in this world, the difference between things that the world offers you and the things that God does is how long it lasts. And you'll notice that when God does something, it is eternal. It is forever. He satisfies you. Yes.
+
+That is why you have a girl, you need another girl. You need another girl. you need another girl. I remember one Asian girl, she said to her boyfriend, "I've never had an African boyfriend. I I I'm enjoying you as an African boyfriend.
+
+I've had other Asian boys, but this is my first African boy. Wow. Africana. Yes. Oh, yeah.
+
+People say, "I I I want to have a I want to have a a Spanish boyfriend." Hispanic. I want a Italian girlfriend because I want to I like the language. I like the language. Why? How do you say beautiful?
+
+Nice. Say it again. I want to hear this in my in my room all the time. Somebody said, "I want to have an African man because I I want to feel the African African power, black power." Someone said, "I want to marry an African girl because I want to feel the I want to feel the beat of the African African fear. African spirit.
+
+It never ends. It never ends. Because truly no number of girls can ever ever be enough for a man. You know there's a saying even in a there's an a saying in a a country that one woman cannot satisfy a man. Yeah.
+
+They have a saying it's a proverb. He said a single woman can is not enough for a a man. He needs many. It never end. Look at Solomon's 1,000 1,000 girls.
+
+A thousand is a lot, you know. That's right. Oh yes. Oh yeah. But what Jesus gives.
+
+Now, now listen, don't be don't be surprised if you get married and you are not satisfied in it because it's also one of the earthly waters. It's not the same as living waters. Daniel, do you understand? Don't be surprised. It's it's different from living waters.
+
+Being married is different from having living waters. There are many people who marry and they still want something else because they were thinking that oh my wife is going to make a beautiful sausage for me and beautiful uh salad and this and and and she doesn't even know how to make salad. Yes. Sh. Many of the beautiful girls here who want to get married, they only know how to buy food from negro and and and heat it up.
+
+Yes, they don't know. They don't know anything. So when you marry, you may BE THINKING THAT OH NOW that I am married, I AM RUSHING BACK HOME TO HAVE A BEAUTIFUL WARM DINNER AND IT'S GOING TO BE SERVED WITH THE HOUSE WILL be smelling nice with wonderful aromomas of beautiful dishes and when you go home there's nothing. SHE LOOK AT YOU SAY WHAT ARE WE EATING? What are we eating you two?
+
+What are we eating? Thank you. She may tell you, but we all went out to work. What? Why are you asking me what?
+
+Wait, did you not go to work? I also went to work. How you asking me what I'm going to eat? What we are going to eat? Yes.
+
+Yes. You may have thought to yourself, this beautiful smiling creature, when I marry her and I put her in my bed, I am going to have a living worm that is moving and moving like a worm in the bed. Woo! Woo! Woo!
+
+Woo! But when I married her, she looked more like a rod of Moses, just in the middle of the bed as a a rod of Moses. Very stiff and very hard. A worm, isn't it? What is worm?
+
+Yes. for Moses is stifled. Mo the moise. Oh, and your heart will be broken. That is why Jesus did not bother with most of the things on this earth.
+
+Jesus didn't have even a mobile phone. Jesus never lived in a hotel. Jesus never Jesus never sat on a plane. Jesus never had a driving license. Jesus never had a beloved.
+
+Jesus didn't have anybody who says I love you baby. Jesus never had anybody telling him, "Baby, I want a cuddle. Baby, cuddle. Do you know what cuddle is in French? Cuddle.
+
+I want to cuddle. Cuddle. Not hard. NO. CUDDLE.
+
+PUSH. I WANT A CUDDLE. CHECK THE DICTIONARY MEANING OF CUDDLE. Not caress. Not caress.
+
+Do you have cuddle in German? Cush. Cush. Cush. What is the meaning of cuddle?
+
+from Google translate. What does it mean? Jesus didn't bother with any of that. No beloved, no wedding, no girlfriend, no sex, no honeymoon. Jesus never at he never came to Switzerland.
+
+Nothing. Nothing. Nothing. Nothing on this earth. Nothing.
+
+No Swiss chocolate. Yeah. Said I I want to go back. I want to go back to my father's house. This place.
+
+This place is not my home. THIS world is NOT MY HOME. I'M JUST PASSING THROUGH. THIS world is not my home. I'm just passing through my treasures.
+
+I laid up somewhere beyond the blue. Oh yes, the angels back on me from heaven's open door. And I can't feel at home in this world anymore. Wow. Oh Lord, you know I have no friend like you.
+
+I have no friend like you. Then Lord, what shall I do? The angels beckon me from heaven's open door and I can feel at home in this world anymore. Now Jesus Jesus when he saw a lady and his she had he said where's your husband? Go bring your husband.
+
+And the woman said I'm not I'm not I'm not I'm not married. And Jesus told her that's good you said your number. You have five five guys. Simon Simon Simon Jack Toronto Jack Toronto Jack Toronto James James Huh? Steven Stevie Stevie Stevie and Carl who Carl Carl, Carl, you had all these guys.
+
+And Jesus said, none of them were able to satisfy it. It is when he was talking to this woman that he said, I will give you something to drink. You will not be thirsty again in this world. It was when he was talking to this. Yes.
+
+And the woman was shocked. She thought Jesus was like one of those guys. And Jesus was Jesus was going to start wrapping said, "Hey, it looks like your face is familiar. Jesus was one of like one of those guys. Hi baby.
+
+Hey baby. Hey baby. You're looking nice baby. You can you fetching some water for somebody baby. Baby, where do you stay, baby?
+
+She thought he was he was going to be number six. Jesus said, "No, you don't understand. I'm not here for that kind of he thought she thought Jesus was going to start texting him." Um, what what do they what do they write on the text? Uh, hello there. What?
+
+What are you wearing tonight? What are you wearing tonight? She thought Jesus wanted to do a video call with her. Jesus, I'm not I'm not Tell your Tell your neighbor. Listen, you don't understand who I am.
+
+I'm not here for video calls and I'm not here for I'm here to give you some living water. You know, LIVING WATER CHANGE YOUR LIFE to give you living water to change your life. Let's go. Let's go. Let's go.
+
+Yeah. Those of you who are expecting the young men to send you funny messages, Bizar, bizarre, bizarre. These guys right there are anointed. Tell your neighbor, don't expect any funny text messages about your body or about sex, sexy things, sexical messages. Don't expect meages.
+
+How many boys are you going to take off your clothes for? Okay, I think I've closed. Let's go. Yeah. How many FEELINGS WILL YOU WILL YOU NOT BE TIRED OF IT?
+
+EACH TIME YOU do these things, how do you feel satisfied? YOU DON'T FEEL SATISFIED. JESUS IS TRYING TO GIVE YOU SOMETHING THAT satisfies you. Listen, no boy can satisfy you. No girl can satisfy, no medicine can satisfy, NO DRUG CAN SAT, NO alcohol can sat, no relationship, no activity, not there's nothing in the world that can ever satis only Jesus can satisfy.
+
+for a satisf Listen, taking drug just make you go crazy. It will make you run. YOU IMAGINE HOW BIG A train is. and you want to jump in front of the train like this HUGE TRAIN to come over you. What is it?
+
+What is it? It's like he's trying to lead you to something that you can NEVER HAVE UNTIL YOU ARE SO HOPELESS. NO, NO, NO. For me when I met Jesus, I I feel Jesus is every I am still. Where is she?
+
+SAMANTHA SING JESUS I LOVE YOU. JESUS I need you. I need you. WHERE IS SHE? JESUS, I LOVE YOU.
+
+JESUS, I JESUS, I want you. Sing it. Start. Start. Start singing.
+
+Start. Jesus, I love you. Jesus, I need you. you and all of your glory. I can't get I can't get enough of you.
+
+Jesus, I love you. Jesus, I need you. Jesus, I feel you. and all of your glory. I can't get enough OF YOU.
+
+I CAN'T GET ENOUGH OF YOU, JESUS. I love you. Jesus, I need you. Jesus, I feel you. and all of your glory.
+
+I can't get enough of you. I CAN'T GET ENOUGH OF YOU. For the last time you Jesus, I love you. Lift your hand. Jesus, I love you.
+
+Jesus, I feel you and all of your glory. I can't get enough of you, Jesus. I love you, Jesus. I love you. I need you, JESUS.
+
+Jesus I feel you and all of your glory. Now sit down everybody.

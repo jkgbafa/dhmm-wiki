@@ -1,0 +1,375 @@
+---
+title: "ONE OF YOU IS A DEVIL DUNAMIS INT. GOSPEL CENTRE ABUJA, NIGERIA 2025 DAG HEWARD-MILLS"
+channel: "DhmmInternationalMinistry"
+platform: "YouTube"
+year: 2025
+source: "autocaption"
+---
+
+Hallelujah. What a blessing it is to be here. Thank you, Dr. Paul, your beautiful wife, for welcoming myself into this amazing Glory Dome. Glory Dome.
+
+What a blessing to see you all here. This must be the biggest church in the whole wide world. Give the Lord a mighty clap offering for the great things he's doing here. Amen. And thank God for this amazing pastor's conference which we are part of.
+
+Amen. Let us pray for a moment. Father, we are in heaven. Thank you for today and thank you for the opportunity to share your word. I pray that you touch our hearts and stabilize our hearts in your holy word.
+
+Thank you for every ministry that is represented, every church. Thank you for your mighty power in the ministry. We give you thanks. We give you praise in Jesus name. And everyone shouted, "Amen." Amen.
+
+God bless you. You may be seated. Today I want to share with you a very short message tonight because we have just a little time. And um I want to introduce to you before I start I want to introduce a YouTube channel called uh Dwood Mill's channel the YouTube loyalty channel where you can find many of these messages very important so I'm waiting for the guys to display if you have it ready. Amen.
+
+a YouTube channel. All right. Um, so if you go to Dwood Mills, you round round things. Yes. Each of the round things is a channel and it has many many messages and one of them is called is a loyalty channel.
+
+You can't see very clearly. So those of you who are interested in the ministry loyalty and disloyalty channel right there and when you go there you find a lot of conferences and camp meetings on these topics loyalty and disloyalty. Hallelujah. So loyalty and disloyalty is very very important. Proverbs 21 verse 21.
+
+Proverbs 21 verse 21. Uh, ERV erv version, please amplified version. He who earnestly seeks righteousness and loyalty, life, righteousness, and honor. If you seek after loyalty, you'll find life, righteousness, and honor. So, Dr.
+
+Paul has been laboring in Abuja, in this country, and in the world. And without having loyal people, you cannot build a church like this. And in spite of all the great efforts that we make to serve the Lord, you find out that there are people who seek to destabilize the work of the Lord. So today I want to share with you uh and al also want to introduce before I I I forget all the books that we have available are available on uh this website where you can every single one of them. Can I have the macarios books of 100 books?
+
+That's the um website www. dagbooks.org. All right, please kindly lift it up. I'm I was trying to show show. Yeah.
+
+No, stand right here. Lift it up. So that is a books macarious library 100 books, but you can have all those books you can download free of charge. There's no charge for these books. You can get them, put it on your iPad, your phone, any uh gadget you have.
+
+It's a blessing because this is not a business. This is a ministry. We are trying to help you to have what you need. Amen. So that's the macaros.
+
+If you want to buy the physical books also, they are also available. Thank you very much. Amen. Now tonight I want to share with you on a message entitled one of you is a devil. One of you is a devil.
+
+These are not my words. These are the words of Jesus. John chapter 6 verse 70. John chapter 6 and verse 17. Jesus answered and said, "Have I not chosen you?
+
+and one of you is a devil. King James, please. King James. Have I not chosen you and one of you is a devil? All right.
+
+So did Jesus Christ speak such words to a small group of his disciples? Is it because there are human devils? Can a devil be a human being? Well, in the Bible, the word there is a word in the Greek diabolos and that word is translated into the word devil. And 35 times that word is used to describe a demon or the devil.
+
+But on three different occasions, the word diabolos is used to describe human beings. All right? And so you notice that Jesus Christ spoke to Peter as a devil. If you remember in Matthew 6 22 and 23 which is a the devil can be in somebody so much that the person becomes a physical devil. In Matthew chapter 16 verse 22, Peter took him aside and began to rebuke him, saying, "God forbid it, Lord.
+
+This shall never happen to you." But he turned and said to Peter, "Get behind me, Satan, for thou art a stumbling block." So you have to be very careful as a disciple in this church or in any church. If you don't take time, you can become a devil. And Jesus Jesus, the devil knew Jesus from eternity. And as Jesus was looking at his disciples, he realized that one of them reminded him of Lucifer in those days. And he said, "Hey, one of you is a devil." Lift your hand.
+
+Say, "I will never be a devil. In the name of Jesus. Yes. So you must decide I will never be a devil. Number two, Jesus Christ spoke about Judas and he said about Peter, Satan, get thee behind me.
+
+Then the second time he spoke about Judas and he said one of you is a devil. All right? So you you must realize that even though you've been chosen and even though God may use you and even though you may be in the house of the Lord, if you don't take care, you can become a devil, a literal living devil. And I'm going to show you what it means to become a devil. And then we we just pray.
+
+Jesus number three dealt with the Pharisees as devils. When he saw many of the Pharisees come, Matthew 3:7, he said, "Oh generation of vipers, vipers or snakes, that old," he said, "you guys, you've been in the church for a long time. You have become vipers and serpents." That's the third time in the Bible. Then Paul also warned pastor's wives not to be devils. This is one of the times in the Bible the word uh diabolos is translated.
+
+It was applied to the pastor's wife in 1 Timothy chapter 3 verse 11. 1 Timothy chapter 3 verse 11. It says, "Even so must their wives be grave, not slanderers." And the word slanderer is the word again diabolous. And I'm sure the translators were afraid to translate it as it was into English because I'm sure they their wives will not be happy with them when they go home. So they translated it into the word slanderer but because they were afraid of their wife to make such a translation that Paul was saying that wives should not be devils.
+
+I wrote a book, The Beauty, the Beast, and the Pastor. Unfortunately, there are wives whom Satan uses because your wife is the only person who can be a rebel whom you cannot dismiss. So, it gives them a lot of power. And then the last one, Paul warned that older women, he used the same word in Titus chapter 2 verse three. He says, "The aged women likewise that they be in behavior as becometh holiness, not false accusers." And that is the word diabolos again.
+
+So 38 times, all right, it's translated devil. Devil, devil. And it applies to the devil. But then a couple of times it's translated devil, slander or devil, but it applies it to other people. Now what does it mean to be a devil?
+
+Turn with me to First John chapter 3 if you have a Bible. And verse 8, it says, "He that committeth sin is of the devil. For the devil sinnth from the beginning, and for this purpose the Son of God was manifested that he might destroy the works of the devil." Lift your hand and say, "The works of the devil are destroyed in my life. Now, one of the works of the devil that is destroyed in your life today is the work of betrayal and disloyalty and wickedness. Amen.
+
+And so the Bible says the devil sinnth from the beginning. That means that the devil is a sinner. Satan is basically a sinner. Satan is a sinner. He's a created being who has sinned and he is a sinner and he's sinning all the time.
+
+Satan is a sinner. You know, we we always confess our sins and say we are sinned. But the first sinner is the devil. He is the sinner and he's tried he's tried to get us to be involved in sin. So Satan wants to make everybody here sin the way he sinned.
+
+And what was his sin? So today I want us to look at the sins of the devil. Amen. So that you will not be a devil either in this church or whichever church you are from. Make sure that you never become the one whom we can say oh this guy is a devil of this church or this guy is the one who reminds us of the devil more than anybody else.
+
+So sin number one, number one, the sin of the devil, the first sin is conflict with the authority. Conflict with authorities. In Isaiah 14 verse 13, it says, "Thou has said in thy heart, I will ascend into heaven." Now, how can you know somebody is a devil? because he like he said I will ascend when somebody is a devil he behaves exactly like the devil and rises against authority just as the devil did so anybody who rises up against God's servant against the one whom God has put there just as the devil did he says I will ascend I will ascend the scripture he said I will go higher So you don't just go higher.
+
+And he says, I will sit and exalt my throne above the stars of God. I will sit also where Dr. Paul is sitting. I will sit in the front. I will sit in the pastor's chair.
+
+I will be the leader. I'll be a leader myself at all cost and start to have conflict with those who are there already. So watch out. Those of you who feel you are mature and you are just in conflict with the authority. You must know that conflict with authority, it started with Satan.
+
+It started with the devil. making war the devil and his angels and the great dragon was cast out and his angels were cast out with him. So Satan has imparted that nature of creating and stirring up war and conflict in a church that was peaceful. When you come to a church like this, we are all seated here. This is a very doesn't mean that there will not be such things here or or wherever you are from.
+
+You would have thought that the great works that God has done will silence every rebellious person. But no, greatness and the great works of God doesn't silence the devil. The devil has no respect. You see the devil said I will ascend to the throne of God. So he has no respect for anybody.
+
+In fact, one of the signs of a demon working in somebody is the lack of respect and the lack of honor because the devil has no respect or regard for the creator of the universe. And he said, "I will arise. I will be where you are." A person who causes trouble in churches. Look at the devil. He said he thought there was war in heaven.
+
+I mean, imagine that. Why should there be any conflict at all in a church like this or in your church? Why should there be? Because of the presence of a devil and because of the presence of certain people who become literal devils. So when Jesus was looking at the disciples, he said, "One of you is a devil.
+
+one of you. Many times such people would even sit on front rows. No, don't be offended. I I don't know. I'm not giving you a prophetic word.
+
+It's not a prophetic. If I have a prophetic word, I will tell you. But I'm just telling you that it's something that happens because to be Judas, you see, I have a book called Who is Judas? To be Judas, you must be close. If you are not close, you cannot be a Judas.
+
+It's a qualification to be a Judas. Tell your neighbor to qualify. To qualify to be Judas, you have to be close. If you are not close, you don't qualify. Judas is close.
+
+He's personal. Yes. Why should there be fighting in a church conflict? This is the sin of the devil. The Bible say he sinned from the beginning and he continues to sin.
+
+He brought a problem where there was peace. That's why Jesus said one of you is a devil. And today in many churches you see people They are doing exactly what Lucifer did. Tell your neighbor, I know you will never be a devil in this church. Hey, number three, the sin of a devil, the sin of Lucifer.
+
+Opposing opposition. opposition. 1 Peter chapter 5 verse 8 the Bible says be sober be vigilant because your adversary or adversary means opposer opposer opposing God's servants hands this of the devil. So when we say one of you is a devil, it means one of you is the opposition to the ministry and to the servant of the Lord. Watch out for people specialists at opposing God's servants.
+
+I wrote a book called Those Who Honor You. Instead of opposing God's servants, your duty is to honor those who honor anybody who honors Dr. pollinator. He has not asked me to say what I'm saying but I'm just using them as example because I don't know what other example. Okay, give me an example so that I use your example.
+
+Just give me an example so that I use your example. I'm saying that to build a house of God like this for God if you are not anointed or graced by God if you cannot do this. This is not I mean a human something a man just get up I'm going to do this and that. The only way that you have to relate with somebody like that is to honor the person. Remember Jesus could not do miracles because they did not honor him.
+
+That's when he he preached that famous verse. He said that a prophet is not without honor except in his own country. Then he said he couldn't do miracles. The next verse says that he could not do miracles. So there is no power and there's no power transmission where there is no honor.
+
+there that at that place there will be no honor where there is no honor there at that place there's no power so you can see a very great person walking around where he is not honored the power and the anointing that he is on his life doesn't work in fact in Mark 6:4 or so it says that and Jesus could not not that he did not want to he could not do miracles he could not look at this he could there do no mighty work. But if you read the last verse in Mark chapter 6, you'll see that by the end of this chapter, he had multiplied fish for thousands of people.
+
+He and look at the last verse. And where he went, his own town, there was no power. Look at the last verse of Mark 6. Mark 6:5. There was no power working.
+
+There was nothing. Nothing was working. He prayed for people, nobody is healed. He lays hands on people. There's no power.
+
+There's no manifestation. Mark chapter 6, no power. Verse 2:3, he marveled and he said, "Oh, it is only in the in the house of a prophet that there is no honor." But look at the last verse of Mark chapter 6. By the end, h when he he moved away from that place where they were not honoring him, he moved away. Look at what happened.
+
+By the end wherever he went in went into villages, cities, country, they laid the sick on the streets and besought that they might touch him if it were but the border of his garment and as many as touch him were made whole. There was power power where there is honor. Listen, I you and I can vote, but I know we will vote for the same thing. Which is the greatest miracle in the Bible? What will you vote for as the greatest miracle in the Bible?
+
+I mean, healing miracle. Which one would you choose? Which one would you choose? You don't know. You went to school, but you don't know which miracle to choose which is the biggest miracle.
+
+Lazarus. Lazarus. Lyus. Lazarus. After 4 days rising from the dead.
+
+Is it not true? Everybody say power. Power. This is a pastor who goes to a cemetery and says, "I want to raise anybody who has been buried last week." And when he goes, he gets one person who was buried last Monday and he says, "Dig him out of the grave." And when they dig him out of the grave, he raises to the dead person who has decomposed and he says to him, "Rise and then he rises from the dead. This is the greatest to me.
+
+This is the greatest display of power. Now, who did Jesus do this power for? Where did Jesus do this power for? He did it for Mary and Martha. Mary, the Bible says in John chapter 11, look at it.
+
+Verse two, he said, "The Mary who honored Jesus, it was that Mary which anointed the Lord with ointment and wiped his feet with her hair, whose brother Lazarus was sick." You see, the Bible wants you to know which particular Mary it was. It was the Mary who honored Jesus, who loved Jesus, and who honored Jesus. She is the one who was blessed to have such a powerful miracle personally done for her for her brother. That is where power is revealed. If you want to see the power in Dr.
+
+Paul, learn to honor him. All orangus and dragons and devils are cast out of this church in the name of Jesus. You take somebody like Bishop Oo who has built a uh one of the biggest churches or the biggest church in the world in Guinnessburg. Dr. Paul honors him.
+
+I see him sitting there taking notes at Bishop Oedipo's service time and time and time again and honoring him. No wonder. No wonder the same power and the same grace has fallen on him to also build the largest church. There's no wonder about that. There's no secret to the power of God.
+
+If you honor, the power will flow like it will flow like a electricity coming all over your life. If you honor, I tell you, if you learn to honor the power and the grace rather than plotting and planning to overthrow or plotting and planning to slander and criticize God's servant, may it never be said about you that one of you is a devil, but rather that one of you is a Mary and a matter, one of you is an I mean whose your hair and your valuables you you you you unfold Hold your valuables on God's servant.
+
+Many great churches the pastor is not honored. Many great church the pastor is not honored. Oh yes you see people coming around walking around clapping enjoying all the great things that have been done but they don't honor. But I tell you, beginning from this conference, a new revelation of honor is coming on your life in Jesus name. Amen.
+
+Tell somebody, I will never be a devil. Tell the person if you want to be a devil, you can be a devil, but I will never be a devil. Hallelujah. Now, Satan is also guilty of misleading the masses. He misleads masses.
+
+Number 11, uh, number four or five, the sin of the devil. Whichever number you have, being a liar. A liar. John 8:44. One of Satan or the devil's sin is lying.
+
+Telling lies. Sometimes you see people writing things on social media on Facebook and you ask yourself that this man is lying. Does he not does he not know that he's telling lies? Does he not have any fear of God to tell lies in this way? I think you don't have such people in Nigeria.
+
+I'm going I'm going to Sudan to preach there. Hey liars, you ask yourself that a pastor you are telling lies as if you are breathing. The lies are coming out of you as you are being. You don't realize that you have become a devil telling lies, misleading people, painting the wrong picture. and you know what you are doing is not fair but you continue to do it.
+
+Make sure listen Christians make sure that you are very careful about telling lies. You may laugh but I tell you every time you tell a lie you see that Satan is present in your life. Oh yes. One day a man of God said something to me. A great man of God.
+
+He said, "I'm going to do this and I'm going to do this." And what he said was was not true. And he didn't do it. At that moment, God told me, God showed me. He said, "The devil is working in this man's life. Even though he's a great person, the devil is present because the devil is the father of lies.
+
+So if the lie is here, the father must be nearby at least in the country. Yes. The devil must be near because the devil is the father. I mean I don't know who your father is, but if you are the father of somebody, your child must be nearby. So if the devil is the father of lies, once you tell lies, the father of lies must be nearby helping you to give birth to lies.
+
+So those of you who don't fear telling lies, it means you don't fear welcoming the devil into your house. Nobody here would feel comfortable with a snake in your room. But some of you, you are comfortable. When you see the snake, you say, "Oh, sleep on." Tell your neighbor, "Beginning from tonight, beginning from tonight, no more lies, no more devils in my life in the name of Jesus." Amen. So when you tell lies you are exposing yourself and you are being a devil.
+
+Now the next one is separatism. Separating. Separating or separatism in the English dictionary is separatist. There are people who are separatist. They want to have a separate state, a separate church, a separate ministry, a separate segment.
+
+In Jude verse 19, the Bible says, "These are they who separate themselves." They separate themselves. Watch out for people who separate themselves. and tell lies. Remember there is a curse for liars. Separating yourself you must be very careful because the Bible says that Hebrews 11:40 it says they without us should not be made perfect.
+
+You are not made perfect without me. You need me and I need you. You need me and I need you. Amen. Are you listening to me?
+
+Hello. I said you need me and I need you. Yeah. You know, one day I visited a rebellious pastor in his house and uh when I visited him, the last thing he told me as he walked me out of his house, he said he walked me out and he walked the person who led him to Christ, he walked all of us out. He said he said, "I don't need you and you don't need me.
+
+I don't need you and you don't need me. go and you open the door. Yeah, it's it's not possible. I need you and you need me. You will always need me and I will always need you.
+
+God did not make us to be islands. Those of you who who used to be here, you are planning said I don't need Dr. Paul. He has already anointed me. He has laid hands on me.
+
+I'm finished with him. He has I've got a blessing and I'm now a man of God. I don't need him and he doesn't need me. You are making a mistake. You see, there are some people say, "What?
+
+I've been here for 5 years. I've paid my dues. What else do you want again? Have I not served you for 5 years?" Listen, can you tell your father? I don't need you anymore because I have my own househ saying thank you to your father or to your mother.
+
+Give me this book, Those Dangerous Sands. Can you finish saying thank you? Can you finish saying thank you? Those who are dangerous sons. Yeah.
+
+A son. A son. Can you ever finish saying thank you? Huh? You know this book, those who are dangerous sons, you can never say to your father, "Oh, it's okay.
+
+I have I not served you. Have I not been in the house for 21 years? What else do you want from me? Allow me to be myself. Allow me to be my own man." Hey, you can never finish saying thank you.
+
+When Ham went into the boat and came out of the boat of the water and he came and saw his father drinking wine and his father was drinking wine and his father was lying in the tent naked. He he forgot. You see why he forgot was that if his father have not saved him and built a boat H and put him in the boat and kept him in the boat for all that period and look after him and fed him with animals. He will not be alive to come and mock his father and become a dangerous son who only received a terrible curse.
+
+You can never finish saying thank you because you don't know what your father has done for you. You know when I was in medical school, when I was in medical school, one day I went home to see my mother, I told my mother that mommy, today I was transferred to the pediatric emergency ward and I told her that this w it is very dirty, very it was horrible. I said I don't want even my skin to touch anywhere. It's a terrible place. I was describing it to I came from school and I went to visit her and I was telling her I said mommy I I the place is horrible.
+
+She said really it's horrible. She said she said to me I've slept in that what you many times you were a baby you were sick and I I kept you I slept in that that word for you and with you. I said you. She said yes. My mother is a Swiss woman from Europe.
+
+She didn't know all these things. She was in the world with me, holding me, holding me so that I will breathe, holding me so that I'll be alive, holding me so that I will have life. When will I finish saying thank you to my mother? Oh my god. Those of you who say, "Oh, but I do I owe you my life my whole life.
+
+What again is it? What else do you want? You have to be careful. Those of you who dishonor fathers, I tell you the curse of harm, you know curses, the wildest curses are what we call slow boiling. We have some type of food.
+
+We we boil it slowly. Slow cooked. Slow cooking. You will be cooked slowly. Look at what has happened to Ham and all of us.
+
+The descendants look at our condition, servants of servants. Tell your neighbor, are you are you cooking slowly? Hey, the next sin, the sin of independence. I want to be on my own. I want to be on my own.
+
+Isaiah 14 verse 13. Thou has said in thine heart, in thine heart. My goodness, I will ascend into heaven. I will be above the stars, above the sides of the north. I will be like the most high.
+
+Independence. Let me tell you if God has not called you to be independent. Huh? Be careful. Not everyone has the gift of governments.
+
+I have a book called The Gift of Governments. Not everybody has the gift of government. Many people who cry for independence are not ready. And the devil said, "Leave me. I want to be on my own." I wrote a book called Those Who Leave You.
+
+Those who leave you. When you leave your position, when you leave your position, you will not understand. You see the prodical son, he continued to live, but he lost everything and he became a poor man. Not because he was not alive but because he was disconnected from his father there was a blessing that was coming to him. When you have a baby in the womb and the baby starts to kick at 20 weeks or 30 weeks and he starts to say I want my freedom.
+
+Freedom now. Freedom now. Why am I restricted? Not restricting me. There are some pastors who feel we are restricted in dunamis.
+
+We are going to start our own dynamic ministry. We are we are not free. We want to see good things. And you see you are in your wombbo and you are saying I want to be free. And you are saying that it is dark here.
+
+But you are enjoying light. Why should you enjoy light? Whilst I'm in the stomach I can't see anything. I can't see light. Give me light.
+
+And you start to kick. Let me come out. I'm coming out today. I'm coming out. You see independent, you see a lot of premature babies is actually an independent spirit.
+
+It's an indispausure birth. Yes. You say I must I must have my own calling. I have my own ministry. I have my own calling.
+
+A lot of ministries. I have my own ministry. I have my own calling. Meanwhile, you don't have the ability. And when you step out, you start to die.
+
+Yes. You start to die. Look at a lot of churches on life support. Your church is on life support. Eh, your church is on life support.
+
+Oxygen. Your church is on oxygen. Your church is on IV fluids. There's no money in the church. There's no life in the church.
+
+You are on oxygen. You are dying. No money, no members, no building, no nothing. Oh, why? Why?
+
+Why? Those who leave you, watch out, tell your neighbor, don't follow any rebel again. Some of you have followed rebellious people. You are in a church which is breathing on oxygen. It's about to die.
+
+Every day there's nobody in the church. Man of God, where are your members? You say you have started an online church. When you are online, show us the members always. You show only your face, but you don't show the the people in the church.
+
+You say you are doing an online ministry. Shame on you. Shame. Hey, the next sin of the devil is accusing. Accusing.
+
+Bible says in Revelations 12:9. He said, "I heard a loud voice. I heard a loud voice from heaven saying now is come salvation. I want us everybody I want us to see the four effects of silencing accusers in this last two minutes. We are left with only two minutes.
+
+Look at this verse quickly. Revelations put it up. I heard a loud voice coming saying in heaven now is come salvation. Listen, let us silence accusers. When an accuser is talking, you massage us.
+
+Nonsense. Shut up. Shut up. We are not interested in your ad. Oh, I'm I was just giving advice.
+
+No, we don't need your advice. Your advice is laced with a spirit of accusation. Salvation will come when you learn to shut up accusers. Look at the sec the second thing that is going to come is strength. Strength.
+
+A pastor becomes stronger when you are able to silence accusers. Stronger because so that you are taking an offering the accus accusers voice is on you. The third thing is the power of his Christ. power comes into your ministry when you silence accusers. And the last thing is um the kingdom of our God, the kingdom of God will come.
+
+Look at the verse. It's I'm reading from the Bible. You don't even need notes. Look at it. Revelation 12 verse 10.
+
+It says, "Now has come four things." Four things are coming to your life. Four things are coming to your ministry. Number one, salvation. Number two, strength. Number three, the kingdom.
+
+Number four, the power of his Christ. Why? For the accuser is cast down. We are pushing the accuser out and down and away away. When I started the ministry, hey, I suffered from accusation.
+
+They said, they said I'm proud. They said I roll my windows when I'm driving. They said I don't know how to preach. They said I use too many verses. They said I don't use enough verses.
+
+They said I walk around when I'm preaching. They said I I I I drink water when I'm preaching. I became weak from the accusations. So on Saturday before Sunday, this I was a young pastor, I started to get running stomach on Saturdays. Every Saturday around 2:00, my stomach will start because Sunday is coming.
+
+And I've remembered my accusers are waiting for me on Sunday. Yeah. And and they and they were telling me they were saying that I'm not called. You see he's not called. He's not called.
+
+I was my church was in a classroom. They were saying he's not called. This guy is not called. What is he doing there? He doesn't have he doesn't have great doesn't have anointing.
+
+He's a medical student. He should concentrate on his school. And I was shaking like this. I I told my wife, she was not my wife, my wife. I I told her, is this what I'm going to suffer for the rest of my life?
+
+every Saturday before Sunday running stomach. Then one day God spoke to me. He gave me a verse. Proverbs 22 I think verse 10. He said, "Cast out the scorner and strife shall cease.
+
+Cast out the scorner." So I called for a meeting and I called for a meeting of my leaders. When they came I told them I said you you've been accusing me every day from today I've sacked you from this church. What? How can you suck? I said yes I've sacked you.
+
+You are out. Cast out the God gave me this. Cast out. Sack him. Don't c We don't counel Lucifer.
+
+We cast him out. Some of you are counseling Lucifer. You are having meetings with him. You are having discusses with him. The Bible says, "Cast out the scorner and contention shall go out." And beginning from this conference, all accusers, liars, deceivers, and Lucifers are cast out.
+
+And you are casting. Don't be afraid of them. Oh, you know when I cast him out, so many of my members left with him. But we became fewer and loyal. It's those same people that have been with me up till today, almost 39 years later.
+
+Everybody stand to your feet. Give the Lord a shout of praise. Say, I will never be a devil. Give the Lord a shout of hallelujah. Lift your hand and cast out Lucifer from your life, from your spirit, from your min.
+
+Come on in the name of Jesus. In the name of Jesus. In the name of Jesus. The end of Lucifer. The end of Luciferianism.
+
+Father, we give you thanks. We give you praise. for your mighty power. Lift your hands. Father, thank you for a good spirit that is released.
+
+Thank you. All traces of demonic work are finished and are cast out of this ministry and of every ministry that is represented in this service. In the name of Jesus, let me hear your loudest amen. Clap your hands. Holy people.
+
+Give him a bigger clap and a louder shout of praise. Lift your hands and thank him one minute. Give him the praise. Give him the praise. Give him the praise.
+
+Give him the praise. Lift up your hands everywhere you are. If someone is a devil, then it is a spirit. Father, we we decree today no devil shall survive in our midst, in our lives, in our families. No devil shall survive in this church or survive in any of the churches around the world.
+
+Lift your voice and say, "Father, Father, we arrest, we arrest the spirit of the devil. The spirit of the devil, we command you. We command you go to hell. Go to hell. Open your mouth and pray.
+
+One minute. One minute. We arrest the spirit of Lucifer, the spirit of the accuser, the spirit of Satan, the devil. Go to hell. Go to hell.
+
+Go to hell. Sh. in Jesus precious name. Amen. He said no weapon fashioned against you shall prosper and every tongue rising against you in judgment thou shalt condemn.
+
+Lift up your voice and say, "Father, Father, we take authority over every weapon over fashioned against the church in this season. We arrest them. We send them back to hell in the name of Jesus. We frustrate their weapons weapons, online weapons, weapons, on ground weapons. Anywhere they are, we frustrate them now.
+
+Open your mouth and pray. We frustrate the weapons of the heaven, the weapons of hell targeted against the church. We frustrate them. We frustrate them. We frustrate them.
+
+We frustrate them. We frustrate them. in the name of Jesus. Amen. Lift up your hands.
+
+Bishop Dag has brought thousands of these books not to sell but to give out. So as we exit at the various ex exits, it will be passed for as many as we'll be able to pick them, right? Especially pastors, most importantly pastors. This is to show you that not everybody is in ministry looking for money. All right?
+
+the ignorant and the and the and the and the and the and the and the I don't know what the name to call them. Some who are who are almost mentally deranged. They think that everybody is looking for money. Delusional people. Delusions.
+
+So please bear that in mind. Lift up your hands everywhere. Bishop. Just do that for me, Jesus. Now lift your hands.
+
+Lift your hands. Jesus, thank you for your power tonight. Thank you for your mercy in the name of Jesus. Now, if you are here tonight, put your hand down. I want to pray for you quickly.
+
+If you are here and you don't know Jesus as your savior, maybe somebody invited you tonight, but deep down you know that you don't know God and you are far away from God. But tonight, you want to give your life to God. You want to say, "Jesus, I want to serve you. I want you to wash my sins away. And I want you to write my name in the book of life.
+
+If you are here tonight with every head bowed, every eye closed for one second. Pastor, pray with me. I want to give my life to God tonight. I need Jesus. I need God.
+
+If you are here like that, lift your hand like this. Hi. Lift your hand like this. I want to pray. Wherever you are, upstairs, at the back, everywhere.
+
+Pastor, pray with me. I want God tonight. I want Jesus to change me and save me. Then I want your hand to be lifted up. God bless you.
+
+God bless you. I see all your hands. If your hands are lifted up like this, I want you to do one more thing. Come come come to me from where you are standing. Come come come from come to me in the front here.
+
+I want to pray with you here. Just come walk quickly with your Bibles, pick your Bible, anything you came to church with and just quickly write to the front here. Come come from the back. Come from upstairs. come from everywhere.
+
+Pastor, pray with me. I want to give my life to God tonight. God bless you. Come quickly, quickly, quickly, quickly. Run forward.
+
+Be the first to come. Be the first to come from the first gallery, second gallery. Run all the way. God bless you as you come. Come to Jesus tonight.
+
+Want to pray for you in the front here. Come, come, come, come, come. Pastor, I I don't know God. I don't know God, but I want to know God tonight. Tonight.
+
+I don't know God, but I want to know God tonight. Pray with me, please. You need to lift your hand and come to us in the front. Don't say it is too far. It is not too far.
+
+Pastor, pray with me now. I want to give my clap for them as they come. Clap for them. So many people are coming. Clap for them and encourage them.
+
+Encourage them. Encourage them. Tonight is also a night of salvation. You are escaping from the devil. You are escaping from Satan.
+
+You are escaping from wickedness. Maybe you are an armed robber, a terrorist, any kind of evil. But as you've come here, you want to say, "Jesus, I surrender my life to you tonight. Come also come. God is calling you.
+
+Clap for them and encourage them as they come. Clap for them. Keep clapping. Keep clapping. Keep clapping.
+
+Come to God tonight and we are going to pray with you very keep clap." Oh, are you tired of clapping to encourage them? God bless you. God bless you. Those coming from upstairs, the gallery, second gallery, first gallery, it is not too far to come. Clap for them as they come.
+
+They are coming from the galleries. They are coming from outside. They are coming from upstairs. They are coming from far at the back there. Keep coming.
+
+Keep clapping. Keep clapping. Keep clapping. Keep clapping. Come to God.
+
+Come to Jesus. Come to God. Come to the cross. Come to Jesus. Come to God.
+
+I'm going to pray with you. Very important tonight. Tonight is also a night of salvation. Oh, look at so many people coming this way. Clap for them.
+
+Encourage them. Encourage them. Encourage them. Encourage them. God bless you as you come.
+
+God bless you as you come tonight. Your name will be written in the book of life. Your name will be written in the book of life. Come. Come.
+
+Come. Come, come, come. God bless you. Keep clapping. If you stop clapping, they will be discouraged.
+
+As you clap, they will be coming. As you clap, they keep coming. As you clap, they are coming. They are encouraged to give their life to God. To God.
+
+Tonight, we are here to pray. But we are also here to find God, to be saved, to be washed, to find a new life in Jesus. Clap for them. I see. Look at this direction.
+
+More people are coming. More people are coming. More people are coming. Come from upstairs. Come from the back.
+
+Come from everywhere. All those coming down the stairs, come quickly. God bless you as you come. God bless you. Keep coming.
+
+Keep coming. Keep coming. Run quickly. over here. Quickly, quickly, rush forward.
+
+Rush forward. Rush forward. Rush forward. Rush forward. Rush forward.
+
+Run. Run. Run. Run. Run.
+
+Run. I surrender, Lord. I surrender all. I surrender all. I surrender.
+
+I surrender all to Jesus. All right. Two more times quickly. Run. I surrender.
+
+I surrender. I give you my life. I surrender all the angels. Now this is the last call. This is the last call.
+
+We are just about to pray. The doors are closing. Please if you are coming, you need to be here in the next two seconds. Keep coming. Keep running.
+
+This is the last final call. The doors are closing. The doors are closing. The sun is setting. Come to Jesus now.
+
+Now. Now. Now. Now. This is your chance.
+
+Oh, clap for them. All these thousands of people have come to Jesus tonight. Now, if you've come to the front, lift up your hands. Let me pray with you. Lift your hand.
+
+Everybody, lift your hand. And those in the congregation, lift your hand also. And let's pray together. Say with me, Jesus, I can't hear you. Say, Jesus, Jesus, thank you for tonight.
+
+Thank you for tonight. Oh God, oh God, I am a sinner. I am a s forgive me. for all my sins. I have done many bad things.
+
+Many, many bad things. Many bad things. But tonight I ask you I ask wash me. Forgive me. Cleanse me with the blood of Jesus.
+
+Tonight lift your two hands. Say tonight I receive Jesus as my savior. as my master, my lord and my king. Oh God, please write my name in the book of life. From tonight, my name is in the book of life.
+
+Say, "Oh Jesus, oh Jesus, my name is Mention your name. Mention your name. Say, please write this name in the book of life. from tonight. I am your servant.
+
+I am your servant. I am your child. I am your child. Now lift up only one hand like this. Everybody lift up only one hand.
+
+Say after me, Satan, Satan, listen carefully. From tonight, I bind you. I bind you. In the name of Jesus. In the name of Jesus, I cast you out.
+
+I cast you of my life. Go away. Go away. I cast you out. From tonight, from tonight, I will not follow you again.
+
+I will not follow you again. I will not obey you again. I will not obey you. I will not serve you again. I will not serve you.
+
+I belong to God. I will not follow I belong to Jesus. I belong to Jesus. Lift your two hands like this. Wave your hands.
+
+Say, Jesus. Jesus. Thank you. I love you. I love you.
+
+I thank you. I thank you for saving me. From tonight, I will serve you. I will follow you. I love you Jesus.
+
+Thank you Lord in Jesus name. Everybody shouted amen. Stand up on your feet everybody and celebrate. Counselor us please you move with them right now. Let not one of them be lost.
+
+Go ahead and ensure that they are established in Jesus name. Celebrations.

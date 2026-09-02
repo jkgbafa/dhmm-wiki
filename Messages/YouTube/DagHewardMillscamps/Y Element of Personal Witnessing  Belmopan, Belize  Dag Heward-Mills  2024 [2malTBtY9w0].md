@@ -1,0 +1,51 @@
+---
+title: "Y Element of Personal Witnessing | Belmopan, Belize | Dag Heward-Mills | 2024"
+channel: "DagHewardMillscamps"
+platform: "YouTube"
+video_id: "2malTBtY9w0"
+url: "https://www.youtube.com/watch?v=2malTBtY9w0"
+year: 2024
+duration_min: 19
+source: "autocaption"
+match: "exact"
+---
+
+number number 21 personal witnessing personal witnessing young elements give themselves to personal witnessing Acts 26 verse 22 having therefore obtained the help of God Acts 26 verse 22 having therefore obtain the help of God I continue unto this day you see people stop but Paul said I continue until this day witnessing because it will be at the beginning of a Christian's life you will witness that's right but when the young elements are gone the witnessing is gone witnessing is at the beginning when people are young they witness they I want to tell you about Jesus
+
+you know I I give my life to Christ this happened you know and this and that you can know Jesus oh look at the older people when was the last time you witnessed to to to somebody the least of all would be that you even invite the person to church but personally witnessing and telling somebody about Jesus is a sign of young people yeah that's why I say it is anti- satanic having obtained the help of God I continue unto this day witnessing both to the small and the great that's a young person wow he
+
+never changed his young element that from the first day when he got saved as a Young Man Paul he died he was like 58 Paul lived to about 58 it's estimated that he was born around 0 05 five like if Jesus Jesus was 0 0 ad0 yes 85 he lived about 58 something like that having obtained the help of God I continue until this day Witness in I continue witnessing both to small and great it's a very strange thing to see a pastor witnessing it's like it's like seeing chocolate speaking in the shop the chocolate
+
+start to speak to you yes it's very strange to see a pastor witnessing yes pastors you it's even strange to see a young Pastor that's right and it's strange to see a pastor witnessing it's like the chocolate in the shop starts to speak and say eat me I'm sweet I'm nice witnessing both to small and great saying none other things than those which the prophets and Moses did say should come beautiful having therefore obtained the help of God having therefore obtained the help of God I continue until to this day I continue and to this
+
+day witnessing both to small and to Great beautiful having been therefore obtain the help of God I continue as a young man how I was at the beginning witnessing both to the small and to the Great have not changed those things have not changed what brought you here witnessing to people talking to people huh has not changed nothing has changed having obtained the help of God I continue and me too having obtained the help of God I continue to this day amen this year I preach in stadiums largest Crusades in Liberia even in Ghana the
+
+National Stadium and other mega programs and other islands and other places I continue to have camps with my small small groups until this day yes having obtained the help of God I continue until this day witnessing I've not changed I've not changed personal witnessing leading people to Christ I heard somebody say I'm he said I'm not I'm I'm I don't witness he said a minister I don't witness to anybody he said because I don't have the gift of evangelism but he has he has the gift of being a prophet so he says he doesn't witness
+
+but Paul witnessed I heard one Pastor say oh no I don't talk about the blood of Jesus that's bloody he said that's bloody he said I want to I want to advertise something good about the kingdom I said wow Paul said having obtained therefore the help of God continue and to this's day up until today I've never changed it witness I always telling people about Jesus you know I had a big had a I had I have a big sister but she was like one of the last to be saved in our family she wouldn't
+
+want to give her life to Jesus when I told her to give her life to God she got angry with me she said I know your type you are the type that frighten people frightening people about hell and all that kind of thing I don't want to hear that kind of thing hey but one day one day God send somebody to her oh yes and and told her come with me I want I'm taking you to church and she went with him and she gave her life to Jesus now when she gave her life to
+
+Jesus she began witnessing wow wow I mean she was everywhere wow witnessing Wow have having obtained the help of God beautiful I don't know if she's still witnessing as much but all I remember was when she got saved she was going everywhere telling everybody about Jesus oh yes you see when you are young people find Jesus they I want to tell you how he Chang changed my life I want you to know how he changed me I found new life my whole life changed I Found Jesus that's how it is when people are young and
+
+they know God when you have an army of people who are telling people about Jesus everywhere how will the church not grow you you tell me how the church will not grow when the church is full of old people who have stopped witnessing and swe aside to Vin jangling of course the church cannot grow as we sing Our hymn together and we are quiet and silent and wearing old clothes very formal doing whatever no witnessing nothing how does it that's why I say that it is the young Elements which are anti- satanic you know when
+
+I got saved a song like I found it I found new life is from my youth when I was young those are the songs I found new life in Jesus wow I found new life I found joy and hope love and peace I found new life in Jesus Christ Jesus has changed my life and I found new life in Jesus Christ sit down sit down sit down having therefore obtained the help of God H can we all say together having therefore obtained the help of God I continue unto this day witnessing both to small and
+
+great say none other things than those which the prophets and Moses did say having therefore obtain the help of God tell your neighbor having therefore obtained the help of God I continue onto this day witnessing to both small and great just memorize the first half it's okay I continue onto this day witnessing both to small and to Great oh yes I found it I found it new life in Jesus Christ I found love and peace and joy and hope and and it's all in Jesus Christ oh yeah I found it I found it yes I
+
+have I found it I found it new life in Jesus Christ I found love and peace I found joy and hope have you found joy and hope it's all in Jesus Christ there is love there is peace in the Lord he gives me joy he gives me hope I sought after them in diverse ways but only Jesus can satisfy me there is love and there is peace in the Lord he gives me joy he gives me hope sought after them in diverse ways but only Jesus but only Jesus can set by me have you found
+
+it I found it yes I have I found new life in Jesus New Life in Jesus Christ I found love and peace love and peace joy and hope joy and hope all in Jesus all in Jesus Christ now there is love and there is peace for you too he will give you Joy he'll give you hope you may seek after them in diverse ways but only Jesus can satisfy you now there is love and there is peace for you too he will give you Joy he will give you hope you may speak after them many
+
+ways divers way but only Jesus but only Jesus can satisfy you your hand and say I found it yes I have I found it new life New Life in Jesus Christ oh yeah upon love and peace joy and hope joy and hope all in Jesus all in Jesus one more time lift your hand and say I found it yes I have I found it new life in Jesus I from love and peace love andace I found joy and hope joy and hope all in Jesus all in Jesus Christ wow having obtained the help of God
+
+I continue until this day witnessing both to the small continue Witness I continue witnessing I continue witnessing I continue witnessing I continue witnessing I'm still a young person who found Jesus and I'm still witnessing and if only everybody will maintain that young element that thing that was associated with your Youth and associated with your salvation and the whole church had that and the church was like Paul who having obtained having therefore obtained the help of god wow I continue unto this day witnessing both to small and great saying none other things than those which the
+
+prophet said Moses did say amen amen so that is it some associated with young people is witnessing is witnessing old people don't witness have you seen otherly people you see one day I called the church I said today we going on Outreach on Sunday morning we are all going for outre and we come people were see we have come to church the people were annoy because we have come it's a decent Church we've come dressed with their families that everybody was sitting there said go out go out where to collect to the I mean are
+
+you crazy on a Sunday on the Sunday morning old people don't like certain they want to come with the family has come to church you know even when I got married and I was going to church I told my wife I realized that if I stay if I follow her I'll be late every day so I said I will go then you also come yes because I don't want a trouble on Sunday get it but she was not happy with with that plan because she said to me you know in my family we go to
+
+church together my father my mother and all of us children we all go as a family to church so how can you go ahead and then I will come later wow that was the beginning of marriage but I realize that no I have to I have to to maintain it because I mean I cannot be late main of oh yes oh yes yes for me church is not about going with the family children this that that whatever no no no no no everybody's dressed up looking beautiful this we go and sit in the peill we
+
+sing two hymns one slow song two fast songs and then after that you say I mean worshiped God then we come the pastor will preach a sermon and we come back no no no no for me church is witnessing singing many things having obtained the help of God having been therefore obtain the help I continue and to God is going to help you to continue for years as a young person amen amen fantastic beautiful

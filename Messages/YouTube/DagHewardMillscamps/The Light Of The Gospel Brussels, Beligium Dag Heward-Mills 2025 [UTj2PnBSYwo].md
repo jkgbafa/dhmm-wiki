@@ -1,0 +1,97 @@
+---
+title: "The Light Of The Gospel | Brussels, Beligium | Dag Heward-Mills | 2025"
+channel: "DagHewardMillscamps"
+platform: "YouTube"
+video_id: "UTj2PnBSYwo"
+url: "https://www.youtube.com/watch?v=UTj2PnBSYwo"
+year: 2025
+duration_min: 23
+source: "autocaption"
+match: "exact"
+---
+
+Now, I want everybody to turn with me to Isaiah chapter 9. Sit down. Sit down. Sit down. Sit down.
+
+You know, I want the guys behind me. Two of you come. Bring your chairs. Bring your chest. Sit here.
+
+Two of you come. No, no, no. The two these two guys. Yes. Sit here.
+
+Put your chair right here. One, two. One, two. Turn it to face the congregation. Yeah.
+
+So, I I prefer Now, are you listening? When we close the next session, bring one more row of chairs here so that it's nearer. All right. From the back. From the back.
+
+How many are being blessed already? Yes. How many realize that we are back to the madness. Yes, we are back to the madness. We are back where something strange is a law.
+
+Now if I read you, you see at first it was laws but from crystal crystal is crystal is like glass is night. So the night of the broken glass. Yes. Yeah. That was in November 1938.
+
+The war was in 1939. That's when it started. But November 193, what happened was that a German diplomat, a German diplomat was killed in another country by a Jewish teenager. So they used that as an excuse to attack Jews because they found the person who killed him and he was a Jew in another country and ah so they use that as an official reason to attack Jews and that was the day the violence started against the Jews. At first it was just laws laws laws laws but from Crystal Knack was so all Jews remember crystal and they cry.
+
+Yes. B was and that's a diplomat was for. Oh yes. Oh yes. Now in Isaiah, in Isaiah it says, is this King James?
+
+Is that King John? Okay. It says, "Nevertheless, the dimness shall not be such as was in her vexation when at the first he lightly afflicted the land of Zebulun and the land of Naftali." Don't worry if you don't understand. I also don't understand. and afterward did more grievously afflict her by the way of the sea beyond Jordan in Galilee of the nations.
+
+Verse two is actually what we we are looking for. Are you watching always be interested anytime a verse in Isaiah or Jeremiah comes up. Isaiah is the book that most quotations from Jesus and from Paul were from Isaiah. Isaiah is one of the greatest prophets. He didn't call out people's names or anything like that, but he was one of the greatest prophets.
+
+Now he says, "The people that walked in darkness have seen a great light." A great light. This is the gospel. The people that walked in darkness have seen a great light. Yes. And they that dwell in the land of the shadow of death, and upon them has the light shined.
+
+Amen. Amen. Now turn with me to Matthew chapter 4 verse 16. Somebody's asking what am I talking about? But I'm just giving an introduction.
+
+Introduction. An introduc Matthew 4:16 again. You see it's quoted. It's quoted exactly. The people which sat in darkness saw great light.
+
+Read from verse 15. Let's see what 15. Verse 15. 15. Beautiful.
+
+Hello. Don't start. Don't even start. Matthew 4:15. Verse 15.
+
+Yes. Yeah. Now go go go back to like verse 12. Let's read from verse 12. Verse 12.
+
+Help me. Help me. Help me fast. Now Now when Jesus had heard that John was in prison, he departed to Galilee. Next verse.
+
+Next verse. Okay, I'll read it myself. Okay, Matthew chapter 4. All right, beautiful. Let's all read from verse 12.
+
+All right. And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast in the borders of Zabalon and Nephilim. That is verse 13. Verse 14, that it might be fulfilled which was spoken by Isaiah the prophet, saying, "The land of Zebulun, and the land of Nefalim, by the way of the sea beyond Jordan, Galilee of the Gentiles, the people which sat in darkness saw great light, and to them which sat in the region and the shadow of death, light is sprung up." From that time Jesus began to preach and to say, "Repent for the kingdom of heaven is at hand." Amen.
+
+Amen. A great light. A very great The gospel is a great light. the gospel in the midst of the darkness of this world and this world is loaded with darkness now because the European world has produced so much so good of the gospel from the gospel of wisdom technology technology huh huh it has become a sort of forgone conclusion that anything that comes from here must be something good It must be right because most of the good things have come from Europe.
+
+Yes. Yes. Yeah. Mercedes-Benz. Mercedes-Benz.
+
+Volkswagen. Volkswagen. Pour. BMW BM antibiotics. Antibiotica.
+
+Probiotics. Do you know what probiotics? Probiotica. Anesthesia. Anesthesia.
+
+You know anesthesia. How to make somebody sleep and wake up again and be able to operate on the person. Vaccines, so many diseases I cure surgery, so many medical inventions. Yes, people used to die. Discoveries about gems.
+
+They used to operate on women. When a woman cannot have a child like maybe baby's not coming out, baby's they used to operate on the woman, take the baby out successfully, sew the woman up and then after two days the woman becomes very hot and the womb begins to swell and the woman starts to swell and the blood pressure the temperature goes he high the swollen becomes swollen the saw amid and fever and she will explode and die this because we didn't know the doctors and sisters were operate with their dirty hands they didn't know what were germs but it was discovered and they didn't know antibiotics yeah it was amazing all these have come from Europe Oh, serious serious.
+
+Serious. So now it IS ASSUMED THAT IF SOMETHING IS COMING from Europa, it must be a good thing. This is this is why is it deceptive? that are misled. That is why anytime they are advertising something bad, they put something nice with it.
+
+That is why because in the mind, the mind always puts associations. This is associated with this, associated with this. So anytime they are advertising something like beer, there will be a smiling girl, a smiling man or a successful person, they put it by it. So that you associate success with this thing in the same picture. It must always be in the same picture because your mind always joins things together.
+
+That's what he does. Amazing. So the madness is back. Amen. Amen.
+
+And because it is associated with good things is being accepted and you now start to feel ashamed. When you say Jesus, don't say Jesus. I hear there was a soccer player. He he put thank you Jesus and then he was sacked. He wrote, "Thank you, Jesus." He lifted up his head.
+
+So, thank you, Jesus. Oh, we don't want you anymore. Yeah. Yeah. So, the madness is back.
+
+That is why we are called a candle in the dark. In the desert. Yes. Candle in the dark. Jesus our Lord before he went away commissioned his disciples to go and teach all nations.
+
+This commission was extensive. It was an obligation for the disciples to dispass themselves to every nation, every corner of the inhabited globe. to preach to every creature without exception, without limitation. Be a candle in the dark. Lord, I want to be a candle in the dark, a light to the world.
+
+Be a witness for my Lord. Please send me into this dark world. Please use me some, oh Lord, as a candle in the dark. Lord, I want to be a candle in the dark. Many attempts at the great commission have been made by many Christians since the days of the early apostles.
+
+But I regret to reports that the work of God has not been taken up seriously. Nor has it been prosecuted with the zeal and perseverance of the early Christian church. Indeed. There were candles in the dark. Be a candle in the dark.
+
+Lord, I want to be a candle in the dark. a light to the world. Be a witness for my Lord. Please send me into this dark world. Please use me somehow.
+
+Oh Lord, as a candle in the dark. Lord, I want to be a candle in the dark. Many people say the commission is completed. By the ministry of the first apostles, they say we have lots of souls in our own country. And if God intends the salvation of the world, he will somehow bring the gospel to them or bring them to the gospel.
+
+Today, most Christians sit at ease, have no concern for lost sinners. They don't want to be candles in the dark. Oh, so be a candle in the dark. Lord, I want to be a candle in the dark. I want to be a light to the world.
+
+Be a witness for my Lord. Please send me into this dark world. Please use me somehow. Oh Lord, as a candle in the dark. Lord, I'm going to be a candle in the dark.
+
+For the consideration of you will sit at ease. I offer these observations. If the whole body of Christians entered heartily into the great commission and love the lives of their fellow Christians more than they love themselves, more than they love their own lives. They could become candles in the dark. They could become saviors of this world.
+
+Candles in the dark. Ooh. Oh. So be a candle in the dark. Yeah.
+
+Lord, I want to be a candle in the dark. Oh, I want to be a light to the world. Be a witness for my Lord. Please send me into this dark world. Please use me.
+
+Use me somehow. Oh Lord, as a candle in the dark. Lord, I want to be a candle in the dark. Be a candle in the dark.

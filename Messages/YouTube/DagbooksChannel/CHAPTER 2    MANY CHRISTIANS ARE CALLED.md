@@ -1,0 +1,30 @@
+---
+title: "CHAPTER 2    MANY CHRISTIANS ARE CALLED"
+channel: "DagbooksChannel"
+platform: "YouTube"
+source: "autocaption"
+---
+
+Jesus says, "I have chosen you to bear much fruit to go to go." But you see, because we want riches and money, we don't go anywhere. We stay in the big city. Amen. Amen. We go to France. We go to England, America, where there's money. Is it not true? Today, when you see an African pastor who says he's reaching out on a mission, he's usually going to Paris, America, Germany, but not he's not going inside. to where which town do we have here? Who say corre? Hey, hey pastors, we are our hearts must come back
+
+to God. Amen. And we must desire to bear much fruit. Amen. Amen. One day I saw a pastor from Ghana. He had a big church in Ghana. But one day he had a visa to America and he left his church and he went to Ghana. He went to America to become a pastor of about just 12 people. But he was very happy because he was in America. I have called you and chosen you that you should go forth and be in America. Huh? So let us desire to bear much fruit. If you are a pastor,
+
+You must desire that many of the members of your church will become pastors too. Amen. If you are a pastor, you must desire that many men, many women will become pastors and preachers. the predicator. Amen. So, step number one, many are called. Number two, many are called to be fruitful. Number three, some people are called in an ordinary way. Step number four. Number four. Many are called through their desires, their desire to work for the Lord. In 1 Timothy 3:1, he says, "This is a true saying. If any man desire the office of a bishop,
+
+he desires a good work. The Bible says God will put it in your heart to desire and to do his will. Amen. Amen. So if you have a desire to work for God, probably you have a call on your life. Hallelujah. This is the ordinary way by which God calls people through the desire that you begin to sense in you. A desire is not a natural thing. Jesus said, "No one can come to me unless the father draws him." Even your interest in Jesus is supernatural. Your interest in the work of God is supernatural. God
+
+is drawing you. God is pulling you. He's calling you to work for him. There are many people who are waiting for God to move in a spectacular way before they will believe that God has called them. And the last one is some people are called in a spectacular way like the Apostle Paul. Paul was on his way to Damascus and he saw a light. He heard a voice. He fell down. He became blind and the Lord spoke to him and called him. That is spectacular spectacular. But most of us will never have such a spectacular
+
+calling. Yeah, we most of us. So number one is that go many are called. Everybody say many are called. Step number two, many are called to be fruitful. Number three, many are called in an ordinary way. Step number four, many are called through their desires. Your desire often shows your destiny. Many people are not interested in God. They don't even like the church. But you like the church. You like God. You like the things of God. Shows. It shows that God has put a desire, a supernatural attraction that is pulling you to the work of
+
+God. And number five, some people have a spectacular calling. Hallelujah. If I was still waiting for a spectacular calling, I would not be in the ministry today. I will be waiting for a light for a voice for thunder. Hey. Hey. And then I know that God has called me. One day a man of God explained. He said he was in the hospital at 7:00 in the morning. He heard steps steps and suddenly the door opened. He thought it was the nurse, but to his surprise, his amazement, it was the Lord Jesus. Then he said, the
+
+Lord took a chair and put a chair and sat by him. as he was in the bed and said, "I have come to talk to you about your ministry." How many would like Jesus to come into your room and pull a chair about your ministry? Wow. Wow. Then he talked to him for two hours. WHAT A SHOCK. SHOCK. two hours and he told him so many things and after he got up and went out and went out of the room. Yeah. So when I when I hear about such things, I am so stirred up. I
+
+want Jesus to appear to me too. How many want Jesus also to appear to you? But unfortunately, he does not appear like that so easily. Blessed are those that have not seen and yet believe. Amen. Amen. So if you are in the ministry, you have not seen certain things but you believe you are blessed. AMEN. AMEN. I am always jealous of people who have these kind of visions. One day a pastor visited me in my house. He his relative of mine and he came to stay upstairs in my house upstairs. At that time we were
+
+having a great crusade in Ghana. He was visiting and after the crusade he went back to where he came from. Some months later he told me, "Do you know what happened to me when I came to your house?" I said, "No." He said, "On the second day, when I was sleeping upstairs in your house in the room, the door opened and Jesus came into my room." And he said, Jesus said, stretch out your hand. And he put something like a burning stone in his hand. And his hand began to burn. And the Lord said to
+
+him, "I have given you a new anointing." Wow. When this pastor told me, I was amazed, but I was really really feeling inside anger and jealousy. But I pretended that I was happy. I said, "God bless you because I want to ask you a question. If Jesus is coming to my house, do you not think he should see the owner of the house first? and to go and see a visitor in the next room when I am here and I'm always here what a shock shock but I tell you if I was waiting for all
+
+these fantastic experiences experience fantastic I would not be in the ministry today. I've read in my Bible. Many are called. Many are called. I believe it. And I have a desire to work for Jesus. Hallelujah. Hallelujah. And I'm doing it. Hallelujah. Hallelujah. And I'm preaching. So my friend, do not wait for these fantastic experiences. Before you believe what I've written in this book, many are called

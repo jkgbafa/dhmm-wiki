@@ -1,0 +1,55 @@
+---
+title: "29 WAYS TO PREACH WELL PT 2 |  MAASAI MARA, KENYA| DAG HEWARD-MILLS | 2010"
+channel: "DagHewardMillscamps"
+platform: "YouTube"
+video_id: "lc2Etv-g-sg"
+url: "https://www.youtube.com/watch?v=lc2Etv-g-sg"
+year: 2010
+duration_min: 20
+source: "autocaption"
+match: "exact"
+---
+
+e welcome to track number 16 of the privilege psm6 109 and you explain us he cannot understand are you there number 20 develop the art of making people laugh people want to be happy there is so much sadness in the world Amen wow number 21 soak in breaching ties amen listen to messages number 22 catch the anointing to teach amen it's not by might is not by power but by my spirit says the Lord amen it's not by might it's not by power it's by my spirit says the Lord amen number 20 three title your
+
+sermon give a title to your sermon amen don't just come and say tonight as the spirit leads I'll be sharing certain truths about certain Revelations certain insights certain understandings of the mercies of Almighty Jehovah that are intended to stimulate your life into the higher Realms of encounters with the presence of Almighty and The Cloud of Shana Superior glorious Angels attending to this Revelation and message what exactly are you preaching about what what is the topic can you remember the topic can anybody tell me what I'm preaching about you can really remember so tell us exactly
+
+what you are preaching about amen how many are going to be good Shepherds with good preachers is it not an honor to be a good shepherd and be a good preacher amen it's a powerful thing you must always have a lot of things that you are learning about how to preach amen amen number 24 preach with authority and with confidence amen 21 Matthew 21:23 Jes Bible says by what Authority doest thou these things and who giveth these these Authority that people were asking the Bible says for he taught them as one having Authority amen wow
+
+number 25 pray prepare extensive Authority comes by experience so the more you preach so pray for opportunities to preach more you preach the more Authority you have more confidence you have in what you are doing are you listening to me to amen and as you prepare God will bless you now the next one prepare extensively to preach amen prepare extensively now this is a very very important Point amen God wants you to prepare the Bible talks about the preparation of the Gospel you must learn the art of preparation preparation is ongoing all the time amen
+
+I have to prepare all the time all my books are preparation right now I'm preaching all these all these are things that I I I I wrote is preparation I'm just preaching my books to you all I'm preaching is books that I wrote give me a give me lay people this what I'm preaching I've not yet preached anything from here I've not preached anything from this I'm preaching from this book you don't know that I'm preaching from this book you just found out I was preaching from this book I've been preaching from this book since
+
+I came here I prepared years ago and still preparing you need to prepare we all need to prepare but you see when you you know it in a way then you realize that this is something and many of you think you know lay people in the ministry is it not true you think you know you've written exam on it but you don't really know it you say you've passed exam in it but you don't really know it is it true or it's not true huh yeah you think you know you say you pass exam but
+
+see you don't meditate you don't really know that's not the way I read books the way most of you read books not the way I read books that's why you can't remember anything and unless you get a very clear sign you will never know what it is through because you don't prepare extensively you see if you are a pastor you always have a book like this you will say Lord speak to me and you open anywhere just what is this one Ministry work consumes a lot of a large amount of time and suddenly God will
+
+speak to you that you need more time that's how people don't read you see what I want to say is that you call yourself a pastor but you must know that there is in pastoral work there is something more for you to learn you see your measurement Ministry when you when you when you measure yourself the when you measure when you measure it's very depressing but most of us don't want to measure we don't want to be judged now when when I measure Lighthouse Chapel International it's such a miserable church when I put a measuring
+
+Rod is such a miserable church when I say miserable like we have done nothing but it's only when you measure one Pastor said to me but you you have got more churches than anybody you have so many Cathedrals pastors churches that is not what I'm not I have long time I stopped comparing myself with other churches and other past these are not what those are not my standards my standards are what God has told me to do and then my other standard is what there REM what work there is there's so much work to be
+
+down when I look at the work to when I look at Kenya how many are you in your church how many people are there in Kenya how many are you how many are you huh if you 100 or 200 or whatever how many are you how many people are there in Nairobi what have you done you see that's why the measuring Rod when you measure it's so pathetic it's so pathetic I use the word even miserable so you've got th churches you've got this oh there is a very realistic way of measuring it brings the
+
+almost depression it's true and if you measure yourself you would tell yourself look I'm not a pastor I'm a Cale leader you you tell your you tell your I don't how to preach you watch preacher and say if this is preaching I'm not a preacher you you you will listen to the book and say if that is what is in the book i' then I don't know the book I don't have any idea of what is in the book If this is what it means then I I I don't know it I don't know it
+
+and if I don't know this one I probably also don't know what is in mega church and I probably also don't know what is in loyalty and disloyalty it's true recently I called some people to our crowd that were going to sell books and I asked some of them take this book introduce it if you are going to introduce it to me what will you say and I was listening to the different people introduced I realize that some of them they didn't know anything about the books they are smiling they are flowing they don't they
+
+empty as far as the book is concern zero if I was to give you the book and say introduce this book to make me stand up stand up if you don't want trouble don't sit near the front you you you supposing you meet me I want to make me buy this book what would you say why I need this book you see then you see whether you know the if I give you other books I said can you talk about it then you realize you don't if you take just take it and measure yourself truly
+
+that's where you will see that I've called myself a pastor somebody is having a church service 50 52,000 chairs are inside and 50,000 chairs are out benches are outside you are happy with 33 people you all call Pastor when I measure myself I fall short I I cannot lie to you I fall short and I'm afraid so I beg you measure yourself now Bible says if you judge yourself you will not be judged so assess yourself severely and harshly rejoin and he had this terrible Vision not terrible but difficult Vision sit sit down do you
+
+feel comforted rejoiner he had his vision of rejoiner and the Lord said to him him the reason why I've given you this vision is because you asked me to judge you ruthlessly and there were two word one was ruthless har ruthless I should judge you harshly and ruthless every aspect of the vision that he had exposed him and took him down further in the ministry he was by the time he finished he was completely naked and useless and he said I'm giving you this vision because you prayed for it so judge yourself harshly and ruthlessly
+
+so that you not go to heaven and they say Hey you have thousand CH when you go God will say th sit down then they say turn your bottle come you you expecting a crown bend over lashes instead of a crown you say you get a crown B over how many people were in the world how many people were in the world 7 billion you said what when I called you you didn't come B over you say you were doing what marketing bover I send you to preach the word of God we are preaching motivational
+
+ideas move this you see the Camp initially we getting crowns crowns of Glory now we are getting lashes turn over hey you've come expected you you you you come okay sit down come you are coming for come if you you are coming for Crown Crown bend over you say Crown don't bring your head bring your bottom come on hey I see that's why you have to assess yourself you see that you were praising yourself too early like black Stars One Nail you were praising yourself one day black stars was playing with Germany we played against
+
+Germany Ghana black stars is Ghana team we played with Germany I think we were playing in Germany or somewhere H and Ghana black stars team and German national team we scored One n in those days we had a p p and some of those guys and we scored them 1 n 45 minutes went by it was 1 n we came for the second half another 20 minutes went by still one n we're left with about 20 25 minutes then something happened then they scor that seven seven or was six six six gold one 2 3
+
+4 5 6 so don't praise yourself because of one na that you had at half time while n after 70 minutes have gone by you are praising yourself there's 20 minutes more to play you can be scor six nil six goals we were totally disgraced that day bring it you say you want Crown come on Earth they call you Reverend you shall show you shall Reverend of what turn round hey see a big man like this you be be lash in heaven now if in Singapore they lash you for chewing gum how much more Heaven
+
+amen we have almost finished prepare prepare extensively to preach number 26 introduce the message well amen number 27 preach in series amen number do you understand preaching series all these are in the book I don't even know what you are writing I've written it already for you you have I'm sure you all have end the message well amen end on a happy note if you can if the message can be ended happily some messages cannot be ended happily and 29 do alar call for salvation and healing amen and number 30 have beautiful songs interspersed with
+
+your messages is it not powerful amen all right all right all right all right all right how many have become good preachers can you watch a video is this thing going work does it is it clear is it clear the bed sheet doesn't look very clear you triying it you sure stand on your feet let's pray okay get it ready we watch is it time okay all right lift your hand up father thanks for the great opportunity and the great blessing given to us in the name of Jesus Christ of Nazareth just thank God for
+
+the opportunity to be a shepherd and the privilege to be a Shepherd in Jesus name e

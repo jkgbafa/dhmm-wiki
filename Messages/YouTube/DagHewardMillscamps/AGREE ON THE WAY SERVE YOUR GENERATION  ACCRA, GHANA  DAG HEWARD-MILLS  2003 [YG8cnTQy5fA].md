@@ -1,0 +1,65 @@
+---
+title: "AGREE ON THE WAY SERVE YOUR GENERATION | ACCRA, GHANA | DAG HEWARD-MILLS | 2003"
+channel: "DagHewardMillscamps"
+platform: "YouTube"
+video_id: "YG8cnTQy5fA"
+url: "https://www.youtube.com/watch?v=YG8cnTQy5fA"
+year: 2003
+duration_min: 21
+source: "autocaption"
+match: "exact"
+---
+
+welcome to track number one of agree on the way father we thank you for your wonderful presence we lift our hands to Heaven Lord and we say Lord may we know you more and more as we read the words of Jesus may we know you more and more may we grow in you more and more in Jesus name thank you Lord thank thank you Lord you may be seated we are going to get wisdom at this Camp do you want wisdom we need wisdom amen all right the words of the preacher chapter 1 verse one
+
+the words of the preacher the son of David King in Jerusalem vanity of vanities say the preacher vanity of vanities all is Vanity I will explain that tomorrow what prophit hath a man of all his labor which he taketh Under the Sun H verse four one generation passeth away and another generation cometh but the Earth abideth forever The Sun Also ariseth and the sun goeth down and hasteth to his place where he arose the wind goeth toward the South and turth about unto the north it wellth about continually and the wind returned again according to
+
+his circuits all the rivers run into the sea yet the sea is not full unto the place from whence the rivers come thither they return again all things are full of Labor man cannot utter it the eye is not satisfied with seen nor the year filled with hearing the thing which has been it is that which shall be and that which is done is that which shall be done and there is no new thing under the the son is there anything whereof it may be said see this is new it has already been of old
+
+time which was before us amen amen now tonight I want you to remember this phrase that you see in verse four one generation passes away and another generation cometh amen amen one group passes away and another group comes every time a group comes the group often feels that it is the only group the main group how many realize when you were in secondary school you thought you were the you really knew what was happening in the world isn't it huh you really feel that you are the real latest you really understand everything is that not
+
+so but what you must understand is that the world is divided into Generations one generation comes and passes away and another one comes and just as the rivers flow into the sea and the sea is never fall the generations pass by and it never ends it never ends the most important thing is for us as a generation to know what happened to the generation directly in front of us and the generations ahead because even though your life looks like the main thing it's not the main thing it's just one of several on the way you
+
+see I am not the main Pastor in the world or even in Ghana and I'm not the only and I'm not doing anything that is new do you understand and neither are you your life is one in a train you are part of a train and it will be very good for all of us to understand you get what I'm saying and flow with the wisdom of God so that in our generation in our time we will do well because how many of you are in your 20s some of us are in our 40s huh
+
+how many how many are teenagers that's you not yet 20 please can I see your hand good more teenagers here amen amen but just as you are in your 20s there was a time that we were also in our 20s and we were also here in the university and we have passed away and you see in our passing it does not stop the Next Generation which is coming from coming and they come as though you were never there recently a man died on the national Reconciliation Commission fact I don't want to start talking if I
+
+start talking we not going to end now a man died at the national reconciliation commiss you get what I'm saying and he was testifying about Rollings and something he died my wife told me I travel she said man I said something really struck her she said that the man fell down this bishop Paka and others they all bent down trying to resuscitate the man and to bring him around and then they rushed him off to the hospital you know then he was pronounced dead so I think there was pandemonium and after a while they just
+
+uh came back and announced that look this man who was testifying a few minutes ago has been pronounced dead so they ask everybody to stand up and observe a minute Silence of the man after the minute silence he said shall we have the next witness please and another generation just came as though there was no generation in front and she said she was so she was so surprised it's like life goes on with you without you so you come into the world thinking that the world is revolving around you but it's not understand a delusion
+
+were you in the delusion service yesterday I think that was a good camp oh and you find out that um we are not as important see none of us is important life just goes on can we have the next witness the next person was called ask if somebody has not somebody was sitting there a few minutes ago is dead can we not even pause try not to die I tell you if you die you'll be very surprised life goes on as though you never came so you are just one person who is past mind you
+
+must know that in your time and in your day you know this particular important Revelation that one generation comes another one comes by is to first of all humble us so that because when you are proud you think in the wrong way and you take wrong decisions are you listening to me and when you don't when you realize that you are just part of a generation you realize that you have a responsibility for your generation that's why I have to write books because Ken Hagen who is 80 years old many of you have not read
+
+how many have not read a book by Canan before raise your hand you've not read any book by can raise raise it high raise it high raise it high raise it high very good most of you have not how many have read a book by can before yeah how many have read a book by Dy Mills before so you realize that even though he has written books you get it in my generation you understand I have to do what I have to do for my generation because there are many who will not do there are
+
+many who have saved their Bible say David saved his generation you have to serve your generation and you will pass off so really we are here for our generation and so what I can do I tell you no matter what I do I cannot do what you can do for your generation cuz I am not in your generation per se in a sense I'm in your generation but in a sense I'm not in your generation yeah because by the time if I live and if you live by the time you are 40 I will be
+
+60 something yeah or by the time you are 40 something I'll be 60 something but time you are 47 getting to getting to 70 if we are all here it's all a matter of if we are all here yeah you get it some of you young girls who don't have children about by that time you'll be getting towards your menopause you can't imagine that you be menopausal so may God give us humility amen amen and may we serve our gener look you see me I'm writing books there are books you must write you must write
+
+there are things you must do we can't do let's all of us here assume that we all have children not everybody will have children but assuming that you all have children 3 three three 3 3 3 3 three for do you see in 20 years time there will be 20 year old old 19y old people you get it just around your side stand up you stand up are you yet 20 years old okay you just like this they will be all your children I tell you who is going to preach to them who is going
+
+to minister to them so when you have a generation where there's no leader where you have a generation where no one Rises up to do what he has to do where no one does his path where no one does what he alone can do for his generation you have a cur generation have a generation which is a cur to have its leaders and the pastors the men of God who are forsaken or they did not do what they are supposed to do one day I was at a golf course in England and I was with
+
+some a whole lot of white people were there and were eating and drinking and I was just standing there somebody was paying for something and the Lord just said to me the pastors of these people have forsaken them there are no pastors there are no pastors of these white people look at how they are so I tell you our generation your generation is depending on you so if you think you see and that is a deception you see that's why I started a bible school because how many of you have been to Kenan Bible school
+
+no but you are in my Bible school that's why you are here you understand because this is a Bible School how many of you have been to oses Bible school look Pastor Jacob went to oses Bible Bible school and church and he said half of the church had been they closed half of the church and he saw some old bus line packed there and so on you know but you see there was a time that almost all the ministers in Ghana went to that Bible School Bishop danan Williams Bishop aari chrisy do um Bishop Bishop
+
+James um a Christian Faith Church Pastor in uh Redemption hour any person who is a serious man of God that is the place you will go to for that generation now they've closed half of the church and the man is not there I don't know what is happening so in our time to if if I get that is what made me not almost start a Bible scho because I thought oh but there are greater people there are better people who am I but the Lord is saying that there may be greater people or whatever in
+
+your eyes for today but that is for their generation and for your generation you also have to be a great person for your generation and you cannot let what you see ahead of you tell you that there's nothing for you to do there is there are great things that God has for you and that's why we are at the camp because we must agree on the way do you understand the theme there somebody agree on the way you see the Bible says when your friend is angry with you and you owe him whatever and he's
+
+taking you to court you understand on the way you understand you should agree with him you understand what I'm saying agree with him agree with thy accusers make peace on the way not make sure you sort it out with him on the way but you are going before because in if he gets to the place the Judgment place not going to be easy at all and they call the case like that so and so versus so and so and they called the case and these points are brought up it's not going to be easy that
+
+is why on the way you have to agree and you see now we are on the way to and this why he was talking if people don't know when I read it to you tomorrow you heaven when you you get that there will be no further discussions or whatever this the time if you want to change any idea or mind this the time as we are moving now we have to agree on the way before we go and arrive there and we see that it's not going to be easy for us at all are you
+
+understanding what I'm saying so this if we have any change of mind or any negotiation of any agreement to do and just lining up do you understand this is on the way now let me tell you if you can know the right thing now your life will be different look me I was 25 years old I was the pastor of ligh house yeah and I'm still in a sense you know I should be careful what I say but in a sense you know I'm so blessed you know I don't want to say a lot of
+
+things oh yeah if you will flow with the Lord early the Lord's blessings will be your por you see there are some things when you grow is not easy I saw a certain brother was 4 something he was going to start a church it's not easy to start a chur when you are more than 40 years old huh but at a certain level it's not bad you can do your best for the Lord so this is our time amen amen so tomorrow we'll be continuing we'll start early in the morning amen am and uh what
+
+time shall we start 8:00 it's it's it's too early I I hope you have seen that scripture before when your friend is taking you to court discuss it with him on the way because Upon Our you see when we arrive in heaven that's the end of all discussions and whatever so it it's better for us to agree and change our minds now that we have not arrive anywhere and now that you are not yet 40 years old or 60 years old sorry or whatever years old this is the time to adapt and flow with the
+
+Lord can I have an amen amen stand to your feet father thank you for your blessing your healing touch our lives change our Our Lives bring us into your perfect will Lord in Jesus name amen amen God bless you we'll see you in the morning we believe you have been blessed by the powerful teaching by Bishop dward Mills for further information on Bishop heward Mills tapes and books please write to Bishop D heward Mills P box KB 1114 kibu Acra Ghana or call 021 66255 Fox 021 66 8934 God richly bless you know you know
+
+I like this

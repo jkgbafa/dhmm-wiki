@@ -1,0 +1,34 @@
+---
+title: "Healing Evangelist Dag Heward-Mills in Mozambique, Africa"
+channel: "DagHewardMillsvideos"
+platform: "YouTube"
+video_id: "bIyWp88LG5Q"
+url: "https://www.youtube.com/watch?v=bIyWp88LG5Q"
+duration_min: 20
+source: "autocaption"
+match: "exact"
+---
+
+evangelist die cubed Mills and the healing Jesus campaign team are rapidly expanding massive evangelistic efforts across the nations of Africa preaching the gospel of Jesus Christ after more than 10 years evangelists die cubed Mills continues to reach many countries on the continent with the Word of God Mozambique is one of the countries the healing Jesus campaign visited holding a series of nine campaigns across the southern region of the country preaching the gospel and ministering the healing power of Christ time and time again Evangelist accurate Mills has shown his result for willing souls in Mozambique in
+
+the nine City campaign three hundred and twenty eight thousand and eighty two souls were one for Christ this commission was extensive it was an obligation or to disperse them set to every nation every corner of the inhabited below to bridge to creature without exception without limitation Mozambique is a country in Southeast Africa the capital of Mozambique is the beautiful city of Maputo like most African countries Mozambique was colonized by the Portuguese for over four centuries the war for independence was an armed conflict between the guerrilla forces of the Mozambique Liberation Front or frelimo and the
+
+Portuguese this war lasted ten years after which the country became independent in June 1975 Samora Machel became the first president of Mozambique within three years of Independence most of the 250,000 Portuguese in Mozambique had left some expelled by the government and some fleeing in fear a rule known as the 2420 order was instituted by the government this law ordered the Portuguese to leave the country within 24 hours with only 20 kilograms or 44 pounds of luggage per person in 1977 shortly after Mozambique's independence civil war broke out in the country which lasted 15 long years
+
+until 1992 the civil war was fought between mozambique's rule in front for the liberation of Mozambique for Alima and insurgent forces of the Mozambican National Resistance ronimal about 1 million Mozambicans were killed in the fighting or starved to death due to the interrupted food supplies 5 million were displaced the Mozambican civil war destroyed much of Mozambique's rural infrastructure including hospitals rail lines roads and schools Samoa Michelle the first president of Mozambique ruled for 11 years he died when his plane crashed near the Mozambique South Africa border while he was returning from a summit in Zambia
+
+today in the capital nepata pre-independence mozambique is visible in the form of opulent high-rise buildings an affluent infrastructure concentrated in the city centre after independence Maputo has continued to expand into a massive city healing Jesus campaign travail to Mozambique and when the evangelists himself arrived at Mozambique Airport there was such an amazing welcome it was a great beginning for the campaign yes is Desiree todos vocês que estamos durante una contest name Amparo Lopez Hawkins meant story y nunca acontece a no me des terreaux pues no so spice e yo Tommy noticed me a algo igual
+
+que hace memoria homocore Tzadik a few realest dad runs posada de River en banc a mess for so Emma puto aguma compagnie des invalides nos Navidad negative emotion divorce nos podemos ver esto como soy yo al resposta vultuz horizon's' nas accompany ahmo's Milan's diamond our source aquí en vaulted esta por asada accompany ahmo's milagres pessoas que de ver nuestro a visa a Berta pessoas que non ovo gorrister a window / source is the man paralyzed Dada's the Winston's interior is no organism for on the cerrados is the el poder de Jesucristo buta she has be
+
+totally blind for five years sequence ellison total baby according to at all at all for filling their licensing about a person was in that Sally's matter me be the pair Gigi so I am Anna walk all by yourself to display enough you'll see a break in something she could never do I didn't support that blue that hey you might rise wow she could not see the color here can you see my face c'mon hey Simon Eyre has been paralyzed for the past two years submarines with ocean she has to get up with the help of
+
+us or attack but on Sunday my sister to me the power of God to say Mottola but then this Agrella Medora she suddenly realizes she could stand on a law do not respect associate seconds the elephant ah and walk on her own yeah that's so see ya she Angus oh yes haha what has happened to you so what do I look like Oh you thank you know something I think is horny I am very happy because I can see now who healed you yep unassailable desecration Evangelos precise she used to walk 13 years the transionic
+
+this is how she used to walk yesterday head and a physician is tonight the healing Jesus campaign invaded Mozambique with the gospel of Jesus Christ travelling through nine different cities Jesus before he went away commissioned his disciples to go and teach all nations this commission was extensive it was an obligation for the desire to disperse them say to every nation every corner of the below - fridge - without exception without limitation lord I wanna be a pendulum I'll be fine said be into I can't one of the notable towns that the healing Jesus campaign visited
+
+was the town of chalk way char kway was also special because it fell on the evangelists birthday while the Evangelist was doing what the Evangelist loves to do which is to save souls and to bring people to Christ his birthday was celebrated Oh in the year 2000 Mozambique was hit with heavy flooding and chalk where was one of the places hardest hit five continuous weeks of rain that flooded the entire area Mozambique suffered a massive flood in February and March 2000 1400 kilometers of arable land was affected and 20,000 herds of cattle were lost he
+
+said it was Mozambique's worst flood in 50 years shockwave was one of the towns that was heavily affected he saved whatever dude do you believe in treats the holy spirit stream thousands of men running downstream they didn't go that the road was biddy and the to the late a woman who was trapped for days on a tree during the flood gave birth to a baby girl on the tree both mother and child were later saved by rescue workers on a helicopter you say he said for run while all teachers ma did you altitudes away of
+
+decision oh yeah they are waiting hoping to hear they don't know Jesus Christ saved you he said brother say we safely what I will do Oh why do we sit and wait there is or not to preach the word you're ensign what is missing into the church region he said you say save you and he said but what I would do

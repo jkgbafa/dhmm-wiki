@@ -1,0 +1,45 @@
+---
+title: "Front Matter"
+book: "How You Can Become A Strong Christian"
+book_number: "045"
+chapter_number: 1
+type: book
+---
+
+Unless otherwise stated, all Scripture quotations are taken from the King James Version of the Bible.
+
+\
+
+Copyright © 2015 Dag Heward-Mills
+
+\
+
+How You Can Become a Strong Christian
+
+\
+
+Find out more about Dag Heward Mills at:
+
+\
+
+Healing Jesus Campaign
+
+Email:  evangelist@daghewardmills.org
+
+Website:  www.daghewardmills.org
+
+Facebook: Dag Heward-Mills
+
+Twitter:  @EvangelistDag
+
+\
+
+EBOOK ISBN :  978-1-68398-148-0  
+
+\
+
+All rights reserved under international copyright law.  
+
+Written permission must be secured from the publisher to use or reproduce any part of this book.
+
+\

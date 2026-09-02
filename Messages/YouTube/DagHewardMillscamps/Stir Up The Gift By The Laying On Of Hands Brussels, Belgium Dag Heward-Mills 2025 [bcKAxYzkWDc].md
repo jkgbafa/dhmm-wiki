@@ -1,0 +1,373 @@
+---
+title: "Stir Up The Gift By The Laying On Of Hands | Brussels, Belgium | Dag Heward-Mills | 2025"
+channel: "DagHewardMillscamps"
+platform: "YouTube"
+video_id: "bcKAxYzkWDc"
+url: "https://www.youtube.com/watch?v=bcKAxYzkWDc"
+year: 2025
+duration_min: 77
+source: "autocaption"
+match: "exact"
+---
+
+All things to your remembrance. To your remembrance. To your remembrance. Yes Lord. Let's pray.
+
+Hallelujah. Hallelujah. You know a lot has been said in this camp in a very short 24 hours. It looks like we have been here for one week. I know we have the same feeling.
+
+I mean I even I came late last night and even what I have heard since last night to today is enough to affect your Christian life in a very significant way. How many of you agree with me on that? That so much has been poured out to those of us here in Belgium. So why is it that people come for camps like this and they go back and remain the same is because many people forget. Many people just go and then they forget.
+
+But I believe that one important aspect aspect of the Holy Spirit work is that he will bring things to your remembrance. Jesus made that very very clear. He said that the Holy Spirit, he says, "But the comforter which is the Holy Ghost with the father will send you in my name." Number one, he's going to teach you. So that is what our prophet is doing and that is what the words that he's speaking are the words of the Holy Spirit teaching us. He is just a voice that God is using because he's a voice that we love.
+
+He's a voice that we trust. is a voice that we we we believe in, but it is actually God himself that is speaking to us using the voice of our father and the anointing that is on his life. The gift that God gave him is this gift that we are experiencing from today. You can teach. It is the teachings that he has been teaching.
+
+It comes all over the world. That has generated the church that we have. It is the gift that God gave him that he's using to to to change our lives and that gift is from God. That gift is from the Holy Spirit. So it's God that is using him.
+
+Now on our part unfortunately because we are human one of the that has generated this chicken. It is the gift that can come and that gift is from God. So it's God that is on our mind. We can also not only because we are here all things but then they tend to forget after a very short even when we leave. I believe that we can also create.
+
+We know that Jesus will do best to bring all things all things to our remembrance. Even when we leave and we are in danger of remind us about us how important it is to obey. One of the scriptures showed us blessing for me. that applies to churches because churches are churches. When the father speaks and every problem I have every day and I saw the That's why I delay I was my problem and came out of also an instruction that I didn't know that I was taking my time analyzing it.
+
+At each as you go through this two options that are set two options like that instruction instruction instruction a blessing. You go if you obey that instruction. Once you obey that instruction, your life just goes on the blessing. one that disobey that instruction to remember you see that nothing to remember to Remember bring your remeance. You know when God made the people when he gave them a lot of healing weakness when you went to the exam And then you couldn't remember that Belgium.
+
+The spirit the Bible say he teach you all things you couldn't remember the Bible say all things to your remeance. So you want to ask God only that help me help me. me. All that was said, may it stay with me. May it be imprinted in my heart.
+
+Holy Spirit, help me to remember. Help me to remember. Lift your voice. Help me. May I never forget.
+
+Holy Spirit, help me remember. Help me remember. Help me to remember all that has been taught. All that has been said, all that has been spoken. Holy Spirit.
+
+Holy Spirit. Holy Spirit. Holy Spirit. Help me remember. Help me remember.
+
+Help me to remember. Help me to remember. Help me to remember. Oh yes. that there is a blessing if I obey.
+
+There is a curse. If I disobey, may I never forget me. May I never forget. May he stay with me. May he stay with me.
+
+days. Sweet Holy Spirit is sweet Holy Spirit. Help me to remember to remember bring all the things that were said that in this country to my remembrance. May I never forget forget anoint right now. every single man.
+
+Holy Spirit is Holy Spirit is help me. Help man. Help me. Help me. Help me.
+
+Help man. Help me. Help me. Help me. Help me.
+
+Help me. Help me. To remember to remember Holy Spirit. May I not forget all that was all that was imparted. Holy Spirit.
+
+Help me remember. Help me to remember. All that was Oh yeah. Oh yes. Oh yeah.
+
+Oh yes. Oh yeah. Thank you Lord. Thank you Lord. Thank you Holy Spirit.
+
+Thank you Lord. Thank you Holy Spirit. Thank you. Hallelujah. My life is changed.
+
+My name is My life is changed. My name is permanent. This change is permanent. This change is not for justice. Change.
+
+Change. A permanent change permanent has taken place in my life. In my life. In my life. Sweet spirit of God.
+
+Thank you. Thank you. Thank you. Thank you. Thank you.
+
+Thank you. Thank you. Thank you. Thank you. Thank you.
+
+Thank you. Thank you, Holy Spirit. Thank you for helping me. Help me to remember. Remember to remember to remember.
+
+Hallelujah. Holy Spirit. Holy Spirit. Holy Spirit. Holy Spirit.
+
+Holy Spirit. We never we never forget all that in Jesus name. You may take your seat. Hallelujah. Hallelujah.
+
+Now turn to second Timothy chapter 1. This last session I want to just pray for everybody. So 2 Timothy chapter one. Now it says in verse six, wherefore I put thee in remembrance that thou stir up the gift of God which is in thee by the putting on of my hands. For God has not given us the spirit of fear, but of power and of love and of a sound mind.
+
+Amen. So, I don't know if we can start turning off the lights like upstairs and all the upstairs and all that kind of thing before we get to this point. Now, when it comes to the gift of God, laying on of hands. There are three things that uh cancel it. All right.
+
+Okay. Three things that cancel. Are you listening? Now, number one, let's look at it. Says, "Put thee in remembrance.
+
+Stir up the gift of God which is in me by the putting on of my hands." Verse 67. For God has not given us a spirit of fear. Now fear is the atmosphere of that is against faith. One of the things you must believe is that when hands have been put on you, you have to believe. Whether you fall down, whether you tremble, whether you don't fall down, whether you have any reaction or not is you have to believe.
+
+Mark 11 verse 24, when hands are laid on you, at that point you have to believe that you have received. Whatsoever things you pray, you have to believe that you are receiving them. When you pray, look at the word when. Time of believing is important. You are supposed to believe at the time the prayer is happening.
+
+That is the time you're supposed to believe. So you see one day God started to show me people that have laid hands on me and I realized great people have laid hands on me. Some mean even by handshake. I just shook his hand. He shook me stretch his hand.
+
+That's all. That's all. And you have to believe. If you believe. So number one, God has not given us a spirit of fear.
+
+It's directly connected to laying on of hands. If you put the two verses together, it says in verse six, God has not verse six. Verse six. Oh, put six and seven together. Hello.
+
+Hello. Hello. All right. Verse six and verse seven. Oh, six.
+
+Obsessed and obsessed and univer because he was joined in me. Stir up the gift of God which is indeed by the putting of hand. Most people don't realize that verse seven is because of verse six. Verse seven So this is why he says for for so fear or a lack of faith the laying on of hands. Number two cancellation.
+
+All right. Number three is is a lack of a sound mind. When I lay hands on people, I realize that the mind of the person plays a lot. Now do if the spirit is working does it does it is it connected to your mind? Yes.
+
+You see one day a man man was standing on the road and a big bus came and blew the hole. Now this mad man who was mad jumped out of the madness. So the mind is very connected to receiving things spiritually. When the demons came into the mad man of Gada, it affected him but not to the point of killing him because his mind the mind has a way of affecting this ability to receive spiritual things. Now, when the same demons that were in the man went into 2,000 pigs, distributed themselves into 2,000 pigs, all the pigs were killed instantly because the pigs have a much smaller brain and don't have the capacity to think or to understand.
+
+The effect was absolute. Absolute. So I'm showing you by this that there is a kind of a filter. Your mind does affect how you receive spiritual things. Yes.
+
+Otherwise the mad man of be put straight into the river and also died in one day. But no matter how it agit they just made him take off his clothes himself. to get out of his head and to end his life. The thing will not still go to that was blocking it. reward.
+
+And then the other thing is that you see the mind is part of the spirit world. This is what people don't realize. The mind is part of the spirit world. That is why he calls it the spirit of a sound mind. It's also a spirit.
+
+The mind is a spirit. Now if you go to a church where they are taught about laying on of hands and receiving the spirit, you find that Depending on what they know and what they thought, they receive more or they receive less. If you ever preach to absolute illiterates, they struggle to receive either miracle, the spirit or anything, absolute ignorant like they don't understand the language. They don't understand anything. The understanding blocks because understanding is also a spirit.
+
+It's also part of the spiritual filters in the spirit realm. Amazing. Amazing. So you you you have depending on what people how the mind is working and how the understanding is working people receive more or receive less. I'm giving you three things that are going to affect as a filter to receive the gift by the putting on of hands.
+
+One is faith or fear. The second is the mind, the sound mind. and I'll tell you the f. Okay. Yeah.
+
+Now, the third thing that affects the receiving of the spirit is love. She does not love the person who is raping her. So even though she is having exactly the same experience as having sex because she does not like the person. She may even abort whatever comes into her from the rape. This is the reason why sometimes the people kill and rape because the person is so resistant that they have to knock the person out for the person to be calm so that they can penetrate her.
+
+Yes. Because there's too much resistance to somebody you don't like. when there's somebody you like open wide open come so your heart opens wide open depending on that as well I hope this will help you I've been praying for people for years and see differences in the effect in effect of the laying on of hands. Amen. Amen.
+
+Affected by faith affected by the mind, sound mind and affected by love. Love is the openness to receive. Is openness open. Yeah. Yeah.
+
+So the Bible says he that minister the spirit to you doeth he by the hearing the works of the law or by the hearing of faith. Galatians minister by faith. Amen. Amen. So let God remind you of every hand that has been laid on you and This great faith have a mind flows that fluids and learns and lives and receives and understands and believes and number three and number three have great love.
+
+Yes. Love another word for love is admiration. Yes. Yeah. So things going on in your mind can affect you from receiving.
+
+Yeah. So sometimes I can even measure a church when I start to lay hands measure the church in a certain way. So God is going to bless you my and uh I know this is a great blessing for you to say amen. Serena, are we ready? Yes, sir.
+
+If you can turn off some of these big lights. So we're going to watch a short clip using Jesus campaign and then after that we just have a short prayer time then we'll be breaking for the evening session. All right. You need to turn off other lights if you can. Possibly.
+
+Oh. Oh. There's a businessman. There's a widow wife. A smiling face with a shattered life.
+
+A teenage girl with a choice to make. It's crowded here in church today. And the preacher says as a sermon ends, "Please close your eyes, bow your heads. Is there anyone in need of prayer? Oh, Jesus wants to meet you here.
+
+Cuz we all fall short and we all have sin. But when you live, God's grace begin beautiful. You are surrender your heart broken and beautiful. Well, he never been to church before, but he came to me as a last resort. His world was crashing in and he was suffocating in a sin.
+
+But tears rolled down. His whole rushed in. He closed his eyes, raised his hands. Worshiping the God who can bring him back to life again is beautiful. Beautiful.
+
+Yeah. Heat. and beautiful cuz there's nothing more beautiful and when his sons and daughter say Jesus Jesus please forgive me for my sins please forgive me for my sins Oh God. Oh God. I am a sinner.
+
+Oh Jesus. Oh Jesus. I know I am a sinner. Tonight I come to you Lord. I come to you Lord.
+
+Just as I am. Just as I am. Oh God. Oh God. Please wash away my sin.
+
+Please wash away my sin. Make me a new person. Make me a new person. From today. From today.
+
+I open my eyes. I open my heart. I see you. Yeah. Heat.
+
+Heat up here. Since 2004, the Healing Jesus campaign has been on a mission to preach the gospel of Jesus Christ across the world. What began as a small gathering has grown into one of the largest global evangelistic movements, reaching people from all walks of life. Over the years, evangelist Dag Huard Mills and the Healing Jesus campaign have traveled across continents impacting nations with the message of salvation. The evangelist has also had the privilege of meeting with various national leaders, including presidents, to share the life transforming gospel of Jesus Christ and bring hope to millions.
+
+Oh. Oh. Oh. Oh, oh, Oh, heat. Hey.
+
+Hey. Oh, now YouTube channel. I believe they're going to show you a bit about the YouTube channel after. Are you going to do that? Yes.
+
+YouTube channel. Now, I want to just I'm just going to lay hands on you. It's going to be not going to take long at all. I just want you to have faith. Let's start from here.
+
+this this this sign only the people from this church bel right beautiful now remember listen once I lay hand just Believe that God has touched you. That's all. Today marks a very important turning point from the laying on of hands. No much movement and much organizing. There's nothing to do.
+
+Lift your hands to the Holy Spirit. Yield yourself to the ocean of God. Yes. Yield yourself to the Holy Spirit. Let him have his way.
+
+Why don't you yield yourself to the Holy Spirit? Yield yourself to the ocean of God. Oh, yield yourself. Yes. Listen to the Holy Spirit and let him ride his way.
+
+Everybody lift your hands. yourself to Holy Spirit. Oh, yield yourself. Yield yourself to the uncction of God. Oh, yield yourself to the Holy Spirit.
+
+Let him have his way after glory of the Lord. He fills this holy place. Thanks, Jesus. There's power here. Glory of the Lord.
+
+Glory of the Lord. Glory of the Lord. Wave after. Thank you for wave after wave. Wave after wave.
+
+Thank you. Wave after. Don't go back. Hello. Hello.
+
+I will tell when they should go back. Don't don't take anybody back. Stand there. I will tell. There's nothing to organize.
+
+I pray for one person five times. Something fast but sometimes I pray only once. Some ankle achy. Lift your hands. Thank you to the glory of the Lord.
+
+Glory of the Lord. Glory of the Lord. He fills this holy place. after the glory of the fields. Thanks for your power.
+
+Thanks for your power. The chain wave. Thanks for the gift. The glory of the Lord. Thank you, Jesus.
+
+Thanks for holy. Thanks for your grace Jesus Jesus. Thanks Jesus. Glory of the Lord Jesus. Oh yes.
+
+Thanks Jesus. Holy Spirit move me now. Move me now. Feel fil. All right, you may go back to the next next line.
+
+God bless you. Lay those to the floor. There are too many ashes. You are blocking them. Holy Spirit.
+
+Oh, we need you to move. Holy Spirit, holy sweet spit, lift your hands again. Thanks. Thanks for your power. Thanks.
+
+Thanks. Thanks, thanks for your great grace and your receive the spirit. Receive the spirit. Receive the spirit. Watch Jesus.
+
+Oh yeah, Holy Spirit move. There's power here. Spirit move my people. Oh yes. Oh yes.
+
+Oh yes. Oh yes. Thank you Jesus. Phil. Next.
+
+Next. Next. in our lives today, Jesus. Thank you, Lord. Have your thanks for your glor through us and work through us.
+
+Fell. Thanks. Thanks for this young man. Thanks for this young man. Thank you, Jesus.
+
+There's power here. There's power here. There's power here. If you choose for your power, thanks for your glory. Thanks for your glory, Jesus.
+
+Do what you want to pray. Next row. Next row. Next row. Lift your hands.
+
+If I pray for you, let me go back to your seat. You can. You can use. Now lift your hand and receive the gift of God quickly. Quickly, quickly.
+
+Quickly. Please let them come. Come on. Come on. Lift your hand and receive the gift of God.
+
+Jesus. Fill and anoint Lord. Thank you. Thank you. It's flowing.
+
+It's flowing. Thank you. Thank you. Thank you. Thank you Jesus.
+
+Jesus. Thank you Lord. Thank you Lord. Thank you Lord for your power your glory Jesus. Jesus.
+
+Jesus. Oh yes. Thanks for your beautiful gift Jesus. Next row. Next row.
+
+Holy. Oh yes. Lift your hands. Touch me. Lift your hands.
+
+Do you have oil? Do you have oil? and all the joy that fills my soul. I know that. Lift your hands.
+
+Watch, watch, watch, watch, watch. I know. I know. Fell, fell, and anoint. Oh, I know.
+
+My God. There's power here. There's power here. Jesus. Jesus.
+
+Jesus. Lift your hands. There's power here, Jesus. Thank you. Thank you.
+
+Next row. Next row. Thank you. Next row. Something.
+
+And so please come. Please come. The gift of God, the power of God. Lift your hands. Jesus.
+
+Thank you. Thank you. Now, receive the gift of God. Receive the gift of God. Receive the gift of God.
+
+Feel Jesus. There's power here. There's power here. There's power here. Jesus.
+
+Thanks. Thanks. Thanks, Jesus. Yes. Fill her, Lord.
+
+Fill her, Lord. Jesus. Power of the Holy Ghost. Power of the Holy Ghost. Power of the Holy Ghost.
+
+There's power here. Thank you, Lord. Thank you, Jesus. Next row. Just leave.
+
+There's power here. There's power here. Father, I thank you. I thank you for calling him. I thank you for calling him.
+
+I thank you for calling him. I thank you for calling him. Thank you for calling him, Lord. Using him, Jesus. Thank you.
+
+Yes. Give me some oil. Jesus. There is power. There's power here.
+
+Receive the gift of God. Receive the gift of God. Receive the gift of God. Receive the gift of God. There's power.
+
+There's power. Thanks. Thanks. Thanks. Thanks.
+
+Thanks. Thanks. Thanks. Thanks. Thanks.
+
+Thanks. There's power. There's power here. Thank you, Lord. Thank you, Lord.
+
+Thank you for what you've done for him, Lord. Thank you for what you've done for him, Jesus. My God. My God. My God.
+
+My God. Next row just one study. Come and squeeze in somewhere. Have them come. Just find a space.
+
+Just find a space. A space on this side. 1 2 3 4 5 There's glory here. I said there's glory here. Lift your hand.
+
+Lift your hands. Anoint us. Lift your hand, everybody. Anoint us with fresh oil. Fresh oil.
+
+Fresh oil. It's flowing. It's flowing. It's flowing. Fresh oil.
+
+Fresh oil. Fresh oil. Thanks. Fresh oil. Thanks for fresh oil.
+
+Thanks for fresh oil. Thanks for fresh oil. Oh yes. Oh yes. Oh yes.
+
+Give me oil. Give me oil. There's power, Jesus. Thank you. There's power here.
+
+There's power here, Jesus. There's power here. Watch. Watch. Watch.
+
+There's power here. There's power here. Thanks. Thanks for your gift, Lord. Receive the gift of God.
+
+Next roll. Next roll. Next roll. Oh, how we how we cease to lift your hands. Breathe, Lord.
+
+Breathe. Thanks, Jesus. Thanks, Jesus. Watch, watch, watch, watch. Jesus.
+
+Thank you, Lord. Thank you, Lord. Jesus fell. Fail. Receive the gift of God.
+
+Receive the gift of God. This is a gifted church. The God church. The God church. The God church.
+
+Go church. Oh. Oh, yes. Watch. Fill.
+
+Fill. There's power here. Next room. Oh, you are the Jesus. Lift your hands.
+
+I know. I know. Lift your hands. Lift your hands. Watch careful.
+
+Father, I thank you for your power. There's power here. Receive the gift of God. Receive the gift of God. Feel there's power here.
+
+There's power here. I tell you Jesus. You are welcome in this place. Thanks my Lord Jesus. Thanks my Jesus.
+
+Receive the gift. Yes. Yes. Receive the gift of God. Faith.
+
+Faith. Watch. Watch. Watch. Watch.
+
+Move by your spirit. Lord. Move by your spirit. Move by your spirit. Move by your spirit.
+
+Move by your spirit. Touch her by your spirit. Lord. Thanks. move by your spirit.
+
+Watch Jesus. Thanks. Thanks. Receive the power of the Lord in Jesus name. Lift your hands.
+
+Next. Next line. Send your anointing. Send your anointing in this place. Send your anointing.
+
+Enjoy our Lord in this place. Endure our Lord. Lift your hands. In this place, it's flowing. There's power here.
+
+Watch. There's power here. There's power here. There's power here. Receive.
+
+Receive. Receive, receive, receive. Oh yes. It's filling you. It's filling you.
+
+It's filling you. Heal and deliver. Heal and deliver. Heal and deliver. Heal and deliver.
+
+Holy Spirit. Oh yes. Thanks. All right. Is there anybody else that this is the last go around?
+
+Thank you, Lord, in Jesus name. Stage come now. Now I'm I'm leaving. I'm leaving. It's the last go around.
+
+Please, I will not have you. This is extra time for any special people. It's just those of you from Bel lift your hands. Bless Watch. There's power here.
+
+There's power here. Fill. Fill. There's power here. There's power here.
+
+There's power here. Receive. Receive. Receive. Come on.
+
+F, watch, watch, watch. Feel and anoint. Feel and anoint. Feel and anoint. Oh yes.
+
+Oh yes. Oh yes. Oh yes. Oh yes. Oh yes.
+
+Thanks, Holy Spirit. Thanks. Thanks. Thanks Lord. Next line.
+
+Next line. Next line. Next line. Feel f. Yes.
+
+Yes. Bring your heart. Bring your peace. Thank you. Thank you.
+
+Thank you. Thank you. Thank you. Thank you. Thank you.
+
+Thank you. Thank you. Thank you. Thank you. Let me go back to your seat.
+
+You may go back to your seat. Thank you, Jesus. There's power here. Thank you, Lord. All right, ma'am.
+
+Joshua, come. Let me pray for you. Thank you for your blessing, your gift. Thank you for your anointing. Oh yes.
+
+Thank you. Thank you for the gift. Receive the gift. stand. Lift your hands.
+
+Thanks Jesus. Thanks Jesus. Receive a gift. Receive a gift. Thank you, Father.
+
+Thank you for your gift. Thanks. Love you, Lord. Everybody lift your hands. Thanks for your gift.
+
+Everyone lift your father. Thank you for the help you give to us at this time. Thank you for the power that changes our life. Thanks for your power that changes our life. Thanks for the spirit of power.
+
+Thanks for the spirit glory that rests upon these words today. Thanks for the spirit of glory. Thanks for the spirit of glory. Thanks for the spirit of glory. Thanks for the spirit of glory.
+
+Thanks for the spirit of glory. Thanks for the spirit of glory. Thanks for the spirit of glory. Thanks for the spirit of glory. Spirit of glory.
+
+Thanks for the spirit of glory. Thanks for the spirit of glory. Thanks for the gift of God. Thanks for the Thanks for the spirit of glory. Thanks for the spirit of glory.
+
+Thanks for the spirit of glory. Glory. Glory. Glory. Thanks for glory.
+
+Thank you Jesus. Bless the spirit of God. Oh yes. Thanks for your glory. The spirit of glory.
+
+The spirit of grace and the name of Jesus. Thank you. Everyone with your hands. Jesus, thank you for the spirit. We lift our hands and receive your spirit.
+
+Spirit of grace. Spirit of glory. Spirit of grace and spirit of glory in the name. The name. The name.
+
+The name. The name. The name. The name. The name.
+
+In the name of Jesus, the name of Jesus reminisce, prevails. The name of Jesus prevails. We love you. Thank you, Jesus. Amen.
+
+You may be seated gently in the presence of the Lord. What are you saying? She's a lawyer. She's beautiful. Wow.
+
+Hallelujah. Hallelujah. Good job. What are you doing? Oh my god.
+
+That's what Bless you. I just wanted us to continue praying for a few seconds. She city. Hallelujah. Brea my knees my knees.
+
+Hallelujah. Hallelujah. every Holy Spirit. Yes, Holy Spirit. Yes, Holy Spirit.
+
+Yes, Holy Spirit. Yes, Holy Spirit. He knows. He knows. He knows.
+
+Re It is take it. Take it. Take it. Yes. Yes.
+
+Yes. in Jesus name. in Jesus name. In Jesus name. I hope you've been blessed hope blessed and touch.
+
+Touch touch. Please hallelujah. Bless you. Bless the Lord. Hallelujah.
+
+Hallelujah. Amen. We're going to take a short break here. just leave the people as they are themselves. But I think you should go in the spirit of the anointing.
+
+Don't don't let the the dove leave. Just walk quietly and go take a short break and come back. Resuming at 7:00. What is the time now? We resume an hour for a final session with Bishop Joshua.
+
+So make sure you are here on time. So take a break and then come back. God bless you. Go blessed. Let's say

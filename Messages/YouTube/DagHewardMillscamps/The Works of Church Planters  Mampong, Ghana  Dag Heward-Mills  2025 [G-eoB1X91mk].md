@@ -1,0 +1,47 @@
+---
+title: "The Works of Church Planters | Mampong, Ghana | Dag Heward-Mills | 2025"
+channel: "DagHewardMillscamps"
+platform: "YouTube"
+video_id: "G-eoB1X91mk"
+url: "https://www.youtube.com/watch?v=G-eoB1X91mk"
+year: 2025
+duration_min: 19
+source: "autocaption"
+match: "exact"
+---
+
+Amen. Now, chapter three. You think I've closed? You are joking. Verse eight. Ephesians chapter 2. My bishops are the sleepiest looking group of all the people here. Don't say no. That is the case. That's the case. Don't say no. That's the I see your face. That is the case. You look the oldest and the sleepiest. It's true. Yes. Come, come. All of you come walk here and look at the faces of the people. Come, come. All of you come walk. Look at them. Look at the faces. Walk all the way here to the end there.
+
+Look at their faces. That's not how your faces look. Any bishop over 50 start counting numbers. Countdown once over 50. Countdown. Start your countdown. Yes. Soccer team made of elders, grand uncles and grandfathers are in the soccer team playing. serious Oh yes, don't worry. I'm not just saying I'm taking decisions. I'm not just saying I can assure you. Yes. My mind is working in a certain way. Yeah. My mind is working in a certain way. I'm not just making observations. So all of you here who are young enough, those who love God, if you are
+
+not a liar and dishonest, huh, did you hear me? I said if you are not a liar and dishonest, wicked, but in your heart you want to serve the Lord, God will use you. Yes, God will use you. You don't have to be older than 20. Okay. Ready at 20s. Yes. You be you'll be shocked. Yes. God will use you. Amen. So it's good that you are here. Amen. It's good that you are here. It's amazing. Verse eight. For by grace you are saved through faith, and that not of yourselves. It is the gift of
+
+God. Amen. Not of works, lest any man should boast. For we are his workmanship, created in Christ Jesus, and to good works, which God has before ordained that we should work in them. Amen. Now, God is not taking us to heaven through our works. Amen. Amen. Because none of our works can make us qualify for heaven. Yes. There's nothing we can I've done this. I've done. Billy Graham said one day I was listening to him. He said, "When I get to heaven and I I get to the gates of heaven and I'm being asked why
+
+or whether I should be allowed," he said, "Sir will be the same as your answer. allow me into heaven because of the blood of Jesus that has been shed for me. Not because I was an evangelist or because I preach or because I do any good work. He said the reason why I will enter heaven is the same reason that you will enter heaven. Yes. As for works, you are not saved by works. It says in Ephesians 2:8, "We are saved by grace. Yes. So then if you are saved by grace, what is the use
+
+of your works? If you were saved by grace, what is the use of the works? Or you don't understand what I'm saying? Since you are not being saved by grace. So that's the point that I'm trying to let you know that your salvation or entering into heaven, it is guaranteed by the blood of Jesus that has been paid. But there is going to be a judgment based on your works and it is going to determine your levels and other things apart from salv as entering to heaven for salvation is guaranteed. But something else is going
+
+to determine who you are for eternity. You see on this earth, hello are you there? Are you interested in what I'm saying? on this earth. I am I'm I'm I'm living as a doctor. I live as a doctor or a bishop, a pastor. That's my life on earth. I could have lived life as a laborer. I could have lived life as a prisoner. I could have lived life on this earth as a just as a student. I could have lived life as a soldier. I could have lived life as a carpenter. I could live life
+
+as a king. There are different ways to live on earth. When you get to heaven, there are different ways of living on the same heaven. You see that this one is living like this. This one is living as a king. This one is living as this. This one is living and and it is for eternity. You will be living in a certain way based on the works you do. But as for entering the place, you will enter. But how will you live on that place and how will it be for you when you are there?
+
+That is what that is what we are talking about. 2 Corinthians chapter 5 verse 10. You see we must all appear. We must all do what? Appear. All of us must appear. You make your appearance. You stand and here's a throne. It's called the It's called the the judgment seat of Christ. This one is called the beamer. In the Greek is called the beamer. You must appear. I must appear. We all appear at least once. And when you stand before this judgment seat that everyone may receive for the things that he did in his body,
+
+not your salvation. For your salvation, you are saved by grace. Ephesians 2:8. Look at it. Save by grace, not of your works. It's not your church planting that will save you. You don't you are not going to heaven because of church planting at all. Those who planted, those who don't planted, those who do nothing, those who do something, all are saved by grace. One salvation. But after you are saved, huh, one day the Bible says we must all appear, all appear before the judgment seat of Christ, that everyone may receive the things done in his
+
+body according to that which he has done. Whether it is good things you did or bad things you did, that is it. Every lie you told, every behavior you did in your body, h since you knew Jesus, since he saved you, what you did, how you did it, the good things you did, whether good or bad, you have to appear. I must appear. You must appear. You know, when we were in medical school, we write essay and all that, but you must appear before the panel and all the panel will ask you whatever they want
+
+to ask. That's the frightening part that is different from the great white throne. In Revelations 20 says, "And I saw a great white throne and all the dead appeared." This is different from the beamer. This one is for sal. This is for heaven and earth. I saw a great white throne and him that sat on it, from whose face the heaven fell away, and there was no place found for them. Continue. And I saw the dead, small and great, stand before God, and the books were open. And another book was open, which is the book
+
+of life. And the dead were judged out of the things that were written in the books, according to their works. Continue. And the sea gave up the dead which were in it. This is the great white throne judgment. This is different from the beamer judgment of 2 Corinthians 5:10. This is we must appear before the judgment seat. That's different. Go back to Revelations 20. And the this is the the white throne. White throne. This is the white throne. It's white. There's no blue in it. There's no red in it. There's no there's no color black.
+
+There's no black and white. It's only white. Continue. Verse 12. 13:14 keep on going. I saw the dead. Continue. Continue. And death and hell was cast into the lake of fire. This is the continue. And whosoever's name was not written in the book of life was cast into the lake of fire. Continue. Keep going. Keep going. And I saw a new heaven. Beautiful. So as for great white throne, it's about casting people into heaven and hell. Yeah. But judgment seat is for Christians. Yes. For works. For things you did. Everybody, you're going to stand before
+
+the train. You must appear. You must appear. You must appear. Stand there like this. What you did. Those who insulted me. They'll be asking you. You insulted that he was for a long time. You said this. You said this. You did this. You this. Wow. You You were traitor. You did this. You did. Everything you did must appear. So the works of a church planter is not because of going to heaven or hell and the great white throne, but it's because of the judgment seat of Christ. Everybody say, "What I'm afraid of is the judgment
+
+seat of Christ." Write it down. Type it somewhere. Type it in your notes. Type it in your notes. One of my favorite verses in the Bible. You know, it's a verse that we write on tombstones, but it's actually a very good verse. Revelations 14:13. Powerful. Revelations 14. I heard a voice from heaven, saying, "Blessed are the dead which die in the Lord from henceforth. sayeth the spirit, "Yay, that they may rest from their labors, and their works do follow them." What is going to follow you to heaven? A basket of fruits or mountains of foolishness?
+
+I'm asking you a question. What is going to follow you to heaven? Anyone you've heard of who has passed away, his works, follow him straight to heaven. What can you take out of this world? There is a currency. Your works are converted into a convertible currency and follow you into eternity. Watch out because that eternity is coming and no one knows the day they see that you are in and your works be following you. That is why I am encouraging you to be a church planter. Be a church planter. Be a church planter. Yes. Be
+
+a church planter. Plant a church. Build a church. Establish a church. Love the church. Do the church work. Let the church be stronger. Yes. Not weaker in your time and in your day. Lift your hand everybody and thank the Lord. Come on. Gloria. foreign. from the Holy Ghost. became a manuil. The love of God Fore is taller. days. Oh yes. In the name of Jesus, Father, we give you thanks. Sit down in Jesus name.

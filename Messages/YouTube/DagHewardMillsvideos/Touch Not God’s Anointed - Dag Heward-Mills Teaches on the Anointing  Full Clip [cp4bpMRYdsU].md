@@ -1,0 +1,46 @@
+---
+title: "Touch Not God\u2019s Anointed - Dag Heward-Mills Teaches on the Anointing || Full Clip"
+channel: "DagHewardMillsvideos"
+platform: "YouTube"
+video_id: "cp4bpMRYdsU"
+url: "https://www.youtube.com/watch?v=cp4bpMRYdsU"
+duration_min: 21
+source: "autocaption"
+match: "exact"
+---
+
+Yes. So those of you who attack God's servants, 1st Samuel 26 and verse 9, it says and David said to Abishai, "Destroy him not." For who can stretch forth his hand against the Lord's anointed and be guiltless? Be careful with anointed people. Yes. Be careful with anointed people. Don't touch anointed people. Just leave them. just leave them. You see, they are under instructions and under authority. When when many anointed people also have problems and do wrong things, God is more wicked than you. In terms of judgment, God knows exactly how much and what to do.
+
+If you look at the judgment of Adam and Eve and the judgment of Noah, of Sham, you should have respect to God. That if it is the capacity to make you sad or to make you sorry, God has ideas beyond your ideas. Yes. of how to punish people. You know, there are many ways to make somebody die and human beings have used their inventions to discover different ways to kill people. Sometimes I saw one time uh during uh the Russians there was this during the time of the olden times they can put you outside in
+
+the winter. It's ice cold and then they pour water on you in the cold. Now if you know what the cold is, you may not have an idea. as the water goes on you like it freezes to see how long you will stay. They had a cup, a metal cup during the Second World War, the Germans, I think they had a cup, a metal cup, like a hat. They put it, it has a screw here, and then they tighten it. They tighten your skull slowly. It will be squeezing your head like this. One story I
+
+heard of someone who was uh uh in charge of a country. He had a room in his castle, the head of state's place and in that room they have holes and they put you in the hole. You stand in the hole with only your head out. So you can't scratch yourself. You You understand what I'm saying? You can't scratch yourself. You can't move and they leave them there till they die. And you can't sit because you you stand like this and they leave them there. Another one they have people this same type of hole but
+
+outside. So they put the people in the holes and only the head is up. Then they take four five horses with the riders and they start to ride the horse and they they gallop this way but their head is like a cabbage outside. Do you understand? So the horse will become like If your head is in the way, the horses which are coming will pick your head and then they be going. I've seen it. I saw a video of it. Different ways. The cross was another way. But what I want to tell you is that
+
+God has more ways than a human being to punish. Yes. Yes. Yes. But God God's the curse the curse of even death. If you see somebody who is dying, you you will see that uh the curse of death is an ultimate punishment which it converts anything you are doing on this earth into nonsense. No matter who you are and no matter what you achieve, it becomes nonsense. So when he told her that you are finished, that was it. Then he sentenced us and said, "In the sweat of thy face, thou shalt eat bread." Look at
+
+how we are sweating here. Slow cooking. It's like we are being cooked slowly. When he told Noah, you are going to see the h Noah's son. You are going to be a servant of servants. You will not understand it till you go around the world and you see the sons of ham. So honor, you must be careful those of you who attack anointed people. You see this anointing? put my scripture there 1 Samuel 26 this anointing you see who can stretch forth his hand against the Lord's anointed and be guiltless now supposing this is the
+
+anointing supposing this is the anointing on me that's Holy Spirit power on me. Supposing this is the anointing of the Holy Spirit. God. Yes. Now I'm sitting down. Come and strike me. Come, come and come and hit me. You won't come. Come and come and attack me. Hit me. Come. Come and use your hand to slap me. You see who you slap first. Look at the oil on my face. Come and slap me. Come and slap me. And see and see whether there is oil on your hand. That's why David said me I should come
+
+and strike this man who has been anointed I should come and touch him because before you finish touching him you see that your hands look when you do this when you do this you say foolish man foolish manh you have slapped the Holy Spirit You have slapped the Holy Spirit. You have slapped the anointing. That is it. You are finished. Because the Holy Spirit is not like Jesus. Jesus will tolerate all these things. But the Holy Spirit doesn't tolerate certain things. If you like, go and touch his anointed. Young man, come and follow me. Come
+
+and follow me. Come and Come and strike me. my preaching. I'm preaching. You don't like it? Say, "Oh, don't mind. It's a foolish man. Come here. Come because I'm I'm just a man. I will see what to become of you. You will not be dealing with a man. You'll be dealing with the Holy Spirit." And God has chosen who he puts his anointing on. He doesn't put his anointing on everyone. So when you see that this man is anointed, if Bishop Abu Koma has been able to build this church, do you think it's by might
+
+or by strength? Then you open your mouth and speak like a fool against someone that is anointed. All of you guys from the UK, guys, come and come and beat me. No, come come. I said come, come. You come here at least. Come here. Come. Come on stage. Come. Slap me at least. Doctor, maybe from the back. You can hit me at the back where I will not see. Come, come to my back. Come. Strike. Just strike. Just just strike. Maybe my topic is not is not I don't you don't like it. Okay, I will
+
+come nearer so that you you strike me. You can strike me. You can slap me. Look, slap me. The Bible says, "Touch not my anointed." Don't touch them. Don't even touch them. Don't even touch them. Those of you, you speak about Beni Hin, you speak about pastor Bishop, you speak about this pastor, you speak at your pastor, you are not afraid. You're not afraid. You have to be afraid when the Bible say touch not my anointed. Do my prophets no harm. Even if the if the anointed attacks you, you should run away. You should run
+
+away. You should run away. Yes. Everyone who wants God to work with you, God to use you, you must fear and respect greatly the anointing that is on somebody's life. For that alone, like David said, look, Saul was sleeping with witches. Who? Saul was sleeping with witches. Saul was demonized. But I I will not I will still not touch him because he's the Lord's anointed. I don't want anything to do with it. Is the Lord's anointed. Some of you you must repent of attacking. So sometimes in your room you will be speaking. Jesus will be
+
+standing there listening to what you are saying as you are criticizing him. That's why you don't criticize somebody's wife because even if the wife is some way that's the one that the man chose. Yes. That's the one that the man chose and you can die for taking on his wife. It's good that you respect the anointing. Okay, clap for them. Clap for them. Hey, anointing fall on me. Anointing fall. Let the power the Holy Ghost fall on me anointing fall. Sweet anointing fall on me. Oh sweet anointing. Oh, sweet anointing. Oh, fall on me. And
+
+let the power of the holy let it fall on me. Oh, what did he fall on me? Lift your hands. Respect the presence of the Holy Spirit. Sweet anointing. Sweet anointing. Sweet anointing. Sweet anointing. Anointing. Anointing of the Holy Ghost, let it fall on me. Sweet anointing fall on me. For the last time, every hand lifted up. Anointed anointing. Oh, fall on me, sweet anointing. Oh, yeah. Fall on me and let the power of the holy, let it fall on me. Oh my go father. Thank you for the power of the Holy Spirit. Thank you
+
+for the power of the Holy Spirit. Oh yes, sweet anointing on me. Oh, sweet anointing. Oh Lord. Oh Lord, let the power Let the power of the Holy Ghost. Let it fall on me. Oh anointing on me. Anointing. anointed. Anointed that you're anointed for on me. Yes. Anointed. Oh. Oh Lord. Let the power Let the power of the Holy Ghost follow me. Anointing for Let it fall. Let it fall. Let it fall. Let it fall. Anoint anointed anointing sweet anointing me. Let the power. Let the power. Let the power of me on me. Let the
+
+power Let the power. Oh, sweet and roll. Let the power Let the power Let the power of the Holy Ghost fall on me. Oh yes. Father, thank you for your power. Thank you for the anointing. Grant us a good revelation to respect what is anointing and what is your power on somebody. Show us to learn not to even touch with a finger what is your anointing. Thank you. Thank you in the name of Jesus. Amen. Hi everyone. Thank you for watching the Daguid Mills YouTube channel. If you like this video, make sure to give it
+
+a thumbs up and don't forget to like, comment, share, and subscribe. And click the notification bell to make sure you don't miss anything coming from Vagu Adville. Bye.

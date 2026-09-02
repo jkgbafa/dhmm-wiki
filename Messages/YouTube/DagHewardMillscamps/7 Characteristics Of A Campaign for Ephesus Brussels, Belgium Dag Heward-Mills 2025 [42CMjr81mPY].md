@@ -1,0 +1,473 @@
+---
+title: "7 Characteristics Of A Campaign for Ephesus | Brussels, Belgium | Dag Heward-Mills | 2025"
+channel: "DagHewardMillscamps"
+platform: "YouTube"
+video_id: "42CMjr81mPY"
+url: "https://www.youtube.com/watch?v=42CMjr81mPY"
+year: 2025
+duration_min: 110
+source: "autocaption"
+match: "exact"
+---
+
+I want us to look at a campaign. Hello. Hello. I call this the campaign for Ephesus. Turn with me to Acts chapter number 19.
+
+The campaign for Ephesis. Hello. Yeah. Now this campaign for Ephesus is comparable to the campaign for Belgium. Amen.
+
+Amen. When God says go first go you are going to first to Jerusalem to Judea to Samaria and so campaign for Ephesus is a campaign for your city for your town for your nation wherever you are planted. just want you to speak it out and so now after these things were ended Acts 19:21 Paul purposed in the spirit when he had passed through Macedonia and Aaya to go to Jerusalem saying after I have been there I must also Alo see Rome. So he sent into Macedonia two of the guys who ministered to him, Timothus and Arasus.
+
+But he himself stayed in. He himself stayed where? He himself stayed in Asia for a season. All right. Okay.
+
+Now Everybody, are you there? Show us the map of Greece. I want to see the map. You know, like yesterday you showed a nice map. Show us an amazing map.
+
+Show us a map of Greece. Glory to God. This is a campaign for Ephesus. This is a campaign for Ephesus. Hello.
+
+Hello. I need to see Greece because you can understand this massage. I didn't even ask you. Okay, I shall continue reading. Yeah, when they get it, we'll we'll come back.
+
+So he he himself stayed where? In every say Asia. So Paul stayed in Asia. He made Timothy and go to Macedonia. The founders live in Macedonia.
+
+Okay. Okay. These are different places. All right. Now, now at the same time there arose no small stir about that way.
+
+Next verse 23 23 23 there arose no small stir. Now see now there's a there's no small stir in Belgium about Jesus. People don't want to hear Jesus. They want to hear anything but God and but Jesus. They will allow everything but not church.
+
+Are people allowed to walk naked on the streets in? This is one of the countries in the world where you can walk stack naked on the streets, wave to everybody, greet anyone. Hello Yeah. Yeah. Now, a certain man named Demetrius.
+
+All right. All right. Now, okay. Your mother, your God, right, is not a good mom. Do you have No, I don't need a mobile map.
+
+I just need a modern map. World HD. Check it out. World HD. Just HD.
+
+This is Greece because it doesn't even show Macedonia. Macedonian. Look at you see Athens. Look. Look at Athens here.
+
+This Athens here, but this is Corinthians here and Macedonia is also up there. They don't even show it. It's supposed to be somewhere there. I need to see Turkey. I mean, they don't even show any of the towns in Turkey.
+
+So, try another map. You had a nicer map yesterday. So, look for a better map and then call us. We will not call. You call us.
+
+Now a certain man named Demetrius, a silver smith which made silver shrines for Diana, brought no small gain. He got a lot of money for the craftsman whom he called uhhu what's going on? And you taking away turkey. But anyway, you you just Hello. Hello.
+
+Can we come back with that? Now look at Macedonia out there. Macedonia. So that's a very large area. Okay.
+
+And that that is where Salamica Philippa Philippi and all those people are there. That's why I'm talking about somewhere different and I need you to show me Turkey. And I want to see Turkey on the side. All right. Okay.
+
+Are you there? Has it not showing town? You will see a town called Ismir. I didn't seem in Turkey somewhere. Wow.
+
+was his spirit. All right. Now, to worship Diana, they have little Diana that they made and they had body parts of Diana that they were selling. Yes. And they worshiped them.
+
+It's a big business. will grow the business. Yes. Yeah. So he called together the workmen of like occupation and said he said s says you know that by this craft we are our wealth verse 25 verse 5 verse 25 you know that by this work this is our work this man is threatening our work.
+
+So you see many people who oppose the church they have a reason. Often there's a many reason and there are different reasons why people fight God. Yeah. And so he said, you know, this man is going to affect us. So verse 26, this is a campaign for Ephesus.
+
+It is a campaign. Moreover, you see and hear that not alone at Ephesus, but almost throughout Asia, this man Paul has persuaded and turned away much people saying that they be no gods which are made with hand. Now they were singular singularizing out. And this is the man. This man is the source of this problem.
+
+So that not only is our craft in danger to be set at, but also that the temple of the great goddess Diana should be despised AND THAT HER MAGNIFICENCE SHOULD BE DESTROYED WHOM ALL ASIA AND THE WORLD WORSHIPING. WHAT? WHAT? This guy THE MAGNIFICENCE OF OUR God disrespect us. You see, I just want you to know that in your campaign for Belgium, for Europe, it's nothing new.
+
+When Paul came out, right, he also came and met evil of the certain level, high level opposition. The campaign for Ephesus equally was equally difficult. Opposing it, goddesses, temples, financial opposition, people's businessmen and with other motives. Everything was against the campaign for Ephesus. ever since.
+
+Yeah. Yeah. So don't be discouraged and don't think that oh you know you know you have to understand your Belgium is like this and is like this AND like that and this will help me. No, no, no. This is how it is to campaign for a city.
+
+There is no work of God that is unopposed. Yes. With great difficulty. I mean look at the the the was it says that our business is about to be made. nothing by this man is going to make because this is our God.
+
+No, I'll tell you a secret, but I will tell you the country. I was in the country and I took a taxi. In this taxi, in a taxi, the taxi driver has hung his god on the mirror, the rear mirror. So, it was hanging. It was swinging.
+
+So, I asked him, "Who is this? What? What is that?" And he said, "It is my God." My god. So you know I was so stupid. I started to ask how can this thing that is swinging how can this help you angry.
+
+He almost killed he almost killed US IN THE CAR. HE STARTED TO DRIVE the road. I he was very close. Next time if I see something I How can this help me? They brought them out.
+
+Yes. So this is Ismir. Look at that is that is Ephesus. Ephesus. That's Ephesus is on the other side in Asia.
+
+That's why I said Asia. So this is Ephesus here. Ephesus and this is a far away. So it's a long flight or ship. So Paul says came here and this is where Diana and Diana was being woripped this people to HAVE ANOTHER ONE.
+
+EVERYWHERE HAS A GOD. So the campaign FOR just like the CAMPAIGN FOR WE have met people with another god. The god of money the god of perversion. People using hoo sandwich and you ask them what you are doing. This is not supposed to be in bread.
+
+So we for us they cannot speak against that. Yes. You can't tell us what to eat, what to drink, what to drink. And this man, back to the verse. Is this our craft?
+
+We are in danger. These people are dangerous. These men are involved. Recently it's been a journalist came to the church joined the church joined the bas she was a fox was not a member came joined to see she came to first join text and was taking whatever to write about the church it's just enough why are so many young people coming we are targeting young people blah blah blah many things I said well I want to honor I am not a member I am a journalist. This is why I came and just to write about made a big story.
+
+Yeah. Yeah. One time I had Swiss journalists. They came to follow us at Crusade. Crusades.
+
+Yeah. They said you want to see what they came. Look at when they join. People came on stage TO GIVE TESTIMONIES. THEY joined our tracks.
+
+People came to give testimony. We said we are healed. We are healed. Our great goddess Diana is about to be despised. Verse 28.
+
+And when they heard these saints, they were full of God. You see, there are slanderous people around stirring up hatred. Stirring up hatred. saying things. Sometimes I meet people I realize that somebody has spoken to them.
+
+This Demetrius I'm shouting. I'm shouting because you lowered my body. Father, forgive the man who's lowered my body. I just forgive him once the next time. Verse 28.
+
+When they heard me say, they were full of and they cried out, "Great is Diana. Great. We love Diana. Diana, we love Diana. Diana is our our God.
+
+Great is Diana of the Ephesians. Show me back the map. Give me my map again. You seem Nobody should complain about his country. Everywhere has a different problem that ask for problem there will be problem.
+
+Don't don't don't start. We are there's a devil. You don't know how it is like in in Belgium. You don't know how it's like. What about this fear?
+
+going against the gods of this world. And at each level of life, at each stage of life, there will be something. Satan is the god of this world. He's not going to sit down and allow Jesus to just spread all over. Yeah.
+
+Yeah. Yeah. In Athens they had in Acts that one is in seed 17 that's where you see they were gathered at the mass hill every day talking this one acts these people had um Diana and then Philippi had this girl who was a soothsayer she was yeah this evil spirit why everywhere There is a problem. Nowhere is no problem. Verse 29.
+
+Verse 19 and 20. And the when they heard this thing, verse 29, 29, the whole city was filled with confusion. So don't don't bother to come and tell us. Everybody is complaining. A lot of people the whole city was filled with confusion.
+
+They arrested Gos and Aristocus, men of Macedonia, Paul's companions. Yes, they caught them. But Paul escaped. Yes. Verse 30.
+
+When Paul would have entered, the disciples suffered. No, no, no. Oh, if you go and certain of the chief of Asia, which were his friends, sent unto him, telling him, "Do not adventure yourself into the theater." Some therefore cried one thing, some another, for the assembly was confused, and they did not know where they were going to come together. Then they drew Alexander out of the multitude. The Jews putting him forward, and Alexander beckoned with the hand and would have made his defense.
+
+But when they knew that he was a Jew, they all with one voice for about the space of two hours FOR TWO HOURS SHOUTED. Diana is Diana the Ephesians. My God. If they spend in Ephesus, they shouted DIANA Diana just because Paul had come witnessing two hours. This what happened IN You see some of you, you complain too quickly.
+
+Did you have such problems when you went witnessing? The whole city has come TOGETHER in confusion for about TWO HOURS SHOUTING ONE THING. WOULD have been afraid. They can easily kill you. This is the Ephesian campaign.
+
+That was a campaign. Yes. What a campaign. What a campaign. And I believe you see this say go.
+
+Paul was going to church. But I was praying over Yeah. Paul was not in a state church. The was in the blackh. Now Paul was a member of the gold church.
+
+Because in acts 13 let's jump from here to acts 13. Now to speak about healing and how many verse one verse 8 jump to Acts 13 it says now there was in the church at Antioch certain prophets and teachers like Barnabas Simeon Nigel Lucius Manine which had been called and Saul and then verse two quickly and the spirit said as they ministered to Lord the Holy Ghost said Barnabas and Saul they are joining the another church this CHURCH these two Let them PSC them to the whole church.
+
+So they were this was how it started. Verse three. That's how it started. Verse three. And so was just one of the campaign.
+
+SO WHEN THEY LISTEN TO THEM AND THEY SEND THEM AWAY. That is how their ministry started. And they went for they they sailed to Seucia and from there they sailed to Cyprus. They started to go. Yeah.
+
+And then from there they were at Salamis and the bridge. Now go to the map again. Go back to the map. Now, where are we? Show me.
+
+Show me Israel. SHOW ME ISRAEL. SHOW ME ISRAEL. I want to show you how Paul started his ministry. Remember he was at Jerusalem.
+
+Are you going to show me Israel very quickly? Israel now. Oh, are they going to show me Israel? That's my Israeli. Please stand behind me.
+
+Come here. Eyes looking back. Eyes are on. even break his now. This is Israel.
+
+Okay, THIS IS ISRAEL. NO, but I need to see you need to go up into Syria. I need to see Syria. I need to see Syria. Above it.
+
+You know when you stand on the golden heights and you look straight down, you see the you see Damascus that is you know remember Paul was going to Damascus people. Aha. Syria. Yes. Nah, you're not showing me.
+
+When you go up, you see when you go up a bit, I need to see Cypus. I need to see Cypus. towards Lebanon. You will see on the left you see Cyprus. Okay, go to tech.
+
+Go to show me again. Where's K? But I need to see it coming down. That's so I need to see coming down here. Yeah.
+
+Yeah. You know, you know Paul spoke about the Christians. But when you come down here, you see a connection to Israel. You go up and then you come towards Turkey. Antakia.
+
+This is it. This is Antioch. That is Antioch. Antia. This is Antioch.
+
+Antia. That's Antal just not depend on you. Right there. So above Syria. There's over Syria.
+
+Where is Syria? Turkey. So, Israel, Syria, then you come to Turkey. Israel, Syria. Where is Turkey?
+
+Yes. So, you see from look at Egypt here down here. Egypt, then you have Jerusalem, Israel. Damascus is Syria. Damascus, Syria.
+
+Okay. And then you enter just into Turkey and you have Antia is now called Antia. So just above look at where it says Gazian Gazian whatever some of the left side that's where Antio. So they move the church the gold church you see they move from Jerusalem down here that's where originally they went to so they passed the master went there that is where Paul started his mission all right and then he went straight to Cyprus he started going you see Thessalonica he went by ship by ship Beautiful.
+
+Yes. Can you see this is Jerusalem? This is Jerusalem. This is where Peter, actually Peter, he didn't go at all. He was just in the state church.
+
+This is where Paul was going to kill beat people Damascus. He left and he went this line in Damascus. Then he in Syria just next is they sailed to Cyprus. Beautiful. He's a poor man.
+
+Back to Acts 1918. Campaign for Ephesus. Now 2 hours. Verse 34. They were crying great is Diana.
+
+Now verse 35. When the town clerk had appeased the people, he said, "Ye men of Ephesus, what man is there that does not know that the city of Ephesians is a worshshiper of the great goddess Diana and of the image which fell down from Jupiter. save them that these things cannot be spoken against. You ought to be quiet and do nothing rashly. For you have brought these men which are neither robbers of churches nor yet blasphemers of your goddess.
+
+They are not blasphemy your goddess. If you want to eat this, you can eat it. Now if Demetrius, you see God raised this man to quiet this room. He said, "If Demetrius and the craftsmen which are with him have a matter against any man, the law is open and there are deputies, let them invade one another. But if you inquire anything concerning other matter, it shall be determined in lawful assembly.
+
+For we are in danger of being called to question for this day's abroad. There be no cause that we can give account to this. And when he does spoken, he dismissed their assembly." Wow. Wow. Verse 20.
+
+After the after was seized, Paul called his disciples and embraced them and then he left and he went to So the go church. Yes, your turn. Okay. Secretary temple. How next verse?
+
+following the best. Okay. Amen. Paul embraced them and he left. Go church.
+
+Everybody say go church. Ephesians is where you see what it means to go, the opposition, the difficulties. There is no calling that goes unopposed. First Corinthians chapter 16. Look at it.
+
+I want you to see it. Verse 9, it says, it says, "A great door, an effectual is open to me, but there are many adversaries. How many want to continue to learn about the Ephesian campaign?" Let's turn to Revelation chapter 2. There you see you have more insight to what happened to the gold churches. He said to the angel of the church of Ephesus, right?
+
+Because this has to do with the campaign for Ephesus. What happened in Ephesus? Ephesus. It says these things saith. You see right to which church?
+
+Which church? Hello to the angel or the leader of the church in where everybody say. Look at the church in Ephesus. He says, "These things saith he that holdth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks." Now, these are the key characteristics. Number one, are you ready to write down the campaign?
+
+Number one, I know thy works. So a lot of works, A LOT OF WHAT? WORKS. Now works are achievement like concerts, breakfast meetings, outreaches, outreaches, doortodoor, person to person, swollen Sundays, victory parades, victory, victory parades, victory parades, outdoor programs, efficient efficient campaign, we get an answer because when Paul left but it we lose contact with the Ephesian church but from this angle when John went to the aisle of atmosphere of atmos when he went to the aisle of patos he had a revelation and God sent a message to the Ephesian church who had been left by Paul with Timothy you remember Timothy 1 Timothy chapter one go As far as Timothy chapter one shows us something about the Ephesian campaign before we even get into their work.
+
+It was passed by a young man. Verse two. Verse three. He said unto Timothy, my own son in the faith, grace, mercy, and peace from God. Verse three.
+
+Verse three. I I besought you. Remember I I asked you to please stay in Ephesus and continue the campaign in Ephesus. After the shouting when they shouted at me and all that, I asked you Timothy to stay in Ephesus to continue the campaign. So the first thing of the campaign of Ephesus was there was a young pastor who hadn't even pased before and he was put in charge of this official campaign.
+
+THIS is clapping. that when I was going to Macedonia, I asked you to turn to Acts chapter 20 verse one. After the appro was seized, remember when the appro was seized, Paul called after the Diana issue, the Diana crisis, it was a big scandal. I mean, they were writing about Paul, two hours of shouting. They wrote about it everywhere.
+
+I mean court cases, law, a legal assembly, everything. And after all that was finished, Paul said, "I'm going." He said Paul got his and embraced them and departed to go to Macedonia. Show the map. Show the map. Show the map.
+
+Show the map. Everybody show THE MAP. OH, NOT THIS MAP. NOT THIS MAP. The one with is on it, please.
+
+Are you watching the Bible? Can you SEE IN THE REVIVAL? I WANT YOU relate with this campaign. SO PAUL WAS HERE. THIS IS WHERE THEY WERE SHOUTING.
+
+PAUL HAD A BIG SCANDAL, BIG PROBLEM, big issue. I mean, so he went to Macedonia. Look at Macedonia up there. Look at Macedonia. Macedonia.
+
+Yeah. So this was he left him here and went you stay here. You know this place terrible place. You stay here. Diana, they have all this problem.
+
+Will you stay here and be strong? So he wrote to him. The whole of first Timothy is about how Paul telling Timothy how to continue the campaign in Ephesus. So Timothy in 1 Timothy chapter 1, look at it. Verse two, look at it.
+
+Timothy, he said, "My son Timothy." Okay. First Timothy. Timothy. First Timothy. First Timothy.
+
+First Timothy. What? He said, "My son Timothy." Remember this is first, not second. First Timothy. Verse three, I I sought division.
+
+He says, he says, I besought thee to abide in deion. When I left for Macedonia, I urged you I urged you to stay there. I'm here to urge you to stay here in Belgium. in Belgium in Europa and stop those whose teaching is contrary stop bad things and stop yes so this is Timothy's state the whole of Timothy he was whole ministry was in Ephesus this is Timothy young man a young man yes young man was his son young man that was on zoom that's Let's everything. Is it fantastic?
+
+Is it happening today? Now go to the map again. Go to the map. Go to the map. Show us the map.
+
+Okay. Wow. Now if you look in this map, you see Hatchosp. So John, the apostle who was unrelated to Paul's missions, he went to Patmos. Okay.
+
+And on THE LORD'S DAY, HE HAD A REVELATION and the Lord SPOKE TO HIM. THEY have from Patos Island. FROM PATOS ISLAND. OH YEAH. YOU SEE?
+
+Oh yeah. And gave him a message for the church in the Ephesus which was pased BY TIMOTHY WHO HAD BEEN ASKED TO STAY THERE BY PAUL. Because in the CHURCH WE TELL OUR SONS WHAT TO DO, BUT IN THE GAME WE TELL OUR SON WHAT TO DO AND OUR DAUGHTERS. And thank God you have somebody to tell you what to do. And the sons had the whole books written to them.
+
+First and second Timothy is Timothy's personal you shouldn't have even seen when he told him to drink wine. It just was private. I know you think it IS SOMETHING PERSONAL. SO WHEN JOHN WENT TO PATOS, he he was just waiting on the Lord. He had not seen Paul.
+
+I don't know if he even met him before. The Lord gave a message for the church at Jesus. Revelations chapter 2. That's the first church. Are you Are you watching?
+
+How many are watching the Ephesians campaign? Several important things. One was verse two. I know THY WORD LIKE HIM. HAD several campaigns or works.
+
+Look, Elton John. Have you heard of Elton? Have you always have You can Google and find or even ask AI. How many concepts did Elton John have? You can Google.
+
+How many concepts did How many did Richie have? Yes. Ask ask. How many? Who will Elton John?
+
+4,000 different concerts here to perform. Huh? El John has performed 4,000 concert performances. Now I want to know how many concerts you've had. The gold church has organized the gold church here in Belgium.
+
+How many concerts? picked up his musical instrument and started singing. I mean look, ask yourself those of you who are into SINGING AND OUTREACHING, how many CONCERTS HAVE YOU HAD? NOW LET'S CHECK. How many concert did he have?
+
+Put it up. 300. 215 315 yes 3 almost 15 three in Belgium three in Belgium we are waiting for Bob Marley and we're going to add Michael Jackson please Michael Jackson I want to know Michael Jackson and only to compare with you you two because the efficient campaign must have a lot of works Wonderful. Oh yes. But how many concerts?
+
+315 concerts. 350. What about Lionel Richie? 800 Michael Jackson, huh? 274 really had a lot.
+
+He's still alive. He was very serious. Yes. Yeah. So when he says I know thy works.
+
+I know the number of crusades you have. I know the number of outreaches you have. Michael Jackson 120 on bad world. That's one. Well, in his lifetime total in his lifetime estimated is what?
+
+No, she has he says 990 concerts over his career. Counting all major tours. Counting all major tours. 990 mayest and nation possessive 995. Yes.
+
+990. His whole life. His whole life. and heal and labor. You see when you when when your life is over your works whether it is called concept whether it is called crusades whether it is called swinging Sunday whether it is called salvation Sunday whether it is called a concert whatever the name is something that even the Google even Google counting these things.
+
+Google knows the works that have been done. How many works are YOU GOING TO HAVE? SO WHEN you the whole year passes and we just had one concept. No, it is the more concept holy Sunday. Our friends who are campaigning for other things they don't have just one event.
+
+Now they having more event two times, two months, one month, a whole month campaigning. So I'm giving you the characteristic of an Ephesian company maybe events hillbill events conventions conventions camp meetings camp meetings yes you see a church that's happening camp meetings many it's not a good efficient campaign there has been many the number of campaign look at Elton John, Michael Jackson, Elton John, Michael Jackson, Bob Marley, Bob Marley. You know when Bob Mley, he was, you know, he he started, he got sick, he had a cancer of his toe, you know, one time he went, you know, like football.
+
+So one day he was playing football and he had a saw on his toe. And the saw wouldn't go and then after some time he started to go and then they said no no no this is a cancer so they wanted to cut off his said no it will affect his dancing that cancer advanced and he was a young man and then finally was his last He went to practice. They had what they call the sound check. You know, somebody who was there said, you know, they did the song over and over. It was his last.
+
+Yes. Hundreds of concerts. He was in America for this last concert. He went over the same song over it was his last performance. When your life is over, the number of works, the number of events, number of Sunday, number of concerts, number of preaching, number of this, number of work, number of conventions, number of become meetings, number of everything you can possibly have.
+
+be counted. That's what they call works. Don't church campaign. Number two, I know thy labor. Wow.
+
+Wow. Now, labors is not the same as the works. Works are like events. Labor is the hardness of the hard work, struggles and tiring effort. This is where we see the difference between the lazy Christians and the non lazy Christians.
+
+Wow. Wow. Wow. You know when we read Ephesians 6 verse 10, Ephesians, you see it sounds so, you know, like Ephesians was an angelic place and was a wonderful church and so on. It was so easy.
+
+And you see Ephesians appears on revelation from acts when Paul went there physically. Then Timothy's whole ministry is Ephesians whole of Timothy's ministry. And God was watching what was happening in the face. I said, "I know your words." You guys are Look, you cannot achieve much in Belgium unless you work. Belgian.
+
+Yeah. Now you see this camp today is there could have been twice as many people at this camp. Yes. Because I know because because I I preach in many more people in this church or not for your people to come to a coming. It takes hard working on the souls and on the people for them to be transformed and to become people that you call for a coming on Monday or Tuesday any day they will be there.
+
+ministry is hard work but dealing is hard work. A lazy man cannot accomplish much. That's why God usually uses um a young man because sometimes the old people behave like lazy people not because they are lazy but because of the stage of life they are they need to sleep. You see sleeping starts with babies like when you see a baby start he's born to sleep like his mission is to sleep. He just eats and sleeps.
+
+And I feel babies. Oh yeah. Everybody say labor. Praise God. Amen.
+
+Amen. So I know thy labor. Three thy patience. Patience campaign loaded with patience. A physical is full patience like we are not in a hurry.
+
+No problem. We'll be here next year. We'll be here in two years. We'll be here. We'll be campaigning.
+
+We are on it. by the grace. Are you listening to me? I know your patience. Very patient.
+
+Fantastic. Now, are you ready to be patient? Yeah. When I saw our church in Switzerland, the first the first ever branch Geneva. It has been attacked by ORANG orangles attack.
+
+But when you see say see I know thy patience with time the church is there I know thy patience. Some of the people who are not here today they will become the pastors of this church and they will tell you I missed the what is this ter go church go church. He missed in those days. I was crazy. Yeah.
+
+You know, the girl I was telling you about yesterday, she was alive yesterday, but she died. She just passed away. She was broke hair body. Yeah. Many people who are created today through patience, God is going to use us, change people's lives.
+
+Don't be afraid. Somebody who is smoking weed today, somebody who's crazy today. by patient efficient campaign. See the change. Number four.
+
+The next thing about the efficient campaign is um what we call no fake appointments. Yes. Like apostles who are not apostles like you appointed as a pastor but actually you are not a pastor or a bishop who is not a bishop. No fake appointment. Anyone who is holding the title but actually are not a pastor in the campaign.
+
+We remove such people. All pastors of God pastor pastor pastor pastor must be accompanied by real work. When we say shepherd the people who come to you, you will shepherd the people. You got to shepherd the people who come to you. Show them the way to the Lord.
+
+Speak the word of God to them. Show them love. Show them the love of God. Comfort he the people. Comfort.
+
+Tell them everything is going to be all right. Tell them God will take care of them. God will provide. So sheer the people. Show them the way.
+
+Show them the way to the Lord. Speak the word. Speak the word of God to them. Show them love. Show them the love of God.
+
+Oh. Come here. the people. Tell them, tell them everything is going to be all right. Tell them God will take care of them.
+
+God will provide all faith appointees who ARE ACTUALLY NOT PASTORS, WHO ARE ACTUALLY NOT APOSTLES, WHO ARE ACTUALLY NOT BISHOPS WILL BE CLEARED OFF IN THE Ephesians becomes a little living the whole church becomes filled with fakness. get equipment. Soon the whole church is not real BECAUSE THE BISHOPS ARE NOT REAL, the pastors are not real, the apostles are not real, the reverends are not real. And the unrealness spreads to the whole church. A church that is completely fake.
+
+It is not really pastors. It's not really Christians. It's not really real. Now they continue next verse. Quickly we are finishing the fishing campaign and you'll be going for lunch.
+
+Serious. Serious. Serious. Now the next one and has born. Born means to take up the responsibility to take it up.
+
+TAKE UP. SO IT'S TAKEN UP OF RESPONSIBILITY. There's a JOB TO BE DONE. SO IT'S FILLED WITH RESPONSIBLE PEOPLE. NOW SAY THOU HAS BORN or thou has taken up the responsibility.
+
+I WANT TO SEE CONCEPT. YOU HEARD ME SAY CONCEPT. You see you cannot allow people to go on the street in Belgium and campaign for certain things. And you you have beautiful songs, you have a beautiful dances, you have beautiful everything, you have nice people AND YOU WOULDN'T GO OUT THERE. They wouldn't take the responsibility to to form the song.
+
+LOOK AT MY SMALL SINGER. I tell them, "Okay, you sing for me. Sing. Let's sing." And we try. Look at the children I brought for the the living singer children.
+
+The one of the one who sing SHE'S 12 YEARS OLD. I CALL her nice children. The girl say that 12 years 13 years old now. IT'S FUNNY THIS BISHOP AND PASTOR AND OTHER YOU USE YOUR take responsibility. You want to COME AND STAY INTELLIGENT and okay you you can sing.
+
+Okay you sing this you you can't sing. A good leader you have to tell people what two things you can see and you can't say. These are two things you need to say. Take the responsibility. Take the responsibility.
+
+Raise the money you need to have this EQUIPMENT TO HAVE A CAR STAND ON THE STREET. Connect it. Sing songs. It's your response to take. The pastor sent me a message yesterday.
+
+I control myself to give envelopes for offerings for offering and he said I realized I wanted to look like a good person. That is why the income of my church zero. Yes. And I know a lot of people wanted to stand there and actually take that offering good. He says, "Thou has responsible." Hey guys, I like you guys.
+
+How old are you? 18. How old are you? You know that's how this is beautiful. If only you kindly take up the responsibility.
+
+Don't look for what you don't have to do. Just be responsible sitting in front here. You'll be chosen since you said sit here. Sit by the ring. You just take up I I took up the responsibility.
+
+I was also 15. Christian Many people don't know that young people are very very good responsible. Do it. Okay. Be responsible.
+
+Behave like be concerned about sold church. Yeah. Yeah. Take it out. One day somebody came and told us this somebody stealing offering church offering.
+
+I know she's stealing. I'll help you to catch and they set a trap for him. Hey, a girl can steal. But anything a boy can do, a girl can do. Thou has come.
+
+Then he emphasizes the next one and has patience. And the next one again and has for my name's sake lab and has not fainted. This is one important thing. So the efficient campaign is no tiredness, no fainting, no discouragement. Encouragement doesn't control us.
+
+Did you hear what I said? I said discouragement does not control us. Tiredness does not control us. Do you think physically I should be tired? Yeah.
+
+Even when I was when I was coming, I was holding the I was holding the iPad in the car. It goes out of my hand. Yes. Oh yes. Oh yeah.
+
+So the this is number five, right? Number six has not fainted. Something wonderful is coming up in this efficient campaign. Are you ready for what is coming out? Oh, the Egyptian was an interesting place, wasn't it?
+
+Show us the map again. Show us the map. Show us the map. Show us the map. Show us the map.
+
+Show us the map. Show us the map. Wonderful. Wonderful. Wonderful.
+
+Wonderful. Thank you. That is That's it. Easy. Okay.
+
+I don't know who wrote the but That's a Jesus. Okay. Is nearby there. Is there Macedonia? Macedonia is okay.
+
+That's Paul. And he came from here when he go Anta in sus. Okay. Serious. Go church.
+
+Back to Revelations. We're going for lunch. Verse four. Beautiful. Nevertheless, I have something against you.
+
+Wow. Wow. So, it is out of this same port that we hear the word first love. Now the the characteristic of the go church in Ephesians is first love and first love is something that when it goes you miss it you see first love is the love when you don't think it when you say I love you baby. And she says, "I love you, too." And he says, "I'm going to be a missionary in the heart of Kongu.
+
+Will you come with me?" I'm your wife. But when your first love is is not, you don't have first love. You know, I saw one brother last two weeks ago. He proposed to one sister. Sister sent a message to she said, "Sorry, I cannot marry someone who's going to be a because I am not cut out for missionary.
+
+He's going to be a sorry I don't have a beloved I mean 30 years old whatever I don't this that sorry but first love You say, "I'm going to the to the Amazon River and the beloved who has love." Of course. Of course. That's what I'm here for. First love. When you marry, no thinking.
+
+They tap you. They tap you. Asleep. You said, "Honey, baby, baby, baby, I'm hungry." You're hungry. Baby, baby, I'm hungry.
+
+Baby, baby, you sleep. Yes, Lord. It's real. It's real. That's what I'm here for.
+
+You want to eat a baby? Really? You want to eat nothing? You want to eat muscles? Rice.
+
+Are you fry? Baby, baby, baby, baby. It's too late. There's a lot. IT'S NOT TOO LATE.
+
+IT'S NOT TOO LATE. It's just 3:00 a.m. I wanted to have something nice. First time you don't think you just blow. So when we are here in whole church Ephesians campaign, Belgium campaign, we are not thinking to the all the time this.
+
+No, we are just GOING Of course, baby. Baby, it's going to be hot. I don't mind. I'll make it easier for you, baby. That's why I'm there.
+
+And when you find these mature people without they'll tell you baby it's going to be hard and she would say baby baby you know I've been thinking twice about because I met I met somebody who told me it's not easy to be a missionary he's a missionary Yes, baby. Last night, I had a dream. What's your dream? What was your dream? Baby, baby, we were in a little boat.
+
+Together, and it was me. And I JUST YOU and I children and I had a dream. I fell out of the boat. I don't want to continue this journey. I want to go back home.
+
+I'm scared. But you have love. Baby, baby, listen. Where you are? Baby, THE BED YOU SLEEP ON.
+
+IT'S THE BED I SLEEP ON. OH MY GOSH. BABY, I LOVE YOUR COMPANY. What would I do without you? You can't leave me now.
+
+I'm going with you to the ends of the earth. What would you do without my kisses in the night in the night? Whether we're about the Congo River or the Amazon River or the Mississippi River right there just nothing is too hard. This is the heart. Nothing's too difficult.
+
+Baby, I want to. Of course. THAT'S WHY I'M HERE. THAT'S WHY I'M HERE. BABY, BABY, BABY, BABY.
+
+I'm tired. I'm tired. Oh, baby. Oh, baby. How loving you are.
+
+Relax, baby. I'm mature. Go take some panel. Take a picture downstairs. Go downstairs and get yourself.
+
+And you say, "Baby, baby, I'm hungry." Pizza. Okay. Pizza. How many are ready to love God with first love? Now if you ask these guys, the older people who are married who used to have first love but many of them the first love is gone.
+
+The first love has gone to love. We miss the first love. It means the live. TRUE OR NOT TRUE? IT IS true because at the same time it's just it comes from first love to love and you see those who have had first love before they miss sometimes when some of them if they lose their spouse they can't marry.
+
+One time somebody lost the spouse I remember one one lady husband died. I said I asked you to marry. She said I don't know anybody who will be able to love me. I don't think anybody in this world is very strong. You go ask the grown-ups.
+
+A lot of the grown-ups they have food at upon request or by habit. By reason is provided. By reason of duty. They they they have sex. By reason of duty.
+
+And by reason of request, special request, they have all this is but love. Do you remember there's a song about you know I love the way you me promise that you greet me with a great big smile like the one you gave me today when I walked in. Promise me that you'll always talk to me. I love the way that you'll always be nice to me. Because I love the way you wrapped your arms around my neck.
+
+I just love it. I just love. So promise me that you'll always kiss me like in the movies. Like in the movies. Like in the movies.
+
+So I found that love cuz you treated me so she looked so gentle and so kind. I want her to promise me that she'll never change. You wanted her to promise that she never change. So promise me that you'll always look so beautiful. When you lost your first time, you don't even care.
+
+YOU LIFT YOUR hand when I saw you today. When I saw you today, YOU LOOK LIKE a shin. You look like an angel. You look like an angel. Angel.
+
+So promise me that you'll always say how much you love me. Promise me that I'll always have a great big hug like the one you gave me today. Like the one you gave me today. I love the way you swung your arms around my neck. Wow.
+
+SO PROMISE ME THAT YOU WILL LEAN ON me like you did today. Now promise me you will always have a sweet soft voice. Promise me you'll always be gentle towards me. Promise me that you touch me on my chest one day. Touch me on my chest one day.
+
+Promise me that one day you will give ME A BIG DARK kiss in the movie. So I sang this song to my beloved cuz she treated me so nicely. Oh, she looked so gentle and she looked so kind. I want her to promise me that she will never change. Now listen, listen.
+
+You see those who have had first love when it is downgraded love. They miss the first love. So God told the Ephesian campaign, there is a problem I have and you are very good. I have a PROBLEM NOWADAYS. I AM experiencing your LOVE BUT NOT your first love.
+
+So the guy was singing a song to his beloved. PROMISE ME THAT YOU WILL always give me a BIG SMILE. AND THE smile you gave me when I came in TODAY that type of smile promised me. What did he say? That you swing your neck.
+
+People have like this around your your chest. But there's a I want to build a fight that you greets me with a great smile like the one you gave me today when I walked in and promise me that you will be happy every time. Yes. Be happy. be there.
+
+Promise me that you lift your head and you'll run to me. Is it THEY DON'T LISTEN TO ME? THEY DON'T EVEN LIFT THEIR They just looking on the phone. They don't even lift up their head to see. IS THAT WHAT IS HAPPENING?
+
+THEY DON'T EVEN LIFT THEIR HEAD UP to see THAT. THEY DON'T EVEN NOTICE THAT WE'VE ARRIVED. THEY look through the glasses to see you. You okay? And the laptop is on the LAP AND THE LAPTOP IS ON the bed.
+
+Promise me that you'll be happy. Remember when there's that you're always happy. You say I come. You see that you are always happy to see you know there are people that criticize me why do the people like you like that see first love you can't control them they like they when they have first love they're happy they like you come again that you'll always say how much you love me. JUST STOP SAYING I LOVE YOU.
+
+Promise me that I'll always have a big heart like the one you give me today. I love the way you swung your arms around my neck. So promise me that you lean on me. Lean on me like today. Now you see one of the reasons why you should go for honey in Kenya.
+
+How many are going to go? Because in Kenya when you go the wild animals are coming the lovers who are in first love. She will lean on her beloved and she will say from the lions. And you see when the first time she will be sitting here, he will be sitting there. Everybody's there.
+
+But it's not the same. Anybody who has love any Jeremiah 2:2 Jeremiah 2:2 go and cry in the eels of Jerusalem and say thus says the Lord I remember The kindness you were so kind to me. You used to touch me, used to lean on me, used to be concerned, concerned about my church and my work in a very tender way. Many people don't get good. One time when the brother was walking with his beloved and she tripped.
+
+And he pulled out and he looked around. What is that stone? What is that stone? And he found the stone. HE TOOK THE STONE AND THEN HE THREW IT AWAY.
+
+I'll tell you. And he held his cal my but a couple of years later when the first love flown away. They were walking in the same place and she she tripped again. I told you to watch right now. You're too bad.
+
+I told you. I told you. Hurry up. HURRY UP. LET'S GO.
+
+I told you you need glasses. Where's your torch? Anybody who has love always remembers. Look at it. Remember thy kindness and the love of thine espousals.
+
+The love of God is powerful. Yes. You know how eager you were to please me as a young bride. Wow. How you love me.
+
+The how the how that is the who. How deep is your love? Your love is better than wine. Ask for God. I tell you accept those people who are married and love has returned to love.
+
+You got no choice. You got to stay in there like that. But God like that. God says, "You know what? This is my problem.
+
+I don't like this type of And he says, "And you went after me." Now, let's go back to King James. King, "Thou wentest after me in the wilderness when you were in the bed, you would feel the hand calling you baby. Baby, when the first time is lift baby's not going fatten baby. I think you have to close now. It's time to close.
+
+It's time to go. The Egyptian campaign was a campaign with first lap cure. With people saying of course that's what we hear. The Lord said, "I want to send you as a mission." Of course. The Lord ask you for an offering.
+
+OF COURSE, FOR AN OFFERING, NOT MANY. That's why many and notra. Back to the Ephesians campaign. Ephesians campaign. Back to the Ephesians campaign.
+
+Okay. Okay. You've led your first love. I'm going to show you something scary. Are you ready for something?
+
+We are going for lunch. Notice, notice, notice, notice. Verse number five. Remember therefore for when thou art fallen and repent and do the first works. Remember, you know what?
+
+Promise me do the first work. He said do the first things you used to do. Remember, how you were happy when I came when I came, how you were excited when I came, how you had me when I came or else I will remove thy candles. It sounds like polygamy to me. Take you from your position.
+
+Somebody else is going to take your place. Somebody with first love is going to take your plague. Yeah. You see first love you got to bring it. It's high.
+
+It's called what we call high maintenance love. You need to keep doing things in a high maintenance otherwise you know when I was teaching the new uh first what they call the living water singers I told them I told them hey number one dance and sing if you can't dance and sing you can't sing listen what nobody said of course of course they started to dance no dancing no singing I thought no dancing no singing you don't dance I'm sorry I said then I said no conductor nobody's going to These are all people's things.
+
+This is fast. I say it's fast. All those things are fast. conducting the living waters demon. So now they have outpaced THE FIRST LOVE SINGERS singers are not doing this.
+
+So that's that's why if you don't take your place easily, you sit down as a younger flowing obedient who likes you and who is happy about anything new and anything you are called to do will come and sit in your place and you'll be sitting ground. of this polyami. How can you love so many people? This is my place. This is my place.
+
+Move away. One day I met a man with eight wives. How many wives? I can show YOU A PICTURE. I can show you.
+
+I I have this picture. I I asked him, "How is it like to have eight wives?" He said, "Well, it's difficult to have two wives." He said, "Two wives is the is the worst." Because they hate each other, but now they are eight. It's easier. So, how do you how do you manage? She's taking the place of all these.
+
+She's fresh. She's excited. How many want somebody fresh to come and replace you? right now. Now, are you listening?
+
+Do you want to be replaced by somebody fresh? Now, Numbers 14:2, it tells us about two old men who were never replaced. And God is giving you the anointing never to be replaced. He says, "But my servant Caleb because he had another spirit and has followed me fully, him will I be in the promised land." Verse 25. God glory.
+
+Now Amalachi 12 said tomorrow tell you verse 26. Continue. 20. And the Lord spake to Moses, saying 27, how long shall I bear with this evil communication which I'm remembering against, I have the membrings of the children of Israel, which they member against me. Verse 28, 28, say unto them, as long as I live, I thought I live.
+
+As you have spoken in my ear, so will I do to you. Verse 29, amazing. Amazing. Amazing. What is your shall fall in the wilderness, all that were numbered unto you according to your number.
+
+From 20 years old and above, any old person 20 years old and upward which have spoken. You remember in your room you were speaking, you were complaining all of you 20 years old and above 24. Wait, wait. Doubtless you shall not come into the land. 29 20 30 that you shall not come to that concerning which I expect except Caleb and Joshua these are two old men said these two guys they are they join the young so you see it's your duty to be Joshua or join the young 20 years and below people otherwise you'll be left behind very fast and they Every old person was gone.
+
+AND I want to tell you something. 5 years you join a new group. Always. Every 5 years you join a new category. If you are 19 years old, in 5 years 24, you are a completely different human.
+
+If you are 25, in 5 years you'll be in your 30s. It's very different. If you are 30, in 5 years you'll be 35 which is half of 70. And as a health safety if you are 35 years that's it. That's all.
+
+That's it. That is it. Every 5 years you change. How old are you? 23 you see in 5 years you'll be 28 this is like a grown up I very so that's why you have to be careful don't you have to have a spirit of Caleb to be flowing now there are some people they know how to maintain their position there was once a language called madame pompido madame pompido She used to work for the king.
+
+When she came on the scene, she was the latest frisky beautiful girl. I think this king Louise King Louise. Hey, the king liked her. Be like that. She knew that the king was going to get tired of her soon.
+
+So, she adopted a strategy. I know what to do to make myself relevant to this case. So she started a strategy and madam through her strategy. I'm not going to tell you her strategy. I'm not going to tell you but she her relevance and import was very important to the end through her strategy.
+
+A lot of three years two years they finished understand this man I know what I have to do. You better know the way you're going to have to serve God to maintain your Wow. Back to the Ephesians camp. Revelations chapter 2. But this thou hast.
+
+Now thou hatest the deeds of the nuclear which I also hate. Verse seven. He that has a let him hear what the spirit says to the church. So what are the seven things for the Ephesian campaign? Number one, works.
+
+Number two, no fake appointment. Number five, huh? Taking up responsibility. No fainting, no tiredness, no discouragement. Number seven, first love seven.
+
+Seven characterist. Sit down.

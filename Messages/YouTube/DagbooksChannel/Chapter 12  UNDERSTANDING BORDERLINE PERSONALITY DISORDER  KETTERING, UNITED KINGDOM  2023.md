@@ -1,0 +1,27 @@
+---
+title: "Chapter 12  UNDERSTANDING BORDERLINE PERSONALITY DISORDER  KETTERING, UNITED KINGDOM  2023"
+channel: "DagbooksChannel"
+platform: "YouTube"
+year: 2023
+source: "autocaption"
+---
+
+The next one is borderline personality. That one these people have a difficulty is also called emotionally unstable personality is emotionally unstable. And why was it called borderline? Because it is seen as the borderline of madness. Yeah. So there are people that are like on the borderline. This person is not normal. This person is not normal. And such people you see a personality disorder means that the person the problem the person has affects relationships. Yes. Once it affects relationship then you see that you can now start to diagnose a mental problem. But you can have a
+
+problem but it's not affecting let's say you be quiet, you can be depressed, you can be anxious but it's not affecting your relationship with other people. But once these things start to affect relationships with other people then you start start to diagnose the disorder the mental disorder. So all this you can say oh because everything that is being mentioned you realize that you see it even in yourself you can see I do this sometimes I'm like this sometime but when is it diagnosed as a disorder when it starts to affect your relationship with other people
+
+then you say ah it's now a disorder is it is psychiatry easy for you now? Yes. So you we we we all have all these behaviors. We have all of us have all. Yes. At one time or another you see that you seem to have a delusion. You don't listen to anybody. You don't follow this. You don't do this. You do that. Where the things are not affecting yes emotionally unstable personality disorder. Such people have difficulty in having relationship. If you married the person or you you you marry a this one. So this borderline you
+
+need to listen carefully because there are people who have beloveds who have borderline. Yes. It's a very common uh disorder. Borderline emotionally unstable. Are you ready for the same things? Yeah. Characterized by instability in relationships. Yes. And self-perception. The person is insecure and over emotional and even possessive. Yes. You see the person is insecure when you are talking to this person. Why? What are you what what what is what is it to that person? Why is this person there? Oh, those people are with you right this and this and that. Who is that? And they
+
+are not it's like the relationship cannot easily stay. Ah unless you are married and married that you can never break. Yes. But if you are in a relationship that breaks is breakable. You see that you soon realize that you have to break. or that has broken by itself. In close relationships, a person with borderline may appear number one jealous, possessive or hyper reactive. Yes. And this disorder is the direct result of usually childhood trauma, abuse, violence, neglect. Yeah. is not able to maintain positive social relationships. Yeah. Uncontrollable moods. Yes. So they they want to have
+
+close relationship but sooner or later all right they will treat their partners, children, co-workers or bosses and others as targets of blame. Yes, they will start to blame people. Their rages can be dangerous physically, emotionally, legally, financially, reputationally. Sounds like some disgruntled whatever. Yet their moods swing both ways. So you may feel whips. I don't know what that is. By how quickly they go from friendly to rage and back to friendly again and then rage again. So they are friendly, then they're angry, then they are friendly, then they're angry, and they're friendly. Hey, what the
+
+person is going to change again? What's happening? It sounds like bipolar but it also looks it's like it affecting the relationships. Today you are very happy flowing and tomorrow it's like something else. Yes. And that's that's what you have when you have you are in a relationship. That's why I say people who are in relationship and you are quarreling I will advise you what what's the time? What's the time? By 700 p.m. you should just break up the relationship. Yes. Yes. I I I I wouldn't understand why you are continuing the relationship. Yes. We are
+
+going to take a wee wee break. So, nobody should go and we are just about to go and we beautiful. They can carry grudges for years and then they'll punish their targets of blame. Now they easily feel treated unjustly in the workplace and some experts say the majority of lawsuits are filed by this type of worker. Caviola and Lavender a law firm quotation. Yes. Yes. me. So all these wide mood changes, inappropriate intense anger such as frequently losing your temper, being sarcastic, bitter, having physical fights, suicidal threats, impulsive risky behavior, stress related paranoia, loss of
+
+contact with reality lasting from a few minutes to a few powers, rapid changes in self-image, pattern of unstable intense relationships. You see, not everybody has an intense relationship, but people have unstable but intense very love. I love you so much cuz my darling I really love you so you are my whatever then then realize it is not working again. We we are quarreling. We are quarreling. We are quarreling. Then the next time I I really I've met Jack. I've met Jack and Jack is my man. I mean Jack has oh tip is the main person.
+
+THEN SUDDENLY NOW this T is the problem. I going back again. Are you still around or you are leaving?

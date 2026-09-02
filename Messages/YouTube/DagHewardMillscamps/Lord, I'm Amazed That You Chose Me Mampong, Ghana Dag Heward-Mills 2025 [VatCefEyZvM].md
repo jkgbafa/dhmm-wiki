@@ -1,0 +1,207 @@
+---
+title: "Lord, I'm Amazed That You Chose Me | Mampong, Ghana | Dag Heward-Mills | 2025"
+channel: "DagHewardMillscamps"
+platform: "YouTube"
+video_id: "VatCefEyZvM"
+url: "https://www.youtube.com/watch?v=VatCefEyZvM"
+year: 2025
+duration_min: 37
+source: "autocaption"
+match: "exact"
+---
+
+Now we are going to number five. Lord, I am amazed that you chose me. These are five prayers. This book is a prayer book. Lord, I know you need somebody.
+
+Lord, you can depend on me. Lord, people can see the gift of God in me. Lord, I am amazed that you see such great things in me. And Lord, I am amazed that you chose me. Wow.
+
+This is a prayer. It's a prayer book. Yes. Wow. Lord, I'm amazed.
+
+I'm amazed that you chose me. Now when God chooses you, you must make sure you follow his will for your life. To be chosen means you must be serious. That's why I started this camp with the word grave. A deacon must be grave.
+
+It means to be serious. And a deacon's wife must equally be serious. Grave grave. Serious. Wow.
+
+When you are chosen, you have to sit up now. Lord, I'm amazed that you chose me. Look at that. John 15:E1 16. You have not chosen me, but I have chosen you and ordained you.
+
+Supposing you know God a man is choosing you to marry him. H maybe you are not from Ghana. You are not from Ghana but now a Ghana man or a kumasi man has chosen you to marry you, what will you do? And he says that he's going to marry you. What will you do?
+
+What will you stand up? You stand up. Stand up, my dear. Uhhuh. I said I relearn about his his culture and all that.
+
+Yeah. You learn about his culture, how to cook, his food and all. How to cook what? Excuse me. Fufu bangu k and all that.
+
+Which country do you come from? I coast. Ivory Coast. Yes. Has somebody from Ghana chosen you?
+
+Not yet. Sit down. Sit down. Sit down. sit down.
+
+So, you need what is the most important food in Kumasi? Fufu. Now, What is the most important food in Kodi? What a What is a It looks like Gary. It looks like Gary.
+
+Ah. Hello. Hello. Hello. Hello.
+
+Calm down. You've heard food and you are excited. Now you have not chosen me, but I Sh. You have not chosen me, but I have chosen you. As soon as you hear that you've been chosen, you got to be serious.
+
+I remember a sister from Caribbean, Bahamas or those those islands, Barbados, those places. a Ghanaian brother chose her. Yeah. Now today when you see even when she makes sh I'm just using one example. Yes.
+
+Only one sh a lot of Ghana girls don't know how even to win. Oh, Ghana girl. Sit down. Sit down. Sit down.
+
+Are you listening to me? What I'm telling you, okay, is that when you see that you are chosen, you really have to see that. But when you are chosen and you don't take it seriously before you realize they will unchoose you. I've chosen people who who have made me and choose them. Yes.
+
+I've chosen people who have made me unchoo. I said not that I didn't choose. I chose them. Recently I was talking to one of my some of my bishops. I told her I said you nobody knew you.
+
+I called you from where you were and I brought you here. You were far away and I brought you here. If you don't do what you are supposed to do, I will change you. You'll be amazed. You and your family will be amazed.
+
+Yes. I told and I'm I'm putting you on not I told I will not have any meeting about this again. Oh yes. No, it's not show. It's just is different from my show.
+
+It's different. We don't show like that. No, this is not about showing. This is serious. You get this.
+
+No. So, what I'm saying to you is that when God chooses you, you have to take it serious. I will tell you a story. Do you know? Have you heard of Gordon Gajisburg?
+
+Yes. He was a He was a the governor. Yes. Now in India they had an equivalent of the governor but the governor was not called a governor. He was called the viceroy spelled v i c e r o y.
+
+Viceroy. Yeah. And Derek Prince, his father, his father's father, his uncles, all of them were soldiers. So his whole family were military. And he said one day the vice roy called sent a message to one of the canels or senior officers that the vice roy is inviting him for dinner.
+
+So then the general or kennel or whatever send a message that was not available at that at that time. Now Derek Prince said that the type of trouble that came to that guy who had been invited that he he was rather saying that he can't come. Eh so not knowing that the invitation it was actually a command but it's called invitation. You see when God calls you say oh would you like to would you like to come over? Oh are you there?
+
+Are you interested? not knowing that it is a command but it has been disguised as an invitation. Yes. So when God calls you it's like it's as if he's disguised it in a type of love. Oh my servant my servant come over come and whatever and you then you say oh I won't come.
+
+Oh I can't come. Oh I'm busy. I have to go here. I'm doing this. I'm doing that.
+
+God say oh really really. That is why he say in the end none of those that were bidden will taste of God's banquet none. So now you see we are here talking and say oh Lord I'm surprised I'm surprised that you you you call me to be a savior of Kumasi. Lord, not knowing that it's actually it's actually a comma as a type of like tambi is talking to you in a way not knowing that it's a commandment. If you like say no.
+
+If you like say no. If you like say no. They said he the Rick Prince said that the commander of the army that uh commander or whatever he either he was dismissed or he was it was still as the greatest offense to have an invitation say you are busy. Yes. Yes.
+
+It was it was seen as a major offense military and respect to the government to the vice royal to the people. It was seen as I mean that you will not organize yourself come you are he thought it was an invit like in the how you invite somebody to a wedding so I can't come and I didn't come and so I was busy and so on I didn't come no so all of you standing here only as a kind of invitation we are laughing we are happy and all that not knowing that the thing is a it's a serious thing very serious When you are playing with the call of God, you are playing with fire.
+
+Lord, I'm amazed that you chose me. that you chose me. John 15:16. You have not chosen me, but I have chosen you. Sit down, everybody.
+
+Now the first one is Lord I'm amazed that you for know Lord I'm amazed I'm amazed that you forneew everything. Romans 9 8:29. Lord, I am amazed that you forneew. Number two, Lord, I'm amazed that you have predestined me. Predestination.
+
+Number three, Lord, I'm amazed that you have made me conform. I'm giving you the points. Yeah. Number five. Number four.
+
+Lord, I'm amazed that you have called me. Number five, Lord, I'm amazed that you have justified me. Number six. Lord, I'm amazed that you have glorified me. Wow.
+
+All are from one verse. Are you amazed that it's all one verse. So Lord, I'm amazed that you for know. You know in advance. Lord, I'm amazed that you have predestined me.
+
+Number three, Lord, I'm amazed that you have made me conform. Lord, I'm amazed that you have called me. Number five, Lord, I'm amazed that you have justified me. Number six, Lord, I'm amazed that you have glorified me. Beautiful.
+
+Now beautiful Lord I'm amazed that you have predestined me. That's number two. Number one is Lord I'm amazed that you for know everything. Look at Isaiah 49:E5. And now the Lord said that formed me from the womb to be his servant to bring Jacob again to him.
+
+He formed me when everybody everybody everybody He formed me from the womb. From the womb. From where? From the womb. Do you remember when you were in the womb?
+
+No. Yeah. You know, anybody who is dead knows that he's not here because he used to be here. Those who were in the helicopter, they used to be with us. And now they they they even wherever they are, they know they are not here cuz they used to be here every day going up and down.
+
+Now before you were here, you were in the womb. And God says that he formed you from the womb. Now the Lord that formed me from where? When did he form you? When when did he form you to be his servant?
+
+So you you are now discovering that you are I just informed you that you are a savior of Kumasi. You are now finding out. serious. Now, nobody knows how all these things are, but it's like it's amazing. There's destiny.
+
+There's destiny. There's destiny. Yeah. A lot of things I mean if you ask me how I don't know, but I I can tell you that a lot of things they are just already known. Wow.
+
+Yeah, you already know. God knows way in advance. Way way way way way in advance. So God knows it's called, look at Romans the verse again 8:29. It says whom he did for no.
+
+Look at it. Whom he did for no. Uhhuh. Then number two, he predestinated. Beautiful.
+
+So number two is that Lord, I'm amazed that he have predestinated him. Amen. Now you are predestined. Yes. Amen.
+
+Amen. You must be grateful that God has predestined you. Now, one day there was a brother. He had a dream. In the dream, he was in a canoe with other brethren and they were moving.
+
+Everybody was paddling. There were seven of them in the canoe. As they were paddling, he was at the back and then he fell out of the canoe. And then when he woke up he said that as he saw himself paddling in the canoe and he fell out it means that he will by all means backslide. So he has decided to just freely backslide.
+
+Yes. by by falling out of the canoe. He he says that it's a prophecy that he will fall out that he said that it is predestinated. He said is what? Predestinated.
+
+No, no. But you see that's not how God has pred Look at what he has predestined. Look at it. He has predestined to be conformed to the image. not predestined about anything that you should be good or bad or go to hell or heaven but he has predestined that you should be conformed to the image of his son.
+
+So the predestination is a predestination that you will be like Jesus. So such a dream do you understand? Excuse me to say it's a foolish dream and you can or if not if it's not a foolish dream then it is a foolish interpretation. You cannot interpret as for me I'm destined to fall because I was at the back of the canoe and as we pardon and I fell into the water. You are falling before you fall.
+
+serious so thank God he has predestinated you for something great now number three Lord I'm amazed that you have predestined me to confirm wow to do what confirm that means he's going to adjust you maybe you are a villager. But Jesus is confirming you to be an ambassador for him, an ambassador for him. One day I sent a missionary to a certain country. Then I later I went there and I met a senior pastor of a church. He told me, "Your missionary came here." He said he was a very dignified and diplomatic man.
+
+He asked me is he from a royal heritage? Is he a royal family or something? I said oh is this one of the pastors? He said he represented you very well. Yes.
+
+And you know what a good testimony? He said he represented you very well. You know you may be a villager but Jesus is confforming. Do you understand? How do you say it in Piss?
+
+You will be changed. How many realize that you grew up with a villager background? Yes. Yes. One of my church members.
+
+He he gave a testimony when he became 70. I don't know what work he was doing in the village. He described his work. He was a villager in the village. She said that they see a car occasionally.
+
+Occasionally. Yes. You don't normally see a car at where he was. No car comes there. That's the Yes.
+
+Maybe once a week that a car comes to that town. That's where he was. Yes. today. He's an international man all over the place.
+
+So God is able to change and make things wonderful. Hallelujah. Amen. Lord, I'm amazed that you have made me confirm. Some of you are saying me, I'm a kumazi man.
+
+This English church me I cannot I cannot be in the church. Conform. Tell your neighbor, confirm. The church will be nicer. The church will be nicer.
+
+The church will be nicer. Number four. Four. Lord, I'm amazed that you've called me. Yes.
+
+I'm amazed. When you are amazed at the call of God, listen to George Müller. He said, "My business is with all my might to serve my own generation. In doing so, I shall best serve the next generation. Should the Lord tar, I have but one life to live on earth, and this one life is but a brief life for sewing in comparison with eternity for reaping.
+
+This is a brief life for sewing. Eternity is a long life for reaping. A short life for sewing and a long life for reaping. Short life for sewing, long life for reaping. You know, I'll tell you something.
+
+I want to tell you the truth. I'm not 25 years old, but how I feel and how I think is as if I was the same 25. That's that's how it is to grow. And that's how when we get to eternity, you'll be as though you are living on earth. You think, you remember, you do everything.
+
+It will be the same. But only that you are not here. Yeah. It's very wild. It's very wild to be in eternity.
+
+Because sometime you feel like going back. I want to go back and obey the call of God. I want to go back and then see if I can do something. I want to go back and make a better opportunity of of my opportunities. I want to do something with what I had.
+
+I didn't realize that it was so important. Yes. Yes. You know, I sent a pastor to East Africa and after some time he came back as he was with us and he was here for some time. I was I think I went somewhere he was there and I said, "Brother, do you remember where you were?" He said, "Yes." I said, "How do you feel about it?" And he said, "I I wish I I would I wish I could re reverse and go back to do better what I did." He said, "I I can see that I didn't I was not serious.
+
+I didn't take the thing seriously." Yes. You know, at every funeral, people cry for different reasons. You know, one day I attended a funeral of a lady. I thought people were crying for the same reason. Oh, different reasons.
+
+I met somebody said, "Look, I had a dress I was bringing her and somebody had given me a dress that I should bring to her and then the dress is with me. I didn't give it to her. That's why she was crying." So, everybody was crying for a different reason. Yes. Yes.
+
+Different reasons. But I tell you, you wish you could go back. You cry now. I I want to go back to Kumasi. I want to go back to Kumasi.
+
+I want to go back to Kumasi. I want to go back to Kumasi. I want to do something. I want to go back. I want to go back.
+
+What was I thinking about when they preach? I don't know. Did I hear it? Why was I not hearing it? I want to go back to Kumasi.
+
+I want to go back to Kumasi. Yes. You see, James Muan wrote on his team for his wife. I said, "I fought a good My wife is here. I fought a good fight.
+
+I finished my race. I've kept the faith. 50 years solid." He's shouting from the grave. I fought. Yes.
+
+Wow. Wow. Are you listening to me? Yes. Yes.
+
+Lord, Lord, I'm amazed. I'm amazed that you've called me that you called me. Charlie, take it serious now. Otherwise, you'll be saying I want to go back. I want to go back.
+
+I want to go back. When you are dying, say this is dying. I'm actually dying now. I'm dying. This is dying.
+
+I said I want to go back. I want to go back. No, no, no, no, no. Don't say that. Don't do that.
+
+Anything you want to do, say it and do it now. Yeah. You know, one day a man became sick. The doctor told him, "You have a few months." He called me. Here's money.
+
+I want to give this to healing Jesus. I said, "Why? You now need money to pay for all this?" He said, "No, no, no. I something I promised God. be he had not died but he was still here.
+
+He had been shown the red card. All the footballers when they show them red card, green card, yellow card come off and or the the referee the the coach calls them off it pains them. Some when they come they are not happy at all. And when they come and say they want to go back and they want to go back and score, but you had chances. Every time you get a chance, every time you you spot the ball, it goes off.
+
+Oh. I don't want to say I want to go back. Number five. Lord, I'm amazed that you have justified me. All in the same verse.
+
+Amen. Lord, I'm amazed that you justified me. Thank you, Lord. Yes. Thank you, Lord.
+
+ah your life your sin Jesus look at you and say it's okay I'll use you like that is it not sure how many of you how many of you like what you have done you shouldn't you shouldn't be in the church One day her sister was singing and she was singing and she was singing and all then she as she was singing on she forgot her words. So after the pastor called her, he told me, the pastor told me, he said, "I called her not in this country, another country." I said, he told I told I said, "What happened?" He was singing.
+
+I I saw pastor I saw one of the guys. mercy. You see, you became confused. Oh, that's why he said whom he called, he justified. Wouldn't you rather clap and say, you have justified me, me, you justified me that I should serve you.
+
+Would you not rather be thankful to God that he has justified you? Would you not be clapping him clapping for him for all eternity that me you have justified me that I will save you. Oh too beautiful. I'm amazed. I'm amazed.
+
+Say I'm amazed. I'm amazed that you have justified me. Number six. Lord, I'm amazed that you have glorified me. Glorified means to make you beautiful.
+
+You know, sometimes when we are preaching, singing, working for the Lord, it looks as if we are beautiful. It's not true at all. It is the Lord who glorifies a person. He gives you some glorious as if you are something. How many have had somebody congratulate you, congratulate you, and you say, "Oh, you don't know me.
+
+That is why you are That is why you are congratulating me. That is why I'm congratulating you. You don't know me. You don't know me. That's why if you knew me, you wouldn't be saying all these things.
+
+You say I'm better than bad. That is I'm better than bad. Bad. Lord, I'm amazed. I'm amazed that you have glorified me.
+
+Receive the glory of God upon your life. This is the call of God. You came from Kumasi to hear the amazing reality that he knew you before you were born. This is not something new. He predestined you.
+
+He justified you. He destinated you to be conformed. He made you conformed. He made you to adjust and to change your life. And then he glorified you.
+
+Lift your hand and give him thanks right now. Hey, we give you thanks, Lord. We give you thanks, Lord. We give you praise, Lord. We give you thanks, Lord.
+
+We give you praise, Lord. We give you praise, Lord. in the mighty name of Jesus. Thank you Lord. God bless you.
+
+You may be seated. I'm amazed. Take out your offering. We are going to take another short break. How many have How many have not had lunch?
+
+How many have had lunch? Aha. When you have had lunch, the blood is directed from your brains to your stomach. That's why you feel sleepy. The blood is now going to digest the food and to help the digestion.
+
+So the the brain is deprived. Is it? Yes. Lift up your offering. Father, we give you thanks.
+
+We give you praise in Jesus name. Father, thank you for this offering. We give in the name of Jesus. Amen. Amen.
+
+Ashes, receive the offering. What time is it?

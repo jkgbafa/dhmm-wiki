@@ -1,0 +1,57 @@
+---
+title: "THE ISSUE OF INCOMPLETE SERVICE | CARDIFF, UNITED KINGDOM | DAG HEWARD-MILLS | 2003"
+channel: "DagHewardMillscamps"
+platform: "YouTube"
+video_id: "AQNIguk7-18"
+url: "https://www.youtube.com/watch?v=AQNIguk7-18"
+year: 2003
+duration_min: 20
+source: "autocaption"
+match: "exact"
+---
+
+welcome to track number 10 of Bea there are four seasons you see I'm talking about incomplete service I'm I'm on another what do you call it the four seasons of your life and God is going to judge you based on these four seasons all right one now listen there there are different ways you can look at look at your life you get it but in James 5:7 says be patient therefore Brethren unto the coming of the Lord for the husband man waiteth for the precious fruit of the earth and have long patience for it until
+
+he receive the early and the latter rain be also patient establish your heart for the coming of the Lord draweth nigh amen now in a sense your life can be defi described in the natural into four seasons four phases and I'm just trying to help you to see the service of the Lord you get it that some people serve the Lord in the first season and when it gets the second season off they serve the Lord for the first season the second season and it goes off and some people because they don't serve the Lord
+
+they stay in the first season of their life all their lives and they are just in the first season in fact the Lord doesn't allow the seasons to change you are there a seed in your hand number two a seed in the ground number three a seed which has germinated and then number four a plant or a tree which is bearing fruit you get it are you there a seed in your hand a seed in the ground a seed a seed in the ground a plant that has germinated you get it but does not have
+
+fruit and then a fruit bearing plant your life can be described in these four seasons you get it in terms of the ministry there are many people who do not enter you get it why why do I say that your life can be described as a SE is it biblical because Jesus said do you remember he said unless a seed falls into the ground and died Abid us alone so he was the greatest seed example of a seed and he he said unless the seed falls into the ground and dies it abides alone but if
+
+it falls into the ground and dies it will bear much fruit so your ministry you get it now listen carefully this is a very important the four seasons of your life there is a season where God makes you into a seed and that season is the season where he is preparing you and building you up you get it for his work cuz what do what is a seed a seed contains you know certain things I mean if you take two small objects you get it you are there what time is dinner 5:30 7 okay we'll
+
+close just now okay okay uh a seed contains uh it's different from a stone because whatever is in the seed is is different from what is in the stone you understand and a seed has life in it a seed has the power has the power to sort of turn into something whereas uh a stone doesn't have that power if you drop a Stone into the Earth it will not germinate but if you drop a seed it will germinate you get it pardon the potential to evolve and to change and to become a particular thing you
+
+get it now there is a stage of your life where you are up there on the tree being prepared to become something that can be cast out and become something great for God I'm I'm talking to you about your ministry you can see these four phases in the life of minist in Jesus Christ you understand and he's prepared as the Son of God to come you get it and he's prepared with all the wisdom and everything you get it and he preaches all right then after this stage of preparation there is the necessary dropping of
+
+the seed into the ground to die now this is the phase which most of my pastors have not entered are you there yeah this is the face so although you know the word you have the word that face Where You Are droing into the ground and are forced to disappear in pain in solitude in darkness where you enter a certain darkness of your life that place is where most people and because of that most people die in the first phase of their Ministry it never moves to the next pH you know something Kenneth hien said
+
+something he said when Jesus appeared to him told him that Jesus told him that there are four phases to the ministry and most people don't enter the first pH of the ministry and he was in a particular phase and had not he was about to enter the third phase of his ministry this was about 50 years ago are you understanding what I'm saying yeah now you have a Ministry I'm not the only one with a Ministry I say some of you are better preachers than me if I don't want you to do better than me
+
+I'm not genuine God should forgive me for all unu that is in me amen I tell you if I don't want you to do better than me I'm not genuine I must want you to do better than I have done to preach better to win more souls to have greater churches even if it's not a Lighthouse church it doesn't matter God did not call us to come and build Empire amen I don't mind I don't mind if that's what you want it's fine but most do you can you see why most of the pastors enter
+
+live and stay in the first pH of their Ministry can you see why huh because when they get to the place where Jesus got to you understand that he must fall into the ground and die they say this I will not and then they withdraw you get it then they become accountants pharmacist doctors what have you yeah are are you with me yeah so you see that's that's actually the difference so I wanted I wanted to tell you people a secret you know if you really want to um serve the Lord how many really want
+
+to serve the Lord do you want to go to the next step how many are ready to go to the next stage huh are you sure you are sure do you think you will go but why haven't you gone you didn't know H booster you need a booster Pastor Jude you need a booster God wants to take us out of the DWF stage Let There Be Few SP pastoral muas in the church ad ad how do you say it inwhere who a they used to say what a a a hallelujah amen amen amen anybody who
+
+has born fruit has been through that you can't be a seed you can't become you can't go through that until you can't get to the fruit bearings unless you fall into the ground and die but it's not the way you want it Lord not my will if Jesus didn't want it then you also don't want it but thy will if Jesus didn't want it then you also not want it you will not like it amen amen before you become a tree and then you grow before you really bear fruit real fruit real you know what
+
+fruit are fruit are 12 disciples look let me tell you something if you have 12 disciples by the time we are dying well done what was Jesus work 12 men I'm introducing the I introduce this America remind me to introduce the concept of a 12 12 disciples if I have 12 men who will go as far as I have gone and further if Pastor Richard will have 12 disciples who will go he is fulltime 12 men from whom he trains and who believe in him and who follow him and will go to that extent and
+
+then the next 12 you see first 12 is 12 then the next 12 half 12 is 144 then the next one is about something million or something 144 * 144 is how much just the third group the fruit will be very well 12 12 and then 12 huh how what do you get 1,72 and the next one is what 144 144,000 this cannot be correct 20,000 144 no no no 144 no no one 44 give births to 12 each is how much 1,700 whatever and then each of those give birth to 12 20,000 yeah these
+
+are this is churches churches 20 ,000 churches cuz these are not little children these are real wild people and Pastor Richard is going to have his 12 I'll have my 12 I'm going to have 12 businessmen 12 this 12 that 12 everything 12 12 disciples but some of you shouldn't have 12 disciples but 12 people follow the way you are not it will not be good at all if 12 people follow the way you are it would be a very bad thing 12 vs 12 drafts amen are you listening are you listening to me yeah
+
+if 12 people follow the way you you are going it will not be a good thing if you you can bear fruit you get it if you can bear fruit and have 12 people well done and some of you are so far from even having one disciple because you see the way you are you are not even ready I wouldn't want and you too if you are honest wouldn't want people to follow your life is it not true so do you see it takes a certain level you need to get to a certain level before
+
+you can even Bear real fruit cuz your real fruit is not the church that's what I'm learning because when when Jes said father I finish the work that thou Gest me to do I have glorified thy name on this Earth he was not talking about it he had not started a church he had not bought a building he had not travel to any countries but he had 12 he said I have manifested that let's let's go to John chapter 17 so you see that you are you are very far some of you think that because
+
+of the 12 people in your church or the 18 people that come it's like Lord I'm bearing fruit now look carefully Mercy Lord are you scared darling Daniel who is diry Daniel who is darling Daniel oh why wouldn't you want to go into the ground says the Lord I went into the ground for you huh and you call yourself by my name you call yourself Christ in Christ like and yet when it comes to that part you wouldn't want to do that part and yet you call yourself Christ like people call you Christian why wouldn't
+
+you want to do why why why would you hold back why would you not go through the darkness why don't you believe for he that will save his life will lose it haven't you seen what you have lost and are losing fighting a losing battle to hold on to things that cannot be held on to why why would you not go through the darkness go through the the place where you are all alone but there are few that find it but the few that find it find the glory why why no wonder you remain in
+
+stage one when you should have been in stage four no wonder there's no better description to give to you than a dwarf a dwarf of ministry under any definition there is nothing you are nothing but a dwarf because in the hour and the the day when you should have pressed ahead you drew back and when you drew back you lost everything one day I had a meeting and the Pastor said to me I told him I taking that decision when I told the people everybody opposed the decision so I withdraw I withdrew then I met
+
+with him later he said to me you should have continued he said to me I feel that you missed a major breakthrough in your life because of that decision that you drew back and I told him well I have not withdrawn on that decision I am going ahead with it but in another way ladies and gentlemen don't hold back when it's time to walk and you don't walk time to eat and you don't eat time to speak you don't speak you are just saying if that was how you were today you would not be able
+
+to be what God has called you to be you're afraid of not having a car afraid of not having a house you trust in unbelievers some of you have bosses who are homosexuals Muslims other kinds of wild things and that you trust in more than you trust even my servants says the Lord to you you look at my servant and you distrust and you suspect and you fear but for the homosexuals this message continues on the next track keep listening

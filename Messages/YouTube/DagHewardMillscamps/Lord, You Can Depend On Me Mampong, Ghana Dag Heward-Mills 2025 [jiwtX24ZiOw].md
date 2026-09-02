@@ -1,0 +1,647 @@
+---
+title: "Lord, You Can Depend On Me | Mampong, Ghana | Dag Heward-Mills | 2025"
+channel: "DagHewardMillscamps"
+platform: "YouTube"
+video_id: "jiwtX24ZiOw"
+url: "https://www.youtube.com/watch?v=jiwtX24ZiOw"
+year: 2025
+duration_min: 126
+source: "autocaption"
+match: "exact"
+---
+
+So today we want to continue. Lord, I know you need somebody. You can depend on me. Amen. Amen.
+
+So now we are moving to chapter two and I'm preaching from the book. Lord, I know you need somebody. I'm preaching the same things. Yes. The same things.
+
+The same steps. The same order. The same chapters. the same points, the same verses and you can see that it is relevant to us today. Yes.
+
+So when you get this revelation, you see that ministry can continue to the next person. Yes. That's why I say that I've not seen many pastors and bishops come from Kumasi area. Yes. I need to see more.
+
+And we need to see how many churches do we have in Kumasi? Do we have 100 churches? 82. 82 in Kumasi. Yeah, we should have 100 and 100 buildings.
+
+We have 100 buildings. How many buildings do we have? Buildings. We have about six. Yes.
+
+Church buildings, you have Bantama, you have Aokqua, you have Atosu, you have um Tik Chrome, you have Jabin, you have Aidas, you have Cuadaso, you have where is Bishop Haji's church? What is that's and then the other one? Mano. No, I said Kumasi. So, why is Charles Bu?
+
+Uh, yes, I can see. And then you have um Agrema. Yes. That's that's 10 cranza. Is there a church building there?
+
+Is it also in Kumasi? You have a building there. Where's the picture? I don't believe Bui is there a church building at Bui where PI is it in Kumasi you have a building there I don't believe I need to see pictures. Yes.
+
+So that's about 12. Yes. So many churches. We need more churches because Kumasi is not becoming smaller. It is becoming bigger.
+
+Yes. So our church buildings are too few for such a city. Yes. And our churches are too few for such a town. And our bishops are too few for such a place.
+
+Yes, it's more populated than Ara. Kumasi has more people than Ara. Now Lord you can depend on me. Number one Lord you can depend on me because I am saying here I am send me. Isaiah 6 verse 8.
+
+Also I heard the voice of the Lord saying whom shall I send and who will go for us? Then I said here am I send me. Amen. Amen. Why can God depend on you?
+
+God can depend on you because you are saying here I am send me. Hm. You are not saying here I am but my family and my children are here. I have to care for them. Here I am.
+
+Let somebody else do it. Sometimes your father will be shouting who is there? Who is there? Yes. And you see sh instead of saying here I I am or I am here you be quiet.
+
+You be quiet. It's like there's nobody. There's nobody here. Because you know that they want to send you. Who is there?
+
+Who is there? And everybody is quiet. But when you say I am here, it means here I am. Send me. Say what the issue is so that I should go and do it.
+
+Go and get this for me. Bring this. Go and buy this. Go and do this. Come.
+
+Come and do this for me. Who is that? When I say who is there? Everybody say sh. Who is that?
+
+Who is that? Who is that? Mobile. Who is that? Who is that?
+
+Who is that? That is not a good response. So God is shouting into the Kumasi church, who is there? Is that the answer you're going to give him? You have to say, I am here.
+
+Send me. Here I am. Here I am. Here I am. Send me.
+
+Yes. Here I am. Send me. Amen. Amen.
+
+Not here I am. Send them. Here I am. Send her. She She's good.
+
+But maybe I'm not good. Here I am. Send him. Listen. Listen, God uses ordinary people.
+
+God uses ordinary people. And you you must never discount yourself. Reinard Bonnke, he was not good at maths. He was not good at maths in school. Yes.
+
+So they gave him a nickname. I don't I don't even want to say the nickname. I not one day he was preaching. He said the nickname that they gave him in the school in in German. Yeah.
+
+And one day he said uh he told his father his father was a pastor that I am going to be a pastor and his father said no my first son is going to be my heir. He is going to be the one to take over, not you. Yeah. And he was heartbroken. He said when he was preacher up to now that guy is not even saved.
+
+Yes. Yeah. But he number one because of that nickname and he was discounted. his father felt that maybe he wasn't whatever. Do you see?
+
+Yeah. That he's the one that God used. And when he said when he he said that uh God told him, you preach the gospel in Africa. Small boy preach the post gospel in Africa. Said I'll preach in Africa.
+
+So nobody here must say no and nobody must be sh when you see that God is looking say who is say Lord if your father is in his room you rather come to the room say papa I know you need somebody I'm here oh you don't have to even call I'm around. If there is something, if there is something, I'm here. Your boys are here. Your girls are here. We are on the ground.
+
+We available. Yes. And not let them be calling for you. Is he in my house? The other house.
+
+The other house. The father was a very fat man. He didn't move around and he called his children with a whistle. Different different whistles. I mean different different different whistles.
+
+So sometimes I'll be in my room and I will hear he will be whistling different whistles and I think because when he whistled the woman then he whistled another one very strong I can hear from across none of the children were responding. Yes. was calling them used to call them all the time. Yes. And then you see some people say I didn't know it was me.
+
+You didn't know it was you because we didn't mention your name. The whistle that we have been whistling you don't know that is you. Even me I knew. It's only I'm laughing about if I I can tell you the name each one. This one is this.
+
+This one is this. This one is this. Even me I knew that. kidding me? I knew the whistle and you you are saying you don't know what it means.
+
+You say you don't know. You don't understand the message. You didn't know that God wanted you. You didn't get a message. Are you serious?
+
+Say, "Lord, Lord, I know you need somebody. I know you need somebody. Lord, Lord, you can depend on me. of me because I am saved. Because I am saying here I am.
+
+Here I am. Send me Lift your hands. Say, Lord, Lord, your boys are here. Your boys are here. Your girls are here.
+
+We are on the ground. We are on the ground. Open your father's door and say, "I'm here. Oh, I'm here. If you need me, daddy, if you need me, I'm around." Oh, if you need to somebody to send, somebody to call, somebody to go, somebody to stay, I'm here.
+
+I'm here. Need somebody to start a branch, somebody to pray, somebody to lead the people, somebody to do something. I'm around. I'm I'm here. I'm just around.
+
+I don't want you to shout too loud or whistling whistling and we we say we don't know understand what you are saying. Number two, Lord, you can depend on me because I have a willing heart. a willing heart. Exodus 35 verse4 Moses spake unto all the congregation of the children of Israel, saying, "This is the thing which the Lord commanded, take ye from among you an offering unto the Lord, whoever is of a willing heart, a what? Let him bring it.
+
+An offering of the Lord. Gold, silver, brass, precious things. Precious things. Your whole life. Look at it.
+
+Gold, silver, bring it. But only those who are willing. You don't take precious things from people who are not willing. If it's not willing, don't take it. Yes.
+
+If you are not willing, we don't need your precious thing. Yes. Willing is different from force. That is why when you like what I'm preaching now, after that it is up to you. Those who are willing, they will serve the Lord.
+
+Nobody will come and say, "Hey, do you remember last time we called you, we we had a meeting, we said this, this this this." No, the person is is eager. It's flowing. Yes. That's why you see that even those you have to call say come. They say yesterday he was preaching said that some pastors are not here this and that.
+
+Then you see they all come. Oh bishop we are what? These are not willing people. They are not willing people. Willing means flowing that you don't even ask and it is flowing.
+
+Sit down. One day a brother went to commit adultery and uh there was a problem a big problem but I was I was with the brother and then he was crying and he was explaining he said I've suffered my marriage he said that is what led me he was trying to give reasons that's not led me. I said, "Oh, really?" He said that my wife asked for the sex, she have it, but she was not willing. Yes. Then he said, he says, "Some said a naked unwilling woman and a naked willing happy woman.
+
+They are two different things. They both are naked but they are two different things. Yes, they are two different things. Naked smiling willing and naked unwilling uninterested moody. You are not married isn't it?
+
+So learn it less I pour fire on your heads. So he was saying he was saying that that is the cause because he was dealing with an unwilling and that led him there was another willing person, another eager person. Now I went to a certain country. I will not tell you the name of the country but when I went there they told me that in here in this country if a man goes outside his marriage we don't blame the man we blame his wife. That's what they said.
+
+I will not tell you the name of the but it's one of the alphabets. said here we don't blame the husband, we blame the wife. He said she did not behave well and then that is why he went out. He said as for here that is our policy. Yes.
+
+What a country. Somebody says he's going to the country. Say, "Lord, you can depend on me because I have a willing heart. Yes, I'm flowing already. I'm flowing.
+
+It's not It's not you who are asking me. It's not you who are asking me. And God said, "Take an offering of the people who have a willing heart." Look at it. Don't take offerings on people who are not willing. You take their gold, you take their silver, you take their cars, you take their money, you take their big big offerings from people that don't want to give it.
+
+And you say, "How many want to give? Come, come, give." And they don't want to do it. No, no, no, no, no. Take offering only from people who have a willing heart. And that's how God is.
+
+Is that he's only going to take you to serve him if you are will like you want to serve him, you want to do it. It's not that he's forcing you. They say you should come. They say we should come to They said this. They say, how do you say it in here?
+
+He said we should come. Hallelujah. Amen. Say, Lord, Lord, I know. I know you need somebody.
+
+You need somebody. Say, Lord, Lord, you can depend on me. You can depend on me because I have a willing heart. I have a willing heart. Number three.
+
+Lord, you can depend on me because my heart is stirred up. My heart is stirred up. My heart is stirred up. My heart is stirred up. Exodus 35 verse 21.
+
+And then the Bible says, "Then the people came with the offering and they came everyone whose heart stirred him up." He was stirred up in his heart and everyone who spirit made willing, whom his spirit made willing and they brought the Lord's offering to the work of the tabernacle and to the congregation for all his service and for the holy garments. They brought people whose heart stirred him up. Stir. He was stirred up. He was moved in the heart.
+
+You see, some of us are moved but not in our heart. When you meet the politicians, some of them you see that the thing is from their heart. They hate each other from the heart. They they they are feeling you know to say that these people are bad, these people are good, these people are bad, it's from their hearts. It's very deep.
+
+That's why you you have to stay away from all those things. Yes. What is your heart stirred up for? Me? My heart is stirred up for Jesus.
+
+Yes. My heart is stirred up for Jesus and my heart is st up for his work. Yes. If you are a politician, what I'm preaching about it, it doesn't apply to you because your heart is tethered up for something else. This one is about God's work.
+
+It's not about the work of your party. It's a work of Jesus. Yes, we are here for ministry. We are here for ministry. Yes.
+
+And so we need you to be stirred up in your God has stirred up your heart. It is good. Yes. You know when I was in Achimo school I knew then that as for me I'm going to serve the Lord. Yes.
+
+When I was doing writing my A level I was fasting. I fasted throughout. Yes. Not even that I was I I knew I don't know why I don't even know why I was fasting. Yeah, my heart has been stirred up to serve the Lord.
+
+Oh yes. For years. When I was uh before I went to university, before I went to university, right? I went somewhere in England. I'll be there to stay with my uncle.
+
+And whilst I was there, I remember a particular place that I went to to pray because my heart has was stirred up from young. Listen, if God is going to use you, most likely most likely most likely he will use you and he will stir up your heart as a younger person. You see like for instance what I'll prove it to you. Should I prove it to you that most likely if you if you give birth, you'll give birth as a young woman. Yes.
+
+Most likely if you give birth, you will give birth as a young woman. It's not so common for an older woman to give birth. It's not so common. When you become an older woman, it's not easy to give birth. Yes.
+
+From a certain age, it's not easy. Even the pregnancy will not come. Even the man you see that from 25 going the sperms are maximum okay at 25 and then it starts to go down. So when you marry an old man you see that he's weaker. Yes it's weaker and the sperms finish use all.
+
+When God is going to use you, he will stir up your heart. And you see that even a young person can do a lot for the Lord. Amen. Amen. Are you listening to me?
+
+Yes. So allow God. If you are stirred up, follow it. And you have to stay close to other people who are also stirred up. Otherwise, you get close to somebody who is not stirred up before you realize you are cooled down.
+
+Iron sharp net iron. Number three. Number four. Lord, I know you need somebody. Everybody say, "Lord, Lord, I know you need somebody." I know you need somebody.
+
+And say, "Lord, Lord, you can depend on me." Because I am offering myself today. Amen. Amen. Judges 5:13. Lord, you can depend on me because I am offering myself today.
+
+Amen. I'm doing what? Offering myself. Offering myself today. Today.
+
+Today. Today. Today. I'm offering. I'm offering.
+
+Say, I'm offering. I'm offering. Not gold. Not gold. Not silver.
+
+Not silver. Not money. Not money. Not cars. Not cars.
+
+Not houses. Not cars. I'm offering myself. I'm offering myself. It's myself.
+
+I'm giving. Amen. Amen. Exodus chapter 5 and Judges chapter 5, he said, "Then sang Deborah and Barack, the son of Abinoam on that day, saying, "Praise ye the Lord for the avenging of Israel." When the people willingly offered themselves, willingly did what? Then the next verse says, "Here, oh ye can give ear, give princes.
+
+I will sing to the Lord and I will sing praise to the Lord." Amen. Amen. They offered themselves. And then look at verse 6. My heart is toward the governor.
+
+Judges 5:6. Well, I have here a Okay. Verse 9. My heart is toward the governors of Israel that offered themselves willingly. My heart is towards the governors who offered themselves willingly among the people.
+
+You know, it's time to give yourself. It's time to give yourself willingly. Yes. It's when people give themselves to something. Do you see that you see that?
+
+Yes. This person is ready to do anything to try to overthrow the government. It's such a small thing. I don't know if you can find for me uh Ata and Ya when they tried to overthrow the trial of those two guys, they tried to overthrow the government in Ghana and they were caught. Yes.
+
+You see when Kwami Kruma came, Kotoka and Ankra and so on, they came into power. Then they whilst they were in power they were the heads they overthrew Kwam and Kruma some people also tried to overthrow them that's how come Kotoka was killed and then that's why the airport is named after Kotoka yes the people who tried to overthrow Kotoka this ata and yeah I think it's the name or is it correct yes Yes. So I want you to see the trial when they caught them. That was the end of their lives. Yes.
+
+Oh, they executed them sharp. So when President Rollins in our history in this country when you see President Rollins when he came to power and he offered himself he said I'm the one who is the one doing this coup these people are leave them they are not they are they don't have anything to do with it you see that even though he didn't have qualifications eh to be a leader in Ghana a lot of people follow that's what form PNDC and that's what form NDC there was no NDC and there was no PNDC it is Rollins and a lot of people lawyers and other people supported him in Ghana even though he tried to also overthrow that he was successful at why it was No, they were not successful.
+
+They were caught. They were caught. They were executed. Sh. Have you Have you found it?
+
+Yeah. Yeah. Show us. You see that? So that's what I'm saying that when you offer yourself it means it may work, it may not work.
+
+Uh it means that there may be I mean you may be sacrificed. Uhhuh. Or you may have a bad experience but it's still you are offering yourself. Yes. It's an offer and you know that there's a risk.
+
+What about if it doesn't work? What about if the church doesn't work? What about if something happens? What about this? What about this?
+
+So many things. Yes. But you offer yourself. Yes. Yes.
+
+Willingly. Willingly. I'm ready. That's what it means to offer. Say I offer myself.
+
+There's a song, Lord, I offer myself to you. Everything I' been through. Yes. Using for your glory. Lord, I offer my days to you.
+
+Lifting my praise to you. as a pleasing sacrifice. Oo yeah. Lord I offer you my life. Lord I offer my life.
+
+Lord I offer my life to you. Everything I've been through. Oh yeah. Use it for your glory. And Lord, I offer my days to you.
+
+Lifting my praise to you as a pleasing sacrifice. Okay. All right. You're playing wrong chords. Now listen.
+
+Look at the ina. Look at it if you have it. Yeah. Yeah. We don't know what it is.
+
+We can't hear. Okay. Solve your problems. Solve your problems. Get it to work.
+
+And I was looking at the the trial when they were tried in court. Yeah. As well as the exe. Is that the execution? This is the execution.
+
+They're coming to shoot them. Yeah. You see those politics like people do politics they will keep themselves. Look at these two guys like you. You have decided to overthrow the whole government that has overthrown in Kruma and they offer themselves they know that if you are caught that's it finished you are finished.
+
+Now you see so people offer themselves for such things but they don't offer themselves for for God's work. Wow. So you see that James Mun he offered himself to come to Ghana where he would die whether this will happen whatever it is only that God bless him he was able to live to 88 he didn't die he left Ghana 1982 he died in ' 89 he came back in 1984 when I was in university he came to preach on campus yes then he went back he never came again he offered himself so we are saying that Lord you can depend on me because I'm ready to offer myself.
+
+I give myself. I give myself. I give myself. Look at these people. They are not afraid to give themsel for anything.
+
+Even today you see NDC, N P N P N P N P N P N P N P N P N P N P they are prepared to die. They are they fighting they hate each other. They fight for this fight for this to win. They say these people are bad, these people are good. I mean what is this?
+
+But when it comes to church, you are not prepared to fight for anything and to offer yourself. Look at look at the execution. Show us the execution again. Hey, when you see you you see that you are afraid. Look at it.
+
+Look around. Everybody they were running to see they're coming to execute them. Public execution. Oh, are those the ones standing there? Yeah, they are coming to execute the people that offered themselves and it didn't turn out well.
+
+Um they are now coming. Oh, for politics because you see this politics is Ghana politics. Yeah. Where is the the trial? Have you found the trial?
+
+Show us the trial. Could eH51 left Samuel Benjamin Ar. The tribunal sentence you to death by firing spot. March him out. DH 601 left Moses Yaba.
+
+The Trabuna sentence you to death by firing squad. March him out. GH 976 second left hand. A tra sentence you to 30 years imprisonment of hard labor. Start start again so that we hear that.
+
+Go back so that we hear the sentencing again. These are people that have offered themsel for politics. These people 51 left Samuel Benjamin Arur. The tribunal sentence you to death by firing spot. March him out.
+
+DH 601 left Moses Yaba. The tribunal sentence you to death by firing squ6 second left hand. A tribunal sentence you to 30 years imprisonment of hard labor. That's the blessing of God. Yes.
+
+Serious. And they show the show the execution again. This what it means to offer yourself. They offered the politics. They said should be back.
+
+This boy sayuma should go. They believe in it. Look at it. Look. Ready to die.
+
+You see that same car that they took them? It's coming. It's coming here too. Yes. Yeah, that's it.
+
+Yeah, there there are four stakes I think and there are two people running. Serious. Yeah. Lieutenant whatever attack we That's it. Look at the car.
+
+The car is coming. Yeah. From court. They are going to the place. Okay.
+
+Yeah. How many you have not seen it before, isn't it? Yeah. This is Ghana. This is Ghana history.
+
+Yeah. You've not seen it before. Yes. When when they overthrew Kwamin Kruma. You see there were still some people who supported Kwamin Kuma.
+
+I felt that Kruma was a good person. Uh so these soldiers then they also did a counter cool but the main cool leaders was Kotoka and Ankra. Yeah. So they tried and then there was shooting and all that and Kotoka was killed. Yes.
+
+He was killed around the airport of Baka. Yeah. And it was a big blow to them then. So they caught the two the two guys. Yeah.
+
+And they say you are finished. Finished. You are a traitor. Finished. People have passion.
+
+Yes. People have passion for things. The way they mis sent the tribunal sentence you to death. This and that. Match out.
+
+Match out. Let me match him out. It's something. This is what it means to offer yourself. Yes.
+
+But I'm not scared of dying. Yes. I'm not afraid. I If I perish, I perish. Lord, I offer myself.
+
+Is it not amazing people? Yes. Number five. Lord, you can depend on me. Lord, you can depend on me because I am willing to use any skill that I possess.
+
+Any skill that I possess. 1 Chronicles chapter 28 verse 20. 1 Chronicles chapter 28 verse 20. And David said to Solomon, "Be strong and of good courage and do it and fear not be not dismayed. For I will be I will be with thee." Amen.
+
+Next verse. Till you finish all the work. And behold, all right, the causes of the priests and the Levites, and they that shall be with thee for the service of the house of God, and there shall be with thee for all manner of workmanship, every willing, skillful man, every what? Willing, skillful man for any manner of service, any type of work. Wow.
+
+varieties of work. Also, the princes and all the people will be holy at thy commandments. Wow. Lord, you can depend on me because I'm willing to use any skill. What skills do you have?
+
+It's time to deploy all your skills. Is it computer skills? Is it acting skills? Is it singing? Is it musical?
+
+Is it preaching? Huh? Why do you sit in church acting as though you are deaf and dump? Why? Lord, you can depend on me because I'm willing to use every single skill I possess for you.
+
+Amen. Amen. I'm willing to use any skills I possess. Wow. Wow.
+
+Lord, you can depend on me. Amen. Amen. What skills do you have? Some of you, you are very good preachers.
+
+How many of you here are a tree speaking Ashantis? Not all of you are shanties but you can speak tree. You know do you know that preaching in tree sounds more powerful than preaching in preaching in other languages. Yes. When you hear a tree speaking preacher is very powerful.
+
+It sounds powerful and the prophets they are three speaking prophets. It has some force in it. Yes. What skill do you have? I want to see you using your skill for God.
+
+Use every skill you have. You see, I'm using my skill. I can preach. If I can't do much, I can preach. Yes, I can make music.
+
+I can read. I can write books. Can sing. I can build. I'm I've been to the I've been to the building site already before I here.
+
+Yes. Cuz we have I'm building something. Yes. What do you have? Why do you do you know that to be deaf and dumb is a severe handicap?
+
+So if you are not deaf and dumb, why do you behave as though you can't see, you can't hear, you can't please, if you don't listen, you cannot hear what I'm saying. I'm preaching. I'm actually talking now. I said if you don't use your skill you are like somebody who cannot see cannot talk cannot hear in the church. It's like when it comes to the church life you are deaf and dumb.
+
+But when you go out to be a bad person, you are very bad. You can talk. You can say God is going to use you. Lord, you can depend on me. Amen.
+
+Amen. Number six. Just you can't wait for your match from the back to the front each time and all that when we are sinking. It takes too long. Sit down.
+
+Sit down. Finish. Finish. Sit. It's too late.
+
+Too late. Amen. Listen. Lord, you can depend on me. Number six, Lord, you can depend on me because of the skills I possess.
+
+And number six, Lord, you can depend on because I've set my affection on the house of God. On the house of God. Amen. Amen. I've set my affection on the house of God.
+
+Amen. Amen. Now in 1 Chronicles chapter 29 verse three it says moreover because I have set my affection to the house of my God. I have of my own proper good of gold and silver which I have given to the house of my God over and above all that I have prepared for the holy house. Listen, if we can set our affection to the house of God in Kumasi alone that's why I said that how many buildings do you have?
+
+very few that we can say that this is lighter. If you have whatever to do, just go and do it. But I say we can't wait for your match. Whatever you do, you you you have to set your affection like this Kumasi church. It will be nice.
+
+It will be beautiful. It will be great. It will be widespread. It will be in every corner. It will be from one light pole to another light pole.
+
+It will there will be building after building. There will be nice building after nice building. There will be congregation after congregation in the whole town you see if you don't love it. You can't do all these things. Oh yes.
+
+That's why God is saying to you that you know I need somebody and that's why he say that Lord before you even say I need somebody who loves my house. Cuz one of the thing when you love God you love his house. When you love God you love his house. house. Do you love his house?
+
+Do you want his house to be nice? I was at Calono where we started or repairing the house, repairing it. And I realized that I feel happy to make the house nicer. It makes me happy. Yes.
+
+I feel some joy within me to make the house nice and beautiful. What do you think? I wish there will be somebody or some people who will be in Kumasi or the Ashanti region and say I have set my affection on the house of God that the house of God will be a nice house. Now those two new churches that we built Cuadasu and Apple. A promise.
+
+A promise. Yes. Those two. You see that church we can have more than 100. That's simple that every church will have sound systems, LED screen, air condition.
+
+carpet. As you have come here, is it not nice? Is it not nice? Yes. Who is who is it for?
+
+Everything here belongs to the church. It's for the church. We are only making what is the house of God? A beautiful house. Every day do this, do this, do this.
+
+It's not for anybody. Nobody can claim ownership here. It's too big for even one person to own this place. You cannot do anything with it. It's the house of God.
+
+But when somebody who has affection, who has affection, he has a feeling, he wants to make you nicer. Yes. You want to make the house nicer. Why can I make this place nicer? Why do this one will be nicer?
+
+The congregation The singers will be nicer. The the dancing will be nicer. The environment will be nicer. The people will be nicer. The congregation will be nicer.
+
+The children's church will be nicer. Will be nicer. the church, the children, the music, the dancing, the carpet, the sound system, the music, the screen, the members, the businessmen, the people. Yes, sir. The church, the church, the soul, the children, the elders, the pastors, the bishops, the church, congregation, the church, the host, the people, the food, the ministry, the church, the church, the work, the people, the music, the air condition, the sound system, the computers, the everything.
+
+Everything. Everything. Wow. Listen, I'm giving you a commission. Go to Kumasi and say the church will be nicer.
+
+The church will be nicer. The church will be nicer. The church will be nicer. The church will be nicer. Will be nice.
+
+Mega church. Super. The church, congregation, the children, the ministry, anointing, anointing, pastors, lay people, power, people, congregation, episer be nicer will be nicer. The building, the tiles, the ceiling, the lights, the screen, the church, the pulpit, the carpet, the pastor, anointing, power, the grace, the people, the children, the youth, the dancing, the stars. Stars, the stars, the music, the music, the singing, the worship, the worship, the praises, the glory, anointing, the church, the church, everything.
+
+Wow. Beautiful. The instrumentalist, instrumentalist, the pianist, the drummer, the bass, the guitar, the singing, the chanting, the cushioning, the cushioning. drama, the druming, the sound, the sound, the mixing, the video, the screen, the projector, the typing, the church, the people, anointing, anointing, the glory, everything. Sit down.
+
+Amen. So that's what it means. Lord, you can depend on me because I've set my affection on the house of God. Yeah. When I came recently to Kumasi and I went to the church there.
+
+Hello. I went to the church. What is the name of that church? The AUD. The first thing that I wanted the church to be nicer.
+
+Yes. That was the first thing. I wanted the church to be nicer. I immediately saw we we can do this. We can do this.
+
+We can do this. We can air condition here. We can do this and the church will be nicer. Yes. It cannot be 10 churches, 10 church buildings in a town like Kumasi.
+
+It means we are not serious. It means that there is nobody there who has his affection on the house of the Lord. Yes. Affection. Oh yes.
+
+love life for the house of the Lord. Amen. Now Lord, you can depend on me because I am willing to go where you wish. Me to go. I'm willing to go.
+
+I'm willing to go where you wish. Move to the front. I'm willing to go where you wish. Beautiful. Now, Ezra chapter 7 verse 11.
+
+Now, this is the copy of the letter that the king atesus gave to Ezra the priest. All right. Even a scribe of the words of the commandments of the Lord. Next verse. At Zexus, king of kings unto Ezra the priest.
+
+All right. A scribe of the law of the God of heaven, perfect peace. And at such a time, verse 13, I make a decree that all they of the people of Israel and of his priests and Levite in my realm, which are minded of their own free will to go up to Jerusalem to go with thee. They are minded of their own free will to go up to Jerusalem to be to go with thee. So he said that I am willing to go anywhere.
+
+He said that those who are going to go to Jerusalem they should go freeheartedly in their they should be willing you have you see when you are being sent apart from the person sending you you yourself should have a willing free heart to go to where they say you should go because as God is using me to I'm is I I also want to do what he's telling me to do. It's not that I'm doing something I don't want to do what he's saying. is that oh I wish I was rather a businessman but he said I should preach.
+
+What did they say I should do? So I'm I'm now a I'm now a preacher but actually I want actually want to be a business or maybe I want to be a politician. So I'm just doing the church. If the opportunity comes for me to become presidential candidate then I'll go and become a candidate. But for now I'll do the church.
+
+No. Lord, you can depend on me because what? I am willing to go where you wish. I also want it. I also want it.
+
+Oh yes. So sometimes when I'm sending people most of the time I say I want you to go here. Do you want to go? And if the person says oh I want to discuss with my wife. Oh it's okay.
+
+Or if I say I want you to go here and I say will you go? Oh, can you give me two weeks to pray about it? It's okay. Don't go again. I want you to go somewhere.
+
+Are you willing to go? If you say so. If I say so. What about you? I'm asking you if you want to go.
+
+You say if I say so. You have returned the thing to me that if I want you to go. If I want you to go, you go. I am asking you if you would like to go where I'm sending you to go. You say you you say that I I I mean I'll pray I'll pray about it.
+
+Or you say if the Lord wills if it if it is the will of the Lord. Or if I said are you do do you want to go? Are you willing to go? You say it is well. It is well.
+
+What do you mean by it is well? What what do you mean by it is well? What does it is well mean? How does it help when you say it is well? You know that song it is well.
+
+I have not I had not heard it before when I was in uh sec I think I must have been in secondary school. I was um I was um sent Yes, I went to a funeral way keeping at Jamestown in Ara and this the main song in that funeral wake. I've never been to weping before. I've not seen a dead body before. I have not seen a funeral before.
+
+It was my first. The main song was it is well since then when I hear it is well I said please don't I don't like this song I don't want don't sing this song yeah since then that song I only think of funerals so when I when I say are you willing to go to this place you say it is well it is well with my soul it means you don't want to go there. Number eight, Lord, you can depend on me because I am willing to dwell. I'm willing to dwell wherever you want. Wherever you want me to go, I'm willing to live there.
+
+Dwell. The first one is that number seven was that I am willing to go. Number number seven is I am willing to go. Number eight is I am willing to dwell. They are two different things.
+
+You may go but you may not want to live there. You may go somewhere but you are not prepared to live there. And real missions means that you have to go and you have to live there. Let's show the picture of James Muan again. He's a very great person whose life is a message to us.
+
+His life his even his gravestone is a message to us. Yes. Read it. Let's read it together. I want to open up so we can read it.
+
+Beautiful Machuan. Yes. Who went to be with the Lord on 27th January 193 83. No, that is his wife. My dear wife, Fear.
+
+Yeah. Who went to be with the Lord? 27. And then they added also James Muan, husband of fear. Who went to be with the Lord?
+
+Yeah. So he was he was added to the grave. The wife was buried there. Then they came and added him. Yeah.
+
+On the 4th May 1989, aged 88 years, pioneer missionary to West Africa for 50 years, founder of the church of Pentecost. These are short short statements but the implications are very big. A pioneer missionary for 50 years is loaded. Hey. And then the language of Ghana.
+
+Wow. Translation. I have fought a good fight. It's as if he's preaching from the grave. It's as if he's talking.
+
+It's as if he's inside the grave and he's talking to us. Yes. Wow. It's like he's preaching to us from the grave. Yes.
+
+I fought fought fought fought. I ran ran ran and I kept kept kept faith. Faith faith. Yes. Beautiful.
+
+Is it fantastic? Is it beautiful? Is it beautiful? Is it amazing? It's amazing.
+
+And he said, "Lord, I know you need somebody and Lord, I I you can depend on me because I am willing to dwell wherever you want me to dwell. Where you want me to live, I will live there. I'll be there. I'll be there. How many are willing to move somewhere for Jesus?
+
+How many are willing to stay somewhere for Jesus? Yes. Yes. Lord, I know you need somebody. You can depend on me.
+
+Amen. Amen. And then number nine, Lord, you can depend on me because I'm willing to fight enemies. I'm willing to what? Fight.
+
+You can depend on me because I I I will fight. Now, wow. The Lord shall send the rod of thy strength out of Zion. Psalm 11:2. rule thou in the midst of thine enemies.
+
+Thy people shall be willing in the day of thy power. Huh? In the beauties of holiness from the womb, rule thou in the midst of thine enemies. Are you ready to fight? Are you ready to live in the midst of enemies?
+
+Amen. Are you ready to fight for a long time? Are you ready to have many enemies? Are you ready to have nasty people in your life? Are you ready to be wounded for Jesus' sake?
+
+Lord, you can depend on me because I'm ready to fight tooth and nail. I'm ready to hate and to be hated. Yes. Hatred. Sometimes you are forced to experience hatred.
+
+He said I write unto you nicolatans because you hate those things which I hate and I am happy about it. The nicolatans. God told God told they said look I I am happy that you hate this thing these people. So even though we are not supposed to hate, he says this thou has that thou hatest the deeds of the nicolatans which I also hate. Yes, I also change the version.
+
+So another another version always change to American first then we keep going. This yet this you do have that you hate the deeds of the nicolators which I also hate. Another version change. But you have this in your favor. You have this in your favor.
+
+This is your favor. It is in your favor that you have this hatred for the deeds of certain people, not accepting them. There are some things you must hate. And to be a fighter, a good fighter, you need to have some hatred for certain things. This thing when I see I don't want it at all.
+
+Yes, there are some things that I hate. I've noticed it's not conscious, but I've seen that there are some things I don't like. If you play certain games with me, the that that will be the end. I don't like certain things at all. I not that I I've decided in my mind or that I even say that I don't like them, but I've noticed that there are some things that if you go in that direction, it it ends things.
+
+Yes, it ends things. You've played the wrong card. You shouldn't have touched that area. You could have touched another area, but not that area. I'm sure you are wondering what are those things.
+
+It's none of your business. You you said nicolatans. Yes. Nicolance. I hate what they are doing.
+
+There are some things where some people to say, "Oh, you shouldn't have done what Nicolan did." Nicolanical things they don't work at all. If you go Nicolan way you are finished. You could have done some other thing but nicotanical ch it doesn't work at all. So what is nicolan? That's a mystery.
+
+Yes. So are you ready to fight? H that's why he wrote in the grave I have fought a good fight. Wow. A good It was a good fight.
+
+One time James Mone traveled to Ireland. You see that is where he was from. So he there were time that he would go. When he came back, the assistant whom he left in charge took over the church and and told them that James M was no more the main pastor. Yeah.
+
+So when he came he had to fight the guy and rather clear the guy. Yeah. Then some lay people went and organized uh through the government. They went to organize to say that James McKon is not a Ghanaian and that is somebody who is not good for Ghana. So they he must be deported from Ghana.
+
+He must be deported from Ghana. Yes. A group of lay people. Yes. So the thing went far and it went towam kuma who was the president.
+
+When is it reach and kruma then kruma set up a commission called the ble commission by one bl yeah to investigate the matter cuz I think they were saying things you know white people we like how independence I can say we freedom from the white man so so this white man who is also there doing the church freedom Ghana freedom freedom was coming his men say freedom freedom So they added James Muan to the thing. So the the Blake Commission look into a matter and they came out with the Bla report.
+
+Do you know what the report was? The report was that they recommend that James Muan should be deported. Yes. So they they were about to deport the whole of Church of Pentecost from Ghana. Yes.
+
+Yes. So he had to fight and somebody in the church also stood for him and also went to appeal to Incruma and then the other people also were against. At a point they went to Jubilee House and there were crowd Pent Pentecost people. Those who say Makuan must go. Then those who say he must stay.
+
+Yeah. Andwam has to rule. And the last minute he ruled. He said that he should be allowed to stay but they should change the name of the church. The church was apostolic church.
+
+So they said they should change it. So then he gave the name church of Pentecost. Are you ready to fight? Are you ready to be deported? Are you ready to be insulted?
+
+Are you ready for people to say bad things about you? Hate and be hated. Yes. So this is a great blessing. We are learning every day.
+
+Is it not true? Lord, you can depend on me because I'm willing to dwell wherever you want me to dwell. I'm willing to fight. Amen. Number 10.
+
+Lord, you can depend on me because I am willing and obedient. I am what? willing and obedient. I'm willing and obedient. He says, "If you be willing and obedient." Now, not only obedient, but willing.
+
+Isaiah chapter 1 and verse 19, if you will be willing and obedient, You will eat the good of the land. Do you know what I remember when I read this verse? One day, Kenneth Hagen had a vision of Jesus. How many want to know what Jesus told him? But it's not what Jesus told him, but what he complained.
+
+He told the Lord that I have obeyed you. You told me I should leave my church. I should go around. I should go preaching from church to church and all that. But you have not blessed me and I'm struggling.
+
+Do you know what God told him? How many want to know? Jesus told him something when he told my obeyed you. I don't know whether you are the right people to tell Yes. He told him he told him yes you have been obedient.
+
+He said as for obedience you've been obedient but not willing. You were not willing. You didn't do it happily as you could have. And he said that the the willingness part is as important as the obedient part. It's not just that you are obedient, but that you are also willing that you are flowing and happy and and and energetic towards it, excited towards what you are supposed to obey.
+
+Okay? It's not that you are obedient. But that you are willing. So the Lord told this a vision clear. He talked to him said, "Oh, as for obeying you have obeyed me, but it's because you are not willing that is why you are not eating the good of the land.
+
+It's a willing Look at it. If you be willing and obedient, you shall eat the fruit of the land. You see, I felt that the Lord told me that I should have camp meeting like this camp meeting. I'm here with you. So because I have other programs bigger different I could have but I feel that he wants me to be with this small small groups and talk and I'm not doing listen I'm not doing it do you see unhappily willing I'm very happy to be here.
+
+So it's not just obeying but there must be that energy and happiness and willingness. So that's why anybody you have to drag from Kumasi they say you should come or if you don't come they will say this if you don't do this come and mark register come and show your face so that you will not be blacklisted in the church come and mark register yes you know when I have crus Crusades. One of the people that is at the crusade with me is Evangelist Ogo. How many you have seen? You have seen him.
+
+Now, I've never invited him to come. I don't even know how he came to the crusade. Really? Yes. I've never told you you you are you are you are because he's not even an he's a pastor.
+
+He has a church. He's a bishop. He has so many things that he's doing. Yes. But when I have the he has come even camps.
+
+If he was in Ghana, he would be here. Yeah. But there are other bishops. But those ones you have to call them and say ah all of you will be here otherwise they will not they so you you don't only want the people that are obedient. That's why I don't call them.
+
+The reason I don't call them to come, I could have called, there are so many bishops, they they will benefit from listening to what I'm talking about here. There are so many more people that will benefit from being here, but I'm not calling them because if I call them, they will be obedient. But it's not willing. And there's a difference between obedient and willing. Yes, there's a there it's not the same somebody who just obeys they say we should go they say we should come make sure you are there sit in front so that they see your face make sure mark register do this do it it is it is obedience but it is not willingness so the lord told him look the reason why you are not eating the good things in the hand is because you are obedient but you were not willing.
+
+Wow. You know one day Kenneth Kenneet was described. He said that God told him to go out and preach at places. So he had to travel. He said he used to leave his wife.
+
+Now somebody told me about his marriage that his marriage was very nice. Yes. sweet. Now he said that one day he was preaching then he said that look there are many times when I leave home I will go out drive my car then I drive straight then I turn left then I park when I park then I will cry cuz it's paining him to travel to all this he wanted to stay with his family and he will cry cry when he finishes crying then spark and continue willing. So you see there are things we may be obeying but whether we are very willing to do the things because anything that God tells you to do there will be a cost there will be a price.
+
+Now when you talk about eating the good of the land it means you see in Ghana we you see every k in Ghana. Yes. You know when you travel from country to country you will see that some countries have old cars, some country have new cars, some country have new, some countries have wild cars. Ghana is one of the countries with wild cars. Every car is here and the latest cars are here.
+
+Yes. So what wait what does it mean? It means that some people are eating the good of Ghana. Some people are eating the good of the land. Like there are people in Ghana they are enjoying but are you one of the people who are eating the good of the land?
+
+Are you one of the people that are eating the good of the land? Uhhuh. Every in every country there are people who eat the good of that land. When you go to England there are people that eat the good of the land. Yes.
+
+You see in England there are people that their houses are small. You see that the room is from here to here. M the bed the bed filled the whole room. It's up to here. This place is here.
+
+You see that just this the stage is a house. The full house is in this space. But there are people also the sitting room is as big as the whole hall. Yes. In England, in England, the same country.
+
+Yes. And the same thing in Ghana. There are people that are all you see There's an area in Accra if I take you there are more than 1 million just in a small place there. Oh yes about you when the doorbell 40 people will come out. There are 40 inside the house there are 40 there are 40 people in the house and then say I'm sure you also have There are 40 people in one house.
+
+Yes. Yes. Nine in a room. Yes. Yes.
+
+Containers too. More wooden structures, slams, squatters, everything. No toilet, no this, no whatever. But there are people they have a toilet for the husband in color blue and a toilet for the wife in color pink. One day a man took me.
+
+One day I went to um America. A man he took me said let me show you my house and he took me around. The husband's has his own toilet. He has his own bathroom. He has his own wardrobe.
+
+color blue or color whatever green something then you go to the wife's color pink special toilet here you see this this that different then then the the wardrobe of the wife she has arranged the the dresses with numbers so that you number when you when you wear this one that you not repeat it for maybe 2 years or 3 years you move it Yeah, let me move it. Hey, people are enjoying. So every country there are levels and God is saying if you want to chop the good of the land that you are in, there's a key.
+
+That's the key. Isaiah says, "You must be willing and obedient, and you shall eat the good of the land." Yes. Thank you. Thank you for the You are driving a small distance. Glory to God.
+
+Okay. Yes. Yes. Others are sitting there very Are you listening to me? So what I'm telling you all right what I'm telling you okay is that in your service to God let your heart change his life is anything that God wants you to do become very flowing towards what he wants it's a nice thing you know it's like a woman who doesn't like cooking And then you marry.
+
+You see a lot of modern sisters they don't like cooking when they say they are made stew. Hello. When they say they are making stew, it will end up as chicken sauce. You don't even know what is the chicken sauce. They mix and mix and mix and mix and mix or it will become onion stew.
+
+Now if you are a sister and you are marrying every house you have to eat in the house and you are the wife and you say you don't like cooking it means you like starvation so you have to decide to like it and otherwise he will every day suffer they say I should cook they say I should cook they say I should cook. They say I should cook. You say I should cook. So every duty listen every duty God gives to you try to change not just obedience willing but willing willingly excited happy to do what he says.
+
+Hallelujah. Are you listening to me? That is a great blessing. Lift your hands. Say I'm Lord.
+
+Lord. You can depend on me. You can depend on me. Because I am willing. Because I am willing.
+
+And obedience. And obedience. Amen. Amen. Sit down.
+
+What's number one? What's number one? Send me. Here I am. Number two, I can't hear you.
+
+I have a willing heart. Number three. No. No. Say it.
+
+Say it the same together. Ready? Go. on me because stir up stir up. Number four.
+
+I am offering what? What are you offering? Do you remember at Yua? They offered themselves. They m them out like this.
+
+Serious. Next one. Any skills? What skills do you have? Any skills?
+
+Huh? Dancing skills. What other skills? You don't have preaching skills. Next.
+
+Lord. I set my house of God. Oh yes. So that the church will be nicer. The church will be nicer.
+
+Congregation will be nicer. The people will be nicer. The music will be nicer. The dancing will be nicer. The sound will be nicer.
+
+The carpet will be nicer. The screen will be nicer. The power anointing the children the children's church the youth the pastors the bishops the buildings the churches the office the carpet the blessings the church every day. The church. The church.
+
+The power. Anointing. The screen. The music. The drama.
+
+Organ. Guitar. Percussion. The dancing. The film stars.
+
+The drums. The dancing. The music, the dancing, the drama, the ashes, the ashes, the preaching, the teaching, the church, congregation, the children, the growth, the church, The church. The church. The church.
+
+The church. The tiles. The ceiling. The light. The place.
+
+The stage. everything. Now that's number five, isn't it? Number six. Number seven.
+
+Lord, you can bend on me because I'm willing to go where you wish. Number eight, wherever you want. Like James McKimon, isn't it? 50 years in West Africa. Simple and short.
+
+Simple and short. 50 years. 50 years. 50 years. 50 years.
+
+Solid. Solid in Ghana. Solid. He was never say I want to be transferred to London. I want to be transferred to Germany.
+
+I want to be transferred to USA. I want to be transferred to Brazil. And no, no, I'm here. This where I am. 50 solid years.
+
+Say Lord. You can depend on me because I am willing to dwell wherever you want me to dwell. Amen. Number nine. Did James Mak fight enemies?
+
+And that is why the church is there today. Just as we are also fighting people today, we fight to the end by the grace. Yes. Yes. You saw me playing golf on on the floor.
+
+Did you see me or you didn't see me? We are fighting and we are winning. Oh yes, you're winning. Beautiful. Oh yes.
+
+What a blessing. The person they thought were kind to make us enemies of rather it has turned. We have become friends. What an honor. It has boomerang.
+
+Number number 10. Lord. because I will obedient. And when I'm willing and obedient, what is going to happen? I will eat the good of the land.
+
+Let Let me Let me tell you something. Hello. Hello. Are you listening to me? Let me tell you something.
+
+One day I went to a certain country. The name of the country starts with one of the first four alphabets. Yes. Now it's not in Africa. Now this country uh when you have baller do you know baller rubbish you throw it outside on the street so when you come on the road it's not no it's not not Africa I I want to say because I know you'll be thinking of Africa when you see the road sh please you see baller So when I came they took me to that baller place.
+
+I was when I look out of my window there's a baller the whole street as I've not seen something like this before. So I stayed there for six days five to six days. Then on the last day I told them, "Do you have a golf course?" But I knew that this place, the baller I've seen, I cannot took me. Yes. Shh.
+
+So they took me. When I got there, I saw a different country. Not knowing that I was at the dark session, not knowing that the I was at the where I was staying was the things will never go well sector. I was I was on dark road. Things will never be well in this area section.
+
+That was my area. Things cannot go well here. area. So I saw that is why I saw Porsche cars, Porsche people, different I've never seen a more beautiful place than that. So not knowing that as I was in the country, I was in the never go well section.
+
+May you not be in the never go well section of any country. Amen. I transfer you from never go well to things are working section. Things are working section. Yes, you eat the good of Ghana.
+
+If there is something good in Ghana, you are part of it in Jesus name. I said there's something good in Kumasi, you are part of it in the name of Jesus. Anyone staying at never go well, you have been transferred to things are working sexually. I'm transferring you from house number 95. Things never go well to I'm transferring you house number 72 and things are working area in the name of Jesus.
+
+Amen. Number 11. Sing one song. God uses ordinary people, just ordinary people. I'm glad God uses ordinary people.
+
+He chooses people like me and you who are willing to do just as he commands. Oh yeah. God uses people who are willing to give him more. No matter how small your all might seem to you, because little becomes much when you place it in the master's hand. Oh yeah.
+
+just want to carry people. I'm glad uses labels or you choose people. People like me, people like you who are willing to do just as he. Oh yes. God uses people who are willing to give him all no matter how small you're all because it's only so Heat.
+
+Heat. It's just like a little boy. Everyone you begin to understand you never just ordinary people. People like me and you are willing to do. Oh yeah.
+
+God uses people willing to give you more. You see with God it really doesn't matter how small your life might seem to you because your will become a little become much Heat. Heat. Hallelujah. Stand to your feet everybody for a moment.
+
+Lift up your hands and pray. Lord, as I hear these messages, let my life be changed forever. Heat. Heat. Heat.
+
+Heat. Heat. Heat. Jesus, thank you. Now verse number 11.
+
+Lord, you can depend on me because I preach the gospel willingly. Again, you see a lot of willing, willing, willing, willing. This is the third point that has something to do with willingness. 1 Corinthians chapter 9:E1 16 it says though I preach the gospel I have nothing to glory of for necessity is laid on me. Yay woe is me if I preach not the gospel.
+
+For if I do this thing willingly I have a reward. But if against my will a dispensation of the gospel is committed unto me. So if I do this thing willingly, I have a reward. So that's the point. If you do the thing willingly, you get a reward.
+
+If you don't do it willing, you go, you miss your reward. So it's not about you were called. So they said we should come. So we've come. I was there when they said we should come.
+
+So we've come willingly is so critical. And that's what the Lord was telling Kenneth Hagen that you obeyed but you were not willing. So that's why Paul said I can preach. Who is me if I preach on the gospel? I can preach but if I do it willingly I'll have a reward.
+
+If I don't do it willing I miss my reward. Are you excited? Yes. So beginning from today you are going to be more willing to do whatever God wants you to do. And number 12 the last point.
+
+Lord, you can depend on me because I'm willing to give my soul. Again, I'm willing to give my soul. Even my soul. Now, in 1 Thessalonians chapter 2, it says, "We were gentle among you, even as a nurse cherisheth her children. So being affectionately desirous of you, we were willing to have imparted unto you not the gospel of God only, but also our own souls.
+
+We're ready to give our souls. Amen. Number 13. Lord, you can depend on me because I will do more than you say. More than what?
+
+More than you say, I'll do more than that. I'll do more. You say this, I'll do more than that. Phileimon 1:1 17 it says if thou count me therefore a partner receive him as myself if he have wronged thee or over thee ought put that on mine account this one is Lord you can depend on me because I will do more than you say I will do what more than you say if you tell me I should do one I'll do one two three I'll do more I'll do You tell me to pray 1 hour, pray 2 hours. Now I, Paul, have written it with my own hand, and I will repay it.
+
+Albeit, I do not say to thee, how thou owest unto me, even thine own self also besides. Yay, brother, let me have joy of thee in the Lord. Refresh my bows in the Lord, having confidence in thy obedience. Verse 21, I wrote unto thee, knowing that thou will also do more than I say. More.
+
+More than I say. When I say you do more, you do more than I say. Look at the verse. More than I say. Say, I'll do more than you say.
+
+I'll do more than Yeah. Wow. I say 100. So, you have the 100. We do.
+
+We'll do one. We'll do 150. We'll do 120. We'll do 200. You are going to the north.
+
+How many churches do they have there? Do you know? They find out. But how can you know what to do? Find out very quickly.
+
+How many churches so that you know what to do? Look at our situation in Kumasi. It's very serious. Only 82 82 churches and huh yes 4 million people and then uh check buildings only about 10 I mean kumasi I mean kumasi yeah 10 church buildings is very small yes for 4 million people 10 small church buildings I mean you shouldn't die with less than 100 anything which wants to kill you before there are 100 buildings say I cannot die I've not I've not finished my work until I put down 100 buildings in this town so that you will know why you came to the world you have a solid reason for coming to this world amen are you excited so this side is what atonsu This side is what?
+
+This is bantam. And this is where And where's here? And where's Tyro? Beautiful. I was at Troom the other day.
+
+Look at that big place you got there. Serious. Lord, you can depend on me to fill that building. Father, thank you for your gift and your blessing in Jesus name. Amen.
+
+Take out your offering. Take out your special offering. Lord, you can depend on me. Take out your special offering. We are going to take a short break and then we'll be back.
+
+Amen. Amen. Take out and let me pray your offering. You can give a seat to the number momo number there or have you found offering bags now? Yesterday they didn't find offering bags.
+
+Oh, you found them in the end. Okay. Beautiful. Father, thank you for the gift of God you've given to us as we sow this seed in Jesus name. Amen.
+
+You can depend on me Jesus. You can depend on me. Yes, Jesus. I know you need somebody. I know you need somebody.
+
+You got to have somebody. Lord, you can depend on me. So many people, they never ever heard from you, Lord. So many problems they have. They think they can't go through it all.
+
+You can do the same for them. Just like you did for me, Lord. I know you need somebody. I know you need somebody. You got to have somebody.
+
+No, you can depend on me. You can depend on me. You can depend on me, Jesus. You can depend on me, Jesus. I know you need somebody.
+
+Yeah. I know you need somebody. You got to have somebody. Lord, you can depend on me. The harvest is ripe, Lord, but the laborers are few.
+
+We make you this promise right now. We'll do what you ask us to do. We're going to speak your name. We'll never ever be ashamed. Lord, I know you need somebody.
+
+Oh, you need somebody. Got to have somebody know you can depend. Say you can depend on me. You can depend on me. Jesus, you can depend on me, Jesus.
+
+I know you need somebody. I know you need somebody. You got to have somebody on me. Yeah. Yeah.
+
+Yeah. Yeah. Yeah. Somebody in our to somebody in B. Somebody in our soul.
+
+Somebody the harvest is right, Lord, but the laborers are few. We make you this promise right now. We will do what you ask us to do. We going to put your word down. Will never ever be a sher.
+
+I know you need somebody. I know you need somebody. You got to have somebody. Lord, you can depend on. Say you can't depend on me.
+
+You can depend on me. Jesus. You can depend on me, Jesus. I know you need somebody. I know you need somebody.
+
+You got to have somebody love. You can't depend on me. Wow. Now what a blessing. How many feel blessed by a mean and that the Lord needs somebody you can depend on me.
+
+So this is a great blessing. So we are going to take a short break. Now the break is 2 hours exactly 2 hours. So when you leave the hall, you're going to leave the hall in uh at quarter to 1. All right.
+
+So I think it's good time for lunch or whatever you want to and then and then we'll come right back and um willingly come back. Are you going to come back willingly, excitedly, flowingly, with joy, with energy? Yes. Nicer to build a nicer church. The church will be nicer.
+
+Amen. So that's a great blessing. Sit down everybody. Let me hand over to pastor.

@@ -1,0 +1,767 @@
+---
+title: "ATTEMPT GREAT THINGS FOR GOD REVIVAL TODAY DALLAS, USA 2025 DAG HEWARD-MILLS"
+channel: "DhmmInternationalMinistry"
+platform: "YouTube"
+year: 2025
+source: "autocaption"
+---
+
+Wow. You cannot run faster than the blessings. Every blessing is going to overtake you. me down. That's my That's my down me down.
+
+Take me down. That's my blessing. That's my chase me down. Chase me down. Overtake me.
+
+That's my That's my over. Oh, that's my chase me down. Overtake me. Chase me now. Over me.
+
+Chase me now. Overtake me. That's my blessing. That's my blessing. Wow.
+
+Lift your hands. Father, thank you for your blessing. Thank you for today. Thank you for guiding us bringing us to this place. And thank you that your blessings are flowing over our lives.
+
+Thank you that no matter where we go and how fast we run, your blessings are going to overtake us. Lord, we receive. We lift our hands and we receive whatever represents a blessing. We accept it and we allow it to overtake us. We thank you for your power.
+
+Thank you for your mercy. Thank you for your help for every one of our lives. and our ministries. Let blessings overtake our callings and our ministries. Let blessings overtake our callings and our ministries in the name of Jesus.
+
+We receive overtaking blessings. Lift your hand and receive overtaking blessings. Let blessings overtake you now in the name of Jesus. Thank you, Father. Thank you for your blessing.
+
+In Jesus' name we pray. And everyone shouted your loudest amen. God bless you. You may be seated. Amen.
+
+Father, thank you for your great blessing and your Holy Spirit that leads us in this moment. We give you praise in Jesus name. Amen. Now, how many realize today is Thursday? All right.
+
+And it's Thursday morning and we are in America and we are in church and we are happy and we are blessed and we are dancing and we are singing and blessings are overtaking us. Give the Lord a loudest shout of praise. All right. Now, this morning I want to share with you on what I call attempt great things. Attempt great things.
+
+And everybody here is going to receive a commission. A commission of God concerning your call. Now let's look at 2 Timothy chapter 1 and verse 9. What does it say? That's a book.
+
+Attempt great things for God. Amen. Everybody say attempt great things for God. Attempt great things for God. So write it down.
+
+Attempt. Write it on your phone or your notebook or anywhere you write things. Attempt great things for God. Amen. And here we see um the scripture 2 Timothy 1:9.
+
+Who has saved us and called us. All right. I've been needing the Yeah. who has saved us and called us with a holy calling. Everybody says saved and called.
+
+So type or write again, I am saved and called. Full stop. I'm saved and called. I have these two things. I am saved and called.
+
+Amen. I am saved and called. I'm not just saved. I'm saved and called. If right, I'm not just saved.
+
+I'm saved and called. Type T type it into your phone. Type it into whatever. I am not just saved. I'm saved and called.
+
+Every every one of you remember that in your hearts. I'm not just saved. I'm saved and called. Who has saved us and called us with a holy calling. And the holy means special.
+
+Holy. Holiness. You see like holy tabernacle, holy cloth, holy God. It's not about the morality of the thing because a holy cloth or holy table or holy temple or holy God is not about the morality of God or the morality of the temple but that it is special to God. It's a it's it's sacred and special.
+
+So holiness also in the dictionary means something that is special to God. Check your dictionaries out. Okay. So, God has called you with a special calling. Everybody has a special calling.
+
+Type I have a special calling. Please write it somewhere in your notes or type it in your phone. You know, there are some statements you are going to have to remember them for your future. Amen. I have a special calling.
+
+When when he says God has called us with a holy calling, it's not only famous people like uh the famous people you know who have a special calling, but you have a special calling. Amen. Not according to our works. In other words, it's not according to how your life seems to be now, but and it but it's according to his purpose. what God what God's purpose and grace seeks to achieve.
+
+All right? So, no matter who you are and what you've done before, God has a special purpose and grace given to you for you to accomplish certain things. And this purpose and this grace is what matters. That's what's working. His purpose and his grace for your life and your ministry.
+
+All right. Which was given us in Christ Jesus before the world began. So there is no surprise about anything that is happening in your life. God is not surprised. God knows before the world began exactly what he wants you to do.
+
+So you are just filling out um filling in the gaps of something that God knows already what he's doing. Amen. The Bible says the steps of a good man are ordered by the Lord. And I've never I've never made a movie, but I' i've been told that when they're making a movie, the way they make a movie is that they have the last scene like what's going to happen in the last scene and then they when they when they are sure like those who are going to be alive at the end of the movie and those who are going to be happy and everything.
+
+We know those people in the last scene. Then they start from the beginning and then they go through all the steps to the last scene. Cuz if you are going to be alive at the end, they can't kill you in the middle of the movie. So the whole movie has to follow how it's going to be at the end. And God sees your end.
+
+God sees how he's called you, how how how he's planned everything. And so the whole movie has to play out according to this great plan that God has for your life. Lift your hand and say, "I love the plan of God for my life." Amen. So attempt great things. Isaiah chapter 54 and we're going to read from verse one.
+
+If you want to read from verse one, but really the verse we are looking for is verse two. Sing, oh baron, thou that did not bear, break forth into singing and cry aloud thou that did not travail with a child. For more are the children of the desolate than the children of the married wife, says the Lord. Now verse two, this is a famous scripture. Enlarge the place of your tent.
+
+All right? And let them stretch forth the curtains of thy inhabitations. Spare not. Lengthen thy cords. Okay.
+
+Um and strengthen thy stakes. This verse is saying, build a bigger tent. Build a bigger tent. All right. attempt to build a bigger tent.
+
+Expect more people to occupy the tent. Expect to need a bigger tent. Amen. And that's where William Curry, the famous missionary to India. He spent so many years of his life in India, never came back to England.
+
+And from this scripture he was inspired. Is this scripture that inspired him to say those to coin those words attempt great things for God. Attempt try to do something great for God. Amen. Try give it a good shot.
+
+do your very best to really attempt to do great things for God. Amen. So I believe that everyone here is going to do great things for the Lord. Amen. And God is going to give you great visions and show you great things that you can do for him.
+
+Hallelujah. Now, when we talk about great things for God, I'm not talking about building a hotel or building even a school or a hospital. I'm not talking about building a university. I'm talking about I'm not talking about teaching physics and chemistry and biology. I'm talking about building the kingdom of God directly.
+
+Now all those things are good things. Don't get me wrong. There are many many good things you know. But the main thing is still the main thing. And the main thing has not changed.
+
+And it is God's love that gives rise to all these other good works. So but we cannot replace the main work that we have with other things. The main and the first thing will always be the first. So I want you to listen carefully because within this little speech is a commission for you. Amen.
+
+Making disciples for Jesus is not the same as raising up secular business leaders. It's it's it's different. All right. So, we are talking about doing great things for God. engaging in politics, building human institutions, doing business is not what I'm talking about.
+
+Doing great things for God. All right? No one else can do what the church has to do. When when you go to a school, supposing your child is supposed to learn physics, chemistry, biology, and so on. And when your child goes to school, they teach your child Genesis and Abraham and Isaac and Isaiah, I don't think you'll be happy to keep your child in that school because that's not what the school is for.
+
+The school is to teach certain secular subjects. And so if you don't teach your child, your child's going to come out not even knowing how to read and write. Please, please don't let there be a baby crying in the hall. Please take the babies out and come back when they are quiet. Thank you.
+
+Thank you. Teaching the Bible is different from teaching business, chemistry, political science. I'm talking about teaching the Bible. Amen. Amen.
+
+Now turn with me to So the first the first thing is number one attempt great exploits. Everybody say I am attempting great exploits. Daniel 11:33. What does it say? Daniel 11:33.
+
+And it says, "They that are strong, they that understand among the people shall instruct many against the covenant, yet they shall fall." 32 32 But the people, and such as do wickedly against the covenant, he shall corrupt by flatteries. that the people that do know their God shall be strong and do exploits. Exploits. Number one, exploits are the work of God. Number two, an exploit is a notable achievement.
+
+You can write that down. It's a notable achievement. And everybody here is going to achieve something notable for the Lord. Exploits are striking accomplishments. Pastor Jonathan, you are going to make striking accomplishment.
+
+That's what an exploit is, striking accomplishments. And this is a striking accomplishment to be here today. Exploits are bold undertakings. Exploits are daring feats. An exploit is a brilliant and a heroic feat.
+
+Exploits are striking accomplishments. Exploits are the work of the father, the work of Jesus, the works of preaching the word like Jesus did. Exploits are having miracles, signs and wonders. Exploits are preaching the gospel. When Jesus came to this world, he preached, he taught, he traveled.
+
+Exploits are building the church, doing crusades, doing the will of God. Amen. So we need, you need to become a man of exploits. Type I'm becoming a man of exploits. It says they they shall know their God and they shall do exploits.
+
+All right. In these last days, we need doers, not talkers. We are tired of talkers. We need doers. Tell your neighbor, we need talk.
+
+We need We don't need talkers. Too much talking. We need doers of exploits. people that are going to accomplish striking things for the Lord, striking accomplishment, great achievements for the kingdom of God that we can never forget you and we can never forget that you came and we can never forget your input and what you did for God and what you did for his kingdom. notable achievements, not just little little little contributions, but notable striking accomplishments.
+
+And everybody here, listen, if your spirit is open, listen to God giving you a commission. They that know God will do exploits. You will you cannot easily be forgotten for what you have done and what you have accomplished for God and for his house. Hallelujah. Now why exploits?
+
+Why exploits? very quickly. Number one, exploits are a sign of your strength. Type it if you can type. Write it if you can.
+
+Exploits. And I'm preaching from my book, Attempt Great Things for God. That's the book. Attempt great things for God. Number one, exploits are a sign of the strength that you carry.
+
+That is why Daniel 11 and verse 32 says that the people who know their God shall be strong. Shall be what? Strong. So exploit is a sign of your strength. Amen.
+
+So when your strength is not much in God, you cannot do great things. You can do little, you need to be strong. And so exploits making great contributions to the kingdom of God are things that are so important because it reveals how strong you are. Number two, exploits are a sign of how much you know God. How much you know God.
+
+It says the people that know their God, all right, shall be strong. They know God. So, it's a reflection of your knowledge of God and your personal relationship with God. You see, you can see a man's work, but you can never know his love for God. It's personal.
+
+It's deep. And you can never tell what is inside a person. Amen. Exploits are a sign of inner strength. It's a sign of knowing God.
+
+Number three, exploits are works that make people believe in you. It it changes what how people take what you say. Some of us are preaching but people don't take our preaching seriously. Hey, John 14:1 Jesus said, "Believe me that I am in the Father and the Father in me." Or else believe me for the very work's sake. You You believe people for the works they have done.
+
+The accomplishments they have accomplished are what makes you to believe people. So sometimes you listen to talkers talking and there's nothing behind them. They haven't achieved anything. They just call themselves evangelists or pastors or whatever and there's nothing to show for it. We are standing here.
+
+We are in Dallas. The last time we were in Pittsburgh, I don't know where we'll be next time, but this is a church and we are it is in the morning and we are in America and people are going to work and here we are. It's a it's a mighty accomplishment. And so if you don't if you don't even believe, Jesus said, even if you don't believe me, believe me for the work's sake. That's the that's the power of exploits.
+
+It helps people to believe your message and to believe what you are saying and what you are talking about. Hallelujah. Jesus taught us to believe in people who do exploits. Yes. And I believe in people who do exploits.
+
+Yes. Jesus taught us to believe in people who have exploits and not just people who talk. Talk talk talk. We need doers, not talkers. Tell your neighbor, are you a talker or a doer?
+
+Are you a talker or a doer? Jesus told us to believe in people who do things, who have works. Believe me for the work's sake. That's why we want to see your mega church. We want to see the churches you've built and the souls you've won and the crusades you've held and the the works that you've done.
+
+Jesus said Jesus taught us to believe in people who do exploits. Yes. Doers. Number four, exploits are works that make people believe that God is in you or God is with you. So that's why you are going to attempt great things because it's going to help people to believe.
+
+In John chapter 10 verse 37 and 38, he says, "If I do not know the works of the father, believe me not." In other words, if I don't have exploits, don't believe in me. If I if I don't have works, don't believe. If I don't do the works of my father, don't believe what I say. When you hear me preaching, don't believe. If I don't do the works of my father, don't listen to me.
+
+Don't listen to my preaching. Yes. Verse 38, he says, "But if I do, if I do, though ye believe not me, believe the works. Exploits are things that people can believe in. They can see this is what you've done.
+
+This is what you are doing. You don't you don't you don't Jesus taught us to believe in works not just talking. There are a lot of motivational speakers and people with speeches. There's nothing to them. They are just many people are just in bed talking creating words salads.
+
+Do you know what a word salad is? Have I told you what a word salad is? Huh? Know what a word salad is? You know in psychiatry there's a symptom where the patient joins words together.
+
+You say this word, that word, it just join. It doesn't make sense. It's incoherent. Doesn't make sense. And he just mix it up to sound impressive.
+
+It's a medical it's a mental symptom. And sometimes you have people giving speeches and saying things which are just word salads. Especially people who talk about money and finances. They are the biggest word salad deliverers. If I do not the works of the father, Amen.
+
+believe me not. Don't don't don't believe me. Don't believe me if I'm raising money and I don't do the works. Don't believe what I'm saying. Yeah.
+
+Don't believe what I'm saying. If I'm raising money, I'm asking you to give and I don't do the works of the father. Don't believe Don't believe in my fundraising. Don't believe in my appeal for the offerings. Yes.
+
+That's why Billy Graham's association you know earns so much money because the people lots of people believe in that ministry. They believe the works Billy Graham's works were known to everybody and he's a good example which we are all trying to follow and learn from. If I do not the works of the father, believe me not. But if I do, though you don't believe in me, believe the works. Look at that scripture.
+
+Believe the works. Underline that. Can you underline, Mr. Computer Man? Can you underline?
+
+Underline it. Believe the works. Let's see if he can underline. Believe the works. Yes.
+
+Believe the works. Yes. You know I don't I don't you know I listen to people preach but I don't listen to many people. Wow. Beautiful.
+
+Now can you make it italics as well? Can you make it italics? Can you make it italics? Wow. This is a notable achievement.
+
+It's a this an it's an exploit. You know, one day I went to preach somewhere. They asked me for what I was going to preach for a year before. Yeah. And when I got I had forgotten what I what I said I was going to preach about.
+
+But they insisted on getting what I was going to preach for a a whole year before. And every time I went there, they always ask a year before and they want all the scriptures and everything. I said, "Look, let's just flow." I said, "We don't flow here. Just give it to us one year in advance." Hey. All right.
+
+Now, number five. exploits show God's approval of you and your calling. God it it shows it shows. Notice Acts chapter 2 verse 22. I want us this is a beautiful scripture.
+
+He says ye men of Israel hear these words. Jesus of Nazareth, a man approved of God among you by miracles, miracles, signs and wonders which God did by him in the midst of you as you yourselves also know. So the exploits of Jesus, the miracles, the signs and the wonders, all right, they are the things that God used to show his approval of Jesus. I approve of this person because of the miracles, the signs and the wonders. So everybody here I want to encourage you believe in miracles, signs and wonders.
+
+If you are here and you are a teacher of the Bible with computers and powerpoints, it's nice. But I tell you there are places you your computer point you can't have time to even show it and there'll be no screen to show it. You need signs and wonders and miracles, not uh powerpoints to to show. And and there are places where your illustrations and your stories and your jokes will not work. Yes.
+
+I mean, I asked one guy, why do you say a joke every time? So, it's like he has a joke to start every sermon. It's it's a standard. You say a joke. read something and make a joke.
+
+Everyone, haha. Then you start turn to Matthew chapter five and then they start preaching. Listen, we don't need jokes. We need miracles. We need signs.
+
+We need wonders. Look at the Bible. I didn't write the Bible. We need miracles. Look at it.
+
+Ye men of Israel, scripture, hear these words. Jesus Christ, a man approved, approved. God said, "I approve of this man." How how did God show his approval of Jesus? With miracles, miracles, healing miracles. The healing of the woman with the issue of blood.
+
+The healing of blind Vatimius. The healing of the blind the the mad man of Gada. The healing of the man by the pool of Bethesda. The healing of the blind man in John chapter nine. The healing of the noble man's son.
+
+All these miracles show the approval of God on Jesus Christ our savior. Jesus did not only miracles, there were wonders and signs. The Bible says that he walked on water for four miles. Did you know that he walked? Some people thought he walked for three feet.
+
+He walked for four miles. Check if you can find that scripture. He he spoke he said he went for uh so many felons. Yes, felons. They used felons and eight felons is one mile.
+
+So 30 felons something like that. And he walked on the water for they gave the distance for the number of fellons he walked out to the water and that's four miles. Eight fellons is one mile. Yeah. Jesus was walking on the water for about four miles.
+
+These are wonders. So if you know you can walk on the water, you you can see if you can walk on the water. Yes. That's it. So when they had rode 20 and five or 30 felons, eight felons is one mile.
+
+I know that because my father had race horses and eight fellons was a mile for the horse race. We had six felons, five felons and eight fellons was a mile. So I know that's how I know fellons cuz I didn't know felons in school just from and they saw Jesus walking on the sea drawing nigh to the ship and they were afraid that's our savior he walked for four miles on the water walking for four miles on the water that's serious that's serious wonders serious wonders and serious signs Yes. How many love Jesus?
+
+There's nobody like Jesus. There's nobody like Jesus. Yes. And your ministry will be accompanied by wonders and signs and different other things which are not healing miracles. But God will turn things around and do great things.
+
+So you must have exploits in your ministry. Amen. Amen. And exploits number six, exploits will help you preach the gospel. And he said to them, "Go ye into all the world and preach the gospel." in Mark chapter 16.
+
+Go, don't stay. Go, don't stay. Go and never stop going. Never stop going. If you don't like traveling, then resign because ministry has a lot of traveling in it.
+
+Many ministry has going. You can't stay at home and be an effective minister. Ministry involves going, coming, going, coming going, coming. So, expect to travel. Amen.
+
+Expect to see the world. Expect to have a broadbased view of the world because you become a traveler and you'll find out that the world that you live in is actually a small world. You know if the world had only a 100 people only five of them would be Americans. Did you know that if the world had 100 people only five of them would be Americans 60 of them would be Asians. So the world is far bigger than America.
+
+In terms of souls, in terms of souls, the world is far far far bigger than North America. Yeah. So I mean we have a lot to learn and we have to learn different cultures, different things. Amen. So this is what I want to encourage you.
+
+Now the next thing is number two. Second point, first point is attempt exploits. Number two is attempt great things for God and not for yourself. Not for yourself. Jeremiah 45:E1 to 5.
+
+The word that Jeremiah the prophet spoke to Baroo the son of Niah. All right. saying and verse two Jeremiah 45:2 that says the Lord God of Israel. Oh Baroo, oh Baroo, thou did say, woe is me now, for the Lord has added grief to my sorrow. I fainted in my sigh and I find no rest.
+
+Verse four, thou shalt say unto him, the Lord saith thus, behold, that which I have built will I break down, and that which I have planted, I will pluck up, even this whole land. Verse five, and seekest thou great things for thyself? Seekst thou great things for thyself? Seek them not. Don't bother for behold I will bring evil upon all flesh fear the Lord but thy life will I give unto thee for a prey in all places whether thou goest so God is saying to Baroo who was the scribe for Jeremiah he said seekest thou great things for thyself don't bother don't bother don't bother to seek great things for your personal life.
+
+It's not that you are being irresponsible, but don't bother to make a great thing for yourself. God knows how to make something far greater than you can imagine for you, than you can do for yourself. God knows better what you need than what you can do for yourself. Rather, seek great things for God, and leave God to sort you out. seek ye first the kingdom of God and his righteousness and all these things which people are dying for will be added unto you.
+
+Yes. So God said to Jere to Jeremiah to Baroo, don't bother. Look at it. Seekst thou great things for thyself. Seekst thou great things for thyself.
+
+Seek them not. Underline it. Seek them not. Type, "I'm not seeking great things for myself." Type it. I'm not seeking great things.
+
+I'm seeking great things for God. Amen. Because you can't seek two things at the same time. You can't drive left and right at the same time. You can't head forward and backward at the same time.
+
+You can't seek great things for yourself and also for God at the same time. You have to choose one. And you have to choose to seek great things for God and leave God to take care of you and he will take care of you. Amen. All the people who are tempted great things for themselves to do great things for themselves ended up not so happy.
+
+Amen. Now number three, attempt greater works. Amen. Yes. Attempt greater works.
+
+John chapter 14 verse 12. So that's the third point in my short message. Attempt greater works. What did Jesus say in John 14:12? Verily, verily, I say unto you, he that believeth on me, the works that I do shall he do also, and greater works, greater works than these shall he do.
+
+Amen. Amen. What are the works of Jesus? What were the works of Jesus? Matthew chapter 9 verse 35.
+
+This is what Jesus did. And Jesus went about all the cities and villages building harbors, building hotels, building universities, building schools and building hospitals. No. No. Listen.
+
+When when God became a man, when when God became a man and came to this world, what work did he do? What was the work he God did when God became a man? Preaching, teaching. Now, how many of you agree that probably God must have decided to do the most important work on earth? Like if God became a man, would he not choose the most important job there is and do the most important job in this world?
+
+And and he did. Did he would he not choose to do the work that would have the greatest good and make the greatest impact in this world? So what did Jesus do in Matthew chapter 9? He went about building bridges, roads, dams, hotels, hospitals, mental institutions, restaurants, and powerful businesses and airports. He went about the cities and the villages singing and having concerts, you know.
+
+Let's not change the Bible. Let's read the Bible and believe what we are seeing. Let's let's look at it and say, I I I can see what Jesus Christ did. He went about all the cities, not just the cities and the villages and the small places. Jesus doesn't just go to big places.
+
+He went to villages teaching. That's why we have a pastor's conference in the morning because we are just about to launch a campaign, a healing Jesus evangelistic campaign that's for evangelists in all of us, all evangelists who want to join. And when we have the crusades, we're going to start crusades right here. You see these crusades? You see these crusades there?
+
+You you'll soon be having videos showing crusades in different cities and towns and villages in America and in Canada. Hallelujah. Hallelujah. Paulo. Yes.
+
+He went about preaching. Please put my scripture. This is the greatest job. Tell the person sitting next to you, I don't care what work you do. I want to tell you the greatest job that that exists in the world is preaching, teaching and healing.
+
+This is the big job. This is the big job. This is the real big one. Yes. It's bigger than politics.
+
+I'm telling you. I mean, think about it. To be a president is just for four years. Can you imagine if your ministry ends after four years? You campaign all your life and you work for four years.
+
+No. Preaching, teaching, and healing. Preaching, teaching, healing. Everybody say preaching, teaching, healing. Again, preaching, teaching, healing.
+
+Yes. Preaching, teaching, healing. So, you must become a good preacher. You see, it's something it's something that you have to learn and something you can do and something you must do to know how to preach and to the art of preaching. It's a is the is the greatest job and to how to teach, you must also know how to teach to teach.
+
+It is something you learn and you can get better at. You know, one day I went somewhere and a lady I I went to a restaurant in a hotel. We we're having a conference and I met a lady uh and she was uh she said hello. I said hi and uh I asked her I was sat down with her and her husband as one. I said um did you enjoy the conference and are you happy?
+
+Are you enjoying the conference? She said, "Yes." And um no, no. She said, "I will not I will not answer you. I will just tell you something." I said, she said, "I I didn't know that." Uh, she said, "You are an oldfashioned preacher." I said, "Really? What's an oldfashioned preacher?" She said, "I didn't know your type of preaching still existed." Yeah.
+
+So then she said, "Um, so I said, so you you you didn't like it?" She said, "Well, let me answer it this way. We started at 8:00 this morning. All right. And we left the hall at 9:00 p.m. And I sat there throughout and I was blessed for 11 hours you were there preaching.
+
+So that should answer your question whether whether the oldfashioned preaching is working or not. Yeah. Actually 8 to 10. Yeah. Were there sitting there just like you are sitting here?
+
+You're sitting there from the morning till the evening. Yeah. Is the art act of preaching and teaching and then healing is also something different. How to heal the sick. Uh I have a book here called magnify your ministry through miracle signs and amplify your ministry.
+
+Baby out, please. Amplify. Baby out. Amplify your ministry. There it is.
+
+How many want to amplify your ministry? You know, I'll say I'll say something. The ministry that I I'm experiencing. I used to only teach. I never prayed for the sick.
+
+I never prayed for anybody. I was a teacher. I said, I'm a teacher. But my ministry was amplified when I decided and entered into the healing. Healing and miracles, signs and wonders will amplify.
+
+It will expand whatever it is you are doing. There are many places you cannot go. You cannot go. Explanations and illustrations don't really matter. I'm telling you, it's about power.
+
+Yes. It's about greater works. It's about doing the works that Jesus did. Hallelujah. Amplify.
+
+So many of us are good teachers. Some of us are good teachers. Some of us have too many illustrations, too many jokes. You see, you need more power. You need power.
+
+Power. Power to change. Power to bless people. Power to change people's lives. power which makes people move and change in a ministry.
+
+So amplify and I pray beginning from today you're going to do greater works. And when we say greater works attempt greater works. So I want to encourage everybody here attempt to become a good preacher in this life. Attempt to become a teacher of the word. Attempt to become a healer.
+
+Try to heal. Try to pray for the sick in your life and in your ministry. Attempt it. I remember years ago when I decided to attempt healing. I tell you, I fasted and prayed from the morning to the evening for my first ever miracle service.
+
+I almost died out of pressure. Yes, I almost died out of pressure. It was terrible till the moment of truth. I prayed for and I said, "If somebody is healed, come and waited." And I said, "Lord, don't disgrace me. Please don't disgrace me." And somebody came and said I was healed.
+
+I said, "Oh God, thank you, Jesus. Attempt great things for God. Attempt great things for God. Attempt great things for God. Attempt, Attempt, Attend to be a healer.
+
+Attempt to pray for the sick. Attempt it. Hallelujah. Attempt. Attempt.
+
+Attempt. Don't accept to be a pastor or a minister and someone who lives and just preaches and teaches and know there's no healing. There's no healing. There's no miracle. No, don't accept it.
+
+Because if you want take a pair of scissors and cut out the miracles in the Bible, you'll be left with very little. Because the whole Bible is littered with miracles, miracles, miracles, miracles everywhere. There it's a miraculous book. It's a miraculous book. It's a power book.
+
+It's a book of the supernatural. It's a book of God. It's a book that shows us that there's more. There's more. There's more.
+
+Attempt. Attempt. Don't let anything be out of range. Yes. As you see me here, I am attempting things all the time.
+
+I said, Lord, I'm going to get into this realm. I'm going to try. I'm going to try. I'm going to give it my best shot. I'm going to preach better and teach better.
+
+Don't allow any realm to stay out of you away from you. Attempt to do Jesus said greater works than these shall you do. Greater works. And the works of Jesus was building was not building roads. B holes, harbors, airports, bridges, hotels.
+
+No, it was preaching. It was teaching. Jesus, I thank you. When you took me from being a medical doctor and made me a preacher, you promoted me. You did not demote me.
+
+You did not reduce me. You promoted me to do the highest job, the best job, the greatest job, the most honorable job to stand before your people, to teach your people, to preach to the people. What a blessing. Attempt greater works. Number five, attempt new things.
+
+How many numbers do you have? It doesn't matter. Will you just choose your own number, right? You can get the book after. Choose your own number.
+
+Hallelujah. Attempt new things. That's the next one. Attempt new things. Wow.
+
+New. Everybody say new. You know, new things. Sometimes some of us are so attached to the old, we don't want anything new. But the spirit is saying attempt new things.
+
+In Jeremiah chapter 53 33:1 it says, "Moreover, the the word of the Lord came to Jeremiah the second time and he said, thus sayeth the Lord the maker thereof. All right, call unto me and I will show thee great and mighty things which thou knowest not." Wow. Things you don't know. Things you don't know. Can can you imagine there are things you don't know?
+
+You just got married. Are you the one who just got married? Is that your wife? Beautiful. What a blessing.
+
+I hope things are working. Now I will show you great things which you don't know. Listen, it's something that you need to know that there are things you don't know. There are things you don't know. I mean, this is something fantastic because I don't know what it is.
+
+There's something kind of a delusion on all our minds that we know everything. That's right. But the truth is you don't know. There are knowledge is in pockets and when you are out of that pocket, you don't have any idea. It's it's a world cut off.
+
+Yes. And so every minister should be uh grateful when God blows up your world and shows you new things which you didn't know. You know, can you imagine? You know, I grew up under a ministry called Scripture Union where we learn how to read the Bible, memorize verses, and become good Christians, have your quiet time every day. That's how I That's what I knew as growing up.
+
+But one day, somebody came to me and gave me a book by Kenneth Hagen, a little book half this size. He just gave to me. He said, "Read this. I'll see you later." And I and I read what's what's this book? A little book by Kenneth Hagen.
+
+And I read and I said, "Wow." a new world. I was introduced to something I had no idea of. A completely different world to the world that I had known. So I want to encourage everyone here. There are things you don't know.
+
+There are wells that are kept out and that are kept away from you. Knowledge is in pockets. Knowledge is in pockets and in the ministry knowledge is in pockets. When it comes to the knowledge about church growth, church planting, miracles, signs, wonders, raising money, paying for things, traveling. There's so many things, so many things to learn.
+
+Decide to attempt to know new things you didn't know. Good. So good. Attempt a great thing for your personal life. To know things you have not known.
+
+Don't shut things up. Oh, forget about that. Forget what you are discounting may be what you need. What you are dismissing may be your whole life. If I had thrown away that book, I said, "What's this book?" It's too small.
+
+The title of that little book was Plead Your Case. Was called Plead Your Case by Kenneth Hagen. I read it. I was immediately attracted in my spirit to him. I didn't know any I didn't know he had other books.
+
+I didn't know he had preaching. Then I started to listen and that was the journey and listen and listen and God anointed me and blessed me. One time, you know, I went to Tulsa and um the Lord told me, "Go and honor this man, Papa Hagen. Go and honor him." And I had my offering in my pocket. But that day, he started to talk about some millions of dollars that he had earned.
+
+And he was mentioning huge figures, millions. I said, "Wow, my little offering is not going to be acceptable in this big sea." And I said, "I decided not to." But when I went home in the hotel that night, I think I was with you. In the middle of the night, God woke me up and started to deal with me. And the Lord said to me, "You owe everything to this man. You owe everything to this man." And Galatians chapter 6:6 says, "Communicate with the one who teaches in every good thing." Galatians 6:6, "Let him that is taught in the word communicate to him that teacheth in all good things." Those of you who do not honor your pastor and do not communicate to the one who teaches you, you are missing out a major aspect of what I call a spiritual contract.
+
+You must learn to honor the prophet. God said to me, I never forget those words. You owe everything to him. I said, "You owe your house, your home." Because I've never worked anywhere. I've only been in the ministry.
+
+I've never done anything else from the time I finished school. 100% I' I've just been in the ministry. 100% I have I have never done any other work although I'm a medical doctor the only as soon as I finished my housemanship I was in ministry that's all I've done up till now he said you owe everything to this man go and honor him and I went back the next day to the conference and I found his son I said please give this to your for me. I don't even need to see him. But his father called for me.
+
+He said, "Call the person who gave this and he took me to introduce him." That's my first and only time I met Kenneth Hagen. And Papa Hagen shook my hand. You are not Don't Don't shake my hand. He was shook my hand. He shook my hand.
+
+He said he shook my hand. He said nothing but he shook my hand. Let me shake your hand. It's okay. Hallelujah.
+
+Hallelujah. Listen. Attempt new things. God is going to introduce you to new things that you didn't know existed. Yes.
+
+And I'm ready for new things. How many are ready for? How many are ready to attempt something new? something new. Something new from the Lord.
+
+I'll show you something you don't know. Hallelujah. Now, how many want to know the key to going into new things? How many want a key to number one? Open be open to new books.
+
+Yes. Be especially be open to new books. It says in 2 Kings 22:8, he says, "I have found the book of the law. Find new books. I always pray, God, show me a book.
+
+Show me something. Show me something to read. H be open to new men of God you didn't know. Amen. And that is why the little girl said to non, "There is a prophet.
+
+There is a prophet. I wish you would know him. He will be able to help you. Be open. Number three, be open to ancient ministries.
+
+Amen. The ancient ministries. Isaiah the prophets. Be open to Some of us never read the Old Testament. Number four, be open to travel.
+
+Number five, be open to the power of God. Yes, that's how to be open to new things. Amen. Now, attempt to fight for God. Number six, attempt to fight for God.
+
+How many are ready to fight for the Lord? Anybody wanting to work for the Lord must be ready for a fight. Matthew 16:E1 16. Notice, anyone who wants to build the church, be ready for a fight. Look at it.
+
+Matthew 16 verse 18 I say unto you thou art Peter and upon thee this rock will I build my church and the gates of hell shall not prevail. In other words, the gates of hell are postured against the church. Anyone who is going to be involved in church building is going to be involved in gates of hell work. Gates of hell are ready for church builders. The building of a church is something that directly attacks the gates of hell.
+
+So anyone who starts build a church comes under fire. That's why so many churches have so many crisis and so many problems all the time. Fight the good fight. Learn how to fight. Hallelujah.
+
+That's why I have this book, The Good General. Yes. And then this one, what it means to be as wise as a serpent. Snakes are the only animals, wild animals, that are free, freely moving around. We have them in America everywhere.
+
+They are free. that you don't have any free lions moving around and you find a wild animal like a snake in a house everywhere in the mountains in the desert there's nowhere they cannot go whereas Christians today cannot go to so many places we cannot be missionaries in so many places but a serpent can go everywhere because a serpent has some wisdom that we don't have so receive that grace attempt preaching and teaching. Amen. The next one is attempt preaching in a 100 nations. Well, at first attempt preaching here, first attempt preaching, then after that, you know, at first I never thought of the number of nations.
+
+I used to hear people, I've been to so many countries, but it it does matter and it may matter in eternity. Matthew 4:16 it says, "The people which sat in darkness saw a great light." Amen. The people which sat in darkness saw a great light. Matthew chapter 28:18, "Go ye into all nations." I I'm even sorry for telling you a 100 nations because there's 192 nations attempt preaching attempt to minister because Jesus told us to go to all nations. Maybe together with the evangelistic association we can go to all all nations.
+
+Amen. And maybe as things improve in the Middle East, we can go to some of those places as well. Amen. Habac chapter 2:14, it says, "For the earth shall be filled with the knowledge of the glory of God." You are going to take the gospel. We are going to take the gospel.
+
+Hallelujah. Amen. Habac 2:14. The earth, the whole earth is going to be filled. Let us attempt great things.
+
+Let's attempt to take the gospel to the whole earth. Do not say to yourself, "Somebody else will do it." No. Now receive your commission. God is beginning to give the commission right now. Attempt to preach the gospel in the islands.
+
+Isaiah 51. Hallelujah. Harken unto me, oh people. Verse four. For a law shall proceed, and I will make my judgment to rest for a light.
+
+My righteousness is near. The isisles shall wait upon me and mine arm in my arms shall they trust. Isaiah 51 verse 4 and verse 5. The islands will wait for you. It is a very difficult thing to go to islands.
+
+Our most difficult crusades are on islands because they are cut off. They are isolated. Attempt to go to Guadaloop, attempt to go to Martineik, attempt to go to the French islands, attempt to go to the Caribbean islands, St. Lucia. Let's have a campaign there in Trinidad, in Jamaica.
+
+Solomon Islands and Vanuatu and many islands that you don't even know the names of where there are people. New Calonia. Where was the Did you come with me to that island we landed on? It was a US Army base during the Second World War. We flew from Vanoatu and we landed I don't even know the name.
+
+There was a there was actually an a US museum there. And it was it was used as a landing strip during the Second World War. There's a whole city there. It's not even on the map. And there's people there.
+
+Who's going to go there? Should they just perish and go to hell? So, what are we all doing? What what what are we all doing? Who's going to do it?
+
+You know, this great commission must fill your heart. That's why I say let's attempt great things. There's a lot to be done. Yes, there's a lot. I mean, I look at pastor Jonathan.
+
+How much can he do? All of us have to join. All of us have to rise up and we all have to work and we have to we have to go. Amen. Attempt to plant a great tree.
+
+Let us attempt to plant 100 churches. is to the churches, not to the church. No one plants one church. It's always churches. 1 Thessalonians 2:14, for ye, brethren, became followers of the churches of God, which in Judea are in Christ Jesus.
+
+Churches, not church. Everybody say churches. Churches. Galatians chapter 1 verse 1 and 2. Galatians chapter 1.
+
+Underline it. Galatians chapter 1 verse one and two. Beautiful. It says Paul an apostle who will God raise him up from the dead and all the brethren. All right.
+
+and all the brethren which are unto the churches of Galatia. The churches not church churches. So pastor John, thank God for revival today. It's revival today is not one church. Revival today is a is a big the Bible pattern is what we are following.
+
+It's churches. The churches of revival today, not the church. It's not a single church. It's the churches plural. Churches of Galatia, churches of Thessalonia, churches plural.
+
+One church will never be enough. Just like one mall is never enough. There's malls everywhere. Revelations 1 verse4 Revelation 1 verse4 it says John to the seven churches which are in Asia I want to give you a commission attempt not to have four churches because now I know revival today is here in Pittsburgh in Phoenix We need resident pastors. We need people who just you've heard a thousand sermons.
+
+We want you to also become pastors. But all the sermons we've been giving you, what are you expecting? When you sow, you must reap. We've invested the word of God in you. We're expecting you to become preachers.
+
+Yes. And we are going to appoint you some of you as pastors. And our vision is 100 churches with ease. Everybody say with ease. No stress.
+
+No stress. God bless Assemblies of God. I love Assemblies of God. Look at all the churches they have all over the world with ease. They started it after the Asuza movement and it's continued and they just have thousands of churches all over the world.
+
+Hardly you go anywhere and Assemblies of God is not the main and important church. Yes, churches not church. Churches, pastors, that's the way to grow. You see, you must give yourself holy to the work. There is a way to grow.
+
+That's why many pastors get to a point they start doing politics. They start doing business. They start doing some something else, education, all kinds of ideas. Jesus said, "I will build my church." He didn't say, "I will build my school." I'm sorry. I we we also have schools.
+
+But Jesus said, "I will build my church and the gates of hell will not prevail against the church, not the school. Why don't pastors keep on building churches? I don't even know. Why don't we keep on building more churches? Why do we just veer off into all sorts of things?
+
+becoming important in society. Why don't we just build more church? I mean, we got a church here in Dallas. What about Houston? What about here?
+
+What about there? All all the different town. What about New York, New Jersey, Minnesota, Boston, this all the Massachusetts, all over? Why? Why?
+
+I I don't understand why we don't continue. Why do we stop? Why Why do we develop other interests? Why do we develop other ideas apart from the one idea that has been given to us? He said I will build my church and the gates of hell will not prevail against it.
+
+I don't I I don't understand. I don't understand that this vision will never dry up. It will never finish. No matter how long and how much we do, the church the need for the church never die. It's increasing.
+
+We need we need and need and need and need more and more and more. I don't understand. Maybe somebody can explain. I I It's like It's like when you get to a point, you have one congregation, then what about the churches? And what about the church?
+
+That's how come it seems as if the work of God is done when it's not done at all. It looks as if we we finished something, but we've done nothing. We are praising ourselves long before time. We are patting ourselves on the back and say well done. Well done.
+
+You don't say well done till you are in heaven. Well done. There's no well done till you get to heaven and you hear well done from Jesus. You have not done any well done. There's no well done.
+
+There's no well done. There's no well done. I'm telling you don't praise yourself yet. Don't don't don't don't be happy with yourself. Don't think you are doing anything.
+
+You'll be shocked what Jesus thinks of you. There are many the the vision is not ending. I'm telling you the church there there's room there's space like Jimmy Swagard used to say there's room at the cross there's room there's room for more there's room for young pastors pastors who are 20 years old and are appointed as pastors I want to I want to give you this commission I want to give you this commission Don't build one church. Don't build one church. Build churches.
+
+Build churches. Build 100 churches. Let God give you the grace. Whatever problem there is to building in a 100 churches, let God give you the wisdom and the grace and the understanding and the help to build many churches. Not for there's nothing you're going to get from the church except that you've you've pleased him.
+
+John 15:8 says that this is how the father is pleased that we bear much fruit. God is pleased by the more fruit. I wrote a book called top 10 mistakes that pastors make. Top 10 mistakes that pastors make. Where is it?
+
+Yeah, this one. Top 10. Look at John 15:8. Herein is my father glorified that you bear much. The amount matters the the the number of churches matters.
+
+The much you don't be happy with 20 members. The much that it is much that is a lot. It matters. Oh, we are okay with this. You know the smaller the better.
+
+We are cozy. We are a family. It's the quality that matters. Look at it. Quality that matters.
+
+Hearing is my father glorified that you bear much. Everybody say, I want to bear much fruit. I want to bear much fruit. Say it again. I want to bear much fruit.
+
+I want to bear much fruit. I wrote this book, top 10 mistakes that pastors make. And one of them is that pastors don't feel that they need to bear much fruit. They feel okay and they don't bear much fruit or they get to a point where it's like, hey, I'm okay. Yeah.
+
+Yeah. Choosing to bear few fruits. I'm okay with this. Pastor Jonathan, don't be happy with four churches. Don't be happy with four churches.
+
+That's a top mistake. It doesn't mean you must start the next one now, but don't be happy with four. It's not enough. It's not enough. I mean, at least seven is in the Bible.
+
+The seven churches in Asia. Yes. I'm encouraging you. Let's do the work. You know when people are idle then they start criticizing, complaining, attacking.
+
+It's because you have nothing to do. When we all get to the work, we'll all be be. You see, as for me, I'm so impressed when somebody works for God. If I see you working, I'm impressed because I'm also working. I have nothing to criticize.
+
+I have nothing to criticize. I see people criticizing criticize the Catholics, criticize it. Look, if you do, try try and have a church for 2,000 years and see how it to be like. Try it. you will stop criticizing people and you start admiring the workers.
+
+So if you are here and you are a pastor, you're a man of God, you're watching, I want to give you a vision. Attempt to build 100 churches. Have a big vision. What did he say? Attempt great things, not small things.
+
+Attempt great things. And maybe that is how your church is going to grow. Maybe the one church will not be able to get so big, but a series of churches will work. Amen. The next one, attempt church growth.
+
+Wow. Amen. Attempt church growth. Now, the most difficult thing. Now we are we are just about to end but I believe God has given you the vision.
+
+The the most difficult thing in the church work is to make the church grow. It's very difficult. So that's why we have the book church growth. Where is it? Church growth.
+
+It is possible. Yeah. Church growth. It's possible. Or the mega church or church planting.
+
+Show us mega church. A brother came to me. He said, "I didn't know you had other. I thought you had only written one book, The Mega Church." He said, "I used that church. I built a church." At the time I saw him, I said, "I have 700 people sitting there on Sunday.
+
+My wife and I, we sat in the living room. We read the book Mega Church. This one." And then church growth. It is possible. It is possible.
+
+It is possible for your church to grow. So many tiny churches in America and so many churches closing down. But that's why I wrote this book. It is possible. It is possible.
+
+Receive, listen, the grace from God to build a mega chair. Attempt it. Attempt. Attempt. Attempt to have a mega chair to have a thousand members.
+
+Receive the grace. Come. What? What church? What are you a pastor?
+
+Where is your church? Kentucky. How many members in your church? 100. 100 people.
+
+Yeah, it will be less than 100. But you see, God want to give you a mega church. Attempt it. Try with all your heart. Anything, any book you have to read, any message you have to listen to, any video you have to watch, attempt with all your heart.
+
+Give it your everything. Give your life to the ministry. Attempt something for God. Attempt a great thing for God and God will bless you. God will bless you.
+
+Receive that grace in the name of Jesus. Attempt great things for God. Attempt to make your church grow. It is possible. Most churches are small.
+
+Most churches are small. But God is going to give you Amen. The grace to grow. Receive it. Come to me.
+
+Come to me. Yes. You come to me. Oh yes. Are you a pastor?
+
+Lift your hands. Father, thank you. Thanks for using him. Yes. You see, God is going to use you to attempt to do things for him.
+
+Yes. Great things. Great things. Great things. How many believe God is going to use you to do great things?
+
+Yes. I remember when I started the attempt God sold me write a book. I tried with all my heart to write. When I wrote the words were not enough for a book. So, I decided to space the sentences and I increased the font to I think size 14 and then I increase the space and I increase the side spaces and everything.
+
+Spread it out and I wrote a little book. I said, "I've done it, Lord. I've I've written one book. Hallelujah. Attempt something for the Lord.
+
+Attempt it. Attempt it. Attempt. Attempt. Let me hear your loudest amen.
+
+Attempt to win a million souls. evangelist. Let's Let's win a million souls in America. Let's win a million soul. Let's attempt.
+
+Let's try. Let's try. Let's try. Let's do Let's do it. You know that little video that I showed you?
+
+We've been attempting to get a 100 million souls. Yeah, we are almost around 20 million. souls. Not yet, but almost. We've been trying and trying and trying and trying and pushing.
+
+Yes, attempting trying. I came to tell you to attempt great things for your Jesus. When you see him, he will look at you. He will He will smile. He will His eyes will be filled with love.
+
+Even not his smile, his eyes. He will look at you with such love and appreciation for how you tried. You tried with your life to do something for him to say I love you back for all you've done for me to save somebody like me. How many love Jesus? Yes.
+
+Yes. And you see that's why we say attempt because we are nothing. I mean it's not like we are some we have some special something. We are nothing. We're trying.
+
+Everyone is, we all trying. We're going to give it our best. Let's win souls. Please, this work is not done. It's not time to build an airport.
+
+Let's build a church. Yes. Let's attempt. Amen. Let's Let's build church buildings.
+
+Let's build more buildings. Let's build more churches. Let's west win more soul. Let's try. Let's try and try and try and try.
+
+Let's try and build more for him. Yes. Attempt to be in full-time ministry. Try. Amen.
+
+Think of Peter. Peter said to Jesus, "We've left all. We've left everything for you." Think about it, my friend. Attempt to one day be able to say like Peter, I've left everything for you, my Lord. attempt to be like what he said Philippians he said I count I've lost everything just for knowing you attempt and one day you'll stand before him it won't be long and you'll be glad that you attempted something great yes don't mind when people laugh at you when you are attempting yeah you're going to do great things for Jesus stand to your feet everybody attempt great things.
+
+2 Chronicles chapter 2 verse 4. Wherever you are standing, he said, "Behold, I build." 2 Chronicles chapter 2 verse 4 it said behold I build a house to the name of the Lord my God to dedicate it attempt he built something small but he tried and God is going to use you lift your hands everyone father we give you thanks we give you praise is attempt sending missionaries. Attempt appointing pastors. Attempt building churches. Attempt full-time ministry.
+
+Attempt financing the work. Attempt paying for a whole church. Attempt buying a whole church building for the church. just pay the bills, attempt great things for him. Father, we lift our hands to you and we surrender.
+
+We surrender and we give you thanks. Father, we love you. And I want you to just thank him right now and just pray in a moment. Jesus, thank you for being Thanks for your blessing. Just open your heart.
+
+If you feel God has given you a commission today, if you feel God is calling you today, he's giving you a commission, you can come and pray in the front here if you want. But we are just Coming to the end of this service, attempt great things. If you sense God wants you to attempt great things, Jesus, watch, watch, watch, watch. attempt great things. Everyone watching, God is speaking to you.
+
+Attempt, attempt, try, try with all your heart. When I lay hands on you, I want you to see how God is going to use you. Yes, Jesus. Thanks. Thanks.
+
+Attempt, attempt, attempt. My hand on you is the hand of an apostle. And so have this gift. of the apostle. Attempt attempt to preach.
+
+Attempt his great work. Oh servant of the Lord. Attempt for him. Jesus. Thanks.
+
+Thanks. Thanks. Thank you. Thanks. Thanks.
+
+Thanks. Thanks. Thanks. Thanks. Thanks.
+
+Thanks. Thanks for calling. Thanks for sending. Thanks for sending. There's power here.
+
+Thank you, Jesus. There's power here. Anyone you sense God is calling you to attempt great things for him, do so. Do so. Do so.
+
+Do so. There's power here. Thanks, Jesus. Thanks Jesus. Thanks Jesus.
+
+Katherine Kman. Somebody is receiving. Attempt to heal. Somebody here is lift your hand and receive it. Katherine Kman.
+
+Something is happening here. Receive healing. Healing anointings. Healing anointings. Healing anointings.
+
+There's power here. There's power here. Thanks. Thanks. Oh yes.
+
+My God, give me oil. Give me oil. There's power here. Receive. See the anointed.
+
+There's power here. Receive. There's power here. Thank you. Thanks.
+
+Thanks. Thanks. Leave his hand. Leave his hand. Leave his hand.
+
+Lift your hand together. Lift your hand. Jesus, thank you for what you've done for her. Power is flowing. Power is flowing.
+
+There's power here. Jesus, watch. Watch. Careful. Careful.
+
+There's power here. I see I see something. I say live, live, live, live to serve. Thanks. Thanks.
+
+Thanks. Thanks. Careful. Careful. Be gifted.
+
+Be gifted. Be gifted. Be gifted. Be gifted. If I pray, lift your hands.
+
+What? What are you? What are you in the ministry? Do you work for God? You just attend God.
+
+God God's going to work with you. Okay? You need to work with God. Lift your hands. Jesus.
+
+Father, thank you. Take it. Receive. My God. My God.
+
+There's power here. Receive the oil and the anction and the anointing. Receive the gifts of God. Receive the gift of God. Receive the gift of God.
+
+Receive the gift of God. Receive the gift of God. Receive the gift of God. Thanks. Thanks.
+
+Thanks. Lift your holy hands. If I've prayed for you already, please go back. If I've laid hands on you, there's power here. Lift your hands.
+
+Holy hands. There's power. Jesus. Jesus. It's not over.
+
+This says the Lord. But it's not over. It's not over. It's not over. Actually, it's about to start.
+
+Receive. Receive. It's not over. It's not over. Receive the gift of God.
+
+Receive the gift of God. There's power here. My God. All of you here, lift your hands. Something is coming on you.
+
+Something is coming on you. Watch out, watch out, watch out. People are falling under the power, the manifestation of the spirit. Receive. Receive.
+
+Receive a gift. Oh yes. Receive a gift. Mantels. Mantels.
+
+Mantels are falling. Mantels are falling. Mantels are falling. If I've prayed for you, please go back. Go back.
+
+Receive gifts. Receive gifts. Receive gifts. Be gifted. There's power here.
+
+Power to God. Power belongs to God. Attempt. Watch. Watch, watch, watch, watch.
+
+Attempt great things for God. Attempt great things for God. Attempt great things. My God. My God.
+
+My God. My God. My God. Receive. Please receive.
+
+There's power here. Watch it. Watch it. Watch it. Watch it.
+
+Watch it. There's grace. I'm hearing three words. Grace, peace, mercy. My God, mercy, mercy, mercy, anaphilaxis.
+
+Yeah. Receive healing in the name of Jesus. Thank you, Lord Jesus. Thanks for power. Thanks for power, Jesus.
+
+Thanks for healing. Be anointed. Be gifted. Gift will replace everything you don't have be replaced by the gift. Receive the gift.
+
+Lift your hands. If you are a young lady, come to the front. I mean, that is uh in the line. There's power here. God is anointing some young ladies for power ministry.
+
+God is anointing some young ladies for power ministry. My God. Thank you. Thank you. Thank you.
+
+Yes. Yes. Yes. Watch. Watch.
+
+You see that's power. You can look closely. Have a look at what's happening. There's power here. There's power here.
+
+Hello, Peter. Are you going to serve the Lord? Yes, sir. Are you going to serve him? Yes, sir.
+
+You sure? Yes, sir. Are you going to do his will? Yes, sir. Are you going to fight for him?
+
+Yes sir. Be blessed sir. Be anointed. Be gifted. Be gifted.
+
+Be gifted. Be gifted. Be gifted. Be gifted. Be gifted.
+
+Be gifted. Jesus, thank you. Beautiful. Now lift your hands. Say, I want the beautiful power.
+
+There's power here. There's power here. I want beautiful power in my life. Power that is beautiful. Remember Jesus was approved by miracles, signs, and wonders.
+
+I've prayed for you already. I've not prayed for you. Be blessed. Be filled. Be filled.
+
+Be filled. Be filled. Oh, which nation? Where? Which country do you come from?
+
+From India. India. And your wife? My wife. India too.
+
+Malasuna. Lift your hand. Lift her hand. Lift her hand. You stand before God alone.
+
+Lift your hand. My God, I thank you for your gift. Thank you for your anointing. Beautiful. Thanks.
+
+Thanks. Receive beautiful power. Very nice power from heaven above. Be gifted. Be gifted.
+
+Be anointed. You not your head will not lack oil. Your head will not lack oil. Your hands will not lack oil. Anointed hands.
+
+Anointed hands. Anointed hands. Thanks, Jesus. Thanks. Thanks.
+
+Thanks. Watch. Watch. Watch. Watch.
+
+Watch. There's power here. Thanks my Lord Jesus. Thank you. Thanks my Lord Jesus.
+
+We love you Jesus. Oh yes. Oh yes. Pastor Jonathan, I wish your pastors and your leaders would appear at this time. Are there any pastors and leaders you want me to pray for?
+
+Pastors and leaders are Yeah, you have there's power here. Receive. Receive. Watch. Watch.
+
+Watch. Who's there? And I thank you Lord for anointing. Anointing. Anointing.
+
+Oh, look at this. Look at this. Watch. Lift your hand, my dear. Thanks, Jesus.
+
+Thanks, my help. Use her, Lord. Thanks for using her. For God has put his arms around you and he's selected you. He's chosen you and he loves you.
+
+If you will be in his hands a vessel, he will use you many times over. Receive this from him. receive power, Father. Thank you. Thank you.
+
+Thank you. There's power here. There's power here. There's power here. Jesus.
+
+Glory. Now listen. Listen. I'm hearing this word. Finding your place.
+
+Lift your hand everybody. Finding your place. You are going to find your place in the house of God. How to where you will be to attempt great things. Finding your place.
+
+Receive the grace to find your place. Finding your place. Thanks. Thanks. Thanks.
+
+Thanks, my God. I know you've done it. I know you've done it. I know you've done it. I know you've done it.
+
+I know you've done it. I know you've done it, Jesus. Thanks. Thanks. Thanks.
+
+Thanks. Thanks. Thanks. Thanks. There's power here.
+
+Glory. Watch. Watch. Watch. Watch.
+
+Watch. Now. This is an apostle apostle's hand on you. And so receive whatever he has for you from this hand. and through this hand be blessed.
+
+Let's that's that's bashala. Leave that down. Leave it down. Leave it down. Watch out.
+
+There's power here. Receive my God. Thanks. Decency. Use him.
+
+Anoint him. And I thanks, thanks. Thanks, Lord. Use him, Lord Jesus. Thank you.
+
+Thank you. Thank you. If I've laid hands on you, please go back. Where's um a brother? Is that him?
+
+Please anoint us, oh Lord. Yes. Sing us some of the rem, the worship ones. Beautiful ones. Thanks.
+
+You can use your hands. He's coming on you. He's coming on you. He's coming on you. He's coming on you.
+
+If you can use If you can use any Lord. If you can use anyone. If you can use anyone, Jesus. If you can use anyone, you can use me. Take my hands.
+
+Take my feet. Touch my hands. My feet. Touch my heart. Lord, speak to me.
+
+Speak to me, Lord. If you can use anything, Lord, you can use me. Come on. If you can use anything, Lord, you can use and like me, Lord. My God.
+
+If you can use anything, Lord, you can use me. Receive the anointing. Touch my power my feet. power through me. Jesus, if you can use anything, Lord, you can use me.
+
+Come on. If you can use, if you can use anything, Lord, you can use use me. Jesus. Jesus, you can use Jesus. Oh, Jesus.
+
+Jesus. Jesus Jesus Jesus Jesus my heart through my soul you can use me Lord you can use anything for power thanks for grace Jesus you can use Lord, can you see me? Touch my hands and my feet. Touch my heart. Lord, speak through me.
+
+If you can use anything, Lord, I can use I need. If you can use anyone, you can use anyone. You can use your power. Thanks for power. Thanks for healing.
+
+You can use Touch my hands and my feet. Touch my heart. Lord, speak through me. If you can use anything, Lord can use me. You can use anything, Lord.
+
+You can use me. You can use anything, Lord. Can use me. Touch my hands and my feet. Touch my heart.
+
+Speak to me. Be gifted. Come on. Be gifted. Be gifted.
+
+Be gifted. your hand receive a gift. Hey, receive a gift. A gift. Gift to work.
+
+Gift receive a gift. Come on. Everybody thanks for the gift. Thanks for the gift. You can choose gift.
+
+Thank you for your gift. Thank you for your gift. Thank you for the gift. Jesus receive a gift. Thanks for the gift.
+
+Thanks for the help. Thanks for Christ. Grace is my whole heart. I believe and my answer will be this. I'll say yes, Lord.
+
+Say yes to your will and to your way. I'll say yes for I will give you receive gifts when your spirit. Thanks for your gift. I'll say yes for your will and to your way. Oh, I'll say yes, Lord.
+
+I will my answer will be yes for you. Everybody lift your hands. Lift your hands. Lift your holy hands. Gifts.
+
+Gifts are being given. A gift makes room. A gift makes room for a man. You are no more going to be giftless. You're not going to use natural strength, natural abilities, but you're going to use the gifts, the gift of God.
+
+From today, you can teach. Thanks. Beautiful. From today you can teach. From today you can teach.
+
+From today you can teach the gift of God. The gift of God. The gift of God. Thanks for the gift. Thanks for the gift.
+
+You're doing it. People People are receiving gifts. People are receiving gifts all over. Just lift your hand and receive. You don't even need to be in the front.
+
+Hands don't even need to be laid on you. But gifts are falling from heaven. From heaven. I want to pray for this man. I want to pray for this man.
+
+Lift your hands. Gifts. Gifts from heaven. Gifts from heaven. Gifts from heaven.
+
+Gifts from heaven. Receive gifts from heaven. Spirit, my God, my God. With my whole heart, my God will get you. Let's give you gift your will and you will trust you with your spirit.
+
+Power belongs to God. Power belongs to God. Power belongs to God. Power belongs to God. Receive the gift of God.
+
+Receive the gift of God. My God. My God. There's power here. There's power here.
+
+There's power here. Receive it by the Lord your will and I'll say Lord yes I will trust you when your spirit speaks to me with my whole heart with my Yes, yes, Lord. Yes. Oh, yes. Lord, yes to your will and to your way.
+
+I'll say yes, Lord. Yes. I will trust you the way. When your spirit speaks to me, if my whole heart, if my answer will be my will to your Oh, I'll say yes. I will search you and there's power here.
+
+When your spirit speaks to me. Thank you. With my whole heart with my answer. Receive it. Receive it.
+
+Receive it. Receive it. Receive it. Receive it. Receive.
+
+Oh, I'm higher. There's power here. When your spirit speaks to me, with my whole heart, I'll agree. And my answer will be yes. Lord, yes.
+
+And when your spirit speaks to me with my whole heart I'll agree with my answer will be yes. Oh yes. Oh yeah, I will say yes. Trust you. Thank you for calling him.
+
+And now thank you for anointing him. Receive the anointing beginning from today. the gift of God operates in your life. Be found faithful. Be faithful.
+
+Be found faithful. Thank you, Father. We give you way. Oh, I say yes, Lord. Yes.
+
+I'm going to trust you and obey. When your spirit speaks to me, with my whole heart, I'll breathe. Oh, my answer will be. Oh, yeah. I say Jesus, thank you.
+
+Thank you for liking him and choosing him, Lord. Thank you, Lord. Thank you. I'm going to trust you. Thank you.
+
+With my whole heart on yes. Yes. I'll say yes. All right. To your will.
+
+To your will. Oh, I'll say yes, Lord. Yes, I'm going to trust you and obey with your spirit. There's power here. Oh, heart of my answer will be lift your hands.
+
+Oh, I say yes. Lord, receive the gift. Receive the gift. Receive the gift. Receive the gift.
+
+Receive the gift. I will trust. We continue in the evening. Be blessed. When your spirit speaks to me, new grace, new chapters, new chapters, new chapters, Lord.
+
+Thank you. Thank you. Thank you. Thank you. Thank you.
+
+Thank you. Thank you.

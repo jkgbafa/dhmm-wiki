@@ -1,0 +1,23 @@
+---
+title: "Introduction"
+book: "Poison Taming The Tongue"
+book_number: "123"
+chapter_number: 2
+type: book
+---
+
+## Introduction
+
+> …the tongue…is an unruly evil, full of deadly poison.
+
+James 3:8
+
+The tongue is very vital to our lives as human beings. As a physical organ, it gives us the ability to taste and speak. In the spiritual sense, the tongue controls our destiny, regardless of our status as Christians or unbelievers.
+
+According to Proverbs 18:21, “Death and life are in the power of the tongue…” This means that the power of cancer, leukaemia, paralysis, long life, health and wealth are all embedded in the tongue. The tongue controls death and life!God made us in his own image. And when God was in the process of creating the earth, He spoke with his mouth. He said, “Let there be...”, and there was!These were creative words. They were spoken out of faith. These words created the world and brought life into being. The land and the host of animals were created. The sea, the fish, the mountains, the green grass, the waterfalls and the rivers that we see were all created by faith-filled words.It can be argued that if human beings were made in God’s image, then He has also made it possible that His image will possess this creative power. What we should not forget is that He did not put this creative power in our feet, hands, hearts or kidneys. The creative power lies in our tongue.The tongue is a very powerful instrument. But unfortunately, we are often unaware of the power it possesses. It is dangerous to handle dynamite when you do not know what you are dealing with – it can kill you. Many Christians have been killed by their own tongues. We almost always take our words for granted. Many Christians pass negative comments on their own lives, without knowing the far reaching effects.Whoever you are and whatever you do, your language must not be poisonous.
+
+> …the tongue…is an unruly evil, full of deadly poison.
+
+James 3:8
+
+The first thing to note about this Scripture is that it was not written to unbelievers, but to Christians. According to the Bible, no man can tame his tongue. It takes the Holy Spirit to help the believer control his tongue.The tongue is full of poison. Poison that can kill. It is this very poison that we will be learning about in the next few pages. When a snake strikes you, it poisons your blood stream. Some types of snake poison affect the nervous system. Other types affect the cardiovascular system. When the poison hits the nervous system, many of the nerves become paralysed and you may stop breathing and die.When the other type of poison hits the cardiovascular system, you may begin to bleed internally and externally. Whichever type of poison it is, you better deal with it as fast as you can – or else you will be in big trouble. Poison kills!I remember in 1982, my class was in a laboratory at the university’s zoology department for a lesson on snakes. (We had to learn about different snakes and their poisons, since we were medical students.)A visiting lecturer brought out a huge viper from a glass container. He opened the mouth to expose the fangs of the snake. There were these two frightening and deadly fangs within the mouth.The lecturer put his hand inside the mouth, near the fangs and squeezed some of the poison from the snake. (This is sometimes done to produce anti-snake serum to treat snakebites.)But something went wrong during the demonstration and the viper wriggled itself loose and struck the hand of the lecturer. He had a little cut. We were so scared, because we knew this man could easily die. Luckily, he was treated and he survived. Why were we so worried? Because we knew that the poison had the power to end the man’s life.Let’s say a snake poisons someone you love – for instance your father. Your father is probably the one who pays your school fees. It means that within the mouth of a poisonous snake is the ability to stop you from going to school. Within the mouth of the snake is the ability to take away the father of a child or the husband of a wife! If a poisonous snake bites a pastor, it will take away the shepherd and scatter the flock.These are the realities of poison. Just as we took the poison out of that snake’s mouth, we can also take the poison out of your tongue. It may be difficult, but it can be done. But the question is “How do you remove this poison?”First of all, you have to know what this poison is and how it works. Then you can find an antidote for it. Let’s now begin to examine several important types of poison that are found in the tongue. Understanding these different types will help you to know how to deal with them.

@@ -1,0 +1,29 @@
+---
+title: "CHAPTER 4  A GOOD SAMARITAN CARES ABOUT OTHERS  RESISTENTIA, ARGENTINA  2023"
+channel: "DagbooksChannel"
+platform: "YouTube"
+year: 2023
+source: "autocaption"
+---
+
+others. Amen. Now, in Luke 10 we see a wonderful story. Amen. The Bible says Luke 10 from verse 13. 13 10 30, please. 10:30 Jesus answered, “A man was going down from Jerusalem to Jericho, and he fell among robbers, who stripped him, beat him, and went away, leaving him half dead. How many of you know that the world is half dead? This world is half dead. This world is on life support, on a ventilator. The problems in Argentina, the problems in Brazil. And all the problems in America, in Russia, in Africa, everywhere there are problems.
+
+The world is half dead. And the Bible tells that this man was lying by the side of the road, half dead. And suddenly a preacher passed by, this priest passed by and saw him and went around to the other side, he avoided him, and then a Levite passed by and also avoided him and went around to the other side, but a Samaritan came along. Wow. A Samaritan. And this Samaritan, as he traveled, saw him and had compassion on him. And it says that he took him and bandaged his wounds, poured oil on him, and put
+
+it on his horse, on his horse, to take care of him. One day, as he was leaving, he took out two denarii and gave them to the innkeeper, saying, “Take care of him.” Today I see many Samaritans in this place. The Samaritans interrupted their journey to care for this man who was in trouble. The Samaritan made no excuses. He was prepared to care for others. Yes, but the pastor, whose job it is precisely to care for others with the oil and wine, he had no feeling for this man who was half dead. He had no
+
+feeling. Today, pastors have no feeling for souls. Oh, yes. They have feelings for money, but they have no compassion. Many call them reverend, doctor , pastors, but they have no feeling for souls and for this world that is half dead, and they have no desire to interrupt their journey to win a soul. But a person whom no one expected, who was not a preacher, who was not a Levite, who was nothing, he had compassion and poured oil and wine on him. The wine speaks of the The blood of Jesus. This world needs the blood of
+
+Jesus. It can cleanse the sins of this world, it can help us. What can save this world? Nothing but the blood of Jesus. And this man, he poured the wine and the oil on himself, which speaks of the Holy Spirit. People need the Holy Spirit to be changed. To be changed forever. Oh, yes. But regular pastors, they spend more time... I don't know, once I was in Cologne, in Germany, and I went to the main streets of Cologne. I went, I went, I went to a pedestrian street, to the pedestrian street in Cologne, Germany, and
+
+it was packed to the rafters, from one sidewalk to the other, it was a sea of ​​people walking, buying things, and I looked at this sea of ​​people. I felt great compassion for them. All these people, most of them don't believe in God. I do n't want to tell you, it's the Holy Spirit who's going to give you compassion for people. I don't have to like you. I'm preaching here in resistance. I'm preaching here in the resistance, but right now I'm thinking about other cities of resistance. Because Jesus said, "There are other cities where I
+
+have to preach." Today God wants to call you to think about others. Perhaps you need to interrupt your journey to where you are going from whatever is occupying you in your life in order to begin to have compassion for souls and people. People need the Lord. People need God. There is no solution to the problems of this world. Drug problems, robberies, murders, all the evil, all the politics in this world. Only Jesus. He is the answer. He is the answer for today's world. I beg you to interrupt your journey and start looking at that man
+
+who is half dead. Jesus said that he was half dead, half dead, half dead. He was lying there. We all have dead. One day there was a young man and the evangelist spoke to this young man and said, "You have to give your life to Jesus." I don't remember exactly, but I think it was in Germany. Do you know what he told the evangelist? Evangelist. In my country, life expectancy is 82 years and I am only 25 years old. So, I still have 60 more years to think about what you're telling me now. He told
+
+the evangelist, "In this country we live a long time, but the man didn't know he was half dead at that time." You know how to cross over to eternity, eternity is not at the end of the road. Eternity is not where these people are sitting. Eternity is by your side. Every day you could stand here in eternity and you're gone. You're not expecting to get anywhere. You're not waiting until you're 80. You 're not waiting until you're 80 to reach eternity. You can be 20 and you've already crossed eternity. You can be 13 and you've
+
+crossed eternity. You can be 40 and cross eternity. Because we are now half dead. We're already half dead. Just one step between us and eternity. I remember a pastor, I knew him. He got up and came to the hotel for breakfast. While he was having breakfast, he stood up and had a glass of orange juice and it was 9 in the morning. And suddenly, right there where he was having breakfast at the hotel table, he fell down dead. He was a very athletic, healthy man. Yes. And he fell, and he was a shepherd. Because eternity
+
+is not far away, eternity is beside you every day. You can cross to the other side and you're out of this world. My friend, this world is half dead waiting and praying that someone will think about others. Others need Jesus, others need God, other cities need churches, other countries need churches, other people need evangelists, other people are waiting and praying for someone to come. Oh, I pray that today you will receive the anointing to think about others. Others, others. Jesus died for others.

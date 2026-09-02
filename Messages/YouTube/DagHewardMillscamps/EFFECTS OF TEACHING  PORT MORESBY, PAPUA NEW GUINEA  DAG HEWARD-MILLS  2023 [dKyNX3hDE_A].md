@@ -1,0 +1,65 @@
+---
+title: "EFFECTS OF TEACHING | PORT MORESBY, PAPUA NEW GUINEA | DAG HEWARD-MILLS | 2023"
+channel: "DagHewardMillscamps"
+platform: "YouTube"
+video_id: "dKyNX3hDE_A"
+url: "https://www.youtube.com/watch?v=dKyNX3hDE_A"
+year: 2023
+duration_min: 21
+source: "autocaption"
+match: "exact"
+---
+
+number five effect on the teaching is light hey Psalm 119: 105 Thy word is a lamp Thy Word is a what L lamp now how many know that most bad things are done in the dark some of us have not been able to fornicate here because of the light Lord have Mery it's too much light theves have not been able to operate because there's too much light Liars have not been operated because there's too much light darkness is an atmosphere and an environment that demons are looking for waiting for the darkness then things can start
+
+happening and the Bible says Thy word is a light in other words Thy word is an atmosphere corrector it corrects the atmosphere Thy word is a light it corrects the environment it corrects the atmosph osphere amen yes so the atmosphere is such that negativities cannot Thrive because there's a lot of light and thy word is a light it's a lamp to my feet a light for my path yes hey without light you have a lot of pain how many have walked in a dark room and you hit your leg against a painful table every everybody
+
+has experienced this I thought it was only me so painful so when you are experienced and the light goes off you just wait let me put on the light first before I take my next step yes because you have hurt yourself so many times without light so when you don't have the light of the word of God you have a lot of pain and hurt in this life there's a lot of things that hurt you in this life because the word was not there at that time when the word comes you see that because of
+
+the light it prevents you from kicking yourself hurting some you are the one even hurting your own self because you don't have the light yes yes so when the lights go off me I can remember some pain I don't know around here very painful so now when the light go off I just wait say you know let the light cuz you assume you know where everything is but it's not true and you may even run or that's how your life is you've been screaming a lot shrieking a lot ah my life pain ah my life
+
+my life what am I experien what is this horrible thing I'm going through is because there's no light in your life even just to know what to do what to do there was no light if you had known and I just had some light I said this is the way just go here go here like this go here like this here here there's no pain here is very painful here is very painful ah you'll be pain for about 40 years go here like this and then go like this no pain so the preaching of the
+
+word protect and as people grow they start appreciating that I have been protected from Pain that's right yeah they start saying thank you Pastor thank you thank you for preaching thank you for teaching us thank you for the teaching thank you for the counsel thank you for guiding yeah with time you realize that oh since I started to have light in my life my life is less painful oh yes oh yes yes true or not true oh yes I see many Supreme Church Builders and the Supreme Church Builders are going out you see this is
+
+how you plant churches by preaching and teaching we are we are Supreme Church Builders by preach when Jesus came to this world what was the activity it was preaching and teaching that's how you build Church how am I building Church by preaching what I'm doing I going to release a lot of churches many many many people are going to turn into church there are going to be many churches and see people ask yourself how come you have churches how come you have pastors how come you have the you have these Thing by preaching and teaching
+
+to people yes number 5 67 any number you want teaching is the planting of a seed amen Luke 8:11 H Luke 8 and 11 now the parable is this now the parable or the mystery is this the seed is the word of of God when I preach to you I'm putting a seed into you Hallelujah yes many women marry men H and go through all that they go through just to receive a seed into them that's right you don't understand my preaching right as usual you don't understand all the things I'm saying right when I
+
+say certain things you don't understand anything I mean look at your life was going normally and you've gone to get this man to marry you to do what for a seed to be put into you you want him to put a seed into you oh look how you have to humble yourself just for a seed to go inside you a very small seed H so why will you not humble yourself in the house of the Lord so that a seed can go into you like that I like it yes because a seed will make you
+
+fruitful a seed will change your life it will bring you some Joy yes amen thank you a seed will germinate in you as I'm putting this seed into you it's germinating where's Mia where's Mia ah the seed is germinating in her and where is uh Tracy has she come I know she went for a funeral and where is zilda zilda wow SE is working are you alive zilda zilda and where's K Katan ah the seed is going into you yes seeds are going into a small girl like that with a seed hey see there going
+
+to be something it's going to have an effect yeah yeah yeah yeah you know I was around 16 years old somebody gave me tape by Kagan 16 my heart was know 16 your heart is softer my heart was soft and I my eyes were full of admiration admir admiration makes you open wide when your mommy says open wide ah I open wide my heart ah and I said Kenneth hen preaching the way said must a great man of God I don't know what is a man I didn't even know the term man of God this
+
+is this beautiful preaching he says he saw Jesus wow I open my mouth ah is so real to me it's nice to me I open my heart and I received and the seed was coming 16 years old in OSU in Ghana OSU Ari in arra in Ghana yes 16 years old my heart was soft ground hey you know there are some ground when you plant you are planting on tiles some people's heart is like tiles hey you can talk and talk and you see that there's no breakthrough oh but my heart was soft my eyes
+
+were full of admiration not questions I didn't know anything about Kenan at all I don't know whether he was married I don't care is he married does he have a child I don't know I don't care does he have even a car I don't know I don't care I just know that he said he saw Jesus and he's preaching ah my heart was open my spirit was soft soft soft soft the seed came into me like that I like preaching to young people too I like preaching to young people I mean I don't know if
+
+you are old but I like preaching to young people you are young in your heart right yes young people you can tell them open wide ah but you see you may be having your older wife and you may say open white ah she said look I said I don't like that I don't want I don't want whatever you said open your mouth said no I said you said try this me I said don't like it open why ah no no no no I'm not a child I'm not a child don't tell me I'm not I'm
+
+I'm not your child I'm not your child I eat when I want yes open wide ah and a seed comes into you not a sword not a sword not a light but a seed not a sword not a light a seed a seed with a power hey a certain brother he got married ah he used to be a conqueror do you know what's a conqueror a a who goes from hen to hen yes conqueror he was a conqueror a conquer yes he had so many girls are there men like that in a many conquerors here
+
+anyway so so one day he married he married a sister and then after some time ah they were not getting pregnant even though he was a conqueror there was no conquering there was no he was conquering but he was not able to there was no pregnancy yes hey hey so one day he went to do a test yes he went to do a test and he got the shock of his life when the result came all right in the result came there was not even one seed so it means that what was coming out of
+
+him it was like orange juice or some something like apple juice or grape juice or something but it was always coming about there was no seed in it there was no seed you see orange juice is different from seeds yes apple juice is different from something with seed in it you can pour in water orange juice Coca-Cola there's no seed in it but something with seed in it is very different very different so he was surprised because he was he was having sex normally and he felt as powerful as a conqueror because he was he
+
+was an established conqueror he has been conquering from hand to hand con conqu but no seed no se at that time he didn't need a seed but now so he realized that the juice that was coming out of him it was a powerless orange juice it was a powerless apple juice mixture fruit cocktail whatever it was but there's no seed in it yes no seed you guys you look to spiritual why these people they are holy I don't know they look at me with this righteous tone of voice oh these are grandmothers and I don't
+
+have to pour water on them okay we don't accept that don't accept ask your neighbor why are you looking at him with that righteous tone of voice why are you looking at me with that righteous tone of voice why only juice no seed so you see what I'm preaching now there's seed in it oh there's seed in it there's seed in it there's seed in it there's seed in it there's seed in it there's seed in it yes that's why that's why at a point you see that it has a certain power and things are
+
+coming out of the ground oh yes if I take Coca-Cola and I pour it on the ground nothing is going to come out there's nothing in it there's no seed in it Luke 8:11 now the parable is this the seed is the word of the seed is the word of God the seed is the word of God the seed is the word that's why when I'm preaching you always hear me reading verses verses because the seed is the word of God I have to read verses I have to quote scriptures I have to speak scriptures
+
+and words of God because the seed is the word of my plenty talking the seed is the word I can talk plenty but what is the seed where is the seed I can talk a lot and give speeches like whoever but where is the seed now the seed is the word of God now the parable is this the parable is this the seed is the it's one of my favorite verses now Luke 8:11 now the parable is this the seed is the word of God it's a mysterious thing receive the seed in your life yes
+
+Pastor should fear the seed quote the scripture read it out read it out that's the seed that's why the songs have that's why the songs are powerful and they becoming more and more powerful because they contain seed you see unlike a whole lot of songs which just contain a whole lot of Coca-Cola a whole lot of sweetener a whole lot of apple juice this contain the word oh yes oh yes that's why we say honey I love you honey honey I love you what is that song about testimony I love yes the word I love
+
+the word oh yes oh yes the seed the seed is the word of God and you see I'm preaching as verses look at this like this one say this their seats it's not just no and that's why when you go to the hospital and they take your Cen they take some volumes two three Ms whatever and they check it to see if there any scriptures in it hey no scriptures no scriptures you are preaching without scriptures you couldn't explain the scripture to us scripture free preaching preaching without Bible preaching without the word of God a
+
+pastor called me from America and he said something just uh last week he said I was watching you he said I've seen that you are you you your preaching is based on the word I was just listening to him I've never met him before he said I can see your preaching is just based on the word he said but nowadays that is not how it is that's a lot of motivation and a lot of you know you have to a joke before you start preaching and a joke at the end there's a a joke at
+
+the end and joke at the beginning these are not seed this is what we call MASH porridge it is porridge it may be thicker but it is porridge hey try pouring porridge in there and see whether a baby will come from that try pouring Coca-Cola there's no seed in it Pok Coca-Cola it to just fo Caron Dio hey now the parable is this the seed is the word of God so next time you hear somebody preaching ah you must start checking the spem count to see how many seats are in the person's preaching more0 yes
+
+yes and you need quite a lot of millions of 40 million per Mill 40 million per Mill mil for it to have an effect wordss lots of wordss that's why the C me have the effect that it has because for over two or 3 days you have a lot of things passing by maybe one will drop in yes yes yes so you are blessed amen so you've got the the word when when you go out we we have the word which is a light a sword a seed I mean a lamp a power yes power
+
+some type of power that is a little invisible oh yes yes amen sit down all right how many are going to give yourself church planting preaching teaching oh we need more preachers we need more teachers amen

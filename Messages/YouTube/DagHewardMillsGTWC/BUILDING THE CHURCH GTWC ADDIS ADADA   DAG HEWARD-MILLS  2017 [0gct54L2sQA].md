@@ -1,0 +1,56 @@
+---
+title: "BUILDING THE CHURCH |GTWC ADDIS ADADA  | DAG HEWARD-MILLS | 2017"
+channel: "DagHewardMillsGTWC"
+platform: "YouTube"
+video_id: "0gct54L2sQA"
+url: "https://www.youtube.com/watch?v=0gct54L2sQA"
+year: 2017
+duration_min: 40
+source: "autocaption"
+match: "exact"
+duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/BUILDING THE CHURCH GTWC ADDIS ADADA DAG HEWARD-MILLS 2017 [0gct54L2sQA]]]"
+---
+
+I need to feel your presence. I want to know your power. F me now with more of you. I want to see your glory. I wan know your way so would you please come and fill this place. I need fresh air from you. Cover my life with your brain down refreshing from above. I need your presence today. Please come and show me the way. Show down your upon me. Make me more and more like Jesus Christ. have so the world may see that you are the port I am just the so into what you want
+
+it to be and now we changed from glory I need from cover my life with your down refreshing for I need please come away. Make me and more I need so you cover my life God need presence please come down your upon make more and more chist i need to Cover down your reign upon us. We w be more and more like Jesus. So please show down your upon me. Make me more and more like Jesus. To everything there is a season, to every purpose there is a in the world to him in all righteousness
+
+he has us kingdom for such a time as this time to Come on learners now it's time for us to teach there was a time we used to follow now it's time for us to lead there was a time we used to borrow but now it's time for us to land our world it's our byant It's our time to believe it's our time to love and live there was a time we received but now it's time for us to give stand in hand together let's reach out and touch our world can you hear the time
+
+We have to reach this generation to let his kingdom come with our world. And we know we can succeed simply believe. Let's reach out and touch our world. Can you hear the spirit call in? Can you hear the spirit call in? Can you hear the spirit calling? Can you hear the spirit calling? Can you hear the spirit? It's Ata. Hallelujah Hallelujah Raise your hands with me and let us pray Heavenly Father, we thank you for today, we thank you so much for the opportunity you have given us, we thank you so much for your presence,
+
+Lord, guide us, guide us, by your mighty power, we thank you for everything that is here today, we thank you because we will not leave this place as it was before, we thank you because we have been transformed, we thank you for not accepting your power, we thank you, we thank you, worship be to you, in the name of Jesus, everyone says amen, we all sit down, Addis Ababa, it is a great honor to be with you in Addis Ababa. I came here 11 years ago. Tubir Tui, I am happy to be here today again.
+
+I would like to thank all of you who helped organize this conference. Pastor Elshaday, Pastor Tezera, we all work hard to gather together. It is a great blessing. Speak English. How many of us speak English? Many of us here don't speak English. Let's raise our hands. Let's raise our hands. We are pastors. How many of us here are pastors. How many of us are workers in the church? How many of us are not pastors but want to be. How many of us are pastors who don't want to be pastors. Hallelujah. Very special conference participants will
+
+receive this book for free. 40 are BAF life. Thank you for your support. Today, please sit down. I want to register. So everyone who comes, please register. Make sure you write your name correctly because one person doesn't take a hundred and two. Amen. I believe. We will give them the gifts on Friday morning. Friday morning. Byreation. Ben is register from here. 2000 but make sure you not be sure. You have to register. What is your registration? Register. Even if the amount is not enough, we will give you the amount after the program because we have
+
+the organizers. But I believe that because of the people here, the amount we have is enough for all of us. Amen! Amen! Is it beautiful? Wow! Wonderful Isaiah Chapter Two Isaiah Chapter 2 And Verse 1 The word that Isaiah the son of Ammo saw concerning Judah and Jerusalem, and in the latter days the mountain of the house of the Lord shall be established in the top of the mountains, and shall be exalted, and all the nations shall be gathered together. It rises above the hills. And all the people will gather to him. In the land
+
+of Syria many will say, "Let us go up to the mountain of the Lord, to the house of the God of Jacob." He will teach us of his ways and we will walk in his parts for Zion for the law and the words of the Lord from Jerusalem. The third law is from Zion, the word of God will go forth from Jerusalem, and many nations will say, “Come, let us go up to the mountain of God, to the God of Jacob, and he will teach us the ways, and we will walk in his paths.” This
+
+is a great prophecy. It is Isaiah who says that a child will be born, a child will be born of a virgin. In Isaiah chapter nine, in Isaiah chapter two, it says, “There will come a prophecy in the last days, and the very inviolable prophecy is like this. In the last days, the house of God will be great and established. Of old, it is on the house of God. We all have our hearts. Hallelujah, Gad River Tubbids Church. God wants us to build the church. When you join the building of the church, you will unite
+
+yourself with the organization called Blessing. Amen. Hallelujah Church. You are happy to be involved in building the house of God. I will build the church. Matthew 16. 18 I will build a church I will build my church Word of God These are the words of Jesus I will build my church I will build my church I will build my church This is the last days. Holy Will of God This is also the great will of God. Amen Amen When you get into the way of God you are in the way of Gods plan If you
+
+connect yourself with God's will, you are always assured of God's blessing. Go to Matthew 28 Matthew 28 Matthew 28 When he spoke the great message 18 Jesus came and said to them, "All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, teaching them to observe all that I have commanded you. Amen Jesus said, "Go into all the world and preach the gospel. The will of God is very clear and very prophetic. The will of God and the word of God are very clear and prophetic. What
+
+you need to do is build the church. Uppastors Interesting Church Many pastors and pastors are not interested in building a church. Many pastors and pastors do not understand that there is no better job than serving God. That is why many pastors today are businessmen, businessmen, and businessmen in Ethiopia. You have businessmen, pastors, and politicians who sell goods, and many other things besides building a church. Wit Iztebegi, the great and wonderful work that God has given us, building a house, said when you follow the will of God, the power to break will be behind you. When
+
+you are like a power to break, I need it from behind. I am receiving you. Paul, let us be behind you. When you give yourself completely to what God wants, there is a verse that many people cite, Proverbs 29, that is where you see it. 29 I know you know this famous quote. Proverbs 29:18 says this: " Without a vision, the people will perish." This is the verse that many of our modern pastors quote. " Without a vision, the people will perish." But they don't finish the second verse of this section. They don't quote it.
+
+"Without a vision, the people will perish." They say, " Without a vision, you will perish," and they go on to say, "Without a vision, you will perish," Field says, and they start talking about different kinds of visions. A vision of prosperity, a vision that goes to America, a vision of building many things. Look at this. Read this. Without a vision, the people will perish. But he who keeps the law is blessed." The Opposite of Not Having a Vision is King Zelo The Opposite of Not Having a Vision is King Zelo The Opposite of Not Having
+
+a Vision is Keeping the Law Vision Zelo God's Law is the Vision Yes, what you are looking for is the vision for your life, the prophetic vision you are looking for is the Word of God. Without a vision, people start to descend. The vision of our life is the law. My life's work is the law. It is God's will. God's will is God's purpose for me and for you. What he said is what he said is what he said for us in the last days, the house of God, the house of God, the mountain of
+
+the house, will stand. Jesus came and said, "I have only one project, I will build it." Peter said, "You, Peter, will be part of this project." He said, "You are one of the rocks. If Peter was a rock, you are one of the bricks. If Peter was a brick, you are one of the bricks. If Peter was a brick, you are one of the bricks that God will use to build it. Amen. So, I am you. Now is the time for me and you to have a great vision in our hearts because we are always
+
+going down. But the vision that keeps the law is happy. What is the vision? Keeping the law, keeping what God has, I will build it in the church. Here I have for you, a Christian who has shown you the work of God. These are the pillars. The three mega churches, I went to California or New York or America. I have many churches in the United States and many thousands of members in the United States and England. Why am I here? People ask me on the radio what I am doing. I have no personal vision. I
+
+tell them that he is a happy man who obeys the law. I am very happy to do God's work. I am very happy to sow these seeds among you, more than anyone else in Ethiopia. I am very happy. What kind of blessing is this? Sit down, sit down, church, church growth, church planting, church planting, church pastor, church building We had 5 calls, God knows your phone number, God is starting to know your phone number, now God is calling you 10 times, God is speaking to you every day, God is sending you money every day because
+
+you are building the church, yes, you know, sit down and I will tell you, when I was going to build the first church, he started raising money for the money, we made a picture of the church in my style and put it up and showed it to everyone, he said, "Let's see it." He donated a lot of money, a stranger preached to us, a man of God, and he helped us raise the money. Right when I was on stage, I was praying like this, and the Holy Spirit whispered to me to pray over the money.
+
+I said, "Give all the money, all the money, the money you raised for the building, to the man who came to preach." I said, "Lord, you are lying." I didn't want to hear the voice of God because I needed money so much and the money came and I gave it to him. Speak to me, Lord, oh Lord, but I obeyed. The Holy Spirit spoke to me, saying, "You will never lack money. I have money to build. From that time until today, money has never failed me. I prophesy to you. I prophesy to you. You will
+
+not lack money to build your church. You will not lack money to build your church. God will send God to you. You who have risen from the church. I will build my church with blessings. I bless you to receive power in the name of Jesus. Amen. Amen. Amen.

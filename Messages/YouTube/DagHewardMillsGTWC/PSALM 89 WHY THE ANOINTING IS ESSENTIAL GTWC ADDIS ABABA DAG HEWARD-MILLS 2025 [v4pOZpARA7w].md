@@ -1,0 +1,121 @@
+---
+title: "PSALM 89 WHY THE ANOINTING IS ESSENTIAL | GTWC ADDIS ABABA | DAG HEWARD-MILLS | 2025"
+channel: "DagHewardMillsGTWC"
+platform: "YouTube"
+video_id: "v4pOZpARA7w"
+url: "https://www.youtube.com/watch?v=v4pOZpARA7w"
+year: 2025
+duration_min: 26
+source: "autocaption"
+match: "exact"
+---
+
+Hallelujah. Hallelujah. How many want to catch the anointing? Wow. Wow.
+
+Now, seven reasons why you must be anointed. Number one, now please get this book, Steps to the Anointing. I'm preaching from that book. steps to the anointing. I told you I have eight books and this is the best one of all the eight steps to the anointing.
+
+It's not my favorite, but it's the best. Now, seven reasons why you must be anointed. Number one, because it's not by might, it's not by power, but it's by the spirit. Amen. Amen.
+
+You cannot do ministry with your human might. Zechariah 4:6. It's not by might, not by strength, but by the spirit. Number two, you must be anointed because Jesus, even Jesus waited, he was anointed before he started his ministry. Pastor Tzer would not be in the ministry without anointed.
+
+You cannot do ministry without anointing. Otherwise you are just a school teacher and you must open an NGO. Yes. You must open an NGO but a school institution but not a church. Yes.
+
+You need anointing. So Jesus Christ, he was a carpenter. Yes. He was a carpenter. He never even tried to preach.
+
+till one day, one day, one day he went to the river Jordan AND JOHN THE BAPTIST WAS PREACHING POWERFULLY AND JOHN THE BAPTIST MADE AN ALTAR CALL AND SAID, "ANYONE WHO WANTS TO be baptized, WHO IS HUMBLE, COME NOW TO THE front of Jesus Christ came and he knelt down in front of John the Baptist. And when John the Baptist saw him, HE SAID, "NO, NO." WOW. DON'T KNEEL THERE. YOU'RE THE SON OF GOD. JESUS SAID, "NO.
+
+Don't stop my anointing." You see, without humility, you will never be anointed. Yes. Oh, without humility, you will never be anointed. And then suddenly the heavens opened and the dove came down on Jesus who was humble and a voice came from heaven said, "This is my son. I am happy with him.
+
+Meanwhile, Jesus has not even preached one sermon before. They have not even one soul. They have built even ONE CHURCH, BUT HIS HUMILITY, HIS OBEDIENCE TO GOD. Jesus said, "Father, I I'm like my son is my beloved son. And after that, the Holy Ghost came on Jesus and he went to the synagogue FOR HIS FIRST PREACHING EVER and he TOOK THE BOOK TO ISAIAH and he said, HE READ THE SPIRIT OF THE LORD, THE SPIRIT OF GOD IS UPON ME NOW.
+
+I AM ANOINTED. HE HAS ANOINTED ME. TO PREACH, to teach, to heal, to set captives free, to help people, to do the works of God. Listen, Jesus needed anointing before preaching. Then everybody here also needs anointing.
+
+That's why the Bible says, "Let thy head not lack lack, don't let thy head lack any ointment." Yes. Check your neighbor to see whether there's any ointment or not. Can I tell you a story? You know one day there was a pastor in the church and uh whenever he preaches a senior pastor told him, "Oh, oh, you are very intelligent. You're very intelligent.
+
+The pastor was happy. Oh. Oh. Next time he told him, he said, "You are very intelligent." Oh, the pastor said, "Thank you. Thank you.
+
+You are very intelligent." Oh. Oh, thank you. Of course. Then one day it occurred to the pastor. Why is it that always he says to me you are intelligent but he never says you are anointed.
+
+Uh you see he now realized that he was intelligent but not anointed. Yes. He was intelligent but not anointed. There's a difference. There's a difference between intelligence and anointing.
+
+Anointing affects your mind. Yes. Oh. It affects how you think and how you behave. Yes.
+
+This is what we call the sweet influences of the anointing. You'll be changed by the anointing. When the anointing came on Saul, the Bible says, he turned into another man. He changed into another man. Oh yes.
+
+So number one, let's go through the seven reasons why you must be anointed. Number one, number one, you must be anointed because it's not by might or by power. Number two, you must be anointed because Jesus was anointed. Number three, you must be anointed because even the apostles were asked to wait for the Holy Spirit before you start preaching. Number four, you must be anointed because great prophets like Elijah asked for the anointing.
+
+When they were asked, "What do you want?" They say, "I want anointing." Amen. Amen. Number five, you must be anointed because Saul was transformed into another man when he was anointed. Number six, you must be anointed because King David, he ascribed all his blessings to the anointed. Hallelujah.
+
+Hallelujah. And number seven, you must be anointed because Moses refused to continue the ministry without anointing. Amen. Amen. Now, what are the effects of this anointing?
+
+What are the effects of the anointing? Number one, the anointing will result in you receiving supernatural help. Wow. Wow. Psalm 89 verse 19 to 21.
+
+Then thou speakest in a vision to the holy one, and said, I have laid help upon one that is mighty. I've exalted one chosen out of the people. I have found David, my servant, and with my holy oil have I anointed him, with whom my hand shall be established, and my arm also shall strengthen him. Psalm 89:19-21. Number one, the anointing will cause you to receive supernatural help.
+
+Amen. Amen. Receive help. Hey, God will help you. God help Pastor Tesara to get this land.
+
+Yes. You see, if God doesn't help you, you can't do anything. Amen. Amen. Don't be too jealous of people.
+
+It is God who has helped people. Yes. Pastors, we are jealous of other pastors. You see, Cain and Abel, Cain was jealous because God recognized Abel. There are people who hate me because they see that God recognized me.
+
+Yeah. Bible says God had respect to Abel's offering. Yeah. Receive the help. Number two, the anointing will cause you to be raised UP TO HEIGHTS.
+
+YOU WILL BE RAISED UP TO HEIGHTS. In Psalm 889:E 19, he says, "I HAVE EXALTED ONE." I HAVE EXALTED ONE. I HAVE EXALTED ONE. THAT MEANS he will raise you high. ONE.
+
+WOW. WOW. I have exalted one. May you be the one he will exalt. Be the one that he will take very high.
+
+May you BE THE ONE THAT HE WILL EXALT VERY HIGH. Number three, the anointing will establish you in the ministry. It says, I have found David my servant with my holy oil. I have anointed him with whom my hand will be established. Verse 21.
+
+Verse 21. My with whom my hand will be established. Wow. Wow. Everyone here and watching with a ministry that is not established prophesy to you.
+
+The anointing makes you to be established. That's what the Bible is saying. He said, "With whom I will establish him, my hand will be established. YOUR MINISTRY WILL BE STRONG. STABLE.
+
+YEAH. AMEN. You not be going from house to house. You not be begging people for money. Do you do you have oil?
+
+Do you allow oil here to spawn? No oil. Listen, I believe people are receiving the anointing. So, you know, God is saying that the anointing, it will establish you. Do you want to be established?
+
+Some of us pastors when we go to church, we are always afraid. whether people will come or they will not come whether there will be money or there will be no money but he says I've found somebody I've exalted him I've anointed him and with him my hand will be established HALLELUJAH ALL RIGHT just let it be nearby. Wow. Wow. Number four, the anointing will strengthen you.
+
+Look at verse 21. It says, "The arm will strengthen him." Wow. I see you becoming stronger. You are becoming a stronger pastor. YOU'RE BECOMING A STRONGER CHURCH.
+
+YOU ARE BECOMING A STRONGER MINISTER. HAND WILL STRENGTHEN HIM. WOW. Verse 22. The next one, the anointing will protect you from deception.
+
+Look at what the Bible says. The enemy will not deceive him. Yes. You know, one of the things about a leader is that everybody is trying to deceive him. Yeah.
+
+If you are a leader, you will know that everybody is trying to deceive you all the time. Yes. You discover and things are not as they seem. Everybody is pretending. Everybody is being nice.
+
+Everybody's arranging himself before you come. Everybody's arranging himself before you come. Yes. Oh, those who pretend. One day I visited a country, one of my pastors, we had a mission.
+
+So it was in the evening. I went to preach. When I was when I was preaching to the congregation, I said these people is not my church. All these people they are not a church. There are there are other there are people that have been gathered because I was coming but there there's no actually there's no church.
+
+Yes. Yes. Actually there's no church. Yes. You see it says the enemy will not deceive him.
+
+Yes. May the anointing be on your head. Anything which wants to deceive you. It will not be able to deceive you in the name of Jesus. Wow.
+
+Wow. Number six, the anointing will deliver you from afflictions. Says the son of wickedness will not afflict him. Amen. Amen.
+
+The anointing will cause your enemies to be destroyed. Wow. Wow. Wow. Wow.
+
+I will crush his adversaries and I will strike those who hate him. I will strike those who hate him. I will strike THOSE WHO HATE HIM. I WILL STRIKE THOSE WHO HATE HIM. I'LL STRIKE THOSE WHO HATE HIM.
+
+WOW. May your ministry go higher and higher. Every enemy shall fall before you. He said, "I will cause those who are of the synagogue of Satan to come and bow down before you because of the anointing." Number nine. All this is in Psalm 89 verse 24.
+
+His loving kindness love and kindness is with his anointed. If you want to experience God's love and kindness, come near his anointed because God's love is his loving kindness with with him is with his anointed. So the closer you are, the closer you are, the loving kindness, THE LOVING KINDNESS IS COMING FROM HEAVEN IS COMING TO THE ANOINTED AND IS FALLING ON ALL THOSE NEARBY. HALLELUJAH. Anointing is wild.
+
+Number nine, the anointing will establish you as a man of authority. Number 10, the anointing will cause you to expand. Psalm 89:2, it says, I shall set his hand on the sea and his right hand on the rivers. God will cause you TO CROSS RIVERS. YOU CROSS THE SEA, TRAVEL OVER THE WATERS, CROSS OVER THE RIVERS, you become an international ministry.
+
+His anointing, you will set your hand over the rivers ACROSS THE SEA, receive the anointing. Yes. Number 11, the anointing will give you a good relationship with God. It says he will cry to me. You are my father, my God, the rock of my salvation.
+
+I shall also make him my firstborn. You develop a strong relationship with the father because of the anointing. Number 12, anointing will give you something eternal. I will make him higher than the kings of the earth. Yes.
+
+When you are anointed, you become greater than all SECULAR LEADERS. HIGHER THAN THE KINGS OF THE EARTH. HIGHER THAN THE KINGS OF THE EARTH. HIGHER THAN THE KINGS of the earth. Wow.
+
+Wow. Wow. Wow. Number 13, my covenant will be with him. Number 14, the anointing will affect your children.
+
+Psalm 89:29 says, "So I will establish his descendants." I will establish his descendants. Your descendants are blessed because of the anointing on your head. Your children will serve God. All your children will serve God. He says, "I will establish his descendants." Wow.
+
+I will establish his descendants. I will establish his descendants. I will establish his descendants. I will establish his descendants. I will establish his descendants forever.
+
+Number 15, the anointing will give you a longlasting ministry that his seed Psalm 89 36 his seed shall endure forever. Wow. Wow. receive a longlasting ministry. Amen.
+
+Amen. Amen.

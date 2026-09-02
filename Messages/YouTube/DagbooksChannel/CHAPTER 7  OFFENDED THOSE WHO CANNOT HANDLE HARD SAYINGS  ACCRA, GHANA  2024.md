@@ -1,0 +1,37 @@
+---
+title: "CHAPTER 7  OFFENDED THOSE WHO CANNOT HANDLE HARD SAYINGS  ACCRA, GHANA  2024"
+channel: "DagbooksChannel"
+platform: "YouTube"
+year: 2024
+source: "autocaption"
+---
+
+Number three, people get dismissed because they cannot handle hard saints. Matthew 15:12 Matthew chapter 15 verse 12. Wow. Then came his disciples and said unto him, Knowest thou h that the Pharisees were offended after they heard this saying. They're not happy with you when you spoke that way. Some people don't like the way I speak. It offends them. Too direct. Wow. But I like the way I speak. I like the way I speak. Yeah. That's how I speak. When I started writing books, you know, there were some editors and people were telling me change this
+
+to this. At I said you know something when you are writing your book you write it that way when I'm writing this is what these are the words I use IT IS THE WAY I speak it that is called my preaching that is what also people like to listen to it's the way I say how I say yes that's also that is what I have if you change me to speak the way you speak then I've changed my preaching completely you can't do that. But they told Jesus, "Do you know some people were offended the
+
+way you spoke?" I remember one church member, she had two pastors, myself and another pastor. And the other pastor used to speak nice smooth words to this member. uh the member became more attracted to the other pastor and I was like the bad person because it's like my words were LIKE THEY THEY OFFENDED THE PERSON. Be careful that YOU DON'T GET OFFENDED. SO THEN YOU NOW GRAVITATE TOWARDS A LIAR OR SOME OTHER PERSON WHO WILL GIVE YOU SMOOTH words like they SAY SPEAK TO US SMOOTH WORDS. speak smooth WORDS TO US. YOU DON'T YOU DON'T
+
+LIKE WHAT I'M SAYING. I'M REBUKING. YOU DON'T LIKE IT. YOU WANT TO GO AND HEAR LIES, ISN'T IT? TO PAINT YOU WITH deceptions and pleasing words. Yes. And they told you, do you know that people were offended when you spoke? One guy came for one of our meetings and just one MEETING HE WAS QUESTIONED IN A CERTAIN WAY. That was the end of him. He said, small meeting that we had. I MEAN, THE GUY WENT OFF completely towards the the stars. That was the end of him in in the in the church, in the ministry.
+
+Yeah. To be a bishop in this church, you suffer strong meetings. It's not easy. When you see the bishop, you see that they are cool. They are moving a cooler because they are strong meetings about lot of things or wouldn't be here where we are. YOU DON'T WANT HARD SAYINGS. YOU DON'T WANT TO BE REBUKED. HUH? You don't WANT SOMEBODY TO TELL YOU THE TRUTH JUST AS IT IS. YOU WANT EVERYBODY TO SAY, "But why couldn't you say it nicely?" What did I say now? Are you now going to counsel me how to speak? Now
+
+you are you are my counselor. OKAY, LET'S CHOOSE WHO IS THE COUNSELOR. Either you are the counselor or I'm THE COUNSELOR BECAUSE YOU ARE COUNSELING ME HOW I SHOULD SPEAK. I'M ALSO SPEAKING. YOU ARE TELLING me how I should say it. So who who should speak now? Okay then me it's too hard for you. You see it's too hard. Come on. I told one church member I said look you are flat I think I'm closing yes flat I said you are flat flat flat yes the truth yes I said you are flat flat direct yes
+
+THERE'S NOTHING COMING OUT OF YOU THAT SUPPOSED TO COME out of you let me tell you I'll tell you something about God give me volume otherwise I'll resign Give me volume. Yeah. Are you selling the volume? Does this offend you? Be careful. You flat. I said you are flat. There's nothing coming FROM YOU. LOOK, I'LL TELL YOU THAT God is more offended by your flatness than your sin. I think I may be wrong but I think okay because in John 15 verse one I am the true vine verse two Mhm. EVERY BRANCH THAT DOES NOT
+
+BEAR FRUIT. MHM. He takes away. See God is not looking at your even your sin but how there's nothing from you. That's when he takes you you are out. You are flat. There's nothing. He's observing this. The father is observing. Church devotion. The father is observing you. Your fruit. What is coming from you? Look at you and say you. There's nothing. He cuts off every branch joined in me that does not bear no fruit. The ones that bear fruit, he will trim you and give you some injections. But those of you who are happy in
+
+church doing nothing. Be careful. Be careful LEST THE LORD WILL LOOK upon you and say it's finished. This is what offends God that he has planted you and there's nothing coming from you. You like the smooth sweet speaking the pastors who come to encourage you every day. I SEE YOU MAKING IT. I SEE YOU MOVING ON. OH, GOD IS TAKING YOU TO THE NEXT HIGH. COME ON, GIVE ME MY HANDKERCHIEF. I SEE THE GLORY OF GOD. THIS WHAT YOU WANT. EH, this what when I'm coming TO TELL YOU HOW YOU GET OFFENDED AND HOW YOU
+
+BECOME a monster. That's why you don't want to hear it. You don't want to hear about monsters. You want to hear that things will be well. Oh, YOU ARE OFFENDED BY my preaching. Ah, you want me to COME AND GIVE YOU ENCOURAGEMENT? We love this. Beautiful. Wow. A church we are coming to, they are preaching about monsters as if it's a horror movie. MONSTERS 2. MONSTERS 2. WHAT TYPE OF SERMON IS MONSTERS ONE and Monsters Two? You see, I am preventing you from turning into a monster. Yes, I'm preventing you from turning into a monster.
+
+Many years ago during the revolution in Ghana, I was a student and I was standing somewhere and I used to get lifts. I would pray for a car and any car could stop and take me. Yeah. I said, "Father, send me a car. I love it. You see a very important car." So, one day I pray, "Father, send me a car." The next car that came, I just said, "Stop." When I got into a car, I don't want to tell you who it is, but when I mention his name, everybody knows him. So, he took
+
+me. I said, "This is where I'm going. Let's go." So he took me to where as we were going I asked him sir do you believe in God and church and all he just laughed he said I've done all those things already he said go to Leagon Pentecost presby Methodist church uh presby Methodist go and check you see my name there you won't believe it you may be part of presby whatever one Today you'll be like an atheist if you joke. WHAT I'M TELLING YOU IS RATHER what you need so that you never come to
+
+a place you feel rejected. You feel you are different and you are not belonging and this and that and you were spoken to the way he preached and he was he was preaching he was pointing at me with his left hand. He was pointing with left hand in this direction. Why should he point the first one then why should he use his left hand? Sorry for left. John chapter 6. HE THAT EATETH MY FLESH AND DRINKETH my blood dwelleth in me and I in him. You eat my f. Today you will see you eat my
+
+my my my my my my my my my my my my my my my my my my my you will eat my this thing my meat. K and my meat k and my meat. blood and my meat. You see today? Wow. Verse 61. Many therefore of his disciples when they heard they said, "This is a hard thing. Who can hear it? When Jesus knew in himself that his disciples murmured at it, he said unto them, "Does this offend you?" Wow. Beautiful. Tell your neighbor, there is nothing that can be said in church that can offend
+
+me. Nothing. There's nothing in the house of the Lord. Oh, say it well. Say it to the person you stand. They cannot offend me. You cannot offend me. That's why some of you have friends today. Tomorrow you don't have the friend. It's offended you. It's offended you. There's more small then you are gone.
