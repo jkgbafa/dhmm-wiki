@@ -8,6 +8,8 @@ year: 2016
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Hallelujah Victoria fors Hallelujah why don't you give Jesus the best shout of Praise come on give the Lord a shout oh God could me put your hands together for Jesus w oh do me come on and sing with me he could do me lift up your right hand and say my give you could do me w m is oh in oh why don't you lift up your hands and say oh you good to me SA lift up your right hand and say me J Hallelujah who everybody sing with amen amen everybody sing with me J

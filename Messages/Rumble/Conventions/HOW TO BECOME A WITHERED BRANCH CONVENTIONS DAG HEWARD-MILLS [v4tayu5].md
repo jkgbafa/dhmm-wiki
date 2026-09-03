@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tayu5/"
 duration_min: 177
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Number one, you cannot handle knowledge, lack of knowledge. What happens when they pour water in hot oil? But we are driving that spirit away from us, hallelujah. That will be able to handle knowledge, and then what else? Experience or understanding, understanding, and what else?

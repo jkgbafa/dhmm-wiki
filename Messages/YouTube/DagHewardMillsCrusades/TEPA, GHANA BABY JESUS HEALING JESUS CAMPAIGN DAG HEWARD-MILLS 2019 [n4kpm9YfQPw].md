@@ -8,6 +8,8 @@ year: 2019
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Let's stop your hands. That is if I know. I do say that for you. I come in so you have some problems, I'm so in the sun, that's what we have so many problems. I've got an art in a bit sooner I've got in a problem that's so beautiful, I'm so in a shot, I come in on this, I got it so we have problems.

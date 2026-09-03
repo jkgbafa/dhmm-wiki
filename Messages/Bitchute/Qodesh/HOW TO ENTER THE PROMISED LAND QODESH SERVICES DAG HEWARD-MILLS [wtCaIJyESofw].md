@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/wtCaIJyESofw/"
 duration_min: 108
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Just lift your hands, close your eyes in his presence. Concentrate on what we are doing. We thank you, Jesus. We thank you, Jesus. Let me see.

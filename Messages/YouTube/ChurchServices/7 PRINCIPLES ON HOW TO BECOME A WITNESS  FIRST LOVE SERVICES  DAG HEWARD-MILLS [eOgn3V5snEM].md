@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=eOgn3V5snEM"
 duration_min: 270
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you take me in finding peace again Fe is lost of You Are unfailing heart overtaking my heart take me take me finding peace finding PE all our fear is lost in the grace and the mercy of God is you are come on someone lift up your hands and sing to Jesus I will give the word I will give the world to tell you believe that you called by God you called onto good works I know that you me I've lost myself for good lost myself Pro i i Jesus I believe Jesus I believe in someone

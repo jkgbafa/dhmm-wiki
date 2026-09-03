@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=X4IVc1DNpuA"
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Vision and Direction"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/vision-and-direction"]
 ---
 
 no to yes to the occ and nab erding of cheech so we look at how to grow the church and mayor of Hamel Ndam of the freebox a jacket category shades big girl to you book in this category don't let go of this church the planting of organizations and gattières and the mega church vis to fruit trumpeter outside amm chair in about these are the three subjects on which I preach of megachurch the mega baroque churches of church Cannes biblical it means that the church is big to compete with everyone there is big a mourning

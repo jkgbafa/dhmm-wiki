@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=gwxoORl9KOw"
 duration_min: 173
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we are blessed to be in the house of the Lord and um we thank God for this opportunity I am going to share with you something small on about on um the importance of paying tithes amen now people do not pay tithes Christians do not give tithes and offerings because they are often disloyal and from today disloyalty will not be associated with you in John 12 and verse4 the Bible says then said one of the disciples Judas Iscariot Simon's son which should betray him why was not this ointment sold for 100 300 p and given

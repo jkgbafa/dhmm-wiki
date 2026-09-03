@@ -8,6 +8,8 @@ year: 2023
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism"]
 ---
 
 Lord we welcome the Holy Spirit have your way we come in the name of Jesus we bind every work of the devil we bind every demonic presence in the name of Jesus now let the angels of the Lord be released in Jesus name amen amen God bless you you may be seated tonight or this afternoon I believe this is an afternoon Crusade um I want to thank the pastor again of Madagascar thank you for your great support God will send people to support you for every seed you have sold in this crusade in Jesus name

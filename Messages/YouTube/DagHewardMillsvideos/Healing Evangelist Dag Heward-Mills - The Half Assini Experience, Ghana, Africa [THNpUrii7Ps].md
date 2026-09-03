@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=THNpUrii7Ps"
 duration_min: 26
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 out keep second demon power come out in Jesus name come out in Jesus name come on hor me horse me h going spe on the southwestern shores of Ghana in the western region nestled between the Gulf of Guinea and the Ivory Coast lot dvoa is a small but important town named harini harini is the district capital for the jam District jamur means fresh fish in the local dialect half's real name is a and it's supposed to mean the end of enzima centuries ago this region received European Merchant ships which arrived to trade with Coastal forts

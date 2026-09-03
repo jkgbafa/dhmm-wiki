@@ -8,6 +8,8 @@ year: 2000
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 hallelujah shall we be to the Book of Daniel I want to share with you this morning something important from the Word of God amen hallelujah right I want to share with you from the Word of God how many of the Word of God is very important okay seven steps well the number of steps will be determined but the title is how to overcome impossible situations how to overcome impossible situations now I believe that as we go on in life we are likely to meet some situations which look impossible to overcome so we just call them

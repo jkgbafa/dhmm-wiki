@@ -8,6 +8,8 @@ year: 2024
 duration_min: 124
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 thank you very much oh clap your hands and let's appreciate him CLA keep clapping because weing to bless us with some good music Give the Lord a shout amen siss lift up your hand and say go Sor lift up your hands to me would me come on lift up your hand come on and say lift up your two Sor hey give the Lord a shout L shout shout for Jesus he lift up your deser he come on lift up your everybody lift up your hands say Give the Lord a shout Give the Lord a yeah

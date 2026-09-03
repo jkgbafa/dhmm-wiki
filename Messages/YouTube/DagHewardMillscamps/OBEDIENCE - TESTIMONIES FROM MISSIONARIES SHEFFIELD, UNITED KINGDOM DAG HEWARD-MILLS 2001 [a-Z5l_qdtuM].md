@@ -9,6 +9,8 @@ duration_min: 73
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/OBEDIENCE - TESTIMONIES FROM MISSIONARIES  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001 [a-Z5l_qdtuM]]]"
+topics: ["Missions"]
+tags: ["topic/missions"]
 ---
 
 Welcome to track number 18 pastors of thousands. Alright. Um, how many have obeyed the Lord before you were glad you obeyed? And how many didn't know? Pastor Joe, have you obeyed the Lord before you're glad you obeyed?

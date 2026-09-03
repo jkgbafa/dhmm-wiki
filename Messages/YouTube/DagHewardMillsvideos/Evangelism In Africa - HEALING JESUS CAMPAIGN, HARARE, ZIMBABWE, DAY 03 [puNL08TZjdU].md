@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=puNL08TZjdU"
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Jesus loved me I don't know what to be strong yeah g/b yeah me we'll wash away my baby oh yeah Bible tells me to hallelujah man ladies and gentlemen dokin brahma asha zero - please sit fujimaki or a moon Seguros any mogari Padre joão no one say another sign please happen upon a kazoo mocha teasing Gargery Posse Harare has experienced a great visitation from the Lord rreow wanna push on you aku Rubicon amun-re we've had two powerful night of his word and its power the colony was severely with Sakura many symbols night Mandarin our night

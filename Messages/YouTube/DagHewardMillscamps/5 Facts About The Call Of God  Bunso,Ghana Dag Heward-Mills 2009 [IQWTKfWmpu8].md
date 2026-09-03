@@ -8,6 +8,8 @@ year: 2009
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 now I'm going to share with you from my new book called many are called it's a book that is not out yet but it's it's written it it's in existence but it's not with you chapter one why you are still alive now listen the first there there are 10 things that I believe the lay man I believe there are 10 things 10 or seven one of them they are all perfect numbers seven is a complete perfect number of God 10 is also one of the perfect numbers we have 10 commandments you don't need any more

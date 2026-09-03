@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=e-zSF7Gz-C8"
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 This is the moment you have been waiting for Hallelujah. I want you to expect. I want you to expect great things tonight. Expect signs and wonders. Expect the power of God.

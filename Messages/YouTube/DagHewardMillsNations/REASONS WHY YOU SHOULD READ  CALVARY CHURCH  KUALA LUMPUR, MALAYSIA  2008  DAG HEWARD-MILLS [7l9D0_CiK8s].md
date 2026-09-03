@@ -8,6 +8,8 @@ year: 2008
 duration_min: 53
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring"]
 ---
 
 Hallelujah um like I said um there is this particular thing that I wanted to recommend uh that is this the macire it contains the camp meetings which are a very powerful uh blessing apparently there's only one left so um I want to give it to Pastor Hammond Pastor Hammond so he can make copies for you and give it to you what whatever it cost I don't know huh come on Mohan Mohan okay pastor Mohan so Pastor Mohan has it and you sort out with him he can duplicate if he does it free you are blessed

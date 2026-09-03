@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=39-m7AZcAEw"
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 welcome to Trio praso a town whose name literally means tree speaking people on the river pra w since the beginning of time water has dictated the pattern and spread of human populations across the face of the Earth throughout the course of history Rivers have sustained millions of livelihoods and countless civilizations great cities and nations were established along rivers tro praso a town located in South Central Ghana is also a town which developed on a river trifo praso is a town located about 215 km east of its capital Acra it has a population of about 10,000

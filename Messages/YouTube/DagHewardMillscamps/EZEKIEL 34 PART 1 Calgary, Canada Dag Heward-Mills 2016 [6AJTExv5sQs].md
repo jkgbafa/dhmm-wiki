@@ -8,6 +8,8 @@ year: 2016
 duration_min: 151
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Missions", "Missions/The Nations", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/missions", "topic/missions/the-nations", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 you really do you find the spiritual people who are prospered have money have this have that spiritual no no one one time I visited him Bishop danan William some of you know him he's a pastor in Ghana I used to go to church there when I was in school I visited him he had dressed up he was going to the airport he was traveling some where then actually he came from a service then he passed through a corridor when you are walking through the corridor you you know that you are in a great place yeah

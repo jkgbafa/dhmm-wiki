@@ -9,6 +9,8 @@ duration_min: 58
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/YOU WILL HAVE A GOOD SHEPHERD ROSEAU, DOMINICA DAG HEWARD-MILLS 2024 [mXMIQDTekUk]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 the songs are fantastic because the song the song says everything you don't know how to say but it is being said in the song Yes amazing now number two I have already given you all the points so God sent his son into the world so that you would have a good shepherd for your life amen now John chapter 10 verse number 10 Jesus said the thief comes to steal to kill and to destroy but I have come that you might have life and have it more abundantly or in abundance to the full till it overflows

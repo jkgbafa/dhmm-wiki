@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2018
 source: "autocaption"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Be ready for a long fight. Be ready for what? Joshua 11:18. Joshua made war a long time with all those kings. So when you are fighting the in the kingdom of God, you must be ready to fight for a long time. The church is going to be built with a long fight for your whole life. That's why you must start early as a young man. Amen. You cannot be a pastor or a leader and expect everything will finish soon. Huh? Amen. Amen. What do you think? Four things that require a long fight. Number one, building

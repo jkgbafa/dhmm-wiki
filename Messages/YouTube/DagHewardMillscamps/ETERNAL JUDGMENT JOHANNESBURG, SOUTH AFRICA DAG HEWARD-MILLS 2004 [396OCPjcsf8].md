@@ -9,6 +9,8 @@ duration_min: 80
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/ETERNAL JUDGMENT  JOHANNESBURG, SOUTH AFRICA  DAG HEWARD-MILLS  2004 [396OCPjcsf8]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Welcome to track number four of church planting. Turn with me to Hebrews chapter 6. Hallelujah. Hebrews chapter 6, verse 1. Therefore, leaving the principles of the doctrine of Christ.

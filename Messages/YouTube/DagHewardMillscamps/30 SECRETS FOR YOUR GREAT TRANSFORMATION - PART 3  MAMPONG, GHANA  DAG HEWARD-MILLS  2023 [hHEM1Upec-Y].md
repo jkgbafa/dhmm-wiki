@@ -8,6 +8,8 @@ year: 2023
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 father we are excited today in Jesus name amen amen you may be seated okay most people are still coming but we shall continue how many numbers did you get 12 12 12 number 13 why is this church not working stabilize console bless and assure yourself and your church through the books end depression through books or bring an end to depression through books Acts chapter 15 verse 23 and they wrote Letters by them after this manner the apostles and Brethren sent greetings unto the Brethren which are of the Gentiles in Antioch for as much as we

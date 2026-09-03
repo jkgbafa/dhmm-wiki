@@ -9,6 +9,8 @@ duration_min: 4
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/SALVATION AND JESUS GTWC PARIS DAY 3 SESSION 9 2025 DAG HEWARD MILLS [PtokpnjJvPM]]]"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 Section salvation 8: Salvation and Jesus. Amen. Who is Jesus? I am the path, life, life. Can you preach about Jesus Christ ? So this is a message you can preach when people don't believe in Jesus; they have another savior. So you preach message number 59. Look at message 59. Let's look in the table of contents. OK. OK. It's there. Why do so many people believe in Jesus Christ? Can you preach that? For what ? For what ? Number 1, number 1 Jesus, he healed every kind of disease. That really touched a lot of people. Number

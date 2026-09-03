@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=vz5cc6xd-jo"
 duration_min: 24
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 Father, we give you thanks, Father, we give you praise. Father, we give you thanks, we give you praise. Father, we give you thanks, we give you praise. Father, we give you thanks, we give you praise. We give you thanks, we give you praise.

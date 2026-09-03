@@ -8,6 +8,8 @@ year: 2014
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 it's the time now it's the time I'm saying now it's the time now you have the chance the Lord is calling you just take it by the hand never never let it go I say you must work for him oh you must work for him it is Jesus calling now it is Jesus lesson don't don't look to your left don't look to your right you will stand alone on the Judgment Day I say on the Judgment Day you now you have the chance the Lord is calling you please don't let the devil cheat you you

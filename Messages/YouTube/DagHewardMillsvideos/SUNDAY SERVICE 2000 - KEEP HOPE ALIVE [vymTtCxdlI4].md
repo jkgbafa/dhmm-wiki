@@ -8,6 +8,8 @@ year: 2000
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/faith", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 amen let your hands with me let's worship the Lord holy holy Lord Hey Oh yo hello Noorie holy Lord you away Oh and I'm on I love me yah ha Oh come on away ah Oh father we thank you for your presence thank you for your power thank you for your healing anointing thank you for your saving anointing thank you for your restoring ability we worship you we welcome your power your presence here today Holy Spirit you are welcome to have your way to heal our lives long to teach us to feed us that we

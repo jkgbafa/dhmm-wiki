@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hRME_db9YLA"
 duration_min: 161
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 please put your hands together and let's welcome the chairman of the central planning committee of healing Jesus Camp praise the Lord may I take this time and uh say thank you to all of us who are here this afternoon allow me to to pass this special greetings to our evangelist Mills and his team the Board of Trustees the central planning committee these are the people who have been working around to make sure that this uh campaign is a success special greetings to our honorable Minister the minister of former Affairs and special greetings to m M

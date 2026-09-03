@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=WLOyZa4JxNk"
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 but nothing good to us a man what a thing how good you have me ah I'm tired all right you Oh yah Oh you we must Jesus came to rescue of a man tell somebody that came to rescue us there's like explains Christmas about a week ago I'll be by his bed was very significant email and I know he rescued my soul Alleluia I know my nameís taken away the stone that's us on the [ __ ] I know your estimate oliso my name is taken away now let's raise up on a rock every day

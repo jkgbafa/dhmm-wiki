@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=aK-h71t1UjY"
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit", "Wealth and Finances"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit", "topic/wealth-and-finances"]
 ---
 
 let us pray father thank you for the blessing you have given us today we pray that you guide us and lead us into all the truth in Jesus name Amen how many of us here are pastors how many are not pastored without the anointing of the Holy Spirit you cannot work for God amen can I have an amen you cannot work for God and we need the Holy Spirit to make us able to do the work of the Lord hallelujah why do we need the anointing and I am going to be reading from one of

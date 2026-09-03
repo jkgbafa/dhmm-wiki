@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=lrxaBQ4BAxs"
 duration_min: 146
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Yesou ti amica ti bessu tchotani Daniel Dafan Fali Oh Fanan Sitzamanda Yesou T's Lambian Oh Yesù Oh Yesù Batia Batia Yesu Yesu Tia Yesu T'y Amiga Oh Yesù Mouli B'Uani Moi Yesu Mois Amo Que Dali Sandy Yesu Libane Pour Mouti One D'Il Sophia Passay One di chosen vote non dinamit on the veteran Bambi Saiyasou Bamina Besai Bambi Sai Ananisu Manda Yesu Tia Mika Kwa Mouya Vina Vina Vira ta su vira subi Iesou Manda Yesou amika Tchoshi Chi Chi Amiga Yesou ti amiga Yesou Ti ambi Iesou Ti t'amanda Yesou Mika Kwamuya Ti amika Yesou Bi layesou

@@ -9,6 +9,8 @@ duration_min: 95
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/INTRODUCTION   WINDHOEK, NAMIBIA DAG HEWARD-MILLS  2016 [ncEVo3J8qmc]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number one of Where is the flock that was given thee? What a blessing. What a blessing. What a blessing. What a great blessing.

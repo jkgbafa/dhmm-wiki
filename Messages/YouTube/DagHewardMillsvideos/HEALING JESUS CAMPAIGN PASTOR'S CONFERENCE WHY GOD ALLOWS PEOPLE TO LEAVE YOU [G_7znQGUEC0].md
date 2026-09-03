@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=G_7znQGUEC0"
 duration_min: 193
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 - Sandhya he has busted me for over 20 years everything you are hearing from me came because I had a good pasta may your members also say the same thing about you one day clap your hands for Jesus you may be seated so remember your ministry can be transformed get it to change your life how to be a good shepherd the art of shepherding the art of shepherding then what it means how many of you are believing God to be the good type not a battle the Goethe clap your hands for Jesus move and ladies

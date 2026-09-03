@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=gRSVJ5rsxvs"
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism"]
 ---
 
 Wow, are you ready for tonight? Hallelujah. Amen. Well, tonight. Before we go any further, we want to invite us the chairman of the board of trustees.

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2013
 source: "autocaption"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Chapter 26. Always learn new things. You must always learn something new. Four signs that you are not learning anything new in your life. I am giving you four indicators. These indicators will prove to you that you are at a stage where you have stopped learning and you think you know Ecclesiastes 4:13 I am going to give you the Bible says better is a poor and a wise child than an old and foolish king who will no longer be admonished. He will no more be taught. He's no more learning a new thing. learning. Now, many of

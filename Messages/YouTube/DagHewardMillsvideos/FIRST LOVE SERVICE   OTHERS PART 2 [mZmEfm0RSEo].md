@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=mZmEfm0RSEo"
 duration_min: 174
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh Oh sings a lot whistling yo yo yo he never see you soon oh you're wait yo you so let's go back yes a few bras from the brother bring from the brain to the histamine hi after the prize my birthday from the brother's grave come to places I don't believe me yeah you can't remember to restore the way from back to the prize from the breast to the brain from the place to the time come on Ali Freeman hi what I love to sing the praises I'm so glad you came I'm so glad you

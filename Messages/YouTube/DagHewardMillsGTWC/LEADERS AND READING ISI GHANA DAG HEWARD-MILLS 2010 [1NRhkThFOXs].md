@@ -8,6 +8,8 @@ year: 2010
 duration_min: 145
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 The greatest this is a book, the quiet time. If somebody was to ask me which book would be the most beneficial book I would say the quiet time calm. But many people would not be attracted to this book. And I don't blame them. Because the things in the kingdom of heaven are like a treasure hidden in a field.

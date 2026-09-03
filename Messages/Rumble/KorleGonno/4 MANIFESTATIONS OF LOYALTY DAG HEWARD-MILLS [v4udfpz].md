@@ -7,6 +7,8 @@ url: "https://rumble.com/v4udfpz/"
 duration_min: 39
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 It's been a great a great great change. Oh yeah since I made God It's been a great change since I met God Oh it's been a great a great change since I made God It's been a great great great change since I gone It's been a great change since I make God It's been a great change since I made God Oh yeah the things I used to do I do them no more the things I used to say oh no I say them no more the thoughts I used to think oh my Lord I think

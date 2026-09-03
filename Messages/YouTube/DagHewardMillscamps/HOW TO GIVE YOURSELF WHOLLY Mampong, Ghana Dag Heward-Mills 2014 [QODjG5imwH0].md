@@ -8,6 +8,8 @@ year: 2014
 duration_min: 175
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Salvation", "Salvation/Backsliding"]
+tags: ["topic/marriage-and-family", "topic/salvation", "topic/salvation/backsliding"]
 ---
 
 in the latter times some will abandon their faith and follow deceiving Spirits amen or if we read very simply from the King James Bible it's quite clear over there it says um now the spirit speaketh expressly that in the latter times some shall depart from the faith giving heed to seducing spirits and doctrines of devils amen speaking lies in hypocrisy so he he goes to give him a whole lot of advice and at the very end he says um give yourself holy to these things meditate on them amen is there a is there a meeting

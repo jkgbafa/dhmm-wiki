@@ -8,6 +8,8 @@ year: 2025
 duration_min: 162
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Vision and Direction"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/vision-and-direction"]
 ---
 
 Thank you very much. Let us pray. Father, thank you so much for today. What a blessing we have to be with you today. We pray for your grace, for your spirit to lead us. Let your will be done. We are thankful, Lord. We're grateful in Jesus' name. Amen. You may be seated. What a blessing it is to be with you again. First time here in Arizona. And um I believe God is blessing us. Want to thank Pastor Jonathan again for inviting me here. God bless you and your family and the whole family. Amen. I'm part

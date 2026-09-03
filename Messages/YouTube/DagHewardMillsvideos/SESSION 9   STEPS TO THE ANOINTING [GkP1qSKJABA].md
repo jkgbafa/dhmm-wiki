@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GkP1qSKJABA"
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing"]
 ---
 
 Green de lancer schnebli d'atos a professed for name the last session there was a prophecy I believe about growing going to give you some steps and that God was going to give everything steps of Aragon of the trio out of hell is certain the words that will make you leave a certain level and even a visa v steps here are the steps in the BlizzCon is grandiose of TQS and I believe you will use to get out the word a number one of the main ones of the steppes of Versace h the step of modeling

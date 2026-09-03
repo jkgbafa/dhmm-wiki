@@ -4,6 +4,8 @@ book: "Not A Novice"
 book_number: "079"
 chapter_number: 7
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ### CHAPTER 6\

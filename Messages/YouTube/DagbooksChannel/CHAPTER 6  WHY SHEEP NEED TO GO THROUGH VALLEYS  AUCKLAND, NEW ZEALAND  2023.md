@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 Number five, take sheep through the valleys. Take ship through valleys. Now, God does not only lead us through the mountains, but also through the valleys. Amen. He does not only lead us through the valleys. Amen. Amen. But through he does not only lead us through the mountains but through the valleys. Now when I see a young person, my problem and that's the problem with everyone is that the young person doesn't have experience with bad things. Do you see? A young person doesn't have experience with bad things. That's the problem with young people because in a

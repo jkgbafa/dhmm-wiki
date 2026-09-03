@@ -8,6 +8,8 @@ year: 2003
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Well track number two of gates and roads. Uh concept of the gates and the roads. Amen. Now when you open up a gate, all right, you are opening up yourself to many, many things that come through that gate. Are you listening to me?

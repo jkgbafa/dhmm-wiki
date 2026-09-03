@@ -8,6 +8,8 @@ year: 2010
 duration_min: 194
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 now we are going into the greatest tasting experience of all time yeah and the unfortunate result of the Great Taste what happened numbers 13 the greatest taste tasting experience of all time history's great test taste all right can I have the other microphone please can I use that one brother thanks very much okay hello all right now then the Lord spoke to Moses saying send out for yourself men so that they may spy out the land amen and the Lord spake to Moses saying send out for yourself men so that they may spy out the

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ZwXKT8iOK3c"
 duration_min: 186
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ah the game already to use that you were doing can you face to face your Townsend and see the corner you wanna come in this place you are displayed you are worthy I read through you I like me you are nothing this after coming to your browser the game to worry so it's a nice face to face your mouth and I feel corners of your way and I can leave he was awesome and play my you are the main display you are worthy of our what like me ready you are awesome and my you dummy

@@ -8,6 +8,8 @@ year: 2015
 duration_min: 76
 source: "whisper"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Oh Lord, I'm your willing survivor. You know that I've been for years. I'm here in this view every Sunday and Wednesday I've staying with many. I have given you years of my service. I always give my best.

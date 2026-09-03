@@ -8,6 +8,8 @@ year: 2025
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now I want to show you another seven steps. Maybe these seven steps are not for you, but another seven steps can be for you. Let's look at the seven steps to the anointing in the wilderness. After the wilderness, the Bible says in Luke chapter 4, verse 15. It says and Jesus returned in the power of the spirit.

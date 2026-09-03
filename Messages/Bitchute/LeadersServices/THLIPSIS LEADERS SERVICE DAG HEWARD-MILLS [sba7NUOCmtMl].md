@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/sba7NUOCmtMl/"
 duration_min: 70
 source: "whisper"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 Let's pray. Father, we thank you for your blessing today as we receive your holy word. Bless us and encourage us. In Jesus' name. Amen.

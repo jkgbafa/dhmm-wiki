@@ -4,6 +4,8 @@ book: "Why Is This Church Not Working"
 book_number: "088"
 chapter_number: 16
 type: book
+topics: ["Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 ### Chapter 15\

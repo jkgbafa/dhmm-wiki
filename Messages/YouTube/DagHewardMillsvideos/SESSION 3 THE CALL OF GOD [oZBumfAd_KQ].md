@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=oZBumfAd_KQ"
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Call of God"]
+tags: ["topic/ministry-and-pastoring", "topic/the-call-of-god"]
 ---
 
 right hallelujah hallelujah now we are continuing the low continuing we shall take the first foundation in news Alejandro Rubio I have seven of them Johnny set and I hope that we will be able to go through these foundations for your ministry if these foundations are not there it just packages a long one to live what if you never pass upon them all it well you can retake the foundation with Olli Pokemon sales of Othello fondant fondant and the first foundation is what I call the call of God Allah premier for the mortal appendages your whole

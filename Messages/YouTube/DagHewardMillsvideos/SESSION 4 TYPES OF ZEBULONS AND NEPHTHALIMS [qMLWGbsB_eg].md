@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=qMLWGbsB_eg"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 hallelujah let us stand everybody everybody standing and let us pray father thank you for the blessing of your Holy Word today guide us lead us minister tennis into candles for your well says that no one lights a candle and puts it under a bushel you have let us up O Lord and made us candles use us for your glory send us O Lord choose a balloon and Naphtali where people are waiting to hear from us we thank you Lord in Jesus name we pray amen you may be seated by your fellow candle greet your fellow

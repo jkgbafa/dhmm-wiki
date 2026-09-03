@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u62le/"
 duration_min: 79
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wisdom"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wisdom"]
 ---
 
 Shall we pray? Father, thank you for this morning. As we come before your holy word, we thank you. We bless your name. We ask, Lord, for the spirit of humility, openness, that we may be in your will, we may walk in your ways, grow up into all things that you have for us.

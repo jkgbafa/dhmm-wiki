@@ -4,6 +4,8 @@ book: "How Can I Say Thanks"
 book_number: "063"
 chapter_number: 3
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ### CHAPTER 2\

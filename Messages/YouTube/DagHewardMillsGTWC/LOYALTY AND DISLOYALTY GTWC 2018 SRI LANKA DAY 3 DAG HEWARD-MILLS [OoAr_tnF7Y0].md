@@ -8,6 +8,8 @@ year: 2018
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 As we go forward in this new dimension of lay ministry, one of the things we need is loyalty. Loyalty. So I want to go to discuss loyalty and disloyalty. Now your country is just like Switzerland. In Switzerland, we have three languages.

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tp52q/"
 duration_min: 96
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Alright, we want to um read. This is a message of Paul the missionary, and um in Mars Hill in Athens, all right. Are you there? Then Paul stood in the midst of Marshall and said, Ye men of Athens, I perceive that in all things you are too superstitious. For as I pass by and behold, held your devotions.

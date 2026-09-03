@@ -8,6 +8,8 @@ year: 2013
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Praise the Lord. Hallelujah. I want to thank God for this evening and for the opportunity he has given us all to be here to give thanks and praises to him. To return thanks and praises to God for all the wonderful things he has done and continues to do in our lives. Would have loved to be here with us this evening to worship with us to fellowship with us and to return thanks to God for all that he's doing for Sierra Leone.

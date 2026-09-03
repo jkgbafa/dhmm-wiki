@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=d-I64alUWjo"
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh when Oh the ring the only one young man it was my one Thanks yes they give him all night it answers the question it is your father my amendment money and we practice man one time and Jenny we also thinking about a bullet you are wrong so no relieve alone the house makes rainforest Wow you are naima Oh ooh with you other worship theory thank you but they've drawn us to you it's your course we bless you for the fresh fish that we have finding you in Jesus name Amen buddy all together for the

@@ -8,6 +8,8 @@ year: 2014
 duration_min: 155
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Seven methods for dealing with disloyalty. Number one. Point numéro 1. The teaching method. The method of dealing with disloyalty.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ZCC-cb6OtTA"
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah clap your hands for Jesus tonight are you excited tonight Cara don't execute this rock at all how do you excite that tonight hallelujah hallelujah you may be seated I see you you may be seated well we gotta find a place to sit here in the plan tonight is that bad night it is a lapidary God has something special for you Jessica show dismissed well please join me tonight to welcome Vivaldi to give us a song hallelujah hallelujah kiha Buddha do here boo bah bah Oh Daniel 1 : Eli let my in my doorman mansion

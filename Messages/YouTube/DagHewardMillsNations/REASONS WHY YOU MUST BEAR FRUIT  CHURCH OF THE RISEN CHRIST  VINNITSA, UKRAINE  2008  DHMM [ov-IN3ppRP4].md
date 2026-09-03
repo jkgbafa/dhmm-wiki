@@ -8,6 +8,8 @@ year: 2008
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 thatana SL Gospel of SL J for that a for no yes for PR hallelujah hallelujah it's a blessing to be here tonight and I believe God is going to touch our lives in these three days that I I will be sharing with you can we all stand up and share a word of prayer okay heavenly father thank you for tonight we are praying for for your spirit and your presence guide us and let your will be done we thank you for your spirit's presence we will never be the same again we are thanking you Lord

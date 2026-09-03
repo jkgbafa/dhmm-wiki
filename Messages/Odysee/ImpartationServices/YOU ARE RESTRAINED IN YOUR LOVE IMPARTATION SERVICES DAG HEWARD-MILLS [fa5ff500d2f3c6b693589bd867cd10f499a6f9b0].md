@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/you-are-restrained
 duration_min: 82
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Hallelujah. Father, thank you for your blessing in Jesus' name. Amen. You may be seated. Hallelujah.

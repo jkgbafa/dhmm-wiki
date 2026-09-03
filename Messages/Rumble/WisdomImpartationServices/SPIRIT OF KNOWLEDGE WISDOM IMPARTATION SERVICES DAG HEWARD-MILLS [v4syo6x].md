@@ -7,6 +7,8 @@ url: "https://rumble.com/v4syo6x/"
 duration_min: 170
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer", "Prayer/Praying in Tongues", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 We ask for your great and powerful guidance in this wonderful wisdom impartation service. Guide us by your wonderful presence and your wonderful spirit in Jesus' name. Amen. You may be seated. Right.

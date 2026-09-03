@@ -9,6 +9,8 @@ duration_min: 56
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HOW TO START A CHURCH  BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2001 [OsE2L7bqTck]]]"
+topics: ["Missions", "Missions/The Nations"]
+tags: ["topic/missions", "topic/missions/the-nations"]
 ---
 
 What I'm saying, do you think it's right? 100%. If I want to form a millionaires club, but you know something? I've got some people in America, they they have money, but they don't seem to have this problem. I've got a group of people called a millionaires club.

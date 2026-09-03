@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xcdubVv0SFY"
 duration_min: 70
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 as so many things I've left of the ministry from death receiving of knowledge that's why I travel to Korea to well fine about dr. Cho it has changed my life and my ministry as I travel I do the nice fill money to get things and I study them and read them and listen to them because Christ is not only power his wisdom and Christ's spirit his wisdom understanding knowledge counsel might the spirit of motion be upon you Street of wisdom straight up understanding spirit of closer period of my series on the fear of God even

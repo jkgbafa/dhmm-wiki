@@ -8,6 +8,8 @@ year: 2025
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Spiritual Warfare", "Spiritual Warfare/Curses", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Just lift your hands and thank him for what you are about to receive. It's called prior appreciation. Before it falls into your hands, you say thank you. Something is about to happen to you and I. And we are thanking God. We are thanking God. Thank you. Thank you. That hand clap is spontaneous. Let it continue. Yes. Let it flow from your heart. Let it flow from your heart. Supreme Day. SOMEBODY IS BEING BLESSED ALREADY AS YOU clap your hands. Thank you, Father. Our lives will never be the same again. In Jesus name, you may be

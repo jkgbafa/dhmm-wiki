@@ -8,6 +8,8 @@ year: 2025
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Now before we close tonight, because it's getting to 8:00 now, Isaiah chapter 2. Isaiah chapter 2. And it shall come to pass. Amen. It shall come to pass in the last days that the mountain of the Lord's house shall be what? established established in where? In the top of the mountains and shall be exalted above the hills and all nations shall flow into it. Lift your hands. Whatever it means all nations let it happen practically. Anyone restricted to one nation beginning from today, you are released to relate with other nations in your ministry in the

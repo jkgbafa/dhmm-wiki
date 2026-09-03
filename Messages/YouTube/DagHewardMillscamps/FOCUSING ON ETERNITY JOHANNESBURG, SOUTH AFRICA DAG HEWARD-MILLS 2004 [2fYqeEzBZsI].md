@@ -9,6 +9,8 @@ duration_min: 77
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/FOCUSING ON ETERNITY  JOHANNESBURG, SOUTH AFRICA  DAG HEWARD-MILLS  2004 [2fYqeEzBZsI]]]"
+topics: ["Heaven, Hell and Eternity"]
+tags: ["topic/heaven-hell-and-eternity"]
 ---
 
 Welcome to track number one of church planting. I've seen people dying on the wall. It's one of the frightening things when someone knows that he's going to die. It's one of the terrible experiences. They are frightened beyond their wits.

@@ -9,6 +9,8 @@ duration_min: 12
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EMPTY YOURSELF OF A VISION TO BE A WHITE MAN  SEVENOAKS, UNITED KINGDOM  DAG HEWARD-MILLS  2002 [d3653ptp8vg]]]"
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 Welcome to track number eight of all out the next vision. Empty yourself of the vision to be a white man, and to be like white people. You cannot, you will never. It doesn't happen. Go to America.

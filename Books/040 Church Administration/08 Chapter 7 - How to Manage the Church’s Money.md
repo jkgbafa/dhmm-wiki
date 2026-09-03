@@ -4,6 +4,8 @@ book: "Church Administration"
 book_number: "040"
 chapter_number: 8
 type: book
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 ### Chapter 7\

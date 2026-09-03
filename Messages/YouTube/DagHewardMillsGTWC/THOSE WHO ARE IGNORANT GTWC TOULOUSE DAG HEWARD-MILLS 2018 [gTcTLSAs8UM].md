@@ -9,6 +9,8 @@ duration_min: 117
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THOSE WHO ARE IGNORANT  GTWC TOULOUSE  DAG HEWARD-MILLS  2018 [gTcTLSAs8UM]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Father, we are so excited. To be in your presence, guide us. Conduit nous. Lead us. Dirige nous.

@@ -4,6 +4,8 @@ book: "The Determinants"
 book_number: "052"
 chapter_number: 12
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 ###  Chapter 11

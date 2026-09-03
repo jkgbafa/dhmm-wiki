@@ -8,6 +8,8 @@ year: 1998
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 and when we came he was insulting that the pimple on my face not he was saying that made the pimple my face let the head that is in the fish hook hat move out and come out that's why some women they are married but they don't love their husbands anymore cuz deep down something that he said they have not released it something that that man did to you you because of that you are you have taken that problem on all men maybe before you married you you had a baa boyfriend and that Bor did certain

@@ -8,6 +8,8 @@ year: 2019
 duration_min: 149
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 You date your dead day. You day your dead one down for papisa never sound for a baby. Why never so may one for power may not have my new sound poopy listening, Jesus for my father Maybao, so one by ya to say Hallelujah. Wa mammy sounding a mamma a mama and mamma one boy so one more yeah, so what saying I want some come and come and come, I want some come and come up, I want some yaw so ya want some come and come up to me and yes, go to me and your sink, your ship, see gallop comfort, take a look for me water, missing papa water, messar water, missing brother water, why I see yes so by ya or two me.

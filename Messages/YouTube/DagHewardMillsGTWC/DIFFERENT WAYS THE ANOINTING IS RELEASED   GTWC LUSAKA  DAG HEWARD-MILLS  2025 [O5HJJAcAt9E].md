@@ -8,6 +8,8 @@ year: 2025
 duration_min: 12
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Hallelujah. So today you are receiving seeds. Oh, you are receiving master seed. You see what we are doing in this conference is just a mustard seed. It's a small thing. I just preached for a short time and you have listened to a short message. It's a small seed for your life. But you'll be shocked. When somebody gave me Kenneth Aen's book, he didn't know he was giving. I didn't even know what was happening. But a seed was being given to me. A small seed. A small seed. A small seed. Just a a book small like

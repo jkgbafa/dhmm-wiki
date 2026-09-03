@@ -4,6 +4,8 @@ book: "All About Fornication"
 book_number: "125"
 chapter_number: 6
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Deliverance"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance"]
 ---
 
 ## Spiritual Steps to Avoiding Fornication

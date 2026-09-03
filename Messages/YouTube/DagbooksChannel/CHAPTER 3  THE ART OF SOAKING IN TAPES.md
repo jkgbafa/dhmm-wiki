@@ -3,6 +3,8 @@ title: "CHAPTER 3  THE ART OF SOAKING IN TAPES"
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Anointing", "Prayer"]
+tags: ["topic/anointing", "topic/prayer"]
 ---
 
 The art of soaking in messages. Amen. Hallelujah. When you when you listen to a message like now, you are not soaking it in. What you are doing is not called soaking. Amen. Can I have a towel? A towel and some oil. Small towel and some oil or water. Yeah. Very small towel. Okay. Now whenever you hear a message, faith comes, you believe in the message in the word of God. But apart from that, you receive the spirit. Amen. John chapter 6 verse 63, what does it say? The words that I speak to you, they are

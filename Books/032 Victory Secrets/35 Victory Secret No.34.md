@@ -4,6 +4,8 @@ book: "Victory Secrets"
 book_number: "032"
 chapter_number: 35
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Victory Secret No.34\

@@ -3,6 +3,8 @@ title: "CHAPTER 1  HOW TO IDENTIFY A FATHER"
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 many different people who are going to come along and minister to you in your life. All right? And Paul counted as many as 10,000. But there are going to be a number of people, not only one person. I believe that you are going to have more than one person as a father because he says, "For you have not many fathers." He could have said you have only one father but you have not many fathers that in the ministry several or not even several but a few people become like fathers in your life. And what what

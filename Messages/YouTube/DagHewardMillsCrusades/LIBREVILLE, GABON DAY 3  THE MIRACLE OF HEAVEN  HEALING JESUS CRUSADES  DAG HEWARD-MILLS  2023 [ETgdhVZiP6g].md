@@ -8,6 +8,8 @@ year: 2023
 duration_min: 203
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 You are great, you do wonders tonight, ah, can we say it together? Yes, God, you are great, God, you are great, yes, I am, you are great, you are, you are. DISM, say, say again that you are great, that you are, can the people tell you again tonight, you are great, that you are great, you are great, that you are, that you are, you are great, you are great, you are great, you are You are, that you create, Jene Mirac, because there are promises, light in the, my God, that's what you are, with me, creator,

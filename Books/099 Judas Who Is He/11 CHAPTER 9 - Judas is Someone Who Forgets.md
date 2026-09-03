@@ -4,6 +4,8 @@ book: "Judas Who Is He"
 book_number: "099"
 chapter_number: 11
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 ### CHAPTER 9\

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=EJeJqu-fLe0"
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 are you in the presence of the Lord is it not fantastic and if I come to pass you shall be increased in the land the 17 and at that time these are called Jerusalem the throne of the Lord they see we've come to the heavenly Jerusalem and these are come out together of the land of the north to the land that I've given for an inheritance to your father's God has given you 100 plots and parcels of land in this nation it's for you go and take the in health dog I want Joshua's and collapse

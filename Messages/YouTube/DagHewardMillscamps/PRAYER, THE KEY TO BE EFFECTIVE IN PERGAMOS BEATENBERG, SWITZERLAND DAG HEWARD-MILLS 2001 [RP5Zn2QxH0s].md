@@ -9,6 +9,8 @@ duration_min: 50
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PRAYER, THE KEY TO BE EFFECTIVE IN PERGAMOS  BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2001 [RP5Zn2QxH0s]]]"
+topics: ["Prayer", "Prayer/All-night Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/all-night-prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 Welcome to track number 12 of victory in Pegamos. Everybody say the ministry work is prayer. Amen. John chapter 16, verse 7. It says, Nevertheless, I tell you the truth.

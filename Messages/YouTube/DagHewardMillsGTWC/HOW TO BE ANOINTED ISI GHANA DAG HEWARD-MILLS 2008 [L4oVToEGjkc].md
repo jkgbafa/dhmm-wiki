@@ -8,6 +8,8 @@ year: 2008
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 With my whole heart I have sought you. Let me not wander from your command. Let me not wander from your command. With my whole heart. I have sought you.

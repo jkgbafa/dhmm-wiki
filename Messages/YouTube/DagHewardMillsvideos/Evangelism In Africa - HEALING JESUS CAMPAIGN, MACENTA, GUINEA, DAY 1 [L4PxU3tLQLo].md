@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=L4PxU3tLQLo"
 duration_min: 133
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 but that Alleluia to lemo tiempo de duque a Kia party a party upon Alleluia Yasha take it to your fan yella laughs a normal burger do your bad days are gone little Louie I love it Full Monty sandé to Malta Germany once over done lovely show done last surprise to many baby Julie time enough at all g-man Hong combo to our home on that is Umaga let there any once over non-love flicks you're done lots of fun to really read do Lisa another song Eman what on Formosa take it to your bed yeah I'm back

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tvnm2/"
 duration_min: 128
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 We thank you for your blessing. We thank you for the opportunity that we have to come in your name to do your will to do your purpose and to preach your word, establish your will. Oh God, we ask you to guide us, lead us and bless in Jesus' name, amen. You may be seated. Well, we are gathered here this evening for the purpose of ordaining our shepherds to be ordained shepherds into the ministry.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4wmXA8UPXEE"
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah all right let's pray thank you Father for this opportunity thank you for your word we ask you to guide us and lead us by your spirit thank you thank you Lord for your blessing Holy Spirit lead us and let your will be done in Jesus name amen amen you may be seated great what a wonderful church are you glad to be in the wonderful Church all right okay today I want to share as you know we are going for Crusade so we are going to have J Services after h b sorry so all the

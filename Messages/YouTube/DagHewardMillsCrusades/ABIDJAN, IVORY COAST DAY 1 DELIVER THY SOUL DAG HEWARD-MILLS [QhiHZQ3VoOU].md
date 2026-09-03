@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=QhiHZQ3VoOU"
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Est-ce que vous êtes prêts? Est-ce que vous êtes là? Prime pour Jésus. Pour Jésus. Qui a plus fort.

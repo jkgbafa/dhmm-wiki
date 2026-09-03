@@ -8,6 +8,8 @@ year: 2023
 duration_min: 34
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Salvation", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/salvation", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 I want us to see what does salvation do for a person what does salvation do for a person salvation brings you near to God Ephesians chapter 2 and you has he quickened oh wow who were dead in trespasses and sins so when people don't know Jesus Ephesians chapter 2 they are dead in trespasses and sins wherein in time past you walked according to the cuse of this world and according to the prince of the power of the air the spirit that now worketh in the children of disobedience among whom we also had our conversation that's

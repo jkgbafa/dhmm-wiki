@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tEEPJYtmqv8"
 duration_min: 182
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 everyone goes through trying times but joy comes in the morning it seems hard to find he gives us P for you and I and in everything now it all then go hard and you even more can I keep you more oh then you can set one eye crises this I'm gonna get hola I'm looking forward nothing for my shoulder I've come here but you're kind of must endure so I'm looking I'm looking anybody with you feeling small when tears are and your eyes I will try to move Jesus when you're down in LA when the

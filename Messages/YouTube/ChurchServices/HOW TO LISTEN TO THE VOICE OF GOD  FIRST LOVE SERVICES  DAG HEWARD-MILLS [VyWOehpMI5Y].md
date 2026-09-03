@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=VyWOehpMI5Y"
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth", "Vision and Direction", "Vision and Direction/Hearing God", "Vision and Direction/The Will of God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/vision-and-direction/the-will-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I just want to talk about the crowns we're going to wear when we finish here and we get up there I just want to share about the crown of righteousness he gives to everyone who looks for his return I want to give my life and strive to have that blessed crowd it is your great reward from the King of Kings The Winner Takes the crow those who overcome walks the streets of Love GL victory victory so will you overcome all the test and try will you lay aside all the s way way I want to

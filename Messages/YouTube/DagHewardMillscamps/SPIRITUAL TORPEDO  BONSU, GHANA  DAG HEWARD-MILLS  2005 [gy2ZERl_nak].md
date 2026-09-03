@@ -8,6 +8,8 @@ year: 2005
 duration_min: 53
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 welcome to track number 10 of buffal isation all right now I don't want to deceive you if you're are going to do well as a Basel Pastor Basel stream Pastor or a Bassel Shepherd or a work group Pastor huh a Chapel Pastor or a shepherd of a fellowship there you need to have power with God in Genesis 32 Bible says and Jacob wrestled with a man until the breaking of the day and when he saw that he prevailed not against him he touched the hollow of his thighe and the hollow of Jacob's tie was out

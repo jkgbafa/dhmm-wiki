@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3mon/"
 duration_min: 50
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer"]
 ---
 
 Luke 18. And I want us to read from verse number nine. The parables of prayer. Luke chapter 18, verse 9. And he spake this parable.

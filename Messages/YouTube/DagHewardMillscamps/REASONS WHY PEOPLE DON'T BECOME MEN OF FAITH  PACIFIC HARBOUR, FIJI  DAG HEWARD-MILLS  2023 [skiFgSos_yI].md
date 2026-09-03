@@ -8,6 +8,8 @@ year: 2023
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 lift your hands father thank you for this great blessing in the name of Jesus we thank you Lord guide us by the Holy Spirit lead us in jesus' name we pray amen amen you may be seated please open the door wide please this one all just open it completely now we are talking about subduing Nations amen amen Hebrews chapter 11 Hebrews chapter 11 verse 33 who through faith subdued kingdoms amen amen n and entire nations can be gentlemen in front here put your iPads away too much writing and whatever please amen who through faith subdued

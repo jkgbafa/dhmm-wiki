@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=vgQNnCf06_A"
 duration_min: 50
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father thank you for this morning and this great opportunity that we have in you to serve you to live for you to follow you we are thankful and we are praising you we ask you to lead us by the Holy Spirit into all truth in the name of Jesus Christ we are praying amen you may be seated and I want to wish all of you a Happy Father's Day I've been invited to preach here so I am here to share with you a little about the concept of fathers and all that has to do with

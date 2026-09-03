@@ -9,6 +9,8 @@ duration_min: 88
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/KEYS WHICH TOOK LP SARAH OUT OF BARRENNESS  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001 [bJw_hJzXhQY]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Welcome to track number 12, pastors of thousands. Now, we are moving on to the next topic. Lady Pastor Sarah. Lady Pastor Sarah. Lady Pastor Sarah was one of the mega church pastors.

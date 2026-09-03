@@ -8,6 +8,8 @@ year: 2008
 duration_min: 119
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 what were we talking about before we went on a break core areas for development is that not so and it number five parisia parisia p a r r h e s i a parisia that is um confidence confidence confidence first Timothy chapter 4 verse 12 let no man despise thy youth but be thou an example of the Believers in word in conversation in charity in spirit amen amen now um let's turn to Hebrews chapter 10 verse 35 let's read Hebrews chapter 10:35 it says therefore do not throw away your confidence which has a great reward

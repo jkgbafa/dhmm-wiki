@@ -4,6 +4,8 @@ book: "Predestination"
 book_number: "071"
 chapter_number: 4
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 ### Chapter 3\

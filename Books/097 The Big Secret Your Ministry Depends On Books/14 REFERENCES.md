@@ -4,6 +4,8 @@ book: "The Big Secret Your Ministry Depends On Books"
 book_number: "097"
 chapter_number: 14
 type: book
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 REFERENCES

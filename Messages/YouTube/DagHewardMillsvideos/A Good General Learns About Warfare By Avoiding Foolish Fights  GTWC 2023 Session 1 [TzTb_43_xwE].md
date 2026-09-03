@@ -8,6 +8,8 @@ year: 2023
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers", "Spiritual Warfare", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/spiritual-warfare", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 hallelujah hallelujah let us pray father we thank you for today we are gratefulness for the Holy Spirit and for your power that is present with us and lead us a division we are grateful recognition in the name of Jesus Christ amen amen you may be seated right it's good to see all of you um today I want us to begin this camp meeting sharing about what I call the good General um amen amen so I believe that God is going to help us to win and to fight the good fight 10 reasons why you must

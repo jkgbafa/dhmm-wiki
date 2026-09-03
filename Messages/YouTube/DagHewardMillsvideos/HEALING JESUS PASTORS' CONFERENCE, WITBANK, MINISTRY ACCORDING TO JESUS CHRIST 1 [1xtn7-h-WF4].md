@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=1xtn7-h-WF4"
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 now I want to share with you about ministry according to Jesus Christ Luke chapter 11 verse 28 so I'm going to give you about five principles that really will affect your ministry greatly how many of us here are fastest currently about a pastor wonderful now I pray that you make take advantage of the opportunity that we have during this conference of all the things that we have made available to you best twenty eight blessed that a day of the twenty seven and it came to pass that as he speak these things a certain woman at

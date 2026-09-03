@@ -8,6 +8,8 @@ year: 2009
 duration_min: 98
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 With my whole heart I have sought you not wander from your commandment from your commandment with my whole heart I have sought you let me not wander from your commandment from your commandment your word I have hidden in my heart your word your word I have eaten in my heart that I might not sin to you your word I have been in my heart your word I have in my heart your word I have my heart that I might not sing that I might not sing against you with my own heart I have sought you not wander from your commandment from your commandment with my own heart I have sought you let me not wonder from your commandment from your commandment your word I have leading in my heart your word I have eaten in my heart that I might not seek I guess to you your word I have be in my heart your word I have in me in my heart your word I have in my heart that I might not see that I might not sin it in my heart all your word that I might not see that I might not see I give to you Father thank you for this evening and this opportunity we have in Jesus' name.

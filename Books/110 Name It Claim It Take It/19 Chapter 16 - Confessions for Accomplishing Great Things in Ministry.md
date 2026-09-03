@@ -4,6 +4,8 @@ book: "Name It Claim It Take It"
 book_number: "110"
 chapter_number: 19
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Chapter 16\

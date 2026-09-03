@@ -8,6 +8,8 @@ year: 2001
 duration_min: 22
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to track number 18 of the message of sacrifice. He went down and went down there from the cross to the grave. Then when he was in the grave, from the grave to the sky. But when he was there, then he went down to the under well. And then when he got there, he was just lying down there.

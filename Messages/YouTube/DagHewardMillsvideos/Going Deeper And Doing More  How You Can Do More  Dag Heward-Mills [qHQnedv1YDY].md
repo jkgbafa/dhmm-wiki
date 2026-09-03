@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=qHQnedv1YDY"
 duration_min: 136
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 how many of you are really glad that god has given you another sunday wow why don't you rise up let us enter into a moment of prayer and um call on our living god because we know that the only way he can hear us is when we call on to him are you ready for what god has for you today i want you to look for a neighbor if you have somebody standing sitting next to you and tell the person something inspiring appreciate something about the person tell the person looking good and i'm glad i'm

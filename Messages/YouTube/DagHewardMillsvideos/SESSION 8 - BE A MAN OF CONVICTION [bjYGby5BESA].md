@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=bjYGby5BESA"
 duration_min: 167
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 father we thank you in the name of Jesus Christ amen amen you may be seated now we are continuing on the art of leadership do leadership the art of leadership is the art of shepherding or the art of shepherding is the art of leadership so number 12 the last was use power never use power without wisdom and wisdom without power that was number 11 chapter 11 I'm on chapter 12 be a man of conviction you must have a conviction about what you believe how you can be a man of conviction number one do not read

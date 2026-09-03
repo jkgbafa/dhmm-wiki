@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2018
 source: "autocaption"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Obadiah chapter one. Obadiah please. Hallelujah. Obadia. Have you found Obadiah? Verse 17. But upon Mount Zion shall be deliverance, and there shall be holiness, and the house of Jacob shall possess their possessions. Amen. And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, because there was going to be a judgment on the house of Esau. So stubble is like dust. And they shall kindle in them and devour them. And there shall not be any remaining of the house of Esau. For the Lord

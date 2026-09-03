@@ -4,6 +4,8 @@ book: "Those Who Are Offended"
 book_number: "084"
 chapter_number: 20
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ### CHAPTER 19\

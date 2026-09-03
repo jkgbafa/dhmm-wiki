@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 1999
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Now, somebody should come here. Peter, come this way. Hold my hand like this. No. You see, I'm going to hold your hand like this. Okay. So, hold my hand like that. Now, down here, come. You see my hand? Yes. We in the hospital now. Okay. Look at my hand. You see? What's that? Look at that. Okay. This is your last chance. Look, man. Do you guys hear? You can see now. I have shown you a very very very important sign. Only somebody who is trained in medicine would understand the meaning of this sign. When you

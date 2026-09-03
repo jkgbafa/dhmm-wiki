@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqvt0/"
 duration_min: 55
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Heavenly Father, thank you for tonight. Thank you for your blessing for guiding us to this point. We give you thanks and we give you praise in Jesus' name. Amen. You may be seated.

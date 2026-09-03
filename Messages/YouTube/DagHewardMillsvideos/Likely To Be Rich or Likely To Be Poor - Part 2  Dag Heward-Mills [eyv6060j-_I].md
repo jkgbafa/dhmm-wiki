@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=eyv6060j-_I"
 duration_min: 308
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Children and Parenting", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 this morning we want you to lift up worship to the lord how many of you are ready to worship the lord the bible says that they that worship the father must worship him in spirit and in truth i want to encourage you that as you stand here i want you to worship god in spirit and in truth just lift up your hands and just worship him in this place here we are lifting our hands to you here we are giving you thanks for all you do and as we praise and worship your holy name you

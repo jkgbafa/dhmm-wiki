@@ -8,6 +8,8 @@ year: 2015
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Hallelujah my let's appreciate the the M they've been a fantastic M these three nights let's clap our hands and appreciate the Mas God bless you let's pray and thank the Lord for the offerings we that father you bless our seeds send your re upon these seats and even tonight let us enjoy fruits from these seats fruit of your visitation of healings of Miracles your presence in Jesus name amen amen God bless you now I want to kindly ask all the young men with strength the young ladies that when the campaign is over tonight when the

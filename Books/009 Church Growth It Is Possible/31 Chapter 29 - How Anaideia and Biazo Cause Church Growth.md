@@ -4,6 +4,8 @@ book: "Church Growth It Is Possible"
 book_number: "009"
 chapter_number: 31
 type: book
+topics: ["Church Growth", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/church-growth", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 ## Chapter 29

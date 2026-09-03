@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=bBtFCGOWpqw"
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Amen, Amen, Amen, Amen. This evening. We have here the chairman, the post of the board of trustees. Of Healing Jesus Campaign. In Yopugan.

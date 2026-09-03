@@ -8,6 +8,8 @@ year: 2025
 duration_min: 258
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Amen. Amen. You are welcome to today's service. Amen. This is a church service and um we are going to enjoy the presence of the Lord. Hallelujah. So wherever you are, don't let anybody distract you. Don't be too disturbed by the sun. The sun will not smite you. It will just shine on you but it will not smite you. Amen. And uh whilst we are here, we want to believe God that you are going away with this from this place with a blessing on your life. How many believe in God? How many believe that God is

@@ -9,6 +9,8 @@ duration_min: 74
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/SACRIFICE RELEASES POWER  GTWC TOULOUSE  DAG HEWARD-MILLS  2018 [OlKQdJtNiAA]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Father, we thank you for your blessing. And how you guide us to do your will lead us by your mighty power. We thank you. Jesus' name. Amen.

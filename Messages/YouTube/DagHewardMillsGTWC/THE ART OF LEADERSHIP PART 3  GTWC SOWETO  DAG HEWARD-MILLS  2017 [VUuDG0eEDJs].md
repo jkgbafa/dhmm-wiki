@@ -8,6 +8,8 @@ year: 2017
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 I received a call from God the other day. I was just a young person. He spoke to me and said, "My child, you are mine. You must work and you must preach." Do you know the secret of prosperity? Seek, give us the kingdom of God. And all these things that people seek for, I will give them all to you. I'll go where I have to go. Preach what I have to preach. Have the maximum impact. Yeah. I'll go where I have to go. I preach what I have to preach. I will have the maximum impact.

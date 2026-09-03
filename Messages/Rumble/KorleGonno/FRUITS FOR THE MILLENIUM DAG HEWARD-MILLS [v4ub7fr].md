@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ub7fr/"
 duration_min: 51
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Jesus Christ to me in a shenanigan What friend What Fren No Jesus to me I shen I say Yeah yeah yeah I say yeah best on I wouldn't move one I would say one someone we're yeah yeah yeah yeah best so no that I one I wouldn't do one I wouldn't say one some way yeah yeah yeah no best so no friend oh friendo she's that to me I shall not say yeah yeah best so no Missy what friend no friend no she say to me I shall not say yeah yeah yeah yeah best so

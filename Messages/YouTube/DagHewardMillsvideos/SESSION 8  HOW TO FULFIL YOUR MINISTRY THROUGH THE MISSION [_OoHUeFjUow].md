@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_OoHUeFjUow"
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Oh like your life I wouldn't know where to go your future holds no promise you had no time blow whatever you do is it not enough you feel like giving up washing it all in every situation is under way I'm on him you can pass your burden your man friend real friends I will love you an all-time man a friend a real friend expels another brother for me more man a real friend a real friend brother your secret heart tells all the world about your greatness and how good it gets to damsels happy for me

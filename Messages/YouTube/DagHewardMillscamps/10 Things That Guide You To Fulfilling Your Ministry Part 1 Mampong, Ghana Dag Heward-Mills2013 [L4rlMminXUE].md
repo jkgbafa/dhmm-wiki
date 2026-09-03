@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=L4rlMminXUE"
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer"]
 ---
 
 invisible hands are waiting to guide you invisible hands they will show you the way so have faith in the Lord cuz he's always beside you so pray and believe to help you receive from invisible hands I'll take it again oh invisible hands they are waiting to who guide you invisible hand they will show you the way so have faith in the Lord cuz he's always beside you so pray and believe to help you receive from invisible hands how many of us need invisible hands here say invisible hands they are waiting to guide you invisible hands

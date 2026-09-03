@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=WLVpF_ht0Tk"
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Prayer"]
+tags: ["topic/anointing", "topic/prayer"]
 ---
 
 heavenly father we thank you for your blessing tonight thank you for the input of your spirit into our lives lord as we gather today into your presence we are so grateful that on a busy weekday like this we can just come to your presence to worship you to give thanks and to hear your word and be ministered to by your spirit lord we ask in jesus name at this time that our hearts will be open forgive us for the shallowness of our faith the emptiness of our lives lord and of our experience with you and

@@ -9,6 +9,8 @@ duration_min: 98
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/LIBREVILLE, GABON THE FOUR LAWS OF MIRACLES HEALING JESUS CRUSADES DAG HEWARD-MILLS 2023 [P1wj0DLi1JM]]]"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 I believe that all of us are ready to receive this great man of God and I want you with a hand clap and a sh let's evangelist hallelujah hallelujah hallel I expect a miracle I expect a miracle now I want everybody to raise your hands everybody to everybody to I expect a miracle nothing is impossible I expect a miracle father thank you for tonight thank you for your power that is here thank you for many salvation many healing many deliverances thank you that no one that is here watching tonight will ever be the same again

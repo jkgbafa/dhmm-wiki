@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GJ5bLA2ZoKo"
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 you feel oh hi in your prayers and law we say you're saying it'd be your baby in your presence Lord there is no higher calling and no greater honor than to Baja and kneel before I'm amazed I should all be embraced by diversity along I live to worship you well there is no whole pie falling and there's no greater honor than to bow and kneel before me after glory I'll engrave by mercy oh I leave you absolutely embrace my god the lord i worship you now I can feed Oh Lord is the mole hallelujah so

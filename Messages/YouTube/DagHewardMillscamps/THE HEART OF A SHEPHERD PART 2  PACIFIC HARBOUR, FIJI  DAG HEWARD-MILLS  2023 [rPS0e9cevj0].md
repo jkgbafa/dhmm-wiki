@@ -8,6 +8,8 @@ year: 2023
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 yes you may be see that number four is it number four or number five number five Wicked Hearts no Wicked hearts in can work as a Shepherd amen now what is a wicked heart is a heart with bad things in the heart so all of us must get rid of those hard things from our hearts proverbs 26:25 five when he speaketh Fair believe him not because there are seven Abominations in his heart there are what seven Abominations seven Abominations in his heart there many times a Christian can have bad things in his heart one day

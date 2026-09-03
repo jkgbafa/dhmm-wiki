@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_t-D6u14IpA"
 duration_min: 69
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Repentance", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/repentance", "topic/salvation/the-new-birth"]
 ---
 
 take me back take me back dear Lord to the place where I first received you take me back take me back to Lord where I first be take me back take me back dear Lord to the place where I first received you oh Lord take me back take take me back dear Lord where I first be I feel that I'm so far from you Lord but still I hear you calling me those simple things that I once knew the memories ofing me I must confess Lord I be blessed but yet my soul's not satisfied so

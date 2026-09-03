@@ -8,6 +8,8 @@ year: 2012
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Ora con Doubi face pa mou dumba djubi que face à mina baca à mina dora Seigneur d'accord ça bat ça me fasse pas la couraison qu'a tout fasci parmi à mes enborgacies la courage aura condubi qu'elle faisait pas mi-amorga Jesus na io alla confessa à votre signor n'a pas été boné tout l'envoi n'a pas confessé à votre sino à ma piacipa d'où mi face pa mi-morda sois morte sois oh amina morte oh ta comi canto me sois à mina borga Are you expecting something great tonight? Tonight is the second night of this campaign.

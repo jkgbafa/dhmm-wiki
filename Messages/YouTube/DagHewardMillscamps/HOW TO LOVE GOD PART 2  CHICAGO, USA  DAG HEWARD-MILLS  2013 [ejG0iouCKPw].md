@@ -8,6 +8,8 @@ year: 2013
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 hello my name is tabita Mii my branch is Boston and I'm from Kenya um single um I I joined Lighthouse this year beginning of this year and um when my pastor told me about what Bishop um Bishop was doing in West Africa I wanted that to happen in in in Kenya and in East Africa um I'm studying here I'm in my third year in undergraduate but my heart is always at home um and to to know that he was going to do the same for those people was just for me was touching because that's something

@@ -4,6 +4,8 @@ book: "Be Faithful Unto Death"
 book_number: "076"
 chapter_number: 6
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances"]
 ---
 
 ### CHAPTER 4\

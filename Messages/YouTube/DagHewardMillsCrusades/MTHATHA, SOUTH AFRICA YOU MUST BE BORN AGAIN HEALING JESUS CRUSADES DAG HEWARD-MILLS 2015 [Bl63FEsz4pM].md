@@ -9,6 +9,8 @@ duration_min: 139
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MTHATHA, SOUTH AFRICA  YOU MUST BE BORN AGAIN  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2015 [Bl63FEsz4pM]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 You always hear me when I call Jesus. You lift me up each time I fall. You're the speed. How I love to sing your name. Jesus.

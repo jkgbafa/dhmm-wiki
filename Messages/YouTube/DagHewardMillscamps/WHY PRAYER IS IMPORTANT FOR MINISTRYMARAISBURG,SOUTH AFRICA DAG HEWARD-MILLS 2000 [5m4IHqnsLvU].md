@@ -8,6 +8,8 @@ year: 2000
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit"]
 ---
 
 May take your sin and continue immediately. Amen. How many of you will go? How many of you will go? How many of you are going to start doing the work?

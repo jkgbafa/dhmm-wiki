@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t82ol/"
 duration_min: 108
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Hallelujah. Amen. Let's pray. Heavenly Father, thank you so much for this evening. Thank you for your blessings that you have bestowed upon us.

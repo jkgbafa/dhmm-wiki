@@ -8,6 +8,8 @@ year: 2003
 duration_min: 43
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Judgment", "Wealth and Finances"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/judgment", "topic/wealth-and-finances"]
 ---
 
 welcome to track number two of beamer really but no problem Hallelujah so the whole thing I'm just trying to explain you the whole thing is subject to vanity it's it's not some it's not it's part it's not something to fight for live for amen all your life go on for the endless expectation of the creature waited for the manifestation of the sons of God verse 20 for the creature was made subject to vanity not willingly but by reason of him who has subjected the same in Hope thank you amen the creature was what made subject

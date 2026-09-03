@@ -8,6 +8,8 @@ year: 2008
 duration_min: 123
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 With my whole heart I have sought you. Let me not wander from your command. Let me not wander from your command. With my whole heart. I have sought you.

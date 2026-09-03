@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2015
 source: "autocaption"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Make God build a house for them. Listen, everybody say, "I shall build my house." I shall build my house. Yes. If you want to know whether you are rich or poor, ask yourself whether you have a house. Don't show me your car. Show me your house. Thank you. One idiot has to ride a bicycle and drive it into your car and your car is sp So wealth that's why houses are called real estate. The estate that is real. Wow. How many want to build houses from today? I don't mean build mortgages. I said build houses

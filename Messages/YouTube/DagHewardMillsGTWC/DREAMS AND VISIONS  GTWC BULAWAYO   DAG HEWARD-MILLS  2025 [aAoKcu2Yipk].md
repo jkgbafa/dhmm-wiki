@@ -8,6 +8,8 @@ year: 2025
 duration_min: 36
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 I'm looking for someone that I can send. someone to sacrifice his life, his dreams, his goals. I'm looking for someone who loves me so. Hello. Is it me you're looking for? I'm the one you called to serve. I'm the one you've been speaking to. I'm the one you gave those dreams to. They never went away. I will follow you, my Lord. There'll be no more holding back. I'm saying here and now, send me. I'm looking for a man [music and singing] that I can use. I'm looking for a man who thinks of others. And I'm

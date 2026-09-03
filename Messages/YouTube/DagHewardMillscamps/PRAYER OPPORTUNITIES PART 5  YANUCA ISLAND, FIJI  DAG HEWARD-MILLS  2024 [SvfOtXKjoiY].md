@@ -8,6 +8,8 @@ year: 2024
 duration_min: 65
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Intercession"]
+tags: ["topic/prayer", "topic/prayer/intercession"]
 ---
 
 all right now Galatians Chapter 4 Verse 18 it is good to be zealously affected always in a good thing and not only when I am present with you my little children of whom I travail in birth again until Christ be formed in you amen through prayer prayer is an opportunity to give birth Amen to travail and to form something spiritually amen now look at the verse it is good to be zealously affected always in a good thing and not only when I'm present with you verse 19 everybody are you watching this verse yes this is

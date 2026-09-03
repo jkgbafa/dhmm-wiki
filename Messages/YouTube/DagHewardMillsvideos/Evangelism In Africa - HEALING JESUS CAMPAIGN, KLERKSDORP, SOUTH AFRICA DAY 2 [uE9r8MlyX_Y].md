@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=uE9r8MlyX_Y"
 duration_min: 136
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 we're going to teach you a song quickly since I will sit by space to seek the Lord give me that but he is a wonderful God are you ready so all you're going to sing is wonderful God wonderful God it goes like it and I will send my face to she alone I will send my face to see the Lord come on fool attention to my god our the set boy boy it's ours and with you now instead my face to see alone I'll test my face you see the Lord give my full attention my

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Now today is a very short but important message and how to be a good sheep. You have to be a permanent sheep. Permanent. What is the meaning of permanent? Permanent. means continuing in the same state. All right without any change without any change that destroys form or character remaining unaltered. Are you listening? and removed, abiding, durable, fixed, lasting, fantastic, continuing in the same state without any change that destroys or changes your character. remaining unaltered or unreved. Tell your neighbor remain unrem. Yes. Is there any other meaning for permanent? Yes. Put it there, please. Permanent. Hello.

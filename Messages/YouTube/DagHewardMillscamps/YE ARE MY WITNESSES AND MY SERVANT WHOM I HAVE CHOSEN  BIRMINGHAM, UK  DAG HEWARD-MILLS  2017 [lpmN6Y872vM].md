@@ -8,6 +8,8 @@ year: 2017
 duration_min: 175
 source: "autocaption"
 match: "exact"
+topics: ["Missions", "Missions/The Nations", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Soul Winning and Evangelism/Witnessing", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/missions", "topic/missions/the-nations", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/soul-winning-and-evangelism/witnessing", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 we thank you Jesus we love you Lord in Jesus name amen amen Isaiah 42 sit down please the last verse therefore he has poured upon him the fury of his anger and the strength of battle and it had set him on fire round about yet he knew not and it burned him yet he laid it not to heart that's the last last verse it says yet he didn't think much about it so sometime our frustrations must be laid to heart do you see our difficulties we must lay them to heart in other words we must

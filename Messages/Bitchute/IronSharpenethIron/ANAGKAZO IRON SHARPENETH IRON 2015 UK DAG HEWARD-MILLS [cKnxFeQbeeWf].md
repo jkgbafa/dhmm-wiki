@@ -8,6 +8,8 @@ year: 2015
 duration_min: 108
 source: "whisper"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Anagkazo and Compelling", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/anagkazo-and-compelling", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Luke chapter 14, verse 15. And he said, when one of them sat at meet with him and had these things, he said, Blessed is he that shall eat bread in the kingdom of God. And he said unto him, a certain man made a great supper and invited many people. Now, in order for Christians to become well motivated and successful in witnessing the very last words of Jesus known to man on earth. Alright, go into all the world.

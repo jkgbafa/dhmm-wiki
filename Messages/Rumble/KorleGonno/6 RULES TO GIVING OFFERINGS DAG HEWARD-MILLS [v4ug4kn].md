@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ug4kn/"
 duration_min: 68
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 You won't I send me my love man for me when I'm in our sense for me, set me fire, no make time taking one more time. Oh me won't say me some make my love when I'm in a same so many motifs and me fire no die Oh na my junior may be so I'm both send them cool my same one makeup also my man let's take this one die strong tea send me kinda let me die Oh na maya no may die now I try oh yeah so you can die I may all say

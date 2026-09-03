@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7xpZyou5ASM"
 duration_min: 265
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Kinds and Waves of the Anointing", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/kinds-and-waves-of-the-anointing", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 i want to share with you about the anointing of the holy spirit have you found matthew 13. verse 12 whosoever has to him it shall be given and he shall have more abundance but whosoever has not from him shall be taken away even that which he has done how many of you believe you are anointed come here you believe there's some anointing on your life wow that is exciting now i am very happy that you believe that you are anointed even though you can be more anointed memphis the advantage whoever has to him absolutely shall

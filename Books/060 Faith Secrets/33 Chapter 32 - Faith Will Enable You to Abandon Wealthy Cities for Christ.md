@@ -4,6 +4,8 @@ book: "Faith Secrets"
 book_number: "060"
 chapter_number: 33
 type: book
+topics: ["Faith", "Wealth and Finances"]
+tags: ["topic/faith", "topic/wealth-and-finances"]
 ---
 
 ### Chapter 32\

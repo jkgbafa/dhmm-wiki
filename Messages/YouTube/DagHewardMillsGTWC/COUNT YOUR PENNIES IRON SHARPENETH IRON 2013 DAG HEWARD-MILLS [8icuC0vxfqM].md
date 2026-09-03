@@ -8,6 +8,8 @@ year: 2013
 duration_min: 67
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Well I greet you in the name of the Lord. It's an honor for me to be here. And I thank God for what He's doing in our midst. It's a great privilege for one to see what God is doing here. To be part of this great move of God in our times.

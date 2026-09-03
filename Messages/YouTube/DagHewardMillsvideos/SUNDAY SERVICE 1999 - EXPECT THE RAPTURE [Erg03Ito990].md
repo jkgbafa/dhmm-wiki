@@ -8,6 +8,8 @@ year: 1999
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Oh thank you hug her me you can't get me my love five my I closed the sprayer we'll only fish testicle give me mr. mr. tell me he's a lover of your soul will you let him go tell me where did he put you I bet this is the doctor come on now do you feel oh come on now and grow your wealth before never let him go he's your baby when you worship Him all right brother give me the lava rock brother oh that beautiful brother come on I will you take it or do

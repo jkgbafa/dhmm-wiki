@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JVgpd4w0fKE"
 duration_min: 18
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 now I believe that we are being blessed I can do some beanie I was going to share with you a very important secret but I think I'm good to rather do that tomorrow shivakashi and secret because of the time I was held up by something so I just want to round up the evening because we are ending at 8:00 is a lot a minute a better the laws of wealth creation in ministry me mr. number one you may humility militay amen amen humility humility and we have this wonderful book here you see those who are

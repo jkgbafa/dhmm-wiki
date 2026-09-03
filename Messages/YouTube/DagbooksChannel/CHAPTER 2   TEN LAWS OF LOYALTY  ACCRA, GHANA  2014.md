@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2014
 source: "autocaption"
+topics: ["Leadership", "Loyalty and Disloyalty"]
+tags: ["topic/leadership", "topic/loyalty-and-disloyalty"]
 ---
 
 I am going to share with you on loyalty and disloyalty and I use the book "Those Who Are Ignorant" and it is still under the title " Loyalty and Must". It was the book that was titled " Leaders and Disloyalty and Loyalty". But the title has changed and the book has changed a little. I want you to acknowledge this because we need to understand much more about loyalty and disloyalty. The 10 laws of loyalty. This is the second chapter of the book. The leader of an organization must first and foremost be loyal to his subordinates.

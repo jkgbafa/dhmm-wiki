@@ -9,6 +9,8 @@ duration_min: 110
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/LAWS OF ACCUSATIONS  ACCRA, GHANA  DAG HEWARD-MILLS  2002 [28ABaahn9WA]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 Yeah, I want to talk about the laws of accusation. I'm going to change. Do you have a problem? Law number one. I'm giving you the laws of accusation.

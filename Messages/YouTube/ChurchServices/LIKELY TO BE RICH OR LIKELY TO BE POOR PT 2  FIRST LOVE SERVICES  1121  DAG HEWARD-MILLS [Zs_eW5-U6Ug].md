@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Zs_eW5-U6Ug"
 duration_min: 308
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 this morning we want to lift up worship to the Lord how many of you are ready to Worship the Lord the Bible says that day that worship the father must worship Him in spirit and in truth I want to encourage you that as you stand here I want you to worship God in spirit and in truth just lift up your hands and just worship him in this place here we are lifting our hands to you here we are giving you thanks for all you do and us we praise and worship your Holy Name you are

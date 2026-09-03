@@ -8,6 +8,8 @@ year: 2021
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Well, ladies and gentlemen, tonight and you are no man and I do we are slowly coming to a very important part of this evening's campaign. And I want to do this again. Asking all those who are close to each other. We are we are standing too close to each other. And I'm happy now to see us in our midst.

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2016
 source: "autocaption"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now the next one is ready at 20 to serve. Ready at 20 to serve. Numbers 11. Numbers 11. Wow. How many are glad that we are looking at some of these wonderful things in the Bible? And I'm going to give you a number of points as we go along. All right. You've done work of shame. You've done gala. You've done different addresses depending on the year. You are here. You are sometimes here, sometimes here. You've given birth to blood. Crushed babies. Yes. You've done everything. You've smoked. You've drunk. You've taken drugs. You've destroyed your life.

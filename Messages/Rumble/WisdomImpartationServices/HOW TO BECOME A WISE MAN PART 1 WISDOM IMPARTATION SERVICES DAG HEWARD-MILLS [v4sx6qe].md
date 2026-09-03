@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sx6qe/"
 duration_min: 151
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wisdom"]
 ---
 
 Now you may think that school is so fun, and you can do anything you want. Playing the fool, sleeping around with pornography, homography, and you may think it's okay, and you may look the other way, but you need to ask yourself, is my name in the book of life. You need to give him a life, give him a life. Whether you were old or young, you need to give him your life, give him a life, Jesus Christ says, give him your life, give him a life, Jesus Christ says, give him a life. You got to give your life to him.

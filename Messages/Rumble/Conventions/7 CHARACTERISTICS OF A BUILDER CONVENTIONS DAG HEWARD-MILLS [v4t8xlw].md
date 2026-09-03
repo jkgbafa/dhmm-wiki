@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t8xlw/"
 duration_min: 160
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Amen. Why don't you put your hands together for the Lord one more time? David said, one thing have I desired of the Lord, and that will I seek after. That I may dwell in the house of the Lord and behold the beauty of the Lord. Amen.

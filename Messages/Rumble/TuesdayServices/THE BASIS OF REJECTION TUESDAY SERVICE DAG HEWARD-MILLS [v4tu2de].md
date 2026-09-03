@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tu2de/"
 duration_min: 95
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 To know your name if you can put it on. I must apologize, it's not in the song, she's also sleeping. The precious blood of Jesus Christ reads for giving life race your majesty of me forever. Let's sing that again the precious blood of Jesus Christ for giving your majesty forever forever by your truth and just won't come to your spirit by your word your love will never fail. Come on, your love will never fail.

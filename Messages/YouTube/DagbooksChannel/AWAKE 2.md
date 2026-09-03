@@ -3,6 +3,8 @@ title: "AWAKE 2"
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Vision and Direction"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/vision-and-direction"]
 ---
 
 You may be seated. What does it mean to be asleep? Amen. Number one, there there are a lot of points. You must have always a lot of points and then your life is very pointed. Amen. Now when you cannot when you are asleep. Amen. Your eyes are closed. Is it not true? And when your eyes are closed, you cannot see. And when you cannot see, you have no vision. So a person who is asleep, a Christian who is asleep, it's like this. No vision. You cannot see. You cannot see. Cannot see here. Here you don't

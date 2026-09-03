@@ -8,6 +8,8 @@ duration_min: 116
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/THE BLOOD OF JESUS CHRIST DAY 4 BOBO DIOULASO DAG HEWARD-MILLS [XruYESK_RPo]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 hallelujah accl hallelujah amen Wonder said you won to May to oh last to May deliver to lat in give you sh to the Lord confessing again you to to to conf don't GL guys blue goer goer to Lord love it are to problem problem you are ah Hallelujah tonight is the final night God is going to touch your life he has anointed his servants to minister the word of God and the power of God tonight let's receive hallelu Hallelujah I expect a miracle lift your hand if you expect I the love I expect a miracle

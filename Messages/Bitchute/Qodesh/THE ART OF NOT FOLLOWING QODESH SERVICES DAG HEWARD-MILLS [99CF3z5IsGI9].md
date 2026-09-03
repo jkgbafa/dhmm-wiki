@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/99CF3z5IsGI9/"
 duration_min: 62
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 And Lord, you know me. There's no use pretending. You see right through me. You know where I am. You see all I do.

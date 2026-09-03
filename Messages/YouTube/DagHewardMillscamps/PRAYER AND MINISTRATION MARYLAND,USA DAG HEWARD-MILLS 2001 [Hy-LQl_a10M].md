@@ -8,6 +8,8 @@ year: 2001
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number twenty-three of the message of sacrifice. Listen, I want to pray for everybody. Let's first line come right here. I just want to lay hands on you for two minutes before we're closing. I told you we're closing at nine o'clock.

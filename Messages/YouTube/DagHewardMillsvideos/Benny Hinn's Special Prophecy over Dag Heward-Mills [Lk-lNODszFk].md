@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Lk-lNODszFk"
 duration_min: 17
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Hallelujah. Hallelujah. Hallelujah. Lift your hands and love the Lord and worship him. Hallelujah. Joshua, Pastor Joshua, come. And pastor congi come with us please. Hallelujah. Stand next to me please. Kongi. Pastor Kongi. Hallelu. Hallelujah. Hallelu. Lift your instrument and hands. Pick up the key, Jim, and sing with me, Jim. Oh, receive people. Receive. Receive. Hallelujah. Hallelujah. One more time. Hallelujah. You can't do it for me. on your instrument. That's it. You see? Hallelujah. Hallelujah. Once again, all your voice mightal. Hallelujah. Hallelujah. We're in his presence, saints. Hallelujah. Hallelujah. Hallelujah. Hallelujah. Godlu Hallelujah. God, the whole

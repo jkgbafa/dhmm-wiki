@@ -8,6 +8,8 @@ year: 2025
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "The Call of God"]
+tags: ["topic/prayer", "topic/the-call-of-god"]
 ---
 
 I want to give you one more thing that I want you to notice will never go away because it is from Jesus and that is the call of God. When God when God calls you, it never goes. It never goes. No matter how old you are, you see if you are called, you are called. It never goes.

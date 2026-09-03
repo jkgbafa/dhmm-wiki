@@ -8,6 +8,8 @@ year: 2025
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Salvation", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/salvation", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Salvation and the kingdom of God. Then salvation and miracles. Salvation and miracles. And the last one is salvation and the old testament. Salvation and miracles.

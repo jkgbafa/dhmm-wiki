@@ -8,6 +8,8 @@ year: 2005
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number seven of perfection are you fresh are you ready for another day have you got strength to stay on Amen Genesis 22 ction Genesis 22 Genesis 22 and the angel of the Lord called unto him out of heaven and said Abraham Abraham and he said here am I and he said lay not thine hand upon the lad neither do thou anything unto him for now I know that thou fearest God seeing thou H has not withheld thy son thy only son from me and Abraham lined up his ey lifted up his eyes

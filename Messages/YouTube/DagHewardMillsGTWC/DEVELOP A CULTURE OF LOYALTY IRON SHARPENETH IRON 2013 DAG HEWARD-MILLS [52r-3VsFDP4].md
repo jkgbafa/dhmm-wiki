@@ -8,6 +8,8 @@ year: 2013
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 You deserve the glory of the heads in worship as we live your holy days you deserve the warning and we have said worship as we lead your holy You can be a good shot that is no one else like you are you can be there is all that's like you there is no you deserve you deserve the Lord we let your hands will our hands in worship as we live your holy day you deserve the glory and the Lord we make our hands in worship as we live your holy name for you are you do be a so brave there is no one else like you there is no one else like you for you a great you do be so there is no one else like you there is no you are good for you are good you do miracles all goodness There is no one else like you there is no one else like you for you are good You do miracles so great There is no others like you There is no one else like you are great for you a great you do miracles so great there is no one else like you there is no one else like you for you are true You do miracles so great there is no one else like you There is no else there is a redeemer very Messiah Oh thank you for the kids oh give me as your son and late your spirit your work is that somebody put your hands together and give the Lord a shout standing I'd like us to welcome one of the word members of healing Jesus.

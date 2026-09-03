@@ -8,6 +8,8 @@ year: 2016
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wisdom"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wisdom"]
 ---
 
 Hallelujah. Hallelujah. Thanks, Lord Jesus for this great blessing. Merci Seigneur Jesus for that grand benediction. Amen.

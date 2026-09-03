@@ -4,6 +4,8 @@ book: "Preparation Of The Gospel"
 book_number: "062"
 chapter_number: 3
 type: book
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 ### CHAPTER 2\

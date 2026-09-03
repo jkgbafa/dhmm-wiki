@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=XMNVKJBMXWQ"
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 in fact they say that we've all been waiting for it's such a blessing to have our Father here with us it meant now we are about to take our friends over in the men so I want you to take us offering this morning are you glad to be here this morning laughs our Father here with that if you look on a battery up we are blessed to have our own we saw a buton Wow our miss sabbith what a blessing hallelujah is time for testimony hallelujah but we couldn't take a specimen so please can we

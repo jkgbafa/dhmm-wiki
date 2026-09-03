@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=77wNrDhBruE"
 duration_min: 259
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah are you blessed this morning amen i want us to continue praying a little more amen and i know that god is going to bless us bible says my house shall be a house of prayer for the nations amen so if we look at isaiah we see what the word of god is saying amen mark 11 and verse 17 he says my house shall be called of all nations the house of prayer one of the mysterious things in the word of god is why jesus if he was the son of god why was he praying

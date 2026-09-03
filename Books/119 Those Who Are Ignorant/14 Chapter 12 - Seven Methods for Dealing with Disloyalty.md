@@ -4,6 +4,8 @@ book: "Those Who Are Ignorant"
 book_number: "119"
 chapter_number: 14
 type: book
+topics: ["Loyalty and Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Deliverance"]
+tags: ["topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance"]
 ---
 
 ## Chapter 12

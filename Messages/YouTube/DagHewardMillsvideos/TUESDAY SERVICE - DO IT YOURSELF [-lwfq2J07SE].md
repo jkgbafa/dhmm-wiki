@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-lwfq2J07SE"
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 everywhere he went he was doing good the mighty he these are because the number triple time oh they started walking everybody well my time everybody went everywhere you want doing good he's amazing what am I there's a the piano and the congregation what a mighty God we serve water might be cold fill this room with your Western I can feel your presence cheese Rita a bow bow before him bow before allow me to introduce one key song yeah yeah no no no soon a war soon I'll explain it I am can I get a witness

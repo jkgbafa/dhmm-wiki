@@ -8,6 +8,8 @@ year: 2017
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 Father, thank you for the blessing. Of this moment. Guide us by your mighty power. And help us to do well. As we serve you.

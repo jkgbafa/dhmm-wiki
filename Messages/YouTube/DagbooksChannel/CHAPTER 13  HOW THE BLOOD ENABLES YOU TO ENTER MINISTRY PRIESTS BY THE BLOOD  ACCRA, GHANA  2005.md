@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2005
 source: "autocaption"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Thank you Lord for this great grace that has been given to us today. Lord may we not waste the great opportunity that we have in your love in Jesus name. Amen. You may be seated. Grace quick. That's why I call him. That's why I call you savior. That's why I call you friend. Cuz you touched my heart. You touched my soul. You helped me start all over again. And that's why I love you, Jesus. And that's why I'll always cuz you gave me love when nobody can be a prayer. Sing it. That's why I love

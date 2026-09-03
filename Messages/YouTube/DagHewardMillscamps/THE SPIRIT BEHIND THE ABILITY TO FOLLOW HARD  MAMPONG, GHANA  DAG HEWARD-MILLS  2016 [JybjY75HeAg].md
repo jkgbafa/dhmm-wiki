@@ -8,6 +8,8 @@ year: 2016
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 on you got this feeling down deep in my heart I found you now I'm on my way Jesus deep in sin falling deeper and deeper into my in full ways now I'm on my way I have found a new life oh I'm stuck on you I found my place and this is where I'm going want to stay now I'm on my way Jesus this is where I found the love and joy and peace in the Holy Ghost now I'm on my way I have found a new life wo oh yes I have found found a

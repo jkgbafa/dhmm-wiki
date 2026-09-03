@@ -8,6 +8,8 @@ year: 2010
 duration_min: 174
 source: "autocaption"
 match: "exact"
+topics: ["Missions", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/missions", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 10 qualities that you need to become a what a missionary so number one to be a man a missionary a devotee you need to be a man of Faith number two to be a missionary you need to use the gifts and abilities God has given you for the mission you need to bring out your gifts you need to bring out your gifts and use all of them hallelujah amen amen now rarely does a person have only one gift it is rare do you understand what I am saying it is rare for a person to have

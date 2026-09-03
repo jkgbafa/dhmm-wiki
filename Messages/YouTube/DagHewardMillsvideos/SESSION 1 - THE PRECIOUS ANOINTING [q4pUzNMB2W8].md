@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=q4pUzNMB2W8"
 duration_min: 168
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Oh madam hopefully one more time this morning gathering yeah is your favorite Wow our hallelujah I said hallelujah amen can you see me right if wherever you are if you can't see me that mean that your location is not good enough so kindly look at yourself properly so that you can see the house you preferred it well Amen father we thank you so much for your wonderful presence tonight send your anointing Lord tonight do miracles lo tonight we thank you Holy Spirit for your wonderful presence here tonight send your anointing I know ah hee hee

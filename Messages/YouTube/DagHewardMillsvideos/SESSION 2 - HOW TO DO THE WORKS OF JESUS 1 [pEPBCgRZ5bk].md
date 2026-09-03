@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=pEPBCgRZ5bk"
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 - your majesty and your beauty I surrender Oh your holiness or you are lost who is mighty you these are my Z with all of my heart the god of my life I surrender oh yeah - your majesty beauty I surrender oh yeah yeah or you are who is mighty we're bored of my heart Lord of my life oh my I pray with all of my heart dawn of my life I serve and stop with all of my heart so with all of my heart all of my life I service I serve and I surrender

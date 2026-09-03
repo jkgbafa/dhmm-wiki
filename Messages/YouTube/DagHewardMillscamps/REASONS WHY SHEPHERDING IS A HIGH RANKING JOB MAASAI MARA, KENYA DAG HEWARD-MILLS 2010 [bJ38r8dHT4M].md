@@ -9,6 +9,8 @@ duration_min: 72
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/REASONS WHY SHEPHERDING IS A HIGH RANKING JOB   MAASAI MARA, KENYA DAG HEWARD-MILLS  2010 [bJ38r8dHT4M]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number seven of the privilege. When Jesus comes for me, I'll be waiting here, watching patiently with my eyes to the sky. I know he'll be for me. My heart has confessed those things that set men free and give them your life. The life I treasure now is a life filled with love and so much ecstasy.

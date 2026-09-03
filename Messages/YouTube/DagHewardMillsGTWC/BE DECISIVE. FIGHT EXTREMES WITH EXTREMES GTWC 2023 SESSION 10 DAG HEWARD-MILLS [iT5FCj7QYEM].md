@@ -8,6 +8,8 @@ year: 2023
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Father, thank you for the mighty presence of your spirit. Fair mercy put a grand presence in the name of Jesus Christ. Amen. You may be saved. Chapter 21.

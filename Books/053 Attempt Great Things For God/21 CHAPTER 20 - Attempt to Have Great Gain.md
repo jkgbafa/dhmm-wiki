@@ -4,6 +4,8 @@ book: "Attempt Great Things For God"
 book_number: "053"
 chapter_number: 21
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Wealth and Finances"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/wealth-and-finances"]
 ---
 
 ### CHAPTER 20 \

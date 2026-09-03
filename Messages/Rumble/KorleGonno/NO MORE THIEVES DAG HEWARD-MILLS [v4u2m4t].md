@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u2m4t/"
 duration_min: 49
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, thank you for an opportunity to be here in your presence once again. Lord, we know that it is your word that makes a difference in our lives, and Lord, we ask for wisdom and openness that we may receive, that we may hear, that we may grow, that we may know you, Lord, and be humble, Lord, and walk in your will, Father. Thank you, Father, in Jesus' name. Amen. You may be seated in the presence of the Lord.

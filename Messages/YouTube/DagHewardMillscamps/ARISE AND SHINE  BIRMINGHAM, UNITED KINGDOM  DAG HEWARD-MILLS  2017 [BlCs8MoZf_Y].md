@@ -8,6 +8,8 @@ year: 2017
 duration_min: 164
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 tell me how long has it been since you felt his touch within is your heart still open to his love in your quiet time alone can your praise reach the throne and has it been so long you're afraid to call but he's there he has always been oh he's waiting still waiting he's giving us time to come on in what a loveing caring friend come on now he's waiting still calling how long long has it been W wo how long has it been Now isn't it good for you to know there's a place that you

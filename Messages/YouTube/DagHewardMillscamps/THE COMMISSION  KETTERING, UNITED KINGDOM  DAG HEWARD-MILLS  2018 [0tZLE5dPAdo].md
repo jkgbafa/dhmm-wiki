@@ -8,6 +8,8 @@ year: 2018
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Jesus how Lord before he went away commissioned his disciples to go and teach All Nations this commission was extensive it was an obligation for the disciples to disperse themselves to every corner every nation of the inhabited below to preach to Every Creature without exception without limitation be a candle in the dark lord I want to be a candle in the dark a light to the world be a witness for my Lord please send me into this Dark World please use me somehow oh Lord as a candle in the Lord I want to be a candle

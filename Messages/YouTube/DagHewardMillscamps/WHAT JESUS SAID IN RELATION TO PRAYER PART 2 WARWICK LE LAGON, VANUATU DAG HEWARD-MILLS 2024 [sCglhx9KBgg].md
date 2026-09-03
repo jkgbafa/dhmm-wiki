@@ -9,6 +9,8 @@ duration_min: 44
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHAT JESUS SAID IN RELATION TO PRAYER PART 2  WARWICK LE LAGON, VANUATU  DAG HEWARD-MILLS  2024 [sCglhx9KBgg]]]"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Alright. Now we have come to the last session, and I'm I'm going to pray for everybody. Amen. So I want you to just bear listen for just a few moments. And uh this is an amazing prayer seminar seminar.

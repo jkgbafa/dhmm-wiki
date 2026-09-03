@@ -8,6 +8,8 @@ year: 2023
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 father we are grateful for the blessing that we have in your name in Jesus name amen you may be seed now I want us to look at the subduing of Nations it depends on the sending of a Shepherd amen amen the sending of what shepher a shepherd and this Shepherd that is going to be sent all right is somebody that must have the heart of a Shepherd amen amen he must have what heart the heart of a Shepherd why because the Bible tells us that everything comes from the heart so Proverbs 4:23 says keep thy

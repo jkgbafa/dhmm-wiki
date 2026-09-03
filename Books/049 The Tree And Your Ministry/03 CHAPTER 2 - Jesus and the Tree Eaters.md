@@ -4,6 +4,8 @@ book: "The Tree And Your Ministry"
 book_number: "049"
 chapter_number: 3
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 CHAPTER 2\

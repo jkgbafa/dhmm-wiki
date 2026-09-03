@@ -9,6 +9,8 @@ duration_min: 26
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PAST QUESTIONS PT2  CARDIFF, UNITED KINGDOM  DAG HEWARD-MILLS  2003 [zQq92AUH8Qg]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Welcome to track number 20. Say to me in that day, Lord, Lord, have we not prophesied in thy name? And in thy name have cast out devils, and in thy name done many wonderful works. Then I will prophecy profess unto them. I never knew you.

@@ -9,6 +9,8 @@ duration_min: 79
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/KADOMA, ZIMBABWE  WHY YOUR SOUL IS IMPORTANT  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2016 [xYdkkIewQU8]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Hallelujah, why don't you give the Lord a best shot of praise? Come on, give the Lady Shah Dona Shah Disira Mandi Kawana Sama Kanditi Nota Mandanora Notawana Shaman Dinah D Cawana Shama Dani Everyone is sing with me Kawana Shamakandi up your right handitifand so for you that my catomati I want to ask you to please be seated at the side. No one moving around. We are about to receive the servant of God. But before we receive him, please join me to welcome either to bless us with a song.

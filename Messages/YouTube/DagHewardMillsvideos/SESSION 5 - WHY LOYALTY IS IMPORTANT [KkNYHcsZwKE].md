@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=KkNYHcsZwKE"
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 you don't you be such a hurry cause it only lead to roaring there's a time to watch as the bread try to find a buy of the day here boys and see his face and you hear the spirit falling off away I'm aware and your happy puppy big-time with you are you sinking in your photo are you roar about tomorrow other pressures of this high too hard to bear you have to care one day you keep you perfect ease within and you give give it all away come away your heart and mine if you ran

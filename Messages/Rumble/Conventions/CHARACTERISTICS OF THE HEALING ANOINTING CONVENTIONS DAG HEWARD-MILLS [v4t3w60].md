@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t3w60/"
 duration_min: 184
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 How can it be? How can be better? She amazing amazing love. How can it be? How can we be?

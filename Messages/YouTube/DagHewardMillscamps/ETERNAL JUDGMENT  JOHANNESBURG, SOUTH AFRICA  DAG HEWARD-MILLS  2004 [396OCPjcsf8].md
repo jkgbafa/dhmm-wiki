@@ -8,6 +8,8 @@ year: 2004
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 welcome to track number four of church planting turn with me to Hebrews chapter 6 Hallelujah Hebrews chapter 6 verse1 therefore leaving the principles of the doctrine of Christ let us go on unto Perfection but before I do that I have a few books I just wanted to introduce to you um this one is called the tth ministry how to be a minister who is a tenth Minister that means to work for the Lord and at the same time be able to do your secular work all the biblical basis for it is right here Pastor Oliver

@@ -8,6 +8,8 @@ year: 2010
 duration_min: 159
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 I'm going to keep on shouting I'm going to keep on singing I'm going to keep on in my voice and let the world know Jesus sa the whole world got to know Jesus sa the whole world got to know Jesus the black man got to know Jesus everybody is got to know I'm going to shout it from the mountains oh I'm going to sing it from the valley oh Jesus say I'm going to tell the whole world Jesus Oh jesuses yes Jesus oh Jesus sa yes Jesus sa Jesus I'm going to keep on singing I'm

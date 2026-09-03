@@ -8,6 +8,8 @@ year: 2001
 duration_min: 36
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 now the next thing that is going to come up is that you are going to be assessed amen by your the type of good works that you've done amen how the works are so you may have a lot but if it's not a good type you get it it's just going to burn turn with me to First Corinthians chapter 3 First Corinthians chapter number three what does it say verse 5 and who is Apollos Say by whom you believed ver six I have planted Apollo's water but God gave the increase I feel the SP is

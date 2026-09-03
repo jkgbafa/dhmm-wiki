@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-H-GuTf4VMI"
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances"]
 ---
 
 hallelujah lift your hands just thank the lord for this wonderful opportunity father we thank you for the blessing we have in you today in the mighty name of jesus amen number eight the islands are waiting people who are going to bring about super natural church growth so the islands are going to wait for somebody who will bring about church growth amen isaiah 60 and verse number one arise and shine for thy light is come and the glory of the lord is risen upon thee for behold darkness shall cover the earth and gross darkness the people

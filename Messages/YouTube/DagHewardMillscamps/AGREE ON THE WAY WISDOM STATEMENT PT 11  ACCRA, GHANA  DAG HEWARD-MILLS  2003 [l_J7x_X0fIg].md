@@ -8,6 +8,8 @@ year: 2003
 duration_min: 35
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wisdom"]
 ---
 
 welcome to track number 11 of AG greet on the way and and and one lady I remember in legon I went to talk to her and I said to her listen you have to straighten your life I mean are you a Christian and so on she said well I'm a Christian and all that I I'm a Christian or whatever and then I said you believe I mean are you doing the will of God are you believe in uh are you going to do God's word and God's will you know you said well and I said

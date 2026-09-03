@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tnANwdHKB8M"
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 where he ah Oh thank everyone gee everyone let's just for tonight thank you Jesus real blessing Alleluia thank you Jesus a great blessing now in Jesus name Amen you may be seated tonight I just want to share a short message and then I'll show you some shots DVD amen so our message is on faith the message is entitle you must be a man of faith Hebrews 11 verse 1 faith is the assurance of things hoped for and the conviction of things not seen for by it the men of old gained approval amen so the first

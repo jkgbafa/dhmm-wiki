@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4k0LotDvGNg"
 duration_min: 229
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 1 1 two stealing cursing killing cursing fighting this is how I live my life I was a sinner this is who I really was wasting my life knowing me kn you we live the life of s sh Knowing Me Knowing You we live the life so very far from God what can wash us and cleanse us of all our F only mercy and Grace by the blood of the Lamb boyfriend kissing girlfriend smooching dancing cing this is how I live my life I was a sinner sner and this is who I really was wasting my

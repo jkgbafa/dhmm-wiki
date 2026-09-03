@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ud7lx/"
 duration_min: 66
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 How patient he is for the autumn and the spring rains. You two be patient and stand firm because the coming of the Lord is near. We present to you a sketch entitled Patience. Charlie, I was blessed. The anointing people were falling in anointing for breakthrough.

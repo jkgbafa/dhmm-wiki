@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=OIb_PjsKy7c"
 duration_min: 164
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Est-ce que vous êtes fatigué? Est-ce que vous êtes fatigué? Alléluia. Est-ce que vous savez que Jésus a payé pour nous tous ici ce soir? Levez-vous, je vais voir, levez-vous que tout le monde se lève.

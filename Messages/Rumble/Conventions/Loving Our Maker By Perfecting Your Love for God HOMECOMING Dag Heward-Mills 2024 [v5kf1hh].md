@@ -8,6 +8,8 @@ year: 2024
 duration_min: 212
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Prayer/All-night Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/prayer/all-night-prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 Consider your way so yes now go up into the mountain and bring the woods and build the house of God by will you I will build my house upon this right and the gates of hell shall not prepare against it I will give you the keys of the kingdom of hell to watch you by the earth is bound in heaven will you build my church will you build my house will you be like a hemaira build the house of God you say I will build your church I will build your house and be like a

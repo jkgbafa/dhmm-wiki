@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wnqEcODbfw8"
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh honey honey I love you honey honey honey honey honey kind of money money I mean I love you Aliannah testimony IV o how I love I saw or law it is my meditation all the day long through cycles and Mei Bao is my why does that my enemies oh my head away how sweet I thought aboard hey honey honey I love you honey honey - honey honey honored honey honey I made you and kept the money I love you honey I need you to morning I love you testimony I think I have more understanding

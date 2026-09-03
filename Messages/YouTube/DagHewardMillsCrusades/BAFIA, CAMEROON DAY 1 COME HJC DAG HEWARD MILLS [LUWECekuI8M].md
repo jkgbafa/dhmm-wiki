@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=LUWECekuI8M"
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Alléluia mafia, est-ce que vous êtes prêts? Si tu as la joie, cria pour Jésus, plus fort, plus fort. Aujourd'hui, Dieu va toucher ta vie. Quand je vois ce que tu as fait, chantez, chanter, j'ai la paix, le belle main, la paix dans mon cœur. Quand je vois ce que tu as fait, oh j'ai t'adore, je veux te louer.

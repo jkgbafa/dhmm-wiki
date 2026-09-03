@@ -8,6 +8,8 @@ year: 2023
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 father we are excited to have this time to pray and to have this Camp Meeting thank you for blessing us and making all things possible thank you for the holy spirit that is moving in our midst we love you Lord thank you Lord in Jesus name amen amen all right you may be seated and uh whoever is in charge of the hall can we put on some more lights please more lights in the hall everywhere now I want to share with you about what I call loyalty amen amen now what does loyalty mean loyalty has

@@ -9,6 +9,8 @@ duration_min: 24
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/TWO STRONG DECEPTIONS IN PERGAMOS  MARYLAND,USA DAG HEWARD-MILLS 2001 [cKgEJjrUvOk]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to track number 14 of the message of sacrifice. Pegamos, just a part of that. Alright. Now Pegamos is the place where Satan lives. Amen.

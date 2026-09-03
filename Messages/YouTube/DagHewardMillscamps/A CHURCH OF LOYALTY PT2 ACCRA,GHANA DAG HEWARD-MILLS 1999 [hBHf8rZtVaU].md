@@ -8,6 +8,8 @@ year: 1999
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Now, we are continuing on our theme loyalty. Now, I just want to say something right here that anybody who has a difficulty with the subject trying to help you. Really, I I really, really want to help you. And I feel that I should I should help you to see because you know, if you've been here, you've been listening to what we've been saying, you will be afraid of pride, and you'll be afraid of it because it's so insidious. You see, like a snake which is uh around, but you don't know that it's around, it's a very dangerous.

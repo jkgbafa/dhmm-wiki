@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=yntUwCijuwU"
 duration_min: 282
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 come on let's lift our hands and sing this song it's a beautiful song Light of the World you step down into darkness you open my eyes come on let's build it beauty that makes Bea that my Lord hallelujah and Hope spend with you why don't you lift your voice and sing Light of the word you step down into this world full of Darkness you open my eyes you let me see sing that this Heart and Hope of Life spend with you one more time sing Light of the word you step down into darkness into dark

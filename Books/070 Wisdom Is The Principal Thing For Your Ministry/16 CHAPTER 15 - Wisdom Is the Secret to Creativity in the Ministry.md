@@ -4,6 +4,8 @@ book: "Wisdom Is The Principal Thing For Your Ministry"
 book_number: "070"
 chapter_number: 16
 type: book
+topics: ["Ministry and Pastoring", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/wisdom"]
 ---
 
 ### CHAPTER 15\

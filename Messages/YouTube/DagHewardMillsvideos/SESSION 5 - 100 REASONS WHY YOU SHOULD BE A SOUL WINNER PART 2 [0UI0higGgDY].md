@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=0UI0higGgDY"
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 be aluminum is because david livingstone there do not even listen do you know what he said he said sympathy is no substitute for actions sympathy is no substitute for action you may have a feeling about what you call it they work oh I really think oh oh what a good worker do with all these people who or bishop god bless you your sympathy is no substitute or an action we are still expecting your actions we are waiting he's waiting he is waiting waiting for you waiting on you waiting on you patiently waiting I am worried

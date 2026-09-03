@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=fvBGTRLSojk"
 duration_min: 160
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 amen why don't you put your hands together for the Lord one more time David said one thing have I desired of the Lord and that will I stick after that I made dwell in the house of the Lord and behold the beauty of the Lord amen have I desired of ding have I desire that I will seek half that I may dwell in the house of the Lord behold job is to be wider in your temple decreed off your ass hi one thing everything Oh please stop of the power more time and they're beautifully clad

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2020
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 So God is calling you to join. Amen. To take up the burden of the people. Amen. Now Jesus Christ had a burden, chapter 6 of my book, Matthew chapter 9 verse 36. I want you to pray for a burden and I want you to see that it's something that Jesus had. Matthew 9:36 But when he saw the multitudes, he was moved with compassion on them because they fainted and were scattered abroad as sheep having no shepherd. Amen. Jesus is moved with compassion for people's lives. Amen. Amen. And look at your life even in the you're

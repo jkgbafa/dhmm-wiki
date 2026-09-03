@@ -8,6 +8,8 @@ year: 2016
 duration_min: 146
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Church Growth", "Church Growth/Mega Church", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/church-growth", "topic/church-growth/mega-church", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 ooho now that I know there's only one God in all of the earth you're my only God and I want you to know my love for you I'll never let go cuz I love you so w all I want is to serve you if I live my life again I'll choose you it's been worth wor Living For You Lord I love you and there's no one I above you cuz you gave your son you gave your love and you turned my life all around you gave your life to set me free so I serve you

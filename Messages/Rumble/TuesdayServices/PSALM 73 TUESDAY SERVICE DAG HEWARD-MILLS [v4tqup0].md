@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqup0/"
 duration_min: 47
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Hallelujah, Hallelujah. Let's pray. Father, thank you for your blessing. Thank you for your word. Thank you for your spirit.

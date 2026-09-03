@@ -8,6 +8,8 @@ year: 2023
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 Hallelujah let's pray father thank you for your blessing tonight thank you for your guidance thank you for your Mighty holy spirit thank you for the great privilege to be here and the great privilege to be part of your work in this end time these last days thank you for what America has has been and thank you for what it will be and what it will become Thank You For Your Glory just lift your hands and ask the Holy Spirit to fill you to speak to you to lead you to open your eyes Lord open my

@@ -3,6 +3,8 @@ title: "THE GRAVE IS NOT THE END  FIRST LOVE SERVICES  0422  DAG HEWARD-MILLS_pm
 channel: "ChurchServices"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 come on everybody thank him thank him thank him thank him thank him thank him thank him thank God that he's giv you victory over every form of disease thank God that he's giving you victory over poverty thank God is's giving you victory over Madness thank God he's giving you victory over every form of illness thank God he gave you victory over covid thank God is giving you victory over the pl of the enemy I want to hear somebody lifting their voice and thank God and blessing God what an what an honor my God yes yes

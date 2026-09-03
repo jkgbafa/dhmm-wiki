@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zqQgLwtllTE"
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 my god also he can move his me in the bar hide me hold the ring my god broken I've been waiting forever he worried oh my god is awesome he can move is me the body I'd be from the rain oh my god oh he's me when I'm broke bread where our been weakened forever he will Oh Oh my god awesome Oh my balls just by spring sing it again my god is also lady Aveda wrong yes ah my boss of my body oh yeah a car boys Grange is my Oh my god my god

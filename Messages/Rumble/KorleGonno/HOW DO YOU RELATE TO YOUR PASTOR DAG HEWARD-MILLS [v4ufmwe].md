@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ufmwe/"
 duration_min: 58
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Today we are continuing our series on how to relate with your pastor, or how to relate to your pastor, whichever one suits you. 1 Peter chapter 2, and we want to read very quickly, and we'll be moving on. How to relate with your pastor. If you have Peter in your Bible, you can turn to chapter 2. And we want to read verse number 25.

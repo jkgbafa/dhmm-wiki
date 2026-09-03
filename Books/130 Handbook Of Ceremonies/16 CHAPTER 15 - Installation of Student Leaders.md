@@ -4,6 +4,8 @@ book: "Handbook Of Ceremonies"
 book_number: "130"
 chapter_number: 16
 type: book
+topics: ["Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 CHAPTER 15\

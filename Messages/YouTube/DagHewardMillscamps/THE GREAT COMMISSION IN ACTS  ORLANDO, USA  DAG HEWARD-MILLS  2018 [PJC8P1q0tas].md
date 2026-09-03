@@ -8,6 +8,8 @@ year: 2018
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 you may be seated what a morning what a day what a blessing ask are you ready for something powerful about to happen are you really ready yes tell the person that today is your day it's your day you are going to receive something powerful that will change your life that will make you great something that will make you a servant of God and and and and as a person are you are you sure you are ready to serve God say God is looking for you Clap Your Hands for Jesus Keep clapping that hand clap is

@@ -8,6 +8,8 @@ year: 2011
 duration_min: 154
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 Today, we are talking about the art of shepherding. Being a good pastor. How many want to be a good pastor? Do you know that if you are a good doctor, a lot of people will come to your pastor? How many know that?

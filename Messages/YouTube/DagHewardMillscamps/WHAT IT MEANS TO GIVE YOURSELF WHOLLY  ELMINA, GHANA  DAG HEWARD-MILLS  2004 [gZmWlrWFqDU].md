@@ -8,6 +8,8 @@ year: 2004
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/ministry-and-pastoring", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 I think this Arrangement is better yeah the other one you people look like some managing director I was I realized I was afraid of you yeah any questions no questions that's Richard yeah wonder why why the name fishes Jesus said I'll follow me I'll make you fishes of men I'll convert you from your secular work of fishing for fish to fishing for men so you have been shifted in your secular your life's job has changed so those of us who are here have had our lives vocation changed set or what do you think from making

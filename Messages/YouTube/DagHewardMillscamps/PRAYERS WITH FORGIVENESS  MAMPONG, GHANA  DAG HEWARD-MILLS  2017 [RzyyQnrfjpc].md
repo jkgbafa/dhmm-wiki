@@ -8,6 +8,8 @@ year: 2017
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer"]
 ---
 
 we give you thanks we give you thanks we praise you and we bless you come on lift your hands to Jesus lift your hands to Jesus oh Jesus oh yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes we give you thanks in the name of the Lord Jesus Christ put your hands together for the Lord and now put your put your hands together and let us welcome Bishop Richard AI put your hands together for the Lord and let us welcome Bishop Richard

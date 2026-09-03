@@ -8,6 +8,8 @@ year: 2005
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 welcome to track number two of perfection we thank you for your word your blessing in the name of Jesus amen amen you may be seated okay now I want to call for the greatest sacrifice amen how many are ready to give the greatest sacrifice to the Lord are you sure are you sure huh okay now the greatest sacrifice is to give yourself amen am everybody say myself myself say I want to give myself I want to give myself how many want to give yourself some of you now yourself is better to give than anything else

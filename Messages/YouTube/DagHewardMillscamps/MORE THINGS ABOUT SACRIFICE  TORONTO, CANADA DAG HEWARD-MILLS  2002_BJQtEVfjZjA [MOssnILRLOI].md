@@ -8,6 +8,8 @@ duration_min: 44
 source: "autocaption"
 match: "fuzzy"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MORE THINGS ABOUT SACRIFICE  TORONTO, CANADA DAG HEWARD-MILLS  2002 [MOssnILRLOI]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 14 of the mega church now stages okay stages of loyalty disloyalty stages of disloyalty all right but now just hold on to that let's let's round up with the sacrifice now just added to this point that you have the sacrifice because what you withhold from God will be taken away from you anyway amen Sam I think you should give me a little more volume on this so that I I don't have to raise it up Hallelujah hello hello hello hello amen all right right hello is it better I don't think so hello hello hello hello

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zQqLOj8MDks"
 duration_min: 137
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 like a father hallelujah what a blessing to be here today father we thank you for your great presence this morning I want to share with you about working for God amen working for God is the highest and greatest job a person can do if you haven't had the opportunity to do other jobs and you just passed the pasta you may think that other jobs are greater than the job of being a person but I've had opportunity of being a doctor one of the most valued honored and dignified professions and I can tell you that being

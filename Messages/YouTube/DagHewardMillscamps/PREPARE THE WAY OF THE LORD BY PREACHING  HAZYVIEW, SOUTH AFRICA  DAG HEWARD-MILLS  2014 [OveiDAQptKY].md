@@ -8,6 +8,8 @@ year: 2014
 duration_min: 125
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 I tell you if you are going to preach you you you you will do Bible study you will do Bible study Char when you are preaching and there's no scripture you have for to find the scripture some people do not read their Bibles unless they are going to preach it's true sit down one day a certain man was going to divorce his wife and the two of them were fighting to see whether the children children will go follow the husband or wife divorce you know is one of the most divisive things you can ever have

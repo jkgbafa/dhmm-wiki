@@ -4,6 +4,8 @@ book: "Backsliding Develop Your Staying Power"
 book_number: "047"
 chapter_number: 4
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "Prayer/Praying in Tongues", "Salvation", "Salvation/Backsliding", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/salvation", "topic/salvation/backsliding", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 # Chapter 3

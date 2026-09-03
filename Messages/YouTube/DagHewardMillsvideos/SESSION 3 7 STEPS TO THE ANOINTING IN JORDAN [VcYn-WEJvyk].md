@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=VcYn-WEJvyk"
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Prayer"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/prayer"]
 ---
 
 I just wanna be where you are swellings alien your breath I don't wanna worship from I just want to be with you whoo I just wanna be where you are that's your finish your hands I wanna be where you only in your prayer let me say make me love you I just want to be I am wanna be Lord I wanna be with you ah ha ha ha wear it in your prayer and missing after table oh ho not if I blow me forbid your pray heaven laughs am I always want to be I just

@@ -4,6 +4,8 @@ book: "Beauty"
 book_number: "121"
 chapter_number: 9
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 ## Your Beauty Depends on Many Factors

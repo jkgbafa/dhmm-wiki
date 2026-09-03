@@ -8,6 +8,8 @@ year: 2024
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 a TB might everybody lift your hands Jesus we thank you for your Mighty power we are grateful tonight we ask for the Holy Spirit to touch every life here save us oh Lord Deliver Us from Evil speak to every heart and every life let your Mighty power be released Jesus we love you we thank you we are grateful in the name of Jesus Christ and everyone shouted amen Tonight is the last night and I want you to listen very carefully for this very short message I want to thank the pastors of an Bay for welcoming

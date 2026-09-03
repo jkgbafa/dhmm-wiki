@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/rivers-you-must-cr
 duration_min: 71
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 The room grew still as she made her way to Jesus. She's tumbled through the tears that made her blind. She felt such pain. Some spoke in anger. Her folks whispered, there's no place in here for a kind.

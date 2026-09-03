@@ -9,6 +9,8 @@ duration_min: 16
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HAVE GOOD DESIRES  SYDNEY , AUSTRALIA DAG HEWARD-MILLS  2003 [OcEhj4gxlmo]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Vision and Direction"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/vision-and-direction"]
 ---
 
 Welcome to track number 17 of how to survive in Ephesus. Amen. Now God wants us to have good desires. Amen. And one of the desires we should have is that we should have our vision to be to become a bishop.

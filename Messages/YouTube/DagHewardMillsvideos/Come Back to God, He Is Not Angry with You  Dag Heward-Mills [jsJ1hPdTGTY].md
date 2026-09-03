@@ -8,6 +8,8 @@ duration_min: 111
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/The Prodigal Son  First Love Church  Dag Heward-Mills [xEic_a17x9U]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 One of the reasons why people leave churches like you are in this church, you go to another church is because you want to go where nobody knows you. Cuz when you are walking on the beach in a bikini somewhere, nobody knows you there. There are times when things don't affect you, but then there comes a time when things affect you too. So you may see yourself as someone who has escaped this problem. I I dodged those who bombed their school. I dodged those who this I was able to escape those who became addicts. I escaped.

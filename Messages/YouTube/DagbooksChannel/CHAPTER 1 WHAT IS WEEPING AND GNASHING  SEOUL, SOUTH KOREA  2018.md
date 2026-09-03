@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2018
 source: "autocaption"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 I want to pray. Father, thank you for your blessings today. Thank you for the wonderful message we've heard, the wonderful words you've given to us. What a blessing, Lord, to come all the way to Korea to receive from you your holy word, your direction, your blessing, the lifting of our lives and our ministries to the next level. Thank you for your power for everyone here. Thank you for Dr. Cho. Thank you for the great church that he's built and the many sons that he has discipled through the years. Thank you for the opportunities that he

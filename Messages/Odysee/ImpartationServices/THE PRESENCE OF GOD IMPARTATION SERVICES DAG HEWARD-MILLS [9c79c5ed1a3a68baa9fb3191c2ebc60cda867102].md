@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/the-presence-of-go
 duration_min: 50
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Hallelujah. Father, thank you for the opportunity to be here. We thank you in Jesus' name. Help us, Holy Spirit, in Jesus' name. Amen.

@@ -8,6 +8,8 @@ year: 2001
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring"]
 ---
 
 Welcome to track number seven of victory layodisha you are doing it because of this disease, you are a bad person, and suddenly you become discouraged for the place. Oh I've not thought about that. You suddenly begin to feel you are doing something wrong. Every good road you walk on, Satan will meet you on the way and tell you you are a bad person, you are really doing this for a bad motive. This is your reason.

@@ -3,6 +3,8 @@ title: "CAMP OVERVIEW  MATOLA, MOZAMBIQUE  DAG HEWARD-MILLS  2016_PGHUeDP93yY"
 channel: "DagHewardMillscamps"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Church Growth", "Church Growth/Church Planting", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 if you want to start a church is you must count the cost count the cost can we repeat it again I can't hear you a little louder much more louder amen amen and what did Bishop tell us about the cost what is the cost what's the price you pay to plant a church sorry your what Your car your what life oh so that is the price you pay so when you see a church it is equal to somebody's life yes a person gives up his life a person gives up his dreams a person gives up

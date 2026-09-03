@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=UPdJ75RPiTM"
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 oh I was a Christian and attend a church and I believed I really love the Lord but there was a day I went to church and the preacher spoke to me he said Jesus said if you love me keep my words my commands listen to my voice Jesus really needs to know how deep is your love de Is Your Love How Deep Is Your Love he really needs to know that you're willing to surrender all all of your life do his will and his command that's the least that you can do greater love has no

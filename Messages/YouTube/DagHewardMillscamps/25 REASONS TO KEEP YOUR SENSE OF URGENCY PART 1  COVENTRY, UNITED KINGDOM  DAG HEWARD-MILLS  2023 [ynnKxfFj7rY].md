@@ -8,6 +8,8 @@ year: 2023
 duration_min: 161
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 now pleasant surprise is going to come out with music stars how many believe you have such Stars here right here oh yes because you see in your Evangelistic efforts when you put a music out this anywhere it will be understood that we are in a high class uh realm yes and music stars are coming forth from pleasant surprise you are going to Dazzle the world oh yes you be singing in hotels at bars night claps anywhere Sinners are found you'll be singing and preaching through your song look at a preaching like this that there is

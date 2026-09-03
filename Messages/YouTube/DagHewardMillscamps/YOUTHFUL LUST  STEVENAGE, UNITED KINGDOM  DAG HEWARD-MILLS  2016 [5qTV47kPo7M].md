@@ -8,6 +8,8 @@ year: 2016
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 you are so beautiful there's no one like you it's so good to trust in you I couldn't live one day without you I realize now it's all about you it's all about you Lord focus it on you it's all about you Lord being close enough to feel the beating of your heart and know the sound of your voice that's what it's all about Lord only you only you I need you more and more and you feel my empty soulty in your arms I'm safe and sound you're my rock and my Foundation my S reward in

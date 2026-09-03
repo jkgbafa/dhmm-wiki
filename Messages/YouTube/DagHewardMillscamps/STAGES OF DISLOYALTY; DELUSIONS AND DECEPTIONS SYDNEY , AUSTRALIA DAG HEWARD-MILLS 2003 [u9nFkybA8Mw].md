@@ -8,6 +8,8 @@ year: 2003
 duration_min: 55
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 Welcome to track number nine of how to survive in Ephesus. And Caleb stilled the people. If we had been following the crowd of memories, they would never have got into the promised land. And they didn't get to promised land because the crowd, the majority, were against what the will of God was. Do you think if Moses had stood for elections, he would have been the leader?

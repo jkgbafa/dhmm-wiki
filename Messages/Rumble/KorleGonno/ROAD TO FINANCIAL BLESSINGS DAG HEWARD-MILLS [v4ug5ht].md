@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ug5ht/"
 duration_min: 48
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Oh we worship let your voice be heard in worshipping the King of Kings and the Lord of Lords and Bababa. You are worthy, oh God. You are worthy Lord, you were worthy Lord, you were worthy, Lord. In the midst of your people, Lord, we exhibit you, oh God, we magnify your name, oh God. We say that you reign in highest of God.

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tykzz/"
 duration_min: 53
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 Let us pray. Father, we are grateful for this morning for an opportunity to be in your presence and to receive your word. We pray for humility, for openness of our hearts. That Lord, we will be able to understand what you are saying to us and do what you are saying to us. In the name of Jesus.

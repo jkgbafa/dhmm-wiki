@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/the-anointing-of-p
 duration_min: 78
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Anointing/Kinds and Waves of the Anointing"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/anointing/kinds-and-waves-of-the-anointing"]
 ---
 
 Father, we worship you. We say, hallowed be your name. We are not worthy to serve you, to know you. You have had mercy on us. We say, hallowed be your name.

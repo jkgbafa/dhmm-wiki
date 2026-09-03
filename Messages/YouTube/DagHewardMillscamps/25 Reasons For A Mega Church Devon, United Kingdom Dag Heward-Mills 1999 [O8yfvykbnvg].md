@@ -8,6 +8,8 @@ year: 1999
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 amen amen amen all right so the reason why I'm giving you the I'm I'm giving you reasons why you see somebody May wonder why is it that in our church we have 20 reasons why there 25 reasons why there 50 reasons why 15 10 and all that you see God is trying to help us have understanding to understand why we are doing what we are doing that's right you get what I'm saying cuz when you understand why you are doing it you behave differently many years ago I studied the anatomy of a fly all right

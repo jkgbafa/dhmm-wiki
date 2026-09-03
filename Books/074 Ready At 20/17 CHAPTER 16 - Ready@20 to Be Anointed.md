@@ -4,6 +4,8 @@ book: "Ready At 20"
 book_number: "074"
 chapter_number: 17
 type: book
+topics: ["Anointing", "Anointing/Kinds and Waves of the Anointing", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/anointing", "topic/anointing/kinds-and-waves-of-the-anointing", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 ### CHAPTER 16\

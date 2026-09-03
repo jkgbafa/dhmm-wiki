@@ -4,6 +4,8 @@ book: "How To Neutralize Curses"
 book_number: "107"
 chapter_number: 29
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 #### CHAPTER 28\

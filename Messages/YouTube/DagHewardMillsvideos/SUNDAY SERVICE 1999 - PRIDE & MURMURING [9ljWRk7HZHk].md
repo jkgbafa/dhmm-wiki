@@ -8,6 +8,8 @@ year: 1999
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 yeah put your hands together Oh right Oh ha ha put your hand together for two ether hallelujah you wanna call and shake somebody welcome somebody into the presence or the Lord hallelujah you want to make a new friend want to shake the hand of somebody you have never spoken to before let's be happy you're my brother you're my sister so take me by the hair together what here we can go both that entity that as we walk in time aside a bogus Airy love we will say also got sick somebody welcome somebody with a cloud

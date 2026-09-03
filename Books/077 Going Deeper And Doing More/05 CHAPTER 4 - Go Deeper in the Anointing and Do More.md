@@ -4,6 +4,8 @@ book: "Going Deeper And Doing More"
 book_number: "077"
 chapter_number: 5
 type: book
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 ### CHAPTER 4\

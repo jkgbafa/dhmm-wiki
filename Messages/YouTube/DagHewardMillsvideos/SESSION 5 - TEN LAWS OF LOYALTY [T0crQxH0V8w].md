@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=T0crQxH0V8w"
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Loyalty and Disloyalty"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/loyalty-and-disloyalty"]
 ---
 
 now I want to share with you on loyalty and disloyalty to be part of a group - loyalty - loyalty and I'm preaching from my book those who are ignorant as you to leave they leave circus or in your home it's all under loyalty and disloyalty it to your sue Latifah I got it loyalty it is usually called leaders and loyalty city lunacy Santucci lay lady de ella del Oeste Illinois Otis but I change this title military pressure look a little in the live-action theater now I want you to recognize this you know look at

@@ -8,6 +8,8 @@ year: 2009
 duration_min: 58
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 So my easy story and you have you go so everyway to man who is dead when I ask them they just come in to make me home live forever say I might be one of your streets say I think I'll be fine with the boy say I say you never want to still you want to have and to his eyes of God and you touch the memory all these eyes that I'll just have to say I guess we didn't die for you like you want to live forever say I do want to want to go

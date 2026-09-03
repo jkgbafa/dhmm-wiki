@@ -8,6 +8,8 @@ year: 2011
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 heart that's faithful and the heart that's true that's what is will do what he want us to do that's what he do that's why is good that's what is looking for a heart that is faithful each and every day that's what is looking for he's looking for hearts that will say Jesus Lord I'm willing to obey that's what is the keep o oo o that's what he looking that's what is looking for a heart that is faithful and the heart that that's true that's what is looking for he looking for a heart that is willing

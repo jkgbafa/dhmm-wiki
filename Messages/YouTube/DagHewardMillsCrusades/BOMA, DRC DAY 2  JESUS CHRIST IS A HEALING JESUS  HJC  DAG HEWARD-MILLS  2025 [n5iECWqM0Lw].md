@@ -8,6 +8,8 @@ year: 2025
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Hey, better better. So in your silhou in your soul. Master is your soul. I to Solomon your soul as Oh yeah. I am Yes. Jesus. I open your to the Heat. Heat. I am Hey to you. I took me some Mama, now I kiss you. chocolate measure. Give me your lucky mo. I like him. That's a lucky mi. That's the You say yes. Heat. Heat. Yeah. Heat. Yeah. Heat. Heat. Heat. Hey, the Jesus. Oh my gosh. Nobody. I want to go. I want to go. Father, get up. Get out here. Heat. Heat. to the Jesus.

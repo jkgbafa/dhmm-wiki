@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=yiWhCX216DI"
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Holy One long preserve for our war in this world with God's Own Heart oh let the Antion worth in part words of life words of Hope give us strength help us go in this world where we W ancient words will guide us oh anient words changing me and Chang we have come we have come with Open Hearts for let the work CH in me and ching have come with open heart oh let the nation work in of the faith handed down to this through sacrifice oh he's a faithful work of holy words long prve for

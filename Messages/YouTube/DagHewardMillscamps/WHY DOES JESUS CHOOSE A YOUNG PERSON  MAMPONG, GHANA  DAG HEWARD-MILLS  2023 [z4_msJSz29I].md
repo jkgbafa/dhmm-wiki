@@ -8,6 +8,8 @@ year: 2023
 duration_min: 55
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 wow what a blessing now we are looking at the Glorious Church the Glorious church and a cazo assemblies is a glorious Church amen Exodus chapter 10 why are we interested in the Glorious church if Ephesians chapter 5 verse 27 that he might present it to himself a glorious church not having spot or wrinkle or any such thing but that it should be holy and without blemish amen so the Glorious church are you listening has two main characteristics number one no spot and number two no wrinkle and the spots are spots of sin spots of an

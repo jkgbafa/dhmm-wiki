@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=QIisYFBRjYQ"
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 with my phone I have bought you let me not wander from your come and candy not wander from your command with my whole I have not that whoa with my home I have and did not wander from your car maybe not wander from your man with my ha I have maybe not wonderful it me not wander from Batman by your world he did is my heart your work I am that I might not sin against you your word your word your word Oh Oh please put has ever have one more time wonderful well we are

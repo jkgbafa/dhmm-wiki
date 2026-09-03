@@ -9,6 +9,8 @@ duration_min: 132
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/ARISE AND LET'S SHOW THAT WE ARE GRATEFUL HELSINKI, FINLAND DAG HEWARD-MILLS 2023 [uSLcNwzIqUY]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Hallelujah Father, thank you for the great blessing we have in the name of Jesus. Amen. You may sit. 15, number 15, 1. Choose any. Rise up, travel the land. Rise up and show that we are grateful. Let me show you and show that we are grateful. Now 1 How many here were people with serious problems? Your M. If you have serious and incorrigible problems, it's not interesting that you are not ready for healing, but rather ready for healing because the problems we have, in a certain way, we can link them to something we deserve. Amen.

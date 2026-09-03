@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Fg2fVRMhyk0"
 duration_min: 148
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 now revest on the nature of satan is contagious are you there it the nature of Satan is passed on to anyone who allows it I'm giving you things you should know about the nature of Satan I want it is it is contagious theater the kids are upset and it's contagious the nature of Satan is passed on to anyone who allows it it happens by invisible processes of osmosis contact hi there and association with the devil I with me the nature of Satan is contagious the nature of Satan is passed on to anyone who will allow

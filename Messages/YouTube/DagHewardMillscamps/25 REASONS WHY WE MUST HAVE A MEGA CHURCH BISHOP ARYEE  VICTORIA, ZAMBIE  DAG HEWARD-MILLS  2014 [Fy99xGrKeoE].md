@@ -8,6 +8,8 @@ year: 2014
 duration_min: 181
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 when you look at the title in Pursuit of Happiness I I watched it once I only remember one thing in that movie where he said to his son is it because his wife left him his wife left him because he was broke yeah he left him he left him with his son because they were broke they didn't have anything he see so one day his son asked him daddy why did Mommy leave us why did Mommy leave and he gave an answer I can't forget he said to his son mommy left because she's weak yeah

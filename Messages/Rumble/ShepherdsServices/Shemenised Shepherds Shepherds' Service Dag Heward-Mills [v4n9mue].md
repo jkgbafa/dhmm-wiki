@@ -7,6 +7,8 @@ url: "https://rumble.com/v4n9mue/"
 duration_min: 49
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Heavenly Father, thank you for the opportunity we have in you and in your presence in the name of Jesus. Thank you for the great blessings we have to receive your word and your spirit and the anointing. We love you. We thank you in Jesus' name. Amen.

@@ -8,6 +8,8 @@ year: 2023
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Spiritual Warfare"]
+tags: ["topic/ministry-and-pastoring", "topic/spiritual-warfare"]
 ---
 
 Thank you, Holy Spirit. Merci Saint Esprit for your guidance. And the filling of the Holy Spirit. Merci parce que tu ne remplies de Saint-Esprit. Leaders.

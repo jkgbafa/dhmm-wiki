@@ -4,6 +4,8 @@ book: "Seeing And Hearing"
 book_number: "081"
 chapter_number: 18
 type: book
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 ### CHAPTER 17\

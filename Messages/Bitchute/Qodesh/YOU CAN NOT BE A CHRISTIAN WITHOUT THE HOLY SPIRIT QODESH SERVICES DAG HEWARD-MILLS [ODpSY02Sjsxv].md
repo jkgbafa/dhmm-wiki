@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/ODpSY02Sjsxv/"
 duration_min: 42
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Lord, let me have a dream without be a dream and law. Let me have a vision. Let me have visions from the spirit. And let me work with diligence. Always knowing that you're the start and the end of it and law.

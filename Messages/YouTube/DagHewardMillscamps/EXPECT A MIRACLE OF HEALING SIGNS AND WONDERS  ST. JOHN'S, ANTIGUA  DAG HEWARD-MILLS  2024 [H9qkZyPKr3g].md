@@ -8,6 +8,8 @@ year: 2024
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/the-holy-spirit"]
 ---
 
 now we are moving to number seven our last point for our camp meeting I expect the miracle of healing signs and wonders amen now beginning from tonight Miracles are going to start happening in your life Miracles are going to do what Acts chapter number two verse number 21 wow the special power of God is going to be on your life and it shall come to pass that whosoever shall call on the name of the Lord shall be saved oh yes ye men of Israel hear these words Jesus of Nazareth a man approved of God among

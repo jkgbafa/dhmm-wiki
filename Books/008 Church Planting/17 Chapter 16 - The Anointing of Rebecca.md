@@ -4,6 +4,8 @@ book: "Church Planting"
 book_number: "008"
 chapter_number: 17
 type: book
+topics: ["Anointing", "Anointing/Kinds and Waves of the Anointing"]
+tags: ["topic/anointing", "topic/anointing/kinds-and-waves-of-the-anointing"]
 ---
 
 Chapter 16\

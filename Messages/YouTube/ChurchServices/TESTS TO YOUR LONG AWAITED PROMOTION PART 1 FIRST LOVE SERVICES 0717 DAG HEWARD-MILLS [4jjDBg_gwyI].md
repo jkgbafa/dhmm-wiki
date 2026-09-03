@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4jjDBg_gwyI"
 duration_min: 160
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 Amen. It's time for testimonies. Amen. I believe this morning we have overcome the devil by the word of our testimony. Why don't you put your hands together as we welcome Martin to share his testimony with us.

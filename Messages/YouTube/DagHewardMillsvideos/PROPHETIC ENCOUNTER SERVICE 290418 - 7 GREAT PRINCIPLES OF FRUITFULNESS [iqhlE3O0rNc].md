@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=iqhlE3O0rNc"
 duration_min: 239
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/The New Birth", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/the-new-birth", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 subedi my Jesus my all of my days I want to play the oneness of your mighty love I can't put my shirt on I believe that a promise let me have the children there's nothing that compares to it my Jesus I want to bring my chocolate or listening to the Lord all the magazine to accomplish my promise that amazing to make me one to me like you I want to be a mr. except you won't lose it I wanna be a lesser I sing I want to be more I can turn but lost body I

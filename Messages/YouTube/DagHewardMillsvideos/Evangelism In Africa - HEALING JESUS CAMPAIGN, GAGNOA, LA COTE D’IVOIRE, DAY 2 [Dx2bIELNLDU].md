@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Dx2bIELNLDU"
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 I'm on your heart right now nothing unless you watch my screen - Oscar Lord Jesus take your shitty let your power and tell me today that we source also process wha let your miracle power answer me today have we sauce the oculars out of mashallah let every demonic power come out of me tonight super whatever yet get merciful in the name of Jesus another shitty in the name of cheese other shitty in the name of cheese aunty shitty receive it now mr. vain let me hop really nervous right now let's available now father thank you

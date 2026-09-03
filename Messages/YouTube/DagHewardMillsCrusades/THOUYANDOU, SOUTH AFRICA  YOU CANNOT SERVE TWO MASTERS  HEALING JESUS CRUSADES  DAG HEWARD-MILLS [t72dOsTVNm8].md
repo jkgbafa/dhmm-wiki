@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=t72dOsTVNm8"
 duration_min: 135
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 please join me to welcome vidi to bless us with a song Hallelujah Give the Lord a shout of Praise te one the Hallelujah you do it like this oh now oh yeah to meory lift up your hands she I lift up your hands and say lift up your hands and W to the Lord oh why don't you sing with me hey give the Lord a shout yes go somebody say lift up your hands and sing come on listen Ro is lift up your hands and sing upon lift up your heart sing put your hands together

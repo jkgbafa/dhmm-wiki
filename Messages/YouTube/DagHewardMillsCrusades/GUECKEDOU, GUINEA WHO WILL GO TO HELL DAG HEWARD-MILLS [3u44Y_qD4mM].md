@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=3u44Y_qD4mM"
 duration_min: 52
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Amen. Amen. Amen. Now who will go to hell? Everybody who is not born again, a born again Christian will go to hell.

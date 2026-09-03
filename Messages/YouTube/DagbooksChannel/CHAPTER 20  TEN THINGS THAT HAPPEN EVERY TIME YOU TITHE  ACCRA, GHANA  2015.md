@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2015
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Every time you tithe, a number of things take place in the realm of the spirit. Yes. And they are all spiritual things. That's why I want you to listen. Are you there? Number one, every time you tithe, are you listening? There's no need to write. I'm preaching to you from my book. It's written already for you in black and white with capital letters on certain scriptures for you to get it clearly. It sounds like a new message, isn't it? And the word of God is always fresh. Yeah. But this this this this is one of

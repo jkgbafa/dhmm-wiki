@@ -8,6 +8,8 @@ year: 2015
 duration_min: 162
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wisdom"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wisdom"]
 ---
 
 When a man loves the Lord when a man loves the love, yes, when a woman loves the love when a young man like you loves the love. Hey, it's so beautiful when a young man a woman, a boy or a girl loves the love, oh when a man loves the law, he doesn't want to miss the quiet time, he doesn't want to miss his time alone with the law, and he doesn't wanna miss the prayers, he doesn't wanna miss the fellowship, he doesn't want to miss a word from God. Oh when a man loves the

@@ -8,6 +8,8 @@ year: 2008
 duration_min: 192
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Alright. So you can relate with your sheep. How do you relate with them? You get it? You can relate one of the ways is like a master and uh servant.

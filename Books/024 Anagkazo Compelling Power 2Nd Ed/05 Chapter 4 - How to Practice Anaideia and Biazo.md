@@ -4,6 +4,8 @@ book: "Anagkazo Compelling Power 2Nd Ed"
 book_number: "024"
 chapter_number: 5
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 ### Chapter 4\

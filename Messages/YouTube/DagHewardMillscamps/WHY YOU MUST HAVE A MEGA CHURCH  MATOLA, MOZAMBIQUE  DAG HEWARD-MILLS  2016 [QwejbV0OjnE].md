@@ -8,6 +8,8 @@ year: 2016
 duration_min: 185
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Hallelujah let us let us pray let us pray father thank you for this time we ask you to guide us by your Mighty spirit and to all truth in this time lead us by your Mighty spirit everybody just ask God to Lead You by his Spirit to the word of God thank you Lord for your blessing thank you for your your word in the name of Jesus in the name of Jesus thank you for your blessing pray for the spirit of Revelation a pray for the spirit of Revelation pray for the spirit of revelation God

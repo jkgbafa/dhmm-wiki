@@ -8,6 +8,8 @@ year: 2024
 duration_min: 208
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 Father, thank you, Père, nous te remercions for your will for the voluntary. Let the will be done in the mighty name. We pray with thanksgiving. The baby see that so I why your soul is important. Amen.

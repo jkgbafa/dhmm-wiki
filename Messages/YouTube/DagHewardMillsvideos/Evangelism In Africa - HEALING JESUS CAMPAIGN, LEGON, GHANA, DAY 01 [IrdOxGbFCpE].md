@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IrdOxGbFCpE"
 duration_min: 146
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 what yeah dr. kambou got me never get Thank You mother's day she knows magic Jimmy cater to a cocky neck okay in the morning when we wake up we will sing appraisal to you or we will sing we will dance to you for ever yeah hallelujah you want to lift up your hands on the way bit onto Jesus with your hands onto Jesus hallelujah tonight we just want to worship God in this place you want to lift up an instance of worship hallelujah can you lift up your hands and close your eyes wherever you are

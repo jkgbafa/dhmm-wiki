@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=3f887doGL9o"
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I was thinking defenses far from the peace social very dc-10 with is thinking to rise gumball but the master of the sea read my despairing cry from the water to live healthy well no one cries L love lifted me up lift me love it'll be when no one cried golden day pursue cover completely day he will lift you by his hand out of him way he's the master of us and below this we will obey you save y'all want to be too Oh oh and when no one cries love attendee oh no if you abide

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=BXsfV1jcUkg"
 duration_min: 3
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Lying is perhaps the first sign of the devil in you. Just as speaking in tongues is the first sign of the Holy Spirit, lying is the first sign of the devil in you that there is devils working in your life when you tell lies. We have two types of Christians and everybody here is in the truth and one type is far bigger than the other type. One type is used to lying until you never even notice when you are lying at a point. And you when you even become a Christian, you use lying to do

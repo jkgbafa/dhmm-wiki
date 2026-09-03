@@ -8,6 +8,8 @@ year: 2017
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/ministry-and-pastoring", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 Let us pray. Father, thank you for the opportunity that we have. To serve you to serve you to follow you. Touch our hearts, Jesus. To love you.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=WS2jhKTzWHI"
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 you may live for wheezes you never wheezes dude member OH we Jessie member happy hallelujah tonight is the stag night of the campaign caught up on 937 I believe that's great salvation here the power of God is gonna flow release your feet yeah especially ask yourself is there here a stupid on Sunday literally many people play okay father thank you for your power today let the Holy Spirit lead us and guide us Oh Lord everybody ask God to touch you tonight thank you Lord for your power in Jesus name you may be seated tonight if

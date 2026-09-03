@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u6a9h/"
 duration_min: 37
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah. Lift your hands. Father, thank you so much for this morning. Thank you for your blessing, Lord, as we come before your holy word. We worship you, we bless you, we thank you for your greatness, your mercy, and your kindness to us, Lord.

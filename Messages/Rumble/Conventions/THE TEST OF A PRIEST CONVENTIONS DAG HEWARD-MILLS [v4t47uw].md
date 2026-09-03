@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t47uw/"
 duration_min: 83
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 This meeting is about Jesus. I know you didn't hear what I said. That's why your image was very feeble. I said this meeting is about Jesus. Hallelujah.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xXsQ3myMbrc"
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 me say because they love this amazing now my god you know and here under him in such a way that he could get to sing that place two times in two different ways so I tried to stretch it ah maybe Oh Oh me sure okay ah yeah Dominic Dominic well tell your neighbor and tell your neighbor you are welcome to the counter service ask your neighbor did you have an encounter tell your neighbor you haven't seen anything yet there is more to come amen my mother told me a story of how one she went to

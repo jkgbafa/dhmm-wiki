@@ -8,6 +8,8 @@ year: 2011
 duration_min: 185
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 my find the words my Lord to tell you how I my you with created everything I am you Tau me how to live again only you can when I needed a friend in me through th and things this song is for you filled with gratitude and love I praise you you make me feel brand new cuz you bless me with truth you make me feel brand new I sing this song CU you make me feel brand new my Lord whenever I am insecure you build me up and make be sure you gave my life digity

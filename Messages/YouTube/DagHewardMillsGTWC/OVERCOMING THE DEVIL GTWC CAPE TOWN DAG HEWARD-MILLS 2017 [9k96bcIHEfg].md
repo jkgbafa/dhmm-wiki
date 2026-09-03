@@ -9,6 +9,8 @@ duration_min: 118
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/OVERCOMING THE DEVIL  GTWC CAPE TOWN  DAG HEWARD-MILLS  2017 [9k96bcIHEfg]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 What a blessing. You may be seen. I want to bring up Dr. Elijah Mashwangani to come and give us a greeting. Please come.

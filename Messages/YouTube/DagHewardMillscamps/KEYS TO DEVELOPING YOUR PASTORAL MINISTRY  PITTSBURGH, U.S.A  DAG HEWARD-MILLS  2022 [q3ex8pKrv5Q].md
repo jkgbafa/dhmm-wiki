@@ -8,6 +8,8 @@ year: 2022
 duration_min: 115
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 I want to move on to how to develop your other the Pastoral and then the prophetic okay as well as the Evangelistic and then as well as your teaching wowow oh yes yes take us deep take us deep now let's move on to the Pastoral okay Matthew chapter 9 how to develop the Pastoral gift and not develop the gift but like to just start using it okay amen amen Matthew chapter 9 MTH you m you m Jesus went about all the cities and The Villages teaching in their synagogue and preaching the gospel of the kingdom

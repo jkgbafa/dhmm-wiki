@@ -8,6 +8,8 @@ year: 2012
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 now that I my life into his mighty hand I know guide me all the way the past is now a meory there's nothing like it used to be and I'm so glad that I can truly say now I am learning to live like Jesus I'm learning about his love for me I'm learning to live like Jesus trusting every day he will make me what he wants me to be I'm learning about his love for me I'm learning to live like Jesus I'm trting every day he will make me what he wants me to be learning

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit"]
 ---
 
 All things to your remembrance. To your remembrance. To your remembrance. Yes Lord. Let's pray.

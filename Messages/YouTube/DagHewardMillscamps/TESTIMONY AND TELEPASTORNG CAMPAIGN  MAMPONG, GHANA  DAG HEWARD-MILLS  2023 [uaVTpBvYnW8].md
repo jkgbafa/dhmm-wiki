@@ -8,6 +8,8 @@ year: 2023
 duration_min: 59
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Psalm 119: 46 wow testimony campaign testimony campaign I will speak of thy testimonies also before Kings and will not be be ashamed amen amen I will speak of thy testimony before Kings so testimonies that campaign to have testimonies and to say the testimonies now listen the main thing is to say the testimonies now we have two main types of testimonies the first type are testimonies about jobs and money and things like that but there's another type about changed lives amen amen changed lives testimony salvation testimonies now many churches depending on the testimony you give it's

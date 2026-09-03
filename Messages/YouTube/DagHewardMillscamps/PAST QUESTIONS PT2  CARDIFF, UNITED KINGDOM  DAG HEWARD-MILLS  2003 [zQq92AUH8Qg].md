@@ -8,6 +8,8 @@ year: 2003
 duration_min: 26
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 welcome to track number 20 of Bea say to me in that day Lord Lord have we not prophesied in thy name and in thy name have cast out devils and in thy name done many wonderful works then I will prophecy propess unto them I never knew you depart from me ye that work iniquity amen I never knew you I never knew you but I cast our devils in your name I build churches in your name but I never knew you this I think is one of the most dangerous areas come on you work for somebody

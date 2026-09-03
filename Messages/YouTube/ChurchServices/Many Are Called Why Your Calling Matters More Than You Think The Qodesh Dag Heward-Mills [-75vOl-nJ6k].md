@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-75vOl-nJ6k"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 so the call of god is the most important thing after your salvation is that you are called and the casualness with which people just dispose of the call don't mind him there's a background you see that those of you who feel you know oh when you see god using somebody means he is from perfect whatever it is it is that you haven't taken it seriously a wife is like a helper like the holy spirit invisible nothing helpful and the main power behind the person rarely do you have a missionary who does what was a bad

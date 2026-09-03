@@ -4,6 +4,8 @@ book: "The Beauty The Beast And The Pastor"
 book_number: "105"
 chapter_number: 20
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Marriage and Family", "Ministry and Pastoring", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/marriage-and-family", "topic/ministry-and-pastoring", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 CHAPTER 18\

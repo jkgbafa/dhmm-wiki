@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Vs_8KWVyPkI"
 duration_min: 29
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 hi dear viewers it's very exciting to be with you today i'm very very happy to be with my brother and friend bishop eddie addie very good to see you good to see you wow after the corona virus quarantined us we've not met for a long time can you imagine i'm glad that i can see you at close even though it's uh i don't know whether we have observed the association it's well uh we're here today to um invite you the main reason for us being here today is to invite you to be part of the

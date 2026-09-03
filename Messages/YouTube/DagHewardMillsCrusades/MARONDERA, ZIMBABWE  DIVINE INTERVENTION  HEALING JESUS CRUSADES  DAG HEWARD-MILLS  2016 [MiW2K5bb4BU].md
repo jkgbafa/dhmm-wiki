@@ -8,6 +8,8 @@ year: 2016
 duration_min: 125
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 we bless your name oh mighty God we bow before your throne we bless your name Alm mighty God we bow before you father we bless your name we bless your namey Al Mighty God we bow before your father we bless your name we bless your we bless your name Mighty almighty god father we bless your name we bless your name we bless your name Mighty oh mighty God we glorify holy we glorify glor your holy your Holy Name we bless your name we bless your we bless your name oh mighty mighty God we bow can

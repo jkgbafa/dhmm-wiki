@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3lae/"
 duration_min: 46
 source: "whisper"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 Father, we thank you for your blessing for your word today. We pray, Lord, for humility as we come before your word. We ask, Lord, that you lead us in all truth and bless us, Lord. Help us, Lord, to receive what you have for us and to grow in the name of Jesus. Thank you, dear Lord.

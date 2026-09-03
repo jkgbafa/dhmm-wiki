@@ -8,6 +8,8 @@ year: 2016
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 great door is open unto you but there are many adversaries be strong in in the Lord be strong in the Lord rise up today and take your journey you must pass over the river I know behold I have given into thy hand seon the amorites the king of heshbon I have given you his land contend with him in battle oh take territory oh oh take new territory take new territory yeah take a new territory an if actual door is open unto you but there are many adies so be strong in the Lord and and courageous

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MfWzztR-83g"
 duration_min: 155
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 are you blessed to be in church when I keep praying I believe God is with us and as we move on into the new year I believe the Prophet has a word that's gonna push us into the next year and I believe that we are changing levels we men so I want us to pray shortly it's a short sermon so I close about six o'clock but God is pushing us into the next Enda in the room with a spirit amen and I want us to pray and thank God for the things he did for us

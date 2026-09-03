@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GyUZ2tQrCqU"
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 when you call the Lord is all you know he came to me I know you come through for you he's me and he cannot be too even though that's amazing oh he can't do for me I know you today's new for me he'll come through for you my name is the first day my god knows the noggin even when life goes beyond my understanding you take away I know you come for you all those amazing he'll come for you he came for me he'll come for you you can'tyou for me you praise the Lord we

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Oh my god. Valley. Yes. La. Amen. I'm in your way. Oh, you Oh yes. Oh yes. Oh my god. Yeah, I do. coming. Oh god. Oh. Come on. Amen. Amen. Amen. Amen. Hey. Let your name your name your name. You never Love me. Love me. Love. Tell them. Amen. Yes. Yes. Yes. I know you. Oh yes. Yeah. Yeah. Mama see your blessing in I Yes. Oh yes. Yeah. See, what's up? Heat. Heat. Why do we see you? Oh yes. Yes. Yes. Oh yes. Hallelujah. Are you ready for what God is about to do? God's power

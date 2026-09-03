@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=y5KjaSrZzfM"
 duration_min: 144
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 tonight is the final night of this campaign here in Russia and before we receive the evangelists you want to welcome the chairman of the board of trustees of the healing he says campaign to bring us its closing remarks please put your hands together and let's welcome our chairman to bring us the final remarks before we receive the Evangelist well good evening all of you amen I'm not going to do a welcoming tonight I've requested one of our leaders apostle under Moses you may come to the podium sister Linda Moses by now everybody in Vista or

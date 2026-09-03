@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ugpqq/"
 duration_min: 28
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer"]
 ---
 
 Hallelujah. Shall we pray? Father, we thank you for this morning. We ask you to open our hearts and let your will be done in the name of Jesus. Amen.

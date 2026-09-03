@@ -9,6 +9,8 @@ duration_min: 138
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/How To Modify Spiritual Atmospheres  Mampong, Ghana Dag Heward-Mills 2012 [wsWunRR9Cmo]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 Now, spiritual atmospheres. How to modify your spiritual atmospheres. Wow. Are you ready? Sure, you're ready.

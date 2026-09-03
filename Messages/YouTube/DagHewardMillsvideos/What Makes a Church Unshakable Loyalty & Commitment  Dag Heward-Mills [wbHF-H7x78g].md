@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wbHF-H7x78g"
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Faithfulness is something that we need to develop as believers. Uh what is what does it mean to be faithful? To be faithful number one needs to be constant. Marriage is a wild thing. Oh even people who say they are married and divorced, you see that sometimes they'll be married and say they are divorced but they are married on the side. Marriage is only a small thing not easy to separate even I think when they are married. So God is telling us and showing us that our commitment we must learn commitment to the level of marital

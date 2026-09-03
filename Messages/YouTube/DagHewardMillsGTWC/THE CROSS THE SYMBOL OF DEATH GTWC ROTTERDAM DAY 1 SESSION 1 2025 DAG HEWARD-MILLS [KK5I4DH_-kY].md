@@ -8,6 +8,8 @@ year: 2025
 duration_min: 44
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now worthy of Jesus. Number one is a person is not worthy of Jesus because he does not love the Lord more than he loves others and other things. Number two, a person is not worthy of the of Jesus because he does not value or embrace the cross of Jesus. The cross. Now everybody say the cross.

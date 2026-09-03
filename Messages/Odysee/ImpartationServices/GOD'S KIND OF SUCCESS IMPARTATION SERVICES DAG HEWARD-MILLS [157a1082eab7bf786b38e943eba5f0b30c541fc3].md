@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/god's-kind-of-succ
 duration_min: 52
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Yeah, lift your hands and thank God for his blessing. Thank God for his mercy. He came along and brought us the light. Thank you Jesus for the opportunity that we have in you to serve you, to live for you. Let your will be done, O Lord.

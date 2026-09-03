@@ -8,6 +8,8 @@ year: 2010
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 Hallelujah father thank you for what a blessing has been given to us tonight we ask you to lead us by Holy Spirit into your perfect will and we thank you for the special relationships that you give us and cause us to enter into we thank you Lord in Jesus name amen am you may be seated in the presence of the Lord turn with me to First Corinthians chapter 1 I have so many books here want to introduce a couple this one is called the art of leadership it's a powerful book amen this one is called

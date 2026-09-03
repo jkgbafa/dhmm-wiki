@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2017
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Custommade curses. Custommade curses are special curses just for you. Joshua made a custommade curse in Joshua 6:26. In the days did he the Bethlite build Jericho? He laid the foundation thereof in Abraham his firstborn and set up the gates thereof in his youngest son. But that is the fulfillment of the curse in Joshua 6:26. He said, "Joshua adjured them at that time, saying, Cursed be the man before the Lord that riseth up and buildeth this city Jericho. He shall lay the foundation thereof in his firstborn, and in his youngest son shall he set up the

@@ -9,6 +9,8 @@ duration_min: 72
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/AGREE ON THE WAY WISDOM STATEMENT PT 7  ACCRA, GHANA  DAG HEWARD-MILLS  2003 [emkja-hnkKI]]]"
+topics: ["Wealth and Finances", "Wisdom"]
+tags: ["topic/wealth-and-finances", "topic/wisdom"]
 ---
 
 Welcome to chapter number eight of the three of the way. All right, you may be seated. Ecclesiastes. Chapter 4. What have you learned this morning?

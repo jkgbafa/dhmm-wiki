@@ -4,6 +4,8 @@ book: "Victory Secrets"
 book_number: "032"
 chapter_number: 6
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 Victory Secret No.5\

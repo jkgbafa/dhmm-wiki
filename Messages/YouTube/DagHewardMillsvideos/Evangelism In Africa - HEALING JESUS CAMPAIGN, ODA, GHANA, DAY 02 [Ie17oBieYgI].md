@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Ie17oBieYgI"
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism"]
 ---
 
 let's put our hands together and welcome Vivaldi to prepare our hearts to receive what God has for us tonight yeah bye handsome yes here yes Alleluia Boston Akiyama Cristo hallelujah so along Coco I am I am a Yahoo Nehemiah cecum oh yeah Katya monster militia not Arabic oponopono balsamic resolve Alleluia especially enemy Nagas Amelia EOS away the when frequency Oh a new home oh uh rubia are into mini-sized non kupuna hindi anushka jeremiah my sorrow or into me sang occupy and what does our balsamic even oh that won't freeze your new home my warrior or

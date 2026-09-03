@@ -9,6 +9,8 @@ duration_min: 144
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/TWIFO PRASO, GHANA DAY 1 THE BLOOD OF JESUS CHRIST HJC DAG HEWARD- MILLS 2014 [B2ZzCi7it0w]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer"]
 ---
 
 go behind them and take the offering oh say say Christ heav oh heav to to me oh see my my man is my man is my man never be to me to High I for May thank you very much you may take your seats please be seated tonight everybody please find a place to sit and I want to ask those who are standing outside there are chairs here for you you can go and take a seat so that the power of God can flow to you tonight we are honored receive the Evangelist clap your hands

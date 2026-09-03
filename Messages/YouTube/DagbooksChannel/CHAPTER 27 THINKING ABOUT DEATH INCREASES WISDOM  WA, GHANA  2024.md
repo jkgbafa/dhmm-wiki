@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2024
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/wisdom"]
 ---
 
 Thinking about is that it? Yes. Number seven. Number seven. Thinking about death. Death makes you makes you increases wisdom. Increases wisdom. Thinking about death increases wisdom. Yes. Read the scripture. Numbers. Psalm 90:12. 90. So teach us to number our days. Oh yes. That we may apply our hearts unto wisdom. Wow. Teach us to do what? Number our days. number our days that we may apply our hearts unto wisdom. that we may apply our hearts to wisdom. So numbering your days or thinking about death makes you wise. How does it make you wise? Number one, it

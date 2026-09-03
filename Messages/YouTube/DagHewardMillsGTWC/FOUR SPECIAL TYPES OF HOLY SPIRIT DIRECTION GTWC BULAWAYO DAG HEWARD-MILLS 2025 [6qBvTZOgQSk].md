@@ -8,6 +8,8 @@ year: 2025
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 Now, now listen. I want to now share with you four types of guidance. Four types of guidance that are necessary for your spiritual development. Wow. As a Christian and as a minister.

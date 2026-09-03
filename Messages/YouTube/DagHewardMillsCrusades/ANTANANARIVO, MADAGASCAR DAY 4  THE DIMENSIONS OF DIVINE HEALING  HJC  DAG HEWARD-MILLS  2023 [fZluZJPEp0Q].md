@@ -8,6 +8,8 @@ year: 2023
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/anointing", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 foreign for spee Hallelujah I know know for Hallelujah Hallelujah I give Hallelujah I hallelujah hallelujah we want to pray over our offering tonight hallelujah hallelujah let's pray father we thank you for giving us an opportunity to se seeds into your work thank you for the great work of evangelism that is happening here in and thank you for giving us seeds to SW to help the work to go forward be all the glory in Jesus name amen hallelujah hallelujah well tonight hallelujah hallelujah I'm so pleased to help to to ask you to help me welcome sister

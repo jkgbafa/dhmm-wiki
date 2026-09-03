@@ -8,6 +8,8 @@ duration_min: 81
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/Speaking in Tongues First Love Church Dag Heward-Mills [iXjZEstYbOU]]]"
+topics: ["Prayer", "Prayer/Praying in Tongues", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 You know we have two types of speaking in tonesues. The first type are those who when they receive the Holy Spirit and they speak in tonesues initially like when the Holy Spirit fills them he's filling them he's filling them then it's the second type of person who speaks in t speaks in tones intentionally. So we need to hear you speaking in tones to be sure that you have the Holy Spirit. We need to hear you speaking in tones to be sure that you have the Holy Spirit. So those of us who don't speak in tones

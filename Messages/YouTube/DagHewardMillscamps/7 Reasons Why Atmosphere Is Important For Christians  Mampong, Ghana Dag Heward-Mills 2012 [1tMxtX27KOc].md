@@ -8,6 +8,8 @@ year: 2012
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 now seven reasons why atmosphere is important for Christians and one of them is that because you are a tree is that not so and trees do not grow everywhere so you will not grow everywhere there are some places when I put you now that's the end of of your Christianity you will fall I mean that's it it's over forget it it's not it's not going on it's finished you are done for you are done for do you understand say you are down for it's like you are it's over it's over for you wowow huh it's

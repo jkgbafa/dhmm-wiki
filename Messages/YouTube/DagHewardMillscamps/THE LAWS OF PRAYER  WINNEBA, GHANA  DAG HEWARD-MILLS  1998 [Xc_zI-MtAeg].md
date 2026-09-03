@@ -8,6 +8,8 @@ year: 1998
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Prayer/Intercession", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/prayer/intercession", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Supernatural knowledge that this was not an ordinary man because he was seeing the man Carpenter he knew his relatives everything they were all from the same town he knew him how did he know he had a supernatural Insight Revelation from God that he was the son of God and from that time Jesus that moment at that in that same discussion Jesus started to tell them don't tell anybody as soon as Peter said you are the Christ Jesus said don't tell anybody that I I am the Christ as soon as Jesus began to say don't tell

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7Aq76wtiOw4"
 duration_min: 17
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Coming all the way from Democratic Republic of Congo. We have this young looking handsome anointed pastor. He said pastor with so many churches in the country. The main headquarters in Kinshasa. Very vibrant and lively in a man of God.

@@ -8,6 +8,8 @@ year: 2002
 duration_min: 43
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 welcome to track number three of all out before we get back to the mystery of his will I just want you to see something here four reasons why we not able to to go all out you have in Hebrews 12:1 it says wherefor seeing we also are compassed about with so great a cloud of witnesses let us lay us side what every weight and sin which does so easily beset us and let us run with patience the race that is set before us amen four reasons why we are not able to go all out number

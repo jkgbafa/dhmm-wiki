@@ -4,6 +4,8 @@ book: "Steps To The Anointing"
 book_number: "013"
 chapter_number: 18
 type: book
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 ## Chapter 17

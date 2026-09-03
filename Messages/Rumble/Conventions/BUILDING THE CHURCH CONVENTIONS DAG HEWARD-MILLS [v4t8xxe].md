@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t8xxe/"
 duration_min: 154
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Come on to the Lord, open the I wanna see you, just as you are come up to see you, to see you shining in the light, shining in the light of the glory, and poor out of power, as we see to see you are to see you, shining in the light, shining in the light of the glory, and for the love, as we see holy voice, open the eyes, open the eyes of eye, come on, so be the eyes, I wanna see you on the sea, I wanna see you, I wanna see open the eyes, open the eyes of my telling up in the eyes, of my wanna see, I wanna see you, I wanna come on to see you to see shining in the light, shining in the light of the glory, every power of the love, as we see you are, to see you wanna see with Jesus in the light of the glory of power and love Come on to see you are to see you are shining in the lighting in the light of the glory come on, I power out your power and love, as we see you are to see you come on, sir, shining in the power and love as we come on, I don't care what they think about, it's all right, it's all right, I don't care what they say about it's all come on, don't get it.

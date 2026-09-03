@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xfABWKjgA4k"
 duration_min: 159
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 hallelujah clap your hands once again for Jesus mean differences and approaches tonight sister is the final night of this campaign to be super clean a valium can tell everyone to welcome a member of the board of trustees to namah om o gala alumna to Princeton who buddies was the closing remarks Elizabeth Litella please input your entire and let's welcome Bishop interim Bella to come up and bring us away this was happy a little clap your hands for Jesus let's welcome a member of the Board of Trustees greetings in the name of our Lord Shiva recommend

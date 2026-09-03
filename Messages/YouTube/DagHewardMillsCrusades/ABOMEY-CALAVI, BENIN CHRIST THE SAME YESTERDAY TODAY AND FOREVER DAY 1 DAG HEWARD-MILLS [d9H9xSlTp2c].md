@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=d9H9xSlTp2c"
 duration_min: 192
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Oh quand le diable m'a dit qu'il est là pour me sauver là où me sauver le diable m'a dit ça qu'il est là pour me défendre qu'il est là où me défend Oh de Nation tu es vieux de l'ouange Je ne t'entends pas Oh des nations tu es digne de louange On y va Lou est loué loué Le loué loué Le loué loué Louis loué loué Sautez au tes sautés Sortez au tête sauté Sautez au tes sautés Sautez au tes sautés Kouri gour et couris Kouri gourigouri Kouri gour et couris Kuri Kouri Gouris Kouri Kouri

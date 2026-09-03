@@ -8,6 +8,8 @@ year: 2012
 duration_min: 167
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 And I'm honored to sing your praise. And I'm honored in your praise. King of glory. Oh my God. Hallowed me your name.

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Chapter 51. Identify dangerous enemies. Declare war them. Identify. Do what? Identify. dangerous enemies. Oh yes. Now, one of your greatest mistakes is to think that your enemies are spirits. You know the the verse that is used to tell us that our enemies are spirits is that we wrestle not against flesh and blood. That's that's the main but that verse you see again is giving you one aspect. party is it is one aspect. So I'm going to show you human beings human beings. There are human beings who are your enemy. So it's my friend is my

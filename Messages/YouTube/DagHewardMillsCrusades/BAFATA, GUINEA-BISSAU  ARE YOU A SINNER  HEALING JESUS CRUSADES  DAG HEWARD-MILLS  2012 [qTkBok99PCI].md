@@ -9,6 +9,8 @@ duration_min: 103
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/BAFATA, GUINEA-BISSAU ARE YOU A SINNER HEALING JESUS CRUSADES DAG HEWARD-MILLS 2012 [qTkBok99PCI]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 hallelujah hallelujah I want you to know that tonight is the beginning of a great change in your life this is a special week in your life and you will never be the same after these three nights God has sent his special servant to ba with a special message for your life I believe that as you listen to him and as you stay attentive God's power will touch you wherever you are I'm excited tonight because the man God has used over the nations of the world is here with us here in ba and I want you

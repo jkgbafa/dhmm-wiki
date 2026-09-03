@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zR9TzQ0icZI"
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/faith", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 father we thank you for the blessing masipa said benediction Jesus name dhanananda JC amen amen maybe see that when a place in Florida God now I want to continue where we left off Jamaican Cinderella wanna tell me many many problems in our churches and our ministries come from a lack of prosperity in the mission beaucoup the no problem don't know the glitch the engine didn't mark the prosperity down sets are not is young amen amen and there are some things that sometimes are not said but it is expected that you would lend them but I

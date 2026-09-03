@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wgcoxIvImW0"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 now after me I repeat to my right only to know that any man who holds apply hell looks like it is it for my kingdom living for Jesus isn't easy living for Jesus it's nice isn't easy but he has promised tested tell me a friend I pray the tears able to take up your crown just take us to Korra if you just Christ said if any man wants to be my disciple take up my cross and follow him pick up your cross and follow him hallelujah in training our company is 89 what's to come come

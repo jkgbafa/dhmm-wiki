@@ -4,6 +4,8 @@ book: "Ready At 20"
 book_number: "074"
 chapter_number: 22
 type: book
+topics: ["Leadership", "Leadership/Generals and History Makers", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 ### CHAPTER 21\

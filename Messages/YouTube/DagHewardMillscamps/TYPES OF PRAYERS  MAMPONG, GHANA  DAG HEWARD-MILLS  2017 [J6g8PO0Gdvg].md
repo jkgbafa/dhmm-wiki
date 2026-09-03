@@ -8,6 +8,8 @@ year: 2017
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 the next um thing I want us to talk about we are having a prayer seminar everything by prayer everything by prayer nothing without prayer now the next one is prayers for the will of God to be done Matthew 26 Matthew 26 6 Matthew 26 verse 37 and he took with him Peter and the two sons of zebede and began to be sorrowful and and very heavy then saith he unto them my soul is exceeding sorrowful even unto death T ye here and watch with me and he went a little further and fell on his face

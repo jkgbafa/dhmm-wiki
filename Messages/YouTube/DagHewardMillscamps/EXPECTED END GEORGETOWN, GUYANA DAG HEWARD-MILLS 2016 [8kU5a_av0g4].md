@@ -9,6 +9,8 @@ duration_min: 157
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EXPECTED END  GEORGETOWN, GUYANA DAG HEWARD-MILLS  2016 [8kU5a_av0g4]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Welcome to track number two of expect great things. Hallelujah. You may you may be seated, please. Wow. That's me share.

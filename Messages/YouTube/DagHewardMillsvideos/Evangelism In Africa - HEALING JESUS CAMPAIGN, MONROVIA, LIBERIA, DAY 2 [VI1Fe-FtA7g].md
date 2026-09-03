@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=VI1Fe-FtA7g"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 often goodness and praises or leaning he has carried my body rocking or marching now he has led me free did he head on I would take it again I will sing all the goodness I'm glad this Holy Name he has carried my birthday brookie no marching now he has led me free once I was a sinner I was wasting my life I will see you to make seeking protection that one day I met Jesus he came along she that you are learning Jesus you a lovely you are was he afraid I will praise you every

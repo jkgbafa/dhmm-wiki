@@ -4,6 +4,8 @@ book: "Why Is This Church Not Working"
 book_number: "088"
 chapter_number: 21
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 ### Chapter 20\

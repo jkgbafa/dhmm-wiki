@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2014
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/loyalty-and-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Psalm 118 verse 10. All nations surrounded me in the name of the Lord. I will surely cut them off. They surrounded me. Yes, they surrounded me. In the name of the Lord, I will cut them off. They surrounded me like beasts. They were extinguished as a fire of thorns. Hallelujah. Amen. God is saying he will extinguish them as a fire of thorns. Wow. I will surely cut them off. You pushed me violently so that I was failing but the Lord helped me. The Lord is my strength and my song and he has become my salvation.

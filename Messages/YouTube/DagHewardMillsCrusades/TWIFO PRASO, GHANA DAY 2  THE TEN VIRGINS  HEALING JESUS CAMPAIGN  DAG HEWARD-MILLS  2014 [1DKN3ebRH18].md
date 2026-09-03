@@ -9,6 +9,8 @@ duration_min: 117
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/TWIFO PRASO, GHANA DAY 2 THE TEN VIRGINS HEALING JESUS CAMPAIGN DAG HEWARD-MILLS 2014 [1DKN3ebRH18]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 hallelujah hallelujah hallelujah more sing yes hey in the name of Jesus Jesus yes yes are hallelujah amen clap your hands everybody tonight are you ready for what God has for you tonight last night we saw many Souls saved and many testimonies of God's healing power tonight is a second night and I'm excited to welcome a man that God has used all over the world we have him here in and your Miracle is in tonight's service I want you to stand to your feet and let's receive evangelist nothing is impossible to those who believe and lift

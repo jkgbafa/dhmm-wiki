@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=H27y1xQSQDo"
 duration_min: 75
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 a man when I say Rosita Rogers ooh respond Jesu Jesu deliver kundi Rosita Roger sir shouts loudly moody terrazzo Marabella - hallelujah lift up your brother lightest color whoa oh my god look I'm brother like that come on God whoa whoa just everybody would eat are aggressive Bolivar kundi would desire aggressor city marketing would be pterodactyl artists all hallelujah clap your hands for Jesus choruses please be seated the servants of God is ready to Minister the Word of God and the power of God let's rise to our feet tonight and we join receive abundant thank

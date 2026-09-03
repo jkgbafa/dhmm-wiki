@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8UgthGGhWoU"
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 praise the Lord hallelujah I want to thank God for this evening and for the opportunity he has given us all to be here to give thanks and praises to him for its own sons and praises to God for all the wonderful things he has done and continues to do in our life he's absolutely the president would have loved to be here with us this evening to worship with us to fellowship with us and to return thanks to God for all of his dream for Syria but unfortunately his heart principal clicking schedules I'm gonna make it

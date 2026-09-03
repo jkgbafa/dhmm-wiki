@@ -9,6 +9,8 @@ duration_min: 128
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/FAITH, HOPE AND LOVE Mumbai, India Dag Heward-Mills 2016 [KT6CtASvd8E]]]"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 Father we thank you God thank you Great God thank you for your blessings in the name of Lord Jesus Amen we will sit down have you learned something all the people here the Lord has done something for you in your life today if you want to give some prophetic testimony if you want to give testimony then you can give it if someone wants to give testimony of his life come come praise God I would like to thank God and support me so I came to this place I would like a time to meet you bef

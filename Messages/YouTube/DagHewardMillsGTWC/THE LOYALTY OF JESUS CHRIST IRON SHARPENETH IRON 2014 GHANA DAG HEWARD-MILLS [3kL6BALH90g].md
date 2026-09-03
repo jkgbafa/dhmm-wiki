@@ -8,6 +8,8 @@ year: 2014
 duration_min: 46
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Soul Winning and Evangelism/Witnessing", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/soul-winning-and-evangelism/witnessing", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Our last session now is going to be on the loyalty of Jesus Christ. And I'm sharing from my book those who are ignorant. You see, we have looked at Satan. And his nature. And you can see in disloyal people a lot of satanic characteristics.

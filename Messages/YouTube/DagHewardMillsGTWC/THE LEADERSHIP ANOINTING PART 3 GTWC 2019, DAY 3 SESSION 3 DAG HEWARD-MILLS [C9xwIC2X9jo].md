@@ -8,6 +8,8 @@ year: 2019
 duration_min: 163
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Leadership", "Prayer", "Prayer/Praying in Tongues", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/anointing", "topic/leadership", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 It's always a blessing to gather. And fellowship around the word of God. I trust that all of us are seated. And ready for what is coming. Amen.

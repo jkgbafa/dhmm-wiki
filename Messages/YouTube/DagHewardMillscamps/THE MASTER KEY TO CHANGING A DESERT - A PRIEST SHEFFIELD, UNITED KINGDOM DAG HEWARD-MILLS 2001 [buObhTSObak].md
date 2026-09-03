@@ -9,6 +9,8 @@ duration_min: 93
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE MASTER KEY TO CHANGING A DESERT - A PRIEST  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001 [buObhTSObak]]]"
+topics: ["Prayer", "Prayer/Intercession"]
+tags: ["topic/prayer", "topic/prayer/intercession"]
 ---
 
 Well track number 26 of pastors of thousands the altar and continued east through the courtyard. We walked out of the temple area through the north gate and went around the east gate. I saw the small stream of water flowing east from the south side of the gate. See the man walked east, then took out his measuring sticks and measured 560 yards downstream. He told me to wait through the stream there, and the water came up to my uncle.

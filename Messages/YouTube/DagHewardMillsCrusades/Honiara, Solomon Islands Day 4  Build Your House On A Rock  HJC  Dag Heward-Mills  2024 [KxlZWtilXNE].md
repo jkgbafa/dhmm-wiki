@@ -8,6 +8,8 @@ year: 2024
 duration_min: 138
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Jesus is the answer for the world today above him there's no other Jesus is the way Jesus is the answer for the world today above him there's no other Jesus is the way if you have some questions in the corners of your mind and traces up discouragement and peace you cannot find Reflections of the old past they seem to face you every day but this one thing I know for sure that Jesus is theing Jesus is the answer for the world today and above him there's no other Jesus is the way Jesus is the answer

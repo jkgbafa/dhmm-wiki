@@ -4,6 +4,8 @@ book: "The Church Must Send Or It Will End"
 book_number: "082"
 chapter_number: 16
 type: book
+topics: ["Missions", "Missions/The Nations"]
+tags: ["topic/missions", "topic/missions/the-nations"]
 ---
 
 ### CHAPTER 15\

@@ -8,6 +8,8 @@ year: 2001
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 Welcome to track number six the word at my mouth and give them warning from me. When I say unto the wicked, thou shalt surely die, and thou givest him not warning, nor speakest to warn the wicked from his wicked way to save his life. The same wicked man shall die in his iniquity, but his blood will I require at thine hand. Amen. Yet if thou warn the wicked and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity, but thou has delivered thy soul.

@@ -8,6 +8,8 @@ year: 2023
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 father thank you for the blessing you may be seated now how many were here last night when we were singing this song now when um our worship leader give me the art of Following come duration art of following that is the art of copying when our worship leader was singing this song just now he realized that it's not the same as yesterday come here no it's still working the song is not working foreign so that's what I want to show you the art of following so a lot of things if you don't follow properly it

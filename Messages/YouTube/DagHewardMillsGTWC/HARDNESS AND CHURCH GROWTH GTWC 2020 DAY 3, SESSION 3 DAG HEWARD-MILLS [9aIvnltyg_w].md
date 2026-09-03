@@ -8,6 +8,8 @@ year: 2020
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth"]
+tags: ["topic/church-growth"]
 ---
 
 Light to make you see something new. Light to shine your darkness. And God will do it for you. Hallelujah. Hallelujah.

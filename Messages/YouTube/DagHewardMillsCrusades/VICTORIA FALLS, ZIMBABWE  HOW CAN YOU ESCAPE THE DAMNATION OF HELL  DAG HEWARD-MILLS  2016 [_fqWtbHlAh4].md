@@ -8,6 +8,8 @@ year: 2016
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 on the second night and final night of our healing Jesus campaign here in beautiful Victoria Falls God is about to do something great in your life and it's my pleasure to welcome the chairman of the Board of Trustees of our campaign in this city to bring us his closing remarks let's welcome our chairman Clap Your Hands for Jesus as we receive our chairman to give us his remarks keep Clapping Your Hands and let's welcome our chairman Hallelujah uh thank you once more tonight that we can gather in this manner we are still so grateful uh

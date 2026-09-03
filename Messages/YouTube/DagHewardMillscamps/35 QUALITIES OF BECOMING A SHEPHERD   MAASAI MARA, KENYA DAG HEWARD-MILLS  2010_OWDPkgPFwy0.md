@@ -3,6 +3,8 @@ title: "35 QUALITIES OF BECOMING A SHEPHERD   MAASAI MARA, KENYA DAG HEWARD-MILL
 channel: "DagHewardMillscamps"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number 11 of the privilege I mean who said no I mean I've not eaten okay have you eaten yes have you drunk yes okay have you smiled okay are you smiling all right are you laughing those are the back are you okay okay is my seat there I have a seat at the back is it there okay where is the brother who is supposed to be a Steven is is Steven where is Steven oh Steven please where is Steven Steven k k Steven K where are you on his way he's not here

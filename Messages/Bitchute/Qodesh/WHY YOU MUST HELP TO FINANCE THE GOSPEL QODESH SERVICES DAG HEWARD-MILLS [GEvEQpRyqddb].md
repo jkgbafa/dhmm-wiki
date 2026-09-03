@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/GEvEQpRyqddb/"
 duration_min: 76
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 We come rejoicing into his presence into his mind singing hallelujah. We come rejoicing. We sing it hallelujah. We come rejoicing, sing it, hallelujah, hallelujah, rejoicing, sing it for the joy that fills our hearts as we come singing. Oh, yeah, praising our redeemer, lifting our sweet soul, the melody inside our heart, keeps ringing as we raise our voices once again, sing our song to you, hallelujah.

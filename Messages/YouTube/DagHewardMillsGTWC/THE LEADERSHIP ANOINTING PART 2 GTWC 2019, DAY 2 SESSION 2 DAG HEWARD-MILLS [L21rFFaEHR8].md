@@ -8,6 +8,8 @@ year: 2019
 duration_min: 155
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Church Growth", "Church Growth/Mega Church", "Leadership"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/church-growth", "topic/church-growth/mega-church", "topic/leadership"]
 ---
 
 Just begin to speak in tongues. Just speak in the spirit. We need some mysteries. The ministry we are doing. And as you speak in tongues, you are addressing certain issues.

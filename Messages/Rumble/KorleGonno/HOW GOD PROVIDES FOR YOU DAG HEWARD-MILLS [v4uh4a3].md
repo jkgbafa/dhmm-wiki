@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uh4a3/"
 duration_min: 67
 source: "whisper"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Roses help me say beautiful singles. We worship you. What's the Lord Singh Lord your beautiful sing along? Lift your hands and say nation singles. Be generous with your clapping, be generous with your clapping.

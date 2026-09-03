@@ -4,6 +4,8 @@ book: "Can T You Do Just A Little Bit More"
 book_number: "054"
 chapter_number: 14
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 ### CHAPTER 13\

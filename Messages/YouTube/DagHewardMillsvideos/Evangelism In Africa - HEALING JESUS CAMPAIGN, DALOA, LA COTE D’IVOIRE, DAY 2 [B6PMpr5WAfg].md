@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=B6PMpr5WAfg"
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism"]
 ---
 
 page played under the baton under the arm under on me I play will she have to only one attacker from Le Mans Samuel Lachance Geneva Hotel 50th 60th a care of me what you gave me Genevan the one you did to me on the dough is clear and without Sarakolé low Salat and Magali very well played as soon as the IOM and the detention of all said Benoit under the mount each day how one day we and I am on the eyelid hallelujah cries and kyiv hallelujah ella a men don't Sedan that a scene do

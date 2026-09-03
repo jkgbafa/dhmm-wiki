@@ -8,6 +8,8 @@ year: 2016
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Hallelujah. Father, thanks a million for the blessing. You are giving to us for that. We praise you. We thank you.

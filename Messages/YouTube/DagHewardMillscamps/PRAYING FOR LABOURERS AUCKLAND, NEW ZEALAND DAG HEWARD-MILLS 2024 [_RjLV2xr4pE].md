@@ -9,6 +9,8 @@ duration_min: 48
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PRAYING FOR LABOURERS  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024 [_RjLV2xr4pE]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Now, when you pray for laborers, when you pray for laborers, this is what you are praying for. John chapter 10, verse 1. From today, when we pray for laborers, this is a prayer topic. I'm just giving you a prayer topic. When you pray for laborers, this is what you are praying for.

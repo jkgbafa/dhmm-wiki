@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ubBu9VqSXik"
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 and as we lay down our sorrows and obtain when we call on him he will always answer and when we cry to him he will wipe away I was - yes he will wipe away your tears I said he will wipe away your tears I tell you why I will tell some people he will wipe my wig out here sophistical he was young when you go because if we can appraise a snake or if you call he will come haha dude and he was Oh God ha ha ha ha ha ha I got some brothers

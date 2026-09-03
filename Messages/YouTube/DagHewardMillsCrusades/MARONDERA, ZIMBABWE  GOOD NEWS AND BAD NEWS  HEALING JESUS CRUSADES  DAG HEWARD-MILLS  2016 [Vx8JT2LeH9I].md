@@ -8,6 +8,8 @@ year: 2016
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 hallelujah hallelujah why don't you lift up your two hands like that and put your hands together for Jesus Hallelujah this J Hallelujah Give the Lord a shout j j j Give the Lord that us come on just where said Hallelujah do you believe we are winners lift up your two hands if you believe we are winners give Jesus away now when I say respond the louder your response the blessings are more tbody tbody Hallelujah do like come on now sing with me go go w lift up your two hands it like this Hallelujah clap your

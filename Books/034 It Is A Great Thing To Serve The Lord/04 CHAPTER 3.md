@@ -4,6 +4,8 @@ book: "It Is A Great Thing To Serve The Lord"
 book_number: "034"
 chapter_number: 4
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances"]
 ---
 
 CHAPTER 3\

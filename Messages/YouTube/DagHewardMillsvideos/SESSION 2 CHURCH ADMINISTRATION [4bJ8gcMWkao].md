@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4bJ8gcMWkao"
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 amen and it's going to bless you hallelujah one of the things that it talks about is how to establish a membership base is very important for you to have members amen a'right one of the characteristics of African things is that we don't write things these are not true and when you have to fill a form or even join or do something we don't want to do it so we need to shift away from all those things right now another very important chapter this is what to expect from the average church member amen most judgment best

@@ -3,6 +3,8 @@ title: "SESSION 1 BUILDING THE CHURCH_vosmX0vlQfI"
 channel: "DagHewardMillsvideos"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I wanna party co-opt I will be cover so PDI I wanna see you I wanna see you Oh shiny come on come on I don't care what you think abutting this all right I don't care what a deer buck guitar come on okay I love you I'll be free I'll argue all day all day if he were deep if you want people come on carbon one happy what reason come on sey if you were there for you man ever you wanna see happy day happy day happiness come on happy girl episode happy day if you

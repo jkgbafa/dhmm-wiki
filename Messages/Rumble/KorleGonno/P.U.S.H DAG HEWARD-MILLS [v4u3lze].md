@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3lze/"
 duration_min: 38
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Prayer"]
+tags: ["topic/faith", "topic/prayer"]
 ---
 
 I want us to turn to Luke 18. Please. For just a few minutes. We are studying the parables of prayer given by Jesus. And we want to pray during this service.

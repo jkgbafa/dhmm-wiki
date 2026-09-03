@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=O7JAD4FfsQ4"
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 I want to invite the choir, please come and lie. Let's just stop as a half telephone. Make sure you get into position beautifully. Let it have a lemma since God bless you for all your hard work. That is also an offering to the Lord.

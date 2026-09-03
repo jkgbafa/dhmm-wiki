@@ -8,6 +8,8 @@ year: 2002
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 welcome to track number 12 of the mega church tired you still have to go when you are tired don't you go to work hallelujah hallelujah are you there they what you're going to have to sacrifice in order to become fruitful now write this down the missing ingredients in nice willing educated informed humble good Christians who Christian is who want to serve God in a greater way is sacrifice read it out to me what does it say amen now write this down many Christians who are operating under capacity under capacity are doing so because they are

@@ -9,6 +9,8 @@ duration_min: 83
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/TYPES OF WORKERS IN THE CHURCH  ISI SOWETO  DAG HEWARD-MILLS  2015 [5jLYM8a_PSo]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 You may be seated. I'm talking about the art of ministry. Types of workers in the church. Number one, workers who are sons and daughters. We need workers who are sons and daughters.

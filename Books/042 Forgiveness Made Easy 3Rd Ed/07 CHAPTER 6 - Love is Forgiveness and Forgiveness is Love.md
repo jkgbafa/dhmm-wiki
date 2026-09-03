@@ -4,6 +4,8 @@ book: "Forgiveness Made Easy 3Rd Ed"
 book_number: "042"
 chapter_number: 7
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Judgment", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/judgment", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ### CHAPTER 6\

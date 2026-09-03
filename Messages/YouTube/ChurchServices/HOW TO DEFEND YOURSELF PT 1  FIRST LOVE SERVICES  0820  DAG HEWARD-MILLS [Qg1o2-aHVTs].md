@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Qg1o2-aHVTs"
 duration_min: 214
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah welcome your neighbor with a smile say something nice about your neighbor compliment your neighbor your neighbor's shirt your neighbor's perfume your neighbor's earrings your neighbor's shirt your neighbor's welcome say something wow what a blessing to have you join us for our flow prophetic encounter we are happy right here in the studio God is blessing us we are welcoming ourselves welcome your wife at home welcome your children at home welcome if your wife is also here welcome your wife from one row to another row welcome wave at your wife wave at your beloved wave at

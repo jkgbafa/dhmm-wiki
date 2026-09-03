@@ -8,6 +8,8 @@ year: 2019
 duration_min: 216
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Leadership", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/anointing", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/leadership", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah. Father, thank you for the blessing. In Jesus' name. Amen. You may be seated.

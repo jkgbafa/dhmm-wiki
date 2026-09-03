@@ -4,6 +4,8 @@ book: "Those Who Are Slanderers"
 book_number: "093"
 chapter_number: 9
 type: book
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 ### Chapter 7\

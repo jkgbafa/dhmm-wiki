@@ -7,6 +7,8 @@ url: "https://rumble.com/v4txnmk/"
 duration_min: 49
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/ministry-and-pastoring", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 We are not the same. But difference is a side. We will work the field of soul. Together you and I one is up to a foreign soul. To work the distant land.

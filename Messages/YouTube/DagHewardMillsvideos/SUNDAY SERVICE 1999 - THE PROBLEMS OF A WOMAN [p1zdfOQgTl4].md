@@ -8,6 +8,8 @@ year: 1999
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 once again don't know where to go father we thank you for this wonderful day as we come before your word we ask you to lead us to guide us to speak to our heart like never before we worship You Jesus and we welcome you Holy Spirit in Jesus name Amen you may be seated in the presence of the Lord I was in London we had a miracle service there and it was a miracle wave convention there was a powerful time and that God was moving there were miracles the power of God was manifest and God

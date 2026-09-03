@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=yUS_rL2K7Cg"
 duration_min: 181
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah I believe that we have had many many powerful miracle since Tuesday up to yesterday and tonight is a grand finale and I trust God that for whatever is left in our ladder you expect God to do be open be ready be prepared because the power of when I'm not sure what is going to come to your life if you're ready for that country of it please let's put as gallery see the right reverend dr. I admit was two ministers worth tonight there so wind blowing come on and push you have to get all across

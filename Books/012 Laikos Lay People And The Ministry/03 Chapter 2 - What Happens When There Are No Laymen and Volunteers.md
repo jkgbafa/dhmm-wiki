@@ -4,6 +4,8 @@ book: "Laikos Lay People And The Ministry"
 book_number: "012"
 chapter_number: 3
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 ### Chapter 2\

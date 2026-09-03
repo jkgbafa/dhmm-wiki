@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=U1ODGxHThEg"
 duration_min: 254
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 why don't you rise up and let us enter into a short but powerful moment of prayer if you are somewhere else try hard and come and be part of what we are doing and all those who are watching we want to welcome you to church why don't you put your hands together and um welcome all those who are watching and also all those who are here it is going to be a blessing now turn to your neighbor if you have one if you don't have just say it to yourself say neighbor I'm blessed to be

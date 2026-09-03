@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2018
 source: "autocaption"
+topics: ["Faith", "Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/faith", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Faith is an unstoppable, supernatural, and invisible power in your life. That's the topic. Faith is an unstoppable, supernatural, and invisible power in your life. Amen. Amen. Faith is an unstoppable, supernatural, and invisible power working in your life. So, I encourage you to have faith in the things you are hearing. And faith is obedience. And obedience is faith. And faith must be in the big things. and in the little things. Thank you. It's if you couldn't remember anything in the camp, I think faith in the big things and faith in the little things perhaps is your

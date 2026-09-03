@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=k7dBis5ifRs"
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer"]
 ---
 
 Jesus name and everyone said amen you may be seated hallelujah right can with little Matthew chapter 13 God is changing your life in this three days and you will never be the same again hallelujah all right now in Matthew 6:33 the Bible says seek ye affect the kingdom of God and His righteousness and all those things shall be added unto you amen so God is telling us let us put him first our Christian life is a life of faith without having faith you cannot serve God amen when you pray are you listening when you pray

@@ -9,6 +9,8 @@ duration_min: 23
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/DON'T BE FIXATED TO YOUR PROFESSION  SEVENOAKS, UNITED KINGDOM  DAG HEWARD-MILLS  2002 [HVk_PjaGX5U]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer", "Vision and Direction"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer", "topic/vision-and-direction"]
 ---
 
 Welcome to track number 11 of all out. The next one, don't be fixated to your profession of what you learned in school and your job. No, just your profession. Then the next one, don't be fixated to your job. I don't want you to have a vision for your your profession.

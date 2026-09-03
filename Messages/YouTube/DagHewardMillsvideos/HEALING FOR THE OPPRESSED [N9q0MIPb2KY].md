@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=N9q0MIPb2KY"
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 amen amen lift up your hands with me to the Lord I just thank him right now for his presence here thank him for his presence and his power to heal to save to set you free tonight by the power of the Holy Ghost thank him right now thank the Lord right now oh Hallelujah Hallelujah Hallelujah father thank you for your great presence Lord thank you for your power thank you for your wonderful presence here Lord we know that healings are already taking place Lord we know that Miracles are already taking place tonight we thank you

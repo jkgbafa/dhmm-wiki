@@ -8,6 +8,8 @@ year: 1999
 duration_min: 20
 source: "autocaption"
 match: "exact"
+topics: ["The Word and Books"]
+tags: ["topic/the-word-and-books"]
 ---
 
 hallelujah now the symptom I want to call it it you can call it so many things you tell the word of God but I want to call it a symptom of backsliding it's allowing the cares of the world to choke the word of God allowing the care of this world if you read best 19 it says and please take a note of it I want you to write notes when you come to church please don't just you know look at me another visitor but if you come to church here regularly please try to write some

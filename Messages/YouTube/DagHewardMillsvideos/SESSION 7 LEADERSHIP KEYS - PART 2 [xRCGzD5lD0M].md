@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xRCGzD5lD0M"
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 be a leader with emotion show emotion all right now people who have emotion are attractive what I mean by emotion they show feelings right so try to show feelings in whatever you are doing don't look just with a blank face not ready are they on their way can you find out find out that I needed them to come before us to link don't be somebody who does not show emotion all right number one people who don't show emotion are usually not interesting to be with is that also the presence face is the same it's really

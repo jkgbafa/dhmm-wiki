@@ -8,6 +8,8 @@ year: 2009
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 I fix my fix my my casting aside every SE and every way I fix my eyes I fix my on I love my theur this world Lord only one thing one one I that may dwell in your house oh Lord my king all the days all the days of my life I want to G upon your beauty and see you in this oh one thing I see all the days all the days all the days of my I want to your beauty and seek you with this one thing one thing one thing I ask Jesus

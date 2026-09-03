@@ -8,6 +8,8 @@ year: 1999
 duration_min: 67
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 a sketch is entitled patience many times as Christians we are only prepared to wait for so long the time that we think is best for God to answer our prayers but God's timing is not our timing hallelujah and when he had said that he would do something for you he will do it so be patient and wait for the fullness of time to arrive for God to bless you amen hey jelly jelly sauce make I was really and it's all your falling either one or anything anything me worldly r19 for I've been up a tower

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 You you believe Jesus day make you s your left hand. You believe Jesus day make you s your right hand. Clap clap for Jesus clap for Jesus for Jesus. I remember what you don't me. I bless you. I bless you. Heat. Heat. Heat. Heat. I adore you. I adore you. Oh, let me let me you know you do you do for me. I got this. I got you for me. Oh, I got my I love Jesus. Heat. Heat. Every time the prophet you not Lord you let me you let me so you die for me.

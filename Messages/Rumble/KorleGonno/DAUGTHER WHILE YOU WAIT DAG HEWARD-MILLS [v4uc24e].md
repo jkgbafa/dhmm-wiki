@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uc24e/"
 duration_min: 84
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer"]
 ---
 
 Sometimes it's hard for me to understand how we are we pull away from each other so we use a leave even though we are walking along the same road yet within divided walls between a brothers or between the brothers and I say and I don't care oh what labor you may wear if you believe in Jesus Don't you know you belong with me you belong with me all the bite that we all share it's all I care I care to see and we'll change the world forever if you join with me join and single sister Oh come on and take me by Take me by the hand I believe we can be contrary there's no road that can defeat us well there is life we will stay you're my brother you're my sister So take me by together we walk we will rather come back no road that can defeat us we will walk inside by side very long we will stand the day you will come when we will all be as one and with a body used together we will all proclaim the name the name of Jesus oh what a wonderful name it will echo through the and it will I know it will shake the nations and the world will see me by my hand oh yeah I believe we can until we come that can defeat there is life we will stand brother come and join me let's say it's not take me by the hand take me by the hand together.

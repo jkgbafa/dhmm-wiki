@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/nOeIvwqrdLtj/"
 duration_min: 48
 source: "whisper"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 There will be foundings that I will have to fly and there will be bones that I will have to fight but victory or defeat. It's up to me to decide. But how can I expect to win? If I never try. I just can't give up now.

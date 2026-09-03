@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2018
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 I am reading from chapter 4 of my book lay people in the ministry the lay ministry seven things you should know about the lay ministry amen number one lay ministry greatly enhance the work of church planting amen amen maybe you may not have to die for Jesus you may not have to die for Jesus . But what you will be able to do is to sacrifice extra time that you would have been resting or sleeping, you would use that time to do the work of God. But one thing you have to do is dedicate the

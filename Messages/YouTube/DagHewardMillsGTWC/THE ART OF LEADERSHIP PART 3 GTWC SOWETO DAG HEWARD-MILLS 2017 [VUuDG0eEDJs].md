@@ -9,6 +9,8 @@ duration_min: 86
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE ART OF LEADERSHIP PART 3  GTWC SOWETO  DAG HEWARD-MILLS  2017 [VUuDG0eEDJs]]]"
+topics: ["Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 I received a call from God the other day. I was just a young person. He spoke to me and said, My child, you are mine. You must work and you must preach. Do you know the secret of prosperity?

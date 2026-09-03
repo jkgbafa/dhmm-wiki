@@ -7,6 +7,8 @@ url: "https://rumble.com/v4txnlb/"
 duration_min: 69
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Salvation/Repentance", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/repentance", "topic/salvation/the-new-birth"]
 ---
 
 Take me back me back, dear Lord to the place where I first received you, take me back, take me back to the Lord where I first be back, take me back, dear Lord to the place where I first received you, oh Lord, take me back, take me back, dear Lord where I first that I'm so far from you, Lord, until I hear you calling me those simple things that I want the memories of me. I must confess Lord I be blessed, but yet my soul's not sad is fine. So we knew my faith and restore my joy who I weeping eyes. Oh take me back.

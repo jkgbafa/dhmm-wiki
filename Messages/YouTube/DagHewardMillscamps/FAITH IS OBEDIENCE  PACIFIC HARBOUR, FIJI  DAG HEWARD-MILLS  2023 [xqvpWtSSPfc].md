@@ -8,6 +8,8 @@ year: 2023
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 Hebrews so let's go to the second session Hebrews chapter 11 oh yes oh yes verse 34 34 did I say 34 31 by faith the harot Rahab perished not with them that believed not when she had received the spies with peace that's the only thing she did in her life to end her the list to join Abraham H she joined Abraham Isaac Jacob Moses Joshua Enoch Noah by welcoming spies probably having sex with them don't be too righteous on me this evening I I I don't think I appreciate that I don't think I appreciate those

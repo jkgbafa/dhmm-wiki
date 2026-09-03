@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=iyxWDFNW9ys"
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 So there's a certain anointing you've never had until you've been rebuked. People that have not not survived being corrected or being rebuked have they never catch get a certain excellent oil. It's just not there. You see one day somebody met a young guy who was he he said he was in the ministry but he has never been nearer the headquarters where things are hotter. So he told the young guy said my friend you are welcome but there's I want you to know that until you have corrected rebuke faced there's a certain anointing you never have

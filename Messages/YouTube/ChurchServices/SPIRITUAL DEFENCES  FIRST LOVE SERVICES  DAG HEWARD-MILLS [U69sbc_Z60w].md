@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=U69sbc_Z60w"
 duration_min: 155
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 this is a story of the generations of Adam in the day that God created man in the likeness of God made he him and it came to pass when men began to multiply on the face of the Earth and Daughters of the earth were born to them that the sons of God saw them that they were Fair and they took them wives of all which they chose when the sons of God came in unto the daughters of men they bore children to them the same became Mighty Men which will of old men of renowned the

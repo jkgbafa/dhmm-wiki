@@ -7,6 +7,8 @@ url: "https://rumble.com/v5n0mhn/"
 duration_min: 80
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 How many of you feel really welcome to this homecoming convention? Hallelujah. Those of you outside, don't worry, the next woman coming convention will not be here. Yeah. Hallelujah.

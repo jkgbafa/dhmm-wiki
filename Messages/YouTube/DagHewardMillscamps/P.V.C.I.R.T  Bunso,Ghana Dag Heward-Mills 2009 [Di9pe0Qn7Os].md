@@ -8,6 +8,8 @@ year: 2009
 duration_min: 145
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Prayer/All-night Prayer", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/prayer/all-night-prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 hello are we there are you at the back can you hear us wonderful so um let's run through what we have done briefly and then uh Bishop will come and take it up from there so we talking about work isn't it what was the first thing that we saw there work has word work has word amen So Co what does it mean quickly it means that it means that there stipulated times that we are to be working church so in the church basically I think as a lios definitely Sunday has been earmarked fully as a

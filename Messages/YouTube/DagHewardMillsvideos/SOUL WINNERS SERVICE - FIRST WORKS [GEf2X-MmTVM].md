@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GEf2X-MmTVM"
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah father we thank you for this opportunity that we have we ask for your blessing guidance in Jesus name Amen may be seated right everybody just sit down settle down if you have space by you lift up your hand so people outside can come in who has space by you there are some spaces inside hallelujah all right I want us to receive an offering amen all the offerings that we receive here contributions to healing Jesus crusade our healing Jesus campaign we are gradually changing the name from crusade to campaign and one of the reasons is

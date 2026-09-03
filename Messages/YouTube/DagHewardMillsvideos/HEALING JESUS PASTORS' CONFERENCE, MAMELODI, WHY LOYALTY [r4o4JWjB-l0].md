@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=r4o4JWjB-l0"
 duration_min: 158
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 to be faithful is to not change now when you got born again what message made you born again and when you got saved what message made you grow up as a Christian where they teaching you about money every day and success without limit abundance of whatever and what enlargement of finances becoming a millionaire millionaires case serve instead to financial prosperity breakthrough without sweat hey when you watch the television the preaching is about you can adjust it there was a prophecy in 1967 by an old lady before she died I think that a vision has been

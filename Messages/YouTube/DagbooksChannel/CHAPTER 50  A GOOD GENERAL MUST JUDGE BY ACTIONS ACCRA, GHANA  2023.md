@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 Now chapter 50. A good general must judge by actions. Amen. Amen. Yes. This action has a meaning. For instance, talking to someone has a meaning. For example, friendship, the Bible says, "Know you not that friendship with the world is enmity with God." So, a friendship has a meaning. A friendship has a meaning. Friendships are not meaningless. The fact that I am friends with Pastor Dominic Dominic, it has a meaning. You You'll be surprised what it means. And the fact that someone is an oranguery and that person is still your friend you are still in the

@@ -8,6 +8,8 @@ year: 2013
 duration_min: 136
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Je suis crie en sien et la terre Il tient le monde dans sa main toute chose est dans sa main Il est mon bien le plus précieux Jésus crée à l'essie et la terre Il tient le monde dans sa main toute chose est dans ta main Il est mon bien le plus précieux Si j'ai Jésus si j'ai Jésus Si j'ai Jésus Si j'ai Jésus Je te chante Chanter Oh Jésus Mon ra Jésus Il est mon bien le plus Oh si j'ai Jésus Si j'ai Jésus Si j'ai Jésus Jésus te chau Jésus Mon rage Jésus Il est mon bien le plus Jésus Jésus est mon reçu en Seigneur Seigneur Seigneur Seigneur Jésus est mon Ramorra Il m'a parti Il m'a passé ma bâti Jésus est Seigneur Jésus Jésus Seigneur Seigneur To la m'a guillé et ma patienne m'appartient Oh je suis assez luya Hallelujah Stand to your feet tonight ce soir Il faut que tu n'es au début Stand to your feet tonight On the second night The servant of God is ready to minister the word of God Maintenant le serviteur de Dieu est prêt à prêcher la parole de Dieu Et la parole la puissance de Dieu believe your miracle is here tonight Rois que ton miracle est là ce soir Please put your hands together et la main And let's welcome in Funators I expect the miracle miracle so parent change Et oui Jacob monacos monat lui Oh je crois que ça va changer I expect the miracle mon Dieu For with God Qu'il soit impossible A bat Je propèce à force Everybody with your hand lifted up Oh miracle Je crois que ça va extra Heavenly Father Celeste.

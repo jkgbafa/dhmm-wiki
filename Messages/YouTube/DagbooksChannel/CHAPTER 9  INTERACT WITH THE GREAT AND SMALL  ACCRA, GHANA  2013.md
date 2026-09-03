@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2013
 source: "autocaption"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Three reasons why you must relate with the poor. Jesus Christ was called to the poor. He said, "The spirit of the Lord is upon me. He has anointed me to preach the gospel to the poor." Amen. Amen. Number two, most people in the world are poor. Wow. And number three, the sign of a higher anointing is that you are ministering to the poor. Wow. Because when Jesus asked Jesus, "Why are you When John the Baptist asked Jesus, are you the one who is to come? Are you the Messiah? Are you the Messiah? Are you the

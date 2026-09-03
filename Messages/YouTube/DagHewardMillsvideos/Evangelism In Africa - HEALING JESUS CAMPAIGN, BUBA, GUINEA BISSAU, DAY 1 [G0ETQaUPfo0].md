@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=G0ETQaUPfo0"
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah hallelujah army army Johanna let's repeat offenders come on open it up Barbara Lisa well milk hallelujah God bless you you may be seated those of regarding observable cinta everybody who - Jim please should sit down and not talking please - reading the person that miles propagate mproof evolve a gentleman - Silencio if you don't have a chair you can stand without talking so vocal pedagogy Simba oh boy a famous improv eeeh Silencio Silencio Silencio Silencio por su seniority Galea Silencio to do voice improve ah hallelujah I see some people standing here please be seated

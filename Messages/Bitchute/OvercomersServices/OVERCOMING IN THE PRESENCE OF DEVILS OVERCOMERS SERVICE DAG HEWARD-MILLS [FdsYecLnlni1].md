@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/FdsYecLnlni1/"
 duration_min: 90
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Father, thank you so much for this opportunity that we have in you to share your word to preach. We pray for the grace of God to be here. Help us, Holy Spirit, in Jesus' name. Amen. Uh turn with me to Mark chapter 2.

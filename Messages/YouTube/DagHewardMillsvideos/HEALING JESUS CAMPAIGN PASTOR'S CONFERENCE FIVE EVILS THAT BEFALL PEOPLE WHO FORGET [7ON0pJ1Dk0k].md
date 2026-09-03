@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7ON0pJ1Dk0k"
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 ten with me to Hebrews chapter 6 verse 10 Hebrews chapter 6 verse 10 but God is not unrighteous to forget your work of labor your work and labor of love which you have shoot toward his name in that you have ministered to the Saints and do minister amen most of us are aware of the four big sins lying stealing cheating smoking drinking etc but we are not aware of the sin which is one of the most profound sins the sin of forgetting what we should not forget amen so Hebrews 6:10 says God is not unrighteous

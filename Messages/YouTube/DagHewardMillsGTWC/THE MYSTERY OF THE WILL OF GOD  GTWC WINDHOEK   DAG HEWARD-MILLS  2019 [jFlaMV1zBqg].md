@@ -8,6 +8,8 @@ year: 2019
 duration_min: 154
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Curses", "Vision and Direction", "Vision and Direction/Hearing God", "Vision and Direction/The Will of God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/vision-and-direction/the-will-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I want to thank the Lord right now. I want to lift up your hands and thank him for what he has in store for you. What is coming your way? What is coming your way that is going to revolutionize your ministry that is going to turn around your ministry that is going to change how you approach the ministry that is going to cause your life to be totally transformed. Your life will not be the same again. And you want to thank the Lord. Lift your hands and say, "Lord, whatever I'm going to receive in the

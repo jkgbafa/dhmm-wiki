@@ -8,6 +8,8 @@ year: 2017
 duration_min: 53
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Wealth and Finances"]
+tags: ["topic/faith", "topic/wealth-and-finances"]
 ---
 
 Believe have faith in the miracle provision of finances in ministry. Ayez la foi dans la provision miracle des finances dans le ministère. Believe. In the miracle provision. Donc miracle.

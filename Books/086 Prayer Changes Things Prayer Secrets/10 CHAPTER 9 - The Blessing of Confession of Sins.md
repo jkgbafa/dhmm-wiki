@@ -4,6 +4,8 @@ book: "Prayer Changes Things Prayer Secrets"
 book_number: "086"
 chapter_number: 10
 type: book
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 ### CHAPTER 9\

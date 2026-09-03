@@ -8,6 +8,8 @@ year: 2014
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring"]
 ---
 
 There must be missions. Tell your neighbor there must be missions. And then tell your neighbor there will be missions. Tell your neighbor, look at me, look at me. I am telling you that as long as I am here, and as far as I am concerned, there will be missions.

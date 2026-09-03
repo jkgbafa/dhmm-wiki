@@ -9,6 +9,8 @@ duration_min: 44
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/RECAP BY BISHOP OGOE 2   WINDHOEK, GHANA DAG HEWARD-MILLS  2001 [mVvp2wC5dIw]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number five of where is the flock that was given thee choice together, hallelujah. Let's pray. Father, we thank you for the privilege to be here this morning. We thank you for the privilege to be here at this camp. We thank you for your plan you have for us.

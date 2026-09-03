@@ -4,6 +4,8 @@ book: "Stir It Up"
 book_number: "080"
 chapter_number: 10
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 ### CHAPTER 9\

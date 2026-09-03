@@ -8,6 +8,8 @@ year: 2017
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Intercession"]
+tags: ["topic/prayer", "topic/prayer/intercession"]
 ---
 
 father we thank you for your blessing thank you for your power that is released to us we are grateful we thank you for touching our lives in the mighty name of Jesus we pray with Thanksgiving amen amen now sit down we are still in our early morning session and we are pressing on we are looking at the prayers of Jesus amen amen is it fantastic is it amazing do you want how many want to learn from Jesus you sure you want to learn from Jesus fantastic amazing yesterday I showed you you the prayers based on

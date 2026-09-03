@@ -4,6 +4,8 @@ book: "The Art Of Hearing How To Be In The Perfect Will Of God 2Nd Ed"
 book_number: "021"
 chapter_number: 26
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 ## Chapter 25

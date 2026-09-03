@@ -8,6 +8,8 @@ year: 2013
 duration_min: 119
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 The anointing is specific is specific. It's a shirt. Somebody is wearing. Amen. Amen.

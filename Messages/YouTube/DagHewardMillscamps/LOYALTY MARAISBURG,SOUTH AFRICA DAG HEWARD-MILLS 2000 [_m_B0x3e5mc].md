@@ -8,6 +8,8 @@ year: 2000
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 Welcome to chapter 13 of the work of the ministry. I mean, since I I know, I know what I by the time I took my bags and was leaving the camp, I knew my life had changed. Ah, okay, thank you. You didn't hear what you said. He said, during that time, there were three branches.

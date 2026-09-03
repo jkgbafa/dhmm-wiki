@@ -4,6 +4,8 @@ book: "How You Can Make Full Proof Of Your Ministry"
 book_number: "030"
 chapter_number: 19
 type: book
+topics: ["Ministry and Pastoring", "Vision and Direction"]
+tags: ["topic/ministry-and-pastoring", "topic/vision-and-direction"]
 ---
 
 CHAPTER 18 \

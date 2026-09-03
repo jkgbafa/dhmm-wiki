@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tSJKT416MdU"
 duration_min: 225
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Lift your hands and begin to thank God. He has done everything we asked him. Oh tell him thank you, Jesus. We give you praise. We honor you.

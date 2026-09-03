@@ -4,6 +4,8 @@ book: "Rules Of Full Time Ministry 2Nd Ed"
 book_number: "039"
 chapter_number: 8
 type: book
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Call of God", "The Call of God/Responding to the Call", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ### CHAPTER 7 

@@ -4,6 +4,8 @@ book: "One Of You Is A Devil"
 book_number: "007"
 chapter_number: 4
 type: book
+topics: ["Leadership", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/leadership", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Chapter 3\

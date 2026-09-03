@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=emBsm7w38EI"
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 let's pray father thank you for this great opportunity that has been given to us at this time we are thankful we are grateful we honor you we love you and we ask that you bless us keep us help us to walk in your ways and help us to experience your will and your word beautifully to us we receive it Lord we walk in it we thank you for it Lord in Jesus name Amen you may be seated today I want to share with you about the unknowing thing for wealth Wow how many one they are

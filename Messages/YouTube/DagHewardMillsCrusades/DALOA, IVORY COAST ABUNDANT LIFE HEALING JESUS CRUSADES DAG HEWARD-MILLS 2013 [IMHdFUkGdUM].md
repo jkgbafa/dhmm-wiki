@@ -8,6 +8,8 @@ year: 2013
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Ne vous asseyez pas à rester debout. Do you feel the power of God here tonight? Est-ce que vous sentez la puissance de Dieu ici ce soir? Something is going to happen to you tonight. Quelque chose se passe dans ta vie ce soir.

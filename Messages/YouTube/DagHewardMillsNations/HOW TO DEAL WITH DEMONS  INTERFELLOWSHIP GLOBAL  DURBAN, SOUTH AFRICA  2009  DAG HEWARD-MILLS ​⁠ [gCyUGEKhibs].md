@@ -8,6 +8,8 @@ year: 2009
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 father thank you for the blessing of coming to your house we love you we praise you in Jesus name amen you may be seated are you glad to be in church wow tell somebody I'm glad I'm sitting by you Hallelujah now this morning I'm going to be sharing on demons and how to deal with them hey so fasten your seat belts and turn with me to Mark chapter 5 I want to thank Pastor Oliver sister Jan for inviting me to come back to um geran it's really a blessing for us all to be here we

@@ -8,6 +8,8 @@ year: 2012
 duration_min: 173
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 now the fifth presence the fifth level and that's how many want to go to level five of the presence is when the person physically seems to be present you may feel the touch of the person yeah where you start to feel like there's a person there physically and Benny hin is somebody who has had that kind of level of presence yeah level five presence of God hallelujah are you listening to me yes now how do you know that presence what's what what is the sign psalm 16 how psalm 16 no no problem you can read

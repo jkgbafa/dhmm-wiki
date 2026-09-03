@@ -8,6 +8,8 @@ year: 2012
 duration_min: 175
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 and your great blessing in Jesus name amen amen amen you may be seated yesterday I was sharing with you why you must be faithful right I gave you seven reasons number eight must fa because it qualifies you to be chosen did I give you that one ver and I took unto me faithful witnesses to record Ura the priest and Zachariah the son of jabah the Bible is saying he took faith faithful people to do the work amen Corinthians for this cause I have sent unto you Timothy who is my beloved Son and faithful in the

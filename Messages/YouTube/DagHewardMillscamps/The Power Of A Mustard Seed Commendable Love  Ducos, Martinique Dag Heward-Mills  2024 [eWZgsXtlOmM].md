@@ -8,6 +8,8 @@ year: 2024
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 hallelujah hallelujah let us pray father thank you for today and your Mighty power that is here today guide us bless us lead us in the mighty name of Jesus thank you for the power of the master that seed in the name of Jesus we praise you we thank you Lord amen amen God bless you you may be seated what a blessing to be here tonight tonight I want to share with you three things everybody say three are you ready for three things number one and when I finish sharing the three things we will be done

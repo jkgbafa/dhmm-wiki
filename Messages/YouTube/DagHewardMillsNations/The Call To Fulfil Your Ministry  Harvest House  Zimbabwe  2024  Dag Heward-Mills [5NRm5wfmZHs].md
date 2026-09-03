@@ -8,6 +8,8 @@ year: 2024
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 that I stayed where I was and I wrote that book because it occurred to me strongly that you should write that book that's a book that I I'm the only one who can write not because it's not about it's not about uh something I can't no one can teach but it's about whatever it's about it's about whatever it's about yes but it's like you are supposed you should do it so fulfilling your ministry is something you best ask yourself if you go now will there be something you want to come back to do I wrote

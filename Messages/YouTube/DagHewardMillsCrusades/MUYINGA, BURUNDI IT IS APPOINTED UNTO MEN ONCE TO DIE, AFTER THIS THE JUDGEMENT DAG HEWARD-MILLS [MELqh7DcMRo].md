@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MELqh7DcMRo"
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 And you may be seated if you have a seat. Tonight is a special night. And it's my joy to welcome the chairman of the Central Planning Committee. Of the healing Jesus campaign in our kidnecha, yes, to bring us a word. Let's have let's clap our hands to Jesus.

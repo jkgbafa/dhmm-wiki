@@ -8,6 +8,8 @@ year: 2010
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 Welcome to track number eight of advancing pegamos. But like Jesus said to Martha, that Jesus said to Martha that Mary has chosen the right thing. And you make yourself busy about so many things. And that's the reality. It's a common thing.

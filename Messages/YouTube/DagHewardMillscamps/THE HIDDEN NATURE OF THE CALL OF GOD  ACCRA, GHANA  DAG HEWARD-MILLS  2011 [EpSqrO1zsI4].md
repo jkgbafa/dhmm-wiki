@@ -8,6 +8,8 @@ year: 2011
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Call of God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-call-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 a heart that's willing and a heart that's true that's what is looking for a heart that is faithful to do what he wants us to do that's what he's looking for o that's what is looking for o that's what is looking for a heart that will be faithful each and every day yes that's what is looking for he's looking for a heart that will say Jesus Lord I'm willing to obey that's what is looking for ooh oo that's what is looking for o oo that's what is looking for God is looking for someone that he

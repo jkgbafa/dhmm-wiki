@@ -8,6 +8,8 @@ year: 2016
 duration_min: 204
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 our theme is the the army of hard followers the army of hard followers are you excited to be a hard follow amen God has specially chosen you that's why you are here amen amen the army of high followers we don't say hard you say hard followers Hallelujah sit down now I believe that God is supernaturally making you a hard follower Psalm 63 verse 8 Psalm 63:8 my soul followeth hard after thee thy right hand upholdeth me amen amen my soul followeth hard after thee and thy right hand upholdeth me amen amen this uh beautiful verse

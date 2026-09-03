@@ -8,6 +8,8 @@ duration_min: 173
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/If You Love The Lord Part 1  First Love Services  0520 l Dag Heward-Mills [gCokJIljvj8]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Judgment", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/judgment", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Today we want to pray to God and say, Lord, may we not receive your word as if a man is who is talking to us. But let us receive your word as if you yourself, you are talking to us and you are leading us and you are guiding us. And I want every one of us to pray and say, Lord, give me the grace to receive. Not only to hear, but also to receive. Receive it in my heart.

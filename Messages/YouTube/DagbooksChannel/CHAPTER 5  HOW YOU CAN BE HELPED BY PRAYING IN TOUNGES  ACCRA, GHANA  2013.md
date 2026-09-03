@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2013
 source: "autocaption"
+topics: ["Prayer", "Prayer/Praying in Tongues", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Father, thank you for tonight. Thank you for your word. Thank you for your spirit that is leading us today. We love you and we pray that your Holy Spirit will speak to us tonight in Jesus name. Amen. You may be seated. Are you glad to be in church? 1 Corinthians chapter 14. I'm preaching about prayer. How many know that prayer is important? Right? Have you found 1 Corinthians 14 verse one? Follow to charity, but rather that you may prophesy. So I'm I'm I'm I'm preaching about praying in tonesues. All right? Because I want all all

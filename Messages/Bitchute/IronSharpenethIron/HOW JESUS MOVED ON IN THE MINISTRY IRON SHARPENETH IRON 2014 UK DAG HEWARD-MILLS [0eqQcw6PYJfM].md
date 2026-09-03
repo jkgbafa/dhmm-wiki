@@ -8,6 +8,8 @@ year: 2014
 duration_min: 54
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Okay, so break for the great tech one right now. Is it not? We don't know. No, no, no. Okay.

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2014
 source: "autocaption"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 The fantastic key to set the anointing a flame in your life. And that key is what I call honor. Mark chapter 6, Markis. Let's read from verse Mark chapter 6. Let's read from verse one and two. Read it. Read it in English. And he went out from then and came into his own country. And his disciples follow him. And when the Sabbath day was come, he began to teach in the synagogue. And many hearing him were astonished, saying, "From whence hath this man these things? And what wisdom is this which is given unto him that

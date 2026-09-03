@@ -8,6 +8,8 @@ year: 2016
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 come on Brother come on and Stir It Up The Gift of God you must Stir It Up oh can't you see you're getting a little bit older how long is it going to take for for you to see how much more time do you need to stare up the gift oh you've got to use the gift I give to you come on and Stir It Up The Gift of God you must Stir It Up come on sister come on and Stir It Up the gift of God you must Stir It Up oh oh do you

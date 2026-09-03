@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uh3ah/"
 duration_min: 41
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Turn with me to 2 Corinthians chapter 6. 2 Corinthians chapter 6. And we want to read verse number 14. We are back to the second principle. I just want to illustrate a few points there.

@@ -8,6 +8,8 @@ year: 2008
 duration_min: 103
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 Help me believe all I could be and all that I am showing this every way I had to fly Lord all by say to each meeting one day at a time So one day at time switches up that's all I'm asking of you the strength to do every day what I have to do Yes go to And tomorrow and never mind Lord help me today show me the way one day last night Lord do you remain when you walk up Jesus you know if you look in the law it's worse now and she has a teaching one day at a time So one day at Jesus that is all asking of you please give me an to do every day what I have to do and yet to get all to Jesus and to go and every so Lord help me today show me the way one day at a time or a time switch out is all I must be of you give me the strength to do it today what I have to do is all she's like and tomorrow never be honest dear Lord help me today show me the way one day and dear Lord help me today show me the way one day if you see a broad standing by the way with heavy low from seats he is so walking down the road.

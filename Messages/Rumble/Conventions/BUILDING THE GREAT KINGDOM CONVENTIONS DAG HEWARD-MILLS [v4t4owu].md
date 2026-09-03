@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t4owu/"
 duration_min: 103
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Here am I sending me though you'll send the ones in chosen a few. Still my heart is the call, and when I give my whole to you here by my send me, though there's really not that much I can do. What I have seems so small, Lord. I give it to you. There's just so much to be done, oh Lord.

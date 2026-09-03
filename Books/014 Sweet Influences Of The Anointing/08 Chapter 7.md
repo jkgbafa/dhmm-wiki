@@ -4,6 +4,8 @@ book: "Sweet Influences Of The Anointing"
 book_number: "014"
 chapter_number: 8
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "The Holy Spirit"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-holy-spirit"]
 ---
 
 ## Chapter 7

@@ -4,6 +4,8 @@ book: "Can T You Do Just A Little Bit More"
 book_number: "054"
 chapter_number: 16
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 ### CHAPTER 15\

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ue8sf/"
 duration_min: 80
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Jesus Lama soul Jesus and never let you highlight You taking me my road taking me out of the Mary Clay Bronca Mary And you say my feed of the right oh yeah Yes I need you and though my wealth they fall I will never let you my savior my closest friends as well I will worship you only sisters sisters give me Jesus sisters Sisters tell me he's a lover of your soul will you let him go let you go sisters tell me now where did he put you I said sisters sisters some brothers have become

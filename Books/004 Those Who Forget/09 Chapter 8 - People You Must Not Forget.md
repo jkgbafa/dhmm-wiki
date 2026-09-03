@@ -4,6 +4,8 @@ book: "Those Who Forget"
 book_number: "004"
 chapter_number: 9
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 # Chapter 8

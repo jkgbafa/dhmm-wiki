@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=OZeHz4cgigU"
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 hallelujah hallelujah why don't you give the Lord a comedy Sharmila Oh papa remember your one goal no ma ma number your one goal nope Messiah he connected ha ha ha ha ah hiya me while he was right up there with me Oh goodnight tonight clap your hands and let appreciate revolving put your hands together for Jesus which you learn already to mature hallelujah amen and to prepare our hearts once again to receive the Word of God for the servants of God let's welcome Ida to bless us boy I'm a Bible now a Oh what I

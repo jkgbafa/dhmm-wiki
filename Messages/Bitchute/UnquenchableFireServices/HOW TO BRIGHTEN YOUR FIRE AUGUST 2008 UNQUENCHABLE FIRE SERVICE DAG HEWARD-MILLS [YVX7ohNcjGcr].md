@@ -8,6 +8,8 @@ year: 2008
 duration_min: 131
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Jesus, your name is power, Jesus, your name is Jesus, your name will free every captive, Jesus, your name is love, Jesus, your name brings in, and Jesus your name gives Jesus, your name will break every strong vote. Your name is love and Jesus, your name is holy, and Jesus your name is alive, Jesus, your name of love every other Jesus, your name is love Jesus, your name is Oh Jesus, your name, Jesus, you're the sweetest name of all Jesus, you pick me up each time of all Jesus. You always hear me when I come.

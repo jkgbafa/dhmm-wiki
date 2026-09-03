@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=sWKzBvYqF0M"
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 We thank God for tonight. And we thank God for these three days. Now you're meant someone say you can bear with me. When I buy a journey that the Lord has visited his own people. Evangelists, we thank you.

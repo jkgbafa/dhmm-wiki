@@ -8,6 +8,8 @@ year: 2003
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 welcome to track number 12 of AG greet on the way chapter number one chapter n okay verse 7 holy spirit we ask you to lead us to the end of this camp in Jesus name Lord amen go thy way eat thy bread with with joy and drink wine with a merry heart for God now accepted thy works you like this one go thy way do what eat thy bread with joy let me tell you happiness is an important part of your life am allow yourself to be happy amen do you understand what I'm saying allow

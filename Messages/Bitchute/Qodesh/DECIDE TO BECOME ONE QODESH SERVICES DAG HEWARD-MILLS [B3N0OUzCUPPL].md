@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/B3N0OUzCUPPL/"
 duration_min: 51
 source: "whisper"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 Hallelujah, hallelujah, hallelujah, hallelujah, hallelujah, hallelujah. We thank the Lord for a beautiful morning, amen. Are you blessed to be here? Wonderful. Well, it's a good day, and God is being gracious to us, amen.

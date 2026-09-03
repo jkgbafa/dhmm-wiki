@@ -8,6 +8,8 @@ year: 2012
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Kinds and Waves of the Anointing"]
+tags: ["topic/anointing", "topic/anointing/kinds-and-waves-of-the-anointing"]
 ---
 
 Hallelujah the Bible says in First Peter chapter 1:8 that though we have not seen him we love him though we do not see him now we believe in him and we are filled with an inexpressible and a glorious Joy hallelujah amen no I have not seen him you love and even though you do not see him now you believe in him know you have not seen him oh oh you love him and even though you do not see him now you believe in him and I F with an inexpressible and glorious joy and I F

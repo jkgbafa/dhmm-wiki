@@ -8,6 +8,8 @@ year: 2024
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Salvation", "Salvation/The New Birth", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/salvation", "topic/salvation/the-new-birth", "topic/the-holy-spirit"]
 ---
 
 tonight is the first night of this campaign and if you came here tonight it means me we are going to experience God's power in a very wonderful way and this evening there is a man God has sent a man who ministers God's word with power power to save power to heal power to turn your life around I'm excited to announce that that man is here ton let's receive hallelujah hallelujah lift up your hands and let us pray father thank you foros thank you for your Mighty power that is released here today thank you Lord that

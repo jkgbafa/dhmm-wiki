@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uey7h/"
 duration_min: 46
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 The wonders of salvation. Alright. Now, John chapter 3, verse number 16. John chapter 3, verse 16. Now you could and you could title my message today, do you love him?

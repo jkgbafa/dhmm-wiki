@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=BjrYbL1FIgA"
 duration_min: 131
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah I said hallelujah I'm excited this evening so friend I'm very excited to be here wha club for the famous Apache car the car that all the members are taller than the abyss of water shock hallelujah I said hallelujah are you blessed to be here wonderful wonderful well we're gonna take announcement and then we're going to carry on by the grace of God amen right Thursday morning 20 point service 9 a.m. to 12 noon with a profit Eddie fading got it telling people's points amen powerful powerful powerful teens miraculous meetings amazing things are happening here

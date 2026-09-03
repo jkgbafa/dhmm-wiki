@@ -4,6 +4,8 @@ book: "Backsliding Develop Your Staying Power"
 book_number: "047"
 chapter_number: 9
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/Backsliding"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/backsliding"]
 ---
 
 # Chapter 8

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=mDS-xeAxZK8"
 duration_min: 6
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Anagkazo and Compelling"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/anagkazo-and-compelling"]
 ---
 
 I want to share something with you about God's call. Amen. In the story, there are three words. He said, "Go and persuade them to come in." That word is "anakazu" in Greek. And one, your doubt. To do God's work, we have to be less gentle than we have been. Amen. If Argentina is going to be saved , we have to stop being so gentle, so tender. He says, "Go and persuade them to come in." It is a necessity that they come in and persuade them to come in. For God, we need the "anakazu." There are

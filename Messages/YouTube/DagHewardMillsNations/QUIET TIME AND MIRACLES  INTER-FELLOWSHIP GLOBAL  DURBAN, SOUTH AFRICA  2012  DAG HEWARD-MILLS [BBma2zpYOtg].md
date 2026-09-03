@@ -8,6 +8,8 @@ year: 2012
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 I'm after your heart should I be still when the wood starts SL I'm so in love with you what can men do can on be back anymore you spin over me and you are pleased when I spend myself on you I'm going to let go now really worship letting my dance come for dance dance let the spirit move you dance dance Holy Spirit In You Dance Dance Let the spirit and move you in Dan Holy Spirit in you I'm master your heart you I be still when the worship stops I'm so in love with what

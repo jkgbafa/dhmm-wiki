@@ -4,6 +4,8 @@ book: "Why Few Are Chosen"
 book_number: "067"
 chapter_number: 3
 type: book
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 ### CHAPTER 2\

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4bP6YPE_bKw"
 duration_min: 45
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 And then, well, Dilla, so I'd like everyone, judge, manager, to be inspired by their products. All Jesus Christ said, "The spirit of God is upon me." To preach to heal the procurator, those with broken hearts. Pipes for healing are either at peace. Was it a stat in Nkunda? It's one of the greatest things we do. Yes, trailer into you. Without the anointing, you don't sell healing as an amateur because our country is a greenhouse because another person - can't even heal themselves. You can't invent healings. Well, he who had 20 titles, you can't. Loving children

@@ -8,6 +8,8 @@ year: 2006
 duration_min: 102
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 Bless Come on, look on my God, he loves clone. He says I am shot. Come on. So why do I clap my hands? And why do I stop my feet?

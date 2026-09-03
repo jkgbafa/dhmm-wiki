@@ -4,6 +4,8 @@ book: "Victory Secrets"
 book_number: "032"
 chapter_number: 18
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 Victory Secret No.17\

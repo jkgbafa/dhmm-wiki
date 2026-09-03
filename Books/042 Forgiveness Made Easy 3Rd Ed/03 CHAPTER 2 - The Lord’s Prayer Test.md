@@ -4,6 +4,8 @@ book: "Forgiveness Made Easy 3Rd Ed"
 book_number: "042"
 chapter_number: 3
 type: book
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 ### CHAPTER 2\

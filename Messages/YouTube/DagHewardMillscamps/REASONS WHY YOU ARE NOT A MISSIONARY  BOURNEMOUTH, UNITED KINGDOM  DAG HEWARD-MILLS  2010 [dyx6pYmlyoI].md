@@ -8,6 +8,8 @@ year: 2010
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Missions"]
+tags: ["topic/missions"]
 ---
 
 First Timothy 4 I'm reading not the GI that is in thee which was given thee by prophecy to be laid on the hands of the Pres meditate upon these things give thyself holy to them that thy prophe may appear unto all take he unto thyself and unto thy doctor train continue in them for in doing this thou sh both save thyself and them that hear thee amen are you there amen now the reason why you are not a missionary are starting from verse 12 the first reason I'm giving now I Chang the topic I'll come

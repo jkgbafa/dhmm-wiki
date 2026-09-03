@@ -8,6 +8,8 @@ year: 2010
 duration_min: 45
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "The Call of God"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/the-call-of-god"]
 ---
 
 welcome to track number eight of the privilege the first one is what it's a privilege that can only be compared to becoming a king number two it's an honor normally it's a great very great thing number four is joining of a family and number five it is a high calling okay 10 things that it means to be to have a high calling 10 things that it means what it means to have a high calling how many want to know what you mean when you say High Calling hey number one to have a high calling okay

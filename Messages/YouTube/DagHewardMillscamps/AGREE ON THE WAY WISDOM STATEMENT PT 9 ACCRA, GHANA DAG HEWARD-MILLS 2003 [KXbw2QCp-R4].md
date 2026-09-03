@@ -9,6 +9,8 @@ duration_min: 18
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/AGREE ON THE WAY WISDOM STATEMENT PT 9  ACCRA, GHANA  DAG HEWARD-MILLS  2003 [KXbw2QCp-R4]]]"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Welcome to track number nine of agree on the way, and as he came forth out of his mother's room, naked shall he return to go as he came and shall take nothing of his labor which he may carry away in his hand, and this is also a sore evil that in all points as he came, so shall he go. And what prophet has he that hath labored for the wind? And the line and circle that verse in your Bible, all his days also he eateth in darkness. Now notice verse 18. Behold that which I have seen, it is good and comely.

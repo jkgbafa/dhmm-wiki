@@ -8,6 +8,8 @@ year: 2012
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Anointing/Kinds and Waves of the Anointing", "Wealth and Finances"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/anointing/kinds-and-waves-of-the-anointing", "topic/wealth-and-finances"]
 ---
 
 secrets of the anointed and his anointing number one you must have the anointing to do what the anointed does you must have the anointing to do what the anointed do did you get it if you want to do what anointed people do you must have the anointing amen because the reason why anointed people are able to do the things they do is the anointing is it easy to understand the reason why anointed people are able to do the things they do is because of the anointing so if you want to do what anointed people do

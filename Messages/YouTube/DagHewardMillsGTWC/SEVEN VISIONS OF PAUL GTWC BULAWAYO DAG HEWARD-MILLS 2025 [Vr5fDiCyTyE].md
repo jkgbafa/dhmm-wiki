@@ -8,6 +8,8 @@ year: 2025
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Vision and Direction"]
+tags: ["topic/prayer", "topic/vision-and-direction"]
 ---
 
 seven times that the Lord spoke to Paul. I want to give you seven visions of Apostle Paul. Number one, and each vision he speaks to Paul, uh you better hear it also. All right. Number one, the Damascus road vision.

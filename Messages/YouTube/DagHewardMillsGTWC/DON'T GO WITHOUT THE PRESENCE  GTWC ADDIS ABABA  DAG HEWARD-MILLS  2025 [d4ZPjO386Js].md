@@ -9,6 +9,8 @@ duration_min: 21
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/DON'T GO WITHOUT THE PRESENCE GTWC ADDIS ABABA DAG HEWARD-MILLS 2025 [d4ZPjO386Js]]]"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Hallelujah. Hallelujah. Let us pray. Father in Jesus name. Amen. You may be seated. Now tonight I want to share with you about the anointing of the spirit. Amen. And I have eight books on the anointing. Eight different books. Number one, steps to the anointing. Wow. This is my best book on the anointing. Steps to the anointing. Number two, sweet influences of the anointing. This is my favorite book on the anointing. Amen. Number three, catch the anointing. This is my first book on the anointing. Number four, flow in the anointing. Flow in the anointing. How to

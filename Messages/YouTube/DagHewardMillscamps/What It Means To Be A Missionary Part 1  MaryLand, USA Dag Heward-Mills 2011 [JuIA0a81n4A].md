@@ -8,6 +8,8 @@ year: 2011
 duration_min: 176
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Missions", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/missions", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 well it's a blessing to be here and it's good to see all of you who are here amen good to see you bop tonight I want us to begin sharing about what I'm calling the lay missionary we have always spoken about being missionaries but now we want to emphasize on being l lay missionaries wow amen a lay missionary is a missionary but he's lay that means that he is a lay person when when we speak of a lay person we mean somebody who is not paid to do what he's doing and who does that work

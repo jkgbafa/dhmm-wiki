@@ -8,6 +8,8 @@ year: 2016
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 are you blessed this morning yes have you been blessed in this Camp has your life been affected yes wow please settle down I'm waiting for you to settle down J and are there people still out there in the lobby area is it just Jean there's nobody there take one quick look for me to your left and to your right all clear all right why don't you stand to your feet with me me as we receive once again our father and our pastor Hallelujah all right glory to God glory to God father thanks a million for

@@ -4,6 +4,8 @@ book: "Ministerial Barrenness"
 book_number: "072"
 chapter_number: 3
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 ### CHAPTER 2\

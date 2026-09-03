@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2011
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Today we are talking about the art of shephering and being a good pastor. How many want to be a good pastor? Do you know that if you are a good doctor a lot of people will come to your clinic? How many know that? Do you know that if you are a good lawyer a lot of people will come to your Do you know that if you are a good farmer, you're going to have a lot of harvest, Amen. Amen. Do you know that if you are a good singer, a lot of people will come to

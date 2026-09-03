@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=eWvtaXcP7ow"
 duration_min: 160
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 canal's better amen cannibal louder amen hallelujah now how many of you was a match this afternoon all right many of us did it's wonderful but you see all the things I always do whenever I meet you know a situation that I would like to learn something out from what I do is that I tell myself that because of what has happened in this case it would be well with me they understand what I'm saying when you see that somebody's experienced a victory or a breakthrough it should encourage you that it would be well with you

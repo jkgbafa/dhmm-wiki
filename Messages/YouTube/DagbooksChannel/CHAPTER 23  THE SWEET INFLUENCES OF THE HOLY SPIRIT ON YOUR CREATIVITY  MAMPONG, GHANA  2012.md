@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2012
 source: "autocaption"
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 The sweet influences of the Holy Spirit on your creativity, the sweet influences of the Holy Spirit on your creativity. I'm just explaining and there are no points, there are no steps. is just a fact that it is the power of the Holy Spirit and the presence of the spirit that makes a person creative. Genesis chapter 1 In the beginning, God created the heaven and the earth. How did this creation, wonderful, imaginative creation take place? How the earth was without form and void? Okay. Now notice notice it looks like the creation all right was something that

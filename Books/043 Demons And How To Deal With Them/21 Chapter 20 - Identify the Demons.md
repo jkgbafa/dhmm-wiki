@@ -4,6 +4,8 @@ book: "Demons And How To Deal With Them"
 book_number: "043"
 chapter_number: 21
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ## Chapter 20

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=j-c1_TSIW20"
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 I expected something tonight Oh lalala no it's a joy for us to be gathered here on the for tonight of healing Jesus could say I like your logical I drop on your duck and you saw isolation I'm sure just a song what song where a state has been greatly blessed this week voila vocoder Daniel say ye and once again tonight I'm happy to introduce you back on uh Malaya lot III who was the man that God has used these past three dice Yoshi hola hola hola so genetics anyway it's ready to Minister the Word of

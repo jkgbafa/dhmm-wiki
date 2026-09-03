@@ -9,6 +9,8 @@ duration_min: 59
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/FREETOWN, SIERRA LEONE REMEMBER LOT'S WIFE HEALING JESUS CRUSADES DAG HEWARD-MILLS 2012 [brLUeLqnT34]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 there is no salvation in any name but Jesus Christ there is no salvation except in the name of the Lord there is no salvation in pain in name but Jesus R there is no salvation except in the name of the Lord he took my pain came to heal me he came to stay he won't leave me he filled my life and is empy me and his name will shine shine eternally for there is no salvation in pain in name of Jesus Jesus chist oh there is no salvation except in the name of the Lord and

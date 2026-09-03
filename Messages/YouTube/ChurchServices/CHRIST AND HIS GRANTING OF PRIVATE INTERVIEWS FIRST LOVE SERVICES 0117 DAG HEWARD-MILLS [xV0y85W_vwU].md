@@ -8,6 +8,8 @@ duration_min: 136
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/CHRIST AND HIS GRANTING OF PRIVATE INTERVIEWS  FIRST LOVE SERVICES  0117  DAG HEWARD-MILLS [xV0y85W_vwU]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Amen. It's time for testimonies. Amen. Oh, you're not excited. I said it's time for testimonies.

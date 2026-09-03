@@ -9,6 +9,8 @@ duration_min: 126
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Lord, You Can Depend On Me Mampong, Ghana Dag Heward-Mills 2025 [jiwtX24ZiOw]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 So today we want to continue. Lord, I know you need somebody. You can depend on me. Amen. So now we are moving to chapter two and I'm preaching from the book. Lord, I know you need somebody. I'm preaching the same things. Yes. The same things. The same steps. The same order. The same chapters. the same points, the same verses and you can see that it is relevant to us today. Yes. So when you get this revelation, you see that ministry can continue to the next person. Yes. That's why I say that I've not seen many

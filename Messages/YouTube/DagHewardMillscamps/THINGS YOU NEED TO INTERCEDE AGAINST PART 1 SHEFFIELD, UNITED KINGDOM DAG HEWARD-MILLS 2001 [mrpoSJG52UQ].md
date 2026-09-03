@@ -9,6 +9,8 @@ duration_min: 20
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THINGS YOU NEED TO INTERCEDE AGAINST PART 1  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001 [mrpoSJG52UQ]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 I'm going to share with you some things you need to intercede about or against. Number one, intercede against the law of degeneration. Amen. Jeremiah chapter 2, verse 21. Yet I have planted thee a noble vine, holy a right seed.

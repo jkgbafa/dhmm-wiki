@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 1999
 source: "autocaption"
+topics: ["Faith", "Prayer"]
+tags: ["topic/faith", "topic/prayer"]
 ---
 
 So today we want to move on to the next type of confession which um we call commanding confessions. All right, commanding confessions. And the last one uh are conversational confessions. conversation com confessions you make when you are conversing or uh confessions you make when you are just chatting uh informally in a relaxed way. Are you listening to me today? Yes, sir. The Bible teaches us we can have what we say. Amen. All right. So, I want you to turn with me to Mark chap 11 verse 23. Mark chapter 11 verse 23. All right. Matthew, Mark,

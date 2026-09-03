@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GfkkEDWxXiw"
 duration_min: 134
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 concentrate on what is going on don't let any body the structure because sometimes the point at which you need a way to bring a breakthrough somebody whispered something two years and take the attention off when somebody starts to talk to anything because we take him get behind me Satan I would mean powerful right I believe that tonight is going to be something else yesterday the king of God was at hand hallelujah the kingdom of the devil was launched a new king took over amen and tonight I don't know what is going to hop over when

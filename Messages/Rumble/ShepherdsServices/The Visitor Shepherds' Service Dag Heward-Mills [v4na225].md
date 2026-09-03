@@ -7,6 +7,8 @@ url: "https://rumble.com/v4na225/"
 duration_min: 53
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 Father, thank you so much for this evening. We ask that you speak to our hearts. We thank you for your blessing. In Jesus' name. Amen.

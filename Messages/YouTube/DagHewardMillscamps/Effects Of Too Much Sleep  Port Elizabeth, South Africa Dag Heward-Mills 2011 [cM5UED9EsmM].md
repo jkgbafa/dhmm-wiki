@@ -8,6 +8,8 @@ year: 2011
 duration_min: 181
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 are you being blessed are you receiving fully amen I believe we daddy started by sharing with us what it means to be asleep isn't it today amen and then he said when you are asleep your eyes are closed you have no vision when you asleep your eyes are closed and you have no vision the Bible say where is no vision that people do what perish the people perish I mean Vision I believe that is necessary and every single one of us must have a vision amen amen and then he said when you are awake the

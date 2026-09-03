@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=HoxC5Gtknu0"
 duration_min: 69
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 their spirit women so that there are wounded thank you for this blessing that we have today at the square of aces word hope leads there we leave Holy Spirit act in the name of Jesus the hand amen I loved visit sit down please at Saint Chaptes to fry at Mami Chan at Bab El Had of the art of leadership I always share smiling at the championships of being a shepherd which is that of leadership which alas of leadership and paste s htc pastors are shepherds in this pastor Mast Beecham of plague chape and it is

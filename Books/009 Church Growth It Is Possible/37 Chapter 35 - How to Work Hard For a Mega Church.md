@@ -4,6 +4,8 @@ book: "Church Growth It Is Possible"
 book_number: "009"
 chapter_number: 37
 type: book
+topics: ["Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring"]
 ---
 
 ## Chapter 35

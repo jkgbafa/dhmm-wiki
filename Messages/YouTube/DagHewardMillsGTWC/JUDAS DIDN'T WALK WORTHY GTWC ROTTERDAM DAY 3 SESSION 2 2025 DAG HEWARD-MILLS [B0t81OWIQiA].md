@@ -8,6 +8,8 @@ year: 2025
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, thank you for this last session that we have today. Guide us by your Holy Spirit in Jesus' name. Amen. Now, please be seated. I want to ask to look at somebody who didn't work worthy of his calling.

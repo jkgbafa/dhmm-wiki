@@ -9,6 +9,8 @@ duration_min: 85
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/RECEIVING A FATHER  TORONTO, CANADA DAG HEWARD-MILLS  2002 [5WkZ4aKddvY]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Now who was Elijah's father? Elijah's father. I'm giving you steps to becoming anointed. Amen. And if you follow these steps, like I said, they are very precious steps, but really they are only things for people who want them.

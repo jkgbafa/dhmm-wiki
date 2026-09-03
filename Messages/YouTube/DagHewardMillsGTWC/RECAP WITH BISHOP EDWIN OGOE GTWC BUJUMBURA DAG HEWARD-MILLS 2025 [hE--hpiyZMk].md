@@ -9,6 +9,8 @@ duration_min: 28
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/RECAP WITH BISHOP EDWIN OGOE  GTWC BUJUMBURA  DAG HEWARD-MILLS  2025 [hE--hpiyZMk]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 How many of you know that God has really spoken to us? I believe that your ministry will not be the same again. I believe that God has visited us greatly. And in this final session, I cannot wait for what God is going to say to me. I believe that God is anointing the evangelist to bring me a word for my life.

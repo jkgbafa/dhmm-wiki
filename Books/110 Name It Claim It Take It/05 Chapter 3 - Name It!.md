@@ -4,6 +4,8 @@ book: "Name It Claim It Take It"
 book_number: "110"
 chapter_number: 5
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 ## Chapter 3

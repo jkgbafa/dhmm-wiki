@@ -8,6 +8,8 @@ year: 2016
 duration_min: 102
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wisdom"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wisdom"]
 ---
 
 Father, thanks a million for this great blessing in Jesus' name. Amen. Merci for said grand benign. You may be seated, thank you. This is a book in French eneral.

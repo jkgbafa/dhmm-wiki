@@ -8,6 +8,8 @@ year: 2010
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 we are talking about warnings to remember the purpose for the thing that's why I'm on the purpose of lay pastors why did we make lay pastors for people who also have a good foundation for we all stand together and I call my Dr Noam I call my L person I would tell the Lord he has helped me since we started at the beginning he was in sleeping in the same room with me he has helped me you may be surprised that his reward will even be more than mine you don't know you don't know I

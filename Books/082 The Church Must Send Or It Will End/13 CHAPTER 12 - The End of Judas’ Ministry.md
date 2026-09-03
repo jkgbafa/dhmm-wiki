@@ -4,6 +4,8 @@ book: "The Church Must Send Or It Will End"
 book_number: "082"
 chapter_number: 13
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring"]
 ---
 
 ### CHAPTER 12\

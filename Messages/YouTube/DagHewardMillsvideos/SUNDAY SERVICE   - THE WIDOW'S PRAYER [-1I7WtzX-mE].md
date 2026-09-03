@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-1I7WtzX-mE"
 duration_min: 27
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 I bring you greetings from London I was in the church in London first I was in Seattle Washington I was invited by pastor Wendell Smith some of you may remember him it was here during the rituals program invited me for a conference so I was there it was a good time Seattle the home of Bill Gates Microsoft Boeing and we had a good time in the Lord and I was also in London in London we had a powerful convention we announced to the chair that we had bought our church building there our own Cathedral lighthouse

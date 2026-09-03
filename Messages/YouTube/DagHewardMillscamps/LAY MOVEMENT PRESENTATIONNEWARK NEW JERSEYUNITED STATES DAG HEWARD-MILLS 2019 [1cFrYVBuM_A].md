@@ -8,6 +8,8 @@ year: 2019
 duration_min: 15
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 So what it says is that the layers have formed a movement because lay ministry was going fashion. Do you understand? And they decided that no, the lay ministry must stay in fashion. And must continue in its pure and original form that it started as, not as people who are getting tick bits here and there by working half here, half here, taking bits which don't belong to them, and so on and so forth. So they have formed a movement.

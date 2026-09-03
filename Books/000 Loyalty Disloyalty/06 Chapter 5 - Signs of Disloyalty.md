@@ -4,6 +4,8 @@ book: "Loyalty Disloyalty"
 book_number: "000"
 chapter_number: 6
 type: book
+topics: ["Leadership", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/leadership", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Chapter 5\

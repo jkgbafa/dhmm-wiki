@@ -8,6 +8,8 @@ year: 2017
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers", "Ministry and Pastoring", "Prayer"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/ministry-and-pastoring", "topic/prayer"]
 ---
 
 Two big things happen when we receive such great seeds. How many of you believe we are receiving seeds? Powerful seeds. High yield seeds. Amazing seeds.

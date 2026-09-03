@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Wj-sX1nUpYU"
 duration_min: 182
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 just lift your hands to the Lord and let your lips whisper words of Thanksgiving to the Lord thank you Jesus we're so grateful Lord give thanks with a grateful give to the give thanks because he's GI Jesus Christ his son give thanks with a give thanks to the because his Jesus Christ let's sing it one more time give thanks give thanks with a gra heart give thanks to the Holy One to the holy give thanks give thanks because it's given because he Jesus let's do it one more time give thanks give with a heart why

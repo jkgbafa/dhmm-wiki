@@ -4,6 +4,8 @@ book: "Amplify Your Ministry"
 book_number: "011"
 chapter_number: 14
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Spiritual Warfare", "Spiritual Warfare/Demonology", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-holy-spirit"]
 ---
 
 ## Chapter 13

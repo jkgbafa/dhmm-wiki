@@ -4,6 +4,8 @@ book: "Jezebel A Woman Out Of Order"
 book_number: "109"
 chapter_number: 13
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 ### CHAPTER 12\

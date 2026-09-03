@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xGPmVILyebo"
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 I thought that I could make it all my home try to make this journey oh but I found out I am because of you I can't exist without your love how do you spirit I would sure be fair like a ship at sea without a sail load keep your breath of peace into myself I can't exist without your I can't live without you can't we without you I'm nothing without you lord I can't live without you I can't live without you nothing without my hands all things if you turn I can't breathe without you I'm

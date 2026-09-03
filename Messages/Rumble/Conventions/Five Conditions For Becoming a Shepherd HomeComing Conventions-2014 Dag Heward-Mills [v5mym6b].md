@@ -8,6 +8,8 @@ year: 2014
 duration_min: 162
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 If I give my life to you, I have a message from the Lord, Jesus sent me to you. Are you ready to listen? Do you want to hear me? I have a message from the Lord. Jesus sent me to you.

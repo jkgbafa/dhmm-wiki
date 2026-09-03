@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-nP5SVGcwTA"
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 one man define victory or defeat it's up to me to decide but how can I bear to win if I never try to far from where I know I love me man I don't believe it's probably the heart to leave me um never said there wouldn't be trial never said I wouldn't fall never said that everything would go the way I wanted to go home but when my back is against the wall and I feel like hope is Lord I just leave my hands up to the sky and say help me to be strong whoa

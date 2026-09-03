@@ -4,6 +4,8 @@ book: "Blood Power The Blood Of Jesus"
 book_number: "106"
 chapter_number: 8
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Chapter 7\

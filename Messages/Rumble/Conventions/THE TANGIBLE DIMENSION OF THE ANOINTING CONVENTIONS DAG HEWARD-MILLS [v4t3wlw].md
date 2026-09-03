@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t3wlw/"
 duration_min: 212
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 In Jesus' name, Amen. I said Amen. Give the Lord a big shout, offering and a glad. Hey, hallelujah. Shake ten people and say, Tonight is your night for a major breakthrough.

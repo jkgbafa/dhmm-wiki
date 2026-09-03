@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7fcihy2k5Uw"
 duration_min: 7
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 For I desire loyalty rather than sacrifice. Hallelujah. Psalm 78. We are ending. But they put God to the test and rebelled against the most high. They did not keep his statutes like their ancestors. They were disloyal and faithless, as unreliable as a faulty bow. Psalm 78 verse 56 and 57. NIV NIV NIV. They put God to the test. Amen. Psalm 78. And all right. And they they rebelled. They were disloyal and faithless. Verse 57. They were disloyal and faithless. All through the Bible, you see God calling for people to be faithful. And I'm here to

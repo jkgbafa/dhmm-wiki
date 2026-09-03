@@ -9,6 +9,8 @@ duration_min: 32
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PERFECTION OF ABRAHAM PART 3  JOHANNESBURG , SOUTH AFRICA DAG HEWARD-MILLS  2005 [IOWsLKbQ_qM]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 And when it's planted, what happened? It's thrown underground. I'm going to forget about you in that your platoon corner. After some years, and the bigger the bigger the plant is the deeper it must be. I tell you you have to write a book on seeds.

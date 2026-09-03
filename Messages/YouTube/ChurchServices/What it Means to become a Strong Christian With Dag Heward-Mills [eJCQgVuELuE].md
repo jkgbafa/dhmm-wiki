@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=eJCQgVuELuE"
 duration_min: 119
 source: "autocaption"
 match: "exact"
+topics: ["Missions"]
+tags: ["topic/missions"]
 ---
 
 a missionary especially someone who goes to another country is a very great our missionaries are great people so being a strong christian is something you do it's not something that descends on you so Well, I love you. Let's our feelings I should lift my hands up I can't miss it Whoop to the floor, this is the house of God Chad the sweet papa Chad the sweet papa Chad the sweet papa Hey, sweet papa Chad the sweet papa Oh, sweet papa Chad the sweet oh Chad the sweet papa Chad the sweet papa Chad the sweet papa Chad the sweet papa Chad the sweet papa Oh, sweet papa Chad the sweet oh Papa you be too much You be too much Papa you be too much You be too much Just a blessing for my life Just a money I can see C'est le vie C'est le vie C'est le vie I'll be Handcatches flying The word of God is in the house I'm dancing and I'm crying The spirit of God has been in this place Love is surrounding The love of God is shit I brought Embers been charging The young shin is in this place What you waiting for?

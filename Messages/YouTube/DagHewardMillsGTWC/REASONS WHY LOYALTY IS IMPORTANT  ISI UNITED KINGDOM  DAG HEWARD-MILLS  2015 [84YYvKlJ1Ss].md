@@ -8,6 +8,8 @@ year: 2015
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Treat the people in the church as a family. When you are in the church, look those of you who you know there are some people who are very family family conscious. Let me tell you family family conscious is good. There is another family and the blood of Jesus is thicker than the blood of that your family. You'll find out JESUS SAID WHO IS MY BROTHER? JESUS SAID WHO IS MY FATHER? WHO IS MY MOTHER? Who is my sister? These people who are flowing with me in the ministry and doing the work, THEY ARE MY ACTUAL

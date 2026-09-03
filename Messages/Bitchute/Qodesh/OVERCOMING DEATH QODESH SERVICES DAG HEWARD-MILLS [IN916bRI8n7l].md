@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/IN916bRI8n7l/"
 duration_min: 52
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Thank you for your great blessing that you have bestowed upon us. We are grateful. Leaders, Holy Spirit, we ask for your help, for your word to minister to us. We thank you, Lord in Jesus' name. Amen.

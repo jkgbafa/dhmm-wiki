@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=VnmFXQhNyq8"
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 salvation is a subject and I'm sharing from the story of the prodigal son so the prodigal son story is a story of salvation that's 11 it says a certain man had two sons and the younger of them said to his father father give me the portion of goods that falleth to me and he divided unto them his living not many days after the younger son gathered all together and took his journey into a far country and there wasted his substance with riotous living when he had spent all there arose a mighty famine in that land

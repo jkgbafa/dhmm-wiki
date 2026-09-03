@@ -7,6 +7,8 @@ url: "https://rumble.com/v4n9utx/"
 duration_min: 67
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 I want to talk about a holy spirit shepherds. I um want to turn to Acts chapter 2. And um in verse 17 says, and it shall come to pass in the last days, saith God, I'll pour out my spirit on all flesh, and your sons and daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams, and on my servants and handmaidens will I pour out in those days of my spirit, and they shall prophesy. Amen. Well, this uh I'm sharing about Holy Spirit um shepherds, that is shepherds who are influenced and affected by the Holy Spirit.

@@ -8,6 +8,8 @@ year: 2004
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances"]
 ---
 
 welcome to track number five of church planting from this book uh lay people and the ministry all right get a copy of it how many were able to buy the whole set of books I believe quite a few of us were able if you if you want to get a set you don't have the money you can book it with the Bookshop and then the Bookshop will pay up that only up till this afternoon and the Bookshop would have to guarantee that they would pay for it but up to this because this evening that offer

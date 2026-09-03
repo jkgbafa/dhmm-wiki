@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JkdwNqvTD9o"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 ha ha Hey Oh Oh lupus is our teacher Zhu who Chris is a divita Gustavus all commodities off Booya Booya oh there's my gotta be rápido Tico because our agent lucky - whistling ha ha ha Oh if I smuggle what is that oh ha ha oh yeah - oh my god yadi Oh let's appreciate the valley for these powerful songs yessir the professor emergency room O'Meara Tokido - hallelujah happy clap our hands please be seated el cuarto de cosas most popular placenta please be seated disfavour cinta hallelujah hallelujah I hear a lot of talking to

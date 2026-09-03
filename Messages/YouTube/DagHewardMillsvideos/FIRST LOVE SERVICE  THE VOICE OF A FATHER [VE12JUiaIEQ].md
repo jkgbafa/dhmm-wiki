@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=VE12JUiaIEQ"
 duration_min: 175
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh yesterday fees are met Eva seiza better read me in time oh yes si breath mister there's a man God he's a lot of cattle break come on come and lay down your bedding Isis be famous we're gonna sing I'm trading my sorrows and I'm training my same hot amen yes amen - yes Lord amen Hey oh lordy Oh Oh ha right ah ah ha ha ah Oh a man please take your seat amen just give your neighbor - I own a bicycle to see you again amen we have mobile church I tell you amen

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tq4ln/"
 duration_min: 64
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Let us pray. Heavenly Father, we thank you for this evening. Thank you for the opportunity that we have in you to serve you, Lord. We pray that you guide us by your spirit into all truth. We thank you for your blessing in Jesus' name.

@@ -8,6 +8,8 @@ year: 2015
 duration_min: 221
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 oh come on I you know believe that I was go now I know to mean up the wor that I can do all te to Jesus Christ the spirit will help me to do his will I try I believe I can work for God and counseling interacting with them every day I believe I can try I believe I can I believe I can GA people I believe I can car them I believe I can try I was allow to choose the L I did not to the word of God until I reach the highest the

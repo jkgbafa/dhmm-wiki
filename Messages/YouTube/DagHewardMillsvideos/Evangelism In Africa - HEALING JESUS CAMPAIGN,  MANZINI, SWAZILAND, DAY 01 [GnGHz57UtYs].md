@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GnGHz57UtYs"
 duration_min: 115
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 swand Give the Lord the best shout of Praise oh come on give the Lord a shout a shout a shout hallelujah hallelujah amen do me say Hallelujah oh Hallelujah me me to me lift up your voice and sing lift up your right do me hey do m he could do lift up your right hand sing Hallelujah why don't you give the Lord Jesus a shout of Praise hallelujah hallelujah wayu Lu J go am am lift up your voice and s j i to hear you sing W yeah h we love you Jes good on sing

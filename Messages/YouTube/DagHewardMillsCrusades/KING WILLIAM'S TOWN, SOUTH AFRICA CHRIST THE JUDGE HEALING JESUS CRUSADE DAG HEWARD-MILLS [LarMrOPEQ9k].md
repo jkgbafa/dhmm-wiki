@@ -8,6 +8,8 @@ duration_min: 143
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/KING WILLIAM'S TOWN, SOUTH AFRICA  CHRIST THE JUDGE  HEALING JESUS CRUSADE  DAG HEWARD-MILLS [LarMrOPEQ9k]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Jesus is here right now Jesus right now He is here to meet your need to set the captain free Oh Jesus right now if you feel all the God and you fight the battle alone and depression threaten your very door Jesus will be the day chase the dark cloud away Oh Jesus right now Jesus right now Oh Jesus right now to meet your need to set the captive free is here right now if you heal nobody care and life has been unfair and you can find peace of mind no way to take your hand lift you up and help you stand oh Jesus is here right now Jesus right now I know it Jesus is here right now he is here to meet your need to set the captive free Jesus is here right now he is here to meet your need to set the captive free oh Jesus right now Jesus is here right now Jesus right now keep clapping your hands under Sarkozy welcome the body to bless us with a song that is an oh yeah why don't you give Jesus a shout of praise come on shout shout give the Lord a show man give on the corner in a coachula to lawyer woman given the corner for God to me say Lift up your right hand and say who are with you.

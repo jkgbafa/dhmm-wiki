@@ -4,6 +4,8 @@ book: "Spiritual Dangers"
 book_number: "100"
 chapter_number: 10
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 ## Chapter 9

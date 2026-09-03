@@ -4,6 +4,8 @@ book: "Faith Secrets"
 book_number: "060"
 chapter_number: 57
 type: book
+topics: ["Faith", "Salvation", "Salvation/The New Birth", "Work and Diligence"]
+tags: ["topic/faith", "topic/salvation", "topic/salvation/the-new-birth", "topic/work-and-diligence"]
 ---
 
 ### Chapter 56\

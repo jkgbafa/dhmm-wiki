@@ -8,6 +8,8 @@ year: 2024
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Hallelujah foree fore foreign spe go foree foree speee it AB it AB it AB it AB it AB it saee to see s s for it it it for hallelujah fore for Fore spee fore hallelujah hallelujah AB it it z z z fore fore foree Saye spee fore fore Z foree for for Fore foreign foree foreign spee fore speech fore for little fore fore it it it it it aha aha aha for foree speee spe speeech fore me hallelujah what a great time of praise and worship please remain standing please remain standing and help me

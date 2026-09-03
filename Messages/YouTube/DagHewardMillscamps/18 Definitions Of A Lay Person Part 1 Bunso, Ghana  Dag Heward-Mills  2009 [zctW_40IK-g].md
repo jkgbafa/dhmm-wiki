@@ -8,6 +8,8 @@ year: 2009
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 hallelujah thank you shall we pray Heavenly Father we thank you for the blessing of today yes Lord thank you for the blessing of bringing us together Hallelujah to receive from you Lord we ask that you guide us by your Holy Spirit and let your will be done in the name of Jesus we thank you Lord in Jesus name amen amen you may be seated wow are you glad to be here all right well um can you hear me very well at the back okay the last time we had another Hall smaller okay very good um

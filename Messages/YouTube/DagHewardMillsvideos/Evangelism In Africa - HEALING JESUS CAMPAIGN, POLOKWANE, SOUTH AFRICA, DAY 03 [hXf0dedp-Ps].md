@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hXf0dedp-Ps"
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 Oh Maura cool Isamu Lucy wanna oh you're not Oh your number ha ha good or we let me fasten on YTV be sorry ma yes all the Hollywood a hopeful of messy death oh la la can your in the world kilo lalala Lala robot also leave me we live right on that desk oh ho ki ma Nikki will decide ah would be so more right now yah-tchi yah-tchi yah-tchi look buried a kiwa keeper keeper keeper yada he warned of Osama he what Oh for Alicia that's all our to me so let's all Yahoo Oh yeah

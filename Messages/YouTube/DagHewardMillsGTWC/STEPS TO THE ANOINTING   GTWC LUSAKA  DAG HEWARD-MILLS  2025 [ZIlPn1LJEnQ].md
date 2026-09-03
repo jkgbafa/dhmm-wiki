@@ -9,6 +9,8 @@ duration_min: 104
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/STEPS TO THE ANOINTING GTWC LUSAKA DAG HEWARD-MILLS 2025 [ZIlPn1LJEnQ]]]"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 All right. Are you still around? Are you still here for the last now? Steps to the anointing. That's the third thing I told I told I was sharing with you only three things. Beautiful. Steps to the anointing. Wow. Step number one, the principle of vessel change. Can I get Coca-Cola, please? Coca-Cola. Do you have Coca-Cola here? Oh, I need a bottle of Coke. Glory to God. Now, these are the seven books on the anointing. One is steps to the anointing. Number two is catch the anointing. Number three is flow. It's each one is different. Each

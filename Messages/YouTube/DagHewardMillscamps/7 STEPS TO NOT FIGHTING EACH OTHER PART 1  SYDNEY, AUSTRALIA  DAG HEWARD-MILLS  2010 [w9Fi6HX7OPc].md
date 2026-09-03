@@ -8,6 +8,8 @@ year: 2010
 duration_min: 194
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 guide us and let your will be done in this precious time that we have together in Jesus name and everyone said amen amen you may be seated all right um I'm happy to be here and um I believe we are going to have a good experience together no matter how short it is amen right I believe Pastor quu has been doing a very good job and I'm going to let him uh finish the good work that he started so I'm just going to come in the middle like a sandwich so as he has taken the

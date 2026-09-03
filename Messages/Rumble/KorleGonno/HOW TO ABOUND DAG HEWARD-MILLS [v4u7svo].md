@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u7svo/"
 duration_min: 37
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Our theme is abundance and uh I believe it's a year of abundance, amen. The Lord is blessing us, and we are going to experience his abundance. Amen. Alright. Abundance of the Lord for our lives.

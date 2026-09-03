@@ -4,6 +4,8 @@ book: "Flow In The Anointing"
 book_number: "061"
 chapter_number: 5
 type: book
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 ### CHAPTER 4 \

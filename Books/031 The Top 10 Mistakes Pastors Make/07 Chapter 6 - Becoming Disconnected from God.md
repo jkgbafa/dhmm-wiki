@@ -4,6 +4,8 @@ book: "The Top 10 Mistakes Pastors Make"
 book_number: "031"
 chapter_number: 7
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 ### Chapter 6\

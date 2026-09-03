@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/wz55khbLq238/"
 duration_min: 130
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Lift up your hands with me to the Lord I just thank him right now for his presence here for his presence and his power to heal to save to set you free tonight by the power of the Holy Ghost Thank him right now and thank the Lord right now Hallelujah Hallelujah Hallelujah Hallelujah Hallelujah Hallelujah Father thank you for your great presence Lord thank you for your power thank you for your wonderful presence here Lord we know that healing is already taking place Lord we know that miracles are already taking place tonight we thank you Lord

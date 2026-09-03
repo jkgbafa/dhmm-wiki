@@ -9,6 +9,8 @@ duration_min: 44
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/INTRODUCTION TO THE YOUTUBE CHANNELS  GTWC BUJUMBURA  DAG HEWARD-MILLS  2025 [WwZFrKigZAk]]]"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now I want to show you something. Now gomba kugiri chanda be on the YouTube. Put it YouTube. Can I can I can we do the YouTube? How many know YouTube?

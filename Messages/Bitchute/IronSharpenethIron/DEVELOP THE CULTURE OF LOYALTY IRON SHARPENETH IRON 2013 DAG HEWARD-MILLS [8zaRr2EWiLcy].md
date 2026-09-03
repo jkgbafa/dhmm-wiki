@@ -8,6 +8,8 @@ year: 2013
 duration_min: 132
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 You deserve the glory. As we live your holy day. You deserve the Lord we make our hands in worship. As we lead your holy name. There is no God.

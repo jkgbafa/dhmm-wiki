@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=UQrL9sn6gwY"
 duration_min: 148
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we know that all things work together for good to them that love the Lord - there you are becau ho I am a seen nor heard no habit entered the heart of a man I think God has prepared for those who love Him you must love below give him all your heart you must love the Lord because it's the greatest comeback and a child of God you must love give him your very heart you must love my child because he has had his love upon me therefore will I deliver him get him on high because

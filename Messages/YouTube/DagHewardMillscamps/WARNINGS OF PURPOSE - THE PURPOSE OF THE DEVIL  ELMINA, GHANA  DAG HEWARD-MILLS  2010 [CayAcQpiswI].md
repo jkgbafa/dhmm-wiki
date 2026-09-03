@@ -8,6 +8,8 @@ year: 2010
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances"]
 ---
 
 you have a question please ask quickly so that we can proceed okay you have any question then we call you to sing a solo right at the back Steve do you have any question yeah give me the microphone where is the microphone all right Hallelujah um Bishop mine is not a question it's what I've observed and uh Bishop was teaching us about experiencing one mind and by the way um who is pregnant is it you or your wife sorry ask the question ask the question okay uh please sorry I a question contribution and uh Bishop

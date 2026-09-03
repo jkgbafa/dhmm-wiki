@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zRD_0HsZim0"
 duration_min: 2
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Obeying fully is a spirit of humility. Moses says we should go. God says we should go. We are going. You see what I'm saying sounds automatic but this is the point at which all the min like if let's say all the thousands of us that are here tonight if only seven will do well is on this point the seven who will do well will go left and then the thousands of whatever who will not do well will go right only based on this one thing this particular thing that they will not follow you fully Because

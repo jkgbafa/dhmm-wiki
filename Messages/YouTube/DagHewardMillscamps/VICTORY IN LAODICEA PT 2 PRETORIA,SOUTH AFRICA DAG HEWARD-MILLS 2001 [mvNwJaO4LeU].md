@@ -8,6 +8,8 @@ year: 2001
 duration_min: 33
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Welcome to track number three of Victorian Layotisha women. Women are more open to the anointing than men. Ten times more. Oh, yeah. If I want if I have something in me and I want to impart it to somebody who will receive, I'll choose a woman.

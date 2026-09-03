@@ -4,6 +4,8 @@ book: "Why Non Tithing Christians Become Poor And How Tithing Christians Can Bec
 book_number: "036"
 chapter_number: 8
 type: book
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ## Chapter 7

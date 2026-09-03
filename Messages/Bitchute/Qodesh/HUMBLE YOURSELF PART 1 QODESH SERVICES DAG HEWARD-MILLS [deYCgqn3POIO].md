@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/deYCgqn3POIO/"
 duration_min: 61
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 God has been good to us, amen. How good? Amen. Come on, let's talk like this. Come on, Club.

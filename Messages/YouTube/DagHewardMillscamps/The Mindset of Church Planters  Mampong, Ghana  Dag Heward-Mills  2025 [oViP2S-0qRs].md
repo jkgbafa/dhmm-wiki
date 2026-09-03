@@ -8,6 +8,8 @@ year: 2025
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Let's pray. Father, thank you for this time. We are grateful in the name of Jesus Christ. Amen. Amen. Right. So, you are welcome to this uh church planters camp. So the idea of this church planters camp is that we want to plant churches in the city and in the country. Amen. Amen. So you have been chosen, you have been chosen to uh be trained and to for us to have some meetings with you so that you end up learning how to plant a church and how to do the work. Amen. So that is why I'm

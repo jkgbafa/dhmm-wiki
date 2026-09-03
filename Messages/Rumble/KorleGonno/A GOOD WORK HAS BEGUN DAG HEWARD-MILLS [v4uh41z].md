@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uh41z/"
 duration_min: 60
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Worship the Lord this morning. Sing Lord, you beautiful. Lord, you beautiful. Singles and generations. Lift your hands and sing Lord, you are beautiful.

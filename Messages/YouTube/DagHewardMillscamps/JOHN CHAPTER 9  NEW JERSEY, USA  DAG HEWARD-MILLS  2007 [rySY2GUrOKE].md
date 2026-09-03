@@ -8,6 +8,8 @@ year: 2007
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 John chapter 9 we are going into our second session verse 1 2 3 are you there and as he passed by he saw a blind man from birth and his disciples asked him Rabbi who sin this man or his parents that he should be born blind and Jesus answered it was neither that this man sinned nor his parents but it was so that the works of God might be displayed in him we must work the works of him that sent me as long as it is day night is coming when no man can work while

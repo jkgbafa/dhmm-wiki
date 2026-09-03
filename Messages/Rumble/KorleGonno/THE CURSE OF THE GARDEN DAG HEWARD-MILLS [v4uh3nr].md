@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uh3nr/"
 duration_min: 43
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Last week we looked at um becoming more involved in the work of God. Is that not so? Is that not so? And today we want to um continue. We actually began a series on women doing the will of the Lord.

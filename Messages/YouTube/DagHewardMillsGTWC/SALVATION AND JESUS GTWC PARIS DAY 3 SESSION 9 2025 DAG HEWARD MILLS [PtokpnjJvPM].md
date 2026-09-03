@@ -8,6 +8,8 @@ year: 2025
 duration_min: 4
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 Section 8. Salvation and Jesus. Section 8, the salut is Jesus. Amen. Amen.

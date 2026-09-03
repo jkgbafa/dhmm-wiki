@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ytAwhqs9HAE"
 duration_min: 28
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 for ten years beginning in the year 2004 the healing Jesus campaign has been journeying from city to city across West Africa visiting 100 different places and conducting massive angel' itll and healing campaigns filled with the power and glory of God Jesus told us to go into all the world and preach the gospel since 2004 the healing Jesus campaign has embarked on epic journeys and has reached out to the entire sub region of West Africa spreading the gospel of Jesus Christ in towns and cities everywhere over a decade the healing Jesus campaign has visited 14 different

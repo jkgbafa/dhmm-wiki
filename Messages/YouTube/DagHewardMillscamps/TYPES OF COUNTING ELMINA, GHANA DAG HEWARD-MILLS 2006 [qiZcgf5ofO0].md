@@ -9,6 +9,8 @@ duration_min: 133
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/TYPES OF COUNTING ELMINA, GHANA  DAG HEWARD-MILLS  2006 [qiZcgf5ofO0]]]"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 Right. It is it is important to count. Now in this book, we have the different types of counting. Type one is counting the number of human beings physically present. Type two, total number of people on the church register.

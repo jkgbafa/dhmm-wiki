@@ -4,6 +4,8 @@ book: "A Good General The Science Of Leadership"
 book_number: "023"
 chapter_number: 19
 type: book
+topics: ["Leadership", "Leadership/Generals and History Makers", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 ### Chapter 18\

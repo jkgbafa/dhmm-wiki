@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=UPeHj_92QZI"
 duration_min: 17
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 From here, this disease isn't like stopping Amadou's civil status, and I was born in Sète, the main evangelical church, thanks to wonders in Ivory Coast, and I'm in a lot of pain even though the local church pastor has eyes for interests, it's a locality and the city of Abidjan in Ivory Coast so I have a certain pastor and so I heard about a crusade, let's say the conference of bishops of Agde in Ghana Accra swam, it was emptied and I left for the first time, it was at college, the theme was the fact and slip,

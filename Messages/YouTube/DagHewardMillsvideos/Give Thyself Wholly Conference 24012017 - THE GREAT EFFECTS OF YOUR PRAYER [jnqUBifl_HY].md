@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jnqUBifl_HY"
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 When a Man Loves the Lord When a Man Loves the Lord when a young man like you loves the Lord when a young girl when she loves the Lord when a man a woman a young boy young girl loves the Lord with all their heart it's so beautiful yes it is oh it's beautiful When a Man Loves the Lord he doesn't want to miss his quiet time he doesn't want to miss his time alone with the Lord he doesn't want to miss the prayers he doesn't want to miss the fellowship he doesn't want to miss

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xV0y85W_vwU"
 duration_min: 136
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 amen it's time for testimonies amen oh you're not excited I said it's time for testimonies amen please help me welcome kobby Nelson to share his testimony with us why don't you put your hands together as we welcome kobby Nelson hello my name is kby Nelson from upsa my testimony is about how I receive an iPad through D's prophecies and prayers uh early this year I was believing go for an iPad and I didn't know how to tell my parents because for the past three semesters I've mishandled two tablets so I was believing God and all

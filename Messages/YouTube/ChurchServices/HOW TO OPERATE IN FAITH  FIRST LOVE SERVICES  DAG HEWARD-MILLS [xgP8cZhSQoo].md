@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xgP8cZhSQoo"
 duration_min: 321
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Vision and Direction", "Vision and Direction/The Will of God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 are you excited this morning oh if you can have two people who are excited this morning I believe God can work a miracle in your life hey he he hey hey hey hey no no wait wait wait wait a minute listen I was coming to CH this morning with my black jacket when I came out of my car I was like no this black jacket is going to restrict my praise I said this black jacket is going to restrict my praise I took up my black jacket and I hang it over my SE I said

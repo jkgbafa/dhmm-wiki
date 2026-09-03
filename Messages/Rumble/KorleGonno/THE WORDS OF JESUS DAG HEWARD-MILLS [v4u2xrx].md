@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u2xrx/"
 duration_min: 27
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 Father, thank you for this morning. Thank you for your holy word, Lord. As we come before you today, we pray for openness. We pray for humility. We pray, Lord, for you to lead us and minister to our hearts.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=H2YeApcqtVQ"
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Hallelujah. Oh, Hallelujah Palape. Palape Amuti Mua Bakwe. Jesus is Lord. Thank you, Jesus.

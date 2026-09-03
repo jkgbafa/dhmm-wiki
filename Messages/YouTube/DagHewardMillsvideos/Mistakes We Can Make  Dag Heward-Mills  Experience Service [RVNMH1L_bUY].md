@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=RVNMH1L_bUY"
 duration_min: 115
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 beginning from today there's going to be plenty of food some of you when you are going to buy KFC or you are going to buy some other food you wait till you are alone you want to be alone when you are buying now one mistake you can make a mistake that you should be careful of is your absense can be a sign of Dishonor and somebody you are resistant to you do not honor your yielded and your flow reveal your honor answering back arguing back reveal resistance and dishonor you but is something that take you

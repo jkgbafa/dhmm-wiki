@@ -8,6 +8,8 @@ year: 2001
 duration_min: 19
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Marriage and Family", "Marriage and Family/Children and Parenting"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting"]
 ---
 
 welcome to track number 23 of pastors of thousands how to fight familiarity number one Do not sit at the back do you have your notes number one do do what number two do not do what number three no no do not say everything do not do not do not do not what sleep sleep number three bite the tapes and listen to the tapes amen do you know one of the reasons why many Lighthouse pastors respect me because many of the lighthouse past always listening to my tapes if they were not listening to my they would

@@ -8,6 +8,8 @@ year: 2022
 duration_min: 174
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Can we lift our hands and thank the Lord? A new day. A new blessing. A new opportunity to receive. Let's thank him for a new day.

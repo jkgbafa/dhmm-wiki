@@ -4,6 +4,8 @@ book: "Ready At 20"
 book_number: "074"
 chapter_number: 23
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 ### CHAPTER 22\

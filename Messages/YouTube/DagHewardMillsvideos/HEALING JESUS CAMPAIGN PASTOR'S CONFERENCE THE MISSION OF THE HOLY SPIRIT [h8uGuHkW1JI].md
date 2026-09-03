@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=h8uGuHkW1JI"
 duration_min: 148
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 now that I know there's only one God in all of your Malika cuz I love you so all I want it's been worth living and that's no one and you turn my life all around you gave your life to set me free and I serve you for the rest of my day me stop build your chart no one because you gave me father all of my vision to do your mission all on my will to do it your way I'll preach your word I'll build your church cheese you you say so I serve you for

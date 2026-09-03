@@ -8,6 +8,8 @@ year: 2009
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 welcome to track number 11 of my first love going past the introduction now well I believe that one of the very important things that you need to really decide okay is that you're going to walk in love love is humble love is not arrogance in love when you are humble you will learn you will learn many good things amen amen now stand up stand up stand up everybody for a minute is it time for a break huh no not yet okay first love is the love you have for God when you are young so we

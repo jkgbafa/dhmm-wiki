@@ -8,6 +8,8 @@ year: 2008
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 the next reason why you must be a soul winner is because David Livingston said do you know David Livingston do you know what he said he said sympathy is no substitute for Action sympathy is no substitute for action you may have a feeling about what do you call it the work say oh I really think oh oh what a good work you're doing oh look at all these people oh oh Bishop God bless you oh your sympathy is no substitute for your action we are still expecting your actions we are waiting he's waiting he is

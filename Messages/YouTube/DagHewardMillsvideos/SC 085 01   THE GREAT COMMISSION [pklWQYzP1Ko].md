@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=pklWQYzP1Ko"
 duration_min: 195
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah are you glad to be here tonight this week will be memorable in your christian experience and um like bishop saki said if your iman was louder than somebody's amen then your breakthrough will come first hallelujah just a few minutes to know that we belong to god and he is our great god lift up your hands and thank him for a few minutes thank you lord what a glorious god you are mo rama sandy ibaraki hey jesus thank you lord you are great yes you are holy one you walk upon the sea you raise the

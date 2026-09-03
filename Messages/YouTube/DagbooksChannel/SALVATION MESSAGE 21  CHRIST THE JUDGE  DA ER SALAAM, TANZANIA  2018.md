@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2018
 source: "autocaption"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Salvation", "Spiritual Warfare", "Spiritual Warfare/Demonology", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/salvation", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Tonight I'm preaching about Christ Jesus the judge. Today I preach on the news of Jesus Christ the judge. Jesus Christ is our savior but he is also our judge. Jesus Christ is our savior but also our judge. I want you to listen very carefully because I'm preaching a prophecy tonight. Today I am preaching a prophetic message. I want you to be more careful than ever . How many want to hear a prophecy? How many do you want to hear prophecy? Raise your hand if you want. Right? Yes . 2 Timothy chapter 4: 1. Let's look

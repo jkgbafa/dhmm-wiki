@@ -4,6 +4,8 @@ book: "Those Who Are Proud"
 book_number: "002"
 chapter_number: 19
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 ## Chapter 17

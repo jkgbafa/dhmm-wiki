@@ -8,6 +8,8 @@ year: 1999
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 come on your hands together come on my um i i i said hallelujah lift up your hands to the lord jesus you're the center of my joy that is good and perfect that's good jesus jesus you are my think about his grace is and your heart and just give him glory and give him worship grace is why don't you think about his love think about this love think about his goodness think about his grace think about his dream that's brought us through for us is is we give you our praise we extol your name oh

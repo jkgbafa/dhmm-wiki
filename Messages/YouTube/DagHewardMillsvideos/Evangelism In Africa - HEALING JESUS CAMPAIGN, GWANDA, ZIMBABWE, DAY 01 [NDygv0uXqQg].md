@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=NDygv0uXqQg"
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Repentance", "Soul Winning and Evangelism"]
+tags: ["topic/salvation", "topic/salvation/repentance", "topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah Wanda hallelujah give Jesus a bad shouts of praise hallelujah boom I give aa or Gizella corner yaku to LA goodsoon ayah by any woman give Warner we're Gizella corner Bergama he put your heart together Oh a modulo vehicle , easily me see a boom ah hi Cathy oh yeah get under course we are Gitana Yakko Warner you know who - laughs - hi everybody laughs dude I ever you need boom I give ah ha wah wah wah wah why don't you see Jason cool OHS ooh ooh love you Jason Cindy see Jason I can

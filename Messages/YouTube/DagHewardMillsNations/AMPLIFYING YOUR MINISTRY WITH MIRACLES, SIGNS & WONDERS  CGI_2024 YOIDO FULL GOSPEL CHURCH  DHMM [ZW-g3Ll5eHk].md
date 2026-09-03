@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ZW-g3Ll5eHk"
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 The church is expanding, and this is what God desires. Ah, God wants us to do greater things. I am telling you, because He will do greater things than what He did to Eve. In the Gospel of John, Jesus is speaking to you. Amen. Flur. Sure watch there. Bless Now. Jesus. Do you believe in Jesus? He is saying that He will do greater things than what He has done. He is saying that it is because He is going to the Father. Jesus is saying that He will testify to the gospel of God to you. Ah, He

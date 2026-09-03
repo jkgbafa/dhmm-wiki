@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/K3XCVsrme1ic/"
 duration_min: 51
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Hallelujah. Let us pray together. Lift your hands and thank God for today. Thank God for his blessings in the new year. God is going to give you a word that is going to help you in the new year to do well.

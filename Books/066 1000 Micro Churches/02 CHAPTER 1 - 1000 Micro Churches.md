@@ -4,6 +4,8 @@ book: "1000 Micro Churches"
 book_number: "066"
 chapter_number: 2
 type: book
+topics: ["Church Growth", "Church Growth/Mega Church", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 ### CHAPTER 1\

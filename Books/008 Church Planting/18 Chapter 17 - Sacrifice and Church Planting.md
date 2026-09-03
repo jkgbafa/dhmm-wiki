@@ -4,6 +4,8 @@ book: "Church Planting"
 book_number: "008"
 chapter_number: 18
 type: book
+topics: ["Church Growth", "Church Growth/Church Planting", "Ministry and Pastoring"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/ministry-and-pastoring"]
 ---
 
 Chapter 17\

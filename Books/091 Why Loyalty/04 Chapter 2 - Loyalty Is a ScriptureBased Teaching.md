@@ -4,6 +4,8 @@ book: "Why Loyalty"
 book_number: "091"
 chapter_number: 4
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 Chapter 2\

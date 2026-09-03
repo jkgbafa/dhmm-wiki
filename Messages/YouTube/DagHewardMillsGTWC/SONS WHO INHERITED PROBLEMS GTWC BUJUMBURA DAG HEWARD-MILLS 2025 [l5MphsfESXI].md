@@ -9,6 +9,8 @@ duration_min: 38
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/SONS WHO INHERITED PROBLEMS  GTWC BUJUMBURA  DAG HEWARD-MILLS  2025 [l5MphsfESXI]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 All that you have shared with us in Jesus' name. Amen. I believe you were sharing about loyalty and disloyalty. You were sharing about loyalty and disloyalty. Independent, yes.

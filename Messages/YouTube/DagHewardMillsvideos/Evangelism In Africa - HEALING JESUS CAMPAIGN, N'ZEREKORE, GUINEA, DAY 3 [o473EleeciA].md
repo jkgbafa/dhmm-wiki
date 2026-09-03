@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=o473EleeciA"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 on the wave knees bent everything is there that we do and lacquered on a bell ringer even in the house you have months for me all young or bend to all their camp end it's ok you see that everyone to all my mother you have months for me when I see it's due to the fact there's peace there when I see it's what you did I'm 30 years old I want to him and you sautoir sautoir on my arm I'm going yes you 163 sidewalk to the chief is a jerk oh you that 3 hallelujah

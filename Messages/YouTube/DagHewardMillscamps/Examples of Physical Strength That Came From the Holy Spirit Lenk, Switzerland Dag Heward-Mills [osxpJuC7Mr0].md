@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=osxpJuC7Mr0"
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Fantastic. Fantastical. I love it when I hear Jesus is the living water. It's something it's something wonderful to me. So wonderful.

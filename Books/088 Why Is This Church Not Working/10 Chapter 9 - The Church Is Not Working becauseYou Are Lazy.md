@@ -4,6 +4,8 @@ book: "Why Is This Church Not Working"
 book_number: "088"
 chapter_number: 10
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 ### Chapter 9\

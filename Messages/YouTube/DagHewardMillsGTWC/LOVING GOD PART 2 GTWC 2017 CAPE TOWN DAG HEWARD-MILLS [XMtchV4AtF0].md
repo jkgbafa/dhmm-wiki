@@ -8,6 +8,8 @@ year: 2017
 duration_min: 148
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 We know that all things work together for good to them that love the Lord to them who are the call. I have not seen, nor ear heard, nor have it entered the heart of a man. The things God has prepared for those who love him. You must love the Lord. Give him all your heart.

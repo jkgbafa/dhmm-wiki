@@ -7,6 +7,8 @@ url: "https://rumble.com/v5mb6t2/"
 duration_min: 84
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 This morning, I want us to quickly look at something important. We are talking about the hidden wisdom of the cross and of sacrifice of shame. There's wisdom in shame, there's wisdom in obedience, there's wisdom in humility, there's wisdom in suffering of the cross. And that wisdom is so powerful that if the princes of this world had known, they would never have allowed Pontius Pilate to crucify Jesus. Because even though you hear a word, president this prime minister that king of this, behind that person is a prince or a ruler, right?

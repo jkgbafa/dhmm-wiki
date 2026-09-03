@@ -8,6 +8,8 @@ year: 2016
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 Here we stand, we're standing for the Lord, never going back again to the world and evil ways. Here we stand, we're fighting for the Lord. We will find a good fight to stay in the will of the Lord. So be strong in the Lord in the power of his mind. Put on the whole hour of God that ye may be able to stand.

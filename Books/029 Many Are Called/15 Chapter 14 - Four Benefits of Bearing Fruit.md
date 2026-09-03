@@ -4,6 +4,8 @@ book: "Many Are Called"
 book_number: "029"
 chapter_number: 15
 type: book
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 ## Chapter 14

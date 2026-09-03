@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_NZPwS5B-ME"
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 the load are yourself the greater your break clean sits on top of your enemies these are all phrases that I borrowed from this OPAT sake but it's a blessing to sell fellowship with you this morning I want to say you're very very welcome to the encounter service of the credential night house chapel international you can put your hands together for the Lord I believe the service has begun well take a look well and we are continuing in God's presence before we do anything else I'd like to quickly read a few announcements to let us know

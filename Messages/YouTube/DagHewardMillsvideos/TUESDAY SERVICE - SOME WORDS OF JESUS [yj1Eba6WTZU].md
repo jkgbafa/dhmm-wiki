@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=yj1Eba6WTZU"
 duration_min: 67
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 if you see a bra standing by the roll with the heavy doll from deepest on this is sister walking down the way you want the wrong way there are my whiskey home of the marrow - Wilhelmine Oh - Mara - people of the narrow-minded dream you got to drive Oh one barrel I'm dancing what a blessing let us pray father thank you for this opportunity to be in your presence lead us by a Holy Spirit yeah speak to us let us always we ask for your help praying for angels to be released in our lives

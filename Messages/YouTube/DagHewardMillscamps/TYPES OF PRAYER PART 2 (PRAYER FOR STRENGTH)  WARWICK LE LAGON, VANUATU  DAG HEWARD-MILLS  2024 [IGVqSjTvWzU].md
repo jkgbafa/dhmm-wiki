@@ -8,6 +8,8 @@ year: 2024
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 you may be seated Ephesians chapter 6 our subject is the prayer seminar that I believe is life changing amen lifechanging prayer seminar now Ephesians chapter 6 I was sharing with you that in um the armor of God we have several elements starting from chapter 6 verse4 the belt of Truth Ephesians 16 the belt of Truth and number two the breastplate of righteousness can you see it Ephesians 6:14 stand having your loins get about with truth and then number two there is the um breastplate of righteousness verse 15 we see another thing for your feet the

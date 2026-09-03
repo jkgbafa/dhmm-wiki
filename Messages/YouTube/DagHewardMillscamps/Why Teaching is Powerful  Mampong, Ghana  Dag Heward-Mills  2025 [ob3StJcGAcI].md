@@ -8,6 +8,8 @@ year: 2025
 duration_min: 29
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "The Word and Books"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-word-and-books"]
 ---
 
 Why teaching is powerful. I just gave you why preaching is powerful. Why teaching is powerful. Amen. Now hello teaching. Turn with me directly to the book of Mark chapter 1 verse 24. Brighten my microphone a bit. Now why teaching? So when you become a pastor and you you are you are doing church planting, you are going to preach and teach. That's the main work you are going to do. Now Jesus went, look at verse 22. And they were astonished at his doctrine, for he taught them as one that had authority. So your your teaching is

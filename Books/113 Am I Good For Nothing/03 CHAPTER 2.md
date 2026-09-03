@@ -4,6 +4,8 @@ book: "Am I Good For Nothing"
 book_number: "113"
 chapter_number: 3
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 ### CHAPTER 2\

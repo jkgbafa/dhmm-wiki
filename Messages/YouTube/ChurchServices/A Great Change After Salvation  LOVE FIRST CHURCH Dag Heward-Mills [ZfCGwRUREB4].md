@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ZfCGwRUREB4"
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 A child is someone who can join this church today. Tomorrow he's going to this other group. Next time is go to this other group. It's not stable anywhere. Run here, run here, run here. The Bible says not toss to and fro. You are spiritual babies. You are spiritual children. So the day you see the thing is you've never felt love before. The day that a boy says I love you and you believe it, that may be the day that you see that you are not stable. Only that that hasn't happened before. Yes. All right. All

@@ -4,6 +4,8 @@ book: "Weeping And Gnashing"
 book_number: "078"
 chapter_number: 2
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 ### CHAPTER 1\

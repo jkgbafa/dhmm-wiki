@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hqOy-H0-A6w"
 duration_min: 173
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 put your hands together for Jesus Oh I want to feel you excited put your hands together for Jesus amen the Bible says that the testimonies of the Lord are our counselors and tonight today we're going to hear testimonies that are going to counsel us and give us advice amen put your hands together again and we want to take our first testimony from our sister Esther let's welcome her to the stage oh you can do better than you're doing now oh come on encourage her encourage is a long walk over here amen so Esa tell us

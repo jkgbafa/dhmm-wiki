@@ -8,6 +8,8 @@ year: 2023
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 all right all right all right thank you thank you thank you wow what a blessing lift your hands thank you Jesus for making it possible for us to be here today what a blessing we have in Jesus thank you for blessing us to be here to receive and to believe believe and to walk by faith thanks Holy Spirit we give you thanks in Jesus name amen you may be seated h Hallelujah W father we thank you for the great privilege for this camp meeting here in Oakland in New Zealand thank you for the Mustard Seed

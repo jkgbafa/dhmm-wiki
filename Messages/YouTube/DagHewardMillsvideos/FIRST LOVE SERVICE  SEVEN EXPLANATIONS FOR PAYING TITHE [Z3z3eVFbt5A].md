@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Z3z3eVFbt5A"
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 for my that I can send someone to sacrifice to live his dreams his goal I'm looking for time who lovely Soho hello is it me you're looking for I'm the one you call the pair and the one you've been speaking to and the one who gave those dreams do they never went away I will follow you my lord they'll be no more holding back I'm staying here and now let me Hinkel someone better can you King falls the Lord would be for a man who is it me you're looking for what I hear is Honda

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Fk-0cQ8ck90"
 duration_min: 163
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah hallelujah amen hallelujah amen hallelujah amen hallelujah am okay hallelujah amen h J Jerusalem J high high we are higher higher higher we are high jerus we are high we are high we are high we are higher jus Hall Hal Hal Hal Hal are you ready are you ready he hey Jesus Christ the winner Jesus Christ the Healer Jesus Christ provider Jesus Christ hey oh one more time one more time Hal Hal Hal Hal hallelujah hallelujah amen go God I I am my my jus Jes I just higher higher my T are higher hallelu Hallelujah

@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/longing-and-loving
 duration_min: 64
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Romans 1. Tonight we read Romans 1. It says, For I long to see you that I might impart some spiritual gift to the end that you may be established. Amen. Well, we started out by talking about imparting and receiving impartations.

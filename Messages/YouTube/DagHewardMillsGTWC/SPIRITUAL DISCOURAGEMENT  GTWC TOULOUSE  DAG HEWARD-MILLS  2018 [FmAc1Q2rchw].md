@@ -8,6 +8,8 @@ year: 2018
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Father, thank you for this evening and for this conference, give yourself entirely, what a blessing we have in your presence. We thank you for leading us to have this program. We are grateful for your powerful presence. and your mighty power and your angels who are here among us. Lead and guide us into all truth through your mighty Holy Spirit. We block the works of darkness. No misfortune will be able to prosper in our midst. No evil will be able to succeed here in the name of Jesus. We thank you, Lord. Amen. Wow! THANKS. You may

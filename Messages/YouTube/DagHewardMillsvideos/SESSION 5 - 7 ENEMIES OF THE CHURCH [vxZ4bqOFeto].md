@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=vxZ4bqOFeto"
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we are critical for the great time that we have in I believed I was going to see the beautiful song and then carry on let's welcome out either to give us one of a beautiful pieces but can you excel for one thing I just need to do something for Vice Toki I know it sounds kind of funny because of the way he's been but I wanted it very much let us pray or you know what let me pray Oh God help me help me I want to sell I really do I want please help me

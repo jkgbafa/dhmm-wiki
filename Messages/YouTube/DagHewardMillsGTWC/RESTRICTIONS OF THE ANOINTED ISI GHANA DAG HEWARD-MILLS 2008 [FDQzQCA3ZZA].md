@@ -8,6 +8,8 @@ year: 2008
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 That our help comes from the Lord. You are the shade of our right hand. You are the lifter of our heads. You are the help that comes to us. We know of no other thing that can help us.

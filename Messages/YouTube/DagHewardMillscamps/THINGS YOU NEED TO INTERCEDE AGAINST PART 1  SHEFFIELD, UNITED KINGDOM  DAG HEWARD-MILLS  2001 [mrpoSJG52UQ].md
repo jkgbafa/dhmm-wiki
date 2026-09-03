@@ -8,6 +8,8 @@ year: 2001
 duration_min: 20
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 welcome to track number nine of pastors of thousands I'm going to share with you some things you need to intercede about or against number one intercede against the law of degeneration amen Jeremiah chapter 2: 211 yet I have planted thee a noble Vine holy a right seed how then are thou turned into a degenerate plant of a strange Vine unto me Amen to degenerate means to gradually become of a lower type Hallelujah now do you know that there is a law of degeneration in everything huh do you know that that is things are getting spot

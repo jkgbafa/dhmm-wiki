@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ThDUiSmVaE8"
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Today you are in for a blessing. When she was going she said, ah, the person I've picked feels very quiet. So she decided to talk to the person. So, sister, so what are you? When she spoke there was no answer.

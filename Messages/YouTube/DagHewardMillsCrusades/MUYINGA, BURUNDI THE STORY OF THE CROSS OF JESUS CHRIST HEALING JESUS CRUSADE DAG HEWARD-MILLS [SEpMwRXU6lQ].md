@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SEpMwRXU6lQ"
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 I don't know what I'm saying, I mean, I'm a man, I don't know, I'm not sure if you don't want to be able to see that we know that we know she got me. Clap your hands for Jesus tonight. This is the second day of the healing Jesus campaign we are having here in Moyinga. No more sugar cabinet. I see people moving around.

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 29
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 How many here are pastors? Very good. How many are not pastors? How many want to be pastors? Very good. Now, let me let me explain to you what is a vision. Can I have this book? Attempt great things. You see the vision what one of the things that people don't know about is that in America today or even in the western world the highest cause of death for young people is what? Suicide. Suicide. They just kill them. They're just killing themselves. Now, why why does somebody kill himself? Somebody kills himself out of what we call

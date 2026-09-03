@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=O6cCOhbmDUY"
 duration_min: 192
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Call of God", "The Call of God/Responding to the Call", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 don't keep format that I can send one sacrifice of life you dream hero I'm looking for someone who love me hello give them be you're looking I'm going to talk to sir I'm the one you've been speaking to I'm the one you gave those dreams do something elbow and so they'll be no my whole day in here I'm looking for someone that I can do ah here run away Oh you Oh whoa Oh Oh Oh Oh whoa here we stand and Z for the dog never going back again to the world and we will make

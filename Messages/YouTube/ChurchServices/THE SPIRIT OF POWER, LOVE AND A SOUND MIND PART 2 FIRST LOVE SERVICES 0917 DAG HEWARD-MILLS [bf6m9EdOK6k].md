@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=bf6m9EdOK6k"
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Tell them, even if they don't believe you, just tell them, even if they don't receive you, tell them for me, please tell them for me. Tell them that I love them, and I came to let them know. Tell them when it seems you are forsaken, just tell them when it seems your earth is shaking, tell them for me, please tell them for me. Tell them that I love them, and I came to let them know. Oh, tell that lonely man who walks the cold streets all alone, tell that crying child who doesn't have a home, tell those hungry people dying, they're lost and in despair, they don't even know that I care.

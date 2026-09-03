@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=VxhE3Od8xq8"
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 o wo Here We Stand we're standing for the Lord never going back again to the world and people ways Here We Stand we're fighting for the Lord we will fight a good fight to stay in the will of the Lord so be strong in the Lord in the power of his might W put on the whole am of God oh that ye may be able to stand oh God your Lo with truth and take up the shield of Faith yes and with the sword of the spirit oh we will overcome oh here we stand we're

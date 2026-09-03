@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2016
 source: "autocaption"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Now, why demons want to enter you? Number one, demons want to enter you because when they are outside you, they are thirsty. Matthew 12:43. When the unclean spirit is gone out of a man, he walketh through dry places. Dry. It's dry outside you. Dry. It's very dry when they are outside a human being. As soon as they get into you, their thirst is quenched. That is why that is why you must be very careful because a very thirsty person is not an easy person to hold back and there are drinks in you. There are drinks

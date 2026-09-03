@@ -4,6 +4,8 @@ book: "Ministerial Ethics 2Nd Ed"
 book_number: "035"
 chapter_number: 5
 type: book
+topics: ["Ministry and Pastoring", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/ministry-and-pastoring", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 ### Chapter 4\

@@ -9,6 +9,8 @@ duration_min: 54
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/GAINING BY TRADING  CARDIFF, UNITED KINGDOM  DAG HEWARD-MILLS  2003 [pE1U4YjTk08]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 Welcome to track number twelve of Beamer We proclaim you for your mighty and your matchy Lord come upon and release your and let your presence Lord we proclaim you Lord We proclaim for your mighty power your mighty power and your rules naturally Lord come upon us come upon us release your power release your power and let your press sing it one more time saying Lord we proclaim Lord we proclaim you for your mighty your mighty power and your rose and just be Lord come upon us come upon release your power release your power and let

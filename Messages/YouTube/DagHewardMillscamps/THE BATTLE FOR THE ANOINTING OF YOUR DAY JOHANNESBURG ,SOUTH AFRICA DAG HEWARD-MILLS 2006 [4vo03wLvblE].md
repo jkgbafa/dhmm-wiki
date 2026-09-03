@@ -8,6 +8,8 @@ year: 2006
 duration_min: 37
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Anointing/Kinds and Waves of the Anointing", "Prayer"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/anointing/kinds-and-waves-of-the-anointing", "topic/prayer"]
 ---
 
 Welcome to track number 13 of spiritual battles. We are grateful in Jesus' name. Amen. You may be seated. 2 Kings chapter 2.

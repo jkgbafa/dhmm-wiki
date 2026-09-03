@@ -9,6 +9,8 @@ duration_min: 83
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EXPECT A MIRACLE OF CHURCH GROWTH  ST. JOHN'S, ANTIGUA  DAG HEWARD-MILLS  2024 [AISGcAZq664]]]"
+topics: ["Church Growth", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/church-growth", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 I expect the miracle of church growth. Now turn with me to Romans chapter eight, verse twenty-eight. What does it say? We know that all things work together for good to them that love God and to them who are the called according to his purpose. Amen.

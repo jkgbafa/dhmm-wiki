@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/the-shameful-belov
 duration_min: 77
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Father, thank you for your blessing tonight. In Jesus' name, amen. Alright, you may be seated. Are you glad to be around? Alright.

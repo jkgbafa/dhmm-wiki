@@ -9,6 +9,8 @@ duration_min: 19
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Y Element of Personal Witnessing  Belmopan, Belize  Dag Heward-Mills  2024 [2malTBtY9w0]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Number number 21, personal witnessing. Personal witnessing. Young elements give themselves to personal witnessing. Acts 26, verse 22. Having therefore obtained the help of God.

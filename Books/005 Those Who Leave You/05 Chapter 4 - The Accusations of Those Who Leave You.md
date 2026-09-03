@@ -4,6 +4,8 @@ book: "Those Who Leave You"
 book_number: "005"
 chapter_number: 5
 type: book
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 ### Chapter 4\

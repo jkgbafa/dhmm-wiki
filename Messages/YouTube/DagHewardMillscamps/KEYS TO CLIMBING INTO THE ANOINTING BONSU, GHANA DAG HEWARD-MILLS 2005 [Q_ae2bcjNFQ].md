@@ -9,6 +9,8 @@ duration_min: 118
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/KEYS TO CLIMBING INTO THE ANOINTING BONSU, GHANA  DAG HEWARD-MILLS  2005 [Q_ae2bcjNFQ]]]"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number five of basilization now. We are going to start another thing. You need to climb into climbing into your anointing. I want to give you keys to climbing to the anointing. Number one, join the twenty percent of the population which read books.

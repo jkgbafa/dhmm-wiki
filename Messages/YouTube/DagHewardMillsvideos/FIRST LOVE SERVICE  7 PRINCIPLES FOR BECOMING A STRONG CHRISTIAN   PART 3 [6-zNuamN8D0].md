@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6-zNuamN8D0"
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/faith", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 if you see your brother standing by the road with a heavy load from the seeds he s and if you see your sister Falling by the way just stop and say you're going the wrong way You' got to try a little kindness you've got to show a little kindness yes Shine Your Light for everyone to see and if you try a little kindness then you would Overlook the blindness of the narrow minded people on the narrow minded streets don't walk around the Down and Down lend a helping hand instead of Doubt cuz the kindness that

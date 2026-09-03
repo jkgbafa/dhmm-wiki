@@ -8,6 +8,8 @@ year: 2014
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 This morning was fantastic. An amazing time we had merveilleux so tonight. I want you to join us to welcome. My bishop and your bishop. Come on, I'll shout and a clap.

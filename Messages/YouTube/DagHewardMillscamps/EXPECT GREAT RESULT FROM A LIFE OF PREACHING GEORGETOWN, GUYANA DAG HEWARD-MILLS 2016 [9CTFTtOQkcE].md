@@ -9,6 +9,8 @@ duration_min: 86
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EXPECT GREAT RESULT FROM A LIFE OF PREACHING   GEORGETOWN, GUYANA DAG HEWARD-MILLS  2016 [9CTFTtOQkcE]]]"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Welcome to Catholic of expect great things. Hallelujah. Are you enjoying Ida's music? You want more? Okay.

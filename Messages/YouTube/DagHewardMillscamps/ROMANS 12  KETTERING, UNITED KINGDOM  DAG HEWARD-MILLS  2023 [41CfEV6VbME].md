@@ -8,6 +8,8 @@ year: 2023
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 the songs that we came up with you see the main thing is the song must go from high to low to high again and then to low and to end so it's high low High Low End Amen did you get that high low high low end that's the order so the songs we gave we needed we when we started we needed to go from high we needed to go low that's why we went into take my life and he saved you he saved me then we went high again to um God's love has to deal

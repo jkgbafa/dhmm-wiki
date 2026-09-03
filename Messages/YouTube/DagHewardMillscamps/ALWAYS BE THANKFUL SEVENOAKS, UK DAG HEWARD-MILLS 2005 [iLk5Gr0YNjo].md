@@ -9,6 +9,8 @@ duration_min: 17
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/ALWAYS BE THANKFUL    SEVENOAKS, UK DAG HEWARD-MILLS  2005 [iLk5Gr0YNjo]]]"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting"]
 ---
 
 Always be thankful. Did you hear me? Always be thankful. When you are thankful, the Holy Spirit will be on you. When you grumble and you complain, then demons are gonna come to you.

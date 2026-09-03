@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=3abwfXAa0QE"
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Male, are you ready? Why don't you lift up your two ass? Lift up your two hands. When the wash Navoura, na cousin. One paix, I say, we got your potential, boutiba.

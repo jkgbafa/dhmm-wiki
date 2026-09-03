@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2014
 source: "autocaption"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Hallelujah. Hallelujah. Father, thank you for this opportunity that we have in your presence. Guide us by your holy spirit in Jesus name. Amen. You may be seated. Today we are continuing our discussion on prayer, watching and praying. Amen. So I want to tackle today 10 mistakes that many Christians make when they are watching and praying. All right. And 10 mistakes and I want you to avoid these mistakes in your prayer life. Remember that we've come to church and in the church perhaps um one of the most important things which should be spoken about a lot

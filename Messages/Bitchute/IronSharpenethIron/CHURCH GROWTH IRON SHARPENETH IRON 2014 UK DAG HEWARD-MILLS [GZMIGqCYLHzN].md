@@ -8,6 +8,8 @@ year: 2014
 duration_min: 41
 source: "whisper"
 match: "exact"
+topics: ["Church Growth"]
+tags: ["topic/church-growth"]
 ---
 
 And so all the right starts at EF Web. Wow. That's all green format for this one. We need to check all of the one. You can have three minutes tools.

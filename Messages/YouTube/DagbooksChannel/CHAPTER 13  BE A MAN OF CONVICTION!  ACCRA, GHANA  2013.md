@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2013
 source: "autocaption"
+topics: ["Anointing", "Church Growth", "Church Growth/Church Planting", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/church-growth", "topic/church-growth/church-planting", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 went to the American embassy. You know there are some people they don't even ask them question. They just say okay okay he was he was among the people they just gave him five years whatever he went for two weeks to America after he preached powerfully for two weeks. Some other people invited him. So more doors were opening. He continued for another two weeks. After the two weeks, MORE DOORS OPEN AGAIN. Three weeks more. After the three weeks, MORE DOORS OPEN. FOUR more weeks. Until today, the doors have been opening. He has never come back to

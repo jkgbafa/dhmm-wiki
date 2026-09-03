@@ -8,6 +8,8 @@ year: 2002
 duration_min: 115
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Church Growth/Visitation and Follow-up", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel", "Vision and Direction"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/church-growth/visitation-and-follow-up", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel", "topic/vision-and-direction"]
 ---
 
 welcome to track number one of the mega church share your word in Jesus name we pray that your spirit will lead us into all of your will and we thank you for good things that are taking place in our hearts and our lives in Jesus name amen amen you may be seated it is good to be here with you again again in Canada amen the last time we met was in Pastor Andy's house we had a camp meeting last time in pandi's house and um so there's progress cuz we've we've come somewhere else today amen

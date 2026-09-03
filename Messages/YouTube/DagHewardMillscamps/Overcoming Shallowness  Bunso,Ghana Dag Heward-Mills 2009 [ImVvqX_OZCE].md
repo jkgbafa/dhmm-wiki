@@ -8,6 +8,8 @@ year: 2009
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 sees his meres never will come to one name oh there are new Every Morning new every morning great is thy faith for oh Lord great is thy fful oh his mercies are new there are new Every Morning new every morning great is thy faith fullness oh Lord Great Is Thy Faithfulness holy holy Lord Lord you are worthy and I'm H to your praise king of glory king of glory God Alm Mighty hallow be your all creation and all creation every nation has it been by your word as your will is done as your will is

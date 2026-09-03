@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=EqUQ0ut7za4"
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Soul Winning and Evangelism"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/soul-winning-and-evangelism"]
 ---
 
 amen dee dee dee da dee namu bara bara Monty dica wanna shower guide et la da da da ha ha ha ha Tamaki Tia dama dama Jesus better mafioso for gamma D me da porra orisha uno de de de su moan indeed ah the karma-kanda Fela who we gonna see our media deed mo ba boo fire Bundy lift up your icon Shi de la golden flower Nevada wanna Oh oh no poor Ned Peter Bondi Beach 800 milliliters for RPGs ooh I wonder what I thought to me while he went must impose everybody sing with me

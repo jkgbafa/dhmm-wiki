@@ -8,6 +8,8 @@ year: 2017
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, we thank you for the blessing. In Jesus' name. Don't know the Jesus. Amen. Amen.

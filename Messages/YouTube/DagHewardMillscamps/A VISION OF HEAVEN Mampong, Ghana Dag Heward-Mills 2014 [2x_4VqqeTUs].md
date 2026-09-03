@@ -8,6 +8,8 @@ year: 2014
 duration_min: 194
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Vision and Direction", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/vision-and-direction", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 I need to feel your presence I need to know your Power Fill Me Now with more of you I need to see your glory and I want to know your will so would you please come and fill this place I need fresh oil from you cover my life we for do bring down Refresh on new you from above I need your presence today please come and show me the way shower down your rain upon me make me more and more like Jesus have your way in me so that the world may see you are the

@@ -8,6 +8,8 @@ year: 2004
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 welcome to track number two of missions and missionaries I was a bit surprised to see some people who had been wealthy or even rulers who had been faithful with what they were given also on the throne was surprised to see some rich people there however this is the surprising part he's now come to mention the largest group in the Thrones it seemed that the faithful women and mothers occupied more Thrones than any other group women it's amazing huh ladyes stand up huh is it not amazing you are so weak you may not admit it you

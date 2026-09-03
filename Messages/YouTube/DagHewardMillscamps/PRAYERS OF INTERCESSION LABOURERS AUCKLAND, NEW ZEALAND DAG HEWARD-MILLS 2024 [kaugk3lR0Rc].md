@@ -9,6 +9,8 @@ duration_min: 74
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PRAYERS OF INTERCESSION LABOURERS  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024 [kaugk3lR0Rc]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer", "Prayer/Intercession", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer", "topic/prayer/intercession", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Now, before we finally end, I want us to look at the prayers of it says praying with all prayers. I want us to look at prayers of intercession, prayers of intercession. Amen. Ezekiel twenty-two and verse thirty. Number one, an intercessor is a man in the gap.

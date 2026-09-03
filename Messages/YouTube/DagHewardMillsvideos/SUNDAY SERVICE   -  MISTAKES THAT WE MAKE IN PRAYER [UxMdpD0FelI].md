@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=UxMdpD0FelI"
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Vision and Direction", "Vision and Direction/The Will of God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 oh just for me just for me Jesus came and did it just for me it's a simple song it's on the board come on and just for me just for me come on that's the song a very simple one oh Jesus came and did it come on let's sing minute come on just for me and just for me put your hands on your chest and say it just for me Jesus came Jesus came and did it just for me come on just for me just for me just for me Jesus came Jes Jesus came and

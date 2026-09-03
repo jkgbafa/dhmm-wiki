@@ -4,6 +4,8 @@ book: "The Gift Of Governments A Bishop 'S Governing Handbook"
 book_number: "117"
 chapter_number: 67
 type: book
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 ### CHAPTER 65\

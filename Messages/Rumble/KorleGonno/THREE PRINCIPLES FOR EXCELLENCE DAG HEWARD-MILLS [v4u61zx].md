@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u61zx/"
 duration_min: 41
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 Corinthians chapter 4. And uh we are studying excellence, hallelujah. First Corinthians chapter 4. I want to share with you some principles that will help us all to excel. Amen.

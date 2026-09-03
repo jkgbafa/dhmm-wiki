@@ -8,6 +8,8 @@ year: 2004
 duration_min: 33
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 welcome to track number 12 of others now I was going to share with you about some things but I'm not going to do that anymore another time but um I want only ladies in the front row all the ladies should come front row I'm going to talk to the ladies are you there Holy Spirit speak to the ladies I pray Jesus name amen amen yeah ladies you know I just feel in my heart to to let you know that God wants preachers women preachers huh and so that you would know that there is a call

@@ -4,6 +4,8 @@ book: "Anagkazo Compelling Power 2Nd Ed"
 book_number: "024"
 chapter_number: 3
 type: book
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Anagkazo and Compelling"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/anagkazo-and-compelling"]
 ---
 
 ### Chapter 2\

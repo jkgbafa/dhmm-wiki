@@ -9,6 +9,8 @@ duration_min: 73
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MIRACLE OF THE CENTURION SERVANT  SANTO DOMINGO, DOMINICAN REPUBLIC  DAG HEWARD-MILLS  2024 [jDNZP33zMMg]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Missions"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/missions"]
 ---
 
 Let's look at that. Miracle of the centurion seventh. Luke chapter seven. Lucas capital siete. And when he had ended all his sayings, he entered into Capernaum.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=P8sosnA22PE"
 duration_min: 19
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/wisdom"]
 ---
 
 Wisdom is the principal thing and the Bible says you should get wisdom with all your getting. Get wisdom. How do you get the wisdom? How do you get it? How do you get wisdom? By reading. I have a book. Wisdom is the principal thing. Is this is this the one? Yes. Yes. Wisdom is the principle thing for your ministry. Amen. Amen. Amazing. Wow. Wow. books are a real blessing. Amen. Amen. Now, Daniel 9 verse 2 says, "In the first year of his reign, I Daniel understood by books In other words, I had understanding and I

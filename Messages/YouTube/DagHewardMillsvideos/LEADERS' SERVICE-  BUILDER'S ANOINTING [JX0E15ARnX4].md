@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JX0E15ARnX4"
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Leadership"]
+tags: ["topic/anointing", "topic/leadership"]
 ---
 
 we are really named after for it came to pass when some blood heard that we builded a wall that he was rough can you find the a man he found it right let's start again to build that service ok he came to France went on blonde hair that we'd go to the wall that he was rough and took great indignation and mocked the Jews and it's pigley for his brethren in the army of Samaria and said what do these people Jews will they fortify themselves will they sacrifice will they make an end in a day

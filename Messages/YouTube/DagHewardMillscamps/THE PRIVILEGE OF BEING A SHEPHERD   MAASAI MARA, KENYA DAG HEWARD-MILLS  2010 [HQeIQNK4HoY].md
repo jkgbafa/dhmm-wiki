@@ -8,6 +8,8 @@ year: 2010
 duration_min: 14
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number one of the privilege Remember Me Oh Lord in your favor and visit me with your salvation I'm reading from the American Bible it said that I may see the prosperity of your chosen ones and that I may rejoice in the gladness of your nation that I may Glory with your inheritance amen now one the things that you must be aware is that God will prosper his servants but Prosperity is a bad Vision to have do you understand are you there I said God will prosper his isn't is it all what we

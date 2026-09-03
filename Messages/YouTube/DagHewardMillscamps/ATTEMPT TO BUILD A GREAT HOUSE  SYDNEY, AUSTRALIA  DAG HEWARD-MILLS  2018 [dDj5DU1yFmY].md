@@ -8,6 +8,8 @@ year: 2018
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 do you believe in trees the Holy Spirit stream thousands of men running down the street they didn't know that the road was LE to a deep and deadly LIF and to the Lake of Fire w he saved you he saved me he saved us for all time what about he saved you he saved me what are we doing for multitudes multitude in the Valle of decision they're waiting they're hoping to hear the gospel they don't know Jesus Christ they are lost and dying Soul W he saved you he saved me oh yeah you saved us

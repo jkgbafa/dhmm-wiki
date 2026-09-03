@@ -8,6 +8,8 @@ year: 2014
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 During the last session, I believe that there was a prophecy. About God is going to give you some steps. That are going to take you out of a certain level. Amen. And these are the steps.

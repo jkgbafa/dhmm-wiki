@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6WCt_z6XQx8"
 duration_min: 39
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 father we thank you for today thank you for the opportunity that we have to serve you thank you Lord for your blessing us we come before your word Lord we ask you to speak to our hearts on this covenant Sunday and let your will be done we thank you in Jesus name Amen you may be seated turn with me to Romans chapter 8 verse 6 today's covenant Sunday and we want to make a covenant with God for the year amen I want to say Lord this is what we are pledging to do and I want

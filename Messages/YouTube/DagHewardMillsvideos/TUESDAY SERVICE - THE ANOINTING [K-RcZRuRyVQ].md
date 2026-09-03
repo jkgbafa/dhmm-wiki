@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=K-RcZRuRyVQ"
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 tonight I'm just going to share with you a little about the anointing how many like the anointing are you sure you like the anointing right now the anointing is the holy spirit amen and the Holy Spirit is the anointing how God anointed Jesus Christ of Nazareth with the Holy ghost and with power so Jesus was anointed with a substance or a person and that person was the Holy Ghost did you understand what I'm saying how God anointed Jesus Christ of Nazareth with with with not oil but with with the Holy Ghost and with power right

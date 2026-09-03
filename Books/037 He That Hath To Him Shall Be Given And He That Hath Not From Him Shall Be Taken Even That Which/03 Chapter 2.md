@@ -4,6 +4,8 @@ book: "He That Hath To Him Shall Be Given And He That Hath Not From Him Shall Be
 book_number: "037"
 chapter_number: 3
 type: book
+topics: ["Faith", "Work and Diligence"]
+tags: ["topic/faith", "topic/work-and-diligence"]
 ---
 
 ## Chapter 2

@@ -4,6 +4,8 @@ book: "Those Who Are Dangerous Sons"
 book_number: "003"
 chapter_number: 13
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 ### Chapter 12\

@@ -8,6 +8,8 @@ year: 2002
 duration_min: 37
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 know how to cook careful now about not not always not these days my wife was in Kumasi she was telling me a whole lot of women said why should we do this why should we do this why should we do this I said really I a wonderful thing you have people it's time to he that we don't want to cook we me when I go out with my wife and I come I sit down I say food arrive arrive the king is at home and she she give me food sometimes she gives me options you

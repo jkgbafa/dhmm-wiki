@@ -4,6 +4,8 @@ book: "Enlargement Secrets"
 book_number: "075"
 chapter_number: 24
 type: book
+topics: ["Prayer", "Prayer/All-night Prayer"]
+tags: ["topic/prayer", "topic/prayer/all-night-prayer"]
 ---
 
 ### CHAPTER 23\

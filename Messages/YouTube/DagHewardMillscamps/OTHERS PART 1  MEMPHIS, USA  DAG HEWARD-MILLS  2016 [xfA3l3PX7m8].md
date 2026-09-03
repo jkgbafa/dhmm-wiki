@@ -8,6 +8,8 @@ year: 2016
 duration_min: 190
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 just let us pray for a moment ask God to give you the spirit of wisdom thank you Lord in the name of Jesus for the blessing oh Hallelujah we give you praise father thank you Lord thank you Holy Spirit in Jesus name amen you may be seated Exodus chapter 1 let my people go now you will notice that pharaoh right God had some people after man had fallen God has some people that he wants to release and there are some people that he wants to love him and work for him amen amen amen amen now

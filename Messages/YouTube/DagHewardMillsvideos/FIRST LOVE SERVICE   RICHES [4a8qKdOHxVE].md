@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4a8qKdOHxVE"
 duration_min: 142
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I remember you said that you will never leave me and in times of trouble you be my friend but sometimes doubt and fear they try to steal my faith oh but I will run to you I I will run to you and I'll just set aside the cares of this world and fall in love with you again and I'll just throw away the Tres of this world and fall in love with you see I know you said that I'm the apple of your eyes and for loving me you gave your life oh you sing it

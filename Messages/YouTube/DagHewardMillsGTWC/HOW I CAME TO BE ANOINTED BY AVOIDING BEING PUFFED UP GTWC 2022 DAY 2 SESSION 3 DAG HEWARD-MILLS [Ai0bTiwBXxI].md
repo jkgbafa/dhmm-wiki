@@ -8,6 +8,8 @@ year: 2022
 duration_min: 115
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 First Corinthians chapter 4 verse 18 and 19. We are coming to the last part of our morning session. How I came to be anointed. By avoiding, put on the scripture, avoiding being puffed up. Avoiding being puffed up.

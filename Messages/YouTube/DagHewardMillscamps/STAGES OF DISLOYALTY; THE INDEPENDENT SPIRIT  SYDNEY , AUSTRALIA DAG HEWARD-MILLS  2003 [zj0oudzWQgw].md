@@ -8,6 +8,8 @@ year: 2003
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number seven of how to survive in Ephesus has enabled me for that he counted me faithful putting me into the ministry amen now the qualifications counting me faithful qualification for being involved in the work of God is to be faithful amen amen amen do you want to be faithful amen Pastor Peter taught you about loyalty how many are loyal people huh you're trying to be loyal isn't it what does it mean to be faithful what does faithful mean what does it mean to be faithful can I get some water do I have

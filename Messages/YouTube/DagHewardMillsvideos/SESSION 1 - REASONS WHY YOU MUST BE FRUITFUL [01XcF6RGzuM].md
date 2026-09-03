@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=01XcF6RGzuM"
 duration_min: 159
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Hallelujah wow are you excited to be here let us pray just thank God for his power over your life and his grace that is released thank you Lord Hallelujah father we are grateful for the blessing that we have to come before your presence and to receive from you guide us today and let your will be done in the mighty name of Jesus Christ and everyone said amen you may be seated now Hallelujah am well I'm excited to be here again these days are going to transform your life you'll never be the same again after this

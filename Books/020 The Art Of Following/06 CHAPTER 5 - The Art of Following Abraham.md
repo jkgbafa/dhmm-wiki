@@ -4,6 +4,8 @@ book: "The Art Of Following"
 book_number: "020"
 chapter_number: 6
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ### CHAPTER 5\

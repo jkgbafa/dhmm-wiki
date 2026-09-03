@@ -4,6 +4,8 @@ book: "Key Facts For New Believers"
 book_number: "126"
 chapter_number: 10
 type: book
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 CHAPTER 9\

@@ -4,6 +4,8 @@ book: "Am I Good For Nothing"
 book_number: "113"
 chapter_number: 8
 type: book
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 ### CHAPTER 7\

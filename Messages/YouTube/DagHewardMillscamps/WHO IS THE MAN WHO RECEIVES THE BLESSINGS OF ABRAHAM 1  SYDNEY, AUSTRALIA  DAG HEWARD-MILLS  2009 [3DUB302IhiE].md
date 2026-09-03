@@ -8,6 +8,8 @@ year: 2009
 duration_min: 75
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 now we have shared about the blessings of Abraham and now we want to look at who is the man who receives The Blessing of Abraham if you read Genesis 11 Bible says Abraham and nah took wives to themselves the name of Abraham's wife was Sarah and the name of n's wife was mil all right the steady Sarah was baren she had no child the steady one Terra took Abraham his son and lot the son of Heron his grandson and Sarah his daughter-in-law his sons Abraham's wife they went out together from or of childis in order

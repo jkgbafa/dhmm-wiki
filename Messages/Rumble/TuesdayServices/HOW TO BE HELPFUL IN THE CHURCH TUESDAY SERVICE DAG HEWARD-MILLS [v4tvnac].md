@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tvnac/"
 duration_min: 88
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Lifteth my eyes to the heels from whence cometh my hell my help cometh from the Lord The Lord who made heaven and said he will not suffer thy foot thine foot to be moved the Lord that keepeth thee will not stumber or sleep for the Lord is thy keeper, the Lord is thy shape upon thy right hand thy right hand No shall not spy thee by day, no the moon by night He shall preserve thy soul Even prayer My help All of my health cometh from thy Lyft of my eyes to the heels from whence cometh my help My help cometh from the Lord The Lord who made heaven and He said He will not suffer thine foot Thine foot to be moved The Lord it keepeth thee He will not slumber nor sleep for the Lord is your keeper The Lord is your shape Upon thy right hand Upon thy right hand And no the sun shall not spy thee by day Not the moon by night He shall preserve thy soul Even forever My head My head My hell All of my health cometh from thy Lord my health my head My hell All of my health cometh from lift up mine eyes unto the Heels for all of my health cometh from so lift up mine eyes unto the heels for all of my health cometh from my health my head my hell for all of my health cometh from the Lord my hell all my help cometh from you Jesus my hair all of my health cometh from thy love all of my help comeeth from the Hallelujah.

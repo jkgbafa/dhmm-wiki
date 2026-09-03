@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ZrxkF9K54PQ"
 duration_min: 52
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 he will never be morning morning morning Oh Oh do you run it with his arms open wide you could give you an he's faithful he is particle give he you back oh you gotta do is repeal go away hey you'll not believe in your heart Oh the controlling party with his heart oh wow you'll reform Oh hallelujah let us pray Heavenly Father thank you so much for this evening and thank you for the blessing of coming at your presence once again what are we asking that you guide us and that you lead us into all

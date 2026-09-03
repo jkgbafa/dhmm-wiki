@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wA6DO5Xakco"
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 now another area and I'm sharing these things I'm sharing from this book almost most of the things I preach now on books if you read them but you know most of the time we don't reach to we have to write it and read it to you forgive but one of the areas that I believe is going to be very helpful for us if we can hear the voice of God in relation to our needs and I believe that you you become significant and your life will be greatly improved in relation to your your-your-your needs what

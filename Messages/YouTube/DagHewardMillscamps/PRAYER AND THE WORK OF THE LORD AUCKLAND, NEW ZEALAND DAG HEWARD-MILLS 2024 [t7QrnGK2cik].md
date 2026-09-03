@@ -9,6 +9,8 @@ duration_min: 97
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PRAYER AND THE WORK OF THE LORD  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024 [t7QrnGK2cik]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 Acts chapter 6 verse 4, please. Acts chapter 6, verse 4. We will give ourselves continually to prayer and to the ministry of the word. Amen. Acts chapter 6, verse 1.

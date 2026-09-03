@@ -8,6 +8,8 @@ year: 2001
 duration_min: 39
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 there's an anointing falling touching my soul and changing my heart oh there's here falling me touching my and changing my heart my spirit and my soul my spirit and my soul fil with the power of the Holy Spirit my life will never be for s my spirit and my soul of the Holy Spirit my life will never be there's an anointing here there's an anointing holy GH for me touching my soul and changing my heart oh BL I know be here falling home from me I take my soul and changeing my heart my spirit and

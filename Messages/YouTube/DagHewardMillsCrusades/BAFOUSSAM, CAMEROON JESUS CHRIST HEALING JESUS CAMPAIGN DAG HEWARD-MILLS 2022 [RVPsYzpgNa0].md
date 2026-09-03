@@ -8,6 +8,8 @@ year: 2022
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Est-ce que vous êtes prêts? Est-ce que vous êtes prêts? Ainsi, je dirais de louah. Est-ce que vous êtes? Je l'adorerai.

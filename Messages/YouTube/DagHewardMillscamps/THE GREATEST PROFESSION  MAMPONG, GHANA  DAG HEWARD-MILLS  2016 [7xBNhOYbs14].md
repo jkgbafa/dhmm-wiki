@@ -8,6 +8,8 @@ year: 2016
 duration_min: 37
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 all right we Hallelujah Bishop you're welcome all right so let's continue very quickly and finish Bishop Chef okay making of liquid soap and pastries teaching stop making transport as and driving alongside Supermarket what what youan by Supermarket uh open provision so yeah all right mechanic Bishop football teaching and Bing graphic designing teaching teaching teaching and ser Administration fashion and design football what do you my fashion design design what you write that tailoring yeah footballer Bishop sorry footballer so what are you going to do I'm going to play football when we send you to the Village

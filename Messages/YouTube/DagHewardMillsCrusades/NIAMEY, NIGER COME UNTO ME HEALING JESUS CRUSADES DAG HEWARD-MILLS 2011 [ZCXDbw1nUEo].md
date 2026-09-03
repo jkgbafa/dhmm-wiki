@@ -8,6 +8,8 @@ year: 2011
 duration_min: 145
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Comme ça, vous saluez la présence du Seigneur. Et le peuple de Dieu pousse des cri de joie pour le Seigneur. Celui qui est assis sur le fond. Alléluia. Il est vivant.

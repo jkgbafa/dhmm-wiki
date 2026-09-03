@@ -4,6 +4,8 @@ book: "Going Deeper And Doing More"
 book_number: "077"
 chapter_number: 3
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 ### CHAPTER 2\

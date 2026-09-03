@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=cv_TJxSG31k"
 duration_min: 193
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 so Lord I thirst my soul will I want you to lift your hands to God come on everyone in this place near me near to the beauty of the Lord I thirst for you I and I long I come to be in your presence Lord my soul my soul will wait on you so father draw me nearer father draw me near me me the beauty the beauty of your One More Time Lord I thirst for you Lord I thirst I wanted to close your eyes for you and every line that you sing minutes minutes minutes

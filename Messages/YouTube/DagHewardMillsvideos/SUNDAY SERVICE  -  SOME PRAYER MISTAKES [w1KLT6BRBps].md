@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=w1KLT6BRBps"
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 nobody gives a lot of done what are you gonna do I and open skies above light just go like you just run like you into the darkness into the darkness you start oh we're not a philosophy right there's no one like you not like you but not like you when God Veda I'm stronger Lord you a higher city I I got a feeling power gotten greater I gotta don't you a high at 80 I died I gotta feel empowered I got my god I'm gonna keep the water sad oh that's mean what are you telling

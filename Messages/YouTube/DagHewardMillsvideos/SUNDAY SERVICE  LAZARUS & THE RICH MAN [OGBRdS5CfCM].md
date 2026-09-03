@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=OGBRdS5CfCM"
 duration_min: 55
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 let us pray I want you to commit yourself to God's hands this morning as we come before his word just thank God for bringing us thank you Jesus for your blessing thank you Jesus for the opportunity that you give us we are grateful O Lord pallidus and Allah make a mandala murabba parole additional America Barilla medicine de la maman de taille maine de lama ballad the same day to receive your holy word we are blessed we are thanking you we are honoring you for this day in the name of jesus amen you may be seated

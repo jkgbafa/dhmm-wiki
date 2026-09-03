@@ -9,6 +9,8 @@ duration_min: 76
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/TRANSFORMING YOUR PASTORAL MINISTRY PART 2  ISI PARIS  DAG HEWARD-MILLS  2015 [HZajYgSaWqc]]]"
+topics: ["Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "Wisdom"]
+tags: ["topic/leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/wisdom"]
 ---
 
 Amen. Amen. In 2 Corinthians 3 verse 18. 2 Corinthians 3:18. The Bible says we are transformed by the Spirit.

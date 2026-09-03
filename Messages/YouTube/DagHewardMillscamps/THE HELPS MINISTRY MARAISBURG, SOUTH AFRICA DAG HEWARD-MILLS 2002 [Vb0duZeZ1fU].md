@@ -9,6 +9,8 @@ duration_min: 24
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE HELPS MINISTRY  MARAISBURG, SOUTH AFRICA  DAG HEWARD-MILLS  2002 [Vb0duZeZ1fU]]]"
+topics: ["Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to second point of grace and peace. A new subject right here to the helps ministry. Amen. Did you remember we read it helps was one of them? And helps is an important aspect of the ministry.

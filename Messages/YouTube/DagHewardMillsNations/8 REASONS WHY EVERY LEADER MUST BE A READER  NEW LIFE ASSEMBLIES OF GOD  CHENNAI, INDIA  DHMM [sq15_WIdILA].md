@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=sq15_WIdILA"
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Leadership"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/leadership"]
 ---
 
 Share With You About Your Church Mission Today I want to share something with you about the ministry of your church that is its 14 chapter 1 and its 12 verse or read it in Hindi its 14 its 12 verse and greater works than these shall you do 12 verses 12 of 14 that is its 14 and greater works than these shall you do 12 verses 12 of 14 that is its 14 and greater works than these shall you do 12 verses 12 of 14 I say to you, whoever believes in me the works that I

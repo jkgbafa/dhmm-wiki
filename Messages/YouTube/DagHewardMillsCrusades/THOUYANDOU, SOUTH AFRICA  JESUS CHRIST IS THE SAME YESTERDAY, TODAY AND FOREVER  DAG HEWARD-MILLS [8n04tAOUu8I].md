@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8n04tAOUu8I"
 duration_min: 145
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Salvation", "Salvation/The New Birth", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/salvation", "topic/salvation/the-new-birth", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 are you ready oh St your hands like this come on everybody hey come on that's right that's front that's front hey come on hey hey hey hey come on H come on hey come on somebody shout hallelujah wow a yes there is good music in South Africa Clap Your Hands for Jesus tonight and you may be seated if you have a seat hallelujah hallelujah there's excitement in the air God's power is going to be released mightily and you are not leaving this campaign without the change in your life something practical will happen to you at

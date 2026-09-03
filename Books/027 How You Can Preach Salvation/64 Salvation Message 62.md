@@ -4,6 +4,8 @@ book: "How You Can Preach Salvation"
 book_number: "027"
 chapter_number: 64
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Salvation"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/salvation"]
 ---
 
 ### Salvation Message 62: 

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2015
 source: "autocaption"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 Tithing is the mystery wisdom that God has for all of us. Amen. And God wants us to receive his wisdom for what it is. Amen. Now many of us don't realize that Christianity is a faith like you to be a Christian you have to believe in things. Amen. You have to believe and if you're going to do well with God you must believe his word. Unlike every other thing which eliminates people, especially simple people, Christianity does not eliminate simple people. Christianity is available to as many as believe. Amen. So God has chosen the method for

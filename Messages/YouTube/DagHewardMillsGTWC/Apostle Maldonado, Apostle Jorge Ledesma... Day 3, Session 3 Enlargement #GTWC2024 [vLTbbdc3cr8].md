@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=vLTbbdc3cr8"
 duration_min: 173
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 And tonight, I believe that we can prepare our hearts by calling on God on appelant to make a way for us to free a chemin pour nous a way into new dimensions of revelations a way into his power dans sa puissance a way into his mind for our lives and our ministries. You want to lift up your two hands and just begin to thank the Lord that you are here tonight. That he was here tonight as because don't take it for granted that you are here. It is not automatic that you are here. And we are saying thank you, Lord.

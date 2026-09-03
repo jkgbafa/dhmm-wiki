@@ -8,6 +8,8 @@ year: 2023
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Hallelujah let us pray Heavenly Father we thank you for this time we are we are blessed to be here we ask you to speak to our hearts and lead us into new Realms amen newer Realms in the realm of the spirit to serve you very well thank you for this blessing in the mighty name of Jesus Amen Hallelujah we may be seated well I'm excited to be part of this camp meeting all right the Glorious church amen please you may be seated Ephesians chapter 5 and we start from verse 25 now this is the program

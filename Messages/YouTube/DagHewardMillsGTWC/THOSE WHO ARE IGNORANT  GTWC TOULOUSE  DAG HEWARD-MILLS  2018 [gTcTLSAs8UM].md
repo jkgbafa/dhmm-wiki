@@ -8,6 +8,8 @@ year: 2018
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Father, we are so excited to be in your presence. Conduous, dirigerous, aous to do what is right. Thank you in the name of Jesus. Amen. You may sit down. Now, I would like to share with you about loyalty and disloyalty. BGN. So, I would like to share with you about those who are ignorant. Now, as we build the church, you need loyalty. 1 Corinthians chapter 4 verse 2. What does it say? Moreover, what is required of providers is that each one be found faithful. So one of the main things we need as servants, as providers,

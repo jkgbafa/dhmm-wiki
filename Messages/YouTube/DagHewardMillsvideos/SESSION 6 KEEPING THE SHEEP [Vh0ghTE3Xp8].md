@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Vh0ghTE3Xp8"
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 baba donde Bravo's Kaaba evander skb sobre los Cobos subha Rodimus Kabul married blonde apiece be tight Oh God marry bowl of beasts they burnt appease the bond of peace the bond of peace Marco su Bravo's caballo subbu Shiva let it be our quest Oh God shoo Rosco Bo radda radda Scoble keep us O God in perfect peace Lord for da with deep in perfect peace whose mind of God is stayed on thee Lord as we are focusing our minds on you keep us in perfect peace keep us O God may we not be divided Oh

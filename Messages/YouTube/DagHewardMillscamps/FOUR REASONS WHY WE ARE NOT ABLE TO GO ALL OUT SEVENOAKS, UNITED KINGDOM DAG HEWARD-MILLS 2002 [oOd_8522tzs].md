@@ -9,6 +9,8 @@ duration_min: 43
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/FOUR REASONS WHY WE ARE NOT ABLE TO GO ALL OUT  SEVENOAKS, UNITED KINGDOM  DAG HEWARD-MILLS  2002 [oOd_8522tzs]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Welcome to track number three of all out before we get back to the mystery of his will. I just want you to see something here. Four reasons why we're not able to go all out. You have in Hebrews 12, verse 1. It says, wherefore seeing we also are compassed about with so great a cloud of witnesses.

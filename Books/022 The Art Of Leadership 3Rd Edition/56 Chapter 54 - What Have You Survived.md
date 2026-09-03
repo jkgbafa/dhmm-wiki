@@ -4,6 +4,8 @@ book: "The Art Of Leadership 3Rd Edition"
 book_number: "022"
 chapter_number: 56
 type: book
+topics: ["Leadership", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/leadership", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 ### Chapter 54\

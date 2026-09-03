@@ -8,6 +8,8 @@ year: 2014
 duration_min: 105
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Because you have to take it on the remote. I think that's very full of what we use. Yes, you have to make sure you can say that. Well, I might have to do this and we're going to come from PC and that's what we do. I'm not going to go to the website.

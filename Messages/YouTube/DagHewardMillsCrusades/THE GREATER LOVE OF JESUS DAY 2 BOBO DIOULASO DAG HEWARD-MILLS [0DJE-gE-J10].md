@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=0DJE-gE-J10"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Jésus est ici en ce moment Jésus est ici en ce moment pour répondre à vos besoins pour libérer les captifs oh Jésus est ici en ce moment je sais que Jésus est ici en ce moment je crois que Jésus il est ici en ce moment pour répondre à vos besoins pour libérer les captifs Oh Jésus Il est ici en ce moment si vous n'avez plus d'espoir Vous pensez que tu t'es perdu Si la dépression mène à votre amour Jésus te rend ta visite aujourd'hui Il chassera les nuages Oh Jésus Il est ici maintenant Oh allélu

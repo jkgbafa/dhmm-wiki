@@ -4,6 +4,8 @@ book: "Those Who Are Proud"
 book_number: "002"
 chapter_number: 5
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ## Chapter 3

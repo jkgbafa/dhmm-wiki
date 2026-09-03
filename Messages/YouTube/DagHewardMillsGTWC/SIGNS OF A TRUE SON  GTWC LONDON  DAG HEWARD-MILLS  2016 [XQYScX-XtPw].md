@@ -8,6 +8,8 @@ year: 2016
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Every pound, every dollar, every unit of any currency you put into this great work touches a life in a town, in a village, in a nation, somewhere. And I believe that as we watch this, many of you have been touched to even do more to support this great work God is doing, not only in Africa, but also in other nations of the world. And we want to say a big thank you to the Lord for making it possible for this to happen. Clap your hands for Jesus. And how many of you know that God has

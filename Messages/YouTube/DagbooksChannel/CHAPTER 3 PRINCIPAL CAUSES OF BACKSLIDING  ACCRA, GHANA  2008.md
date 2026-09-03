@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2008
 source: "autocaption"
+topics: ["Salvation", "Salvation/Backsliding"]
+tags: ["topic/salvation", "topic/salvation/backsliding"]
 ---
 
 Shallowess. All right, being shallow um is a reason why some of us will not go further in the Lord. And turn with me to Luke chapter 8 and we read from verse 13. Luke chapter 8. Turn with me in your Bible. Verse number 11, 12, 13. He said those by the wayside are they which hear and then cometh the devil and taketh the word out of their hearts lest they should believe and be saved. And they that are on the rock. This is the parable of the swer. They that are on the rock are they

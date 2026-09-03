@@ -4,6 +4,8 @@ book: "Those Who Leave You"
 book_number: "005"
 chapter_number: 2
 type: book
+topics: ["Leadership", "Loyalty and Disloyalty"]
+tags: ["topic/leadership", "topic/loyalty-and-disloyalty"]
 ---
 
 ### Chapter 1\

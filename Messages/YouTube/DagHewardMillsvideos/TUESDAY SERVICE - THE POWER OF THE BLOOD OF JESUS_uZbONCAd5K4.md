@@ -3,6 +3,8 @@ title: "TUESDAY SERVICE - THE POWER OF THE BLOOD OF JESUS_uZbONCAd5K4"
 channel: "DagHewardMillsvideos"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I will big hero tonight I will call upon your name Hey oh honey more the man yay I I will call upon your name call the party all day the prophecy then dropped into procedures just expanded the prophecies call upon the name of boy and me I don't know who if this fall Oh Oh God me II somebody Oh me we wanted you you will call upon the name you and a I feel the need to call somebody means behead your uncle another publication somebody here in wrestle today you need to call in the name

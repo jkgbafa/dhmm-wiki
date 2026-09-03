@@ -4,6 +4,8 @@ book: "The Megachurch 2Nd Ed"
 book_number: "010"
 chapter_number: 9
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 ### Chapter 8\

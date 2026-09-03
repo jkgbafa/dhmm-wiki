@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=G8aYgPZwTjc"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah somebody gives a lot of sháá I cannot yet you get a lot of shot I shot a shot come on a shot come on a shot come on I saw so you never tell you never I said you were nice everybody's check your body said you buddy shut your body sucky one is an illusion I'll go sing a bottle and worship in a move it upon me wahala see they give me people now it Omega P Diddy era I go sing a bath or I worship in a more ego pumi wahala today it give

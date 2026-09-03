@@ -8,6 +8,8 @@ year: 2020
 duration_min: 162
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 Go ahead and pray. Go ahead and pray. Ask God to give you understanding. So powerful. Spend some quality time.

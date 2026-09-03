@@ -8,6 +8,8 @@ year: 2013
 duration_min: 41
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 Welcome to track number three of the dream church. God is going to speak to you today. Personally and generally. Now what are 25 blessings that we have with the big mega church? Will of God, will of God.

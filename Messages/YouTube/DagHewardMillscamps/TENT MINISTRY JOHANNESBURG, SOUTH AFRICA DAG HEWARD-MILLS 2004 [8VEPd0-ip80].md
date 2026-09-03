@@ -9,6 +9,8 @@ duration_min: 32
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/TENT MINISTRY  JOHANNESBURG, SOUTH AFRICA  DAG HEWARD-MILLS  2004 [8VEPd0-ip80]]]"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Welcome to track number three of church planting. Tenth ministry is the ability to combine secular work with real ministry. Secular work. When I say secular work, carpentry, legal work, computer, uh what? Security, nursing, everything you are welding, teacher, and especially teachers.

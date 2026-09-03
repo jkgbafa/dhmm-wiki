@@ -9,6 +9,8 @@ duration_min: 16
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MARRIAGE AND THE MINISTRY  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001_O_uufymoaHQ [Ljr-mSvmTeY]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Marriage and Family", "Ministry and Pastoring"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/marriage-and-family", "topic/ministry-and-pastoring"]
 ---
 
 welcome to track number 24 of pastors of thousands now seven things that marriage and the ministry we did that yesterday find it let me go through that one with you you not say l to have you found it number one what is the topic marriage and the ministry why something why oh is that what you call it why must a young man be married me reasons why why a young man maybe let's make it what marriage does for the ministry marriage and the ministry number one uh okay I see where it started from the anointing

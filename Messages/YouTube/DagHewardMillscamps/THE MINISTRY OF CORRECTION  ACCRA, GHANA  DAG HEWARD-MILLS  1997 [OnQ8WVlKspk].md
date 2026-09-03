@@ -8,6 +8,8 @@ year: 1997
 duration_min: 14
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/marriage-and-family", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number five of loyalty in the mega church the next is the ministry of Correction I shall not be moved the ministry of Correction correction amen First Corinthians chapter 4 let's all turn our Bibles 1 Corinthians chapter 4 don't worry we are going to end soon we'll take a break and we'll come back Amen in a few minutes we'll just end I want to see how we can just finish some things otherwise I don't know whether this camp we will finish a lot of things yay okay the ministry of Correction how many keys

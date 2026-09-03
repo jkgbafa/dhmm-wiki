@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/1vtSF2XpoTge/"
 duration_min: 104
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Vision and Direction", "Vision and Direction/The Will of God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh, just for me, just for me. Jesus came and did it just for me. Come on, and just for me. Just for me. Come on, that's the song, a very simple one.

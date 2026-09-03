@@ -8,6 +8,8 @@ year: 2018
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/faith", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 remember your creator in the days of your youth while the evil day have not yet come remember your creator before the years come when you shall say I have no pleasure in them remember your creator in the days of your youth before the sun the moon and the stars grow dark and the clouds never go oh away the grasshopper becomes a burden and desires fail remember your creator in the days of are you before your leg starts to tremble remember him before your shoulders bend over before your teeth start falling out and your eyes don't

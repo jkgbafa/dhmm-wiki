@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u2mdr/"
 duration_min: 51
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Please turn with me to Philippians chapter 3. Hallelujah. Philippians chapter 3. And we are looking at the same general theme of forgetting the things that are behind and moving on to the things that are before. Philippians 3.

@@ -8,6 +8,8 @@ year: 2007
 duration_min: 142
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah turn with me to John chapter 12 are you there John chapter 12: 20 it says now there were some Greeks among those who were going up to worship at the feast then these came to Phillip who was from beider of Galilee and be and began to ask him saying sir we wish to see Jesus amen hallelujah amen well this is um the request of who Greeks all right who are going to worship who do they want to see Jesus when they look at us they should see Jesus so we must pray that as a

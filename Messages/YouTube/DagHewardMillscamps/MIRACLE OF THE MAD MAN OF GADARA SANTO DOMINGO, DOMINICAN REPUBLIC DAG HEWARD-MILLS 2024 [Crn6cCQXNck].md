@@ -8,6 +8,8 @@ year: 2024
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Father, thank you for this great opportunity. Padre, gracias por esta gran opportunidad in Jesus' name in el nombre de Jesus. Amen. Amen. You may be seated.

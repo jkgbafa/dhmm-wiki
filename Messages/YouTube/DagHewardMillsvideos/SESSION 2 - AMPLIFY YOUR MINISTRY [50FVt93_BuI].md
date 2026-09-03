@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=50FVt93_BuI"
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/ministry-and-pastoring", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 I want to now share with you Jerry pathogenic zoo on this very important subject amplifying your ministry with miracles and manifestations of the Holy Spirit yo CJ Prosise also I'm pleased ta what Minister Polly Mahakala money society auntie sensitive let us just read one Fez I'm just reading one vest why do you interfere look for 18 we cut off the Spirit of the Lord is upon me because he has anointed me to preach the gospel to the poor and has sent me to heal the brokenhearted to preach deliverance to the captives and the recovering of

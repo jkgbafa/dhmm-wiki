@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=BoHOz_podfA"
 duration_min: 240
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 in your presence I am content come on and in your presence I am content your presence there is life preious of your love oh and Revelations of your power and might oh your presence I can bring a s of GL the presence of He's Able he is able he's more than to accomplish what conern he he small than able oh he can handle anything that comes my way he's able more to do much more to do much more than than I can ever dream he he's able he's more than able oh to make me what

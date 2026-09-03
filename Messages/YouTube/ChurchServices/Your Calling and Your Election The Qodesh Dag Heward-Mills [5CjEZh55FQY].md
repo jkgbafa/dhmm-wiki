@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=5CjEZh55FQY"
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 Father, thank you for the great blessing we have at this time. In the name of Jesus. Amen. You may be seated. Take out your special offering.

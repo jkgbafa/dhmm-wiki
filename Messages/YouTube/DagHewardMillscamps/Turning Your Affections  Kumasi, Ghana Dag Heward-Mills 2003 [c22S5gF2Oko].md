@@ -8,6 +8,8 @@ year: 2003
 duration_min: 150
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 the hidden man amen now when we become Heavenly minded all right we are now able to focus on things that are real that are spiritual is that not so turn with me to Colossians chapter 3 and we look at verse one if you be then risen with Christ seek those things which are above where Christ sth on the right hand of God and set your affection on things above and not on things on the earth for you are dead and your life is hid with Christ in God and when Christ shall appear and when Christ

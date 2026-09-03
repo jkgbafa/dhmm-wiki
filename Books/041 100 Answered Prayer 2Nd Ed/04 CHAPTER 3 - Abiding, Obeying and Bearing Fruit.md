@@ -4,6 +4,8 @@ book: "100 Answered Prayer 2Nd Ed"
 book_number: "041"
 chapter_number: 4
 type: book
+topics: ["Prayer", "Prayer/Answered Prayer"]
+tags: ["topic/prayer", "topic/prayer/answered-prayer"]
 ---
 
 ### CHAPTER 3\

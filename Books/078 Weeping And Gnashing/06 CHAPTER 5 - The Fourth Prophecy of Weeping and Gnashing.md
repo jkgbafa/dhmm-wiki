@@ -4,6 +4,8 @@ book: "Weeping And Gnashing"
 book_number: "078"
 chapter_number: 6
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 ### CHAPTER 5\

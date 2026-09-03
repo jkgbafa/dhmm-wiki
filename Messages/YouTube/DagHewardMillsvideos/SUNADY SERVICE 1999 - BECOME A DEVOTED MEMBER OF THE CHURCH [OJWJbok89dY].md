@@ -8,6 +8,8 @@ year: 1999
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 how patient he is for the autumn and the spring rains you to be patient and stand same because the coming of the Lord is near we present to you a sketch entitled patient hello service was very mega hey Sally I was playing in the anointing people were falling in a 24 bricks how was falling I know anyway beloved our falling in fact all I know anything you were falling in Fast Eddie no and we appeared and said you've got your question my Prius hmm I decided that this thing in me I will continue what will

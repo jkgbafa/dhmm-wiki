@@ -3,6 +3,8 @@ title: "CHAPTER 7  THE SWEET INFLUENCES OF THE HOLY SPIRIT ON YOUR PHYSICAL STRE
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "The Holy Spirit"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-holy-spirit"]
 ---
 
 the sweet influences of the spirit on your physical strength. Now, how many believe that you can have strength from the Lord? A lot of your physical strength comes from the spirit realm. But most people think it it comes from your muscles and the vitamins you have eaten. But I'm going to prove to you from the Bible that a lot of your physical strength, okay, actually comes from the spirit realm, the spiritual state that you are in. Amen. Amen. Somebody pull this back so I can see the side. Number one, Acts chapter 19 verse 14 says,

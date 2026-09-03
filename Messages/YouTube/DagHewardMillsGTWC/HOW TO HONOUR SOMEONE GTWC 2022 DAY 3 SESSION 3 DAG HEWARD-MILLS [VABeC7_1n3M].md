@@ -8,6 +8,8 @@ year: 2022
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Please be seated. Now there are four things. That I want us to look at because they are usually not seen as honor. Amen. Amen.

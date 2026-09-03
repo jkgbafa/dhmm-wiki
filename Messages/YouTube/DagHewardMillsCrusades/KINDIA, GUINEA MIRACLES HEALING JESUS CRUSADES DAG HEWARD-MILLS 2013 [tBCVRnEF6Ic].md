@@ -8,6 +8,8 @@ year: 2013
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Tonight is a night of miracles. Are you ready for miracles? Are you ready for miracles? Tonight is a night for blind eyes to be open. I said tonight is a night for blind eyes to be opened.

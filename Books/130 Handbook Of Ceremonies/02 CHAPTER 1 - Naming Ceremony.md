@@ -4,6 +4,8 @@ book: "Handbook Of Ceremonies"
 book_number: "130"
 chapter_number: 2
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting"]
 ---
 
 CHAPTER 1\

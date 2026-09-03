@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=YE4yeIZmgv4"
 duration_min: 158
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 don't it's all dump that again Oh Oh I found it I know you're dumb about a shuffle I have a little hope I have a Living Hope I found a sir I know what ha ha ha Oh Oh ha Oh rocket bunny bunny Gouda ah Oh I wanna shout a little startling alone how many of the king is coming if you know that king is coming give myself before he ha hallelujah riding on the flag shiny leather plan shiny like other tropical more loose your boys somebody in the year up to me the year of

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=fX_MTGhNK9M"
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 in a world where there is such an endearing to the things we hold so precious and Saudi in a time when evil men agro we were handler and get all the heart a failing them for fear you are my fortress you are my friend and on you I know I can depend you all my Foster and this all by you're going to see Lord in a time when sons are turning on their father and the love of cry for justice can't be learn in a world where the future see so one person who the taking

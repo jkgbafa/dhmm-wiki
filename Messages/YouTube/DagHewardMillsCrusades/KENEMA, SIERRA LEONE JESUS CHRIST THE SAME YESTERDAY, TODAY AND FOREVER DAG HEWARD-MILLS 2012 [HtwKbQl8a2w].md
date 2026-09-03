@@ -8,6 +8,8 @@ year: 2012
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Hallelujah. Hallelujah. Clap your hands for Jesus. For Jesus now. Tonight, God is going to do wonderful things in your life.

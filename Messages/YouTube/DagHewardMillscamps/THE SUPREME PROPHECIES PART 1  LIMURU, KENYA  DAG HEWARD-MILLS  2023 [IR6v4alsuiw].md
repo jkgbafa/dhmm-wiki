@@ -8,6 +8,8 @@ year: 2023
 duration_min: 188
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah let us pray father thank you for this time in jesus' name amen you may be seated Supreme prophecies number one Isaiah chapter 2 it shall come to pass in the last days that the mountain of the Lord's house shall be established in the top of the mountains and shall be exalted above the hill and All Nations shall flow into it and many people shall go and say Come Ye and let us go up to the mountain of the Lord and to the house of the god of Jacob and he will teach us of his

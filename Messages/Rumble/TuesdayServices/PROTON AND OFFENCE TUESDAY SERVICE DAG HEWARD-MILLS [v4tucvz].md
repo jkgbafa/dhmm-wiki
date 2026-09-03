@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tucvz/"
 duration_min: 53
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Hallelujah. Proton is a Greek word which means first. Right. Now this sermon applies to good people. How many are good people?

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9bwB3k3FDTo"
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 and I'm forever great to you yes I am as you see but you came just to see to see I along with many new we but you mean for me you little waits for me Lord but you let me hear your voice Lord your boys only mean enough I yeah see Oh I am and never that after you you came just where you were this morning loading this thank you for coming to save us we bless you Lord for in your presence we have fun sense o God we love to be where you are Lord

@@ -8,6 +8,8 @@ year: 2015
 duration_min: 125
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 wherever you are tonight take out an offering Wherever You Are Tonight look into your bag look into your pocket take out and offer everywhere everywhere we are giving to the Lord Everywhere We are giving to the Lord they are giving to the Lord all those in their stands take out an offering are going to come to you wherever you are can you please lift up your offering and let's pray let's pray father we thank you thank you Jesus for the privilege to give to you tonight thank you Jesus we ask Lord that you bless our

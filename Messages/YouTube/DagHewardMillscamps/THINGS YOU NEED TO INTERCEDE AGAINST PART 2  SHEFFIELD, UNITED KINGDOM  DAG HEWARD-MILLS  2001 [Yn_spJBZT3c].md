@@ -8,6 +8,8 @@ year: 2001
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 welcome to track number 10 of Fosters of thousands to degenerate means to gradually become of a lower type to gradually do what become of a lower type amen now make sure you get this book transformed your pastoral Ministry I'm just reading out to you from what is there all right so now how many know that sometimes you start on a higher level and it ends up on a lower level so to become pardon to become gradually of a lower kind you get it is to degenerate and when we are interceding we must intercede against the

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ZRt9OCoVnIg"
 duration_min: 101
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now, the heart of a man in the realm of the spirit is like the heart of the body. What you put in is what comes out. You didn't know. As students, you know things and artes. As students, hey!

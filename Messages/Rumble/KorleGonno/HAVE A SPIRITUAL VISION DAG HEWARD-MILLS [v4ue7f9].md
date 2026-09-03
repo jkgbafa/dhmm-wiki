@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ue7f9/"
 duration_min: 66
 source: "whisper"
 match: "exact"
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 I want you to know Tell me how you feel when you roll alone with no one to say I love you. Uh uh and you feel your hope is gone. Try to call your best friend, but he's not there, so you wind up feeling empty, like no one can brother. Don't you worry, the storm don't last always, but there's a frame of glory, full of mercy and grace. He'll pick you up, yes, yes, you will.

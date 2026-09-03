@@ -8,6 +8,8 @@ year: 2017
 duration_min: 133
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "The Holy Spirit"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/the-holy-spirit"]
 ---
 
 Hallelujah father we are grateful for the opportunity that we have in you in Jesus name amen amen you may be seated now we continue on the prayers everything by prayer now I believe that you are going to have breakthroughs in your life when you go back to wherever you came from and the breakthroughs are going to be directly linked to the prayers that you are going to be praying now prayer as we are sharing is not possible until you find the real pattern that suits you in prayer you know you have to discover for yourself

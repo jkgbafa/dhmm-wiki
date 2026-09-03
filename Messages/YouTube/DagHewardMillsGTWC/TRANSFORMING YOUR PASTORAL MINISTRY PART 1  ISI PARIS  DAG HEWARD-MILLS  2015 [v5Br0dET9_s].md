@@ -9,6 +9,8 @@ duration_min: 181
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/TRANSFORMING YOUR PASTORAL MINISTRY PART 1 ISI PARIS DAG HEWARD-MILLS 2015 [v5Br0dET9_s]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 sit down. It's a blessing to be here. I want to thank everyone who helped prepare this meeting for your contribution which made this possible. Amen. Alleluia. I want to share with you what I call ministry transformation, the transformation of your pastoral ministry. Transform your pastoral ministry. 2 Corinthians chapter 3 2 Corinthians 3. But when hearts turn to the Lord, the veil is removed. Now, the Lord is the spirit. And where the spirit of the Lord is, there is freedom. And we all, with unveiled face, beholding the glory of the Lord, are being transformed into the

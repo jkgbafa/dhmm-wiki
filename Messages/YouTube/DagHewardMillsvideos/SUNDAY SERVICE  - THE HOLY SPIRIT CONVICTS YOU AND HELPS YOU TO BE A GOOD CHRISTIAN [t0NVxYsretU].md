@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=t0NVxYsretU"
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Salvation", "Salvation/The New Birth", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/salvation", "topic/salvation/the-new-birth", "topic/the-holy-spirit"]
 ---
 
 you you Oh and and to me only God like him doing you afraid only a colicky amen Allah Allah before you say that you prefer over so delicately debate days from last Monday till today if it's immature baby can you can't pre-approval their lives but Italian so do you speak in a prayer over you the gold tip you go to princess your days for watch for you go to be away from people by love for example or the face of the life in the name of Jesus Lord of them Louis done by them help them

@@ -8,6 +8,8 @@ year: 2000
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 I believe that God has a word in season where that will cut what needs to be cut out of our lives replace the things that need to be replaced build the things that need to be built and put us on the path where we can be victorious say Amen ladies and gentlemen we have the Bishop of lighthouse chaplains and ice now once again with us to minister to teach and to instruct us in the ways of the Lord and I believe that this word will come to pierce even to the dividing asunder of soul and

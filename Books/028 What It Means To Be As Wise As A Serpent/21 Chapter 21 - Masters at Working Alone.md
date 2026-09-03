@@ -4,6 +4,8 @@ book: "What It Means To Be As Wise As A Serpent"
 book_number: "028"
 chapter_number: 21
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer"]
 ---
 
 Chapter 21\

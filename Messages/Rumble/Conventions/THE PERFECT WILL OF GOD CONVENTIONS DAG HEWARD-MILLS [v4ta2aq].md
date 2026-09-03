@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ta2aq/"
 duration_min: 115
 source: "whisper"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 Swedish-British journalist, filmmaker, political writer, and author of five books, Helen Nurof Taylor on today's news talk, TNT. Welcome to the Pelanaro Tele Show on this Thursday. We've got four excellent guests with you today, as usual. Uh, it's World Tuner Day and World Passport. Password Day, whatever that means.

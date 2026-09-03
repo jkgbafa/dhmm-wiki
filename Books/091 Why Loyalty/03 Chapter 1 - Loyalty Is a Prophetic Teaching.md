@@ -4,6 +4,8 @@ book: "Why Loyalty"
 book_number: "091"
 chapter_number: 3
 type: book
+topics: ["Loyalty and Disloyalty", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/loyalty-and-disloyalty", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 ### Chapter 1\

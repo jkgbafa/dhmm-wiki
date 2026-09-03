@@ -8,6 +8,8 @@ year: 2024
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Hallelujah am let us pray Father which are in heaven thank you for today and thank you for blessing us and bringing us to this point in Jesus name we pray with Thanksgiving amen you may be seated I'm excited to be in b this is a great blessing for me to be here and I believe it will be a great blessing for you too so I want you to sit down and um we can begin our camp meeting amen amen now I'm happy to see your church I I was at a church building a few minutes

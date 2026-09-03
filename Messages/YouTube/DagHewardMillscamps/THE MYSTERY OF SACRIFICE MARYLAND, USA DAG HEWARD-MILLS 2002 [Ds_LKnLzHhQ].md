@@ -9,6 +9,8 @@ duration_min: 61
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE MYSTERY OF SACRIFICE  MARYLAND, USA  DAG HEWARD-MILLS  2002 [Ds_LKnLzHhQ]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number seven of the mysteries of God. Experience is the mystery of having to sacrifice something. Um why do I call it a mystery? Because I often don't see the use of sacrifice, it looks like it looks like um, it looks like uh what do you call it? Um a waste of resources, often to me, so I think that um it is a very mysterious thing, Father.

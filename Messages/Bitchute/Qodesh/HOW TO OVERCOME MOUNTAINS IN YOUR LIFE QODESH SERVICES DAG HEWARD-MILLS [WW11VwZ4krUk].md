@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/WW11VwZ4krUk/"
 duration_min: 97
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 We bless your name, O Lord. Just wanted to say, Lord, I thank you. And Lord, I come to worship you. Because you are my light and my salvation, Lord. Because of you, I shall not fear.

@@ -8,6 +8,8 @@ year: 2017
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/leadership", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Thank you, Jesus for the blessing. Merci Jesus por cette bénédiction. In Jesus' name. Amen. You may be seated.

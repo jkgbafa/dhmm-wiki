@@ -8,6 +8,8 @@ year: 2002
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 e welcome to track number nine of the mega church now Arab are you okay now the next key to having a mega church is obedience obedience and we are going to memorize another scripture now John can you give me 81 81 81 huh there is there is therefore now no there is therefore now no for those who are in Christ Jesus who walk not after the flesh but after the spirit huh oh is that not what it says DD 828 828 huh was it correct good a 86 h or to be kind life and peace

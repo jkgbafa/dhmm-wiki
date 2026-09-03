@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=EsdvWSCFaW0"
 duration_min: 236
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 CU I'm forgiven because you were forsaken I'm accepted you are condemned I'm alive and well your spirit lives within me because you died and again come on I'm forgiving I'm forgi because you were forsen on that very cross and I'm accepted you were condemned you were condemned I'm alive I'm alive and well your spirit lives Within Me because because because I you to sing this one more time one more time I'm forgi I'm forgi because because you are forsaken I'm accepted I'm accepted you were condemned you were condemned I'm alive I'm alive and well the

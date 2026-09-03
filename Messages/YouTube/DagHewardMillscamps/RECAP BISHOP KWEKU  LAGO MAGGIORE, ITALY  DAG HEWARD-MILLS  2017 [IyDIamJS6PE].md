@@ -8,6 +8,8 @@ year: 2017
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 the good the B in the name of Jesus [ Music] [ Music] always constant always constant in the name of Jesus hallelujah hallelujah applaud for Jesus Christ are you are you real for a prophetic work this Tuesday morning it is a blessing to be in the house of the Lord and to praise the Lord Jesus Amel moment B we have yesterday a lot done with us in this season I believe that God blesses us how many of you how many of you believe that your life is changing by the prophetic words and I mean yesterday

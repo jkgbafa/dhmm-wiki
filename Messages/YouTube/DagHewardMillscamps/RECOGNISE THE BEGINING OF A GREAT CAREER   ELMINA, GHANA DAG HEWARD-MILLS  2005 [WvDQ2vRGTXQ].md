@@ -8,6 +8,8 @@ year: 2005
 duration_min: 22
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 welcome to track number seven of snake Junction recognize the Small Beginnings of a great career you must recognize that this is my career and this is the small beginning of my career amen am recognize this is the beginning and many people who know us and knew us in school I don't think they are so surprised that we are pastors today yeah they not surprise are they surprised raised they would rather be surprised if we're not amen now Job chapter 8 thank you verse 7 it says don't that be beginning was small yet thy latter end

@@ -9,6 +9,8 @@ duration_min: 60
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHY PRAYER IS IMPORTANT FOR THE MINISTRY PT 2  MARAISBURG,SOUTH AFRICA  DAG HEWARD-MILLS  2000 [IY9UzqRDoKM]]]"
+topics: ["Ministry and Pastoring", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Women are good at they open up their heart. God, it's the same way when they are laughing, they don't open their heart and then they just laugh. And then it's the same when they believe they just believe. Prayer will make you a man of the anointing. Prayer makes you a man or a woman of the anointing.

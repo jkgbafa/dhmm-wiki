@@ -8,6 +8,8 @@ year: 2018
 duration_min: 140
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 as we go for in this new dimension of ministry is one of the things we need loyalty loyal As we move forward in the ministry of the home, The one thing we need is Loyalty so I want to go to loyal and loyal Discussion with you about disloyalty Would like to do now your country is just sw in Of switland we have three languages French German and Italian Your country, like Switzerland, has three languages. There is. Department: Italian and German is in three long Everything is in three languages. I see you have everything in three

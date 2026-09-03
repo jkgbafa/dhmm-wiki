@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t40jr/"
 duration_min: 112
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 And all the way from the garden city of Sekrum, the land of the prophets, we want to welcome Reverend Kakra Baden. Oh man. You know, I I can't just talk about it. This man is an architect, not a drawer. Architect by profession, been to school for many years, and has left all to follow the Lord.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jwuf9JLSQ-U"
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Anointing/Kinds and Waves of the Anointing", "Prayer", "The Holy Spirit", "The Word and Books"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/anointing/kinds-and-waves-of-the-anointing", "topic/prayer", "topic/the-holy-spirit", "topic/the-word-and-books"]
 ---
 
 in a lot house there are many bestos tell me what kind of f are you oh you want to carry the anointing then you must change your and become a Vel of onor oh for without the anointing my pastor you cannot do very much it is by the anointed you can build a mega church you can preach you can teach and gather craft that's why I love the anointing yeah as I listen to the word the anointing fell on me he said I could prach I could teach and I I could heal oh I believe

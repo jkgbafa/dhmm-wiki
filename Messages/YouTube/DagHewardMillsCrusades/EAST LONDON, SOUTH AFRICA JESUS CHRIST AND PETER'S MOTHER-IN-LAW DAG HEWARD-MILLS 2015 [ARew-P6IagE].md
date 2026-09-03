@@ -9,6 +9,8 @@ duration_min: 106
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/EAST LONDON, SOUTH AFRICA  JESUS CHRIST AND PETER'S MOTHER-IN-LAW  DAG HEWARD-MILLS  2015 [ARew-P6IagE]]]"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Are ready? Why don't you give Jesus a shout? Oh, come on, come on. Jesus a shout. Coutura emo yenize.

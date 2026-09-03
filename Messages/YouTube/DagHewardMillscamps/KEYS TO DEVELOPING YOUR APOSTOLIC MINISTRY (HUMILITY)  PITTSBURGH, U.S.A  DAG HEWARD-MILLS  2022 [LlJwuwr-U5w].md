@@ -8,6 +8,8 @@ year: 2022
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Marriage and Family", "Marriage and Family/Children and Parenting", "Ministry and Pastoring"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/ministry-and-pastoring"]
 ---
 
 next step in becoming a great Apostle is humility wow wow go deeper go deeper take us have I committed an offense in abasing myself another version says humbling myself wow 2 Corinthians 11:7 have I made a mistake by abasing or humbling myself all right humbling myself shange div verion please did I do wrong when I humbled myself and honored You by preaching God's good news to you without expecting anything in return did I do did I do anything wrong by humbling myself to preach to you without expecting anything in return so humbling yourself is a

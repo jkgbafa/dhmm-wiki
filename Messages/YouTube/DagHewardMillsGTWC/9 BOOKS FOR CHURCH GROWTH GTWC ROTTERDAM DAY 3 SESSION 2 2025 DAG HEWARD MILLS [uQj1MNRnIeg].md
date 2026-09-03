@@ -8,6 +8,8 @@ year: 2025
 duration_min: 55
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth"]
+tags: ["topic/church-growth"]
 ---
 
 Thank you, Lord, for this blessing. In Jesus' name. Amen. You may be seated. Now let's look at the points again.

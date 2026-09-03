@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3mao/"
 duration_min: 39
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Well, we are grateful to have the bishop in the house. Test of the bishop is in the house. I said, Test of the bishop is in the house. And I believe that this morning God is going to come through with his word into your life and transform your life by his word. If you are good with me, let's put the hands together.

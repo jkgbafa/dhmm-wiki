@@ -9,6 +9,8 @@ duration_min: 134
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PRAYING FOR LABOURERS PART 2  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024 [M-DChpBCU6c]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 You may be seated in the presence of the Lord. Alright. Now turn with me to John chapter 10. We are continuing on praying for laborers. This is topic is called praying for laborers.

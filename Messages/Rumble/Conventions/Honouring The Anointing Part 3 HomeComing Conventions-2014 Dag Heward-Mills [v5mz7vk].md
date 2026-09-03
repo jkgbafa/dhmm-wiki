@@ -8,6 +8,8 @@ year: 2014
 duration_min: 138
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Are you ready for a powerful testimony? Wow. So today, all the way from the land of Nandos. What us to welcome Reverend Paul of Fermenu all the way from Lisbon, Portugal. Hallelujah.

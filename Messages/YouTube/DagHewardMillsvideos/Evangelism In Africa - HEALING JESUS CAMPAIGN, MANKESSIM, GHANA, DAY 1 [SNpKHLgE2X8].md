@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SNpKHLgE2X8"
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 hallelujah amen wow wow tell your neighbor your life will not be the same again you may be seated at this time and I want us with a hand clap to welcome the DC honorable quu heord to bring us a word thank you very much pastors present I'm very honored to be here this evening for this occasion the first time I met Reverend D and heward Mills was when we were going to China and I was privileged to pass through the vvp with him we sat close by and I chatted with him for the first time

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2019
 source: "autocaption"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I want to preach also now from another of my books which amazingly is not part of your books. It's from my latest book on loyalty which is those who honor you. Now instead of being someone who brings who comes with deception in your relationship, you must be the complete opposite and you must be someone who honors. Now Romans 13:7 says, "Render therefore to all their dues." Now somebody who has been good to you, you what is due the person? So tribute to whom tribute is due, custom to whom custom is due, fear to whom fear

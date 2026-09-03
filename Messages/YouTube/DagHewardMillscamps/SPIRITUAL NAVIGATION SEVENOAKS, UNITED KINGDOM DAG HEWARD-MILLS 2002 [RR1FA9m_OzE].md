@@ -9,6 +9,8 @@ duration_min: 82
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SPIRITUAL NAVIGATION  SEVENOAKS, UNITED KINGDOM  DAG HEWARD-MILLS  2002 [RR1FA9m_OzE]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 Welcome to track number 24 of all out. Are you ready for spiritual navigation? Right. As you go along in your life and in the ministry, you are going to need to navigate to be able to get there. Amen.

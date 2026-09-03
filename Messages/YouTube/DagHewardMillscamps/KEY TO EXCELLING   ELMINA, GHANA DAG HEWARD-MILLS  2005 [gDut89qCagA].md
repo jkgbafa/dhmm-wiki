@@ -8,6 +8,8 @@ year: 2005
 duration_min: 65
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 welcome to track number one of snake Junction so much for the fire of the holy spirit in Jesus name amen you may be seated now I want to share with with you about what I call keys to excelling amen amen what do you think unstable as water thou shall not Excel you won't do well have you ever heard somebody being told you w't do well huh yeah and this is what Ruben was told but he was not only told but he was given the reason why he wouldn't do well and that is because of his

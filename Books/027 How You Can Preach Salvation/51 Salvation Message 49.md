@@ -4,6 +4,8 @@ book: "How You Can Preach Salvation"
 book_number: "027"
 chapter_number: 51
 type: book
+topics: ["Salvation", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/salvation", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 ### Salvation Message 49:\

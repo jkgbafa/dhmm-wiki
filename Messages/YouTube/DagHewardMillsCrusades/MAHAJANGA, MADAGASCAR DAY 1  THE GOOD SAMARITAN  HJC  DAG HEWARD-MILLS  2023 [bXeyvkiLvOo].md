@@ -8,6 +8,8 @@ year: 2023
 duration_min: 149
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 it you ch oh are o oh oh oh Hallelujah Hallelujah I'm be he he he yeah there Hallelujah be he out he out he he o o t o out hallelujah hallelujah are you excited to be here tonight I can't hear you are you excited to be here tonight show that you are excited by giving the Lord a loud Shout oh hallelujah hallelujah amen amen God is going to touch you tonight just a quick announcement someone has a green bus ped at the back there please if you are the owner of that bus kindly move

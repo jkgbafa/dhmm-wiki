@@ -8,6 +8,8 @@ year: 2010
 duration_min: 111
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Don't let this force leave you, don't you ever go astray? Trust in God's word and believe it, cause it will never pass away. We'll see him in his glory, riding on the counts of joy, treating us with open eyes, peace forevermore. I know that everything is gonna be all right, it's coming back, like it said he would, yeah, yeah, it's gonna be all right, he's coming back for the true and good, oh everything is gonna be all right, it's coming back, I said he would oh yeah, yes, gonna be all right, it's coming back for the true and good now.

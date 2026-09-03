@@ -9,6 +9,8 @@ duration_min: 20
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/QUESTION TIME PT 2  CARDIFF, UNITED KINGDOM  DAG HEWARD-MILLS  2003 [gQiUpQLfBGQ]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 Welcome to track number seven of Bima. My name is from Back to Right. Um I just wanted to ask this show. Um the fact that when you hear such messages, you feel like making a decision that okay, I think I've heard this and I want to make a move. Is it bad to say okay?

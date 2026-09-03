@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=t5DQLR-1cMU"
 duration_min: 6
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Hallelujah. 2 Chronicles chapter 7 verse 14. If my people which are called by my name shall humble themselves and pray and seek my face and turn from their wicked ways. Then I will hear from heaven and I will forgive their sin and heal their land. Amen. I believe to call for a national day of prayer is a sign of humility because the Bible says if my people will humble themselves and pray. So prayer is a sign of humility and humility comes before promotion. So I believe that this prayer time is going to lead to a

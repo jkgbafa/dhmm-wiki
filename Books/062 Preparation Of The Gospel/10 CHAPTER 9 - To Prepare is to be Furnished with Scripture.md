@@ -4,6 +4,8 @@ book: "Preparation Of The Gospel"
 book_number: "062"
 chapter_number: 10
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 ### CHAPTER 9 \

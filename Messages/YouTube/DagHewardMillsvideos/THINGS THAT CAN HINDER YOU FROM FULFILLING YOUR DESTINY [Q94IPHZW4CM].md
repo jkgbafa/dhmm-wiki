@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Q94IPHZW4CM"
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 prosperous church is actually a desolation that comes from not being prepared to sacrifice whatever we need to sacrifice for God that's why people are not really rich if I do fundraising right now you will see how rich we are yeah if I do fundraising now I say $5,000 $10,000 you see suddenly everybody will just sit back and not want to get up yes so what we need is a dedication to sacrifice nobody has ever worked for god without giving up something so lay pastors and lay people you see I have always been in full-time Ministry

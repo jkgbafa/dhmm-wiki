@@ -4,6 +4,8 @@ book: "Key Facts For New Believers"
 book_number: "126"
 chapter_number: 13
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 CHAPTER 12 \

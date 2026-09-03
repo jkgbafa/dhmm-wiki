@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MN664TTfiKE"
 duration_min: 149
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 The devil is in trouble today. Say hallelujah, somebody. Hallelujah. Catima, are you ready? It's going to be a powerful night.

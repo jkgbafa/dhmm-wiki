@@ -8,6 +8,8 @@ year: 2013
 duration_min: 33
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 I have noticed that I would do the same thing here then I do it on another level the same thing that's that's what I've noticed exactly the same thing here and exactly the same thing there same message same examples same everything same scriptures same format but it's the different and the light uh scale place now when I read cine K's biography they said that there's something they said about her they said that for Catherine when she was um preaching to whoever she was preaching however whatever the size of the group it was like she was

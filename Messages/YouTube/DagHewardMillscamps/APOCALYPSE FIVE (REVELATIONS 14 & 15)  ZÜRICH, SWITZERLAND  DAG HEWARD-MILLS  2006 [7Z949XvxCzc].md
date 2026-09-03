@@ -8,6 +8,8 @@ year: 2006
 duration_min: 55
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number five of Apocalypse chapter 14 apocalyptic Revelations number 14 and I looked and Al lamb stood on the Mount Zion and with him 144,000 having his father's name written in their foreheads and I heard a voice from Heaven as from the voice of um many Waters and the voice of a great ther I heard the voice of Harpers and they sang A New Song Before the Throne four beasts and the eldest no man could learn that song by the 144,000 which were redeem these are they which are not defiled with women for

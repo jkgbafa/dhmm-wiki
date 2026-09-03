@@ -9,6 +9,8 @@ duration_min: 188
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE ENEMY  GTWC LONDON  DAG HEWARD-MILLS  2016 [yqgiBUxfVt8]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 I'll be ready at twenty, ready for the war. I'll be ready at twenty for the work of God. There is nothing I can do. Oh no for the Lord. There is nowhere that's too far.

@@ -4,6 +4,8 @@ book: "Preparation Of The Gospel"
 book_number: "062"
 chapter_number: 5
 type: book
+topics: ["Leadership", "Ministry and Pastoring"]
+tags: ["topic/leadership", "topic/ministry-and-pastoring"]
 ---
 
 ### CHAPTER 4 \

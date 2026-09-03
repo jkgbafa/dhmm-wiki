@@ -8,6 +8,8 @@ year: 2011
 duration_min: 152
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 I'm going to share with you five facts about the calling. There are five very powerful things concerning this calling, and the first is that there are many who are called, but few are chosen. We're going to change this verse; we're going to say many are called, many are chosen. Listen to me, it's not every verse in the Bible that has to be fulfilled in your life as an individual. Every verse that is in it, which you must join in the same way as a church and as part of this denomination, doesn't accept that only a

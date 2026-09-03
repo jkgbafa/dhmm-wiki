@@ -8,6 +8,8 @@ year: 2011
 duration_min: 142
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 and the honor to have met Bishop Ms last year in Durban and supernaturally this year um it now happens that he is right here and strategically we have maneuvered that at least he speaks here where I preach from on a Sunday morning so that that very anointing that shall abide you will be if you you don't know what I'm saying maybe one day you'll understand how the anointing works and how you must chase after the anointing Hallelujah so if you don't know the gift of God that is here Bishop Mills is a board member of

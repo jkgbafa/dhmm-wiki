@@ -8,6 +8,8 @@ year: 2005
 duration_min: 27
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 welcome to track number nine of birthday Kwa the last point is your place is is is the unfortunate the reason why it's an unfortunate story is because it is just like your place Revelations CH 12 we're going to read a little passage there and he says and there was war in heaven Michael and his angels fought against the dragon and the dragon fought against his angels have you found it Revelations chapter number 12 and verse number 7 okay are you there are you there yeah and the and there was war in heaven and Mikael and

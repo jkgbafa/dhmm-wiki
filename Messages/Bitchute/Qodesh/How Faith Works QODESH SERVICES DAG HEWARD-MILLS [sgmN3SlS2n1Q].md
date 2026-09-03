@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/sgmN3SlS2n1Q/"
 duration_min: 40
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Prayer"]
+tags: ["topic/faith", "topic/prayer"]
 ---
 
 Father, we are grateful for today for the opportunity that we have to share in your word what a blessing it is today. We thank you, Lord in Jesus' name. Guide us, Holy Spirit, and let your will be done in Jesus' name. Amen. You may be seated.

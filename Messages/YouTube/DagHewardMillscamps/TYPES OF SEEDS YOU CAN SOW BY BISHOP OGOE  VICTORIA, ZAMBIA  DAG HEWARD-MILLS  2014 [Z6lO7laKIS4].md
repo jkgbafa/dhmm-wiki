@@ -8,6 +8,8 @@ year: 2014
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 but if I eat one today tomorrow next week 1 2 3 4 I shall become a conos of crocodiles have you seen crocodile made before yes I hear taste but I don't like it why don't I like it is it because I am better than sibusiso no I'm not better the thing is that she has been eating I have not been eating you will get used to anything you eat a lot it will become your you will develop an appetite naturally for anything you eat a lot you you can you can chew grass continuously for

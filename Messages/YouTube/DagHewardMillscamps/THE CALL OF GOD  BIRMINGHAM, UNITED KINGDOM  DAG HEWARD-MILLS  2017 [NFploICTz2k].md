@@ -8,6 +8,8 @@ year: 2017
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "The Call of God"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/the-call-of-god"]
 ---
 
 for I called him alone and I blessed him amen and increased him now two things that I want you to see beautifully written here is that I called him alone apart from all the other things that we want to learn huh one of the things is to learn that God calls you alone what do you think so every call is a lonely call don't expect to be in a group everybody who looks around to see the group whether the group is going whether we are all going ends up not going at all do you understand

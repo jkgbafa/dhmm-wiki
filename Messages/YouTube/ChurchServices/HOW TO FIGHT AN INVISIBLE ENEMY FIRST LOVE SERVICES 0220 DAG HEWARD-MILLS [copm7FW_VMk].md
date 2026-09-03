@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=copm7FW_VMk"
 duration_min: 307
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 And we give you all the praise we thank you we thank you we just want to thank you we just want to thank you first laugh as if you are ready, let's sing together. We thank you, oh Lord If genuinely want to say thank you to me, let your eyes and close your eyes and worship because we just want to we just want to thank you we just want to Lord We just want to thank you we just want to thank you we just want you there one more time we thank you Lord We want

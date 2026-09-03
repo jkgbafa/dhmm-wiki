@@ -9,6 +9,8 @@ duration_min: 114
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE GREAT VISION   Mumbai, India  Dag Heward-Mills 2016 [JtHdd5qazTQ]]]"
+topics: ["Vision and Direction", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/vision-and-direction", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 You can take your seat. Wow. Were you blessed in the first session? Or were you blessed in the first session? Have you been delivered from vision failure?

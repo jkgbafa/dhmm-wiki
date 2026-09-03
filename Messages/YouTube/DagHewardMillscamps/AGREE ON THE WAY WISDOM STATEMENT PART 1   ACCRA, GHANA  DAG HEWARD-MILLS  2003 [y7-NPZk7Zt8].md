@@ -8,6 +8,8 @@ year: 2003
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 welcome to track number two of agree on the way okay Ecclesiastes the verse 4 let's all read together yeah carry on let's read from verse verse um eight amen okay the first so we are going through the wisdom uh statements and uh you must pray that God will help your mind to work correctly as we go through each point amen so the first point is All Things Are full of Labor as uh the first important thing you must agree with now on the way that all things are full of Labor so take a note of

@@ -8,6 +8,8 @@ year: 2024
 duration_min: 23
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Prayer"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/prayer"]
 ---
 
 now finally I believe in miracles because I believe in all the 19 miracles of Jesus wow Miracle of The Madman of gadara you believe in it Miracle of the woman with the issue of blood you believe in it the miracle of the man with the withered hand you believe in it Miracle of the 10 lepers who were healed you believe in it Miracle of the syran woman's daughter do you believe in it believe it the miracle of the man who sun was falling into the fire remember that epileptic boy your believe in it Miracle of

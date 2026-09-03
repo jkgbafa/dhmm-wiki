@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2024
 source: "autocaption"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Wisdom will increase by hearing. Hearing Proverbs 1:5, "A wise man will hear and increase learning. A man of understanding shall attain unto wise counelss." So a wise man will hear and increase learning. He will learn the wisdom by hearing. So here and I want to encourage you to listen. I have a preaching if you Google even right now you can Google it DAG my name DAG and preaching dagpreaching.org everything will come there very easy when you click you can download it. And those are the camps and conferences. They are all there. DAG preaching.org. And then

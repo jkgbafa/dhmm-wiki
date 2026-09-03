@@ -8,6 +8,8 @@ year: 2017
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/wisdom"]
 ---
 
 ask your neighbor what are you going to do about Vis 10,000 I mean as the person I mean are you living here not caring about this Vision you mean it doesn't concern you find the person who is saying that it doesn't concern me and let's find let's is there anybody here who is concerned that a vision like this must be accomplished can I see the hand of that young boy that Pastor yes everybody has a share in this I was talking to somebody was saying that he had some stocks you know stocks you are in

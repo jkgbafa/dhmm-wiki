@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=T9vtRpX0QFg"
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 The first point is that there is a hidden man within you. Everybody has a man who is hiding within him and who looks just like him. Point number two is that there is a hidden man within you. On the day that you die, the man who has been hiding within you for many years will be revealed. The hidden man is hiding.

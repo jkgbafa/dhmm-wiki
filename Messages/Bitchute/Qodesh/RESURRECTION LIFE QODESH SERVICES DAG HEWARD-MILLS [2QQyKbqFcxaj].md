@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/2QQyKbqFcxaj/"
 duration_min: 49
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 On the cross of Calvary, Jesus died for me by his blood. I am set free. All because of Calvary. Jesus died for me. Hallelujah.

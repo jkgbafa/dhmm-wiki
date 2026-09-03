@@ -8,6 +8,8 @@ year: 2010
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Salvation", "Salvation/Backsliding", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/prayer", "topic/salvation", "topic/salvation/backsliding", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 broken I am living by faith nothing is impossible not going to live by what I see I'm not going to live B what I feel deep down I know that you're here with me and I know that you can do anything through you I can do anything I can do all things you get me strength nothing is impossible go through you blind eyes are open strong HS are broken I am living by faith nothing is impossible I'm not going to live by what I I'm not going to live by what I feel de down I

@@ -8,6 +8,8 @@ year: 2023
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 the missing key Luke 11:52 okay it's getting better hello hello Luke 11:52 what does it say woe unto you lawyers for you have taken away the key of knowledge you entered not in yourselves and and them that were entering in you hinted amen them that were entering in you hinded so here we see uh we see a very clear key amen and this key links us to um only one other key where we find Jesus speaking about the church key for what Matthew 16 Verse 18 I say also unto thee that thou art Peter Thou

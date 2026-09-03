@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2024
 source: "autocaption"
+topics: ["Leadership", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/leadership", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 How many points have I given you? Only three. The whole service. Number four, trouble. Trouble in your leader's life. Mark 14. When there's trouble in your leader life, it makes some people leave the church. And Jesus said unto them, "All you shall be offended." Mark 14:27. All of you shall be offended of because of me tonight. For it is written, I will smile the shepherd and the sheep will be scattered. Wow. Jesus said, "Tonight you will be offended because of me." Tonight you'll be offended because of me. I will smite the shepherd. Matthew 26 verse

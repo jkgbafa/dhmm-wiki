@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8zY1Wm3cKIM"
 duration_min: 167
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Soul Winning and Evangelism/Witnessing", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/soul-winning-and-evangelism/witnessing", "topic/the-holy-spirit"]
 ---
 
 you No you Oh Oh Oh ah Oh Oh ah ah yeah and the I ah louia kindly take your seats we know that all things work together for good Klim that of the Lord to them who are the call I have not seen nor ear heard no habitants at the heart of that things God has prepared for those who love Him you must love giving for your heart you must love the Lord because it's the greatest comeback man a child of God ah don't he have to love upon me therefore when I just said in

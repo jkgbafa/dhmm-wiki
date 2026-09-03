@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Ykhpp11y6N0"
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Prayer", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/prayer", "topic/the-holy-spirit"]
 ---
 
 you gave me time when no one gave me time of day you look deep inside while the rest of the world away you smiled at me when there were just brown everywhere you gave me love when nobody gave me hot bread that's why I call you Saviour that's why I call you friend would you touch my heart you touch my soul you help me snot all over again that's why you gave me love when nobody gave me a brand you gave me left after I cried oh my you heard my dream you gave me nobody

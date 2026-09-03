@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=aho1qaq63hY"
 duration_min: 137
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 nobody ooh oh Allah I ask to see what is happening in their property on this Oh No Oh and ah my ha hmm yeah hahaha Oh No you Oh I my side mama ah Oh Master I'm a No Oh Gina where all of you my job ah and my time Oh ah Wow Wow the sounds of the lesson I do most without responding to standards across this much time are you ready to see what W tonight Oh okay Heavenly Father thank you for tonight by newly Graham liquidity and your great power that is already here

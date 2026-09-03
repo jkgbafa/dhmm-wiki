@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=P0xKr3QJmAY"
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Well we are back in Africa. We track we flew to Brazil and then we came to Gabon Gabon and we flew to Hungary and we are back in Uganda. Hallelujah! Hallelujah! We have a mighty apostle here.

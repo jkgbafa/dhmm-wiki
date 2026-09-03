@@ -4,6 +4,8 @@ book: "Ministerial Barrenness"
 book_number: "072"
 chapter_number: 12
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ### CHAPTER 11

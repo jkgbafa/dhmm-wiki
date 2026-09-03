@@ -3,6 +3,8 @@ title: "CHAPTER 26  THE SWEET INFLUENCES OF THE HOLY SPIRIT ON YOUR CALLING AND 
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["The Call of God", "The Holy Spirit"]
+tags: ["topic/the-call-of-god", "topic/the-holy-spirit"]
 ---
 
 Verse 28 gives you the reason why Satan does not want you to. He He knows. He knows. He knows what a good life you are going to have. I said he knows what a good life He knows what a good life you're going to have when you follow his call. Yeah. HE KNOWS THE SCRIPTURES BETTER THAN WE KNOW. DON'T EVER try to do a Bible study with the devil. He knows the Bible more than you. Look, somebody who could quote the verses to Jesus 2,000 years ago, he's been quoting scriptures to people for years. Yes.

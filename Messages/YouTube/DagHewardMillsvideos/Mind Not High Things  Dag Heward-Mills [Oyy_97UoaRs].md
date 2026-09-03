@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Oyy_97UoaRs"
 duration_min: 220
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 to us but unto thy name we give glory give god thanks give god praise lift your hands and believe god that everything that he has for you in this year whatever he has in store for you in this year he will surely bring it to a past he will surely bring you to a good conclusion thank him right now thank him and lift your voice and thank him and praise him is somebody thanking god this morning is somebody giving his voice to god this morning is somebody praising god this morning go ahead and thank him

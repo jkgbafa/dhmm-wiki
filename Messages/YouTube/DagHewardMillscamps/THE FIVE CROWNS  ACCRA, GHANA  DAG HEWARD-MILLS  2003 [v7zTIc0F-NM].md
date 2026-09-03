@@ -8,6 +8,8 @@ year: 2003
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number 15 of agree on the way set your set your affection on things above where Christ where Christ sth where he sitting where Christ s set to affection that is your feelings your feelings set your feelings set your feelings feelings your feelings on things above your feelings your feelings why are your feelings only for what do you call see let me tell you something grow up when you see mercedesbenz E class and BMW I mean grow out of the because you are just following the course of this world don't let it impress

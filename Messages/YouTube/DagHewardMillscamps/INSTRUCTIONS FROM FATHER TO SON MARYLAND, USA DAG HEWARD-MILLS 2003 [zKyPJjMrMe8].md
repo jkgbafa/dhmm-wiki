@@ -9,6 +9,8 @@ duration_min: 34
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/INSTRUCTIONS FROM FATHER TO SON  MARYLAND, USA  DAG HEWARD-MILLS  2003 [zKyPJjMrMe8]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Just like in surgery or in uh what do you call it in medicine? You have the fellowship of the of the words, American college of castroenterologists or physicians or gynecologists or whatever. It's a fellowship that you are admitted to. So when you are a pastor, especially as you are growing up in the pastoral, there are benefits and blessings of being part of a fellowship. Of course, if you are some far-off person who doesn't know anybody, you don't need that where people see you are quiet, you don't say hello, you don't smile, and so on.

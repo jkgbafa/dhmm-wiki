@@ -8,6 +8,8 @@ year: 2003
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 welcome to track number 10 of AG greet on the way some of you are going to learn how to speak Spanish Portuguese some of you are going to go to African nations some of you are going to go to districts Villages towns I tell you God is going to use you greatly amen Greater Works than these shall you do amen and your life at the end of your life you will lie down in peace and in quietness and there are there are different ways you can go how many want to go in peace and in

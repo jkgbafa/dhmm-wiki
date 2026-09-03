@@ -9,6 +9,8 @@ duration_min: 41
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/HOW TO HEAR THE HOLY SPIRIT GTWC BULAWAYO DAG HEWARD-MILLS 2025 [quEQjhOujlw]]]"
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 Now, are you listening? Now, the Holy Spirit, God has sent the Holy Spirit to our lives. Now, I gave you the master key for guidance. All right? And then now I want to give you the the principal person who will guide you. The principal person who will guide you. The person who will guide you. Your principal person who is going to guide you and that is the Holy Spirit. Yes. the Holy Spirit. So if you can hear begin to hear the voice of the spirit, you have to hear the voice of the spirit inside many

@@ -8,6 +8,8 @@ duration_min: 90
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/HARARE, ZIMBABWE  SEEK YE FIRST THE KINGDOM OF GOD  HEALING JESUS CRUSADES  DAG HEWARD-MILLS [-GxIqi5MDBk]]]"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Jesus loves me I know for me so one to him they are we straw yes love me Yes Jesus loves me Yes Jesus loves me tells me Jesus loves me He who die to He will wash away my sin and let's let so shall come Yes Jesus loves me Oh yes Jesus loves me Jesus loves me the Bible sells me though Yes Jesus loves me Oh yes Jesus loves me Yes Jesus loves me the Bible Tells me so me the Bible Yes it tells me the Bell Me Hallelujah Ladies and gentlemen Can I asked to please sit Montre Muss Garozen No one said other time please and got it passing Harari has experienced a great visitation from the Lord Shani Wakukuru we've had two powerful nights of his word and his power sick with so correct tonight my final night of great joy and welcome evangelist that minister the word of God today nothing is impossible to those who believe and say I expect a miracle and I stand Father we thank you for tonight thank you for your great and wonderful presence here no up away you know shami saw we are so excited to come into your presence have mercy on us.

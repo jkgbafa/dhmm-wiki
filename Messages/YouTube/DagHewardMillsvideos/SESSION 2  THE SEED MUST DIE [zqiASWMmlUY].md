@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zqiASWMmlUY"
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Oh in a world where they without unnamed to the phase we hold so press your vein and so deep and in a time when people med I've been worse than a word and yet on as hot a feeling there you are my friend and all do you are my friend you are my friend and it's all my brave okay in a time when sons turn it on your father and the mother's cry for justice depending on where you are my fortress you are my friend and on you I know I can you are my portrait

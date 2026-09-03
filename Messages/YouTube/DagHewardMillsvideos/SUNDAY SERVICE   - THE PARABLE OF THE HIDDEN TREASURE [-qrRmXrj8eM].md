@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-qrRmXrj8eM"
 duration_min: 31
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 father we thank you for this morning we ask you to lead us and speak to our hearts in Jesus name Amen you may be seated I want you to turn with me to Matthew chapter 13 I am sharing about the parables of Jesus and this morning I want to continue on that subject hallelujah Matthew 13 we spoke about the parable of the mustard seed the parable of the wheat and tares and the parable of the leaven that was hidden in the meal and today we want to move on and share about another important parable hallelujah

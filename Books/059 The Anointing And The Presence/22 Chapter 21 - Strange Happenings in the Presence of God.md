@@ -4,6 +4,8 @@ book: "The Anointing And The Presence"
 book_number: "059"
 chapter_number: 22
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 ### Chapter 21\

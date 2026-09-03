@@ -8,6 +8,8 @@ year: 2023
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 father thank you for the power of the holy spirit that is released in Us in the name of Jesus Christ amen you may be seated right we got to Romans chapter 3 isn't it so we continue to Romans chapter 4 now we are not ashamed of the Gospel of Jesus Christ amen am because let's read Romans 1 and6 again it says for I am not ashamed of the gospel for it is the power of God andto salvation to everyone that believeth to the Jew first and then also to the Greek for therein that is in

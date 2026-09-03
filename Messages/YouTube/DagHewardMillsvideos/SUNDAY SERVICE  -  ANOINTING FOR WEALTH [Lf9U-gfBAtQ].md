@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Lf9U-gfBAtQ"
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 let us pray father we thank you for your blessing today we thank you for giving us your help in the name of Jesus we ask that you lead us into all truth thank you for your blessing Jesus amen you may be seated in the presence of the Lord today I want to share with you about the anointing for wealth amen all of us have an unspoken vision to be wealthy how many realize that you have an unspoken dream even pastors have an unspoken dream we got you forgive us even though we don't say that's one

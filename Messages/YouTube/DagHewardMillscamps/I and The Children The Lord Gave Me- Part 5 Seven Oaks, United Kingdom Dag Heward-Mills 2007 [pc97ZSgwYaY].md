@@ -8,6 +8,8 @@ year: 2007
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 the next one is the importance of sons and daughters not being provoked Ephesians chapter 6:4 behold I am the children which God has given me wow what shall we call this Camp I and the children which God has given me now ye fathers provoke not your children to wrath but bring up them up in the nurture and admonition of the Lord amen ladies and gentlemen as children you can easily be provoked by your parents amen so while we are growing and developing in the house of the Lord the ministry of Jesus careful that you are

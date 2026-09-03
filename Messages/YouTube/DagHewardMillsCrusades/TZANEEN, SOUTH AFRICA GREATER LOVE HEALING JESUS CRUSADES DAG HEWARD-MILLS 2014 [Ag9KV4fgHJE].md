@@ -9,6 +9,8 @@ duration_min: 127
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/TZANEEN, SOUTH AFRICA  GREATER LOVE  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2014 [Ag9KV4fgHJE]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Ladies and gentlemen. Tonight is the first night of this wonderful campaign. God has come to visit us here tonight. And he's doing so through a servant he has used over the nations of the world. A son of Africa, God has anointed with miracle power to preach the word of God to the nations.

@@ -4,6 +4,8 @@ book: "Wisdom Is The Principal Thing For Your Ministry"
 book_number: "070"
 chapter_number: 18
 type: book
+topics: ["Anointing", "Wisdom"]
+tags: ["topic/anointing", "topic/wisdom"]
 ---
 
 ### CHAPTER 17\

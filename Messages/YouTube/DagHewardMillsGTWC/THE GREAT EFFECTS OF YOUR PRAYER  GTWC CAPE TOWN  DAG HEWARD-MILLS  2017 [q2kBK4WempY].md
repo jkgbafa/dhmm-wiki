@@ -8,6 +8,8 @@ year: 2017
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 I was a Christian and [music and singing] attending church and I believed I truly loved the Lord. But there was a day I went to church and the preacher [music and singing] spoke to me. He said, "Jesus [music and singing] says, if you love me, keep my words, my commands, listen to [music and singing] my voice." Jesus really needs to know. How deep is your love? Is your love? How deep is your love? He really needs to know that you're willing to surrender all of your life to his will and his command. That's the least

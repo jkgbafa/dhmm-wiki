@@ -7,6 +7,8 @@ url: "https://rumble.com/v4su6rw/"
 duration_min: 126
 source: "whisper"
 match: "fuzzy"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 Precious Lord, take my hand, lead me on, help me stand. I am tired, I am weak, and I am worn. Through the storm, through the night, lead me on to the light. Take my hand, Precious Lord, lead me home. When my way grows dreary, Precious Lord, link I need.

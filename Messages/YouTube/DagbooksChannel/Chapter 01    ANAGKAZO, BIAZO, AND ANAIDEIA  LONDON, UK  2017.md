@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2017
 source: "autocaption"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Anagkazo and Compelling", "Soul Winning and Evangelism/Witnessing", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/anagkazo-and-compelling", "topic/soul-winning-and-evangelism/witnessing", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 subject is witnessing subject. Now how to do the witnessing and the main three words. Well, somebody will give me the book when I need it. There are three words that you need to remember. We are going to do witnessing and that is anacazle. Anakazo. Do you have a book anazo? I can't see now. The word, sorry. The word anakazo, I got it. I got it right here. The word anacazo come from Luke 14. And I want us to turn to Luke 14. Once again, you will see a mistake that we're making as Christians is to

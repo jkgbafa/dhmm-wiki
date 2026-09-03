@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=U2CAQ8e9Vpg"
 duration_min: 91
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care", "Vision and Direction"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/vision-and-direction"]
 ---
 
 everybody says church growth the church can grow amen and there are many things that lead to the church growing aright but the church growing is like it's mysterious because it is like a mysterious group of a human being you cannot easily see what makes a person group and when the person grows we can't even see that this is the day that the person has grown it is not true when you are tall you don't remember the day you became so you just find out that you become tall these are not true and you don't know

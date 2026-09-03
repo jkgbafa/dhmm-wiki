@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=UEbJ8Z85okA"
 duration_min: 28
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 the number one have a goal to be a good shepherd and I'm sharing from this book The Art of shepherding number two have a goal to be a great Shepherd Hebrews 13:20 now the God of Peace that brought again from the dead our lord Jesus that great Shepherd of the sheep through the blood of the Covenant all right he's speaking of Jesus Christ a great Shepherd so a Good Shepherd is what we found in 20 John chapter 10 and a great Shepherd is someone who has gained a lot of knowledge about shepherding amen and you

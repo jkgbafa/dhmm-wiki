@@ -8,6 +8,8 @@ year: 1999
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 and tell him you belong at the top people at the top you are part of the people at the top hallelujah and I believe that this way that is coming practical down-to-earth and mounted will keep you at the top sometimes people are able to climb to the top but they can remain de but God's Word will keep you there hallelujah I want us to rise to Africa to house together and welcome our Bishop as the minister says the word of land hallelujah let us pray father we thank you for this morning thank you for your

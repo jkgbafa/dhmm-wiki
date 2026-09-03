@@ -8,6 +8,8 @@ year: 2015
 duration_min: 137
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 hallelujah amen hallelujah hallelujah hallelujah hallelujah hallelujah oh hallelujah oh hallelujah hallelujah hallelujah hallel hallelujah hallelujah oh hallelujah oh hallelujah hallelujah oh hallelujah oh hallelujah hallelujah hallelujah hallelu again hallelujah oh hallelujah oh Hallelujah Hallelujah Hallelujah Hallelujah H hallelujah oh hallelujah hallelujah hallelujah oh hallelujah hallelujah oh hallelujah hallelujah hallu hallelujah hall hallelujah hallelujah hall hallelujah hall hallelujah hallelujah hallelujah oh Hallelujah hall hallelujah hallelujah hallelujah hall hallelujah Je oh hallelujah hallelujah hallelujah hallelujah hallelujah hallelujah oh hallelujah hallelujah s oh Hallelujah Hallelujah Hallelujah Hallelujah Hallelujah Hallelujah hallu Hallelujah Hallelujah God bless you please be seated what a night please

@@ -8,6 +8,8 @@ year: 2023
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Hallelujah Church put your hands together let's welcome the prophet of the most high God our founder the bishop D heward Mills oh I can hear your shout of prise hallelujah thank you Father for this opportunity to share your word we're so excited We Worship You Lord in jesus' name amen you may be seated well first of all I want to say apologize for not being able to be around yesterday and today there were some very good reasons why I couldn't be so I believe I was with you in the spirit amen Hallelujah so today I'm

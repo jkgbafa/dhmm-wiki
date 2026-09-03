@@ -8,6 +8,8 @@ year: 2025
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 You may be seated. Now let me say this because what I'm about to share is very critical, and that is you must now. I'm moving on. I'm still on the art of hearing and about being led. Now you must be led by the spirit by obeying God in little things as well as in big things.

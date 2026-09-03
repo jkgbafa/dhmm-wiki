@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=o4IDyTiTp9I"
 duration_min: 67
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 don't you don't don't this is the world in fasting season the house season oh you're a demon army very rare never give up for trouble shot on your way trial and temptations of all song but you never give up test my hell you laughing never give up never never door you never never give up don't you see and no matter what I tell you don't you ever ever don't give up your bed so ever I give up please just tell you that you ever give up don't ever dare the door I gave up don't don't

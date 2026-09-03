@@ -8,6 +8,8 @@ year: 2023
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit"]
 ---
 
 wow father thank you for the beautiful goodness that you showed us by your spirit in your presence in our lives let us experience your grace in a special way thank you amen amen you may be seated now this is the last uh session and our theme for this camp meeting is amamos without blemish amen amen now God wants to present the church his you see Jesus is like a man with a girlfriend whom he's going to marry so in Ephesians 5 and verse 25 we see Jesus looking for a girlfriend he says husbands love your

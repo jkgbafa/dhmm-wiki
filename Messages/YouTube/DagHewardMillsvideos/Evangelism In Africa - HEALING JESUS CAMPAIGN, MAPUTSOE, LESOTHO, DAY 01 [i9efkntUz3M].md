@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=i9efkntUz3M"
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah clap your hands for Jesus to nine allocatable pyramids all as we receive our posture Alamelu pandava motivo Orochimaru now are you ready for what God is going to do tonight in your life yes so see a little symbol here again are you ready for what God is about to through in your life then let's give a hand clap punch with a large evil if I got it tonight clap your hands ha ha ha hallelujah hallelujah hallelujah with me please be seated I gather to didn't pass the alcohol a fella God is about to do

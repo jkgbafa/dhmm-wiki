@@ -8,6 +8,8 @@ year: 2023
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 now in Psalm 1 and verse one says blessed is the man that WTH not in the counsel of the ungodly nor standeth in the way of Sinners nor sth in the seat of the scornful yes now you see one of the main things is that you you in life just if you are a humble member of life when do you understand when I say a member of life like you are part of humanity you are in this world you you should take your time when you are laughing at somebody yes yes not even even if

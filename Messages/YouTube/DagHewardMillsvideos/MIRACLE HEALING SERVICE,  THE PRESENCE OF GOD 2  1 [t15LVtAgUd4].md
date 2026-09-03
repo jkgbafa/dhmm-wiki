@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=t15LVtAgUd4"
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 I received a call from God the other day I was just the young person it talked to me and said my child you are my we must work and you must free do you know the secret of prosperity the keeper seconds of Moscow and all these things absolutely for I will give them all to you I'll go where I have to go reach what I have to Crete have a maximum came o go where we have to go reach what I asked I will have the maximum yeah blessed is the man who got you there

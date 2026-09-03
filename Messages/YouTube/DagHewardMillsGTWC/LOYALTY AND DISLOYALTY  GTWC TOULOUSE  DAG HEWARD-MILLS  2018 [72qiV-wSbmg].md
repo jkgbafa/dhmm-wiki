@@ -9,6 +9,8 @@ duration_min: 133
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/LOYALTY AND DISLOYALTY GTWC TOULOUSE DAG HEWARD-MILLS 2018 [72qiV-wSbmg]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Now this session, I would like to communicate with you regarding loyalty and disloyalty. Amen. And I believe that's a blessing. Turn your Bibles with me to 2 Corinthians chapter 4 verse 6. For God, who said, "Let light shine out of darkness," has shone in our hearts to give us the light of the knowledge of the glory of God in the face of Christ. The light of God dispels the darkness. Not all demons are driven out by the act of binding. Not all demons are destroyed by fasting. The Bible states that this kind of thing comes

@@ -4,6 +4,8 @@ book: "How You Can Preach Salvation"
 book_number: "027"
 chapter_number: 27
 type: book
+topics: ["Salvation", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/salvation", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 ### Salvation Message 25:\

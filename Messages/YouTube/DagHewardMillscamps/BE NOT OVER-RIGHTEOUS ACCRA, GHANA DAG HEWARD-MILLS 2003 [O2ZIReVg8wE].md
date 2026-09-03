@@ -9,6 +9,8 @@ duration_min: 15
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/BE NOT OVER-RIGHTEOUS  ACCRA, GHANA  DAG HEWARD-MILLS  2003 [O2ZIReVg8wE]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Welcome to fact number 14 of the green on the way. Don't rebuke a grown up. Don't have to tell him it's not the right thing. No, no, no, no. I mean, when I say a grown up, I don't mean an older person, but if you're the senior person in the ministry, you don't even correct him.

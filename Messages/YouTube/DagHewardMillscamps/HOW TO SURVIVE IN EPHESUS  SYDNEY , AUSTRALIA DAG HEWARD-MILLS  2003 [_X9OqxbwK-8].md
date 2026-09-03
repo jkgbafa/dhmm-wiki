@@ -8,6 +8,8 @@ year: 2003
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 welcome to track number one of how to survive in Ephesus in and the ladies will sing make me pure in High make my heart faithful and faithful and true so when you look at me it's your righteous you see Lord make meure L okay first line is Lord Make Me pure in Heart Lord Make Me pure in heart then the ladies will sing make me in heart all right make my heart faithful and S faithful and true so when you look at me it's your righteousness you see Lord Make Me pure in have you got

@@ -4,6 +4,8 @@ book: "How To Neutralize Curses"
 book_number: "107"
 chapter_number: 12
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 #### CHAPTER 11\

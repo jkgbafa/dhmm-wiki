@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uh4fi/"
 duration_min: 67
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 I remember you said I am the apple of your life and for loving me. You gave your life. Yes, you did. At times my heart just wants to break for loving you. So I just let it break.

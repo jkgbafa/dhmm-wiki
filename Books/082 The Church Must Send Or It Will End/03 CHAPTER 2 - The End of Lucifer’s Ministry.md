@@ -4,6 +4,8 @@ book: "The Church Must Send Or It Will End"
 book_number: "082"
 chapter_number: 3
 type: book
+topics: ["Ministry and Pastoring", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/ministry-and-pastoring", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 ### CHAPTER 2\

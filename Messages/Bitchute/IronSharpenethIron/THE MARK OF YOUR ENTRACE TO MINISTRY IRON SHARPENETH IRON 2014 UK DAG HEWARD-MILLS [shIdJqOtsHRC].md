@@ -8,6 +8,8 @@ year: 2014
 duration_min: 181
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Salvation", "Salvation/Repentance", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/salvation", "topic/salvation/repentance", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 My assignment is very simple tonight. A woman commented about three pastors that had the privilege of pastoring her in quick succession. She said, The first pastor was a man, not a minister. She said, our second pastor was a minister, not a man. She said, our third pastor was neither a man nor a minister.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ACSMwgFvgxY"
 duration_min: 274
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 Jesus it must be better if it is for you that is fine but if it is for Jesus why don't you give him a better hand clap offering everyone if you're excited to be alive excited to be well excited to be where you are then give God a mighty hand clap offering everyone your hand clap is not as mighty as it should be if that is for Jesus do it better for him show some excitement and give God thanks and give God praise hallelujah hallelujah yeah well I want to welcome all of you to our

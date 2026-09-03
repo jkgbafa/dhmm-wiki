@@ -8,6 +8,8 @@ year: 2025
 duration_min: 27
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Amen. Amen. Now, how many want you to be learn how to be good pastors? Wow. I have six books. Exactly six books on how to be a good pastor. Amen. Number one is the art of shephering. Amen. Amen. The art of shephering. Number two, it is number two, the art of shephering. Number two is Leos lay people and the ministry. Amen. Lay people and the ministry. Number three, top 10 mistakes that pastors make. Look at it. This is how to be a good pastor. The top 10 mistakes that pastors make. Amen. Amen. Yes. And then

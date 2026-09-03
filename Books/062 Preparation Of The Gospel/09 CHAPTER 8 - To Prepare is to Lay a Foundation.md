@@ -4,6 +4,8 @@ book: "Preparation Of The Gospel"
 book_number: "062"
 chapter_number: 9
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Faith", "Ministry and Pastoring", "Salvation", "Salvation/Repentance"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/faith", "topic/ministry-and-pastoring", "topic/salvation", "topic/salvation/repentance"]
 ---
 
 ### CHAPTER 8 \

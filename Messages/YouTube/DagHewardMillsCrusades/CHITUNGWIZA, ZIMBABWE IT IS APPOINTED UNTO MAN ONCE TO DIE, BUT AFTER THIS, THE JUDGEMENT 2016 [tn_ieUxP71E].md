@@ -9,6 +9,8 @@ duration_min: 90
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/CHITUNGWIZA, ZIMBABWE  IT IS APPOINTED UNTO MAN ONCE TO DIE, BUT AFTER THIS, THE JUDGEMENT  2016 [tn_ieUxP71E]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Hallelujah Hallelujah so if you believe Jesus is here can you lift up your left hand and if you believe Jesus will touch you today lift up the right one and put your hands together for Jesus I can up in my acari no ray pan up she and the poor let's take it again go I can she quite changed oh just sooner she on dano no rabipa lift up your right and lift up right oh she on dano no raiban por caribas you don't dano no that no choice as a shot just on my can be

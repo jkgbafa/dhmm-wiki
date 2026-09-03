@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ngXmsIoMtZU"
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Yes, we're doing good in one do we want a hot so bam yes could it fire now a good time now yeah a good time a good time yes we didn't couldn't walk over in your man who so yes super man I didn't fight I could have you didn't couldn't you did go yet sir name aha you didn't couldn't say you didn't couldn't let you aha you didn't let you couldn't keep clapping your hands let's appreciate some of all the joy let your hand clap be louder because it's your way of welcoming my bless us with a song Jesus is the answer for the world today above him guest the water Jesus is the way Jesus is the answer for the world today above him, there's no one, Jesus is the way.

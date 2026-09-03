@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2019
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 to be deeper. Father, thank you for this blessing. We are grateful in Jesus' name. Amen. You may be seated. preparation of the gospel. To prepare means to rehearse ahead of time. So today's short session is about the preparation of rehearsal. Amen. Amen. Number one, 1st Samuel 17:32. And David said to Saul, "Let no man's heart fail because of him. Thy servant will go and fight with this Philistine." All right. And Saul said to David, "Thou are not able to go against him, for thou art a what? A youth." Amen. All right. No, a youth. Where

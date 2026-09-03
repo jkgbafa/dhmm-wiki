@@ -9,6 +9,8 @@ duration_min: 64
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SING OH BARREN!  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001 [jLnERgLVy88]]]"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Welcome to Christ number 27 apostles of thousands. How many believe that we can have a camp for the whole week instead of three days? Some people think that it's because of me that the campus for three days. So I was explaining to them that it's not because of me, but it's because of you, isn't it? You have to go to work and all that, isn't it?

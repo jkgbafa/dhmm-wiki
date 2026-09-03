@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=06jt4k4Q8uU"
 duration_min: 194
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Leadership", "Leadership/Art of Leadership", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/leadership", "topic/leadership/art-of-leadership", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 father we thank you for the opportunity in Jesus name Amen you may be seated right the main point we are looking at is the science or the act of leadership maybe I should change the name of the book to the science of leadership you can ask a student like that but it's both an art and a science it's both something that is natural you doing is also something you learn so I want you to learn it especially so that when you watch television you can see this is a bad move a bad leadership move but

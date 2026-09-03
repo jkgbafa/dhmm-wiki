@@ -4,6 +4,8 @@ book: "Enlargement Secrets"
 book_number: "075"
 chapter_number: 22
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ### CHAPTER 21\

@@ -8,6 +8,8 @@ year: 2018
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer"]
+tags: ["topic/anointing", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer"]
 ---
 
 Stand with me, please if you don't mind. We honor God 70 years. Take off. Bishop Doug, thank you so much. For this great privilege, great opportunity.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=nI5zF_s8MeY"
 duration_min: 75
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 come on keep the little shout hallelujah Jesus is our life death Us lost his fath and the grave has been denight come on Jesus said forever he's our he's Hallelujah Halle are Jesus is our life come on and that say Victory and the grave of spend Jesus lives forever Jesus lives forever he's our he's our he's the he's the no God the first and last is he s has broken we have perfectly the Lamb of God the Lamb of God has freen he's alive he's alive he's he's the he's the come on we have the

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2009
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 What devils are waiting for. What the devils in the church are waiting for. What are the devils in the church waiting for? So that they will manifest their manifest. Number one, disloyalty occurs, and I'm reading from page 118. Disloyalty occurs with the apparent weakening of a leader. Yeah. What it means to have a devil in your church. What are they waiting for? When Jesus said to Judas, "One of you is a devil." What was Judas waiting for? To show his devil. What was he waiting? Everybody looks nice in the church, but they are waiting for

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=PWVCF252NBg"
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 nicknamed the dance tonight this night of miracle at the colorful Carnot anything nothing was going wrong but the understanding no make you dominate the fly and Omeyer it's all common sense prowl in pairs humans the eyes of some kind to find now now now you know why Wattrelos good time and it should launch now that you know why it's a night half an hour yes but when they have this point at 6 of its best stadiums and everything is a stage group because it's written it's the same yesterday today in Wichita and its Mail Noche

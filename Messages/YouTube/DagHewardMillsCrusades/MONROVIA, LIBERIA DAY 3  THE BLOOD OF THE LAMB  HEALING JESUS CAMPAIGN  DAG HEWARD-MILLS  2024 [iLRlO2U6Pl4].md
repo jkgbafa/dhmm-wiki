@@ -8,6 +8,8 @@ year: 2024
 duration_min: 124
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 God is going to bless you in a major way Hallelujah but first I want you to help me welcome sister Vivaldi Joy oh come on come on come on come on come on Moria you die you dieo you die shout for Jesus do you believe Jesus is here do you believe Jesus will touch you you may scream oh yes what a shock what a shock what a shocker shock what a shock shock we praise we PR oh I'm oh pull your hand pull your hand everybody saying Jesus oh Jesus we praise your name oh Jesus

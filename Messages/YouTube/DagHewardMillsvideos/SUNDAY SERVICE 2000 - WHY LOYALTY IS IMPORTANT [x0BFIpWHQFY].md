@@ -8,6 +8,8 @@ year: 2000
 duration_min: 39
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 man we thank the Lord for this morning I believe this morning God has a wedding season for us to give us direction and give us wisdom to apply in our everyday situation we have a man of God whom we love to hear and to receive his ministry because it's ministry with power and wisdom amen I believe that this morning our lives are going to be affected my life keeps changing every day and every time I hear and keep soaking in the tapes and the messages and I believe your life will be totally transformed Anabelle say

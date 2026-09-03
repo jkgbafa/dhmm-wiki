@@ -9,6 +9,8 @@ duration_min: 101
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE MYSTERY OF THE SCRIPTURES  THE POWER OF GOD  MARYLAND, USA  DAG HEWARD-MILLS  2002 [lICw2DRS0gc]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 Welcome to chapter three of the mysteries of God, you will be able to work with him. Are you there? So when you don't understand a mystery, um it's difficult. So there are many mysterious things. I don't know how many we can go through, but we'll just go through as many as we can, and then um we'll be done.

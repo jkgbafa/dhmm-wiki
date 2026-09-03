@@ -8,6 +8,8 @@ year: 2024
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Group your music. Level. Oh sh Oh. Oh. Oh. Oh. level. Amen. Ask that prayer. Rather glory. Santa. Oh, yeah. Yeah. Oh, you tell you the best. Glor. Oh go Yeah. La go Tell you now to the best keep it yellow to your face. Hey, you are to set me on to the professor to remember Remember to mechan yellow. together. Now, Hallelujah. Hallelujah. Hallelujah. Are you ready for what God has for us these three nights? God has sent a servant to us here. A man carrying his power and his word. He's here to minister to us.

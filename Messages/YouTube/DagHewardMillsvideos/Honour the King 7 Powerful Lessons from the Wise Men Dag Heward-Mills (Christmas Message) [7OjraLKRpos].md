@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7OjraLKRpos"
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 What a blessing. Father, thanks for your help today. In the name of Jesus, we pray. Thanks for another Christmas together. We're grateful in Jesus' name.

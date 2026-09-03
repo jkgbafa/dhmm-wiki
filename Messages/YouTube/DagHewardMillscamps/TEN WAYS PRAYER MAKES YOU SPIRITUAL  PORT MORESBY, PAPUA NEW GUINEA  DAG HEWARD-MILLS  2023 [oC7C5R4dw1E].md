@@ -8,6 +8,8 @@ year: 2023
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 now how does prayer make you spiritual I want to show you 10 ways in which prayer makes you spiritual amen number one it makes you into a man of Faith so every Pastor who does not pray is not a man of Faith you are you are you are just a man of natural thinking Luke 18:1 and he spake a parable unto them saying there was in a city a judge who did not fear God neither regarded man and there was a widow in that City and she came unto him saying avenge me of my adversary

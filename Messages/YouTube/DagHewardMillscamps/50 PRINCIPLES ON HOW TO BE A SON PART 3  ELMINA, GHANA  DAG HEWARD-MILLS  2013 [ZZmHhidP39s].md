@@ -8,6 +8,8 @@ year: 2013
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 what kind of hardness in the ministry what kind of hardness hardness in what areas hardness in follow up in prayer in fasting and what is the rule for hardness if if if it if it's to be done it must be done no if it can be done it must be done if if it can be done it must be done if it can be done it must be done yeah if if you can fast for 40 days then we must fast for 40 days to see how it is done too much now who else had

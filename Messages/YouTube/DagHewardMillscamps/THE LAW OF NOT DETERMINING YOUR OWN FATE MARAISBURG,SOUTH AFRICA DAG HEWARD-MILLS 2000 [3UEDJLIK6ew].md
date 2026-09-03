@@ -8,6 +8,8 @@ year: 2000
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 The Christian military. There's the law of the law of the law of not determining your own faith. Turn with me to Luke chapter 7. How many have bought some books? How many have not bought some books?

@@ -8,6 +8,8 @@ year: 2014
 duration_min: 146
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 Oh, I believe that it's time for fresh oil. God is about to pour his fresh oil on us. Fresh oil for fresh exploits. Lancion fresh for the novel fresh oil for fresh exploits. A fresh anointing.

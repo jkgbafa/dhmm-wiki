@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=EkNCGpY7-CA"
 duration_min: 18
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 foreign to be Resolute for a change to be unperturbed by discomfort to see hope and run towards it this journey brings hope joy laughter healing and the life-changing message of Jesus to thousands of people across Northern Ghana this is the healing Jesus campaign the northern Crusade spearheaded by evangelist dacuid Mills the healing Jesus campaign initiative is an international Evangelistic Outreach that holds large open-air campaigns in cities towns and Villages across Nations during these campaigns evangelist Stagg preaches the gospel to many thousands of people and prays for the sick the locals also receive free medical care

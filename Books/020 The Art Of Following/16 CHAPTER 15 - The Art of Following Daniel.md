@@ -4,6 +4,8 @@ book: "The Art Of Following"
 book_number: "020"
 chapter_number: 16
 type: book
+topics: ["Fasting", "Prayer"]
+tags: ["topic/fasting", "topic/prayer"]
 ---
 
 ### CHAPTER 15\

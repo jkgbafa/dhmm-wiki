@@ -9,6 +9,8 @@ duration_min: 153
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/BLOEMFONTEIN, SOUTH AFRICA  JESUS CHRIST AND JAIRUS' DAUGHTER  DAG HEWARD-MILLS  2015 [As5kviY37Xg]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Why don't you give Jesus the best shot of praise? Come on, get a lot of shit. Let's have your voice I say we source it. Everybody lift up your eyes and I say we don't like so la chess so we for this. Jesus of Jesus Jesus of Jesus Jesus every knee every knee Jesus improved for day Jesus every knee shall and every time Jesus did you hear that Jesus and every time Jesus I tell you Jesus every time Jesus shall confess Jesus as my Jesus that your Jesus that our Jesus lift up your two hands

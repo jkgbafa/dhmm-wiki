@@ -8,6 +8,8 @@ year: 2023
 duration_min: 36
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 now to conclude to conclude yes we to conclude to conclude I want to say one thing ready in shows hmm chapter 53 seconds a good General knows how to overcome Superior enemies and stalemates um now beginning from tomorrow morning what is a superior enemy Superior first Samuel 17 verse 2 soul and the men of Israel gathered and a Philistine stood on a mountain and then went out a champion of the camp of the Philistines named Goliath Savory Goliath in your tent dude Goliath in your house when you get home is you watch is going to

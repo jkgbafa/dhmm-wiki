@@ -9,6 +9,8 @@ duration_min: 86
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MASTER BELIEVE IN GOD  GENEVA, SWITZERLAND  DAG HEWARD-MILLS  2016 [NyryK4jA1XY]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer"]
 ---
 
 Welcome to check number 10 of Sterread. Step number six. Clear numero six. Believe in God. Croy on you.

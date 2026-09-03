@@ -8,6 +8,8 @@ year: 2012
 duration_min: 101
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 You may be seated. At this point, there should be no talking and moving around at all. I never meant to temp any movement. If you are standing out there, I want to advise you to find a place to sit tonight. It is better for you to sit down to receive the word of God than to be standing.

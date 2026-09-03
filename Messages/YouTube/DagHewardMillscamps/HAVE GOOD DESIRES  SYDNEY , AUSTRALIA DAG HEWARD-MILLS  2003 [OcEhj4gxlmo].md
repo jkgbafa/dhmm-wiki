@@ -8,6 +8,8 @@ year: 2003
 duration_min: 16
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Vision and Direction"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/vision-and-direction"]
 ---
 
 welcome to track number 17 of how to survive in Ephesus of a bishop he desireth a good work amen amen now God wants us to have good desires amen amen and one of the desires we should have is that we should have our vision to be to become a bishop a bishop means an overseer of souls amen when you see the word Bishop in the Bible is different from the word Bishop today I word Bishop today in the church world and the English speaking world stands for a pastor who oversees a group of churches amen

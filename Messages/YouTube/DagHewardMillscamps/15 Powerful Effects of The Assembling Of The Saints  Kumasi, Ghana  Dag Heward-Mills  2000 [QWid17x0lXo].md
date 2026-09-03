@@ -8,6 +8,8 @@ year: 2000
 duration_min: 150
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 amen amen I'm giving you more definitions about six definitions of exaltation number two it means to encourage somebody Under Pressure someone under pressure to encourage someone under pressure a lot of people are under pressure when they come to the church there is exaltation there is a lot of encouragement for people who are under pressure perhaps you are under pressure to marry the wrong person perhaps you are under pressure to do wrong things but when you come as you come and there's an exaltation you are lifted from the pressure that is upon you perhaps your parents

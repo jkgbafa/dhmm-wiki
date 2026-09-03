@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2024
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Wisdom"]
+tags: ["topic/loyalty-and-disloyalty", "topic/wisdom"]
 ---
 
 Number five, wisdom will guarantee you victory in every battle. Whatever battle you are having, if you are battling poverty, you are battling the sun, you are battling the land, the Bible says in Proverbs 24:5, "A wise man is strong, yet a a man of knowledge increasth strength." So actually wisdom makes you strong. Wow. And Ecclesiastes 7:1 19 it says, "Wisdom strengthenth the wise more than 10 mighty men which are in the city." Now let's take the church. When you take books on loyalty, do you see? Doctor, can you help me with those who accuse you,

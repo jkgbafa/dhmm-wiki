@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_DsWnY5uUK8"
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 I can only let's pray Heavenly Father thank you so much for your word today not as we receive your holy word this morning we ask that you give us humility and help us to be humble we should rather pray that we may walk in your word and receive your word believe your word flow in your word thank you for your blessing today in Jesus name Amen right turn with me to Hebrews I'm preaching about prosperity with a purpose the purpose and the prosperity prosperity and the purpose the purpose and the prosperity prosperity which has a

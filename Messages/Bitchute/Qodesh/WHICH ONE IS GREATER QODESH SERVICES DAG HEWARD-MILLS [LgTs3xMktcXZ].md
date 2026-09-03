@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/LgTs3xMktcXZ/"
 duration_min: 92
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 You are warmly welcome today. We are in white because we are celebrating the resurrection of Jesus. For those of you watching on TV, if you are wearing blue, when change and wear something white, because white symbolizes victory. And I see victory coming to you wherever you are in your homes. Hallelujah.

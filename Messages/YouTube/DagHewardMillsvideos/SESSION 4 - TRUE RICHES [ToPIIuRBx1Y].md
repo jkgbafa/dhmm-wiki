@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ToPIIuRBx1Y"
 duration_min: 53
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father we thank you in Jesus name for your blessing Lord amen you may be seated John easy to look 16 let's recess look 18 verse 24 it says and Jesus looked at him and said how hard it is for those who are wealthy to enter the kingdom of God it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God amen we'll remember that verse then go to 16 I in Luke 16 okay now that's ten it says then he was faithful in

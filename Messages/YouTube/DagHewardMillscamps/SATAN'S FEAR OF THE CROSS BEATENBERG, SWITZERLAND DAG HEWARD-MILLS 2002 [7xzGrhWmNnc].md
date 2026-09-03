@@ -9,6 +9,8 @@ duration_min: 21
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SATAN'S FEAR OF THE CROSS    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002 [7xzGrhWmNnc]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to try number 11 of life in the church. Now the last reason why you must be involved with the cross is because Satan is afraid of this cross idea. Amen. Are you there? Turn with me to Matthew chapter 16.

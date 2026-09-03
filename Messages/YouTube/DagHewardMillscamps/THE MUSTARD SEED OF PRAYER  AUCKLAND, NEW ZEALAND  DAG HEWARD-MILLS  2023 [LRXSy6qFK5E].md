@@ -8,6 +8,8 @@ year: 2023
 duration_min: 29
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Proverbs 24 and verse 33 and 34 yet a little sleep a little slumber and a little holding of the hands to sleep go back to verse 33 yet a little sleep yet a little Slumber and yet a little holding of the hands to sleep what is going to happen ver 34 so shall thy poverty as one that travel what is a traveler when somebody comes to your house knocking in the middle of the night and you and you look and you say who is it oh it is your cousin or your friend with his bags

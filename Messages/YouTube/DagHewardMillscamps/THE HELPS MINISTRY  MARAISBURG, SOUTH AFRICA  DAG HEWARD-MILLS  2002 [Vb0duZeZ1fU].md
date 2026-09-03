@@ -8,6 +8,8 @@ year: 2002
 duration_min: 24
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number five of Grace and peace a new subject right here to the helps Ministry amen amen did you remember we read it helps was one of them and helps is an important aspect of the ministry helps is something that you do to help amen and to lift and to take further and many of of us must understand that many many more people will be in help's Ministry than in any other thing you can help in music help in finances help in ushering help in caretaking help in advice so many forms of help

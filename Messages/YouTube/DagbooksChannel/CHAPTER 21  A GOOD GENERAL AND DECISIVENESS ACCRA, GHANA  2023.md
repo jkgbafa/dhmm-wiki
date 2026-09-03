@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 Father, thank you for the mighty presence of your spirit in the name of Jesus. Amen. You may be seated. Chapter 21. We are going up to chapter 76. A good general and decisiveness James 1 verse8 a doubleminded man is unstable in all his ways. Amen. Amen. Listen, God is a God who takes decisions. It is not a good thing for you to balance in between two opinions. The Bible says, "How long will you go between two opinions?" How long? Elijah came to all the people and said, "How long ye between two opinions? opinion, two opinions

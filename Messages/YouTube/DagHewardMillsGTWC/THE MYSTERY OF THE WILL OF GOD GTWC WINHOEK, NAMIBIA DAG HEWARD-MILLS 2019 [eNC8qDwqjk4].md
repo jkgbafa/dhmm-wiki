@@ -8,6 +8,8 @@ year: 2019
 duration_min: 154
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Vision and Direction", "Vision and Direction/Hearing God", "Vision and Direction/The Will of God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/vision-and-direction/the-will-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Want to thank the Lord right now. I want to lift up your hands and thank him for what he has in store for you. What is coming your way? What is coming your way? That is going to revolutionize your ministry.

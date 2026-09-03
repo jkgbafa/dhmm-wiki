@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2024
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 I want us to continue now. I have another topic to discuss. I'm now talking about formulas for judgment. Someone said amen to me. Amen. The formula for judgment. Alleluia. Now, what is the formula ? Exodus 21 22. OK. Exodus 21-22. We'll read up to 27. Let's begin. The Bible says, "If men quarrel and injure a pregnant woman and cause her to give birth without any other injury, they shall be punished with a fine imposed by the woman's husband and they shall now appear before the judges . But if there is an injury, you shall give

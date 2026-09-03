@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u83d6/"
 duration_min: 41
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Father, we thank you for this morning. Thank you for your word. Thank you for the opportunity to do what you have called us to do. We pray for grace and for humility as we try to be faithful in the calling. Thank you, Lord, in the name of Jesus.

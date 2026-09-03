@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2011
 source: "autocaption"
+topics: ["Anointing", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/the-holy-spirit"]
 ---
 
 And let us pray. Heavenly Father, thank you for today. Thank you for your great blessing. Thank you for your word. We ask you to lead us by your holy spirit. Let your will be done. We lift our hands and we thank you for your presence here. Thank you for your power. Thank you for the Holy Spirit. Thank you Lord for teaching us. Thank you for guiding us. Holy Spirit, we love you. Thank you Jesus. We appreciate you. We thank you for dying for us. Thank you for saving us. Thank you for coming. Thank you for

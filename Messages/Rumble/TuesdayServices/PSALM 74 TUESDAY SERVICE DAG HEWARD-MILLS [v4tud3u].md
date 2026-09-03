@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tud3u/"
 duration_min: 63
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, we thank you for this evening. We pray that your spirit will guide us. Let your will be done in Jesus' name. Amen. Please be seated.

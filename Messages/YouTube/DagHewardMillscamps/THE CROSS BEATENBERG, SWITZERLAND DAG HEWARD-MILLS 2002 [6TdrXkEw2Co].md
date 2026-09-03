@@ -9,6 +9,8 @@ duration_min: 33
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE CROSS    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002 [6TdrXkEw2Co]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Welcome to track number 10 of life in the church, the cross. Point number two. That is all that is just one point. The cross of Jesus Christ will make you fruitful. The cross of Jesus Christ will make you fruitful.

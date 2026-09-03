@@ -9,6 +9,8 @@ duration_min: 62
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HOW TO SURVIVE IN EPHESUS  SYDNEY , AUSTRALIA DAG HEWARD-MILLS  2003 [_X9OqxbwK-8]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 Welcome to track number one of how to survive in Ephesus. And the ladies will sing, make me pure in heart. Make my heart faithful and faithful and true. So when you look at me, it's your righteousness you see. Lord make me pure in heart.

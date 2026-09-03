@@ -4,6 +4,8 @@ book: "Amplify Your Ministry"
 book_number: "011"
 chapter_number: 2
 type: book
+topics: ["Anointing", "Ministry and Pastoring", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ## Chapter 1

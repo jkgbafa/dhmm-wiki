@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jB2T3sIidwM"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 morning morning when I always knew how much of what you how easy to play when I try to do morning should I go I any place that you do a little walk hello where are you I love talking ah put your hands like a Oh father we thank you for today the opportunity that we have to receive your word we ask you to speak to our hand and let your will be done in Jesus name Amen yeah from long years up to five at 16 reach it and I want you to just listen carefully to

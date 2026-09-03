@@ -8,6 +8,8 @@ year: 2024
 duration_min: 27
 source: "autocaption"
 match: "exact"
+topics: ["Fasting", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/fasting", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 y element number number six frequent fasting stand to your feet and let's pray about this one before frequent what fasting fasting you want to be involved in God's work without fasting resign now bring your paper bring your paper now lift up your hands and pray for a moment I am all right y elements number six second Corinthians chapter 12 in weariness and painfulness in watchings often in hunger and thirst in fastings often in cold and nakedness now it is young people who even take up fasting as a challenge and as something exciting that they are

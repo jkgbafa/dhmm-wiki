@@ -8,6 +8,8 @@ year: 1999
 duration_min: 38
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 John chapter 2 my topic I'm going to begin sharing on is entitled prosperity anywhere anytime in other words can you prosper anywhere and can you prosper at any time do you understand the very important question that John Chaput where best to hedge on page 1 302 quickly turn to page 1302 3rd John verse 2 the elder unto the world beloved girl whom I love in the truth amen now verse 2 says beloved I wish above all things that thou mayest prosper and be in health even as thy soul prospers amen beloved have you found that

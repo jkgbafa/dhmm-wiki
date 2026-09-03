@@ -7,6 +7,8 @@ url: "https://rumble.com/v4txs00/"
 duration_min: 137
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 There is a longing. Only you can stay a raging tempest, a raging tempest, only you can fail. My soul is thirsty, Lord to know you as I'm known. Drink from the river, drink from the river that flows before your throne. There is a longing, there is a longing, only you can fail, a raging tempest, only you can stay.

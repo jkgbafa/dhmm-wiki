@@ -4,6 +4,8 @@ book: "Daughter You Can Make It"
 book_number: "048"
 chapter_number: 11
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 # Chapter 8

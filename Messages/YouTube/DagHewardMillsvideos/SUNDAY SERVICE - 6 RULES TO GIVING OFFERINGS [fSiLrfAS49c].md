@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=fSiLrfAS49c"
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh Oh Austin Oh me Mirko mommy go oh yeah why thank you planet father thank you for an opportunity to give and as we give the you costs our see to bring forth a great harvest president shaken together and running over we thank you for an opportunity to give we thank you Lord in Jesus name Amen all right hallelujah this morning we want to say yes to the will of the Lord somebody say Amen it's my prayer that as we sing this song we shall be moved in our heart to say yes to the will

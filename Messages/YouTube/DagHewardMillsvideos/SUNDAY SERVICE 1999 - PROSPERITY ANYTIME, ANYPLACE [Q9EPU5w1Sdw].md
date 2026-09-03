@@ -8,6 +8,8 @@ year: 1999
 duration_min: 32
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 paraty anytime anywhere is a question and also a statement in other words can you prosper anywhere and the other question is can you prosper at any time and this is what we want to study turn with me to Genesis chapter 26 then it says chapter 26 now the last time we look at them what you call it different and we look at the differences that exist in the earth if you can remember we've talked about the fact that Noah I spoke a cat on his one of his children or his grandchildren and and the case

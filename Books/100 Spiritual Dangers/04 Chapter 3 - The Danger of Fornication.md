@@ -4,6 +4,8 @@ book: "Spiritual Dangers"
 book_number: "100"
 chapter_number: 4
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ## Chapter 3

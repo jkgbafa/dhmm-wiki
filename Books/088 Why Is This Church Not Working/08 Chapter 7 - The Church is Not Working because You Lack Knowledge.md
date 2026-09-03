@@ -4,6 +4,8 @@ book: "Why Is This Church Not Working"
 book_number: "088"
 chapter_number: 8
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 ### Chapter 7\

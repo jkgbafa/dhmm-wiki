@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/4BYldjywAZwk/"
 duration_min: 45
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Leadership"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/leadership"]
 ---
 
 Hebrews 5, verse 4. No man taketh dish honor unto himself, but he that is called of God as was Aaron. So also Christ glorified on himself to be made a high priest. But he that said unto him, Thou art my son, today have I begotten thee. As he also saith in another place, thou am a priest forever, after the order of Melchizedek.

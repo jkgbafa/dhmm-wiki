@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-J6FQ0kANWo"
 duration_min: 235
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 First Timothy 4:8 says that godliness is profitable unto all things for bodily exercise profited little those of you who don't go to the gym it is biblical bodily exercise it is needed small but we need it those of you don't J those of you at the back over you don't J you don't exercise bodily exercise it profits you little and that little we need it tell anybody we need it good then it says that but godliness which is spiritual exercise another version says spiritual exercise it leads to profit and to all things so the more

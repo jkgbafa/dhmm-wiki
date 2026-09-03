@@ -9,6 +9,8 @@ duration_min: 115
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE VISION FOR THE MEGA CHURCH  TORONTO, CANADA DAG HEWARD-MILLS  2002 [opsQdsrnePQ]]]"
+topics: ["Church Growth", "Church Growth/Mega Church", "Church Growth/Visitation and Follow-up", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel", "Vision and Direction"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/church-growth/visitation-and-follow-up", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel", "topic/vision-and-direction"]
 ---
 
 Track number one of the megachurch share your word in Jesus' name. We pray that your spirit will lead us into all of your will, and we thank you for good things that are taking place in our heart in our lives in Jesus' name. Amen. You may be seated. It is good to be here with you again in Canada.

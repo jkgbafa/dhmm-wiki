@@ -4,6 +4,8 @@ book: "The Big Secret Your Ministry Depends On Books"
 book_number: "097"
 chapter_number: 5
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ### Chapter 4\

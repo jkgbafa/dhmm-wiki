@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=i_d6PgPnEwc"
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wisdom"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wisdom"]
 ---
 
 father thanks a million for this great blessing in Jesus name amen you may be seated thank you this is a book in French I'm born General I'm born General is it correct okay what it what does it mean what is as wise what it means to be as wise as come on very powerful make sure you get this and it's not in the marcario amen amen now I was sharing with you about loyalty about um becoming the wisdom of faithfulness and in the wisdom of faithfulness we really need to establish the importance of the the

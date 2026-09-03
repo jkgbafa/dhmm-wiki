@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=apxsI7sjC7M"
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Don't be afraid to go on missions. Hallelujah. Hallelujah. Don't be afraid to also choose your mission. Hallelujah. Don't be afraid of your mission. Hallelujah. Your mission is your glory. Hallelujah. Your mission is your glory. That's what's going to bring glory to your life. If you are afraid of your mission, you are afraid of your own prosperity and your own greatness that God has in store for you. When I sent you, when I sent you, lack you anything. When I sent you, was there a day that you lack anything? Is discontentment that makes us granted and

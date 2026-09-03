@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=fUAdKgfiz6M"
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Jesus sh the center of my joy all that's good and perfect comes from you show the heart of my contentment and hope for all I do Jesus you're the center of my joy when I lost my direction you're the compass for my way Jo the fire and Light my RS along the way in sadness you are the laughter that shatters all my feet when I'm all alone your hand is near to hold Jesus just Des send you are the center of my joy all this good yeah come from you say all the goodness come from

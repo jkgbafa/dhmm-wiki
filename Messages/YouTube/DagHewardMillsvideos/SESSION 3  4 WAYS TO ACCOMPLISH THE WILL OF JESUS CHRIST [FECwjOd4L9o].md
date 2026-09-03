@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=FECwjOd4L9o"
 duration_min: 221
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you know I said I said holy God Oh I bet I beautiful wonderful small that we had our tonight beautiful you are so beautiful you are so beautiful you are so beautiful then both are very simple along with me do us all good he was beautiful he was beautiful Oh Oh whoa Oh I Oh oh yeah ah I adore me you are beautiful you are Oh Oh Oh but Oh what a plan to me Oh God hey let me Oh that'd be a goal if all the way let's go bless you chief we saw his

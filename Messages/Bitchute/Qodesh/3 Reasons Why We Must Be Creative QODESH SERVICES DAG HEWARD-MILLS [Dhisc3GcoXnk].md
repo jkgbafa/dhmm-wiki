@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/Dhisc3GcoXnk/"
 duration_min: 42
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Come closer to me. Love sir to me. I want to heal you. And I want to touch you. All those doubts and all those feeds that you've had down through the years.

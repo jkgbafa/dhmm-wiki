@@ -9,6 +9,8 @@ duration_min: 116
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MAPUTSOE, LESOTHO  JOHN 316  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2016 [FPE39XOoBtg]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Jesus is here right now He is here to meet your need to set the captives free Jesus He is here right now if you feel all hope is gone and the battle is already lost and depression threatens your very soul Jesus will reach into your life you take the dark life away Oh Jesus He is here right now Oh I believe that Jesus is here right now Oh He's already here Jesus is here right now He is here to meet your need and to set the captives free Jesus is here right now if you feel

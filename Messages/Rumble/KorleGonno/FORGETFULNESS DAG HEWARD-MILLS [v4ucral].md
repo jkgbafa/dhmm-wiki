@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ucral/"
 duration_min: 30
 source: "whisper"
 match: "exact"
+topics: ["Fasting"]
+tags: ["topic/fasting"]
 ---
 
 Symptoms of backsliding. And I want to continue ministering about that. Hallelujah. Hallelujah. The next symptom of backsliding.

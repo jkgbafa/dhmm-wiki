@@ -8,6 +8,8 @@ year: 2024
 duration_min: 182
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Prayer/Praying in Tongues", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Jesus loves me this I know for the Bible tells me so little ones to him belong they are weak but he strong yes Jesus Loves Me Oh yes Jesus Loves Me Oh yes Jesus loves me for the Bible tells me so Jesus Loves Me He Who died Heaven gate to open wide he will was away my sins let his little child coming oh yes Jesus Loves Me Oh yes Jesus Loves Me Oh Oh yes Jesus loves me for the Bible tell me for the Bible tell me I know the B tell me are you ready

@@ -8,6 +8,8 @@ year: 2000
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 The work of the ministry. Ministry. What is ministry? What do you do? Alright.

@@ -9,6 +9,8 @@ duration_min: 127
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/BANJUL, GAMBIA  THE LOVE OF GOD  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2012 [poVtQBsWqz4]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Hallelujah Hallelujah. Are you excited tonight? Falcon Sudanaban. It is time to touch open heavens. Put your dancing shoes in place.

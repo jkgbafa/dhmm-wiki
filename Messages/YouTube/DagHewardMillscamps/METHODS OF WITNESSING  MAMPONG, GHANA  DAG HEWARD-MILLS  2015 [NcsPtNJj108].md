@@ -8,6 +8,8 @@ year: 2015
 duration_min: 176
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Salvation", "Salvation/Repentance", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/salvation", "topic/salvation/repentance", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Hallelujah next one all right glory to God Lord thank you for that advice W okay where were we what was the last one a great invitation the next one is the next witness witnessing method or message that you you need to know is behold I stand at the door and knock behold so you you read Revelations 3 verse 20 and you say behold I stand at the door and knock If any man hear my voice and open I will come into him and St with him and he with me wow so number one God is

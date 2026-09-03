@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=WqW6KyFYWjM"
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 sit down in central revelation chapter 20 now Revelation chapter 20 verse 1 and I thought this come down from heaven having the key of the bottomless pit and a great chain in his hand amen and he laid hold on the dragon that old serpent which is the devil and Satan and bound him a thousand years and cast him into the bottomless pit and shut him up and set a seal upon him that he should deceive the nation's No More so that thousand years should be fulfilled and after that he must be loosed a little season

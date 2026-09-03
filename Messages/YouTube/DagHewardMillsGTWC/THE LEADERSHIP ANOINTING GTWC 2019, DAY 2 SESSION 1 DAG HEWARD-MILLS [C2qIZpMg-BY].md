@@ -8,6 +8,8 @@ year: 2019
 duration_min: 181
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Leadership", "Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/leadership", "topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wisdom"]
 ---
 
 Father in heaven, how we love you. Father in heaven, how we love you, we leave your name in all the kingdom be established in our praises as your people declare as your people declare your mighty words, oh bless the be the Lord, almighty, oh who says to come, oh bless that be the Lord, Lord Almighty Who forever, blessed be the Lord of Almighty, bless up be the Lord the mighty oh must easy to come less that be the mighty oh rest forever Father in heaven, how we love you, Father in heaven, how we love you, we lift your name in all the earth, we lift your name in all can you lift your hands to him as you worship him now?

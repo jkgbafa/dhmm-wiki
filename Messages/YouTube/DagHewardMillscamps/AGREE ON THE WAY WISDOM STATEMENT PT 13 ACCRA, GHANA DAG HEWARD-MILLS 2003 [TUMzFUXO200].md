@@ -9,6 +9,8 @@ duration_min: 17
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/AGREE ON THE WAY WISDOM STATEMENT PT 13  ACCRA, GHANA  DAG HEWARD-MILLS  2003 [TUMzFUXO200]]]"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Welcome to fact number 13 of a green on the way. Childhood and youth are vanity. Well, you see a child playing around and youthfulness, and so you realize that it's it's useless. When you can't you see them dancing, this you see people walking uselessness, uselessness. People will bring their father's cards to come and screech.

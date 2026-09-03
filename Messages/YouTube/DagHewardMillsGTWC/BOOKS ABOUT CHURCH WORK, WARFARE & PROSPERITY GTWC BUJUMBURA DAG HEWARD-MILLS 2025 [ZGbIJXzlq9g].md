@@ -9,6 +9,8 @@ duration_min: 94
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/BOOKS ABOUT CHURCH WORK, WARFARE & PROSPERITY  GTWC BUJUMBURA  DAG HEWARD-MILLS  2025 [ZGbIJXzlq9g]]]"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Wow. Please stand to your feet. I want us to give a warm appreciation to our mother, the first lady. I want to thank you for your very kind and welcoming words. For me into your great pulpit in this very beautiful church building.

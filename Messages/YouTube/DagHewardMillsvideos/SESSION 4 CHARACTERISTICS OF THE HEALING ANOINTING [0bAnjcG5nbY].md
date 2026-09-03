@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=0bAnjcG5nbY"
 duration_min: 184
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 ah amazing my god he's amazing are you clapping for the law I asked are you clapping for the law is that the best you can do for the law in reality and in truth is that the best the bubble test work you have all these people and south of the God with the voice of Breyer the voice of fryer I said the price of rider as price of writer I set the voice of dryer then what is the miss of these people the Lord is in the middle people the Lord is in the little people

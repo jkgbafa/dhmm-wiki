@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2sPWx8OunP0"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 Hallelujah It's a piece of paper, I see it, that grew under Firefox, that will face the profession, to you, made up in Trèbes, shouted, go ahead, on the way there, and well [ Music] It still lasts, I bless you, 30 at the bar, bending, in suffering, the tube is to arrive all the time, there isn't so much as an imam, we're still on the roof Oh my god, it's you, I was blessed, frictions when the breath all Who goes as much, combo, you at my place, you don't have, going towards the earth when I drink,

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=rW-CYAgq2xc"
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism"]
 ---
 
 halleluyah halleluyah why don't you lift up your two hands like I'd put us together for true there that I realized Russell hallelujah Solera Cardenas salsas Rabbani Khar Sara dissing our Jesu no science or sir Dina gesture hoop be necessary ha ha crucial for us superbe ha ha Oh moody hallelujah do you believe we are either restaurant if you believe we are now under you super aggressive response just wrestle see you buddy the loader your responses off bye-bye whoa whoa hallelujah clap your hands for Jesus what a blessing to my crop is seated and you may

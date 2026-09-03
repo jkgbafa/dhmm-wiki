@@ -9,6 +9,8 @@ duration_min: 74
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THIS I KNOW, UNGRATEFULNESS  SYDNEY, AUSTRALIA  DAG HEWARD-MILLS  2004 [b6CWvsGMwjY]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 This I know hallelujah when you see it, you must say, this I know. Amen. Are you there? Very good. So we are going to start with Lucifer.

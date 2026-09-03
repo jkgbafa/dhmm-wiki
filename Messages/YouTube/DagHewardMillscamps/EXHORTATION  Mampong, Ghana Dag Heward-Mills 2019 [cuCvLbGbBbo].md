@@ -8,6 +8,8 @@ year: 2019
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/prayer", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 lift your hands to Jesus he is Lord and He is he has from the day and he is and he is Lord for every KNE every KNE shall every time and every time that Jesus Jes Christ is Lord CHR if you believe this to us let's sing it one more time he is Lord he is Lord he alone is Lord he is is Lord can you tell him why I say he is Lord can youbody tell him tell him this morning come on he is risen from the dead that makes him he is every KN

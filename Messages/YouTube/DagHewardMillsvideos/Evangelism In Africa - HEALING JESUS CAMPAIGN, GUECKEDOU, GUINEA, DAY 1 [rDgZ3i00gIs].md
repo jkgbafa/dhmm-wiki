@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=rDgZ3i00gIs"
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 schedule and renji possible economist Emma a guru God is going to give us a feast of miracles in Giga do Shiva mutiny in sesame Rock and get a two millisecond Arcola comma ylim okay guru hallelujah how many of you I expected your miracle tonight combien de novo I found on the rocks s la Mer forgetful oh come on I'm telling every impossible thing that has not been able to happen in Giga do God is going to do it in Giga doing these two days to chalky Airport if that what we could you not Coquina peculiar

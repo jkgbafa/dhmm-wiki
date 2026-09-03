@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=HyAaPln0Ogk"
 duration_min: 248
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Soul Winning and Evangelism/Witnessing", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/soul-winning-and-evangelism/witnessing", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 this morning I want us all to rise up and um come before God with Thanksgiving and come before him with praise if you don't mind why don't you turn your Bibles with me to 2 Corinthians chapter 4 and verse number 15 the Bible says all things are for your sakes that abundant grace might through the Thanksgiving of many redown to the glory of God hallelujah if you are watching us right now I want you to know that it's been by God's grace it's been by God's mercies that we are a part of this beautiful service

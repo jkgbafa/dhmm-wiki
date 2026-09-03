@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GUodf0VByPg"
 duration_min: 155
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 no just you know food dude I go up no matter what you do and I just the places would you do and they'd be asking what a pleasure to juice tea but effect this ain't that good give it a one a day behind guys dude give me that great set of fight like to weather give me that money and I'm find are cool yeah yeah if you got megatronics in children so we brought some wherever we go the bread of the student is healing so really we know no disease oh yeah we always do we

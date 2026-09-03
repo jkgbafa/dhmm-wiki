@@ -8,6 +8,8 @@ year: 2025
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit"]
 ---
 
 Tonight I want you to know that Jesus loves you and he loves you with a special love. God loves the whole world but you must open your heart to receive Jesus. Some night, any problem that 12 years ago Jesus healed you and Jesus set you free. Stand up and shout amen. Rise up, rise up, rise up, shout to the Lord. Jesus the Savior. Jesus the Savior. Heal me, Jesus. Free Jesus. Defender Jesus. There is no one, no one like Jesus. Your name is powerful. Get up, get up. Savior Jesus, healer. Jesus the healer. Jesus the

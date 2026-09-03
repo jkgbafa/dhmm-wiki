@@ -8,6 +8,8 @@ year: 2006
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Always been there for me for my everything I was lonely you know my foot to death shelves are from the rain and what you my life you are to me my everything and that is why I say Jesus because you care I thank you you are the joy of my salvation You're the peace in my storm Your loving arms protect me shelter me from harm you are all foreign omega beginning and the end strong tower my dearest and best friend and the world you my life you are my everything and that is why I say

@@ -8,6 +8,8 @@ year: 2022
 duration_min: 14
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 please be seated I just feel that we should pray amen amen but I I really feel that we should just pray about our Ministries and um the the the the teachings we've had are really very strong and very powerful you know and um we need to guide ourselves into this teaching through prayer so that it would not just be a public lecture you've had amen um many of us here don't know that your your life your life is connected your life when I say your life I mean your life you know your life your future

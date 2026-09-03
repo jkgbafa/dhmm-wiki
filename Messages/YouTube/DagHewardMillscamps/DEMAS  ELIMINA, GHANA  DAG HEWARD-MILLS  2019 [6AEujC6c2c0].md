@@ -8,6 +8,8 @@ year: 2019
 duration_min: 84
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 father we are grateful for the blessings that we have before your holy word in Jesus name amen you may be seated verse 9 2 Timothy chapter 4:9 do thy diligence to come shortly unto me amen amen do thy diligence to come shortly unto me all right now in the ministry right we have people that give instructions and people who receive instructions most of us are people who have to receive instructions yes so there are Paul's and there are Timothy yes and there are Pauls who give instructions and Timothy who follow instructions do thy diligence and

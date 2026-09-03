@@ -9,6 +9,8 @@ duration_min: 109
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/The Mindset of Church Planters  Mampong, Ghana  Dag Heward-Mills  2025 [oViP2S-0qRs]]]"
+topics: ["Church Growth", "Church Growth/Church Planting", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Let's pray. Father, thank you for this time. We are grateful in the name of Jesus Christ. Amen. Right.

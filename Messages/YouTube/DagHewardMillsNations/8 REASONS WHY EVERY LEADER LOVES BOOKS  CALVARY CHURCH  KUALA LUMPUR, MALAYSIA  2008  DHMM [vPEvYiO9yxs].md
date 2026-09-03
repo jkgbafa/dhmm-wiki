@@ -8,6 +8,8 @@ year: 2008
 duration_min: 52
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Leadership", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/leadership", "topic/ministry-and-pastoring"]
 ---
 
 the last session on this last session I want to share uh from this little book here the art of leadership um on eight reasons or reasons why every Pastor must read books amen there are more than eight reasons but I'm going to give you some of them and then we'll just pray and we are done for this conference amen how many have been blessed in the conference and I believe you are going to be blessed after the conference because of the books you know Jesus came to this world for three years but he left us

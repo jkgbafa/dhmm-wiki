@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=mlwADG9O_Ao"
 duration_min: 33
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Lift your hands watching wherever you are for the anointing. May you win your battles in every place and at every spiritual junction of your life of your calling on your road to the anointing. Jesus. Jesus. Jesus.

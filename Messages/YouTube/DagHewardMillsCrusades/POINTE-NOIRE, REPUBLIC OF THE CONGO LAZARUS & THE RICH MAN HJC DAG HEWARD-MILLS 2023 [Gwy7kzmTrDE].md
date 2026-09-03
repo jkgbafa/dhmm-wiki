@@ -8,6 +8,8 @@ year: 2023
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Everybody said Jesus. Is the Savior? He is the Sauveur. He is the healer. He is the guérisseur.

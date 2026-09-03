@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=0ybuc8DMM-w"
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 tonight I'm preaching from an old story that everybody knows well I don't know if you all do it but it's the story of the prodigal son this is a story that Jesus told us is that a second man had two sons and the younger of them said to his father father give me the portion of goods that falleth to me and he divided unto them his living and not many days after the younger son gathered all together and took his journey into a far country and there he wasted his substance with riotous living and when

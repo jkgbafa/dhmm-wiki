@@ -4,6 +4,8 @@ book: "Amplify Your Ministry"
 book_number: "011"
 chapter_number: 16
 type: book
+topics: ["Missions", "Missions/The Nations"]
+tags: ["topic/missions", "topic/missions/the-nations"]
 ---
 
 ## Chapter 15

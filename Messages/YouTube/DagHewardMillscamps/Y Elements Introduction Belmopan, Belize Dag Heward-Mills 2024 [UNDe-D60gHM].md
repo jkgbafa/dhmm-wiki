@@ -9,6 +9,8 @@ duration_min: 88
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Y Elements Introduction  Belmopan, Belize  Dag Heward-Mills  2024 [UNDe-D60gHM]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Hallelujah. Let us pray. Father, which are in heaven. Thank you for today. And thank you for blessing us and bringing us to this point.

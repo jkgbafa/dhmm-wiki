@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=UeJLCaC-rWY"
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 there's no how friend Oh ah got your body ha John chapter 5 and verse 1 Lord we this morning I want to welcome you to in the presence of the Lord I want to welcome you into the power of God today is Sunday and today the second Sunday of the month in this church is a service dedicated to ministering to the sheep Alleluia therefore we call it ministration Sunday a Sunday where we pray for let me just read a passage of Scripture quickly and then we'll go into prayer the Bible says and then and this

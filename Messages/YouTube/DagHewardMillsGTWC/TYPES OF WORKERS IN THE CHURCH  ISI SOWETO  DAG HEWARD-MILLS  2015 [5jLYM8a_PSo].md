@@ -8,6 +8,8 @@ year: 2015
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 You may be seated. I'm talking about the art of ministry. Types of workers in the church. Number one, workers who are sons and daughters. We need workers who are sons and daughters. Philippians 2:22. But you know the proof of him that as a son with the father, he had served me in the gospel. Amen. Amen. I mean, most of the people that work with me are working with me as my sons. Yes, they are my family. Philippians 2:20, you know the proof of him that as a son with the father, he has worked with me

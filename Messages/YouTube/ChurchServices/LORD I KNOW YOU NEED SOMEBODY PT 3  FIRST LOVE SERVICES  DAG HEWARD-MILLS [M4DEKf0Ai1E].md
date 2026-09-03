@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=M4DEKf0Ai1E"
 duration_min: 213
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Fix My Eyes on you the author of my faith casting aside every sin and every way I fix my eyes on you lay my burdens down letting the cures of this world now fade away let's sing I fix my eyes on you I fix my eyes on you the author of my faith the author of my f casting aside casting aside every sin and every way Lord I fix my eyes I fix my eyes on you lay my burdens down my letting the cures of this world not F away of this world I made a

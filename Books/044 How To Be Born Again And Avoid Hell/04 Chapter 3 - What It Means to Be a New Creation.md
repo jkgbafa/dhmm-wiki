@@ -4,6 +4,8 @@ book: "How To Be Born Again And Avoid Hell"
 book_number: "044"
 chapter_number: 4
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Chapter 3\

@@ -4,6 +4,8 @@ book: "Bearing Fruit"
 book_number: "120"
 chapter_number: 4
 type: book
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 ## Reasons Why You Should Bear Fruit

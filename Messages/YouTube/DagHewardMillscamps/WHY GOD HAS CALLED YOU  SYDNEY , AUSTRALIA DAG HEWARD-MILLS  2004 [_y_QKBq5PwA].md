@@ -8,6 +8,8 @@ year: 2004
 duration_min: 44
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number eight of barness and fruitfulness I'm forever grateful for the cross and I'm forever grateful to you that you came to seek and say the Lord I'm forever I'm forever grateful to you and now forever grateful for the cross of calvary We Are Forever grateful to you that you came that you came to seek and sa the Lord and I'm forever grateful I'm forever great to you and I'm forever great I'm forever for the cross I'm forever Greatful to you let you came you came to seek and save the Lord oh I'm

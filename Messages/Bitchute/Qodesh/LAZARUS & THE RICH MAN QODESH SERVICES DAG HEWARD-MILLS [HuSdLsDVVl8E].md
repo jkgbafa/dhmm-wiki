@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/HuSdLsDVVl8E/"
 duration_min: 54
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 This morning I am sharing about take up your cross, sacrificing and suffering for Jesus Christ. Amen. Matthew chapter 16, verse 24. It says, then Jesus said unto his disciples, if any man will come after me, let him deny himself and take up his cross and follow me. Amen.

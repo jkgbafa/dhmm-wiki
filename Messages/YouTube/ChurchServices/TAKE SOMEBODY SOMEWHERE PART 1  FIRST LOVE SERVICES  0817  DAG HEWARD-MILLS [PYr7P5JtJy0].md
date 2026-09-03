@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=PYr7P5JtJy0"
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Children and Parenting", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Salvation", "Salvation/The New Birth", "Vision and Direction", "Vision and Direction/Hearing God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/salvation", "topic/salvation/the-new-birth", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 this is just a freestyle man money beats Yeah Boy testimonies tonon ton ton I need a house and you give it to me I need a Col you give it to me anything I want you they give everything I am bring them back said I won't try to ever chop my ti I bring to you I going to bring to you my everything my testimonies testimony testimonies T testimony testimonies testimonies I'm doing you wrong but still blessing me all my friends and my family they give up on me you give meance chasing me you good

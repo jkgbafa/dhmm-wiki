@@ -8,6 +8,8 @@ year: 2006
 duration_min: 144
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 Hallelujah. Amen. Right. Um, I'm trying to show you something. We will not be able to finish because I can see the lots of time.

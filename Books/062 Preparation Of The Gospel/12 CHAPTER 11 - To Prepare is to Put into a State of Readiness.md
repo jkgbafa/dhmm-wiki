@@ -4,6 +4,8 @@ book: "Preparation Of The Gospel"
 book_number: "062"
 chapter_number: 12
 type: book
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 ### CHAPTER 11 \

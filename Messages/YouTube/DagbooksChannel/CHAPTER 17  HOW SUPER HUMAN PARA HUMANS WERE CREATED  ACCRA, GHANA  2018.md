@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2018
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Now, chapter 6 verse one. And it came to pass that when men began to multiply on the face of the earth, and daughters were born unto them, that the sons of God saw the daughters of men, that they were fair. Now change it to the living Bible. Let's see what they have to say there. The sons of God saw the beautiful women. So the sons of God are spiritual beings who we know are not human beings. saw the beautiful women and took wives of them. Amen. Wow. Elohim, sons of Elohim. Yeah. Now, and the Lord

@@ -9,6 +9,8 @@ duration_min: 14
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/CHOOSE HARD AND DIFFICULT THINGS  GTWC BLANTYRE  DAG HEWARD-MILLS  2025 [-gU4nuooNXg]]]"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 Let us pray. Father, thank you for the blessing of today. We ask for your guidance, your mighty Holy Spirit to lead us and to speak into our lives into our hearts. We love you, Father. Thank you.

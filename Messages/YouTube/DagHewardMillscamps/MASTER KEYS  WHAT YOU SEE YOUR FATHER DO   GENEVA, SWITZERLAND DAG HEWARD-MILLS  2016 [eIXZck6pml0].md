@@ -8,6 +8,8 @@ year: 2016
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number six of stura nobody can heal out our Soul's diseases nobody oh nobody there's nobody nobody like Jesus no no not one no not one nobody can heal my my soul's disease no no no no not one no not one no no no no no no no no not one no no not one there's nobody nobody like Jesus no no not one no no not one nobody can heal I CH diseases no not one no no no not one oh no not I've been around the world and I I can't find nobody

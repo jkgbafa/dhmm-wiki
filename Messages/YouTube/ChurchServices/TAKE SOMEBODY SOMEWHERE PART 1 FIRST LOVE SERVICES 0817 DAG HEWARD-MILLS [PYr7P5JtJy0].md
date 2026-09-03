@@ -8,6 +8,8 @@ duration_min: 165
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/TAKE SOMEBODY SOMEWHERE PART 1  FIRST LOVE SERVICES  0817  DAG HEWARD-MILLS [PYr7P5JtJy0]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Children and Parenting", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Salvation", "Salvation/The New Birth", "Vision and Direction", "Vision and Direction/Hearing God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/salvation", "topic/salvation/the-new-birth", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 This is just a freestyle, man. Money beats. Kings give. Yeah, boy. Let's go.

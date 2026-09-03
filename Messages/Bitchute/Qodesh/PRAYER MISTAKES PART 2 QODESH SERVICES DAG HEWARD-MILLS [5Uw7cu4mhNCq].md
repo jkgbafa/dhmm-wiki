@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/5Uw7cu4mhNCq/"
 duration_min: 116
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 That he died on the cross for us. Lord, we worship you this morning. As we sing to the Lord, just for me, just for me. Oh, just for me. Jesus came.

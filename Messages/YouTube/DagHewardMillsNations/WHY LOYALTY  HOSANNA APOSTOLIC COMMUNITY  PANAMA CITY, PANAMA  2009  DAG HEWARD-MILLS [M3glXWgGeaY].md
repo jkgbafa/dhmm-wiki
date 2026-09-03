@@ -8,6 +8,8 @@ year: 2009
 duration_min: 67
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Prayer"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/prayer"]
 ---
 
 hallelujah hallelujah let's pray lift your hands for your blessing this morning thank you for your grace your power to change our lives our ministry to make us bear fruits thank you Jesus J for great blessing in this church and on every Minister every church that is represented in this great conference Holy Spirit have your way in Jesus name amen amen God bless you you may be seated it's a great blessing to be here I want to thank Pastor Alvarez for the great privilege to be here and I came along with some of my pastors fromia

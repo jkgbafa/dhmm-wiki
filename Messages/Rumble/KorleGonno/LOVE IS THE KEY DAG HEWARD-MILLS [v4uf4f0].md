@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uf4f0/"
 duration_min: 70
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/faith", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Sing hallelujah for the very last time singing again sing hallelujah oh Satura Naya We oh Namia Pa sorry oh yes Oh na song we oh Namiya We love the Lord Ya go to oh yeah Oh naya so yeah to oh yeah so singing again we oh Ya me oh Nammiya to we find We go away Oh we singing again we glory Glorify the name of the Lord Oh we go ahead Singing again we glorify We glorify your name Oh we back Sing again we bless you bless you Oh we blast your singing again we bless

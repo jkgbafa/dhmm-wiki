@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2xHbFr01g-0"
 duration_min: 46
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 father we thank you for your blessing for your wear today we pray Lord for humility as we come before your word we ask law that you lead us in all truth and bless us Lord help us Lord to we see what you have for us and to grow in the name of Jesus thank you dear Lord and everyone said amen you may be seated in the presence of the Lord a many how to live the life is the title of our series turn with me to Hebrews Hebrews how to live how many want to know

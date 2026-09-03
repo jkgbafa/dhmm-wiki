@@ -7,6 +7,8 @@ url: "https://rumble.com/v4txvnx/"
 duration_min: 138
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 It's a fragrant breeze. It is blowing once again. Come on. I don't know where we come from. And I don't know where it goes.

@@ -8,6 +8,8 @@ year: 2014
 duration_min: 176
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Faith", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/church-growth", "topic/faith", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 the court would be in session but I wouldn't be there so then the judge will call me asking me where I am and it was difficult for me to tell him that I'm at the camp meeting so I had to come up with the clever answers wow it's very personal um if I tell you you will be embarrassed to hear why I was not there that was what Bishop said I should tell him yeah don't lie so should told the judge that it's a personal reason she can't say if I tell you you'll be embarrassed

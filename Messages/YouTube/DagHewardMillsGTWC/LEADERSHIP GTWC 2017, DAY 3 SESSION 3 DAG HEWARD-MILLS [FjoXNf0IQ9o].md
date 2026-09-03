@@ -8,6 +8,8 @@ year: 2017
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 Before we take our lunch break. Avant de prendre la pause du déjeuner. Um I want to say something. Concerning the leadership. Are you there?

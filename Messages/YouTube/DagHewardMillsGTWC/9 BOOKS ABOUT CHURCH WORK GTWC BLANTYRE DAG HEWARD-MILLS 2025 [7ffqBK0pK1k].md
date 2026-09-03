@@ -9,6 +9,8 @@ duration_min: 63
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/9 BOOKS ABOUT CHURCH WORK  GTWC BLANTYRE   DAG HEWARD-MILLS  2025 [7ffqBK0pK1k]]]"
+topics: ["Church Growth"]
+tags: ["topic/church-growth"]
 ---
 
 This morning, Mama, I honor the fathers who have graced this amazing conference with their presence. The honor I am bestowing is not just a formality. But it is necessary. The fathers of the house. It is their toil.

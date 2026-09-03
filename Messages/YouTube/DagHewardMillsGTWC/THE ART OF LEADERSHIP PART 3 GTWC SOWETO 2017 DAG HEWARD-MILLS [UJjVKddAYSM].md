@@ -8,6 +8,8 @@ year: 2017
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 I received a call from God the other day. I was just a young person. He spoke to me and said, My child, you are mine. You must work and you must preach. Do you know the secret of prosperity?

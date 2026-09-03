@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_rczzDUdC4s"
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 thank you Lord for now the word ashamed it means to feel shame distressed or embarrassed by feelings of foolishness or guilt amen so when we say we are not ashamed it means we are not feeling distressed or foolish amen amen do you feel distressed or embarrassed by God by the church by what God has done for us no we cannot and that's what Paul was saying in Romans 1:16 we are not ashamed we are not ashamed we don't feel feelings of distress we are not distressed or embarrassed by God and by the church and by

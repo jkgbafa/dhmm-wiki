@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hyQStQncpN0"
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Backsliding", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/salvation", "topic/salvation/backsliding", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 let us pray father thank you so much for this morning thank you for the opportunity that we have to come before you to hear your word and to receive direction from you we ask that you guide us lead us into all truth we are thanking you Lord in Jesus name thank you lord amen you may be seated tell me me to Matthew chapter 24 and I want to read scripture there my message is entitled do not backslide in the year 2008 do not backslide in the year 2008 or in the year 2009 and Matthew 24

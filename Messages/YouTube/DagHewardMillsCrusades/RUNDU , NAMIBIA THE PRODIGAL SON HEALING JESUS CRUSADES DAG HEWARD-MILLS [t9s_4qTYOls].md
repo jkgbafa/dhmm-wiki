@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=t9s_4qTYOls"
 duration_min: 179
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 If you believe tonight is a blessed night in Rundu and I'm going to come. I know that something special is a money on. If you believe it, shout Hallelujah. I want to welcome you tonight. To the first night of healing Jesus campaign.

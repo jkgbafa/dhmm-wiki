@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=5c37T1BeAkI"
 duration_min: 154
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 you worship the Lord just close your eyes how much you love him and how much you meet you just put the ISIS of your hand and begin to worship we love you Lord we love you Lord all thank you for your presence here with us thank you for your mercy thank you for your grace we bless your name Oh God there is a place a place that stays here in your presence Lord your presence Lord here in your friend but fears fade away please update oh here in your presence Lord there is the place come

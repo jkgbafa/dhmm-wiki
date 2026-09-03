@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t90pz/"
 duration_min: 163
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Vision and Direction", "Vision and Direction/Hearing God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I said we are walking in victory. I want us to confess again that I am a new creation. All things are passed away. All things are become new. Are you a new creation?

@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/Hd2Phxr5eWWx/"
 duration_min: 64
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Let's pray. Father, thank you for this great opportunity that has been given to us at this time. We are thankful, we are grateful, we honor you, we love you, and we ask that you bless us, keep us, help us to walk in your ways, and help us to experience your will and your word beautifully to us. We receive it, Lord. We walk in it.

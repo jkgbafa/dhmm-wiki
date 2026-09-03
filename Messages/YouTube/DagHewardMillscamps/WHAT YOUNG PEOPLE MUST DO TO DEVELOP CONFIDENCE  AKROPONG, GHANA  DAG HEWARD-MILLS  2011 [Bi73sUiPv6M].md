@@ -8,6 +8,8 @@ year: 2011
 duration_min: 190
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 what young people must do to develop confidence amen how many are young people do you want to have confidence step number one get married step number one get married amen amen as soon as you get married you become responsible and you enter a different category in the society one day I was with a bank manager and the bank manager or chairman was telling me how a bank manager is chosen the B and he was saying that they have to choose somebody who is married yes because when a person is married has so many implications and

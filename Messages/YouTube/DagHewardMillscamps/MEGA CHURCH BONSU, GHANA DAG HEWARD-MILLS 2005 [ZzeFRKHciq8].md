@@ -9,6 +9,8 @@ duration_min: 164
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MEGA CHURCH  BONSU, GHANA  DAG HEWARD-MILLS  2005 [ZzeFRKHciq8]]]"
+topics: ["Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Prayer/All-night Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/prayer/all-night-prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Welcome to track number one Apostolization, Heavenly Father. Thank you for the blessing we have in this camp meeting. And thank you for your presence and the ability to succeed and to do well in your sight. In Jesus' name. Amen.

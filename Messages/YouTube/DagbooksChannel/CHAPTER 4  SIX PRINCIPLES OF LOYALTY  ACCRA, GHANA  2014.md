@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2014
 source: "autocaption"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 Loyalty allows the leader to know the wrongdoers. 1 Corinthians 51. It is actually reported that there is sexual immorality among you, and of a kind that is not tolerated among the pagans. It has reached the point where one of you has his father's wife. Hallelujah! When you are loyal to someone, you tend to expose problems to the person to whom you are loyal. Hallelujah! It is very dangerous to have people around you who distribute or provoke disloyalty because these people destroy the atmosphere and ambiance in the church. Amen. Genesis 37 verse 2. This is the

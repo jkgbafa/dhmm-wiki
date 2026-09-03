@@ -8,6 +8,8 @@ year: 2008
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hing Shepherds hirings you know what a Hing is h h i r e Ling hling John chapter 10 verse 11 and the Good Shepherd the Good Shepherd lays down his life for the Sheep he who is a what higher L do you see it there do you see the word there hling H Ling someone who is hired is that not so for what he who is a Hired Hand and not a Shepherd who is not the owner of the sheep sees the wolf coming and leaves the sheep and flees and the the wolf snatches them

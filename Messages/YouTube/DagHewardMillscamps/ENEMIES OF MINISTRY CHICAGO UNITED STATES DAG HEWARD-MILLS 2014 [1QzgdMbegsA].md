@@ -9,6 +9,8 @@ duration_min: 150
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/ENEMIES OF MINISTRY  CHICAGO  UNITED STATES   DAG HEWARD-MILLS  2014 [1QzgdMbegsA]]]"
+topics: ["Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I need to feel your presence. I need to know your power. Feel me now with more of you. Oh, I need to see your glory. I want to know your will.

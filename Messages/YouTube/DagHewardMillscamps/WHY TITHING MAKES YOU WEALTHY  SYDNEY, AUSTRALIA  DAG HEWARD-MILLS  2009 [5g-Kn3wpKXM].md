@@ -8,6 +8,8 @@ year: 2009
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 father thank you in Jesus name amen amen okay you may be seated no Abraham tithed amen now I'm going to show you why TI makes you wealthy what what are the questions no because it's a long thing so I I will just do a little bit so maybe if I have some of the questions or just one question I think old T okay all right so now tithing okay is um important and mysterious okay pain TI now it is mysterious in the sense that it creates wealth wow so I want to show you why tithing

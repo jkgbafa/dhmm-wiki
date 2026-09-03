@@ -8,6 +8,8 @@ year: 2024
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Marriage and Family", "Marriage and Family/Children and Parenting", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 hasn't gravitate towards you so I personally honor this man and his multifaceted gift highly highly anointed I've been a Christian for a long time I have met many many individuals with vared anointings but the anointing here is a special special anointing we love it it makes us follow hard that's why we are all here from different nations different cities I don't think really you came for anything else other than to get impacted and hear this great man of God teach the word and man you can listen to him for hours and ending as he teaches

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2013
 source: "autocaption"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 The next thing to find is the purpose of God. The next thing is also the mission. They are virtually together. But what is purpose? What is purpose? Purpose is the reason for the things that are being done. You see most of us do not understand God and understand his will for our lives. We need to understand the will of God for our lives. So we can understand his purpose. Proverbs chapter 16 and verse number four. The Lord has made everything for its own purpose, even the wicked for the day of evil. God is making things.

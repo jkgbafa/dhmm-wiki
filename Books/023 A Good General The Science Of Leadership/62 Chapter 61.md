@@ -4,6 +4,8 @@ book: "A Good General The Science Of Leadership"
 book_number: "023"
 chapter_number: 62
 type: book
+topics: ["Leadership", "Leadership/Generals and History Makers", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 ### Chapter 61\

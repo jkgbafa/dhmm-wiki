@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2018
 source: "autocaption"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 My subject is fighting devils. Now what we must um realize is that we are fighting devils. So we need to fight the devils very well. Are you with me? Yes. Now Luke 4 verse 2. Being 40 days tempted of the devil. And in those days he did eat nothing. Now Jesus and when they were ended, he afterward hungered. Three things that I want you to recognize and notice. All right? And what are the three things? Number one, the devil said unto him, "If thou be the son of God, command this stone that it be made

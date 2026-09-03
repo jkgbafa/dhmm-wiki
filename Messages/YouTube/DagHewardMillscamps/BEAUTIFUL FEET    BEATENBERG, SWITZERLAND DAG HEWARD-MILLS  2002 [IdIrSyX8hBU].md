@@ -8,6 +8,8 @@ year: 2002
 duration_min: 65
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Prayer"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/prayer"]
 ---
 
 welcome to track number seven of life in the church to deserve to know you Lord what have we done to deserve to know you you we thank you Father help us to help many others to also know you to love you to serve you in Jesus name amen God bless you you may be seated all right are you ready tell somebody get ready ready get ready ready Hallelujah now listen you know what I want your absolute wrapped at to who is the one who makes coffee here I need tell the person I see it I

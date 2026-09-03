@@ -8,6 +8,8 @@ year: 2022
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Alléluia aujourd'hui c'est dernier jour cria pour Jésus crois cria pour Jésus tu as besoin de sauver tu as besoin du salut son nom est Jésus Dieu va toucher ta vie écoutez tu as besoin du sauveur son nom est Jésus tu as besoin du salut ça dépend de toi si tu mets aujourd'hui où est ce que tu ira ira tu au ciel ou en enfer Jésus levez la main ton Seigneur ta paix plus fort plus fort ne le rejette pas reçois Jésus la Bible nous dit si tu reçois Jésus tu seras sauvé vive sous cette il

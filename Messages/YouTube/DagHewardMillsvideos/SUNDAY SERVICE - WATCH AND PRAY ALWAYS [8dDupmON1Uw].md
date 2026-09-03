@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8dDupmON1Uw"
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 anybody anybody anybody take me I wanna thank you I heard the king can heal broken heart take me play he can put Michael my that's the torn apart baby play only he can supply mine me take me take me to Jesus take me hang me money take me take me I wanna go anybody hang me anybody take me I wanna know where Jesus I wanna go can anybody baby I wanna go he knows my future he knows my path Hey he already had amen I don't go gumbo amen has God been good to you this

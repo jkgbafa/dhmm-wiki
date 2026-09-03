@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tXARa7IWxB4"
 duration_min: 134
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Church Growth/Visitation and Follow-up", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/church-growth/visitation-and-follow-up", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 why why is it important for you to have that fishes to ask a big change that is we have so I will share that you 2003 this one you must have a mega church or pictures in 25 reasons why you must ask a mega church number one you must have a big church because that is the right fishes for Augustus in it the judge that sees that correct officially for you if you don't have a mission of the rock which that one for the pastor and I ask what is your vision you know vision of

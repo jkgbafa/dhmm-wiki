@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=uuYZc3NUUyA"
 duration_min: 3
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Proverbs 28 verse 9 He that turneth away his ear from hearing He that turneth his ear away from hearing Oh, you're not getting the message Oh, I say are you getting it He that turns his ear away He that stops listening He that doesn't listen He that listens and stops listening He that turneth his ear away from hearing Even his prowess shall be an abomination Things don't work at all When you turn And you see, it is you who have turned your ear away Because you say, oh, I know this one Turn your ear away You should only not hear Unless the Lord says don't hear Like he showed me Listen to this man up to a point Don't follow it fully Because he knows me Once I start to follow you You never see the end of me I'm too hard a follower I have too many questions to ask Bishop Poyen DePo said He wants his church to grow And he said he wants to be blessed by the largest church in the world Yon-Gi Cho He didn't have enough books He got a book on Yon-Gi Cho's One of Yon-Gi Cho's books And he made photocopies And shared to all his pastors And gave it to them Go and study this And come back in two weeks Let us see what we are missing in our church Let's do what?

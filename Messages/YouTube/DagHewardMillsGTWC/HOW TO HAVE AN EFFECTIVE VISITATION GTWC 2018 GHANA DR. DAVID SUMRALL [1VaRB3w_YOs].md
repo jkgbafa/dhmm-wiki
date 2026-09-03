@@ -8,6 +8,8 @@ year: 2018
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Well would you shout one more time in the house? Now what you do not know is that 1300 kilometers. So may I be very selfish for just a moment. And ask you to speak one word to my congregation. It's the word Mabuhai.

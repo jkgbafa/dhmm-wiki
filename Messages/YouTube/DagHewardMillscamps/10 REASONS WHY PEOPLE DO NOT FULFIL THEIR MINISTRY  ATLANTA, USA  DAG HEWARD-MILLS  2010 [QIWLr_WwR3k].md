@@ -8,6 +8,8 @@ year: 2010
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 number one people who do not fulfill their Destiny are driven away from God's Will by Demons of fear now how many of you remember the story of the parable when Jesus Christ gave one two talents five talents 10 talents now the Bible says that God has not given us the spirit of fear but I want to say that the will of God often looks fearful many people don't realize that the will of God looks fearful if you remember Rick joiner's book on the final quest there were certain doors that people had to enter and the

@@ -9,6 +9,8 @@ duration_min: 31
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Church Planting and the Tent Ministry  Mampong, Ghana  Dag Heward-Mills  2025 [ajqbjG6Mwa0]]]"
+topics: ["Church Growth", "Church Growth/Church Planting", "Ministry and Pastoring"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/ministry-and-pastoring"]
 ---
 
 Now Acts chapter 18. Now this church planting group. I want to take you to um Greece. Will you go? Will you go to Greece?

@@ -9,6 +9,8 @@ duration_min: 72
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/AGREE ON THE WAY WISDOM STATEMENT PART 1   ACCRA, GHANA  DAG HEWARD-MILLS  2003 [y7-NPZk7Zt8]]]"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Welcome to track number two of agree on the way. Okay, Ecclesiastes. The verse four. Let's all read together. Yeah.

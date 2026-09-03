@@ -8,6 +8,8 @@ year: 2018
 duration_min: 137
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 I have an announcement to make this morning. How many of you are ready for that announcement? The announcement is that this week marks the beginning of the next phase of your life in the ministry. The events of this week. The events of this week.

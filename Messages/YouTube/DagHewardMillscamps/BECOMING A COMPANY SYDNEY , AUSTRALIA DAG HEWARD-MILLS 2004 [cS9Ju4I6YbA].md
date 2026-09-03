@@ -8,6 +8,8 @@ year: 2004
 duration_min: 73
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer"]
 ---
 
 Welcome to track number seven of barrenness and fruitfulness. My subject is becoming a company. Becoming a company. Hallelujah. Hallelujah.

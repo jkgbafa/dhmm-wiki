@@ -9,6 +9,8 @@ duration_min: 108
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/HOW TO BUILD A CHURCH  GTWC SRI LANKA  DAG HEWARD-MILLS  2018 [qJmkPO5x0UA]]]"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Mama the Vish take a canangini make a matter Gana Ratatihama egg on Duipaka kiding and the Lamanani Mangita Hari Andin no Nikila. Now we share the shirt porti and Ghana not like an Allah Kartra would know what you do on that. Now the answer is Sutiman to know the Vienna Mahansy Patangaranti and Degana. They were meeting the Guru Sando Shapodigreen. Mama then began in Namut Maguma De Mai Devian Mahanseke watching the Vyan Mahansapatakata no quarter.

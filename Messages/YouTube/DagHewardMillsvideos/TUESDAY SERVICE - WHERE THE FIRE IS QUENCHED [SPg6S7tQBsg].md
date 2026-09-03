@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SPg6S7tQBsg"
 duration_min: 135
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 my mama or Oh Oh Oh we piss upon the super high jeez we you are yeah we will ah and as we worship Oh we applaud you we we play and a and there are we we were ah saw the world come on Oh yeah ha and Oh Oh well Oh Wow me and Oh ah eggplant Oh Elmo season and they complain in the middle of people allowed to light of all heal and deliver they in a massager people we must be we are all healthy thank you you're the son of the living I Jesus

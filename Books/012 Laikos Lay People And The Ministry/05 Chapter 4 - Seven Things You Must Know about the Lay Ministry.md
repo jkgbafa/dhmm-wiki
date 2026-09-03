@@ -4,6 +4,8 @@ book: "Laikos Lay People And The Ministry"
 book_number: "012"
 chapter_number: 5
 type: book
+topics: ["Church Growth", "Church Growth/Church Planting", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 ### Chapter 4\

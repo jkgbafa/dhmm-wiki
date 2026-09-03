@@ -9,6 +9,8 @@ duration_min: 124
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/TWIFO PRASO, GHANA DAY 3 THE PRODIGAL SON HJC DAG HEWARD-MILLS 2014 [SpRR4NtQBGY]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 hallelujah hallelujah and now hey for yes know yes know Hallelujah for spe come on come Jesus Come On Jesus I you trumpet you trumpet say Jesus everybody shout Jesus everybody shout Jesus somebody shout Jesus come on Jesus everybody shout Jesus somebody shout Jesus everybody Jesus somebody Comey come on do it do it do it do it yes sir yes sir shout Jesus somebody shout Jesus he h oh best yes C could hallelujah amen I want everyone to stand tonight the atmosphere is chared already the Ang are here and his servant is ready the man he

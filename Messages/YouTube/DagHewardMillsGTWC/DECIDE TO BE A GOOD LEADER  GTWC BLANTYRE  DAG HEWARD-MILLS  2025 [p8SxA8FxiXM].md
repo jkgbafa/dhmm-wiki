@@ -8,6 +8,8 @@ year: 2025
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 You may be seated. Now I want us to get into what it means to be a leader. Hallelujah. So the art of leadership Amen. Amen. Number one, everything depends on the leadership. Amen. Which means that which means that the leader is really the reason for what we see or what we don't see. Amen. So in our African context, we can see that leadership leads is the reason for things. We have some countries that had a leadership of a certain style and then they were rich countries since independence. Most of us, most of our nations have

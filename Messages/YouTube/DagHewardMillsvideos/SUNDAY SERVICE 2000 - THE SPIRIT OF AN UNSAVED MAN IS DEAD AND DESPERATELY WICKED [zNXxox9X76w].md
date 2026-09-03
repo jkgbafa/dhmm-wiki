@@ -8,6 +8,8 @@ year: 2000
 duration_min: 47
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 let's share what a prayer father thank you for this morning we thank you for an opportunity where we can receive your word we humble understand what you are saying and grow in you we worship you dear Lord we pray for the spirit of Revelation wisdom in the knowledge of you Thank You father in Jesus name Amen you may be seated in the presence of the Lord we are studying the seven great principals hallelujah how many were here when we studied the seven great principals give me a wave so we want to encourage every one of

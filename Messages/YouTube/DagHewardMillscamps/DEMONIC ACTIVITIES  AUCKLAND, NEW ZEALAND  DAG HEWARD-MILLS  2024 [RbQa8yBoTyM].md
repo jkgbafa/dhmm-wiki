@@ -8,6 +8,8 @@ year: 2024
 duration_min: 70
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 father thank you for this amazing experience in the name of Jesus amen amen you may be seated Ephesians chapter 6 now yesterday what was I sharing with you about the morning prayer topics pray who changing the sound again it was working you just did something you didn't do anything hello all right topics Ephesians chapter 6 Ephesians chapter 6 verse 12 verse 11 put on the whole armor of God that you may be able to withstand against the Ws of the devil amen amen now in the realm of the spirit with there is a war going

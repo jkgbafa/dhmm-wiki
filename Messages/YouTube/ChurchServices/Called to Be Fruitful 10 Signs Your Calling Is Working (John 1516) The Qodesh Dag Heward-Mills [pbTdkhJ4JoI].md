@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=pbTdkhJ4JoI"
 duration_min: 59
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 Brief time here tonight is about the call. What is the call for? What is God calling you for? What is he calling you to? Amen.

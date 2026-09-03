@@ -9,6 +9,8 @@ duration_min: 47
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WALKING WORTHY  MARAISBURG, SOUTH AFRICA  DAG HEWARD-MILLS  2002 [OMDKxMP2T04]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 Father, we thank you for your word today as we receive your word, Lord. We thank you for your blessing in the name of Jesus. Amen. You may be seated for a moment. Alright.

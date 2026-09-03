@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MRaWwqwIeUc"
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Missions", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/missions", "topic/prayer"]
 ---
 
 glory to God now we are not ashamed number 20 two number 23 we are not ashamed of our church growth strategies now what are our church growth strategies strategy number one is pvci strategy number two is shabby shepherding must go these are the two big strategies for church growth that God has given to us so we are not ashamed of our church grow strategies because in Isaiah chapter number two verse number one one the Bible says the word of the Lord that came to Amos saying verse number two and it shall come to pass in

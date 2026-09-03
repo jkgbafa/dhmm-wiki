@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=OS3E6IrMcH4"
 duration_min: 12
 source: "autocaption"
 match: "fuzzy"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Prayer/Praying in Tongues", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 oh continue Clapping Your Hands continue Clapping Your Hands you may be seated we're going to pray amen so as you are seated just begin to pray in tongues ask your name excuse me do you pray in tongues do you pray in tongues all right then let's stand to our feet and pray in tongues let's stand to our feet and pray in tongues just pray in the spirit let's pray in the spirit let's pray in the spirit pray lift your hands and pray in the spirit something is happening to your life in the spirit as you

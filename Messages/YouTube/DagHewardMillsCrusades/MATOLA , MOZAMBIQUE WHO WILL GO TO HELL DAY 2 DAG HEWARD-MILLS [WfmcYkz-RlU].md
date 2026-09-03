@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=WfmcYkz-RlU"
 duration_min: 124
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Grita con force nisso prontos Annie Karatiwa ni Shikemboy Stop para o Seigneur Loko Nikumé Tambésote Nisa Kuransa Kukensakamalo Grita Grita Nisa Kuransa Kamalo Junisa Levanta età Grita pour Seigneur Accoutissant Gata comme ça Grita Jésus Matola Grita Jesus Grita Jesus Pastor Grita Jesus Grita Jesus Grita Jesus todos grita Jesus assez asine aside quando mencionamos quando mencionamos quando mencionamos au nome de Jesus todos sambi todos Toda lingua, toda la lingua, toda língua confessara, confessara que me Jesus, que ton Jesus, que nos Jesus, que nos Jesus estou Jesus, Jesus, todos vite Jesus, ma ton la Jesus na leche

@@ -9,6 +9,8 @@ duration_min: 11
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/RENAMING THE ROADS BY SATAN PT 2 MARYLAND, USA DAG HEWARD-MILLS 2003 [Dc55Kpoznb0]]]"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 welcome to track number 12 of gates and Roads amen amen amen so right here at the back of the book create everybody should be an atmosphere Creator kind of person for yourself music do you like music huh do you play music in your homes huh not always how many don't have a lot of music you know created and also there are some tapes that are very powerful spiritual some of this K Frankling and some of this music it doesn't really create a spiritual environment I mean I'm not criticizing them or saying that they are not

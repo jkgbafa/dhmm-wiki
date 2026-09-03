@@ -9,6 +9,8 @@ duration_min: 149
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MAHAJANGA, MADAGASCAR DAY 1  THE GOOD SAMARITAN  HJC  DAG HEWARD-MILLS  2023 [bXeyvkiLvOo]]]"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 C'est sous sous la condom, oh they're unconditional. Are you excited to be here tonight? I can't hear you. Are you excited to be here tonight? Show that you are excited by giving the Lord a loud shot.

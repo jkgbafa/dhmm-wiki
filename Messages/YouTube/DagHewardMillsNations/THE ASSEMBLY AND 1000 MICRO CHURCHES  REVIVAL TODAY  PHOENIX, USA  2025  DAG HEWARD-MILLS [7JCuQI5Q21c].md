@@ -8,6 +8,8 @@ year: 2025
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Father, thank you for the opportunity to be here to share your word. We are praying Lord Jesus that everyone here will be touched by your spirit to do your will to please you. We thank you. We are grateful in Jesus name. Amen. God bless you. You may be seated. Can I have the pulpit downstairs, please? Beautiful. Sorry for not using your stairs. It's a long way. Yes, sir. Hallelujah. Um, my subject is 1,000 microchurches. Amen. 1,000 microchurches. This is a pastor's meeting, ministry breakthrough. So I want to talk about the church. Matthew 16 and verse

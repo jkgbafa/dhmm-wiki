@@ -9,6 +9,8 @@ duration_min: 64
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EXPECT A MIRACLE OF HEALING SIGNS AND WONDERS  ST. JOHN'S, ANTIGUA  DAG HEWARD-MILLS  2024 [H9qkZyPKr3g]]]"
+topics: ["Anointing", "Prayer", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/prayer", "topic/the-holy-spirit"]
 ---
 
 Now we are moving to number seven. Our last point for our camp meeting. I expect the miracle of healing, signs and wonders. Amen. Now, beginning from tonight, miracles are going to start happening in your life.

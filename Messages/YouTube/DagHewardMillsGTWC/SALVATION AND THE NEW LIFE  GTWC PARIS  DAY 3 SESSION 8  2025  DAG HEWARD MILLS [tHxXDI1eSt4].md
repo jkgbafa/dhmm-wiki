@@ -9,6 +9,8 @@ duration_min: 6
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/SALVATION AND THE NEW LIFE GTWC PARIS DAY 3 SESSION 8 2025 DAG HEWARD MILLS [tHxXDI1eSt4]]]"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 Section number 7: Salvation and a New Life. I have a new life. Whoa! The new creation. Wow! I am a new creation, more in the realm of condemnation. In the grace of God, I stand. Do you know the music? Who knows how to sing it? Are you a singer? Take the microphone. A new creation. When a man is in Christ, he is a new creation. The old has passed away; behold, the new has come. You know, there are messages of the Gospel that you must preach. Preach about it. You tell people, I am a new

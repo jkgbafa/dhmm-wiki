@@ -8,6 +8,8 @@ year: 2013
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 glory be to God you guys are doing a great job now this morning I want us to press on and turn to Isaiah chapter 7 I want to show you two effects of prosperity one of these and I'm believing God that this is going to be the effect amen amen most people are affected negatively by being blessed wow all right are you there most people are affected negatively by being blessed they're affected negatively by coming to A America if you call that a blessing they affected negatively by becoming lawyers or doctors or having good jobs

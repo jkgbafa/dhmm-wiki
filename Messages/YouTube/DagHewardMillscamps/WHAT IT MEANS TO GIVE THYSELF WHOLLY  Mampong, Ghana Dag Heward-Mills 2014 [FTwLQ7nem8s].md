@@ -8,6 +8,8 @@ year: 2014
 duration_min: 184
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 this this come is yet another attempt God is making to let his will for your life be done amen you know God has a plan for our lives do you know he has a plan for your life as a law student he has a plan for your life as an engineering student but when we don't pray that will will not be done now that will of God for you and I is that we are priests let me tell you again you are not a banker or a future banker or a future computer you are a

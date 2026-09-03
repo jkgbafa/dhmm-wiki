@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2019
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Grace and peace be multiplied to you. And good morning. Do you know the person standing by your side? Sitting by your side. One of the doctrines that we are supposed to practice is fellowship. Can you greet somebody? I could I've seen you watch seeing look each other like strangers. Make sure you know somebody's name. It's very important. Ask their name, where they're from, and ask them to Amen. It's a great joy to be together. Yeah. Celebrate one another. Amen. Come on now. Let's celebrate one another this morning. It's a great joy to experience a wonderful

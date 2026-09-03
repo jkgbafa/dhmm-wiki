@@ -9,6 +9,8 @@ duration_min: 128
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/YouTube Channels by Bishop Joshua Heward-Mills Brussels, Belgium Dag Heward-Mills 2025 [nnZGgTTw_QQ]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Let's pray. Please, please go back to Jes. Thank you so much. Thank you, Lord. Please stand to your feet. Let's pray. Let's speak in tong for 10 seconds. Yes, Lord. Are you ready? Let's speak in tong for 10 seconds. Yes. Holy Spirit we welcome you. Holy Spirit welcome in Jesus name. Father thank you for this blessed time. Lord thank you especially for the time of invitation. Thank you that you have used your servant, the the chosen one for this house, for this family to impart a gift. Thank you that everyone at this camp is going

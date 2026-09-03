@@ -8,6 +8,8 @@ year: 2023
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 now in this second session I want to talk to you about what I call the campaign for church enlargement the campaign for enlargement amen 1 Corinthians chapter 16 and verse 9 it says for a great door and effectual is open unto me that is Paul saying this in the ministry but there are many adversaries amen am it says a great door and effectual is open unto me and there are many adversaries many now a campaign is an important activity all right a campaign is a systematic systematic everybody say systematic there's a systematic aggressive every everybody

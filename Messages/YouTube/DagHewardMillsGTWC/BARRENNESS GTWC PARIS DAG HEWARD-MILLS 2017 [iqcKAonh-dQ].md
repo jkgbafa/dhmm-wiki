@@ -8,6 +8,8 @@ year: 2017
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 And ladies and gentlemen. It's a great privilege for us today. It's a great privilege for experience give thyself holy Paris 2017. Are you ready for what God has for you? Oh, are you ready for what God has for you?

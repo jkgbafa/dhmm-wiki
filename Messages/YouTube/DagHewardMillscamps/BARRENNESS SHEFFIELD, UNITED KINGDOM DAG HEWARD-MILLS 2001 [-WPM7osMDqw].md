@@ -9,6 +9,8 @@ duration_min: 31
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/BARRENNESS  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001 [-WPM7osMDqw]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 Well track number 15 of parts of thousands, Lord. I thirst for you, and I long to be in your prayer. My soul will wait for you, Father. Draw me nearer, Father, draw too high. Now listen, this morning.

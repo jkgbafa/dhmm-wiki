@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ug4m3/"
 duration_min: 36
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Let's pray. Father, thank you for this morning. Thank you for your word to us. We thank you for an opportunity to be in your presence to receive your word to grow in you and to become what you want us to become. Hallowed be thy name in Jesus' name.

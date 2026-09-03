@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=mLCDP_4hvzs"
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 thank God for this morning what a blessing it is to be in the presence of the Lord just thank God for his Blessing on your life this morning what a blessing it is to be in the house of the Lord thank God that you are going to receive his word and your life is never going to be the same again thanks be to God which always causes us to Triumph thank you Lord for your great blessing thank you Lord for your great power we ask holy spirit that you fill us lead us bring us into

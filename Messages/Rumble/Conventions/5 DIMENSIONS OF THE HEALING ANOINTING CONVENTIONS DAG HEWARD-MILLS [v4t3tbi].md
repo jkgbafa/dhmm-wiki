@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t3tbi/"
 duration_min: 127
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Jesus said I stand would you please let me in your save I will tomorrow Jesus said I am he who supplies all your need but you say I know but tomorrow tomorrow I'll give my life tomorrow I've thought about today Oh please so easy God to say tomorrow I promise to morrow better give your life today for tomorrow very well my be too late Jesus said I stand would you please take my hand but you say I will tomorrow Jesus said I am here who supplies all your needs but you say I know but tomorrow

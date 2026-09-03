@@ -4,6 +4,8 @@ book: "Preparation Of The Gospel"
 book_number: "062"
 chapter_number: 11
 type: book
+topics: ["Faith", "Salvation", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/faith", "topic/salvation", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ### CHAPTER 10\

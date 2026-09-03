@@ -4,6 +4,8 @@ book: "Those Who Are Mad"
 book_number: "112"
 chapter_number: 24
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 ### CHAPTER 22\

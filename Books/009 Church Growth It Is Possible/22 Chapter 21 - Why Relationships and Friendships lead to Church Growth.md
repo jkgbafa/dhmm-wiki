@@ -4,6 +4,8 @@ book: "Church Growth It Is Possible"
 book_number: "009"
 chapter_number: 22
 type: book
+topics: ["Church Growth"]
+tags: ["topic/church-growth"]
 ---
 
 ## Chapter 21

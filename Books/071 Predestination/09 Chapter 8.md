@@ -4,6 +4,8 @@ book: "Predestination"
 book_number: "071"
 chapter_number: 9
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 ### Chapter 8\

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ItxEi1dz15M"
 duration_min: 204
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Soul Winning and Evangelism/Witnessing", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/soul-winning-and-evangelism/witnessing", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 well I will No I have made a try for you I my soul are you I will I have made you're wherever you may be I will go by a gentle stream my my the mighty bow or a valley dog in me now Shepherd of my floor will be my god oh you're you you I I have made a joy I will all by a gentle stream my god all by a gentle stream the bike or am I yeah hallelujah let us pray father thanks a million for this great opportunity that we have today please

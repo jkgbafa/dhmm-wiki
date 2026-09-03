@@ -8,6 +8,8 @@ year: 2008
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 do you know how to sing this song I am the Lord that Health thee let's sing it is sing it everybody me son of hallelujah hallelujah I want us all to sing it all of us sing is for be everybody lift your hands to the Lord let us pray heavenly father thank you for your healing power thank you for your Miracles tonight thank you that you touch every life tonight with your power with your blessing with your healing thank you holy spirit thank you Jesus for your blessing tonight the healing anointing change our lives by

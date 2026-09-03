@@ -8,6 +8,8 @@ year: 2013
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 see I remember you said that you will never leave me and in time of trouble you be my friend but sometimes doubt and fear they try to steal my face oh but I will run to you yes I will R to you oh and I'll just set aside the cares of this world and fall in love with you again I'll just throw away the Troubles of this world to fall in love with you see I know you said that I'm the apple of your eyes and for love in me you gave your life see sometimes

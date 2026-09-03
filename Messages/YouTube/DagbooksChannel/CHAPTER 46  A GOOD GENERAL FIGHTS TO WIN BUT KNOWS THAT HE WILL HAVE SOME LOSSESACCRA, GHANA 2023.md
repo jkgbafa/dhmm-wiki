@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 Hallelujah. Hallelujah. Lift your hands as we thank the Lord for today Jesus for your blessing, great guidance to our lives. We are grateful. We are grateful. We are grateful. We thank you, Lord. We thank you, Lord. We thank you, Lord. carino zend lady. Oh my sh Father, we are grateful. We are grateful. We are grateful for your mighty presence in Jesus name. Amen. Amen. All right. You may be seated. Now, today is our last day here. And um we are continuing on the good general. Where where did we get to? 24. 24. Yes. What? Amazing.

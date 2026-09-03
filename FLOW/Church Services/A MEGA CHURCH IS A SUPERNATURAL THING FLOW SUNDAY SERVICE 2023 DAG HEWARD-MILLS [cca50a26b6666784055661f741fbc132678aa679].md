@@ -8,6 +8,8 @@ year: 2023
 duration_min: 136
 source: "whisper"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Good morning and welcome to the flow church with Bishop Dag Heward Mills. My name is Emmanuel. And my name is Janine. And once again, we are super super excited to have you here. We are Flow Church pastors and we are a family.

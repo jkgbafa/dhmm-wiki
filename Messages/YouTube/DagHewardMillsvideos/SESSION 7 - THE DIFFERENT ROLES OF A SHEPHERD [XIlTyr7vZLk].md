@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=XIlTyr7vZLk"
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 bless the Lord penniless tenure bless the Lord penniless Anya bless the Lord Minnie lasagna oh yes we bless you with the venison aureus and Arab agenda by Anna bungalow that is about to do something in your life in a society that says yes yes yes and Here I am waiting Oh abide in me I pray here I am longing and here I am longing is there longing in your heart distorted for you I'd be bring me to my knees and pray me too my knee B I know Jesus for a ball and me I know

@@ -8,6 +8,8 @@ year: 2002
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number 11. Lord, we ask Father that you would help us, fill us with your spirit, and let your will be done, Lord. Thank you for a great anointing of your Holy Spirit and the continuation of the great work you are doing in us and through us. In Jesus' name. Amen.

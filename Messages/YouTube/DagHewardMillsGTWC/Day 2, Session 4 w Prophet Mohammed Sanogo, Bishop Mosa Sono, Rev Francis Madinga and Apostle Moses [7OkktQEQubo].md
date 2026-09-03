@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7OkktQEQubo"
 duration_min: 182
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh Prince of Peace. That is what I want to do. That is what I want to do. I give you praise. For you are my righteousness.

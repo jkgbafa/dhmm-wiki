@@ -4,6 +4,8 @@ book: "Everything By Prayer Nothing Without Prayer"
 book_number: "051"
 chapter_number: 2
 type: book
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 ###  CHAPTER 1\

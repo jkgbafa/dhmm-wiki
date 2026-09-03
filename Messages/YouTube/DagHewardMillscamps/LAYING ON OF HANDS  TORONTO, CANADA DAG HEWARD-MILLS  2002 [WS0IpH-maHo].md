@@ -8,6 +8,8 @@ year: 2002
 duration_min: 16
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 welcome to track number seven of the mega church the next Way by which you can be anointed is through laying on of hands amen Deuteronomy chapter 3 4 Deuter chapter 34 let's read verse 9 together let's all read it together why for he have listened to tapes for he had listened to Moses tapes what had he done what had happened Moses had laid his hands upon him amen hallelujah are you listening when hands are laid on you brothers and sisters believe that something good is happening to you who has any question to ask about laying

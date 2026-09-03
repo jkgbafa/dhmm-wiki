@@ -8,6 +8,8 @@ year: 2003
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 welcome to track number eight of agree on the way all right you may be seated Ecclesiastes chapter 4 what have you learned this morning nothing huh working wild to is day amen let's go to chapter 1 Ecclesiastes chapter 1 what are some of the things we went through over there all things are full of Labor is the ministry full of Labor good is the eye satisfied will it be satisfied the year filled with hearing what is going to happen that which has happened is what is going to happen is that not so very good and

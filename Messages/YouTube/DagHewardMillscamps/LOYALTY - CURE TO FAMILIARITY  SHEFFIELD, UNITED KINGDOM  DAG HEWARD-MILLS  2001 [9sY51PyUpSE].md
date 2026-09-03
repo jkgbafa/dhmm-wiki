@@ -8,6 +8,8 @@ year: 2001
 duration_min: 20
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 welcome to track number 25 of pasts of thousands C8 and 28 C8 and 28 all things all things means all things I said all things means all things I don't have anybody to look after my babies all things means all things work together it works the man and marriage is a fool it will work together for your good because all things means that I married it was dark it was midnight I woke up after 3 years and I realized man I've married a crazy guy all things means all things it's going to work out for

@@ -8,6 +8,8 @@ duration_min: 127
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/Dag Heward-Mills How to be A Good Sheep Part 2 4 Shocking Truths About Commitment [9uTu1TOI5PY]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 there's so much messy in exam results they accept 50% they actually accept that you don't know half then they say it's okay let him be our doctor hey when I married my wife I had nothing in fact she rather had something she rather had a job she rather had I mean she had money when when she finished working I collected all her money bring the money bring the Mone and will not do such things where do we learn this this from Hallelujah father thank you for the great opportunity that we have today guide us we

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=aiSj5srDxAk"
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now I don't know what problem you have or you are having or is coming. Before I was afflicted, I went as any trouble that comes considered as so this is a mystery. I wish the Holy Spirit would just speak like my son, my son, it's time to move. Get up and go to work. But unfortunately, it's not like that. Trouble seems to have taken his voice. And so learn to interpret the trouble. Going astray is the easiest thing. Yeah. May the Lord have mercy on us. One of the things that I want you to take

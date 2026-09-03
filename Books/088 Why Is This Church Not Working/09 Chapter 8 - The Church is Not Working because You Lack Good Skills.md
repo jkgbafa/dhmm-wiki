@@ -4,6 +4,8 @@ book: "Why Is This Church Not Working"
 book_number: "088"
 chapter_number: 9
 type: book
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 ### Chapter 8\

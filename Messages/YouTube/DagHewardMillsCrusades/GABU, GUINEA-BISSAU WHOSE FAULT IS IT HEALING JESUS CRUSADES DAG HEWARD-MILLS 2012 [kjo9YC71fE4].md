@@ -8,6 +8,8 @@ year: 2012
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 I expect a miracle. I expect a miracle. I expect a miracle tonight. Now a possible. I expect the night.

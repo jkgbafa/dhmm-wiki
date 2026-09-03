@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Kp60nkDoAPI"
 duration_min: 161
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah amen Mama's atsuko tanaka ceraadi mommy who mnemonic i Akuma amen hallelujah lujah nurse Akuma he was a big fat reward ear na hey na ki also I brought some for know and yet yo watch a nice weapon ammo ah yes or no / wanna auntie mama you know Menaka Mina Mina Mina Sako MA Magnum ingonyama non-stop Ethiopia and Yaya me slow so Wolfram hope frosty no no Justin ah Pamela organza de compartir more al Minami messy mommy yawns ah coma knock upon apraxia Odaiba to Navarro and mr. rational soul setiawan Santino Misurata Messier mikuma

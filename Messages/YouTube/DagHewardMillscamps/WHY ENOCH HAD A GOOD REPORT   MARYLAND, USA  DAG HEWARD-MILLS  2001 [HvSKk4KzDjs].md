@@ -8,6 +8,8 @@ year: 2001
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 welcome to track number 16 of what is your life verse five Enoch was translated that he should not see death and was not found because God had translated him for before his trans ation he had this testimony that he pleased God Amen Enoch was another person who had a good report amen amen why did he have a good report because he had this testimony that he pleased God and what was it that he did that made him please God he walked with God now it takes Faith to stay close to God without faith you cannot

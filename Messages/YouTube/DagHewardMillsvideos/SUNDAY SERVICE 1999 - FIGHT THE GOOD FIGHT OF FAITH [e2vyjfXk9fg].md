@@ -8,6 +8,8 @@ year: 1999
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 I can see some people are shaking all right but you're not smiling we-we-we Oh ha it was never cleaned up how many of us believe that he had broken that say he has broken the chains Amen and use them on your food nibib already held captivity captive that means once you were happy and turn it around rocking your change and how captivity captive for your sake hallelujah wanna sing that mantras that you think that we are working on T no more condemnation no more important by the Liberty they get together so more time for my

@@ -8,6 +8,8 @@ year: 2010
 duration_min: 143
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 The Lord is my light and my salvation. Whom shall I be? He's the strength of my life. No need to be afraid. I have a secret place where I see God's face.

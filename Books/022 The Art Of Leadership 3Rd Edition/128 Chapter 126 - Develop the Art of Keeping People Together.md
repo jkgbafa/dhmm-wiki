@@ -4,6 +4,8 @@ book: "The Art Of Leadership 3Rd Edition"
 book_number: "022"
 chapter_number: 128
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 ### Chapter 126\

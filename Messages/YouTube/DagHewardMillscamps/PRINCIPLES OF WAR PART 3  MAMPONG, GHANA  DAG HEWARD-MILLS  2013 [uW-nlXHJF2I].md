@@ -8,6 +8,8 @@ year: 2013
 duration_min: 89
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 at home see no one else in this whole wide world could mean as much as you to me so I thought I'd drop by for a little while in case you needed a friend because everybody needs a little help to get their lives together see you're no exception everybody needs another hand that they can hold on to everybody needs a little help to get their lives together yes I want to give together oh verse two see you can cry if you need to you know you I'll understand you can tell me everything that you feel

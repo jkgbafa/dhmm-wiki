@@ -8,6 +8,8 @@ year: 2002
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to track number seven of Zocria. Zogrio. It's a Greek word used two times in the Bible. It means to capture or to take men alive. To capture men, it means to take men alive.

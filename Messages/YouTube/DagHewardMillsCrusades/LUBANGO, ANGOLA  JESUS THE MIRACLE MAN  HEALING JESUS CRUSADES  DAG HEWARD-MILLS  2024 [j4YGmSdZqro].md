@@ -8,6 +8,8 @@ year: 2024
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare"]
 ---
 
 Hallelujah, let's call our sister Vival who will bless us with a music when I see what you did for me I have peace, peace in my heart when I see what you did for me I adore you, I praise you Vival Lord, my Lord, in suffering you [ Applause] you, you are Lord, you are healer, I praise you, oh, you are Lord, you are healer, I praise you, sing with me when I see what you did for me I have peace, I have peace in my heart, raise your hands, sing when I see what you

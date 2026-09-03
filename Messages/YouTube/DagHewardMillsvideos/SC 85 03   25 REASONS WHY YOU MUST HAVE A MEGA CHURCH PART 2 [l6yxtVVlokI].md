@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=l6yxtVVlokI"
 duration_min: 138
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 to all the world and preach the gospel until your life is done for you if you love me obey the great commission build churches everywhere in every town every province every city oh africa shall be saved but tell me how long is it gonna take for you to obey oh yeah i have a feeling that i'm waiting there for you to open me that's why i keep asking am i gone wait in vain for your love am i gonna wait in vain for your love am i gonna wait in vain am i gonna wait in

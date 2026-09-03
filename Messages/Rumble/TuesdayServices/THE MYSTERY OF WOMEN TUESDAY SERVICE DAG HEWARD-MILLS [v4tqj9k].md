@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqj9k/"
 duration_min: 58
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Let's pray. Heavenly Father, thank you for tonight. Thank you for your blessing. As we come before your holy word. Lord, we are asking that you speak to our hearts today.

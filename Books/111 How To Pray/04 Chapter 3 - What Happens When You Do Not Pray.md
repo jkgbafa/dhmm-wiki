@@ -4,6 +4,8 @@ book: "How To Pray"
 book_number: "111"
 chapter_number: 4
 type: book
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 ## Chapter 3

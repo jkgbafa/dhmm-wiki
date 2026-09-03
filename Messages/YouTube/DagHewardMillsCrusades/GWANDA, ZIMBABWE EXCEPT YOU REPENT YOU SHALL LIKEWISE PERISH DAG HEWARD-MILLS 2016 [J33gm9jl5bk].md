@@ -9,6 +9,8 @@ duration_min: 98
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/GWANDA, ZIMBABWE  EXCEPT YOU REPENT YOU SHALL LIKEWISE PERISH  DAG HEWARD-MILLS  2016 [J33gm9jl5bk]]]"
+topics: ["Salvation", "Salvation/Repentance"]
+tags: ["topic/salvation", "topic/salvation/repentance"]
 ---
 
 Hallelujah. Wanda hallelujah. Give Jesus the best shout of praise. Hallelujah. Couturae.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Cl6Ok7OWLSQ"
 duration_min: 134
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 What a blessing. Let us pray. Let us pray. Prions. Prions.

@@ -8,6 +8,8 @@ year: 2001
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 welcome to track number two of pastors of thousands he didn't know anything about he just knew me he just sawo I said yeah how so he came he came to visit me he came to our church when he saw the church what then I said oh some when people are surprised I said let me take you for a t so I took him I took him for a tour and I took him across the road when he got to the first floor cuz then that Hall the hall there is bigger than here oh yeah opposite

@@ -8,6 +8,8 @@ year: 2004
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring"]
 ---
 
 four things that preparation involves we can write it that way so that you can remember number one it involves preparing yourself because you yourself are are analyzed when you go at preaching is that not so how many analyzed me before raise your hand if you've analyzed me before very good so that shows you that you it will be done to you as well then the next thing is you prepare your message for which you need to have the word of God is that not so and the next thing is that you prepare for your ministry

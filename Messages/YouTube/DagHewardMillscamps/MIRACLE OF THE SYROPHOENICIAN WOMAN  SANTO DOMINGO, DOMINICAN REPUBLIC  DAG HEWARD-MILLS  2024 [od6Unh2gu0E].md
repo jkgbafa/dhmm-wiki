@@ -9,6 +9,8 @@ duration_min: 42
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MIRACLE OF THE SYROPHOENICIAN WOMAN SANTO DOMINGO, DOMINICAN REPUBLIC DAG HEWARD-MILLS 2024 [od6Unh2gu0E]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 How many miracles do we have so far? Number one. What is the miracle of the Gadarene demoniac? The miracle of the Gadarene demoniac. What is the second miracle we have? The miracle of the centurion's servant. The miracle of the centurion's servant is where we take the word. He deserves a miracle and didn't build a church. Number three. The miracle of the healing of Peter's mother-in-law. The miracle of the healing of Peter's mother-in-law. Wow, Peter. Peter is the miracle of the handshake. Handshake. Touch the hand. Just contact. The miracle of the demoniac who was in the

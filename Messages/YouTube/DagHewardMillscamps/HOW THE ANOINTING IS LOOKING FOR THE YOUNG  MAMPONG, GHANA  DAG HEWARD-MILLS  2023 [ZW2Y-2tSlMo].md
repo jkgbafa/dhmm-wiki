@@ -8,6 +8,8 @@ year: 2023
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 now everybody turn to Ephesians 5: 27 and what does it say it says that he might present it to himself a glorious church not having spot or wrinkle or any such thing amen amen now this is an amazing prescription for a wife and I think everybody from now who is going to get a beloved is going to use these two qualities it has been simplified formula for a beloved no spot no wrinkle you may be see that now one of the amazing hello hello one of the amazing things about the anointing is that the anointing

@@ -8,6 +8,8 @@ year: 2016
 duration_min: 191
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 welcome to track number six of expect great things wow well the final session tonight are you excited come on stand to your feet let's welcome the father Bishop D Mill Hallelujah glory to God you guys are doing a great job beautiful dancing stars beautiful dancing star when I get to Acra I'm going to tell them that the copies of the original are becoming like count fit money you cannot easily tell the difference so they better get some more characteristics to differentiate the between the original and the copies wow what a blessing a bless father keep

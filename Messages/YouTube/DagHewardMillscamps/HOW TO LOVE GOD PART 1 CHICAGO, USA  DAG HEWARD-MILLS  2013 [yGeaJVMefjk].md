@@ -8,6 +8,8 @@ year: 2013
 duration_min: 181
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 the Bible says you shall love the Lord thy God with all your heart with all your mind and with all your soul amen amen is it not true and Jesus said in Matthew 22 because somebody asked him which is the great commandment in the law Matthew 22:37 Jesus said unto him thou shallal love the Lord thy God with all thy heart all thy soul and all thy mind this is the first and great commandment and the second is like unto it thou shallal love thy neighbor as thyself amen so what you must realize is that

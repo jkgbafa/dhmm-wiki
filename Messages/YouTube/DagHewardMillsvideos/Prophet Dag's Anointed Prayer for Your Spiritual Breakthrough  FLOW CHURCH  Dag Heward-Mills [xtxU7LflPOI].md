@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xtxU7LflPOI"
 duration_min: 8
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Prayer"]
+tags: ["topic/anointing", "topic/prayer"]
 ---
 
 so I believe that the anointing of the Lord is keeping us it's going to keep us amen the power of God so Samuel took a vial of oil and poured it on his head and kissed him and said is it not because the Lord has anointed faith to be Captain over his inheritance when thou art departed from me today that which thou want us to seek are found amen so you are going to find whatever you seek and I know all of us are seeking for life Deliverance and Escape From The Darkness that is moving

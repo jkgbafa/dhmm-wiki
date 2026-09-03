@@ -8,6 +8,8 @@ year: 2019
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 W yeah yeah yeah mhm I don't want to be I don't want to be oh yeah am I good for nothing have I lost my usefulness I don't want to be good for nothing I don't want to lose lo my saltiness ye are the Sal of the Earth the if the salt has lost his Savor how shall it be saled it is there for good for nothing yet but to be cast out and troen Under Foot what is the point of my life yeah if I don't serve the Lord if I am not the sort

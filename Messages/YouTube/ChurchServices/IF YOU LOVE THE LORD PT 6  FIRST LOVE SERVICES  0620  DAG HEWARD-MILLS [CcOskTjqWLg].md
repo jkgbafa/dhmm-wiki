@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=CcOskTjqWLg"
 duration_min: 198
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 thank you for guiding us thank you for choosing us thank you for leading us thank you for bringing us close to you oh God thank you for drawing Us close to you thank you for drawing Us close to you Lord thank you for calling me your treasure Lord thank you for calling me your treasure Lord raure can you lift your hands right now lift your hands and talk to God bless God from within know that God has been faithful he's been merciful he's been kind he's been true to his word he's protected you he's protected

@@ -9,6 +9,8 @@ duration_min: 78
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/I COME SEEKING FRUITS MY SONS  NEWARK NEW JERSEYUNITED STATES   DAG HEWARD-MILLS  2019 [d76rZYyoAG4]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Father, we thank you for the blessing that you give to us in this time. Thank you for guiding us by your mighty spirit in Jesus' name. Amen. God bless you. You may be seated.

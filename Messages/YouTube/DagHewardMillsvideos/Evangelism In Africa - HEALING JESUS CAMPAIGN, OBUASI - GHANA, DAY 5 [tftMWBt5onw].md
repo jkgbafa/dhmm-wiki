@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tftMWBt5onw"
 duration_min: 158
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 one sign on you my young one wah-wah me I got you whoa Tainan Yuva Omaha booyah middle-class work there do a yellow tile I don't know kiddo sexually hallelujah whoa oh my a cut there we'll try new Numa hey my hallelujah Honolulu back boom is so sad when I'm in awkward oh we got ya you see you see what I know you made what I know yeah oh my a scooter whoa Oh Yaya watches an old Oh yes yo William iguana Jesus oh my god are you okay buddy walk right off look sorry I like

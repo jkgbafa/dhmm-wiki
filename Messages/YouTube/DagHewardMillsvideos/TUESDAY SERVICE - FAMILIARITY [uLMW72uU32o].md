@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=uLMW72uU32o"
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 You feel like your life has ended. Nowhere to go. Your future holds no promises. You're at an alltime low. Whatever you do is just not enough. You feel like giving up. thoughts of cashing it all in. Every situation isn't knowing. But I know someone who's there. On him you can cast your burden. To him you can give your care. He's more than a friend. He's a real friend. Sticks closer than a brother. He's more than a friend. He's more than a friend. He's a true friend. Thinks closer than my mother. Yeah. Yes, he is. I

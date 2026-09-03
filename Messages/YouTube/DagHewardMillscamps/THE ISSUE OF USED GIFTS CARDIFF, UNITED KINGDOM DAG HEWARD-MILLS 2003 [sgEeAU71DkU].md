@@ -9,6 +9,8 @@ duration_min: 76
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE ISSUE OF USED GIFTS  CARDIFF, UNITED KINGDOM  DAG HEWARD-MILLS  2003 [sgEeAU71DkU]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Welcome to track number eight of Bima. The issue of unused gifts. The issue of unused gifts. Actually, are you there? The issue of unused gifts.

@@ -8,6 +8,8 @@ year: 2019
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 What is law number one? Tell your neighbor that means that those without bases will be taken away. Test privately. Just privately, I want you to know that those without baskets will be taken away. But centerless Christians.

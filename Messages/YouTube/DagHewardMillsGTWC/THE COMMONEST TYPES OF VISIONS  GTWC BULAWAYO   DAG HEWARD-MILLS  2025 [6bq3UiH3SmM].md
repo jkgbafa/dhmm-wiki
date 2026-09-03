@@ -9,6 +9,8 @@ duration_min: 60
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE COMMONEST TYPES OF VISIONS GTWC BULAWAYO DAG HEWARD-MILLS 2025 [6bq3UiH3SmM]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Now I want to show you the commonest Nelly. I want to show you the commonest type of vision. Amen. All right. No. No. Be ready. Be ready. Communist. And I want you to see Philippians 4:9. Those things which you have learned and received and heard and seen in me, do and the God of peace shall be with you. Those things which you have what? Learned and received and heard and seen, do everybody. Now I want to share with you just as we close. I know it's lunchtime but seeing and hearing. Seeing and hearing. Now seeing

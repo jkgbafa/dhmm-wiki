@@ -8,6 +8,8 @@ year: 2023
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 lift your hands for a moment ask the Holy Spirit to lead you guide you father thank you for the gift of God thank you for guiding us leading Us by the Holy Spirit In The Name of Jesus we give you thanks we give you praise in Jesus mighty name let your will be done in Jesus name we pray amen am you may be seated now demonic behavior is madness because a lot lot of just as a lot of physical sicknesses are caused by evil spirits a lot of mental illness is also caused directly by evil

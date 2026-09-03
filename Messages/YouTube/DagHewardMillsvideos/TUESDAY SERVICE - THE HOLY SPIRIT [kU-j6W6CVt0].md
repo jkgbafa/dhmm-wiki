@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=kU-j6W6CVt0"
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/the-holy-spirit"]
 ---
 
 let us pray father thank you so much for this evening thank you for the opportunity that we have to serve you Lord we ask that you speak to a heart in a few moments that we have granted you to speak to us we thank you for your mercy and your grace that keeps us thank you that your power is greater than the power of Satan and that there is no force no demon no with that no witch no power no satanic entity of principality that can stand against the purposes and the will of God we

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uf4mi/"
 duration_min: 60
 source: "whisper"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 I believe that God has a word in season. A word that will cut what needs to be cut out of our lives, replace the things that need to be replaced, build the things that need to be built, and put us on the path where we can be victorious. Say amen. Ladies and gentlemen, we have the bishop of Lighthouse Chapel International once again with us to minister, to teach and to instruct us in the ways of the Lord. And I believe that this word will come to pierce even to the dividing ascender of soul and spirit.

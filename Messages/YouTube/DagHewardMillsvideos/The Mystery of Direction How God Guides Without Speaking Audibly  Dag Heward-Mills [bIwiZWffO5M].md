@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=bIwiZWffO5M"
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 We have to become experts at finding his direction outside seeing him directly and him talking to us audibly because he's he's real. Jesus is alive. He's very real. said he was praying and then he found his hand as as he was speaking in tong and then he looked at his hand and saw his hand and God said to you we are going around in circles and I realized that I'm also about to go around so I say out of the circle one of the main things you see when the Holy Spirit was being sent to

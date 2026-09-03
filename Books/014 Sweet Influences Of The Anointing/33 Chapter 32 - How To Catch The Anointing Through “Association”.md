@@ -4,6 +4,8 @@ book: "Sweet Influences Of The Anointing"
 book_number: "014"
 chapter_number: 33
 type: book
+topics: ["Anointing", "Anointing/Catching the Anointing"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing"]
 ---
 
 ## Chapter 32

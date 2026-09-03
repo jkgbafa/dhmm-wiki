@@ -4,6 +4,8 @@ book: "Hope Secrets"
 book_number: "090"
 chapter_number: 4
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ### Chapter 3\

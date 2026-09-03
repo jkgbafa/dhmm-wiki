@@ -3,6 +3,8 @@ title: "CHAPTER 32  THE ART OF COPYING"
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Hello. Hallelujah. Let us pray. Father, thanks a million for this time. What a blessing we have in your presence. Guide us by your mighty Holy Spirit in Jesus name. Amen. You may be seated. How many are already blessed and full? Yeah. mega churches church growth. Amen. Now, one of the reasons why we are sharing about having a mega church like Dr. who was sharing mega church, church planting and church growth is because God wants you to have a great vision. And that great vision is the great vision that pastors must have. And when you don't

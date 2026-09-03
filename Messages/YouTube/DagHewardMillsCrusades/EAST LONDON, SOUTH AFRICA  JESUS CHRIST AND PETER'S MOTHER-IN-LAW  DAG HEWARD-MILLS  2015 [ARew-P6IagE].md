@@ -8,6 +8,8 @@ year: 2015
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Hallelujah are you ready why don't you give Jesus a shout oh come on come on give Jesus a shout could do me put your hands together for Jesus come on Hallelujah many me oh come on and sing with me my Hallelujah give Jesus a shout wo wo wo w come see in lift up your right oh God could you be he do me lift up your voice and say everybody s oh oh oh are you ready Dan are you ready Dan are you ready are you sure you are ready Give the Lord a shout shout

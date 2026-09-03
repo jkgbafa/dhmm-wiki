@@ -9,6 +9,8 @@ duration_min: 57
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/STAGES OF DISLOYALTY  MARAISBURG,SOUTH AFRICA  DAG HEWARD-MILLS 2000 [gIkAHw-GHNE]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number 14 of the work of the ministry. Faith column had come within their own camp and was destroying them from within. Amen. And that's what the devil does. So it's like in a church, somebody rises up, somebody who is part of the authority will rise up and he will say things that will make you the church member confused.

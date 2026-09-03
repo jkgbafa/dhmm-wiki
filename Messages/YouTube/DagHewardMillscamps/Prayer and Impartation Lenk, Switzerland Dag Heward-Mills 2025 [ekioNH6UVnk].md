@@ -9,6 +9,8 @@ duration_min: 144
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Prayer and Impartation  Lenk, Switzerland  Dag Heward-Mills  2025 [ekioNH6UVnk]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer"]
 ---
 
 All right. Okay. So, living waters number one. What is number one? Living water represents the Holy Spirit and the anointing.

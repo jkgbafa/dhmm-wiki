@@ -4,6 +4,8 @@ book: "The Megachurch 2Nd Ed"
 book_number: "010"
 chapter_number: 3
 type: book
+topics: ["Church Growth"]
+tags: ["topic/church-growth"]
 ---
 
 ### Chapter 2\

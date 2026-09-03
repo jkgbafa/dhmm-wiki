@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=RstWU7iVYJg"
 duration_min: 172
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 the presence of the holy spirit is here right I want you to close your eyes wherever you are and just worship Him is worthy of Our Praise come on lift up your hands wherever you are in this Auditorium what US think about Jesus Jesus you are the sweetest name of all oh Jes you always hear me when I call you always hear me when I call oh J you lift me up time my fall you lift me up time you the sweetest you're the sweet sweetest name sweetest why don't you LIF your hands and sing

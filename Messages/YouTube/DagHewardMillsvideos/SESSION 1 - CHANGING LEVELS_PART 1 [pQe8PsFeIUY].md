@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=pQe8PsFeIUY"
 duration_min: 200
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Heavenly Father thank you for today temp Celeste masipa social thanks for your blessing messy buta benediction you guide us to new country you later chinnu delish you fill us to new home plea with your mighty mighty holy spirit butter Santa's free pizza Lord we commit our time together tell new limit or not on some la victoire into your hand on Fatima let your power get a prison rest on our lives silver Porsche movie thank you for blessing Mexico in Benedict from everyone who knew tooth that is here here present and a change a summer of

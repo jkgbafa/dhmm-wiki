@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=LF453w9MA3E"
 duration_min: 47
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Backsliding"]
+tags: ["topic/salvation", "topic/salvation/backsliding"]
 ---
 
 are you glad to be in church wonderful thank God for an opportunity to be in church you may easily not have been in church this morning it could have been dead buried sleeping in your grave but a lot had mercy gave you a chance to see another day amen we are continuing our series on backsliding who hasn't got the book yet oh don't feel shy to it sir I mean I'm not a policeman I don't have any I'm just ask you whether you got the book or not all right get a book it will bless

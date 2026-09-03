@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=yNsn-Q448vk"
 duration_min: 91
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism"]
 ---
 
 and I see a few tests at the back digital images matsuri if you just came you can occupy one of them and be comfortable now to show kameido an ethical gotta to write over a man tonight is the final night of our campaign healing Jesus campaign here in Kodama and I know manusia a healing Jesus campaign Mukul Erica Dorma and it's my joy to welcome the chairman of the board of trustees of villainesses campaign here in Kodama to bring us his final remarks and also introduce our mayor and our Member of Parliament who are also

@@ -9,6 +9,8 @@ duration_min: 47
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/FATHER TO SON  INSTRUCTIONS OF A FATHER PT 3   MARYLAND, USA DAG HEWARD-MILLS  2001 [kneqAeHiKb0]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number nine. What is your life? I have had people who have come to me, some of my different parties say, you know, this guy, he's like this. You can't even talk like that to me. For one moment.

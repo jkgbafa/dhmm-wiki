@@ -8,6 +8,8 @@ year: 2004
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "The Call of God", "The Call of God/Responding to the Call", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 praise the Lord hallelu are you glad to be here turn with me to Matthew chap 1: 23 now my subject is the scriptures are fulfilled by full Ministry amen amen the scriptures that are fulfilled by full-time Ministry or scriptures are fulfilled by being in full-time Ministry now in Matthew chapter 1 verse 20 what did I say 23 now it says and she shall bring forth the son in verse 21 that's shall call his name Jesus for he shall save his people from their sins all right now all this was done that it might be fulfilled

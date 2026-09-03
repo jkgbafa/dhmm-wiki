@@ -8,6 +8,8 @@ year: 2025
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth"]
+tags: ["topic/church-growth"]
 ---
 
 This morning I honor the fathers who have graced this amazing conference with their presence. The honor I am bestowing is not just a formality but it is necessary because there is no one here who should expect any greatness in ministry passing the fathers of the house. It is their toil. It is their sacrifices and decades of ministry that have come together for us to be gathered in this room. Please put your hands together and let's appreciate and honor our fathers who are here today who have been introduced. And let your hand clap be generous and

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uh34n/"
 duration_min: 34
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Father, we thank you this morning for your word. We praise you, Lord, that your word is able to change our lives and to make us into what you have ordained for us to be. We thank you, Father, in the name of Jesus Christ. And everybody said, Amen. You may be seated.

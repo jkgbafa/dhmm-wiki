@@ -9,6 +9,8 @@ duration_min: 31
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Opening Prayer With Bishop OB  Lenk, Switzerland  Dag Heward-Mills  2025 [BqGtQae1pJ0]]]"
+topics: ["Prayer", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/the-holy-spirit"]
 ---
 
 Wieso nimmst du nicht Platz? Amen. And we would encourage everybody to find a place to sit. Und wir ermutigen jeden Sitzplatz zu finden. Wunderschön.

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tp276/"
 duration_min: 87
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Wealth and Finances"]
+tags: ["topic/faith", "topic/wealth-and-finances"]
 ---
 
 Jesus your life has lived me Open my eyes and now I see your gentle power has come to me and Jesus your life has said my voice to life I said I lift my praise to you love your peace as come to me Jesus has oh yeah your change of points love Jesus get us live to me to me oh yes oh be my eyes you gentle power it has come to me has come to me oh and Jesus has said to I shall love your and Jesus your life it has lived and Lord pain my eyes and now I see your gentle power Lord it has come to be says your life has my hands with you says your life has said I let my best as in Jesus live oh your gentle power your gentle power that's love to me oh Jesus power your power I started The truth of the matter is me when your mammy carry annoy free.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zEuEXheSyMc"
 duration_min: 31
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 we are all frightened of the idea of so that you know of death you know I've been the poetry of silk all over nobody'd ever I know and so on and so people don't like the idea of dying and so we are afraid now it's a lot if you're Shepherd I want you to do something today that you will be able to not be afraid of death it's the Lord is your Shepherd and a lot is not your Shepherd you better be afraid I say in the world it's on your Shepherd you better be scared

@@ -8,6 +8,8 @@ year: 2023
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 call sh V yes Lord Jesus father we are grateful in the name of Jesus Amen you may be seated now the stages of this La we are moving into some of the things I want you to see the symptoms of Madness in some Behavior patterns amen so we are starting with the stages of disloyalty what are the stages of disloyalty number one I cannot hear you independent Spirit number two offense number three passivity number four critical stage number five political and number six deception and then number seven open Rebellion oh yes and then the last

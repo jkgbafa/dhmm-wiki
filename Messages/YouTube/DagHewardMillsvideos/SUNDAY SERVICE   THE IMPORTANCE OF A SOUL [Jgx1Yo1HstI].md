@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Jgx1Yo1HstI"
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 so that party to Eternity souls are party astrally today slows as the days go by how many really will die your eyes how many really will live again to eternity souls are the days go by how many really will die right how many really will leave just look around you and see the snow switch parties dead got salvation and the blood of Jesus was shed for them that they might be stay and do you care for that soul do you care for this soul to Eternity souls our party has believed that's the days go by

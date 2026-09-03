@@ -4,6 +4,8 @@ book: "The Art Of Hearing How To Be In The Perfect Will Of God 2Nd Ed"
 book_number: "021"
 chapter_number: 5
 type: book
+topics: ["Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 ## Chapter 4

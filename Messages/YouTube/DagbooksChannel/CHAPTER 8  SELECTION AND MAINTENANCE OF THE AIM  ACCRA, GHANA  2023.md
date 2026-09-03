@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Hallelujah. Hallelujah. Lift your hands. Thank you Holy Spirit for your guidance and the filling of the Holy Spirit. Lead us lead us. Thank you. Mercy in Jesus name. Amen. You may be seated. Now we are um looking at the good general. general. Amen. The last thing that we were sharing was that do not be surprised at the outbreak of war. Now there are about 70 um 70 six chapters in what I'm trying to share so far we are about six chapters gone. So based on the calculation of time, I don't think we will get very

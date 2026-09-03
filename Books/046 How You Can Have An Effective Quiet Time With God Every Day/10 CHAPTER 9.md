@@ -4,6 +4,8 @@ book: "How You Can Have An Effective Quiet Time With God Every Day"
 book_number: "046"
 chapter_number: 10
 type: book
+topics: ["The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 ### CHAPTER 9

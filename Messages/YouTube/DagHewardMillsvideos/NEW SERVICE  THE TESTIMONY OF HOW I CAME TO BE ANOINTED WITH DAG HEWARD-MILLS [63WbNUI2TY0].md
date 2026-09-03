@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=63WbNUI2TY0"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 the anointing will make people recognize you even though people naturally would reject you receive the anointing of the Holy Spirit the anointing is such that it is there you cannot see it but you can see the effect of it that I may be interested in his Holiness to go deeper hallu and to find out more about him the Lord anoint you with it Jesus Lord thanks I will trust in you thanks for Grace watch out now I hear in the realm of the spirit something you have never had before Hallelujah wow what a blessing Hallelujah

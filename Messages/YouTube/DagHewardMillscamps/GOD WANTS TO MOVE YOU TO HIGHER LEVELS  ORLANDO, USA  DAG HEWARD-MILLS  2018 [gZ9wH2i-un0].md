@@ -8,6 +8,8 @@ year: 2018
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 he Bindu a republ ginis welcome to the Republic of Guinea BAU where the healing Jesus team will be making its Maiden entry into Portuguese speaking territory a small country on the west coast of Africa the the Republic of Guinea BAU is endowed with beautiful landscapes and breathtaking scenery from the Rio grandi deba to the Salo Rapids of shangel singala unfortunately several decades of political instability have had an adverse effect on the country leaving it one of the poorest in the world one thing any visitor to the country will immediately notice is the total lack of

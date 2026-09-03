@@ -8,6 +8,8 @@ duration_min: 26
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/KLERKSDORP, SOUTH AFRICA  WHY MANY PEOPLE BELIEVE THAT JESUS CHRIST IS THE SON OF GOD [J--psvbAGBE]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Tonight I'm just preaching a short message entitled Why Many People Believe That Jesus is the Son of God. One of the reasons why many people believe that Jesus is the Son of God is because he walked on water. Another time he count the storms another time Jesus took five thousand people to KFC. Wow. Five thousand people to KFC.

@@ -9,6 +9,8 @@ duration_min: 16
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/LAYING ON OF HANDS  TORONTO, CANADA DAG HEWARD-MILLS  2002 [WS0IpH-maHo]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Welcome to track number seven of the mega church. The next way by which you can be anointed is through laying on of hands. Amen. Deuteronomy chapter 30. Deuteronomy chapter 24.

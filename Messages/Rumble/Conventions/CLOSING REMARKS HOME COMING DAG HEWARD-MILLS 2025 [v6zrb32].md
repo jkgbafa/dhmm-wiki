@@ -8,6 +8,8 @@ year: 2025
 duration_min: 12
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 We're going to receive the vote of thanks. So those of you who are leaving, please stay behind. We are going to close very soon, but it is not right that you leave now. Hello. It is not right that you leave at this moment.

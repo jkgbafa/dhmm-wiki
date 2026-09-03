@@ -4,6 +4,8 @@ book: "Steps To The Anointing"
 book_number: "013"
 chapter_number: 21
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 ## Chapter 20

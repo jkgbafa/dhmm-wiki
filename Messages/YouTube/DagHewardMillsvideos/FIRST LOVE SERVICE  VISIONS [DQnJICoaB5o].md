@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=DQnJICoaB5o"
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 amen how many of you enjoying the singing star all right it's time for testimonies I will say the testimonies of the Lord makers show the status of the law - oh and it makes the simple life a may we have powerful testimonies I wanted to welcome mama kochiya Janice and then me I you created to give us their powerful testing amen amen and my testimony is brief but I go a lot of thanks to God for making it possible for me to meet Bishop Doug what meals for him to have an interest in my life

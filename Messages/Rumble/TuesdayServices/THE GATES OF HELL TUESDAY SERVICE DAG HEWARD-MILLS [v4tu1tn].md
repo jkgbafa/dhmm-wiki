@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tu1tn/"
 duration_min: 86
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I met an old friend today, and I can't be on the hill to see him after all these years. Somehow did not seem strange. We left and remained about the life we used to leave. But I could tell at least with him. Nothing much a change.

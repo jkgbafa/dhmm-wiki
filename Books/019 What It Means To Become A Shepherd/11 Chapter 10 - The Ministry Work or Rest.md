@@ -4,6 +4,8 @@ book: "What It Means To Become A Shepherd"
 book_number: "019"
 chapter_number: 11
 type: book
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 ## Chapter 10

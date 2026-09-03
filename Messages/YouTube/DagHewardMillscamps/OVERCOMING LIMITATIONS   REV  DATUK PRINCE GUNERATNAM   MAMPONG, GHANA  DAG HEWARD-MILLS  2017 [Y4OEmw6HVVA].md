@@ -8,6 +8,8 @@ year: 2017
 duration_min: 75
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 wow what a blessing what a blessing thank you sir right please be seated wow what a shock a we are very blessed indeed amen amen and I'm sure God is gracious to us and very kind to have brought all of us here today hallelujah amen and I hope all of us are seated and everything everybody's well and uh we all happy in Christ and your breakfast is keeping you awake I hope you didn't overeat hold put the ask ask him are you alert are you alert for what is happening Hallelujah right we are going to

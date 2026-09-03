@@ -8,6 +8,8 @@ year: 2017
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 labor for blessings labor to be blessed and labor for blessings in your life amen amen the first one is and I you I hope you are getting what I'm saying labor for blessings yeah because when you are blessed that's the highest form of um help you can have in your life all right now there are many things that that help people isn't it but you are uh blessed because of the blessing of the Lord Genesis chapter 1 and verse 27 so God created man in His image all right God created Man In His Image in

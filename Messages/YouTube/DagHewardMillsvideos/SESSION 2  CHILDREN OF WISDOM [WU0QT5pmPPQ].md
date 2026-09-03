@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=WU0QT5pmPPQ"
 duration_min: 159
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wisdom"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wisdom"]
 ---
 
 I believe in this convention God is taking us forward in this life against every background that from where you have come any stool from which you have been hewn God is going to take you higher in this life do you believe what I'm saying and I believe that this convention is one of a difference and I wish the whole nation can listen to what we are hearing here things will change in our land they will understand that although our government has blinded us into hipa queer havoc although they may say we are politically highly indebted

@@ -8,6 +8,8 @@ year: 2024
 duration_min: 33
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Flo Church live is joining us all right so we are talking about the why elements El and we just talk about about weeping for tamuz how deep was your love for tamuz that you are crying for tamos Mery Mercy sit down I was a Christian and attending church and I believ I truly love the Lord but there was a day I went to church and the preacher spoke to me he said Jesus says if you love me keep my words my commands listen to my voice Jesus really needs to know how Deep Is Your Love

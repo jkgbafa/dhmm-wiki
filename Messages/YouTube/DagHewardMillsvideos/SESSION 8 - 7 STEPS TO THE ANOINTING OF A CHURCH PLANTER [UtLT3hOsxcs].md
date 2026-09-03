@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=UtLT3hOsxcs"
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Anointing/Kinds and Waves of the Anointing", "Church Growth", "Church Growth/Church Planting", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/anointing/kinds-and-waves-of-the-anointing", "topic/church-growth", "topic/church-growth/church-planting", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 blessed Jesus you are my first love there is no other love that can compare W blessed Jesus you are My First Love there is no other love that can come blessed Jesus it is your holy love it is your perfect love that leads us to you and there's no other love that we de desire there's no greater love that we could ever know blessed Jesus you are my first love there is no other love that can compare and there's no other love that we desire there's no greater love that we could ever know blessed Jesus

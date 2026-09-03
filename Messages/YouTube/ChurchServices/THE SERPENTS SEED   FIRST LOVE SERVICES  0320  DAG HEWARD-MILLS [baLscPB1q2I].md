@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=baLscPB1q2I"
 duration_min: 288
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 lift your voice and pray wherever that you are call on God this morning invite God into your homes invite God into your rooms invite God into wherever that you are now praying and believe oh God we thank you and we bless your Holy Name what a privilege it is Lord to be gathered again what a privilege it is Lord to have church again lamb lamb lift your voice and pray call on God right now we bless your Holy Name Lord I Will Bless The Lord at all times I Will Bless The Lord at all times

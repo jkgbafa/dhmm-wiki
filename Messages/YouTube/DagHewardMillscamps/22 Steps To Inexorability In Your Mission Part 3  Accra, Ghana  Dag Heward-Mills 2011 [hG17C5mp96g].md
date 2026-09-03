@@ -8,6 +8,8 @@ year: 2011
 duration_min: 147
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/anointing", "topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 God has called us to his b you hands go without salvation and with one Accord they made up excuses many excuses sorry I just can come to your wonderful banket oh no God has called us to is backet oh yes you can't go without salvation oh the first one said to him I brought me some new land yes I did I need to go right now to look at the land oh I built my Mansion there right on the new land oh so sorry I just can come to your wonderful banket wo God has called

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=u7BLHWlgecs"
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 tonight I'm talking about sharing of preaching about the lake of fire and I am continuing on the salvation team all right and I want us to understand our salvation better and better amen John chapter 3 fleas death 16 and he turned to John 3:16 anything about John 3:16 for me that He gave His only Son that whoever believes in Him will not perish but have eternal life for God so loved the world that He gave His only Son that whoever believes in Him will not perish but have eternal life for God did not and his

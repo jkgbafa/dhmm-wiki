@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SNEZ9XV7FqE"
 duration_min: 138
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 yeah I bet you never idle banging oh oh oh world that He gave His only up synonyms how far we travel austere bride hey Nagi whoa baby where howdy oh oh oh ah too bad you ever castle fell over our bridal bathroom Oh I have a message from the Lord she's not sent me to you are you ready to dance and do you wanna hear me I've got a message from the Lord Jesus send me to you are you anything as hell tell me do you want to hear it did I make a mistake when

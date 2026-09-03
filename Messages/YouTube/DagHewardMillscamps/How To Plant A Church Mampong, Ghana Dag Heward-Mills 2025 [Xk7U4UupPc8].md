@@ -8,6 +8,8 @@ year: 2025
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now, how to plant a church. Sit down. Sit down. Practical. Number one.

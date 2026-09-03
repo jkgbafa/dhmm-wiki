@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=HlwwiGvoFIA"
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology"]
 ---
 
 El Bolon va bluffant son nom est son nom est besoin du sauveur son nom est Jésus du salut chanter sa dépend de toi si tu est-ce que tu irais il a tout au ciel ou à l'enfer Jésus t'appelle ton Seigneur t'appelle Nejette pas reçois Jésus la Bible nous dit si tu reçois Jésus tu seras sauvé Il y avait nos prix vivait sous cette terre Il y avait tout le riche de ce monde et habillé en violet Il mange bien Il est mal ce mort Et aussi à peau vivait sous cette terre Il s'appelle Lazar et

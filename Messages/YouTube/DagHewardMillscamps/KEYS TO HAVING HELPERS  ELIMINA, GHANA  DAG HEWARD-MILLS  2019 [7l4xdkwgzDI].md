@@ -8,6 +8,8 @@ year: 2019
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 now there are three people that have the title helper in the Bible the Holy Spirit has a title helper I'll give you another helper do you see which is the holy spirit he will help you in all that you want to do wife is called I'll make him a help meet and then the third is the help's ministry there are some people their Ministry is just to help you I'll show you one soon just now so this are three but the titles are big help help help so that's why people you send them on the

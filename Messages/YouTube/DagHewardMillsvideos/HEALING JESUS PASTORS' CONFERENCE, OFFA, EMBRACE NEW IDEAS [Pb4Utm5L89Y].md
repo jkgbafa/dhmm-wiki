@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Pb4Utm5L89Y"
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 I will go and wherever I will go home my dream we'll be my god Oh wherever you live I I heard on fire Oh my haha he will be hallelujah father thank you for this morning thank you for your blessing thank you for your power thank you Lord that you have blessed us and gathered us to increase in knowledge and to grow in your will we thank you Lord in Jesus name Amen amen I mean this morning you may be seated thank you pass Eliyahu Larry I want to share with you about leadership professor of

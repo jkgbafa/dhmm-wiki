@@ -8,6 +8,8 @@ year: 2004
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 welcome to track number one of missions and missionaries what are you doing in London you came to school here when did you when did you come here when did you come to London you came in August last year okay from where okay when you were in Ghana did you go to school where okay were you in lighthouse in Ghana we waiting to come abroad to join okay and uh you say your name is what Kofi okay very good and one of the reasons why thank you Kofi we are supposed to receive from men you get

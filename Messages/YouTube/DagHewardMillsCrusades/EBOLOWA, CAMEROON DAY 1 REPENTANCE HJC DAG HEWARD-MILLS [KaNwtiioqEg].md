@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=KaNwtiioqEg"
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "Salvation", "Salvation/Repentance", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/salvation", "topic/salvation/repentance", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 Ebolova, the time has come. Ebolova, the time. Tonight is a night of God's power. Ce soir, c'est la nuit de la puissance de Dieu. And it's not a time to be moving about.

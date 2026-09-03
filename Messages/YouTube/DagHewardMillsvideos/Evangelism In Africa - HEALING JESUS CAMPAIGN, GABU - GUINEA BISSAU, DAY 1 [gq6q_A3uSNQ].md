@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=gq6q_A3uSNQ"
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 God has come to visit us here in Kabul yes people visit on elena gabor and you are one of the people God power is going to touch tonight by all the Guinness Kapoor den Adel not oka adenoids clap your hands for my Vangelis has come tonight it was Jenny savage I'm anointed God is going to do something great in Yolanda bazookas a gallery novofina please be seated buh-buh-buh-buh espinda no talking at the sign where the government will appear no walking about an entire moment in yonder on de Paris s please sit down Abbas virginity :

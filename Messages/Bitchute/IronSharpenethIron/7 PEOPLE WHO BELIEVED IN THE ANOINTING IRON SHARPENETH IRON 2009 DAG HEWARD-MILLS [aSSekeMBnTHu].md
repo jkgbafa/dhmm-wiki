@@ -8,6 +8,8 @@ year: 2009
 duration_min: 48
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I'm giving you seven people who believe in the anointing. And the first person is Zachariah believed in the anointing. He said it's not by might. It's not by power. It's by the Holy Spirit.

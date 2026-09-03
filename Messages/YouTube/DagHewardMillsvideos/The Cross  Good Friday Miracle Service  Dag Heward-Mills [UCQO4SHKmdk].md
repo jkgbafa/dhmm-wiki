@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=UCQO4SHKmdk"
 duration_min: 287
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 God assembles us to remember what his son did for us on the cross of Calvary so lift your hands and lift your voice everybody and give God praise give God thanks give God worship give God the Adoration magnify God adore God let your voice and adore God open your mouth and bless him say to him Lord you are my everything so are my everything you are my rock you are my refuge you are my Fortress you are the I am that I am God there is no one like you Jesus oh God among the gods

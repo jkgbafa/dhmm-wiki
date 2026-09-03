@@ -8,6 +8,8 @@ year: 2012
 duration_min: 184
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Call of God"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-call-of-god"]
 ---
 
 number four the call of Moses it's a word of my patience and when the Lord saw that he turned aside to see God called unto him out of the midst of the Bush and said Moses Moses and he said here am I are you looking for the scripture Exodus 3 draw not nigh hither put off thy shoes from off thy feet for the place whereon thou standest is Holy Ground moreover he said I am the god of thy father the god of Abraham the god of Isaac the god of Jacob and Moses hid his face

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Oh, now let's move on to the mad man of Gdara. Our teachings are not bad. We are not ashamed of the gospel. Tell your neighbor, our teachings are not bad. These are classic teaching. Oh, they are not bad at all. They're not bad at all. Are you ashamed? I'm not ashamed. Are you ashamed of the books? Are you ashamed of the teachings? Oh, we are not ashamed. We are not ashamed. We are not ashamed of the gospel of Jesus Christ. For it is God's power of salvation. Oo to everyone. Everyone that believes it. It is

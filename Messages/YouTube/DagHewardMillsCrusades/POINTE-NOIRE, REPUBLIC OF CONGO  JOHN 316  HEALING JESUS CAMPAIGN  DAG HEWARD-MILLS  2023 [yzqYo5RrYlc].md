@@ -9,6 +9,8 @@ duration_min: 90
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/POINTE-NOIRE, REPUBLIC OF CONGO JOHN 316 HEALING JESUS CAMPAIGN DAG HEWARD-MILLS 2023 [yzqYo5RrYlc]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology"]
 ---
 
 say you are Point sh to to you I give my I to P MO for for Hallelujah you Glory the Hallelujah make fore see for new Lord jus for for for he oh wow what a blessing tonight it's another night of Miracles Mir are you ready for your mirac tonight is another night for your deliverance I want you to prepare your heart has an amazing thing for you tonight this place the same because the anointed servant of God is here and we are about to be blessed mirac now everybody lift your hand how many expect

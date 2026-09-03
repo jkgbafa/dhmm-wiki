@@ -7,6 +7,8 @@ url: "https://rumble.com/v5matzt/"
 duration_min: 245
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 Oh yes Thank you all Who am I that the Lord of all yeah get to know my name will get to feel my head Who am I that the pride and holy star would choose to lie the way for my ever water Not because of who I am But because of what you done Not because of what I've done But because of who you are I am a flower we need to be a tomorrow And favoring thou still you're body Why you catch me when you told me who I am I am young I am

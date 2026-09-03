@@ -8,6 +8,8 @@ year: 2002
 duration_min: 53
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 What do you think is the best way to finance the kingdom? I I think that to me if if people were paid their type, yes, faithfully. Yes. I think that it would be a good thing. It probably may not be great.

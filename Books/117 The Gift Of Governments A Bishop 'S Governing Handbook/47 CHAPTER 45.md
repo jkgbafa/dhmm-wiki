@@ -4,6 +4,8 @@ book: "The Gift Of Governments A Bishop 'S Governing Handbook"
 book_number: "117"
 chapter_number: 47
 type: book
+topics: ["Loyalty and Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 ### CHAPTER 45\

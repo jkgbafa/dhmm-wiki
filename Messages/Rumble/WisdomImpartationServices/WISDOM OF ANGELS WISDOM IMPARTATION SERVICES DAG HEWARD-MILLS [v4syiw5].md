@@ -7,6 +7,8 @@ url: "https://rumble.com/v4syiw5/"
 duration_min: 141
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wisdom"]
 ---
 
 You are so beautiful. There's no one like you. It's so good to trust in you. I could live this life without you. I realize now it's all about you.

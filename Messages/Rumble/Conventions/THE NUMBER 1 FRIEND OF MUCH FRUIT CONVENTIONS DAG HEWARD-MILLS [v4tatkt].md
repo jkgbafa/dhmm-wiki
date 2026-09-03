@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tatkt/"
 duration_min: 140
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Oh come on, let me hear some desperate people singing onto the Lord Sheart Come on this one Tell the Lord as that be my water so my soul not tell him she wanna sing again I said he all the water and so can I tell the Lord to let tell him she will desire desire and alone she won you wanna sing to the Lord Siva Spren She I love Sor She Lord Desire Desire and Alcamo tell the Lord tell us she alone give my strength she alone I love take my strength telling you alone desire desire and alone and alone you are now we sing the second best together we wanna tell him I want you more I want to save only he can say I tell Tell him she Lord I will Joy gave up the Lord Can we see one more time tell him that I want you more I'm good God or save can shut his fire and love that give up the law we wanna tell the law telling you at my strength she fell she make my speech desire desire oh come up you wanna talk the law come on to the law she allowed you at my strength she walked at my speech she was I love you tell him man I know and I tonight I would love to worship you tell him I know and alone and I know Can I tell him I love and alone Oh, come on, put your hands together for Jesus.

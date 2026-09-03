@@ -8,6 +8,8 @@ year: 2004
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Welcome to try number five. Very good. Now, we are looking at fruitfulness. And one of the things we saw for fruitfulness is that we need a quiet time. Amen.

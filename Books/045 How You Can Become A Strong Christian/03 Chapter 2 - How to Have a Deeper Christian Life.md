@@ -4,6 +4,8 @@ book: "How You Can Become A Strong Christian"
 book_number: "045"
 chapter_number: 3
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 Chapter 2\

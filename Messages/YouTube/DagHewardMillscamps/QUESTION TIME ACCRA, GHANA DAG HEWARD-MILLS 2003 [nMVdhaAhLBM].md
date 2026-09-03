@@ -9,6 +9,8 @@ duration_min: 41
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/QUESTION TIME  ACCRA, GHANA  DAG HEWARD-MILLS  2003 [nMVdhaAhLBM]]]"
+topics: ["Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number 17 of the Green on the way. Where we are going to answer questions about the ministry and about the work and about whatever the Lord has laid on our hearts. Amen. So we want to welcome Reverend Saki and Pastor Eddie to help us briefly. Amen.

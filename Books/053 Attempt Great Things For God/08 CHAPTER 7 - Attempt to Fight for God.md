@@ -4,6 +4,8 @@ book: "Attempt Great Things For God"
 book_number: "053"
 chapter_number: 8
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 ### CHAPTER 7  \

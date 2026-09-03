@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Kq5eBEqS0ZQ"
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up"]
 ---
 
 I feel that going oh I feel like shouting for joy I don't know about you oh I feel last shout for joy oh oh I feel like shot but just feel like shout for joy feel like shot Oh feel like going on going on ain't feel like going to feel like going on you're like going oh I feel like I'm have you try going on some are being like going on I feel like going on I feel like going on be like going up feeling like going up to much feel like going I feel like

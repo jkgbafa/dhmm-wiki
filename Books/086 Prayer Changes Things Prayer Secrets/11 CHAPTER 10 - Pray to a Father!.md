@@ -4,6 +4,8 @@ book: "Prayer Changes Things Prayer Secrets"
 book_number: "086"
 chapter_number: 11
 type: book
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 ### CHAPTER 10\

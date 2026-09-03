@@ -9,6 +9,8 @@ duration_min: 66
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/Adama, Ethiopia Day 1  Build Your Life On A Rock  HJC  Dag Heward-Mills  2024 [BBKtrOVc6z8]]]"
+topics: ["Prayer", "Prayer/Praying in Tongues", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/the-holy-spirit"]
 ---
 
 God's power is going to move mightily have this time I would like to welcome a very anointed menstrual to bless us with some good music somebody as a money so let's clap a hand welcome I dumb it all yes what I like I'm telling me I think I guess I didn't get rushing it with a lie to the Louis I'm taking a monster I make a lot of side Oh Jesus, oh yes, oh yes, that's another sama, sous qui allez, m'a dit elle est sous la chip, elle a été hale qui allait suspendre, s'abashiamo siamo si chamé, oh yes, y'all get to me, like Oh, clap your hands, let's appreciate the choir.

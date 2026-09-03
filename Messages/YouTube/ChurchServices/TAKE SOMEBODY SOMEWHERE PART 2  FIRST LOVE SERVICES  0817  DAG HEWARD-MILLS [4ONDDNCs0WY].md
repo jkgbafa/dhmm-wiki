@@ -8,6 +8,8 @@ duration_min: 223
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/TAKE SOMEBODY SOMEWHERE PART 2 FIRST LOVE SERVICES 0817 DAG HEWARD-MILLS [4ONDDNCs0WY]]]"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 lift your hands with me to Heaven everybody lift your hands with me Lord thank you for your great blessings we appreciate your kindness we appreciate your coming we appreciate your dwelling we appreciate your abiding we appreciate your continuous blessings thank you for this service thank you for today can you please lift your voice with me let's just give thanks to God from our hearts let's just give thanks to God let's just appreciate God everybody just lift your voice and appreciate him lift your voice and thank him lift your voice and thank him supernaturally yes give

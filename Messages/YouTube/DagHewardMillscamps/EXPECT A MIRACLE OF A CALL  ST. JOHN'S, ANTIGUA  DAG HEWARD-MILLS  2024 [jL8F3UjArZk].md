@@ -8,6 +8,8 @@ year: 2024
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 now we want to move on to number two the miracle of a call the miracle of a call expect a miracle number two I expect the miracle of a call 2 Timothy chapter 1 ver9 is growing to become one of my favorite scriptures I learned it from Derek Prince it says who has saved us amen amen King jams yes who has saved us and called us with an holy calling not according to our works but according to his own purpose and Grace which was given us in Christ Jesus before the found the world began glory

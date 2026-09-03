@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2012
 source: "autocaption"
+topics: ["Ministry and Pastoring", "The Holy Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/the-holy-spirit"]
 ---
 
 sweet influences of the Holy Spirit on your ministry emphasis and priority now. Yeah. Your ministry emphasis. You see, if you are a minister, and I believe you are all ministers, if you are a minister of the gospel, okay, everybody's a minister of the gospel. A lot of ministers are ministers. But the emphasis now, a lot of things that I'm going to say, I don't want you to be hurt, offended, okay? I just want you to receive it as what it is. Okay? The emphasis of the spirit, the the influence of the spirit on your emphasis.

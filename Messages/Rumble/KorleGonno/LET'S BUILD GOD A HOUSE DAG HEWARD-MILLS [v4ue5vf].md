@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ue5vf/"
 duration_min: 45
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Yeah, welcome to church. It's good to be here this morning. And uh it's good to see all of you. We just came back from Pandu in the Volta region. We had a very powerful crusade, and the Lord blessed us mightily.

@@ -4,6 +4,8 @@ book: "The Art Of Hearing How To Be In The Perfect Will Of God 2Nd Ed"
 book_number: "021"
 chapter_number: 18
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ## Chapter 17

@@ -8,6 +8,8 @@ year: 2017
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Lift up your hands and bless Jesus the CV Hallelujah au Chaies au bébé la yesu au mayes au bois taquaba ou abangaya chila fiosé au poussou cha yesu au bébé la yesu a ma yes oh pocha yesou ta qua ou abanga i moue à caia ti la fiosina li a quayesou toali polla lift up your right hand and say amen toali machina lia qua yes soa li balloa m'shina lia qua es so li tivia Moshina li a koye sooali fim boisina liaqua yesou toi bou souka fiosé lift up your hands and sing Yesouya Chila Yeah

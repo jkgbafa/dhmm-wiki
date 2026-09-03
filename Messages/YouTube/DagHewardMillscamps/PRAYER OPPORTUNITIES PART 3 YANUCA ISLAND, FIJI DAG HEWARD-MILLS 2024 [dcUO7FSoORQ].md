@@ -9,6 +9,8 @@ duration_min: 69
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PRAYER OPPORTUNITIES PART 3  YANUCA ISLAND, FIJI  DAG HEWARD-MILLS  2024 [dcUO7FSoORQ]]]"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Go into all the world and preach the gospel. Are you ready to go into all the world? Until your life is done. Until your life is done. If you love me, obey the Great Commission.

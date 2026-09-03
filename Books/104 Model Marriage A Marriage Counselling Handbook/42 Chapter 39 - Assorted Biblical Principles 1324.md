@@ -4,6 +4,8 @@ book: "Model Marriage A Marriage Counselling Handbook"
 book_number: "104"
 chapter_number: 42
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 ## Chapter 39

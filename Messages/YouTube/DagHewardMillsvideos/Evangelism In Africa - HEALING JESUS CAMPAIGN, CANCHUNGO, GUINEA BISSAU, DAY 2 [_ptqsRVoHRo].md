@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_ptqsRVoHRo"
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 is he to be tenacious do it on a dodo he must read nothing yeah Oh Oh ba-ba-ba-ba-ba-ba-ba Oh ha ha ha ha la-di-da boobies are dishes ooh ooh prasada Vida Kusama hallelujah hallelujah Oh Oh eternal to do we get ideas oh boy bye-bye by ba-ba-ba-ba hiccup on develop but the ending Lauria Bible no possible daddy buona mattina Moodle if they come in eupatoria Massimo - oh ho I got a Camino Papa Valeria oh yeah hallelujah hallelujah hallelujah tonight is the second night of this campaign any noises - noises Kampala sorry asurim the transitivity of juvy

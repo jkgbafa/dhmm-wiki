@@ -8,6 +8,8 @@ year: 2018
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 attempt great things for God try wow Pastor Peter many years ago was at a camp meeting and I preach with all my heart like at a camp meeting just like when I finished nobody responded except this one person called Peter nobody nobody minded me and he said I will go I said how will he said I will go and he flew here and came to start the church here God bless him today we are where we are and God is blessing us but we once we are alive we want to attempt not small things but

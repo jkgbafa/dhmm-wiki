@@ -8,6 +8,8 @@ year: 2006
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Welcome to track number 17 of spiritual battles. Thank you, Jesus, for your blessing. Hallowed be thy name, Lord. In Jesus' name. Amen.

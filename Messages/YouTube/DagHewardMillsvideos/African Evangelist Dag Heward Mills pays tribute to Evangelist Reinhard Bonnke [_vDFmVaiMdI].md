@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_vDFmVaiMdI"
 duration_min: 4
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 I want to pay tribute tonight to a man who was a father to me in evangelism Reinhard Bonnke I am standing here in this crusade tonight because of his great ministry and this man died a few days ago on Saturday and this is the first crusade I'm having since he passed away so today I want to pay tribute to evangelist Reinhard Bonnke a great African evangelists or evangelist of Africa he preached in Ghana in tamale in Accra in switcharoo in Cathedral in Kumasi Tecate all over and in many countries in Africa for many years and

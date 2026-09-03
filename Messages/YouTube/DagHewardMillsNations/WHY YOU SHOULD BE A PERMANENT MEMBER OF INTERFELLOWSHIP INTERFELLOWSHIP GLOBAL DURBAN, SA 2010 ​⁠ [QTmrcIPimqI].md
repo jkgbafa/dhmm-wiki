@@ -8,6 +8,8 @@ year: 2010
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 we are honored as a Sunday school to do an item this morning you know as they're going up I just want to share quickly when I came into the church I was I struggled with a lot of things I was um I felt very unworthy and issues I was dealing with but as you go you know the the vision believe more in me than I believe in myself and um I thank God for the Visionary that we have to inspire people to be all that God has intended them to be so as I work with

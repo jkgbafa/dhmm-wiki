@@ -4,6 +4,8 @@ book: "What It Means To Be As Wise As A Serpent"
 book_number: "028"
 chapter_number: 5
 type: book
+topics: ["Marriage and Family", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/marriage-and-family", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Chapter 5\

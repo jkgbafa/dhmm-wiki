@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8GERCNRGnEg"
 duration_min: 155
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 this is a story of the generations of Adam in the day that's called created man in the likeness of God made he in and it came to pass when men began to multiply on the face of the earth and daughters of the earth were born to them and the sons of God saw them that they were safe and they took them wives of all which they chose when the sands of God came in unto the daughters of men they bought children for them the same became mighty men which will old men of renown the wickedness

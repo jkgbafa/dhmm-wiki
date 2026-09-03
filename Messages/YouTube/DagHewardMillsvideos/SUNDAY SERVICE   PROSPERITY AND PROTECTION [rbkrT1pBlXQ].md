@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=rbkrT1pBlXQ"
 duration_min: 47
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 let us pray Heavenly Father thank you for this morning thank you for your blessing and the opportunity that we have to be in church this morning we ask you to guide us lead us bring us into your perfect will thank you Lord for all your blessings for your safety for your provision Lord we ask that you speak to our hearts open our hearts Lord I will be humble to accept your blessing your provision and all that you are doing for us Lord we thank you Heavenly Father in the name of Jesus and everyone said amen

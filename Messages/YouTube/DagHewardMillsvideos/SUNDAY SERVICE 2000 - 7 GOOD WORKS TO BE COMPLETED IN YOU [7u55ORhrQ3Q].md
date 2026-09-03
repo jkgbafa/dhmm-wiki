@@ -8,6 +8,8 @@ year: 2000
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 to everyone Oh to everyone my way my worth the night to my we Oh next year three he'll set you tree now they shine whether thank you you bet you Oh ha haha ha ha me Oh Oh haha Oh be ah now Oh I said hallelujah email when you have a way to do and a Pascal head some spear governed you that's where it is you stand thinking and when you know in your heart that God for mine the gold intent be done by the man that's where you stand you are the point of jeongmi

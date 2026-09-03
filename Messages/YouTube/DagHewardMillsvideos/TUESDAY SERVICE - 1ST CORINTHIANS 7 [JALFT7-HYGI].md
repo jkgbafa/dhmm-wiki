@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JALFT7-HYGI"
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 and come back holiday you my on me Oh me Oh a open your hose what how ha Oh all and then Oh that Am I Oh don't either Oh Oh Oh I wish only that my mother Oh and Oh ha and ah and Oh and on Oh and ha we can open the eyes of my heart Lord open the eyes of my eye I want Oh you Oh Oh on me you to me Oh Oh I wanna do all the beer holy holy holy holy Oh ah having an employee Oh oh man Oh ah Oh

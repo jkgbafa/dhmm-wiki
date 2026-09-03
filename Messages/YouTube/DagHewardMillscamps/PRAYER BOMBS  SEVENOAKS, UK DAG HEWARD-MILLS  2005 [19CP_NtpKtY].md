@@ -8,6 +8,8 @@ year: 2005
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Prayer"]
+tags: ["topic/marriage-and-family", "topic/prayer"]
 ---
 
 welcome to track number nine of obedience unto death somebody should give me a big sheet of paper do you know what is a prayer bomb okay um you know what is a prayer bomb okay I'll show you a prayer bomb before you try any ground troops you must send ah prayer bomb what do you think going to show you a prayer bom okay now this is a special prayer bomb designed in Ghana what do you think in order to become a son of obedience you need to know how to release these prayer bombs they see

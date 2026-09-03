@@ -8,6 +8,8 @@ year: 2022
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Levez-vous, le tasse. Si je pense, si je te souhaite mon piano. So that's Jésus. Alors si Jésus te sent. Oh Jésus.

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sw059/"
 duration_min: 128
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wisdom"]
 ---
 
 Proverbs chapter 8. Some of you came for a concert. I've used that to attract you to listen to the word. Hallelujah. Now can you turn off some of the some of the light?

@@ -8,6 +8,8 @@ year: 2009
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 number four 12 10 people who did not finish their Ministries number one is what deas number two is what Judas number three is what Lu Lucifer number four joash 2 Kings chapter 13 verse 14 now elishah was Fallen sick of his sickness whereof he died and joash the king of Israel came down unto him and wept over his face and said oh my father my father The Chariot of Israel and the horsemen thereof and Elijah said unto him take bow and arrows and he took unto him bow and arrows and and he said to the

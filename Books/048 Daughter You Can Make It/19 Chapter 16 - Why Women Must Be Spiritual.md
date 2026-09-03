@@ -4,6 +4,8 @@ book: "Daughter You Can Make It"
 book_number: "048"
 chapter_number: 19
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 # Chapter 16

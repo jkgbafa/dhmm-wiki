@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ezqXbsXGygk"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Let me see your hands, let me see your job, bever more casual and come say oh the water that we so mama down for the man says, yet you say mommy away, momia, yeah, yeah, I'm the way. That's all come up for Jesus. Young West Jesus Oh my food Jesus I want it Jesus Oh D ma fo Jesus Oh bear anyways about me changed to me Hey Oh come up for Jesus Oh come out Jesus Oh come out for Jesus Oh me Jesus Jesus Jesus Oh bear anyways to me Chen to me Aha Set walkasa O bear cabinet Saint What saw Mat so yeah Nassau que one to woo Jose not to say to me Aha besser Sa walkass O beirabi Amen Se walkass Nassau Noah I have good to o yeah Jesus say Jesus Hallelujah to me Jesus La lay Set Yabina I'm full Janet Amen Se bothina I'm bonina to go no I bought him for Nqua Jesus Mouse to say Jesus Mausona to say Jesus Yen say Yenny say Yenny say Yenny say not to say oh Saya Wancy was help me welcome Maya Jesus loves me this I know for the Bible tells me so once to him belong they are weak but he strong Yesus loves me Oh yes Jesus loves me Oh yes Jesus loves me for the Bible tells me so loves me gates to open white He will wash our way my sins and let his little child come Oh yes Jesus loves me Oh yes Jesus loves me Oh yes Jesus loves me for the Bible tells me for the me I know the Bible the Bible tells me so Hallelujah Are you blessed tonight?

@@ -4,6 +4,8 @@ book: "What It Means To Be As Wise As A Serpent"
 book_number: "028"
 chapter_number: 13
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Chapter 13\

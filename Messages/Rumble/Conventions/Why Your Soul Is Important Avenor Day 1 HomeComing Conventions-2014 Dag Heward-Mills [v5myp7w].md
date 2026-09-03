@@ -8,6 +8,8 @@ year: 2014
 duration_min: 93
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer"]
 ---
 
 Is there anyone here tonight in need of a miracle? May I know by show of hand who is the first person who wants a miracle tonight? If you are the first, then give the Lord a shout. You may be seated. Ladies and gentlemen, I want to remind you that this is not a church service.

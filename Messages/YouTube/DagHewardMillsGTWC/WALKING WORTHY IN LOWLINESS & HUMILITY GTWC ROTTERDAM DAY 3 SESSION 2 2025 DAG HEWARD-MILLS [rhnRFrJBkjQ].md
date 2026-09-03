@@ -8,6 +8,8 @@ year: 2025
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Number fourteen. People are not worthy of Jesus and of his ministry because they do not have lowliness and meekness, loneliness, and meekness with long suffering, lowliness, meekness, and long suffering. They don't have what Ephesians chapter four, verse number one, verse two and verse three. Beautiful, beautiful verse. Check it out.

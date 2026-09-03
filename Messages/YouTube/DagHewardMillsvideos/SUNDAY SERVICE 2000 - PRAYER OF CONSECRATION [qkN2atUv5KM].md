@@ -8,6 +8,8 @@ year: 2000
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 I believe he died and rose again I believe he paid for us all and I believe I believe he's here now I believe that is the Sunday Nanami Biya with the power cute with the power to use and the grace to fall he you may be that hallelujah well I'm most excited to expect it and I believe that God has a special message for us today can I have an email today's a special Sunday and I believe that this Sunday's blessing and anointing is different from last week Sunday Sunday's anointing amen and I at the

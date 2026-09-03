@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4HlxFQVKhKA"
 duration_min: 170
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah let us pray father thank you for this blessing your the time we have in your presence we're excited we are grateful we are blessed lead us by your Mighty Holy Spirit we pray in Jesus name we pray amen you may be seated and um today in this uh offering uh time I'm going to share with you something that I believe is very very important and um that I think is difficult to erase or to change and that is the causes of intractable poverty and the causes of inequality okay why is there inequality why is

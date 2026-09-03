@@ -9,6 +9,8 @@ duration_min: 80
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/STEPS TO THE ANOINTING IN THE WILDERNESS GTWC PARIS DAY 2 SESSION 6 2025 DAG HEWARD MILLS [hxFWHNASoYA]]]"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now I want to show you another seven steps. Maybe these seven steps are not for you but another seven steps can be for you. Let's look at seven steps to the anointing in the wilderness. After the wilderness, the Bible says in Luke 4 verse 15, it says, "And Jesus RETURN IN THE POWER OF THE SPIRIT from the wilderness. SO IN THE WILDERNESS THEY EXPERIENCE THE POWER." EVERYBODY SAY, "I want to experience it." THE POWER. Come stand here. Line up here. from a line here. Just one line. Okay. When I come up to here when I

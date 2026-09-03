@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SYg6SoJB4VY"
 duration_min: 211
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah amen this afternoon we'll SAR like eagles H in the hand of God heyo come come sing Oh My Soul oh my soul you not know you not have you not heard have you not heard it's been told it's been told from the the Lord your God the Lord your God on your side is on your side oh my soul oh my soul don't be afraid Don't Be Afraid hope in the Lord hope in the Lord by his righteousness by his rightousness and power he will strengthen he will streng he will and I will and

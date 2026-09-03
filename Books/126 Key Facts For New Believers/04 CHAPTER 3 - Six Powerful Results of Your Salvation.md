@@ -4,6 +4,8 @@ book: "Key Facts For New Believers"
 book_number: "126"
 chapter_number: 4
 type: book
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 ## CHAPTER 3 

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_Zhn5zd0Z9M"
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 see that your life will not be the same your ministry will change as you fit a defeat of this great servant of God but before he comes join me to welcome Ida to bless us with a song hallelujah Shepherd of my soul I give you full control wherever you there's me I will I have made a choice for your boy wherever you live i below be in a boy by my side you are to d7 our fight will be like ah whenever Shepherd up my god my God will be my god how are you you

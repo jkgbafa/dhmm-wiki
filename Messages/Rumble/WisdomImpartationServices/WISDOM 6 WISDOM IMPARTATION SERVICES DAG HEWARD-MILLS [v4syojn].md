@@ -7,6 +7,8 @@ url: "https://rumble.com/v4syojn/"
 duration_min: 89
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 Glory to God. Wisdom six. Right. Wisdom six. Proverbs six.

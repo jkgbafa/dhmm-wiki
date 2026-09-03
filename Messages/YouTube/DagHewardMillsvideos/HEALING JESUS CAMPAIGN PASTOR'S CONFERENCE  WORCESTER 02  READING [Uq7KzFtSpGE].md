@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Uq7KzFtSpGE"
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 now the next very important thing that I want us to learn about reading yes because our arm changes about reading is that reading is the planting of a seat in your life why because jesus said in the parable of us of the sewer the Word of God is the seed now what happens is that when you have no seed planted in you nothing grows nothing wonderful comes out of your life and that is why you are not supposed to marry your sister is that not true do you have that in South Africa marrying your brothers

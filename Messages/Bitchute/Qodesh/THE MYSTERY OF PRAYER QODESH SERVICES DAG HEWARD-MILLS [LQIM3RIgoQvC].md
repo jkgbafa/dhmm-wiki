@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/LQIM3RIgoQvC/"
 duration_min: 48
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Prayer/Intercession", "Prayer/Praying in Tongues", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/prayer/intercession", "topic/prayer/praying-in-tongues", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 When you feel down and feel like God somehow for button That you are faced with circumstances that you cannot get through Right now it be that there is no way out and you're going under time and time again He will fix this for you And he will do it again again Just take a love and where you may And your way is come through you're the same now as you not shame You may not know how you may not know it knows the pain you've been going through and how you are hurting He understands just

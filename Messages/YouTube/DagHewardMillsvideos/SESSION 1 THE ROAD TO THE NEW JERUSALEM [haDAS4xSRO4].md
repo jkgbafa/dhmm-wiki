@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=haDAS4xSRO4"
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 hallelujah amen let's pray Heavenly Father thank you so much for this evening thank you for your blessings that you have bestowed upon us thank you for bringing us together again to remind that of your word and of the truth that is so real Lord we asked once again this evening that you would be with us and speak to our hot littah into all your will thank you for your blessing tonight in Jesus name Amen you may be seated well I want to welcome you all to homecoming 2004 thank God for safe arrival of all of

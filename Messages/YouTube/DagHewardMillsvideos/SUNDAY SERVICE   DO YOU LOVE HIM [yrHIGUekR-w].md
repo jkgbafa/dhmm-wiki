@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=yrHIGUekR-w"
 duration_min: 46
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 the wonders of salvation all right now John chapter 3 verse number 16 John chapter 3 verse 16 now you could and you could title my message today do you love him amen John 3 verse 16 how many love God okay John 3 verse 16 for God so loved the world that He gave His only begotten Son that whosoever believeth in him should not perish but have everlasting life amen it's all about love amen God loves us and loved us very very very much amen do you believe that all right now any other relationship you have

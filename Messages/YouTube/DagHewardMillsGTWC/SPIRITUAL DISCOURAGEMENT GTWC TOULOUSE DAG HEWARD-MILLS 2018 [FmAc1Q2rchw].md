@@ -9,6 +9,8 @@ duration_min: 130
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/SPIRITUAL DISCOURAGEMENT  GTWC TOULOUSE  DAG HEWARD-MILLS  2018 [FmAc1Q2rchw]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Father, thank you for tonight. And for this give thyself holy conference. What a blessing we have in your presence. We thank you. For guiding us to have this program.

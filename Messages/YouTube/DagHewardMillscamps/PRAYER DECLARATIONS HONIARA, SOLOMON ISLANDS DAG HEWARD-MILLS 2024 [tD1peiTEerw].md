@@ -9,6 +9,8 @@ duration_min: 71
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PRAYER DECLARATIONS  HONIARA, SOLOMON ISLANDS  DAG HEWARD-MILLS  2024 [tD1peiTEerw]]]"
+topics: ["Faith", "Missions", "Missions/The Nations", "Prayer", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/faith", "topic/missions", "topic/missions/the-nations", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Hebrews 11, verse 1. How many of you have received the Holy Spirit today and speaking in tongues? Just lift your hand. Let me see. Oh, raise your hand if you receive the Holy Spirit and you're speaking in tongues today.

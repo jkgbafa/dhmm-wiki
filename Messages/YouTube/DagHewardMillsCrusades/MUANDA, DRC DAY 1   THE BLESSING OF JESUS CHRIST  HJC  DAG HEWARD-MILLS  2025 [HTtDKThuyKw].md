@@ -8,6 +8,8 @@ year: 2025
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Moana. Mana was praying. Oh, paper. Oh, yes. All you is love. Oh go. God. Oh yes. Yeah. We got better. Oh me. Oh, happy. My darling. I want you I'm might be. Heat. Heat. My name is Yes. Oh yes. Yes. Oh yes. I know you must I love you. I love you. Oh yes. Oh god. Because I I Oh yes, I belong. Why do we Oh my go Yes, I do. Clap your hands and let keep clapping your hands. Hallelujah. Hallelujah. Tonight and at this time we are going to receive the man God has sent

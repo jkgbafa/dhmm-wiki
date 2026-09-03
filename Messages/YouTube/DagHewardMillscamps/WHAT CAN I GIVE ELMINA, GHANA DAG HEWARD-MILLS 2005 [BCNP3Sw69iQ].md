@@ -9,6 +9,8 @@ duration_min: 29
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHAT CAN I GIVE   ELMINA, GHANA DAG HEWARD-MILLS  2005 [BCNP3Sw69iQ]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number four of Snake Junction now. How to excel. The next key. How many keys have I given you? Three.

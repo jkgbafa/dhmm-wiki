@@ -4,6 +4,8 @@ book: "Rules Of Church Work Walking Worthy 2Nd Ed"
 book_number: "038"
 chapter_number: 7
 type: book
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 ### CHAPTER 6 \

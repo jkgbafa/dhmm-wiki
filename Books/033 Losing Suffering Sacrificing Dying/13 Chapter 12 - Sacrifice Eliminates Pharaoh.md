@@ -4,6 +4,8 @@ book: "Losing Suffering Sacrificing Dying"
 book_number: "033"
 chapter_number: 13
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 # Chapter 12

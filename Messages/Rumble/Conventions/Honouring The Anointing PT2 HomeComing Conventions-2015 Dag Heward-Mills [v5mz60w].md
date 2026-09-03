@@ -8,6 +8,8 @@ year: 2015
 duration_min: 109
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Hallelujah. Well, it's time to hear the word of God. Are you ready for the word of God? Well, we have our own father in the house once again for this great grace homecoming UK convention. I want to stand to your feet with excitement, with expectation.

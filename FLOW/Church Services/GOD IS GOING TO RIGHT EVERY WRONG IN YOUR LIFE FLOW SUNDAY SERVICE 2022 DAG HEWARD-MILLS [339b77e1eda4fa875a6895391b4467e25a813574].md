@@ -8,6 +8,8 @@ year: 2022
 duration_min: 136
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Let us all lift our hands and give thanks to the Lord wherever you are watching from. This is Flow Church service on Sunday morning. And um God is blessing us today. It is the last day, I think in October. Or the last but one.

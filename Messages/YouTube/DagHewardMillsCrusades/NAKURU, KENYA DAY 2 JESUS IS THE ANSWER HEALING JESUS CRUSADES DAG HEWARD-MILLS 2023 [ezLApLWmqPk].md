@@ -9,6 +9,8 @@ duration_min: 135
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/NAKURU, KENYA DAY 2  JESUS IS THE ANSWER  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2023 [ezLApLWmqPk]]]"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Let's pray about the offering. Father, we ask that you bless the offerings we've given. The heavens will be opened above us tonight. Jesus' name we pray. Nakuru is almost winning the praise and worship award.

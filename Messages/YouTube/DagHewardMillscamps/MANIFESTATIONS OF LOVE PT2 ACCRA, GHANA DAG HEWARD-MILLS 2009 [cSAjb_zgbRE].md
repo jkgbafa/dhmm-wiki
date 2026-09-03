@@ -9,6 +9,8 @@ duration_min: 132
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MANIFESTATIONS OF LOVE PT2  ACCRA, GHANA  DAG HEWARD-MILLS  2009 [cSAjb_zgbRE]]]"
+topics: ["Prayer", "Prayer/All-night Prayer"]
+tags: ["topic/prayer", "topic/prayer/all-night-prayer"]
 ---
 
 Welcome to track number 17 of my first love. Can you hear clearly? Okay. Number one. 19.

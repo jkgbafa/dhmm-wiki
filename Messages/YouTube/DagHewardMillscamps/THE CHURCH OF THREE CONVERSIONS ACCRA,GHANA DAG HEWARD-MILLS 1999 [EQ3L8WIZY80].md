@@ -8,6 +8,8 @@ year: 1999
 duration_min: 67
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 The church of three conversions. Acts chapter 8. Acts chapter 9. Sorry. Alright.

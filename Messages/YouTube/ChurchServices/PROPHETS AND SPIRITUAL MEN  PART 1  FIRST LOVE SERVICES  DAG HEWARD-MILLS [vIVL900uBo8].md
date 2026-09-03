@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=vIVL900uBo8"
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 that other simple song Amen you really dance to the Lord amen waiting I go give to you very simple waiting I go give to you my praise waiting I go give to you my praise waiting I go give to you my PR I know get money my praise you know what my PR my PR Hallelujah let me somebody SC give it up come on give the Lord a shout wait are you as excited as I am are you as excited as I am Give the Lord a shout we are so glad to have our daddy

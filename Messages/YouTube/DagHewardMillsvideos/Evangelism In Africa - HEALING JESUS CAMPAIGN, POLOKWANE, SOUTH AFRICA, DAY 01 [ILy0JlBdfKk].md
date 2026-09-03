@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ILy0JlBdfKk"
 duration_min: 125
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 look wanna give the Lord a shot a friend here we'll be laughing yeah Oh Lucy Luiza hee hee ha ha ha he's a lawyer where one won't be a Buddha booyah Oh whoa bulu CDC tears or more energy you are on our he died lippy Lenalee lift up your voice and sing Lena Lena leave it on like a song we pool teacher leave it on like I saw before deal and leave it on the data that's on you yeah Oh I love your hand and let's welcome Ida to bless us with a song the Lord

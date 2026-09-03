@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=3K5oBwGbkGw"
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-call-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 there are many victims to tell me what my god you carry the young boys thing and then do my single one without the annoyingly you cannot do very much more is by the anointing you can build a mega church you can reach you can see to cross the gather that noisy to the D and I fell and I believe and I and without the anointing my husband you cannot do very much because it is by living and dying system you can build a mega turtle you can freedom you can see and you'll see that why

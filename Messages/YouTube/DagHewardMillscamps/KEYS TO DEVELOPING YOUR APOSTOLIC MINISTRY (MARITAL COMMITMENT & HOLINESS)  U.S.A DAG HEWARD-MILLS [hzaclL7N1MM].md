@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hzaclL7N1MM"
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring"]
 ---
 
 Matthew 25 and um there we can see the parable that Jesus spoke to the people and in this Parable he said one person was given five Talent one was given two talents and one was given one Talent all right now the person who was given one Talent went and hid it in the ground and therefore did nothing with the one Talent are you listening now when the master came they said take the one Talent from this guy and give it to him which has 10 Talent so not using the talent ended up with him losing

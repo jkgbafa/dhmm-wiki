@@ -4,6 +4,8 @@ book: "Others"
 book_number: "025"
 chapter_number: 8
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Chapter 7\

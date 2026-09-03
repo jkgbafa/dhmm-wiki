@@ -8,6 +8,8 @@ year: 2004
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 welcome to track number 10 of others now I want to give you the four dimensions of self-preservation turn with me to Matthew 25 when somebody is involved in preserving himself are you there for the Kingdom of Heaven is as a man traveling into a far country who who called his own servants and delivered unto them his Goods you know that story to one he gave five talents another 21 verse 16 he that had received five talents went and traded Verse 18 He that had received one went and digged in the earth and hit or preserved

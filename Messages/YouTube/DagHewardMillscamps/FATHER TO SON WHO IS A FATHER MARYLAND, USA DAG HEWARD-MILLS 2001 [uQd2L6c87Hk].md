@@ -9,6 +9,8 @@ duration_min: 68
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/FATHER TO SON  WHO IS A FATHER   MARYLAND, USA  DAG HEWARD-MILLS  2001 [uQd2L6c87Hk]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Welcome to track number six. What is your life? On to the next aspect of the camp, which is another um set of things that I want to share with you, which I call father to son. Well, father to son. Second Timothy chapter number two.

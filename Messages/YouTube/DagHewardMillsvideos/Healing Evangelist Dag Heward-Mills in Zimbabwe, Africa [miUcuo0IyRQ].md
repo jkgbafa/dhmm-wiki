@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=miUcuo0IyRQ"
 duration_min: 29
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 welcome to Zimbabwe a land much known for its many wonders its wildlife it's beauty and a world-famous waterfall then Bob wave is one of the most breathtaking places in Africa endowed with many natural marvels including several hundred species of spectacular wildlife in Zimbabwe there is a famous waterfall called Victoria Falls Victoria Falls is one of the seven natural wonders of the world it is the largest waterfall in the world the combined height and width of the Falls together create the world's largest single sheet of flowing water the original and local name of the waterfall is

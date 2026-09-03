@@ -9,6 +9,8 @@ duration_min: 61
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/How and When to Flow in the Tent Ministry  Mampong, Ghana  Dag Heward-Mills  2025 [yOQPIlX9DGY]]]"
+topics: ["Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now, finally, for this session, how and when to flow in the tent ministry? Amen. Number one. Why must you become a lay pastor and flow in the tent ministry? It is when you go to certain places.

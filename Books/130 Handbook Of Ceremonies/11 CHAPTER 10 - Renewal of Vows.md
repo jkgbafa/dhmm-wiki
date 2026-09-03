@@ -4,6 +4,8 @@ book: "Handbook Of Ceremonies"
 book_number: "130"
 chapter_number: 11
 type: book
+topics: ["Marriage and Family", "Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/marriage-and-family", "topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 CHAPTER 10\

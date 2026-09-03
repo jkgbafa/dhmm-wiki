@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=qOH9Yg6W3Cw"
 duration_min: 216
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 coming to here please Gaia how in your houses thank you in Jesus name I may be seated television fatally justice tonight nine eleven and that is turning up almost everything I returned and I saw Under the Sun that the race is not to the Swift okay so this scripture shows that seven things that dependence of what happens okay and most of the things in our lives you can see account earth we are a race when battle we are looking for bread young people reaches the other chief of a de choses enlisted and we call life

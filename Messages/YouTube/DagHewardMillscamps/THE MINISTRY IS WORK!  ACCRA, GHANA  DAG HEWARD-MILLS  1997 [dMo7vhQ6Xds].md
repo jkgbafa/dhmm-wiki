@@ -9,6 +9,8 @@ duration_min: 64
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE MINISTRY IS WORK! ACCRA, GHANA DAG HEWARD-MILLS 1997 [dMo7vhQ6Xds]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number six of loyalty and the mega church now let's look at Ephesians chapter 4 the topic is Ministry is work amen Ephesians chapter 4 Ephesians chapter 4 let us all read from verse number 11 and he gave some Apostles and some prophets and some evangelists amen let's read it again Hallelujah why why for the for the perfecting of the saints that is number one number two is what number three is what let's go it again he gave Apostles pastors prophets teachers for three things isn't it number one how many agree to what

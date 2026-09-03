@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ZfaJtLdqidA"
 duration_min: 269
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Vision and Direction", "Vision and Direction/Hearing God", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we want to spend time this morning to give God thanks and give him praise because God always expects Thanksgiving from his people let's read from Deuteronomy chapter 8 and verse number n the Bible says a land wherein thou shall eat bread without scarceness thou shall not lack anything in it a land whose stones are iron and out of whose Hills thou mayest dig brass verse 10 when thou Hast eaten and at full then thou shall bless the Lord thy God for the good land which he have brought thee into or have given thee Hallelujah today

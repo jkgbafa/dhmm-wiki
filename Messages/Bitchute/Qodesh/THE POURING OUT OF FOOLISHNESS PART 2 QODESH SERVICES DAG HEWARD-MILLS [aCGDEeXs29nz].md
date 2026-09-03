@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/aCGDEeXs29nz/"
 duration_min: 96
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Bearing all my sin and shame in love you came, thank you for somebody thank him, thank you for peace washed me in your hands and flow now. Let's take it from the top. Thank you for cross. I want to give you another opportunity to say thank you. Thank you for being all my sin, bearing all my sin.

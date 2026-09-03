@@ -8,6 +8,8 @@ year: 2000
 duration_min: 75
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Prayer"]
+tags: ["topic/faith", "topic/prayer"]
 ---
 
 powerful I believe that all of a sudden very expectant waiting for today and today has come at long last we have been the Army's official for a long time was away for two and half years by the grace of God his back amen he's back alive and well and I believe that we are going to have breast milk amen feed us and strengthen us and build us up and I believe that your life and my life would not be the same anymore they're missing so much so much and then I think that you'll be here

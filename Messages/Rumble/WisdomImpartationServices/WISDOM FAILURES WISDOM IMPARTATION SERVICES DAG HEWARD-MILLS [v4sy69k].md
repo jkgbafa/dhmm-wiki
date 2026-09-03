@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sy69k/"
 duration_min: 126
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 I used to live my life in darkness. Just a slave in the devil's fortress. I used to live my life and doubt. Wondering what life is about. Then one day a voice heard.

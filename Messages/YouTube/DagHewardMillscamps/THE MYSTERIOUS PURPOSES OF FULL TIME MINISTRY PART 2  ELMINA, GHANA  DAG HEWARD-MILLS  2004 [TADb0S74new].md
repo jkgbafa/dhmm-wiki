@@ -8,6 +8,8 @@ year: 2004
 duration_min: 157
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Call of God", "The Call of God/Responding to the Call", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 we have many things to go through so yesterday I was sharing with you the mysterious purposes of full-time Ministry one of these purposes is um to do what to pay attention to things that need attention is that not so and then another is to avoid the neglect of neglected things all right now um we were looking at uh the Scripture it says till I come give attendance to reading is that not so now I really want to um emphasize that reading should become the main stay of Ministry for for you hallelujah amen father we thank

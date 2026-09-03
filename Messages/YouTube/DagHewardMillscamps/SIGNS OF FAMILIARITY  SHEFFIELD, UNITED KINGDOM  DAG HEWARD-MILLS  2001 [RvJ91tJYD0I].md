@@ -8,6 +8,8 @@ year: 2001
 duration_min: 89
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number 22 of pastors of thousands now signs of familiarity number one or maybe I'll give you how to fight familiarity is the is is the same as a sign a sign and you don't do it that's all what do you think do you want the sign or you want how to fight it how to fight it both okay so a sign of familiarity is sitting at the back yeah I told you the story I went to TS and they were putting me at the back and I said no I want to be

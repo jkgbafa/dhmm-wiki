@@ -8,6 +8,8 @@ year: 2024
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 it sen Luanda ass ass ass oh Jesus Jesus oh Jesus we adore you Sing with me Jesus we adore you Jesus Jesus oh Jesus We adore you oh Jesus we adore you Jesus we adore you shout shout like this oh Jesus we adore you you are lord prince of the savior who compares to you Glory wonderful we exalt you Jesus We adore you oh Jesus we adore you raise your hands oh Jesus we adore you Jesus we adore you We adore you oh Jesus You we adore you oh Jesus we adore you sing with me

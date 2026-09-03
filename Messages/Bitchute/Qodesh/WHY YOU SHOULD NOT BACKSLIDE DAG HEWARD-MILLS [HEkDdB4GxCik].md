@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/HEkDdB4GxCik/"
 duration_min: 30
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Salvation/Backsliding"]
+tags: ["topic/salvation", "topic/salvation/backsliding"]
 ---
 
 I want to um share with you about backsliding. Amen. One of the things that I believe we must not do this year is we must not backslide. And I'm sharing you from my book, backsliding. I hear there are only 30 copies left in Ghana.

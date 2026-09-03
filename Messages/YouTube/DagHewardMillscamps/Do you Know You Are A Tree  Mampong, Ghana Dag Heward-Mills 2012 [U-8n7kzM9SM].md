@@ -8,6 +8,8 @@ year: 2012
 duration_min: 169
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Leadership", "Leadership/Generals and History Makers", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/leadership", "topic/leadership/generals-and-history-makers", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 it's great to be back to see all of you and we thank the Lord for his great blessings amen now um are you excited to be here right it's an exciting Camp because that God is starting something wonderful with us here and I'm excited that you are part of it if you are here then God has chosen you now as as as Lulu was telling us some of you think you've chosen God yeah you think you've chose you you like you've chosen to be a Christian you've chosen to serve God God is lucky to have

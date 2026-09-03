@@ -4,6 +4,8 @@ book: "Church Planting"
 book_number: "008"
 chapter_number: 6
 type: book
+topics: ["Church Growth", "Church Growth/Church Planting"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting"]
 ---
 
 Chapter 5\

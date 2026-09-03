@@ -4,6 +4,8 @@ book: "Steps To The Anointing"
 book_number: "013"
 chapter_number: 23
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ## Chapter 22

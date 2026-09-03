@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/59UMZmrjbjoq/"
 duration_min: 51
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Hallelujah. Let us pray. Heavenly Father, thank you so much for this morning. Thank you for the opportunity that we have in you to come before your word to receive your word. Lord, we are asking that you guide us.

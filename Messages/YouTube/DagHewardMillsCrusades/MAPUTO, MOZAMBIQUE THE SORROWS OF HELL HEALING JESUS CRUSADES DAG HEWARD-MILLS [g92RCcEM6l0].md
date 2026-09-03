@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=g92RCcEM6l0"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Mabuto grita para o Seigneur grita con alegria tu presist di Jesus di vida con salvação de cesárea se moré para onde para gloria ô inferno Jesus te chama si chama la nega seja rapido sua Jesus será salvo a via viviamo terra y tinha todas riquezas do mundo para mundo vestir ropas caras e había un pobre vive à terra seu nome era Lazaro età feridas lambias suas feridas todos Lazaro no botão duerico quiere comer tus restos duerico Lazaro sofria y homérico Lazaro moré levar lì para o sécu para inferno por isso digo tu precisas di Jesus

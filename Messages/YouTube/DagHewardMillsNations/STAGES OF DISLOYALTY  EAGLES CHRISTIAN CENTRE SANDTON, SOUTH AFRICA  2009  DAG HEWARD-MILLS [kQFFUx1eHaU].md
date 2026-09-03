@@ -8,6 +8,8 @@ year: 2009
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 I'm sharing about loyalty and disloyalty and and I was sharing with you yesterday that it's so important to develop faithfulness amen faithfulness and this message is very important for you I cannot give you something better that will help you more in this church than to stabilize the church because demons are at work all the time to accuse the pastor do you understand now every one of us is a sinner I am a sinner yeah I have got so many things that are wrong with me what about you ask your neighbor is there anything wrong with

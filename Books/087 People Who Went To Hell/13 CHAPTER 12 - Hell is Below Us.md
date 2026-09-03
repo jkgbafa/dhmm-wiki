@@ -4,6 +4,8 @@ book: "People Who Went To Hell"
 book_number: "087"
 chapter_number: 13
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 ### CHAPTER 12\

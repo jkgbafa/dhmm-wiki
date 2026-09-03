@@ -8,6 +8,8 @@ year: 2016
 duration_min: 151
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Missions", "Missions/The Nations", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/missions", "topic/missions/the-nations", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 one one time I visited him Bishop danan William some of you know him he's a pastor in Ghana I used to go to church there when I was in school I visited him he had dressed up he was going to the airport he was traveling somewhere then actually he came from a service then he passed through a corridor when you are walking through the you you know that you are in a great place yeah so he said to me come come followed him went quickly walk here walk here he was on his way to the

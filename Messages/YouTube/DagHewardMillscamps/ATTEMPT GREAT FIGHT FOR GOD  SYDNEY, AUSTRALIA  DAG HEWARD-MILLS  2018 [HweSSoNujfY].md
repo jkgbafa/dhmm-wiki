@@ -8,6 +8,8 @@ year: 2018
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Salvation"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/salvation"]
 ---
 
 attempt great things for God number six attempt great fights for God great fights amen amen Colossians chapter 2 verse one for I would attempt great fights or great conflicts for the Lord a great conflict is a great thing it's least a conflict and it's great once you see the word great is a great thing attemp great things we hav't specified with with things yes now it says I would that you knew what great conflict I have for you and for them that are at lodia and for as many as have not seen my face in

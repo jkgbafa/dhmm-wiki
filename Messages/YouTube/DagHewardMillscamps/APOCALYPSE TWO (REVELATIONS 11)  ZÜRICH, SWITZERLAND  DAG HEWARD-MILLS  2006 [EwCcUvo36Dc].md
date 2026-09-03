@@ -8,6 +8,8 @@ year: 2006
 duration_min: 44
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 welcome to track number two of Apocalypse let's go to chapter 11 so we finish one how many are blessed with the revelations Apocalypse of chapter 10 now there was given me a read like unto a rod and the angel stood saying R measure the temple of God the temple which is our lout measure it not for the Gentiles it is given to the Gentiles and the holy city shall they tread Under Foot 40 and2 months and then I will give power unto my two witnesses and they shall prophesy 1,23 score days clothed in sack cloth

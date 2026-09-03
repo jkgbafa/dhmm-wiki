@@ -9,6 +9,8 @@ duration_min: 53
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE VOICE OF GOD IN YOUR HEART  SYDNEY , AUSTRALIA DAG HEWARD-MILLS  2003 [fOkmC6O0r4o]]]"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 Welcome to track number five of how to survive in Ephesus. Where are we reading? First Timothy chapter one. Have you had some coffee? Are you all right?

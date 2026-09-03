@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=eHRgGw4loTk"
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 you see when you don't bear fruit you become a monster because you either do one thing or another most of the monsters and orango are simply unspiritual fruitless people that's why they they say they are starting churches they are not able to do much Shepherds have to watch the flocks you think you have a lot of flocks but you see some have gone here somebody has taken a far away he's taken 10 away he's gone somewhere with them you'll never see them and that's what David was doing how it was Jesus would say in the

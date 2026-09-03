@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tu0pt/"
 duration_min: 85
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Take the shackles up my feet so I can dance. I just wanna praise you. I just wanna praise you. You broke the chains now. I can lift my hands, and I'm gonna praise you.

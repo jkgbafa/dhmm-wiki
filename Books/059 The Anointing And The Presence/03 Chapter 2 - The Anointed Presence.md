@@ -4,6 +4,8 @@ book: "The Anointing And The Presence"
 book_number: "059"
 chapter_number: 3
 type: book
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 ### Chapter 2\

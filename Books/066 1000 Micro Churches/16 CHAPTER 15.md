@@ -4,6 +4,8 @@ book: "1000 Micro Churches"
 book_number: "066"
 chapter_number: 16
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 ### CHAPTER 15\

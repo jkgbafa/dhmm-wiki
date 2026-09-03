@@ -8,6 +8,8 @@ year: 2018
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer"]
 ---
 
 give God one more time a hand clap offering oh can you do it better for God the Bible says if you not clap I will cause the flats to clap for me if you wouldn't clap I will make the flowers I will make the trees to clap for me to cheer me up can you cheer God up this morning by your hand clap offering hallelujah hallelujah yeah amen are you in for something great today how many of you are in for something great today I'm also for something great today Hallelujah now in this Camp our

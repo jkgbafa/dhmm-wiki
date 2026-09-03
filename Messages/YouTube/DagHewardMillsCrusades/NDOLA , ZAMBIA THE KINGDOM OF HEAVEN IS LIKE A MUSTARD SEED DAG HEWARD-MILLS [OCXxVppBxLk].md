@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=OCXxVppBxLk"
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Il y en a l'offia yes Nanoufia fiancé Dina Yesou Bina fiancé ma fiance Nanquat fiancé mon chalon il y en a l'offia yes Nanoufia fiancé Dina yes Dina Fiancéwa l'infiancé Dina yes soyes Dina yes fiancé oh yes come on a sing with me so fiancé oh yes aboom bill moulou nessande Fiance Fia Yesuni Caboumba fiancé dinaille Dina yes fiancé oh yes our soul less our so many so yes are you ready so boule yes so machus are you here in the couloir um fenium Nan loa Lili Nanya Kouanganga il y en a koumene yes are you here sound yes to me so moi me palaumba Yes, one be sure, yes, so what so Nishik Landy Sou Dani Landani Souona if you are Tila Gana Mona if you want to la mona if you want to lay Nana Mona if you want to laugh Nana Mona if you're cheating by Musa Lava Omo Lopa Wakula Oulopa Wakula Yesou to a mi lumba Misso Bula y Sou to Amibalayosa Yawi Lani Landani yeso Landani Sou if you saw Please take your seats quite to my to shaker And we want to invite Committee to left Ida Soon and very soon we are going to see the key soon and very soon we are going to see the key soon and very soon we are going to see the key Hallelujah Hallelujah, we are going to see the king, no more crying there, we are going to see the king, no more crying there, we are going to see the king.

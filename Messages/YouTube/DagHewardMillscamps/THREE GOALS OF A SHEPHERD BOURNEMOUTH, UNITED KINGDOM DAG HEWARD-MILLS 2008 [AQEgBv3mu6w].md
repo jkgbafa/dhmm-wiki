@@ -8,6 +8,8 @@ year: 2008
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 It's good to be with you again here. As you can see, there's a theme the powers of a cross. The reason why it's not a powers of the cross is because it's your cross that is also powerful. It's not only one cross, but it's your cross, which is powerful. Jesus said, Take up your cross and follow me.

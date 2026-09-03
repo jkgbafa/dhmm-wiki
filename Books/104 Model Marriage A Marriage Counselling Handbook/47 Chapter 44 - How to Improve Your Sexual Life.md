@@ -4,6 +4,8 @@ book: "Model Marriage A Marriage Counselling Handbook"
 book_number: "104"
 chapter_number: 47
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 ## Chapter 44

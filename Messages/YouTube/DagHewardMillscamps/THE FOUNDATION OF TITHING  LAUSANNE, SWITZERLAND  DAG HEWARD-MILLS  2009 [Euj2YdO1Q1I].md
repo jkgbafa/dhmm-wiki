@@ -8,6 +8,8 @@ year: 2009
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah all right you be seated than now now that I have mentioned all these foundations to you I'm going to take each one of them all right and then explain why each one is a foundation amen what do you think so so that we understand why I'm calling it a foundation why it's foundational and without it everything crumbles amen amen so the main one that I want to talk about is one of them so the six I'm going to try to just run through and then I also have some of the books there I'll will

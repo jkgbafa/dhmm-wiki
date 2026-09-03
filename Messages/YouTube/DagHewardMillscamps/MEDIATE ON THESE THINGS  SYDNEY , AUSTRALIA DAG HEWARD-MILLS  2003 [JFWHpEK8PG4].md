@@ -8,6 +8,8 @@ year: 2003
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances"]
+tags: ["topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances"]
 ---
 
 welcome to track number 18 of how to survive in Ephesus that's why Africa is the way it is Africa is one of the richest continent but it has been LED we have been led by Wicked people selfish men who rape the country for their own benefit and don't care about who what happens anywhere people who fight Wars and they don't care about what happens to anyone am I right or am I wrong Wicked people who have no thought about anybody else amen are you listening to me I tell you place the husband of one why

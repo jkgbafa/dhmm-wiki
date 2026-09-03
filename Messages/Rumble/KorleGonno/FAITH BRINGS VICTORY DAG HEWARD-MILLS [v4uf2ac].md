@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uf2ac/"
 duration_min: 56
 source: "whisper"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 He will guide you, He will keep you safe and sound, He has promised to never leave you, nor forsake you, and this word is true, God is good, oh, all the time, for the song of praise in this heart of my God is good, oh, all the time in the darkest night, it's like we'll shine, God is good, oh peace of good, all the time. If you're walking in the valley, if you're walking in the valley, and the shadows all around, do not fear, he will guide you, he will keep you safe and sound, he has promised to never leave you, come on, or forsake you, and it's why it's true, God is good, oh all the time, come on, do the song of praise in the side of mine, God is good, come on, all the time, in the starkest night, it's light will shine, God is good, oh peaceful, all the time.

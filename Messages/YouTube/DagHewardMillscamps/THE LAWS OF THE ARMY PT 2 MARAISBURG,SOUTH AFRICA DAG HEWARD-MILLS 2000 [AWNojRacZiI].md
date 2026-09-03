@@ -9,6 +9,8 @@ duration_min: 60
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE LAWS OF THE ARMY PT 2  MARAISBURG,SOUTH AFRICA  DAG HEWARD-MILLS 2000 [AWNojRacZiI]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Welcome to track number eight. The work of the ministry. It was early, so people had not yet come to the uh OPD. What do you call OPD here? OPD.

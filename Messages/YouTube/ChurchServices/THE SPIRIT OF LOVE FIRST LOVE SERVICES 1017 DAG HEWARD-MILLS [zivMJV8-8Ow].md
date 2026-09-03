@@ -8,6 +8,8 @@ duration_min: 162
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/THE SPIRIT OF LOVE  FIRST LOVE SERVICES  1017  DAG HEWARD-MILLS [zivMJV8-8Ow]]]"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 This is just a freestyle, man. Money beats. Gangs, yeah. Yeah, boy. Let's go.

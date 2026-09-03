@@ -9,6 +9,8 @@ duration_min: 129
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/POLOKWANE, SOUTH AFRICA  THE RICH FOOL  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2014 [Rnctg9kZ7jI]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 J'ai souvent à rupture Jesus en hoy la chalabanek so I said Calebala Kalali Ratho Ratola Tesso Raton Let'so Jesu Willet Aléft up your voice Jesus Oh il y a l'Inato Jesus Ratola Tesso Kilaniti Murena Monthi Andou la moral I've chamalouet Lukouri Shamura Monthi Moral I've made Lou Glouri Song Qui backitomas qui won a mon toi Jesus Tonight is the final night of this campaign. Seeing that Jesus is truly a healing Jesus. If you keep Jesus on this final night. God servants especially anointed for you. Mosaka Mudimu.

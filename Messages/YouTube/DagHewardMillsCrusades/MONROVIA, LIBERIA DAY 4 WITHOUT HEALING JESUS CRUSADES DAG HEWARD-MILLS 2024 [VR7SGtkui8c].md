@@ -9,6 +9,8 @@ duration_min: 127
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MONROVIA, LIBERIA DAY 4  WITHOUT  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2024 [VR7SGtkui8c]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 And as you keep clapping, let's receive the volume flesh up in the song La Bia you dead You must be your neighbor said no more You carry And you not get Jesus You know that Fet You got a fet for Jesus If I gain on this in this so I lose Jesus I force everything You I have Jesus You there you die you there you die You there for you by our Jesus I did not present if I gain on this so I lose I close everyone Jesus I have everything is for precious I have Jesus I have Jesus I have Jesus if I have Jesus I have everything Oh Jesus I can Jesus is for precious anything I say I have Jesus I have Jesus I have Jesus if I have Jesus I have everything Oh Jesus my teaching is so precious anything Jesus my Savior Jesus my fear Jesus my helper my so precious I have Jesus if I have Jesus I have everything Oh Jesus I can Jesus precious anything is a day he's a yeah sending my setting I said in my head in my head I said for precious I will sing all this good man what does you know you die you there you die My Lord, my life, my way, my end, I send the way, I pray.

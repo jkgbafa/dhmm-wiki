@@ -8,6 +8,8 @@ year: 2012
 duration_min: 161
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 now the next important atmosphere is the Riverside atmosphere Riverside atmosphere when we when we close I'm going to take you to a river we are already by the river the river is just here and you will see a little of the Riverside atmosphere there's a river that is passing here turn to Psalm 1 it says in Psalm 1 blessed is the man that walth not in the counsel of the ungodly nor standeth in the way of Sinners nor sth in the seat of the scornful but his Delight is in the law of the Lord and

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2009
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 Luke 16:12 Luke says, it says in verse 10, it says, "He that is faithful in that which is least is also faithful in much. He that is faithful in that which is least is faithful also in much. Amen. So to be a loyal assistant is to be faithful in least. Amen. Is it not true? Because it's like being the head pastor. You are the main person or doing the main thing. But when you are the assistant, it's more like you are doing the least or you are in the lower ranks. Is that not so? Is

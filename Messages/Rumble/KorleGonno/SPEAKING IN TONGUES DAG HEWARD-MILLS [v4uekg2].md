@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uekg2/"
 duration_min: 51
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 Father, we thank you for this morning. Thank you for your blessing. Thank you for bringing us together to service this morning. We ask you for your grace, help us, Lord, to do what is right, to receive your word. Open our hearts.

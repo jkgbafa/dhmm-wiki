@@ -7,6 +7,8 @@ url: "https://rumble.com/v4udf5k/"
 duration_min: 64
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 Hallelujah. Are you excited this morning? Wonderful. We thank the Lord for a time of praise. Amen.

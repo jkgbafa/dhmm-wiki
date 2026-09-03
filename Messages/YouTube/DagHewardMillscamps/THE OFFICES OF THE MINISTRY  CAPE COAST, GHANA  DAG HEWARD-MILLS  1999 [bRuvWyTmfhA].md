@@ -8,6 +8,8 @@ year: 1999
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/the-holy-spirit"]
 ---
 
 anointing is there or the holy spirit is there these special offices of ministry become very well defined and very well established and they all perform their specific role beautifully amen are you understanding why the Holy Spirit must come oh are you there or you've gone home sit up everybody sit up sit up sit up sit up you're already up okay when the have you got the last Point okay that is your problem the Holy Spirit causes the establishment of the ministry offices which are Apostle Prophet evangelist pastor and teacher these are the five Ministry offices

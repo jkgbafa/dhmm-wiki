@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uf43q/"
 duration_min: 46
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/loyalty-and-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 I want us to believe God, open our hearts to God to speak into our lives as He has prepared His servant to teach His word, the teaching of the Word that brings His power into our lives. And I know that our lives as a church and as a people will never be the same again. I want us to please stand to our feet and welcome the bishop as he comes to minister. Amen. There's a wind able.

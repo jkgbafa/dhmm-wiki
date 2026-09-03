@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=u1g333ebTic"
 duration_min: 196
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Backsliding"]
+tags: ["topic/salvation", "topic/salvation/backsliding"]
 ---
 
 father thank you for your blessing your guiding of our lives by a mighty Holy Spirit we are thankful Lord your blessing healing touching changing we give you praise we give you thanks we give you glory in the mighty name of Jesus Thank You Holy Spirit Thank You Holy Spirit Melora - on de la vaca baron de la bommana glorify your name Lord glorify your name glorify your name glorify your name thank you thank you thank you thank you in the mighty name of Jesus thank you Lord Dona Mirana bah bah dah dah dah bah bah

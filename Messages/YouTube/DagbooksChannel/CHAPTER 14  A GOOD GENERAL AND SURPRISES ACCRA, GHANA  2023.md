@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Leadership", "Leadership/Generals and History Makers", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 A good general and surprises. Now what is a surprise in the Bible? The word you can say used for surprise is a snare. A snare. Yes. Ecclesiastes chapter 9. Ecclesiasters verse number 12. For man also knoweth not his time. As the fishes that are taken in an evil net, and as birds that are caught in the snare. So are the sons of men snared in an evil time when it fall suddenly on them. Yes. Now mentally many wars are between similarly matched powers. Yes. Are you there? Yes. like I know what you can do and

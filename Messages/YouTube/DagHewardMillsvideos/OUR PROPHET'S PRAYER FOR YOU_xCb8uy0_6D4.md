@@ -3,6 +3,8 @@ title: "OUR PROPHET'S PRAYER FOR YOU_xCb8uy0_6D4"
 channel: "DagHewardMillsvideos"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 I receive grace somebody listening listening CT find grace I hear voice from heaven say help is being given to you now in Jesus name help is me giving to you now in Jesus name help is being given to you now in the name of Jesus whatever man couldn't be able to help you woman couldn't help you personalities couldn't help you receive help from above receive help from above receive help from above I see an office I said I see an office it is your new office God has changed your position and leave that you to

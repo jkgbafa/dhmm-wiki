@@ -8,6 +8,8 @@ year: 2025
 duration_min: 67
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah. What a blessing it is to be here. Thank you, Dr. Paul, your beautiful wife, for welcoming myself into this amazing Glory Dome. Glory Dome. What a blessing to see you all here. This must be the biggest church in the whole wide world. Give the Lord a mighty clap offering for the great things he's doing here. Amen. And thank God for this amazing pastor's conference which we are part of. Amen. Let us pray for a moment. Father, we are in heaven. Thank you for today and thank you for the opportunity to share your word. I

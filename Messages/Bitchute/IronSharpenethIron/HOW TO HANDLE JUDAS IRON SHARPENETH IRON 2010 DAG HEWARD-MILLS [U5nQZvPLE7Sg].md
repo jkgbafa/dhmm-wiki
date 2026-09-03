@@ -8,6 +8,8 @@ year: 2010
 duration_min: 130
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 The next topic. The sujet suivant is we are doing the works of Jesus. How many are going to do the works of the job? How to handle Judas. Now if you are following Jesus and you are doing the works of Jesus.

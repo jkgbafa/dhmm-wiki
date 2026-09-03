@@ -8,6 +8,8 @@ year: 2016
 duration_min: 216
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, we're so happy to be here. Please guide us how to behave in your house. We thank you in Jesus' name. Amen. Amen. You may be seated. Turn with me to Ecclesiastes 9 and verse 11. 911. And that is the determinance of almost everything. I returned and I saw under the sun that the race is not to the swift. Okay. So this scripture shows us seven things that determine um what happens. Okay. And most of the things in our lives you can see are found there. We are in a race. We are in a battle.

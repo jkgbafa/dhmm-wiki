@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zK_QHeN2o84"
 duration_min: 160
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you are I want to ask you to please stand your feet for just a minute Michelle ostrich or Nelson Ibaka by the grace of God we are seeing the for the night of the healing Betelgeuse a concessionaire nanotoxin and actually it is not that doing of any man annual revenue ad it is not a tune of any posture and also for energy it is not their doing of any one angle young lady attest that doing of the Lord God Almighty I own over to focus on another you and I want you to take out your

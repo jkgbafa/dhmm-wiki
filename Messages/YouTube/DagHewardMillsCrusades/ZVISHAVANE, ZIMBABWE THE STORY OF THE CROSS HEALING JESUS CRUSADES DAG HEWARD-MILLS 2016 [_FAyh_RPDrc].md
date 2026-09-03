@@ -9,6 +9,8 @@ duration_min: 79
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/ZVISHAVANE, ZIMBABWE  THE STORY OF THE CROSS  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2016 [_FAyh_RPDrc]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Everybody sing with me come on Sony Jesus Mora be Jesus and me whari we say on a square Mussita Rajesqua Musita soon Sarah Mesquita sound the lift up your hands and say Amen Satan Music Mussita so my same everybody say Jesus Lift up your right hand and say Jesus my walk upon a Jesu Baboko Jesus and die So Kuna is Jesus and die So good and die So could I share Jesu everybody say come on Tokut and I'll go each so good and die Jesus to die Tokutana Token I to the last I come on I say to I'll go ten I'll deny Token die to counter Hallelujah clap your hands for Jesus please be seated at this time in the black and white are you ashes that lady in the closet because she is the same The ashes must keep an eye on her.

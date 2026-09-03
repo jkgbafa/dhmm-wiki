@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=gqrg-KCFyHk"
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 please be seated we have Reverend cometo do our Chairman here to bring up another cerebellum at a time Hey hallelujah amen Hey Osama Jose Castro yatta be suspicious thank you man oh God infidel exact he web murders my respected senior and junior ministers of the gospel nah nah no honorable affiliate insane who is the municipal chief executive Brin centra municipal asunder and other similar fishes regional commander of police other government finalists believers of recreation phase the good people of God ladies and gentlemen our protocol of say I bring you on Britain's in the name of

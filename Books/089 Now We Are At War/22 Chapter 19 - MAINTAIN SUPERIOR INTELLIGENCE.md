@@ -4,6 +4,8 @@ book: "Now We Are At War"
 book_number: "089"
 chapter_number: 22
 type: book
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 ### Chapter 19\

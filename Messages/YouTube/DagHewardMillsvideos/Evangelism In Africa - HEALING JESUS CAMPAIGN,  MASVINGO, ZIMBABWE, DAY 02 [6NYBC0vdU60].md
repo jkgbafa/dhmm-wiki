@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6NYBC0vdU60"
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah bossy go hallelujah if you believe Jesus is here country lift up your left hand and if you believe Jesus what touch shooters if the lift of the right one put your opponent's pieces just up your right hand get cheese on the way morning peaches easy to eat it ha ha that's what I thought tell me what he must impose any tattoo easy tattoo ah me Hanuman ie each cou I cou I cou naman ie he said oku everybody supported ie Hakuna Matata he said oh good nie nie da cunha ma te he said to

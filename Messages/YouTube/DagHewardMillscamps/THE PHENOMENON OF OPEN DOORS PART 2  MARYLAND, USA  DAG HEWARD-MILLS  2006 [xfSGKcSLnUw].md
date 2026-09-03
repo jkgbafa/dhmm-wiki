@@ -8,6 +8,8 @@ year: 2006
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Hallelujah am Hallelujah you shall be blessed in Jesus name am amen amen are you glad you came yes e not be here easily think differently huh you could easily think differently you are here so I always even when you think correctly it's God did you know that wow wow wow even the fact that you decided to com want to go you can make a way wow feel a blessing flying and coming to rest Jesus name a new dawn of great opportuni it is one of the things that makes me sad when I see great anointed

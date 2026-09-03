@@ -8,6 +8,8 @@ year: 2023
 duration_min: 28
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 now the next one sheep seeking campaign sheep seeking campaign Jeremiah 23 verse1 wo be unto the pastors that destroy and Scatter the Sheep therefore the Lord says you've scattered my flock and have not visited them amen amen Ezekiel 34 it says therefore ye Shepherds hear the word of the Lord as I live I my God I the Lord surely because my flock have become a prey and my flock became meat to every beast on the field because there was no Shepherd neither did my shepherd search for the flock therefore oh ye Shepherds hear the word

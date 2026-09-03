@@ -8,6 +8,8 @@ year: 2025
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now I want to give you seven steps. How many would like just seven steps to this anointing? 4. Wow. Wow.

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4twupw/"
 duration_min: 52
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 Hallelujah. Are you glad to be in church tonight? Right. Tonight we are sharing just a short message on salvation again. And I'm trying to explain salvation in about a hundred different ways.

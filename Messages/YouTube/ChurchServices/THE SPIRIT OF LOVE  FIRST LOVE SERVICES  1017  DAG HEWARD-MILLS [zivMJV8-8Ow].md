@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zivMJV8-8Ow"
 duration_min: 162
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 this is just a freestyle Manon tonon tonyon teson Tony I need a house and you give it to me I need a car you give it to me anything I want you they give to me so everything I am I give it to you bring them back I wony to ever my iing to you I to bring to you my everything my testimonies testimonies testimonies T testimonies tonies testimonies I'm doing you wrong but still blessing me all my friends and my family they give up on me you give me a chance chasing me youo good

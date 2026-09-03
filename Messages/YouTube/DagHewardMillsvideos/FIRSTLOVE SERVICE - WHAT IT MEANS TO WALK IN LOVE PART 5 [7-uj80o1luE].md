@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7-uj80o1luE"
 duration_min: 138
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Judgment"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/judgment"]
 ---
 
 now you may see that school it's so fun and you can do anything you want playing pool sleeping around with pornography ography and you may think it's okay and you may loopy unaware but you need to ask yourself is my naming the rules of life whether you want I want you teaching giving your life giving the life where do you want it just won't you have to give him your life give him the life she does but your life ah now you may think that you're so in love in the boy you love is the

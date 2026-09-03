@@ -8,6 +8,8 @@ year: 2005
 duration_min: 89
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer"]
 ---
 
 Come on, lift your hand and say, Hear us, oh spirits of darkness, come on, hear us, oh spirit of us, oh you will know where we stand his church. But by the blood of the Lamb, come on, the blood of the Lamb. Shake your fist one more time and say, Yes, oh spirits of darkness, come on, hear us, oh spirit of God, so you will know where we stand, we are his children, stars, but by the blood of the Lamb of the Lamb, we are the people yes, we are the people of God by his name from God and say one's everyone because of the blood Jesus give the Lord a big night cloud, hallelujah, shake your brother, shake your sister, hug your brother, hug your sister.

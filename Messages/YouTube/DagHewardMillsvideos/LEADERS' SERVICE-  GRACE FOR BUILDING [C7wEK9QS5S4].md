@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=C7wEK9QS5S4"
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Leadership"]
+tags: ["topic/anointing", "topic/leadership"]
 ---
 
 hallelujah amen father thank you for this great opportunity that we have in your presence we ask that you speak to our hearts lead us into all of your will in Jesus name amen amen you may be seated in the presence of the Lord hallelujah amen praise the lord well we thank the Lord for um his presence and uh for all that he has done with us and for us amen amen now we are sharing about the Builder's anointing and uh today I want to did I ask you to bring some oil did you bring it

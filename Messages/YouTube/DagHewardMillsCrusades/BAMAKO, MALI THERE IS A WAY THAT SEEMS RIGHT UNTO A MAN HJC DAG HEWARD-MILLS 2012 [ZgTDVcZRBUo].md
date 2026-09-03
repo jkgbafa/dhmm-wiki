@@ -8,6 +8,8 @@ year: 2012
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Sous la mort qui est vous levez dans la vie Jésus-Christ Car les Véréla Encarguez Yahweh Jésus pour Beba en Bauchemay C'est ça là c'est bête c'est pas volontaire C'est ça là c'est pas c'est bébé c'est ça là c'est pas c'est béni on gagne on gagne on a gagné on guille on gagne on a gagné On gagne On gagne Tu es qui nous donne la maison Tu as le Dieu Tu es le Dieu qui nous donne la paix toi On a gagné On gagne Oh on a gagné On gagne On gagne On a gagné On gagne On gagne Tu es la qui donne avec toi Tu es la Dieu qui nous donne avec toi Jésus a gagné Oh cav Toutes Problem Jésus le vaincre El y avait nous sommes le Dieu Oh la monde Tu es le game La maison On a gagné En gagne en gars Ah on a gagné Put your hands together for Jesus The power of God is moving already en trained And I believe that tonight your life will never be the same malasina qui gagna tu parles sur le fruit même We've had two night of the power of God here in Bakao I souffle à la cassé par passé de nuit du mur Et ce soir c'est la troisième nuit Whatever Has not been done accomplished tonight Oh my god Tout ce qui s'est passé dans le vieux soir c'est la part de Jésus I know your life will never be the same at the Alors tu viens vos vénéres seront plus jamais les mêmes Please rise your feet tonight I expect Jatan sa part et chat mon mirror C'est n'est pas possible Qu'il soit Everybody lift up your hands.

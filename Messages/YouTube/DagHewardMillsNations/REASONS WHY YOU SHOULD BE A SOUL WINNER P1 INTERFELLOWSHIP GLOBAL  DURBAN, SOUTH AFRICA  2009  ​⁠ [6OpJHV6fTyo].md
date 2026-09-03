@@ -8,6 +8,8 @@ year: 2009
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Salvation", "Salvation/Backsliding", "Soul Winning and Evangelism", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/salvation", "topic/salvation/backsliding", "topic/soul-winning-and-evangelism", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Hallelujah lift your hands let's thank God shall we all stand please just thank God for tonight ask God to speak to your heart father thank you for your blessing thank you for your healing thank you for your mercies thank you that you finished what you started in us we love you Jesus We Praise You Lord we are grateful for your great blessing that you give to us to gather us here to minister to us to give us a feast of your servants Ministry we thank you Lord what a great blessing thank you for all these

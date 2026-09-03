@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=x0f4m98bXlE"
 duration_min: 119
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Prayer", "Prayer/Praying in Tongues", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Because the anointing is specific, it's like a shirt that someone wears. Amen. Amen. It's like a shirt that someone is wearing because it's a coat. If someone here asks me for my shirt, the shirt I'm wearing, and says "I want your shirt, the shirt you have, is it possible for me to give you that shirt?" Similarly, if someone wants the anointing on my life, it is possible that the person can receive it. But it's not easy. For what ? Because the anointing is also described as a cloak . Isaiah said, he said to you, I

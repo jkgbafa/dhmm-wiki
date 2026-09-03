@@ -4,6 +4,8 @@ book: "The Reward For Hard Work Is More Work"
 book_number: "096"
 chapter_number: 7
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ### Chapter 6\

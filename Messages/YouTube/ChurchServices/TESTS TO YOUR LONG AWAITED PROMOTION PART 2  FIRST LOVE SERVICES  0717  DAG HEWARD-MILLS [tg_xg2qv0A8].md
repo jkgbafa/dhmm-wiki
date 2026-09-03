@@ -8,6 +8,8 @@ duration_min: 165
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/TESTS TO YOUR LONG AWAITED PROMOTION PART 2 FIRST LOVE SERVICES 0717 DAG HEWARD-MILLS [tg_xg2qv0A8]]]"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Deliverance"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance"]
 ---
 
 say one thing I know is that I'm never alone I know God got my showing God all the Christians will love to dance all the people love to move you ready show me a fire finger huh all the and all the is good he every that's why I just to say gu been right there with I all the great guys hold my hand letting go giving me love give and you flow God come ride with us come move with us come roll with us God give all the your hands high everybody in the the high

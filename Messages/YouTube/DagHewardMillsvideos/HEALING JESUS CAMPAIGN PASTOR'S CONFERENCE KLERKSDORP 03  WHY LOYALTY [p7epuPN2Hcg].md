@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=p7epuPN2Hcg"
 duration_min: 102
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 are you they annoy me you cannot do very good form it's by the anointing you can build a mega church you cannot do very good because it's my be annoying you can treat you can gather water blessing you're enjoying itis music you want more all right now just to just to come to the end of this little session here I want to share with you about loyalty why is loyalty important number one because loyalty is the main requirement of a 7 first Corinthians chapter number 4 and verse 2 he says it is required in stewards

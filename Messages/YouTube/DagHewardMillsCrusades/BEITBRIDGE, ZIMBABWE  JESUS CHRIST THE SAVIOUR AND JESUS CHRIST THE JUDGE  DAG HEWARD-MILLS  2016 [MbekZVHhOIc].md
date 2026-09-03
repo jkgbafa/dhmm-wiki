@@ -8,6 +8,8 @@ year: 2016
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 the name of Mo far are you here are you sure you are here lift up your voice and give Jesus a shout oh Baba w oh t lift up your voice and say kind Fe oh come on and say lift up your right hand and say God God good Hallelujah are you ready B Bri are you ready Jesus a shine give Jesus a shine is are you here are you here are you here are you here what condition give Jesus come on sing with me come on come on on give Jesus a shout somebody take

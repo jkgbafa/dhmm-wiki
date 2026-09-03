@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2015
 source: "autocaption"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Turn with me to Hebrews chapter 6:10. Wow. Hebrews chapter 6 verse 10. For God is not unrighteous to forget your work of labor, your work and labor of love which you have showed toward his name. in that you have ministered to the saints and do minister. Amen. Most of us are aware of the four big sins. Lying, stealing, cheating, smoking, drinking, etc. But we are not aware of the sin which is one of the most profound sins. The sin of forgetting what we should not forget. Amen. Amen. So Hebrews 6:10 says, "God is not unrighteous."

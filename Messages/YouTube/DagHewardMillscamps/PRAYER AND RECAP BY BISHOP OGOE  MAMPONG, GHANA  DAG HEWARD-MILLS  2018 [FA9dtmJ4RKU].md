@@ -8,6 +8,8 @@ year: 2018
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 let the spirit influence your prayers this morning sh you may easily not pray in the spirit because you don't believe what we are doing the mystery of speaking in tongues it is a mystery it is a mystery it is a mystery it is not easily understood but keep yourself to praying in the Holy Ghost this morning in in one more minute everyone lift your voice there pray in the spirit one more minute one more minute 60 more seconds m sh Jesus we thank you Jesus we thank you Hallelujah giving ourselves to the Holy Spirit and

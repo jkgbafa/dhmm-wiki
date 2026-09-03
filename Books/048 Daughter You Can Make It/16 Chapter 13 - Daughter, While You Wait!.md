@@ -4,6 +4,8 @@ book: "Daughter You Can Make It"
 book_number: "048"
 chapter_number: 16
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 # Chapter 13

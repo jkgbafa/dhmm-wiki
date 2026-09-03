@@ -8,6 +8,8 @@ year: 2003
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now this brings me to another gate which I want to look at. And I think this is a very primary, very important one. Probably one of the most important ones, as I think concern us, and it's called the honor of man. John chapter 5, verse 41. I receive not, it should be in red in your Bible.

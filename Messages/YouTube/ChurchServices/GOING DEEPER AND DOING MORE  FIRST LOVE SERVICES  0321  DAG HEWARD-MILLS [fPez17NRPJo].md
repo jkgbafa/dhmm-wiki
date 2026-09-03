@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=fPez17NRPJo"
 duration_min: 213
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 amen this morning this afternoon wherever you are you want to bless the name of the Lord hallelujah amen he's worthy to be praised thank you Jesus Oh sing blessed be blessed be the name of the Lord he is worthy to be praised and adore so we lift up holy hands so we lift up holy hand in one singing singing blessed be the name oh blessed be the name oh blessed be the name of the Lord sing blessed be the name blessed be the name of the Lord he is worthy he is worthy to be praised

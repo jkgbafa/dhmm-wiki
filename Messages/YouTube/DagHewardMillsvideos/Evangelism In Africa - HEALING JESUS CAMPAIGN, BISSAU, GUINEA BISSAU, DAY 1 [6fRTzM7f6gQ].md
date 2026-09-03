@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6fRTzM7f6gQ"
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 please Aquajet so sweet song nothing a button on me in a bar Dora bah bah gah gah gah gah goo vestido partner dee da ba da liberdade Romero not classified Oh ah boo pieces our teachers work Hoopa desire TV da ba ba ba ba hey Gloria all the family's not saga what else my song ha ha aha aha hi Oh Oh appreciative recipe universe but some powerful songs we are here tonight da-da-da-da-dah please be seated everywhere if you have a cd4 santana's Tipu telephone computer lab using the filter hallelujah Allen area this is the second

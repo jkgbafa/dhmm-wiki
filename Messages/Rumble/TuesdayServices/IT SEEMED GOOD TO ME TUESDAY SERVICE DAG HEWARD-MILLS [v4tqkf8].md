@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqkf8/"
 duration_min: 81
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 Thank you for your blessing tonight. Thank you for your grace that you give us to gather here this evening. Minister to our hearts and lead us by your spirit. Thank you, Lord. In Jesus' name.

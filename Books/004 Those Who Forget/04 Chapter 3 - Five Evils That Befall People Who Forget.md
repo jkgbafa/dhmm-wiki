@@ -4,6 +4,8 @@ book: "Those Who Forget"
 book_number: "004"
 chapter_number: 4
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 # Chapter 3

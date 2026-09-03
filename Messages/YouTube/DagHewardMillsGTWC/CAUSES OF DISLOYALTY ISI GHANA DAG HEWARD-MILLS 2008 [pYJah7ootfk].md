@@ -8,6 +8,8 @@ year: 2008
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Wealth and Finances"]
+tags: ["topic/loyalty-and-disloyalty", "topic/wealth-and-finances"]
 ---
 
 Draw me closer to you, reveal secret heart desire, and tell me until the gift in me is pure. Hello. Where's everybody going? Please do not collect it now. We are having a session.

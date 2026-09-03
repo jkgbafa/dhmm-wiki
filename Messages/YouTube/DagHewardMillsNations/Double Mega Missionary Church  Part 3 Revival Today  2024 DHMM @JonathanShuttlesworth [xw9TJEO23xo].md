@@ -8,6 +8,8 @@ year: 2024
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Missions", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/missions", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Hallelujah let us pray father thank you for today thank you for your blessing that you give to us we love you Lord we're grateful we ask you for your spirit to touch everyone who is here by your Mighty power thank you for using us using us using us taking us into your army to do your work to do your will we're grateful for this opportunity in Jesus name and everyone shouted amen you may be seated thank you evangelists Jonathan for the honor of being here again amen amen how many are ready to build a mega

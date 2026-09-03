@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=mhkq9TdXeeE"
 duration_min: 39
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Backsliding"]
+tags: ["topic/salvation", "topic/salvation/backsliding"]
 ---
 
 my subject today is backsliding I wanted to speak about that we've been talking about a deeper closer walk with the Lord and one of the ways to keep ourselves from going away from the Lord or going closer or one of the ways to help us go closer if you like is to prevent yourself from sliding backwards amen and so I want to share about backsliding of which I wrote a book and it's right here and you can get a copy from the book shop after church and read it amen now backsliding is something that is

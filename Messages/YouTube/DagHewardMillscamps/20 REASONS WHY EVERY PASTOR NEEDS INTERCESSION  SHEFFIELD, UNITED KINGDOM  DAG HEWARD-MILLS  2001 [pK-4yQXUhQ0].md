@@ -8,6 +8,8 @@ year: 2001
 duration_min: 26
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Prayer", "Prayer/Intercession"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/prayer", "topic/prayer/intercession"]
 ---
 
 welcome to track number eight of pastors of thousands 20 reasons why every Pastor needs intercession or you could make it 20 reasons why Lady Pastor Rebecca needed prayer for herself somebody needed to pray for her so that she could have a breakthrough is that not so philipper 20 reasons why your husband needs to be prayed for amen lenda 20 reasons why your husband needs intercession not just advice intercession amen Louisa 20 reasons why your future husband needs intercession and you yourself also need inter session amen my brother your name Michael are you married you are

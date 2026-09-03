@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=EoXVhNNcLdM"
 duration_min: 145
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Salvation"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/salvation"]
 ---
 
 Hallelujah. Father, thank you for the great blessing in Jesus' name. Amen. I am a good Samaritan because I bring the blood of Jesus to the people of this world who are in need of salvation. Amen.

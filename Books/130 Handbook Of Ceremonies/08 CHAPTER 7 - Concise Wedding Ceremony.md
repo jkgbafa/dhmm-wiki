@@ -4,6 +4,8 @@ book: "Handbook Of Ceremonies"
 book_number: "130"
 chapter_number: 8
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 CHAPTER 7\

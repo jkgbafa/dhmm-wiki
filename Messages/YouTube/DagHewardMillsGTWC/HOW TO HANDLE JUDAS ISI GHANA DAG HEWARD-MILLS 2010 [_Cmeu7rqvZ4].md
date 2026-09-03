@@ -8,6 +8,8 @@ year: 2010
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring"]
 ---
 
 The next topic suivant is we are doing the works of Jesus. How many are going to do the works of the words? How to handle Judas. Now if you are following Jesus and you are doing the works of Jesus, as a good leader, one of the things you need to have, is the ability, to handle Judas is cariot. Amen.

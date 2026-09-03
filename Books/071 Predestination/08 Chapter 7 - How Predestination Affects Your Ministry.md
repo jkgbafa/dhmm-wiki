@@ -4,6 +4,8 @@ book: "Predestination"
 book_number: "071"
 chapter_number: 8
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ### Chapter 7\

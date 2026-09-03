@@ -8,6 +8,8 @@ year: 2003
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 welcome to track number eight of gates and Roads you are going to be blessed when you are able to see things from a Heavenly point of view amen so when you are not following the honor of man when you are following the honor of man it's not easy to see things from Heavenly but even the heaven is talk about you can't see it next thing you can be a woman of Faith you can't be a woman of Faith you can't be a woman who preaches a woman who say a woman who Minister a man you

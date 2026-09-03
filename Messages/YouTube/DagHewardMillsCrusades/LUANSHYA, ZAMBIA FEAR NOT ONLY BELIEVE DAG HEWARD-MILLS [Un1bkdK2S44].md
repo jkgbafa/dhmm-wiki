@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Un1bkdK2S44"
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 If you believe Jesus is here this evening, kindly lift up your left hand, and if you believe Jesus will touch you this evening, lift up the right one, and put your hands together for Jesus now quite fiance monocha Iliona Lufia Yesu Nalufia Fionse Dina Yesu Dina Yesu Dina Fion say one Fion Yahweh Yahweh Now quite Fiona Bono Illyona Lufia Yeso Nalufia Fionse Dina Yeso Dina Fionce Ali Wama Fionce Dinah so yes I sure I many ibani Dina so yes Dina so yes I yes Ali Wah se nelly lift up your right hand give Jesus a

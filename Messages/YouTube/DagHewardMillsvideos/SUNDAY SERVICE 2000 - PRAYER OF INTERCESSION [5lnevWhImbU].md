@@ -8,6 +8,8 @@ year: 2000
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Intercession"]
+tags: ["topic/prayer", "topic/prayer/intercession"]
 ---
 
 fire is ready with mega song you want to welcome them and give your offering as well thank you hallelujah hallelujah want to thank the song it says take me back take me back the Lord to the pain mercy take me back take me back hello I believe help me please yeah to the the take me back Oh let's me happy that I'm so far from you know hey boy Oh simple thing memory my drawing I by and cut and dry maybe I'll sing it again happy I'm so far from your long still ahead the voice

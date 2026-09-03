@@ -4,6 +4,8 @@ book: "The Art Of Leadership 3Rd Edition"
 book_number: "022"
 chapter_number: 8
 type: book
+topics: ["Leadership", "Wealth and Finances"]
+tags: ["topic/leadership", "topic/wealth-and-finances"]
 ---
 
 ### Chapter 6\

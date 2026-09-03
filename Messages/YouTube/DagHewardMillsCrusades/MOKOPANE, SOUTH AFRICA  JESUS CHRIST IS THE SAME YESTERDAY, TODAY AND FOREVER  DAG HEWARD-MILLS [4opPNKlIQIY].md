@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4opPNKlIQIY"
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer"]
 ---
 
 tonight is the first night of this campaign here in mopani I believe that God has great things in store for us at this time I want to welcome the chief's representative to bring us a word let's put our hands together and receive him hallelujah praise the Lord hallelujah glory to Jesus way today it is very good here at we are receiving people from Ghana today let me start by greeting all of you those who are gathered here today at Muk it is long that has not been with Jesus Jesus has come by so saying I

@@ -4,6 +4,8 @@ book: "Faith Secrets"
 book_number: "060"
 chapter_number: 65
 type: book
+topics: ["Faith", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ### Chapter 64\

@@ -9,6 +9,8 @@ duration_min: 61
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MERCY AND JUDGEMENT SEATS OF GOD PT1  CARDIFF, UNITED KINGDOM  DAG HEWARD-MILLS  2003 [zHKNLlXoB2Y]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Judgment", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/judgment", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 Welcome to track number one of Bima. Make my heart faithful and true. So when you look at me, it's your righteousness you see. Lord make me pure in heart. Lord make me pure in heart.

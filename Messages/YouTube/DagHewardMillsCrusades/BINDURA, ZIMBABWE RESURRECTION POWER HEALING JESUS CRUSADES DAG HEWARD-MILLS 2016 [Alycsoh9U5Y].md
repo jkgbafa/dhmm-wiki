@@ -9,6 +9,8 @@ duration_min: 95
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/BINDURA, ZIMBABWE  RESURRECTION POWER  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2016 [Alycsoh9U5Y]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Put your hands together for Jesus Nemo Tambura Nika Munti Noora Zenda No Kuna Matai Kawana Shama Kandisira Debu Mufaro Now lift up your hat I say Kawana Jama Kandisi Oh Fukamba Dikawana Shama Kandisi Oh Dalana Jamakalitiya Oh Gama Dokuna Ma vie so pura Budsum Dida Sakama Kina Dika Jesu Dina Fara Dika Well Shama Kanditi Oh Timoga Gimme Boga Maya Lift up your hands I sing DVD Magama Divoga Give a Lana Kundura I ready No matter Jesus No Kurum Bisay Ma Kandi Bonessa Ma Kandi No Rain on the Pon Esqua Terra This was my life before Naita Na ishika Na if I'm gonna show me the meeting Banda Carona Jesus Hallelujah Sarah Panda Carona And every tongue did you hear that?

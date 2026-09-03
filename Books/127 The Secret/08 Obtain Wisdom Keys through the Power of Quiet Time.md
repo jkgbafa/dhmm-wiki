@@ -4,6 +4,8 @@ book: "The Secret"
 book_number: "127"
 chapter_number: 8
 type: book
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 ## Obtain Wisdom Keys through the Power of Quiet Time

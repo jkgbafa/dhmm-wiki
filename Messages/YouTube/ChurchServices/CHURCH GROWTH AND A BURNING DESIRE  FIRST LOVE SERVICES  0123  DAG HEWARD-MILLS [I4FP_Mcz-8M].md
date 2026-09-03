@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=I4FP_Mcz-8M"
 duration_min: 258
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Romans chapter 1 and verse number four it says and declare to be the Son of God with power according to the spirit of Holiness by the resurrection from the dead you can see clearly in the scripture spirit of Holiness that's the Holy Spirit he wants to make you a holy Christian without Holiness you can't see God without Holiness you can't see God which means that you can't see the things of God in your life you will only be seeing the things of this world but not the things of God and without Holiness you can't please

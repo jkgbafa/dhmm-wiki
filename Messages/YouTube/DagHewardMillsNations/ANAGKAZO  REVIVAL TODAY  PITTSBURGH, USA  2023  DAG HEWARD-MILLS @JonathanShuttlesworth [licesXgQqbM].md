@@ -8,6 +8,8 @@ year: 2023
 duration_min: 159
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Anagkazo and Compelling"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/anagkazo-and-compelling"]
 ---
 
 let us pray father thank you for this great blessing thank you for this great help from your holy spirit thank you for guiding us leading us building us up we love you father oh we thank you in the mighty name of Jesus father thank you for every Church every Pastor thank you for all those watching online thank you for the great Ministries that are being Beth and thank you for great children of the Lord that are being anointed to serve we love you father lead us Lord in this short service thank you that every seed

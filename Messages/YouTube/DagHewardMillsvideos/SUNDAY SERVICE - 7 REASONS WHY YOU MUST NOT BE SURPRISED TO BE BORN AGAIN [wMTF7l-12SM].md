@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wMTF7l-12SM"
 duration_min: 67
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Salvation", "Salvation/The New Birth", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/salvation", "topic/salvation/the-new-birth", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 the time we can go on day by day that very we are the true we are people we are we know but are you surprised we we are we are his people we are the ones who know the Word of God so lest our preaching go down with it we know the world of last ah ah ah Raj we are just below the word of God so that dark creature too short and this truth can make a better world through teaser be that girl be that boy he's born again hold it I'm not a doorman

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tG38qeMnPGI"
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 yeah come on okay everybody take care do we plan to lie to you mother lift up you're too handsome eikichi tucked away Yago to be bad yahooza for the AMA Cosby Yahoo - Lisa Yahoo - visa tiago casita go see ama go see Tiago to Mesa Yahoo julissa Yahoo Julita Yahoo - mr. Jia going to me bad Yahoo - Mesa you're going to meet Oscar - what I like that I said Yahoo - mr. the Apple to me sad Yahoo to meet us Oh Iago Jovita there were to meet us Yahoo to meet us today's

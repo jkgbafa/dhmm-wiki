@@ -8,6 +8,8 @@ year: 2024
 duration_min: 207
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah. You may be seated. Now John chapter 21. John chapter 2. Jesus said to the title of my short message this morning is they were amazed at his teaching.

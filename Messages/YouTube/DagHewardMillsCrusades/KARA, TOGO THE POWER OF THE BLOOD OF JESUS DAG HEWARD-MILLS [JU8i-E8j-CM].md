@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JU8i-E8j-CM"
 duration_min: 151
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Mon corps, je veux t'adorer, je veux t'adorer, Jéhovah, Saint-Esprit, viens, viens, remplis, oh je veux t'adorer, moi je veux t'adorer, Jéhovah, Jéhouba, Saint-Esprit, viens, oui, viens, remplis. Je dis, je veux t'adorer. Oh, t'adorer. J'évoque. Jéhovah.

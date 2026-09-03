@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=A4p2dNp9CDI"
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Alléluia. Levanta a usted. Satana watsu maya soy la sociedad. Canta comme ça. Satan watsuma.

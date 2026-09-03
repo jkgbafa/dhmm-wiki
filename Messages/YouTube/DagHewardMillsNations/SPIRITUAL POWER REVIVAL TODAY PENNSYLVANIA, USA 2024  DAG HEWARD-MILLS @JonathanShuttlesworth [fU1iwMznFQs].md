@@ -8,6 +8,8 @@ year: 2024
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah thank you Pastor for that warm welcome wow let us pray let us pray let us pray father we thank you for tonight and we thank you for this great blessing to be here what a great blessing thank you for this ministry EXP explosion and thank you for this breakthrough in Ministry we give you thanks thank you for all the pastors that are here your servants your wonderful servants who are here thank you for a change and a great explosion of your power on every one of us we give you praise thank you Lord in

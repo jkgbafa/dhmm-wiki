@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2012
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel", "The Holy Spirit"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel", "topic/the-holy-spirit"]
 ---
 
 Chapter 22. And the spirit and the bride say come. The spirit and the bride say come. You see, if the Holy Spirit is working and influencing, one of the main influences of the spirit on your life is you will hear him calling you and saying, "Come, come." Yes. The spirits and the bride say come. Yes. The spirit, the spirit and the bride say come. Wow. This is what the spirit says. The spirit and the bride are saying come come to me come to me come. The spirit and the bride say come. So you will see

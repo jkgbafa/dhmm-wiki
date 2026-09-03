@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=mmiDRkZIvsI"
 duration_min: 154
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah amen kindly open your Bibles to the book of Revelation chapter 7 we are about to praise the Lord Kaliko style and I started to move their bodies they man hallelujah it with all your dancing shoes this all you guys I need to dance too much that needs to do some why not to like this week and you'll be fine amen and the next one we're going to think is creepier all amen so when you're thinking is don't just say something hallelujah when you think it believe it and meditate on the West amen invest 12

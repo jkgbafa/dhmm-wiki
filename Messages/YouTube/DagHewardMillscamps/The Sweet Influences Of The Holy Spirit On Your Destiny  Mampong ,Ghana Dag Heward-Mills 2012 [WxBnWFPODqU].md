@@ -8,6 +8,8 @@ year: 2012
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel", "The Holy Spirit"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel", "topic/the-holy-spirit"]
 ---
 
 you may be seated all right okay are you excited fantastic we are on our sweet influence and we are pressing on amen amen now how many of you want to do the will of God wow I believe that the will of God is being done in your life amen amen do you believe that I believe do you believe I believe are you sure you believe is it fantastic fantastic right where is Ida where are the stars where are the stars okay you know what I want you to learn how to sing and minister to the

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=iyu1WKl9QVo"
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 build your house on a rock and the rains will come down build your house on a rock and the floods will come up you've got to build your house on a rock the winds will blow vly but your house will stand strong W strong whoever hears my word and he keeps them oh yeah Whom Shall I lik in him to he is like a man who built a house upon a rock oh yeah upon a solid rock I do not choose to build upon the easy s of life I will take my time and build

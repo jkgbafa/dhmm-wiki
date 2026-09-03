@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=iOCPHAhBWS0"
 duration_min: 43
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 until Verdun drawn from Emmanuel's and the next one one night there's a fountain which is filled with life and it's drawn from one wealthy Iman Wellesley and when lunch meat remove all he is the time Oh God oh Jesus Christ the Holy One and one in a bunch that's locked remove all the deities that I rejoice to be that fountain and if you think and they may I oh don't file up he washed all my way of living gone be the price the only one and bear me I washed all my thing and when disposed

@@ -8,6 +8,8 @@ year: 2000
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 amen some people would like us to stop preaching and to do other things but we know what the gospel has done for us it's the power of God that has saved us some people would like us to preach about you know some kind of secular wisdom and philosophies and things like that but we want to stay with the gospel because it is the power of God unto salvation I went to school for many years I went to nice churches nice buildings in nice areas but I never had the gospel when I had the gospel I

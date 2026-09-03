@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/qXmPLtzZ2Z9h/"
 duration_min: 39
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 Father, we thank you for today. Thank you for the opportunity that we have to serve you. Thank you, Lord, for your blessing as we come before your word. Lord, we ask you to speak to our hearts on this covenant Sunday and let your will be done. We thank you in Jesus' name.

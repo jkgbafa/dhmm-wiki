@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=unPMPJo_V-8"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "The Call of God"]
+tags: ["topic/salvation", "topic/the-call-of-god"]
 ---
 
 to the call of God is the most important thing after your salvation is that you are called and the casualness with which people just dispose of the C don't mind him there's a background you see that those of you who feel you know oh when you see God using somebody means he's from perfect whatever it is it is that you haven't taken it seriously. A wife is like a helper like the Holy Spirit, invisible, not thin, helpful, and the main power behind the person. Rarely do you have a missionary who does or who has a

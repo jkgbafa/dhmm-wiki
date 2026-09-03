@@ -8,6 +8,8 @@ year: 2011
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 how to become a Good Shepherd number one be ahead of your sheep be one step ahead John 10 verse 3 John 10 verse number three to him the portter open What's Happening you got a problem no sick see now they testing your faithfulness just now you are deserting us to him the Porter openeth and the sheep hear his voice and he cth his Sheep by name and leadth them out amen Now ladies and gentlemen to become a Good Shepherd how many want to be good Shepherds yeah Shepherd Pastor everything so I'm just going to give

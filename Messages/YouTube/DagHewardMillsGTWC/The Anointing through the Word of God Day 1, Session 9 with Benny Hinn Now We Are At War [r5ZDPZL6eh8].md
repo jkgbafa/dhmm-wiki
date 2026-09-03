@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=r5ZDPZL6eh8"
 duration_min: 162
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/anointing", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 Please please sit down. Please sit down. Ashes, we're waiting for you. Wow, let's welcome Pastor Benny. On va accueillir le Pastor Benny.

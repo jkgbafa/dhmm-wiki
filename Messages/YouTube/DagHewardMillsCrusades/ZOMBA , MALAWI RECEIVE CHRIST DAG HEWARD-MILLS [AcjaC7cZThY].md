@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=AcjaC7cZThY"
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Lift up the house, the Kawana, so we're watching that. Everybody lift up guns, I say, you know, no card, disagree, oh, no, that's a wada. Oh, no, that's a shit. Lift up your hands. Clap your hands for Jesus, please take your seats.

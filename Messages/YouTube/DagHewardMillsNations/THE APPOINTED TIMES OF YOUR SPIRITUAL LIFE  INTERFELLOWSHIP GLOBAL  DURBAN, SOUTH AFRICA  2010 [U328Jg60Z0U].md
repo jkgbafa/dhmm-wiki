@@ -8,6 +8,8 @@ year: 2010
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 amen lift your hands up and let's pray father we thank you so much for your great blessing that has been poured out upon us we ask tonight for your miracles for your healing for your power for your blessing upon Our Lives Lord we thank you that you've called us to serve you to preach your word and to do your great bidding to obey your calling thank you for this opportunity we love you and we thank you in Jesus name amen you may be seated Hallelujah well it's a blessing to be here um I want to

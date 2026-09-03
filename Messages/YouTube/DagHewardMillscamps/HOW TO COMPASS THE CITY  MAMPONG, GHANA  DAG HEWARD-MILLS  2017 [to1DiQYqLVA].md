@@ -8,6 +8,8 @@ year: 2017
 duration_min: 161
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 compassing the city is in devotion and dedication to the father's business I must be about my father's business and my father's business is soul winning and shepherding of the souls amen amen the third dimension or the third step in achieving that is fighting a good fight and being good at fighting War amen amen the war of ministry the war of life is a great War we are all called to amen am now war is necessary because Jesus Christ leads the armies of heaven and makes War Revelations 19:1 I saw heaven opened and behold a white

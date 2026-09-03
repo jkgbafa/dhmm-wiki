@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=vmewbWb_pc0"
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit"]
 ---
 
 apostles prophets evangelists pastors or shepherds and teachers these are the five ministry charisma members which are human beings then a ministry called manna which are just abilities specimen abilities individual freestanding abilities abilities that can come on their own and all those five carries mothers have officials for 11 different places prophecy ministry of saving woman's 12 has a lot of them there nicely written out ministry I'm giving you the list maybe let me just give you the list and then after that I talked about it a bit okay ministry serving of serving he that ministereth and

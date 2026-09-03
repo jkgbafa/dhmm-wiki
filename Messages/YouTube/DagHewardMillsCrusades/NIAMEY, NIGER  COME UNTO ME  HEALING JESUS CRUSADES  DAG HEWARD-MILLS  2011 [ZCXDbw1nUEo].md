@@ -9,6 +9,8 @@ duration_min: 145
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/NIAMEY, NIGER COME UNTO ME HEALING JESUS CRUSADES DAG HEWARD-MILLS 2011 [ZCXDbw1nUEo]]]"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 hallelujah hallelujah hallelujah hallelujah hallelu hallelujah hallelujah hallah hallah oh oh ohu oh Jes Jes oh GL glor fantas oh conf oh the oh you Hallelujah ahuh la j j j j j la open open woo every foreign amen wow hallelujah hallelujah hallelujah hallelujah please be seated tonight what a powerful praise and worship let's put our hands together for the CH hallelujah hallelujah tonight is the second night of the healing Jesus campaign God is doing wonderful things in our lives he said saing Souls he's Healing The Sick and I believe that n will never be the

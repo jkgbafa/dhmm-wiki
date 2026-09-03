@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=t9ahfke9zlM"
 duration_min: 211
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 what a bless you to be in church amen amen wonderful world next up we have the film stars and um they're coming up they're coming up the film stars please put your hands together for them it's a long walk upstairs keep clapping as they come up amen foreign I know so now you've come on top you see father father why so I can't feel free in heaven anymore wait okay so now I need permission from you give me a list of the things I can wear and cannot wait so that I'll know I thought the

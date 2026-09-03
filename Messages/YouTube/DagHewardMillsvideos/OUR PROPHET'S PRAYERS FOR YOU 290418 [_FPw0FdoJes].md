@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_FPw0FdoJes"
 duration_min: 4
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 lift your hands and receive your blessing what about takes away your peace I rebuke it whatever takes away your happiness I can sit whatever brings sorrow to your life I overcome it in Jesus name whatever stuns are very proud before you I crush it in Jesus what about threatens you I threaten it by the blood of the Lamb whatever has targeted you has isolated you and has pursued you I drown it in the name of Jesus let a blood of Jesus be a solid defense for your life the blood you have received and the bread

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=oY8kGVwSO4o"
 duration_min: 24
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Ministry and Pastoring"]
+tags: ["topic/leadership", "topic/ministry-and-pastoring"]
 ---
 
 good day ladies and gentlemen i'm excited to be coming your way this precious day with me here in the studios is reverend john winfred of love reign bible church and this precious day we're going to talk about the upcoming how i came to be anointed conference which used to be give thyself holy conference which is coming on from the second to the 5th of august 2022 at anacazu campus mampong equipment reverend john winfred you're welcome thank you i'm sure you've been following the prophet bishop daggy what males for some time and your ministry your life

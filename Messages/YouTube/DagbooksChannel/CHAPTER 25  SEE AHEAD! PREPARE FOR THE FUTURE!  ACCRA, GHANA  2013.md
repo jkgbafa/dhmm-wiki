@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2013
 source: "autocaption"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 See ahead and prepare for the future. Prepare for the future. Wow. We are sharing about the art of shephering which is the art of leadership. Yeah. See ahead. Do you see ahead? If you are a good leader, you must see ahead. When you are driving in a car with a driver who's not a good driver, who doesn't see the evil ahead, you find that you are always in danger. If you are driving in a car, And there's a driver who when he sees cars or people near on the road on a narrow road, he doesn't

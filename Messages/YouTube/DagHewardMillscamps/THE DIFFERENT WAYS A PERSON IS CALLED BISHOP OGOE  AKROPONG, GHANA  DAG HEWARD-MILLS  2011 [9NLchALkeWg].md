@@ -8,6 +8,8 @@ year: 2011
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 the different ways a person can be called so I want to show you and I began yesterday and we'll be going through the book throughout the camp and and and by the time this Camp is over your call would have crystallized in the solution now it's in solution I said now it is dissolved but as the word of God comes to you it will be crystallizing God was here and I did not know it I have already been called and I didn't know it some of you are coming to this Camp to discover your call

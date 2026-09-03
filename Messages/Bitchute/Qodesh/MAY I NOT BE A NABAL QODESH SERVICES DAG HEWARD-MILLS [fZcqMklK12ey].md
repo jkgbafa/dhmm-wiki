@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/fZcqMklK12ey/"
 duration_min: 70
 source: "whisper"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh Lord, you are good behind us you live to die. Rejected Lord to like a road traveled on the ground you took the war of me sleep, Lord crucified, just lift your hands to him. Like a roast from put on the ground you took the thought of before the ground you took the whole Heavenly Father, we thank you for giving us this day. We thank you for your resurrection power. Thank you for your grace.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=LctaJlZyFRw"
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/church-growth", "topic/leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 you see when you don't bear fruit you become a monster because you either do one thing or another most of the monsters and orangus are simply unspiritual fruitless people that's why they said they are starting churches they are not able to do much shepherds have to watch the frogs you think you have a lot of flock but you see some have gone here somebody has taken a fire away he's taking 10 away he's gone somewhere with them you never see them and that's what david was doing how it was jesus will say in the beginning

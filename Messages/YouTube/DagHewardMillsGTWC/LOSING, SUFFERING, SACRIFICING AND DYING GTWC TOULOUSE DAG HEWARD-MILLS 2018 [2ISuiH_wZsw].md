@@ -9,6 +9,8 @@ duration_min: 117
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/LOSING, SUFFERING, SACRIFICING AND DYING  GTWC TOULOUSE  DAG HEWARD-MILLS  2018 [2ISuiH_wZsw]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Father, we are grateful. Père, nous sommes reconnaissants in the name of Jesus for this opportunity for this opportunity to serve you serve. Guide us. Conduit nous and bless everyone that is here today. In Jesus' name.

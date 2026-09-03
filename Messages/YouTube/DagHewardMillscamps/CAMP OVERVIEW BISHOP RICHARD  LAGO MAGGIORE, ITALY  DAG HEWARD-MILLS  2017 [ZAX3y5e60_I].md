@@ -8,6 +8,8 @@ year: 2017
 duration_min: 43
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/salvation", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 These are the people who are super blessed, super, super Blessed, this is truly a prophetic camp. Do you have the prophecies you believe in? These are the prophecies that will be fulfilled practically in your life. Don't just sit there letting time pass because even greater spiritual blessings are coming. I am Blessed to be here. I am very happy to be here. I have prophesied from here and the London prophecies together from time to time with my prophecies. I say all this, you pray the prophecies seriously. Be determined to have testimonies about the prophecies you have

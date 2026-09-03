@@ -8,6 +8,8 @@ year: 2004
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 welcome to track number six of church planting amen now one of the things about loyalty is you need to catch the spirit of the house in order to be loyal amen you need to catch the Spirit of the House of the ministry because every Ministry has a culture amen and by culture we mean the way things are done around here amen interf Fellowship has its own culture are you there are you there and there is an anointing on every Ministry so you see there are different ways of doing the same thing and somehow we have

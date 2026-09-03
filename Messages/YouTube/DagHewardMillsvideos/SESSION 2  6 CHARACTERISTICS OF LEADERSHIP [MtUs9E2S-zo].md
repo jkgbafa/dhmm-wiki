@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MtUs9E2S-zo"
 duration_min: 173
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Vision and Direction", "Vision and Direction/Hearing God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/leadership", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Chris uses nothing cute that's not be mm you knew that my feet and you feel my heart you feel is my you get me to get this yeah hey hey every go lick my cat Rick lick my hand is my head lift my lip my with my jump on round I jump up high jump up high jump up high jump up high I just um come on I jump off your back I jump up to pass I grab on I've got my I got my I got my I got my I got my I got

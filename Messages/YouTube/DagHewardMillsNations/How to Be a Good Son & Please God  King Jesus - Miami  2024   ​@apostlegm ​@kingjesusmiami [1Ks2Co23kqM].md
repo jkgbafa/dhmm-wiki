@@ -8,6 +8,8 @@ year: 2024
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Wealth and Finances"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/wealth-and-finances"]
 ---
 
 Satan is a voice you must descend to. If you do not descend, the voice of Satan, no matter how gentle that voice is, will cause you to make a mistake. Jesus was going to sacrifice himself on the cross, but Satan said no. Peter said no, I will prevent it. And Jesus turned to him and said, "Get thee behind me, Satan." After wandering through the wilderness under Moses, the people of Israel settled in the promised land, carrying with them the ark of the covenant, where God's glory dwelled as a symbol of his presence among his people.

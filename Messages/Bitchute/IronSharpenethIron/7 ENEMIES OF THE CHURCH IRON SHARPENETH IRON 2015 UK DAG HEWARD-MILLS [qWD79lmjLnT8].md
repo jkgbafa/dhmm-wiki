@@ -8,6 +8,8 @@ year: 2015
 duration_min: 123
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 We are grateful to God for this great time that we have in. I believe that we're going to receive a beautiful song and then we carry on. Let's welcome our Aida to give us one of the beautiful pieces. Hi, James. So glad you could make it here tonight for this meeting.

@@ -8,6 +8,8 @@ year: 2019
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Father, we thank you for the blessing you've given to us in choosing us, using us in Jesus' name, Amen. May be seated, hallelujah. Are you here or you are not yet here? All right. Now, choose me and use me.

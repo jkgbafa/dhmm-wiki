@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tuddo/"
 duration_min: 66
 source: "whisper"
 match: "exact"
+topics: ["The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Thank you for your word tonight, Lord. We ask that you guide us. Speak to us the Lord to speak to you tonight. Father, we are grateful for your word. We are grateful for your spirit guiding us.

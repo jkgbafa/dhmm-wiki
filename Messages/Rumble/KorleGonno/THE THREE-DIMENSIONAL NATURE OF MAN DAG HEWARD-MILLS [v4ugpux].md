@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ugpux/"
 duration_min: 33
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 And I believe that our lives are going to be so transformed and we'll never be the same again. Shall we stand to our feet, please? And receive our father, the bishop to minister to us this morning. Put your hands together and let's welcome him one more time to church. Hallelujah.

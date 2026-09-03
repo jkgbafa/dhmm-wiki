@@ -9,6 +9,8 @@ duration_min: 94
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Commendable Love Ducos, Martinique Dag Heward-Mills 2024 [SRD7iif3lFY]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 let us pray father thank you for your blessing today thank you for your Mighty power that you are giving to us in the mighty name of Jesus we ask you to speak to our lives and guide us today in Jesus name amen amen you may be seated okay okay I'm excited to be here well all right today I want to share with you about what I call commendable love stand stand over here too close okay I got you yes commendable love what is that that is the love of God amen amen number one God recommends

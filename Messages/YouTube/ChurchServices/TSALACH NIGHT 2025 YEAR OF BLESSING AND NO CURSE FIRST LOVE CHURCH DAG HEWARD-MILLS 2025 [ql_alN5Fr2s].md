@@ -8,6 +8,8 @@ year: 2025
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 You are my rose of Sharon. You are my lily of the valley. You are my lily among the thorns. You are my lily among the daughters. You are a nice choir to conduct.

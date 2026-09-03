@@ -9,6 +9,8 @@ duration_min: 71
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE WISDOM OF THE CROSS  BOURNEMOUTH, UNITED KINGDOM  DAG HEWARD-MILLS  2008 [jJpiEoKfGeM]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wisdom"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wisdom"]
 ---
 
 Now, the wisdom of the cross. For the word, 1 Corinthians chapter 1 verse 18. What does it say in your Bible? Preaching of the cross. What does it the King James say?

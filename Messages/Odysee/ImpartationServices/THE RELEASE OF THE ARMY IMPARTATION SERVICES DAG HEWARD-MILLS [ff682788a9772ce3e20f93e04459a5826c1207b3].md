@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/the-release-of-the
 duration_min: 101
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Let's pray. Father, thank you so much for your blessing. Thank you for your kindness and opportunity that we have to serve you. We praise you. We worship you.

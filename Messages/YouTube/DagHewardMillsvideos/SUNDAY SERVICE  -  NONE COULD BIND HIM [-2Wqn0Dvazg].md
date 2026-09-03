@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-2Wqn0Dvazg"
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 father we thank you for this morning thank you for your word thank you for your presence Lord we ask that you lead us you guide us and thank you Lord for your word that is able to save us that is able to bless us that is able to change our lives Lord in the name of Jesus I pray that our hearts will not be heavy and we don't understand and now our ears will not be dull that they can hear and our eyes will not be closed that we can't see thank you dear Lord in

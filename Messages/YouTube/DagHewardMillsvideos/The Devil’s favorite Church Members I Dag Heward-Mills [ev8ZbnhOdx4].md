@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ev8ZbnhOdx4"
 duration_min: 14
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 And then we have those who are proud. Especially if you've been in the church for some time. Some of you have been around for 5 years. Some of you have been around for 10 years and you feel I've been around for 5 years. I've been around for 10 years. I know something. I know this and I know that. You don't know anything. Hey, one day I was dealing with an orangu and the guy was very proud a certain way. So I dealt with him. I think I dismissed him and one of my assistant pastors he

@@ -8,6 +8,8 @@ year: 2009
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Word and Books", "The Word and Books/Books and Reading"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-word-and-books", "topic/the-word-and-books/books-and-reading"]
 ---
 
 that you will not be shallow but you go deeper you will go deeper oh you not be a shallow like us are you be a deep person oh Jesus Oh yes Lord yes Lord yes Lord oh Father may we be deep oh God may we be deep in our knowledge of the Bible may we be deep in our knowledge of scriptures Lord may we be deep may we be deep oh God may we know we may we know we better may we know you better Lord oh yes we want to know you better we want

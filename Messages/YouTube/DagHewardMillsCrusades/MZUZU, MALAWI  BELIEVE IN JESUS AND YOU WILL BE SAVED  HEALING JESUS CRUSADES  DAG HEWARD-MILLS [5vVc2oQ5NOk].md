@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=5vVc2oQ5NOk"
 duration_min: 197
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 J don't don't don't I will lift up your name Lord we are lifting the name of the Lord I will lift up your name I amh I will lift up your name Anda I will lift up your name higher higher higher higher higher I will lift up your name I will lift up your name Lord I am I will lift up your name I will lift up your come come tell your neighbor and come and see what the oh come see she the Lord she the fore hosana h are you ready to celebrate are yesh

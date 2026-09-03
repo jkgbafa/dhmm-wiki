@@ -9,6 +9,8 @@ duration_min: 33
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SACRIFICES AND BLESSINGS  MARYLAND,USA DAG HEWARD-MILLS 2001 [GrbfV_jNg9E]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number 13 of the message of sacrifice. Wait, to whoever, maybe to a friend, to a relative, to the church, to the work of God. You could not give $50. You could not give a hundred because you didn't have such money. But now you can give a hundred dollars.

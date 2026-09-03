@@ -8,6 +8,8 @@ year: 2016
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Ben tell us what happened in no this Ben uh in uh Haiti he's gone to Haiti tell us B it's been very very wonderful in Haiti we we started in on 2 what is Haiti like very very poor very poor can you hear him they can't hear speak speak to the people yeah hat is this is a poor nation very poor like like any African country that you've been but the people are very rich in terms of their receptance to the gospel they're very very flowing and we have they're very flowing yeah they flow you

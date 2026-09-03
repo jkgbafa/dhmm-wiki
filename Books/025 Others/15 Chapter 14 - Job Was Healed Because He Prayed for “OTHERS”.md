@@ -4,6 +4,8 @@ book: "Others"
 book_number: "025"
 chapter_number: 15
 type: book
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Chapter 14\

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4touxw/"
 duration_min: 155
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Hallelujah. Are you excited to be here? Wonderful, wonderful. Let us pray. Heavenly Father, thank you for tonight.

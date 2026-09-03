@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqw3u/"
 duration_min: 46
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Hallelujah. Are you enjoying your fasting? Right. Let's pray. Father, thanks for this opportunity that we have in your presence.

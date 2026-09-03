@@ -8,6 +8,8 @@ year: 2002
 duration_min: 23
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Vision and Direction"]
+tags: ["topic/prayer", "topic/vision-and-direction"]
 ---
 
 welcome to track number 11 of all out the next one don't be fixated to your profession or what you learned in school and your job no just your profession then the next one don't be fixated to your job I don't want you to have a vision for your your your profession what is your profession what is your profession what what have you become what are you what are you what are you what are you you are still in school civil servant and you are what student who is a professional who has a profession you are

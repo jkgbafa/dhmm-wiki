@@ -4,6 +4,8 @@ book: "The Art Of Following"
 book_number: "020"
 chapter_number: 3
 type: book
+topics: ["Faith", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/faith", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 ### CHAPTER 2\

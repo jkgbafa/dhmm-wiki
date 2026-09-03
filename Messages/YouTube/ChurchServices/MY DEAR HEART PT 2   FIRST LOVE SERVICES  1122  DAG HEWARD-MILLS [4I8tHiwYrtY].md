@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4I8tHiwYrtY"
 duration_min: 241
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you make me lie down in green passes you make me want in for nothing you feel my Hunger with honey from your sweet sweet word you let me worship before you so I will love and adore you you are my sheer you are my Jesus you are my Lord let's all sing you make me lie down you make me lie in you nothing you feel my Hunger you feel my Hunger with honey with honey sweet sweet you let me worship you let me worship and iore you you are Myer you are Myer you are my

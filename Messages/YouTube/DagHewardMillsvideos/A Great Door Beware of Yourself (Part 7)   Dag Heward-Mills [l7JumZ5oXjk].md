@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=l7JumZ5oXjk"
 duration_min: 242
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 acts 13 48 we're praying about church growth how god is going to do it acts chapter 13 verse 48. the bible says and when the gentiles had this they were glad and glorified the word of the lord and as many as were ordained to eternal life believed say with me believed say believed this afternoon we are going to pray as many as are ordained for eternal life many have been earmarked to come to the first love church for a transformation in their lives we are praying that they will come in their numbers in their thousands

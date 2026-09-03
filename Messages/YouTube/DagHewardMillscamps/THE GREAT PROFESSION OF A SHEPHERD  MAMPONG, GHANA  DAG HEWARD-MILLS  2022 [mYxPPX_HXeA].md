@@ -8,6 +8,8 @@ year: 2022
 duration_min: 164
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 come on give the Lord a shout of Praise shout hallelujah amen are you excited to be at your Camp encounter and I know God is going to speak to you and um I want all of us to be alert personally alert for what God has to say to you here on Sunday Prophet was saying that you can find Camp testimonies all over the church worldwide and people can tell you their lives were changed at a camp my life was changed at a camp and I feel in my spirit as we were praying I believe so

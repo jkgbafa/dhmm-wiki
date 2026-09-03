@@ -4,6 +4,8 @@ book: "Attempt Great Things For God"
 book_number: "053"
 chapter_number: 16
 type: book
+topics: ["Missions"]
+tags: ["topic/missions"]
 ---
 
 ### CHAPTER 15\

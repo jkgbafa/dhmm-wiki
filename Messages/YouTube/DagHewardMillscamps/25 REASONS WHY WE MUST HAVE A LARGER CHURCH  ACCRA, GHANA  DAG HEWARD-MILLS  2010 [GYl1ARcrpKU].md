@@ -8,6 +8,8 @@ year: 2010
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Prayer", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/prayer", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 ask your neighbor do you believe in Surprise the mom promis you some surprise well AB can you s for us and then the surprise is on the way tell the surprise is on the way be oh Lord is the most high place in your presence Lord we see your face we seek your face there is no higher calling no greater on Earth than to a before your thr I am aaz at your glory and prise by a mercy I live to Worship You Now at your feet oh Lord It's the Most High in your presence

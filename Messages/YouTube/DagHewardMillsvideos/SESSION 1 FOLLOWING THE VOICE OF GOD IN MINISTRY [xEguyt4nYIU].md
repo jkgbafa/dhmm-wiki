@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xEguyt4nYIU"
 duration_min: 163
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 I said we are working in victory I want us to confess again that I am a new creation old things are passed away all things are become new are you a new creation I said I used old Japan come on oh oh oh oh oh I am a new creation the more it comes down listen here instead my heart is all in the flow just keeps on I will I will I will it's all to limit the lightness in my favorite theory Oh I love that I love my evaluation system or its cost estimate nearly

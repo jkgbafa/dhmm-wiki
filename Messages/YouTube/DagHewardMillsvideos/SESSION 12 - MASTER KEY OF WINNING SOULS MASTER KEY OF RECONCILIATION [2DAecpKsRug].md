@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2DAecpKsRug"
 duration_min: 69
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 now sit down please are you back from your breakfast I've been waiting for you to come back all right now I want to share with you about the master keys to accomplishing 10,000 attendants in our churches 10,000 morsels amen and the master key is soul winning soul winning all right so winning now everybody in this church is going to be involved in soul winning one soul at a time so if you are here and you have not learned how to win souls you got a problem you got a problem got a serious problem so winning

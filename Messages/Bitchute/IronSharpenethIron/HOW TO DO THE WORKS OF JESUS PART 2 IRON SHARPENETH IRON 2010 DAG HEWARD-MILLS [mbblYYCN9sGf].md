@@ -8,6 +8,8 @@ year: 2010
 duration_min: 174
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 So let me now begin to give you some things you need to know about the anointing so that you can catch it. That's why I wrote this book called Catch the Anointing. Like how you catch a skin cobra, you can catch anointing. If you understand number one, the first thing that you need to understand. When Elisha asked Elijah for the anointing.

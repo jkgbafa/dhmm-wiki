@@ -8,6 +8,8 @@ year: 2014
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Father, we are grateful for the power. How many enjoy offer Nigeria? I want to say Are you check anytime you're going to do There are some people who are particularly helpful. LS when we went to Nigeria was very helpful that is Dr. stand up. Thank you so much for your help, your support. Wow. Thank you very much. I go to Nigeria. Greatly always has This is when you are see what's going on. We were as similar, very supportive. entrance into the UK. There are always people like that always people like that have fears. How many

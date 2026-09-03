@@ -8,6 +8,8 @@ year: 2001
 duration_min: 27
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 Antichrist stops the sacrifice. You remember? Now let's see what he does. What other ideas he brings? Daniel chapter 11.

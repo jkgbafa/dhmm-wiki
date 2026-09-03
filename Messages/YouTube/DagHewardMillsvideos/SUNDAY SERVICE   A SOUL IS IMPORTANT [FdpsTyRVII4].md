@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=FdpsTyRVII4"
 duration_min: 46
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 let us pray father thank you for this morning thank you for the privilege we have to share your word Lord we ask that you guide us by your spirit and let your will be done in the name of Jesus we thank you for this privilege for this opportunity we thank you Lord that you have blessed us and brought us to your house this morning thank you for the great work you are doing in our lives we give you thanks in Jesus name Amen you may be seated alright this morning I want to share with you

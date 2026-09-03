@@ -9,6 +9,8 @@ duration_min: 127
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/THABONG, SOUTH AFRICA  THE GREATER LOVE OF GOD  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2015 [dj3IpRf3jIc]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 We are going to have more powerful music in the next few minutes. I want to ask our chairman to give us the opening prayer. Let us all close our eyes. Let us all lift up our hands. We want to adore you.

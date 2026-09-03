@@ -8,6 +8,8 @@ year: 2025
 duration_min: 114
 source: "whisper"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 So the call of God is the most important thing after your salvation is that you are called, and the casualness with which people just dispose of the call, don't mind him. There's a background. Those of you who feel, you know, oh, when you see God using somebody, it means He is from some perfect, whatever it is, it is that you haven't taken it seriously. A wife is like a helper, like the Holy Spirit, invisible, not seen, helpful, and the main power behind the person. Rarely do you have a vision who does or who has a bad wife, hallelujah, Father?

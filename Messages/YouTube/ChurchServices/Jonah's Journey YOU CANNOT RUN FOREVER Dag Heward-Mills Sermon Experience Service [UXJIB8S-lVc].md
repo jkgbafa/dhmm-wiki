@@ -8,6 +8,8 @@ duration_min: 102
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/Jonah's Journey YOU CANNOT RUN FOREVER  Dag Heward-Mills Sermon  Experience Service [UXJIB8S-lVc]]]"
+topics: ["Salvation", "Salvation/Repentance", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/salvation", "topic/salvation/repentance", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 It's Christmas time so we are just supposed to enjoy ourselves and the message is you cannot run forever and Jonah's preaching was not nice preaching like mine. My preaching is far nicer. His preaching was not like Billy Graham. Billy Graham's preaching was far nicer. Jonah's preaching was repent you guys are finished you are dead.

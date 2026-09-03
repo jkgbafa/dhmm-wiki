@@ -8,6 +8,8 @@ year: 2014
 duration_min: 20
 source: "whisper"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Jésus, Jésus, Gloire Jésus, Jésus qui guérit, il n'y a personne qui est sans peine à toi, ta puissance est plus grande que Dieu. Soulèvement crié pour Jésus. Oh, car Jésus, merveilleux Jésus, Glorie, oh Jésus, Jésus qui guérit, il n'y a personne qui est semblable à toi, ta puissance plus grande que Dieu, au nom de Jésus, Satan sans fui, ton nom de Jésus, tu es béni, au nom de Jésus, tu es sauvé, au monde, Jésus, tu es guéri, Jésus, je la m'en chantais, Jésus, ta puissance plus grande que Dieu, oh, au nom de Jésus, Satan sans fui, au nom de Jésus, tout genou fléchir, au nom de Jésus, tu es béni, au nom de Jésus, tu es sauvé, au nom de Jésus, tu es guéri, Jésus, Jésus, ta puissance plus grande.

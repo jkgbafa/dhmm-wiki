@@ -9,6 +9,8 @@ duration_min: 76
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/AGREE ON THE WAY WISDOM STATEMENT PT  5  ACCRA, GHANA  DAG HEWARD-MILLS  2003 [05gxsqk76ks]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wisdom"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wisdom"]
 ---
 
 Welcome to track number six of a creed on the way. You should read the final quest. You see when Rick Joiner he saw a man in on a very high throne in heaven. And he hasn't who is this man? So it's a beggar.

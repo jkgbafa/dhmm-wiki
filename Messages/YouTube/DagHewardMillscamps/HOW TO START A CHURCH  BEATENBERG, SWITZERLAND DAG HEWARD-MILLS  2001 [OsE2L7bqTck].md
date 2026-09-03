@@ -8,6 +8,8 @@ year: 2001
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Missions", "Missions/The Nations"]
+tags: ["topic/missions", "topic/missions/the-nations"]
 ---
 
 what I'm saying do you think is right 100% if I want to form a Millionaire's Club but you know something I've got some people in America they they have money but they don't seem to have this problem I've got a group of people called the millionaires Club working out how to stop them oh yeah I no no no no wait wait we don't need wait wait wait stop they finance they fin they they rose up together five people they rose up we finished paying for they paying for all the Crusade this one go we are

@@ -8,6 +8,8 @@ year: 2013
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 which point were we on Masters of speed did I give you why we must operate with speed I gave you only one because you will be successful when you respond with speed like the serpent number two ministers will be successful when they respond to Visions acts 16:9 speedily a vision appeared to Paul in the night a man of Macedonia and he was standing and appealing to him and saying come over to Macedonia and help us when he had seen the vision immediately we sought to go into Macedonia concl concluding that God has called us to

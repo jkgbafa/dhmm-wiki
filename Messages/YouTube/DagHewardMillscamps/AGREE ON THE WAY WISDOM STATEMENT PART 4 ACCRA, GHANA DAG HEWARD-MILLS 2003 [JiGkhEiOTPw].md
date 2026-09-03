@@ -9,6 +9,8 @@ duration_min: 77
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/AGREE ON THE WAY WISDOM STATEMENT PART 4  ACCRA, GHANA  DAG HEWARD-MILLS  2003 [JiGkhEiOTPw]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 Welcome to track number five of a queen on the way. Higher wisdom. Amen. Do you want more wisdom? How many feel that God is making you very wise?

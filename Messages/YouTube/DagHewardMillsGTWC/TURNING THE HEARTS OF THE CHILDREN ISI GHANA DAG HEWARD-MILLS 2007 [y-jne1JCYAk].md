@@ -8,6 +8,8 @@ year: 2007
 duration_min: 91
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 I can heal the broken heart with all the ones who are part of it because I came to let them all like help to tell them to tell them tell them for me. Please tell them for me. Tell them that I love them. And I came to let them know. Tell them.

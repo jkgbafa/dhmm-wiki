@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2009
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 The things that you need when you have churches is and pastors, a lot of pastors is loyalty. Loyalty. Amen. You need loyalty. Loyalty. Amen. Amen. Now people don't understand it because they don't have pastors working for them. Now to have pastors you need loyalty otherwise they will get finished the pastors will get finished. One day I saw a certain pastor who started some few churches. I advised him. How do you get more churches? How do you get more churches? I can't answer. YOU GET MORE PASTORS. HOW DO YOU GET MORE PASTORS? MORE WHAT? TRAINING. YES.

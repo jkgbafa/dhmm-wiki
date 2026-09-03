@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=rTsPGHAnGcc"
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 lord I god he's in the miss Halsey he is my top mighty lord icon he's in the Miss heartbeat he is mighty mighty he'll be saying the Lord thy God he sound Oh oh Lord I got in the miss oh boy he is mighty mighty Lord thy God live all the he is my Kisame Oh he's awake ringing yeah people you oh please put your hands together for the impact squad hallelujah hallelujah I'm gonna feel bless this morning how many of you were blessed during this time 20 days of hundred hours of Prayer can I

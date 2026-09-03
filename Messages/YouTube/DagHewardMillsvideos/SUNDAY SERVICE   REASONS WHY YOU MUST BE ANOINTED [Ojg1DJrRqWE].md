@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Ojg1DJrRqWE"
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Jesus let your hands to the Lord and ask God to speak to your heart this morning thank you Lord in the name of Jesus from the blessing we come before you lord thank you Jesus for your mercies thank you Lord we are asking father that you speak to our hearts this morning let your will be done speak to us teach us your word help us to flow in the spirit in the things that a spiritual that you desire for us we thank you lord thank you for ministering to our hearts to our spirits today in

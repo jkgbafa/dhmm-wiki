@@ -8,6 +8,8 @@ year: 2025
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Now, let me share with you why preaching is so powerful. Number one preaching attacks the roots of all our problems. Amen. And what is the root of all our problems? Sin.

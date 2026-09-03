@@ -9,6 +9,8 @@ duration_min: 10
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SACRIFICE  TORONTO, CANADA DAG HEWARD-MILLS  2002 [yQT1K4FH3Sc]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 First person is who Satan, second person is the Antichrist. Now turn with me to Daniel chapter 8. I lay all of my burdens down at your feet. Any time? I don't know.

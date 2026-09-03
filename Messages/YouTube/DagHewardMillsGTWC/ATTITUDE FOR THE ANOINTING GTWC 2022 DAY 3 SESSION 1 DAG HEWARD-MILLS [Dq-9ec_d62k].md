@@ -8,6 +8,8 @@ year: 2022
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 I can get enough of you. I can get it up with your presence. Once I am in your presence, I don't wanna leave your awesome presence. Oh, you are calling me. You are drawing me.

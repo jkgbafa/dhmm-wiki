@@ -9,6 +9,8 @@ duration_min: 14
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE MINISTRY OF CORRECTION  ACCRA, GHANA  DAG HEWARD-MILLS  1997 [OnQ8WVlKspk]]]"
+topics: ["Marriage and Family", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/marriage-and-family", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number five of loyalty in the mega church. The next is the ministry of correction. I shall not be moved. The ministry of correction. Correction.

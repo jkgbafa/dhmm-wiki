@@ -4,6 +4,8 @@ book: "The Beauty The Beast And The Pastor"
 book_number: "105"
 chapter_number: 4
 type: book
+topics: ["Marriage and Family", "Ministry and Pastoring"]
+tags: ["topic/marriage-and-family", "topic/ministry-and-pastoring"]
 ---
 
 CHAPTER 2\

@@ -4,6 +4,8 @@ book: "Victory Secrets"
 book_number: "032"
 chapter_number: 4
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Victory Secret No.3\

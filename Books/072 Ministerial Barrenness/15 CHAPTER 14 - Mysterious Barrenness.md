@@ -4,6 +4,8 @@ book: "Ministerial Barrenness"
 book_number: "072"
 chapter_number: 15
 type: book
+topics: ["Prayer", "Prayer/Intercession"]
+tags: ["topic/prayer", "topic/prayer/intercession"]
 ---
 
 ### CHAPTER 14\

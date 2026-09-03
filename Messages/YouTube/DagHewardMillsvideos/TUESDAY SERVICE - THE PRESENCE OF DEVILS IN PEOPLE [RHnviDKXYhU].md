@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=RHnviDKXYhU"
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 thought I'm keeping my eyes on you following you following you I'm keeping my eyes on you ooh but of my love I'm keeping my eyes open following you I bought off you I know I'm not looking I have already made I know baby ah I believe I know like I said about and I'm gonna break bottle beeping my eyes you follow me God you were loving you keeping my eyes but of a news you by loving you what are we do Milo hallelujah let's pray father thank you for this great opportunity that we have in

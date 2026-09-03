@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=FIPQ4xqAahU"
 duration_min: 259
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Lift your hand and ask God to give you the spirit of revelation. Left and demand at you l'esprit revelation. Oh Seigneur. L'esprit de Revelation. We pray for the spirit of revelation, oh God, the spirit of revelation.

@@ -3,6 +3,8 @@ title: "CHAPTER 7    KINDS OF VOICES"
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 You may be seated. Please turn with me to Deuteronomy. Deuteronomy chapter 28. I am sharing with you about the art of hearing. Hearing the voice of God. Following the voice of God. Amen. Deuteronomy. Deuteronomy 28. And it shall come to pass, if thou shalt hearken to the voice of the Lord, thy guard. Let's read it together. Ready? Go. And it shall come to pass, where are you? Verse three, blessed shalt thou be in the city. Blessed shalt thou be in the field. Blessed shall be the fruit of thy body, and the fruit of thy ground,

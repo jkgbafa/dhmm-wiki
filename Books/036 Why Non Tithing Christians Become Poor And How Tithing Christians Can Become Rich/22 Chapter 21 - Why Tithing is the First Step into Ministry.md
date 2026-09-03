@@ -4,6 +4,8 @@ book: "Why Non Tithing Christians Become Poor And How Tithing Christians Can Bec
 book_number: "036"
 chapter_number: 22
 type: book
+topics: ["Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ## Chapter 21

@@ -8,6 +8,8 @@ year: 2002
 duration_min: 21
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Vision and Direction"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/vision-and-direction"]
 ---
 
 welcome to track number nine of all out the next is you must empty yourself of a marital Vision your marital Vision especially the ladies and even the brothers and even the brothers can actually limit your whole life yeah because you are determined to be married to this kind of person smooth talking hello baby hi baby I miss you baby Let's Just Kiss and Say Goodbye you want somebody who can give you words I called you here tonight to give you a message let's just kiss and say good night listen these smooth talking people you get

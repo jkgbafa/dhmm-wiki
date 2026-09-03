@@ -9,6 +9,8 @@ duration_min: 154
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THOSE WHO FORGET  GTWC LONDON  DAG HEWARD-MILLS  2016 [qE8HsVki6ZM]]]"
+topics: ["Anointing", "Prayer", "Prayer/Praying in Tongues", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I have a message from the Lord. Jesus sent me to you. Are you ready to listen? Do you want to hear it? I've got a message from the Lord.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zIQGZegQV4s"
 duration_min: 177
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Join your hands with somebody, you move this way, this way, as we sing this on. When I mention this the name of this particular place, you raise your hands together with that person beside you. I will solicit for this place that it is too late for the devil to reign in this land. Hallelujah. Are we ready?

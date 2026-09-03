@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=V2OAGXsQR5o"
 duration_min: 209
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Are you not blessed you are here today? How many of you believe that God has something special for us? You've had many special things for us. And I have no doubt that each one will be delivered to you as you've come. You will have something to show the world that you were here for this conference physically and practically.

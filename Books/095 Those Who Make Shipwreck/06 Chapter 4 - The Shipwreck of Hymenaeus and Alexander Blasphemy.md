@@ -4,6 +4,8 @@ book: "Those Who Make Shipwreck"
 book_number: "095"
 chapter_number: 6
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 ### Chapter 4\

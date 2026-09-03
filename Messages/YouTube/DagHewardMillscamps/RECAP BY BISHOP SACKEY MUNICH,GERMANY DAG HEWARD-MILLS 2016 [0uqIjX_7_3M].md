@@ -9,6 +9,8 @@ duration_min: 57
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/RECAP BY BISHOP SACKEY  MUNICH,GERMANY DAG HEWARD-MILLS  2016 [0uqIjX_7_3M]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number 11 of the church must send for it will end it down a little bit. Hallelujah. It's a blessing to be here, isn't it? Having a few feelings charged already. Wow.

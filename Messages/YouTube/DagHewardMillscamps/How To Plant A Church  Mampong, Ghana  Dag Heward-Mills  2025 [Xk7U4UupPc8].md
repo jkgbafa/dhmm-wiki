@@ -9,6 +9,8 @@ duration_min: 40
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/How To Plant A Church Mampong, Ghana Dag Heward-Mills 2025 [Xk7U4UupPc8]]]"
+topics: ["Anointing", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now, how to plant a church. Sit down. Sit down. Number one, count the cost. Number two, do not be desperate. Number three, two or three is enough. Okay. Number four, don't be in a hurry. Number five, pray for and recruit pillars. Number six, lay a foundation of prayer. Number seven, be a motivational leader. Number eight, witnessing and follow up. Number nine, avoid certain mistakes. Amen. Amen. Did you get the nine steps to planting a church? Number one is what? Count. Put the Put the points on the screen. Count the cost. Everybody here must count the

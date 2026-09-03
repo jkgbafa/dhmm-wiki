@@ -4,6 +4,8 @@ book: "Those Who Pretend"
 book_number: "006"
 chapter_number: 4
 type: book
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 # 

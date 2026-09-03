@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=WUGDCnM1W3c"
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/ministry-and-pastoring", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 when are you opening the Cali Valley Center please open it so we can enjoy it how many want to enjoy Kelly well II at revival at seven yeah command that it be whoever the powers are that are tsundere so we can't wait man yeah uncountable ones there'll be two two countable and uncountable non counted all right now if I say I love you but I don't want to marry you what what do you think about that it's different it's not full time that full time is like all out so when you see people who are

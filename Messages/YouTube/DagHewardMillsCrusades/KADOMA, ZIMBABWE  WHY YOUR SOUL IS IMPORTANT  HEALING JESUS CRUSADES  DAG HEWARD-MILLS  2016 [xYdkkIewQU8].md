@@ -8,6 +8,8 @@ year: 2016
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah why don't you give the Lord the best shout of Praise come on give the Lord a shout hallelujah the name matter Hallelujah pap oh oh no everybody sing with me lift up your right hand and me lift up your hands God me every Hallelujah are you ready yeah why don't you sing with me squ amen amen am everybody lift up your voice and sing la la la am amen Give the Lord away to to why don't you s with me Hallelujah Clap Your Hands for Jesus I want to ask you to please be seated

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=pls7hrsKJRE"
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Give Jesus a loud shot of prayer twelve Amen quiet please. I want you to stay here. You look very beautiful, Mama don't you say you So I'll tell you when you have to go here, you might be with you near Is that a good plan? Thank you, Amen. Wonderful.

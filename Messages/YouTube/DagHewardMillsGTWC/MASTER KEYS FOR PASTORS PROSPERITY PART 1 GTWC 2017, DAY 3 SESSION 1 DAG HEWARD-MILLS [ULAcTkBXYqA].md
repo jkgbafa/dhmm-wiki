@@ -8,6 +8,8 @@ year: 2017
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 And when we began this conference, I told you that I was sharing with you ten things. Amen. And I believe that all the ten items on the agenda will be a great blessing to you. Amen. Now the first uh very important point was had to do with the supernatural aspect of prosperity.

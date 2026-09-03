@@ -8,6 +8,8 @@ year: 1999
 duration_min: 13
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number one of love and the mega church thank you for your word as we begin this Shepherd's Tamp we thank you that your presence is with us we thank you that you are going to speak to our hearts you're going to lead us you're going to hear our prayers and Lord we know that our church will never be the same after this time thank you Father in the name of Jesus and everybody said amen amen you may be seated praise the Lord hallelujah well you are welcome to Shepherd's Camp 99 the last

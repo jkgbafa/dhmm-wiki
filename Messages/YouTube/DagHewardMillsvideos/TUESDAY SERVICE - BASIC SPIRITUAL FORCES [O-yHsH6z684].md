@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=O-yHsH6z684"
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 all we like sheep have gone astray each other turning our every way we have all sinned and fallen short of your glory but you're me your friend is your Hey get your hands an uncaught for tonight I came for his present thank you Lord for your pleasure hallelujah Jesus lucky Gina thank you for your great and eternal blessing that you pour upon us we are grateful we are thankful we are grateful alleluia alleluia alleluia in Jesus name we pray amen you may be seated Hebrews chapter 11 I need you to I'm talking tonight about basic

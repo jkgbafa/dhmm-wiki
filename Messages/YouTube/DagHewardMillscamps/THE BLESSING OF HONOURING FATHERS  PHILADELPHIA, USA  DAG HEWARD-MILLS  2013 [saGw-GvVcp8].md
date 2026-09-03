@@ -8,6 +8,8 @@ year: 2013
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 all right look sit down what a shock all right settle down settle down what a blessing you see you were not expecting I told you wow we are truly blessed in America what a blessing well we are truly blessed uh AR Bishop is here I don't think he needs you are too excited I don't think he needs much introduction I think Ida should sing a song which song should she sing the one about the father all right that would be a good song back when I was a child before life removed all the inocent my

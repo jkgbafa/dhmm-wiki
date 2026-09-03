@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2009
 source: "autocaption"
+topics: ["Anointing", "Prayer"]
+tags: ["topic/anointing", "topic/prayer"]
 ---
 
 in tapes will open you up to seven different things. Number one, how many want to know the seven things that you will receive from soaking in of tapes? Wow. Number one, you will RECEIVE THE SPIRIT OF WISDOM. YES, WISDOM. How to HOW TO how to how to wisdom is equal to how to COME ON HOW TO HOW TO DO IT. HOW TO DO IT. RECEIVE. HOW TO DO IT. HOW TO DO IT. IN THE NAME OF JESUS. HOW TO DO IT. HOW TO do it. How to do it. THAT IS ONE OF THE THINGS GOD

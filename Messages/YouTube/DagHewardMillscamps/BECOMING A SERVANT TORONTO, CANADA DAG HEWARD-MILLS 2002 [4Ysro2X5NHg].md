@@ -9,6 +9,8 @@ duration_min: 43
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/BECOMING A SERVANT  TORONTO, CANADA DAG HEWARD-MILLS  2002 [4Ysro2X5NHg]]]"
+topics: ["Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Then I was sitting there in the yard where the tracks were waiting for the car, trying to get ready, and there was this guy, and he sat by me and I talked with him, and I said to him, Sir, do you believe in God? He said, Me, no, of course not. And I said, He asked me, Do I? I said, Yes. He said, Where do you come from?

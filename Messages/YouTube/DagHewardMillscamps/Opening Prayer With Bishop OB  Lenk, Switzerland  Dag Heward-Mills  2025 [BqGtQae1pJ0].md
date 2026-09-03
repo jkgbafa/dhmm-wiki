@@ -8,6 +8,8 @@ year: 2025
 duration_min: 31
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/the-holy-spirit"]
 ---
 
 Why don't you take a seat? It's wonderful. Amen. Amen. And we encourage everyone to find a sitzblot. Everyone working in the back should find a seat. Beautiful. Marvelous. We are looking forward to tonight, because it is a great night. Hallelujah. Dad is on his way, but he's already in Switzerland. already in Switzerland and it will be a great time, but we are blessed. Yesterday I spoke with the Apostle Joel . Joel said it's nice to have brothers in every country. We are happy to have brothers in every country . And tonight we are blessed to

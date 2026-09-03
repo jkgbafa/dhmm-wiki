@@ -8,6 +8,8 @@ year: 2025
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/the-holy-spirit"]
 ---
 
 Can you believe it tonight? But Jesus is there. What, but He Himself yesterday, today and forever, Jesus is changing, Jesus is changing, He is saving. Change changes everything about us. He is a healing Jesus, a saving Jesus. Cry out to the Lord. The beach screams loudly. Raise your palm, clap, clap. Vita, wonderful love. Wonderful love. Wonderful love. Wonderful love. Amazing love, Jesus died for me. He took my sins upon himself on that cross. Jesus, Lord, your blood gave us the victory. All my life I will serve you, Lord. Cry out to the Lord. Come on,

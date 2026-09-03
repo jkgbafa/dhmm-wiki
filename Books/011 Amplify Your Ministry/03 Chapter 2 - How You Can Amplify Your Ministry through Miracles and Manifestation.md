@@ -4,6 +4,8 @@ book: "Amplify Your Ministry"
 book_number: "011"
 chapter_number: 3
 type: book
+topics: ["Anointing", "Ministry and Pastoring", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 ## Chapter 2

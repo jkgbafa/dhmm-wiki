@@ -8,6 +8,8 @@ year: 2009
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 10 to First Corinthians if you don't take I not read verses page I told you page eight for the preaching of the Cross is to them that perish foolishness the cross symbolized is a symbol of sacrifice amen it's a symbol of sacrificing things and to them that perish it's foolishness many times cross is foolishness cross often looks foolishness but to us which are saved the cross is the power that's what brings power amen am so you see me like it's foolishness for me to be a pastor you understand but it releases power the foolishness brings

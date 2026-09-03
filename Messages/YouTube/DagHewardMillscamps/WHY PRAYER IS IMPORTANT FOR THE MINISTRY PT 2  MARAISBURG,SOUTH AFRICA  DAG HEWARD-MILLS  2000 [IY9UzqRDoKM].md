@@ -8,6 +8,8 @@ year: 2000
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 welcome to track number three of the work of the ministry women are good at they open up their eyes God it's the same way when they are laughing they open their eyes and they just laugh and they is the same they believe they just believe prayer will make you a man of the anointing prayer makes you a man or a woman of the anoint what's your name spend more time praying amen spend time praying you are a musician you don't pray you are useless we don't want you tell pastor please park the car I need

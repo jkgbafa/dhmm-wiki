@@ -4,6 +4,8 @@ book: "Opportunities"
 book_number: "132"
 chapter_number: 3
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 ## Wasting Opportunities

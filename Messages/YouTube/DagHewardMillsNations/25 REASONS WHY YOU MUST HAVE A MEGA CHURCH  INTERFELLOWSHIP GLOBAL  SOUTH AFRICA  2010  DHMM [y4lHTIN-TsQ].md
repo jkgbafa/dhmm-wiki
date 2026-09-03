@@ -8,6 +8,8 @@ year: 2010
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 lift your hands and let's thank God for his Blessing father what a blessing we have in you today thank you for bringing us together thank you for healing us thank you for helping us thank you for touching Our Lives we love you Lord we praise you we thank you that this conference makes a difference in our lives concerning your will for us we thank you Lord in the name of Jesus thank you for moving forward Lord we are moving forward Lord in your will in your blessing we lift our hands and we say Lord fill

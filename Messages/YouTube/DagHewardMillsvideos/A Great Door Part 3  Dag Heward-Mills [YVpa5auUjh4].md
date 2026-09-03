@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=YVpa5auUjh4"
 duration_min: 257
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah wow are you happy to be in church we want to spend some time and pray and give god thanks it is right that we come before god with thanksgiving amen so jeremiah chapter 21 and verse number eight if you have your bible because of the sun we can't really see the screen and we also can't see our bibles on our phones but we can read together jeremiah 21 verse 8 says that and unto these people either thou shall say that's the other lord behold i said before you the way of life somebody say the

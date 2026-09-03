@@ -8,6 +8,8 @@ year: 2011
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 A news report, a more detailed account of the work there in Brasília, let's applaud the Lord once again, receive the pastor, hallelujah, hallelujah, let's pray, my Father, thank you very much for the great blessing of being here in Brazil to minister the word of God. I ask that you guide us and lead us to the anointing of your Holy Spirit in the name of Jesus, amen. It has been a great honor to be with you here in Brazil. Then a wave goodbye to her too, round of applause, well Good we have them, four children, there

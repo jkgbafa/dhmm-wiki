@@ -9,6 +9,8 @@ duration_min: 72
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/MASTER KEY TO BECOMING A GREAT MINISTER  GTWC SRI LANKA  DAG HEWARD-MILLS  2018 [2g1ID9q-wXc]]]"
+topics: ["Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 Please be seated. Are you ready with a video? Please be seated. I want to watch a short clip for seven minutes. Listen, hello.

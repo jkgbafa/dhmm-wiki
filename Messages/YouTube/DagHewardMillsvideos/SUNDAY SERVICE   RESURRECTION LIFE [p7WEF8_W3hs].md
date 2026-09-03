@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=p7WEF8_W3hs"
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 on the cross of Calvary Jesus died for me by his blood I am sad for me all because every Jesus died for me me all my sins he washed away all my he washed away all my sins yes Hugo hops away Hey yesterday Jesus died before me I Jesus died for me Jesus died for me ha Jesus died for me I am free I am free I am me beep gee the dye be high please die me of cow yeah hallelujah another Easter Sunday morning we give you thanks for your blessing we ask Allah that

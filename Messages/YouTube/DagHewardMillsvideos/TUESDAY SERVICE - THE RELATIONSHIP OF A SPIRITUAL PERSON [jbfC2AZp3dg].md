@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jbfC2AZp3dg"
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 let that be the name of the law he's worthy he's worthy to be praised and I thought so we lift up holy hands though we only had in one let me the name blessed be man it left me the shame blessed be the name all the passage of a plane let there be the day let's be the name worthy worthy to be praised and I love a bully had for me a name and blessed be the name Oh lift up all huh so we flip ollie and Juana - bless up in the name let's be

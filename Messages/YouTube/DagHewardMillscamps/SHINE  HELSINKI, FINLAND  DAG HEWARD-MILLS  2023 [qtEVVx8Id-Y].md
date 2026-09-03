@@ -9,6 +9,8 @@ duration_min: 57
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SHINE HELSINKI, FINLAND DAG HEWARD-MILLS 2023 [qtEVVx8Id-Y]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 about 20 minutes left. I don't really know what to do. The camp prayer, holding it, it's a lot of words, but we only have 20 minutes, so maybe we should postpone part 2. Our moment, where is it bad, where was it? The cor, visit, tourist, you open for God, tion, Lee, to you, we don't have, you're going to look at the world, it's incredible, how much is it? See, LEC, I have, you know, the highest mountain in Europe is Mont Blanc, Mont Blanc, but Mont Blanc is a little boy compared to Kilimanjaro, Mont Blanc is

@@ -9,6 +9,8 @@ duration_min: 88
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/OTHERS  UK  DAG HEWARD-MILLS  2004 [rkqSd1J9zzw]]]"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 Welcome to track number two of others General Booth, of the Salvation Army, and they had a meeting of his officers, and um in this meeting of his officers, he was supposed to be there, but he could not be there, so he sent them a telegram, you understand as a message for the meeting that they were going to have. You understand? So when the telegram came, all the officers gathered around to read the message that General Booth sent. I told you it was related to General Booth, Salvation Army. So all the officers gathered round and they opened the telegram, and the telegram contained only one word, and that word is the theme for our short camp, but powerful camp.

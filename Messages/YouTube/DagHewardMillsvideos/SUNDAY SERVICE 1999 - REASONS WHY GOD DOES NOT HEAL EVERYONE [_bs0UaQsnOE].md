@@ -8,6 +8,8 @@ year: 1999
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Salvation", "Salvation/Repentance"]
+tags: ["topic/prayer", "topic/salvation", "topic/salvation/repentance"]
 ---
 
 Oh thank you Jesus your love of the Lord never will too every morning new every morning gray is the cream is the rule is the steadfast love the steadfast love of the Lord never will come oh great Oh Chris Oh as we gather may your spirit work within us as we gather your spirit where we Nina okay how we got baby goodbye you go ahead well no we wear our happy keywords it we left because we gave will be blessed because we came as we got a military way have we got a bigger TV where

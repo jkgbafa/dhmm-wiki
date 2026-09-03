@@ -4,6 +4,8 @@ book: "Ministerial Barrenness"
 book_number: "072"
 chapter_number: 13
 type: book
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 ### CHAPTER 12\

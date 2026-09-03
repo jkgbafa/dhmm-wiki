@@ -8,6 +8,8 @@ year: 2000
 duration_min: 70
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/faith", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 you were yeah hallelujah for the very last starting again ever aha oh yeah oh yeah oh yeah sorry we all happy about the zombie war yeah Oh diets are for your junkie a path I saw ah oh yeah at the singing again yeah whoa whee whee thinking again we go Oh God Oh ah we're going by Sting it again we go we we sing again we must we must oh we have to singing again we must uh-oh we back over we might made by here we Oh hallelujah the new Yahoo Yahoo will lock to wave

@@ -9,6 +9,8 @@ duration_min: 78
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/7 KEYS TO BECOMING A TRUE SON GTWC PARIS DAY 3 SESSION 12 2025 DAG HEWARD MILLS [pSbVpO0PF_4]]]"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now, how many want to become good sons? Let me give you seven keys to becoming a true son. Number one, a son, a good son. I want you to become So, I have been preaching to the fathers. Now, I'm preaching to the sons. Yes. I'm I was preaching to the fathers now I'm preaching to the sons. I was preaching to the fathers telling the fathers make a family make a family make a family make family and you will not be bothered with whether I should preach loyalty or not. The loyalty is natural in your tribes

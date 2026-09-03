@@ -8,6 +8,8 @@ year: 2000
 duration_min: 28
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer"]
 ---
 
 hallelujah shall we pray father we thank you for this morning we ask you to open our hearts and let your will be done in the name of Jesus amen may be seated tell with me please to efficient Chapter five I want to share a little message there with you today I believe that you'll be blessed amen Ephesians chapter 5 and we are going to be reading verse number 15 well let's read from verse number 11 and have no fellowship with the unfruitful works of darkness but rather reprove them for it is a shame even to

@@ -4,6 +4,8 @@ book: "How You Can Preach Salvation"
 book_number: "027"
 chapter_number: 38
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Salvation"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/salvation"]
 ---
 
 ### Salvation Message 36:  \

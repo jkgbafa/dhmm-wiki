@@ -4,6 +4,8 @@ book: "The Megachurch 2Nd Ed"
 book_number: "010"
 chapter_number: 11
 type: book
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism"]
 ---
 
 ### Chapter 10\

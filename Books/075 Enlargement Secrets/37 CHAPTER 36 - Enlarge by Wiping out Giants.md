@@ -4,6 +4,8 @@ book: "Enlargement Secrets"
 book_number: "075"
 chapter_number: 37
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 ### CHAPTER 36\

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=01-DLbnn2YI"
 duration_min: 182
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 Oh I think CeeLo was in the point we do mama Mia he whoa whoa whoa everyone now where do you know girls love is it is wha wha I'm yeah giggling I am Oh well maybe we need I love when I was there I did know people I wanna do ha ha ha ha ha ha ha ad proposal over here and a variety of Oscar and he is displayed in yellow Oh Oh Andy hahaha tomorrow I'm leaving the salon Oh oh yeah anything yeah and if there wasn't people and if there was nothing I woke

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2016
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 those who pretend. This is one of the key enemies that I believe is very important for disappearing. Amen. Wow. Now top pretenders look the you have to know what is a pretender. Then you know that is dangerous. Do you know that there are no snakes in Jamaica? Yes. Did you know not even one is the island without a single snake? Do you know why? They have an animal called the mongoose. It has eaten all the snakes in the country. Nuclear weapons cannot wipe out the snakes in the island. But the mongoose has wiped out the

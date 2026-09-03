@@ -8,6 +8,8 @@ year: 2023
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 are you excited by these amazing points you may be seated now we go to those who are mad and I want you to um I want you to take note because this particular section is going to help us all because mental illness is now more common and um the estimation is that one in five Americans meet the criteria for a mental health disorder in a given year that is about 20% of the population have some kind of mental disorder and there are 200 diagnosable men mental sicknesses today all right diagnosable right so those who are

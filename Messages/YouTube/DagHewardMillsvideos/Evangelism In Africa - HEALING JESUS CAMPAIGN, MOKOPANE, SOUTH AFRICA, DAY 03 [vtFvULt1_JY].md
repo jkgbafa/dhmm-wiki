@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=vtFvULt1_JY"
 duration_min: 167
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism"]
 ---
 
 something Rick is about to get loose tonight that was the whole Rasul Allah for Allah Khomeini God's power is ready to be ministered to us my property for I can assure details swamp where joy please join me to welcome with Allah to bless us with a body alleluia keep the Lord of bad sort of brain oh he one hello director : whoopee boo wer die yeah Dorner people nah man he will do me sir booyah booyah Yahoo Misha policy emini go one time Oh Oh here to me some more are you there now Obama policy

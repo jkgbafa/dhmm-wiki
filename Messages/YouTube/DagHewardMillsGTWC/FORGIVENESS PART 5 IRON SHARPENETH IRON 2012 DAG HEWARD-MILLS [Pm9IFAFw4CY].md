@@ -8,6 +8,8 @@ year: 2012
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Matthew 12, verse 43. 1243. When the unclean spirit is gone out of a man, he walketh through dry places seeking rest and findeth none. Then he saith, I will return into my house from whence I came out, and when he is come, he finds it empty, swept and garnished. Alors he didn't read sorted, and or then he goeth and take it with himself seven other spirits more wicked than himself.

@@ -8,6 +8,8 @@ year: 2000
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Hey ah just think where my Banga you just crazy crazy don't just sit down just mess up your hands and praise all you see is a wedding of a friend zone he's a rock come on don't be tiresome Oh Karami Oh he is you hallelujah father we thank you that we will not be the same I pray for everyone gathered here for the spirit of wisdom and revelation in the knowledge of your Holy Word father open our heart that we may grow in you know you walk in you and live for you in Jesus name

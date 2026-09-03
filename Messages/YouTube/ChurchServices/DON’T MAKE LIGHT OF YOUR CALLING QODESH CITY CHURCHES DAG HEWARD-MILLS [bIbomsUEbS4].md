@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=bIbomsUEbS4"
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 okay i think i better preach before i don't but this is preaching this is not preaching now i've been talking about the importance of the call and today i just want to say one reason why people do not fulfill their call is because they make light of their calling right don't make light of it when somebody invites you to go preach you better wear a suit or something that they would see that you are serious so somebody invites you don't make light you have to understand how they see the program they see it as a

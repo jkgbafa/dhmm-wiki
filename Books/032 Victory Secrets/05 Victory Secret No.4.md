@@ -4,6 +4,8 @@ book: "Victory Secrets"
 book_number: "032"
 chapter_number: 5
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 Victory Secret No.4\

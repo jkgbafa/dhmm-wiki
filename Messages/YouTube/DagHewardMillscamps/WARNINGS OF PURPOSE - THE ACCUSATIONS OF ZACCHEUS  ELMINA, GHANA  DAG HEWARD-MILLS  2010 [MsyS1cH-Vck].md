@@ -8,6 +8,8 @@ year: 2010
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 now I want to give you the accusations of zakos that he uses to get the the things from the people I'm going to give you the accusations number one the Greek word is suo pan Su Fant Su fan Su s u k o p h a n t e o it means in Greek to falsely accuse someone wrongly in order to take something from him now I'm going to give you the accusation then you you you can even respond in a worse way than me in order to take away our people you say we can

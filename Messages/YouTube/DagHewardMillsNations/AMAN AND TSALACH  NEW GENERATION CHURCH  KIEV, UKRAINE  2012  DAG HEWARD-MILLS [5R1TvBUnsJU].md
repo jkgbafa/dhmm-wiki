@@ -8,6 +8,8 @@ year: 2012
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Hallelujah, Amen, Amen, glory to God, brothers and sisters. Take a seat if you can. Hallelujah, bless someone nearby. Say today, the Holy Spirit will touch you today. The power of God is honored upon you today. God's anointing will be on your life. Hallelujah, glory to God, glory to God, and we will now perform a very important, very important sacred act. You know, every time God did something, he said, "Bring me a sacrifice," and the sacrifice placed God in a position to act. The sacrifice opened the heavens. You know, one day, the enemies came with a

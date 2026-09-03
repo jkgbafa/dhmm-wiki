@@ -8,6 +8,8 @@ year: 2002
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/prayer", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 welcome to track number one of Grace and peace all right you may be seated um we just have a short time so I want you to open your spirit and your heart and I believe that the Lord is going to bless us in this time amen amen uh turn with me to Second Peter chapter second Peter chapter 1 second Peter um bring you greetings from uh Ghana Ghana is fine actually I was um I just came from Seattle where I was uh I actually arrived in Ghana on Friday so I was just there for Saturday

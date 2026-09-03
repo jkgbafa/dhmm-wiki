@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tpANFFp8IcM"
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 A man show by K Coface is not given to the ladies 1 girl snack at the Joby lab gifts face and talk to Minamata Amina dollars also no Pina Colada Nato there at total and to the seniors Pina Colas in dollars inGaza her daughter loves it around the cake and not Oddo Ben May de Caussens passed compared to May oh oh my left at the Cateau fans and friends of mine and in the transition to all digital we did that attention Obama don't go there well seen rolling among ayew at the tour what my life

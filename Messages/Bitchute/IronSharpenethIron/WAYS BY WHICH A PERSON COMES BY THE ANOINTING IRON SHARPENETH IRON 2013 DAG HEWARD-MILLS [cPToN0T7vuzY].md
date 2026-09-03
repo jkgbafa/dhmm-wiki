@@ -9,6 +9,8 @@ duration_min: 40
 source: "whisper"
 match: "exact"
 duplicate_of: "[[Messages/Bitchute/IronSharpenethIron/WAYS BY WHICH A PERSON COMES BY THE ANOINTING IRON SHAPENETH IRON DAG HEWARD-MILLS [tyRb3jnSScNC]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 Now I'm I'm just sharing something from this book called the mega church. The mega church. I want to encourage you, those encourages the mega church, the mega eglis. I want you to be a mega church pastor. Write your name and say, I am a mega church pastor.

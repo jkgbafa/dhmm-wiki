@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=3bv7ohs8NMU"
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah father thank you for this great opportunity we thank you in Jesus name Amen amen arrived Lord our God you made you a thing evil I'm sharing about the foundations and I'm still on the forgiveness Gepetto Judah Pardo a leaf on DOMA and we were going through the stages of disloyalty which come out of unforgiveness in Upali on digit update deal while you take UPN paw Lamont the bottom Stage one is what it's a few may what else a coma I cannot hear you and SPN depend on what does independence do castle in the town

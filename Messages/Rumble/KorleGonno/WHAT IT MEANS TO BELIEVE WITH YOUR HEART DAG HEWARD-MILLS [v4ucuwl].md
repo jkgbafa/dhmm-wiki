@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ucuwl/"
 duration_min: 85
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Your hands together and your voices upraise. Blow once again. I don't know where it comes from, don't know where it comes from. I don't know where it goes. Don't know, but let it blow, but let it blow over me.

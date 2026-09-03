@@ -8,6 +8,8 @@ year: 2023
 duration_min: 34
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 prophecy number 12 prophecy number 12 these are Supreme prophecies there shall be a rise of prosperity I double Mega Missionary church with money did you hear what I said there's going to be a rise in the prosperity levels listen I want to you to see this prophecy in Zechariah 1 and verse 17 it says cry yet saying thus sayeth the Lord of hosts my cities through Prosperity shall yet be spread abroad and the Lord shall yet Comfort Zion and shall yet choose Jerusalem there shall be a rise of prosperity amen that says the Lord my

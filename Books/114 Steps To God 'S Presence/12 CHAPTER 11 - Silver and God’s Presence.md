@@ -4,6 +4,8 @@ book: "Steps To God 'S Presence"
 book_number: "114"
 chapter_number: 12
 type: book
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 ###  CHAPTER 11

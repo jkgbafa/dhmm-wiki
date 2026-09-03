@@ -9,6 +9,8 @@ duration_min: 82
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE ART OF MAKING A FAMILY GTWC PARIS DAY 3 SESSION 11 2025 DAG HEWARD MILLS [ONbYwBjo7BA]]]"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 Father, we give you thanks in the name of Jesus. Amen. Hallelujah. Before we before we uh get going, I want us to watch our small documentary again. because I believe that it gives you a vision for the nations. It gives you a vision to the nations of the world. Amen. Amen. How many want a vision for the nations of the world? Please take your seat and let's 100 million souls. Lights. Lights please. Volume please. Volume. Oh. Oh. Oh, heat, heat. There's a businessman. There's a widowed wife. A smiling face with a shattered life. A teenage

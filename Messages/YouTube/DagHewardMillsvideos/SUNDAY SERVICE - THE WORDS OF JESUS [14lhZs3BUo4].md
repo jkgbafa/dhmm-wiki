@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=14lhZs3BUo4"
 duration_min: 27
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Father thank you for this morning thank you for your Holy Word Lord as we come before you today we pray for openness we pray for humility we pray Lord for you to lead us and minister to our hearts may our hearts not be heavy and over weight now we cannot hear receive and understand with our heart and our ears not be down that we cannot hear and I eyes not be closed that we cannot see help us to see Lord in Jesus name Amen you may be seated in the presence of the Lord I want

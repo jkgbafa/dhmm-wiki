@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqdzl/"
 duration_min: 56
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 Shall we pray? Father, thank you this evening for the your presence here. Thank you for your blessing. As we come before your holy word, Lord, we ask that you guide us, you speak to our heart. Let your will be done.

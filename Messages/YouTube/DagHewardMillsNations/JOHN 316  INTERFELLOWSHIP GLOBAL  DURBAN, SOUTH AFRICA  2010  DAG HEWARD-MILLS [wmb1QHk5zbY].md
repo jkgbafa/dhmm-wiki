@@ -8,6 +8,8 @@ year: 2010
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 heavenly father thank you for tonight thank you for the blessing that we have to come before you like this what a blessing we ask that your spirit will lead us guide us bring us oh Lord into your perfect will today we thank you in the name of Jesus Christ and everyone said amen you may be seated in the presence of the Lord Halle Hallelujah are you glad to be in church tonight it's always a blessing to be here um in deran um in Ghana they call me a white man when I go to America they

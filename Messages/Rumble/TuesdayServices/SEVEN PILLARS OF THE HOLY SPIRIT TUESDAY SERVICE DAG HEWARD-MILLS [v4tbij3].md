@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tbij3/"
 duration_min: 93
 source: "whisper"
 match: "exact"
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 I am robotic totally electronic and super sonic. It's making you last and my phone, it's so psychotic. Just authentic and high authentic. And my moose translanted. Because it's convenient.

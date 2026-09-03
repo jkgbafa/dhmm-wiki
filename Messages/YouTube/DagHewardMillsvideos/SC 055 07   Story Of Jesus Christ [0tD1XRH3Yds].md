@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=0tD1XRH3Yds"
 duration_min: 241
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Heaven, Hell and Eternity/Judgment", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/heaven-hell-and-eternity/judgment", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 how many do you have 19 18 18 then the big three jesus and blind bartemios it's another story that you can use not that you can use it's not you can use you are telling about what you know isn't it blind bartemios that's stevie wonder yes blind from beth isn't it lying by the roadside waiting for jesus then suddenly jesus comes people say you gotta shut up but blind bartimaeus continues to cry all the more all the more and then in the end jesus said let him be brought to me wow and he comes to

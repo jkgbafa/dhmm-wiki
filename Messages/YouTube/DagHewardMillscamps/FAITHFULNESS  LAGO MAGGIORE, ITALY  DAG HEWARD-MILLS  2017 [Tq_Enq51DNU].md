@@ -8,6 +8,8 @@ year: 2017
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/anointing", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 build your house on the rock and the rains will come down you've got to build your house on a rock and the Bloods will come up build your house on a rock the winds will blow very but your house will stand strong oh strong he whoever hears my words and he keeps them Whom Shall I like in him too he is alike a man who builds a house upon the rock upon a solid rock I do not choose to build upon the easy sends of life I will take my time and build up on a

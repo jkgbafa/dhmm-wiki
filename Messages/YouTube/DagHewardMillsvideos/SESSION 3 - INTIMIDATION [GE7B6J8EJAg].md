@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GE7B6J8EJAg"
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 great intimidation is demonic that was it as they went to prayer a certain dancer that was possessed with a spirit of divination meta as 16 by 16 and the same followed us day and night crying these servants are the servants of the Most High God she did this for many days and poor being repaired to the spirit earth and I command you come out in the name of Jesus Christ so intimidation is a threat of the enemy to bring up information about you to try to control your preaching hey you you can't preach about this

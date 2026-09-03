@@ -8,6 +8,8 @@ year: 2006
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 the anointing brings you the right spouse the anointing brings you the right person for your life Wow Wow ah you never thought about that you see you thought it was the lipstick that would bring you the right scull and verse 20 and M Saul's daughter loved David and they told Saul and the thing pleased him hallelujah amen and in verse 27 wherefore David arose and he went in his men and slew of the Philistines 200 men and every brought their forkins and gave them in full tail to the king that he might be the king

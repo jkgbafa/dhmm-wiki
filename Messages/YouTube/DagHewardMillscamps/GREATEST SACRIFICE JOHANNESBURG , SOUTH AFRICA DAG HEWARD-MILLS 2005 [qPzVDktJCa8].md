@@ -9,6 +9,8 @@ duration_min: 64
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/GREATEST SACRIFICE  JOHANNESBURG , SOUTH AFRICA DAG HEWARD-MILLS  2005 [qPzVDktJCa8]]]"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 Thank you for your word, your blessing in the name of Jesus. Amen. You may be seated. Okay. Now I want to call for the greatest sacrifice.

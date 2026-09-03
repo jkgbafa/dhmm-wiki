@@ -4,6 +4,8 @@ book: "Those Who Accuse You"
 book_number: "001"
 chapter_number: 8
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 ## Chapter 7

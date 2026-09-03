@@ -8,6 +8,8 @@ year: 2012
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 exalt him praise him worship him exalt his name exalt his greatness his power Glory sij SK vyl ye na tye ochnoe ochnoe s shlyakh dae s khvosom nasam glorious the mountains bow then the valleys grow praise worships our glorious look at velly tsari tsari krasu glorious Our God you are glorious Our God by the sea vitr spiva tvoy im all glorious Our God you are glorious Our God splash lye na tye oshe tsari bude dae se khvostom nasomu Slava novy kloni Novy novy vrashit praise everything worships our glorious look at vel all tsari naris glorious

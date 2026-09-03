@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hZiWgMnjc18"
 duration_min: 164
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome your neighbor. Tell your neighbor it's good to see you on a Sunday morning. The best place to be on a Sunday morning is love. Amen. How many of you know that today is a great day and we are going to have an encounter with the Lord.

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uctuq/"
 duration_min: 84
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Say amen. I said say amen and move to about seven people and welcome them into the presence of a God Move around, shake somebody, hallelujah, socialise, socialise, yeah. We are gathered together as a family swanus one lifting up to the king of King Here we are here. Gathered together together as a money as a family, lifting up our voices to the king of kings, and we cry, we cry where he's join your hands with somebody's hand. Gather together, sing it with a smile to your neighbor, with a smile to your neighbor, oh bound that's one why don't you lift those two hands together, lifting up our voices to the king and we cry about this and we cry lift up your hands and cry up a father where he is your name is your day Abba Father Father Worthy worthy how many believe in Jesus in this room?

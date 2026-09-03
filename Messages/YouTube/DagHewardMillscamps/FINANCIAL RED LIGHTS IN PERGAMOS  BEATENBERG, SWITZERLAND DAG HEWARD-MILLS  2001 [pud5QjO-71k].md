@@ -8,6 +8,8 @@ year: 2001
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number seven of victory in pegamos everybody say victory in pamos Victory in P we started the camp by reading about the Book of Revelations there were seven churches is that not so and there was one particular church amen and that church was called peramos it was in a place called peramos you remember and the characteristic of that church was that it was where Satan's feet was and another thing he said about that church was that it was where Satan dwells his house is and what we said was that a place is Satan's

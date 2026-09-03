@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sy7hx/"
 duration_min: 155
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wisdom"]
 ---
 
 Hallelujah. Somebody give Jesus wave. Jesus. Jesus wants to know you, but I don't know about you. Do you know Jesus?

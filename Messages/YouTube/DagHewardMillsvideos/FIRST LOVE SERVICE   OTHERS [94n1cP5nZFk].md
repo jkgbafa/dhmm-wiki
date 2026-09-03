@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=94n1cP5nZFk"
 duration_min: 181
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh everyone goes through trying time the joy comes in the morning and even when we keep hard to why he gives you peace for you and in everything and before ha Oh yeah the evil one because in me try to take away your glass and even when they see far too far we've got to open up a mouthful face of victory for everything and in everything you got ah one I provide these please I'm gonna get papa not looking over my soda Oh ah tears will come don't plan it will be over I'm moving forward

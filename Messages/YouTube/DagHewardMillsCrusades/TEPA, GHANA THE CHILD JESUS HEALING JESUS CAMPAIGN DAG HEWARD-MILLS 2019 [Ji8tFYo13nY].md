@@ -8,6 +8,8 @@ year: 2019
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wisdom"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wisdom"]
 ---
 
 Everything in our hand that we receive from you. Everything we have given is from your own bounty. And we just want to say thank you for giving us this blessing. Thank you for this seed that we have sown. Thank you for the harvest you have promised.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=mMEecmydRBk"
 duration_min: 168
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-holy-spirit"]
 ---
 
 I'll be Hollow for you too for you to do I gonna wait my god today for your tell me am I gonna win see thinking be a to my snake for you why are you so hard why are you so difficult why don't you but you have excuses is he gone wait you see gone away you see hallelujah let us pray father thank you for today guide us by a mighty holy spirit into all of your will in the name of Jesus we pray amen you may be seated right how many of us here are

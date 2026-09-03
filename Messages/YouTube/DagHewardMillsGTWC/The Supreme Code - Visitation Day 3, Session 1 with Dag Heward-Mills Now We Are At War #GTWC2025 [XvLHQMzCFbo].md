@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=XvLHQMzCFbo"
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Take your rightfulness. Let's all join in and say Holy Spirit come. We pray holy. We need your presence holy. Holy Spirit.

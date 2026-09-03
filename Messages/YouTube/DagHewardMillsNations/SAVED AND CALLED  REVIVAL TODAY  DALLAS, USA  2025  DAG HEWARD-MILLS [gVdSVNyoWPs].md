@@ -8,6 +8,8 @@ year: 2025
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Call of God"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-call-of-god"]
 ---
 
 Wow, what a blessing. Hallelujah. Lift your hands with me. Let's pray. Father, thank you for tonight. Thank you for guiding us by your spirit. Thank you for leading us by your holy spirit. Thank you for your power tonight. Thank you for changing our lives. Thank you for your presence. Thank you, Jesus, for your call. Thank you for calling all of us and setting us free. from the devil, from darkness, from wickedness. Thank you, Lord. As we come before your holy word, Jesus, we thank you. We worship you. We love you. Lift your hands and thank

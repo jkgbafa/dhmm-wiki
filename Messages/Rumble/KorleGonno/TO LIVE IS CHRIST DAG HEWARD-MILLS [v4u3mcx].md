@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3mcx/"
 duration_min: 51
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 We see a boy so I didn't like some Because the rest I confess tomorrow because you know I know Yes I know he was the future and life as well adventure his name as Jesus He came to die for you to buy my path my tea as I to prove my second what sentence has name Jesus He came to die Just to save you to buy my butt by my own single way is that you put that myself because I confess to my I can face tomorrow because he's within my hand on my fear with balls now I know Yes I know he holds my future and I just went every cause Jesus I can't pray my moral I can face for me cause my Jesus name on my fear is born I know I know I know yes I know he owns my future my future sweet my life has ever been somebody said she is somebody shots my chance somebody say my cheat as lay to my time my faith my life the Because he God bless you please give them a round of applause please go ahead and put your hands together for them.

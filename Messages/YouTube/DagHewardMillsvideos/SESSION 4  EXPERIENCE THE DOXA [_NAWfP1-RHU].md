@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_NAWfP1-RHU"
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 thank you I'm sing thank you thank you Lord I am sing just the other day when there was no other way in a tight situation with no one to see me through if it had not been for you I would would not know Lord be here singing that's why I'm standing here tonight Lord I am save thank you hey I have a reason to say to say Thank You Lord you are my reason you died in my place shed your own blood on the cross for my sins and my sins yes you did I iing

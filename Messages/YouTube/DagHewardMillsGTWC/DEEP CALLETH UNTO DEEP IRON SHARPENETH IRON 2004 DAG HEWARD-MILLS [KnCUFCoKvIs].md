@@ -8,6 +8,8 @@ year: 2004
 duration_min: 50
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 And the pops that never gave suck. Then shall they begin to say to the mountains, fall on us and to the hills, cover us. For if they do these things in a green tree, what shall be done in the dry? Somebody who is going to the cross. Look at the messages that he is giving.

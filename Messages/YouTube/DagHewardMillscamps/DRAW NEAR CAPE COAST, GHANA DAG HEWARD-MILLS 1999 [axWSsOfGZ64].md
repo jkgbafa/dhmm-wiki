@@ -9,6 +9,8 @@ duration_min: 13
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/DRAW NEAR  CAPE COAST, GHANA  DAG HEWARD-MILLS  1999 [axWSsOfGZ64]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number one of love and the mega church. Thank you for your word. As we begin this shepherd's camp, we thank you that your presence is with us. We thank you that you are going to speak to our heart. We're going to hear our prayers.

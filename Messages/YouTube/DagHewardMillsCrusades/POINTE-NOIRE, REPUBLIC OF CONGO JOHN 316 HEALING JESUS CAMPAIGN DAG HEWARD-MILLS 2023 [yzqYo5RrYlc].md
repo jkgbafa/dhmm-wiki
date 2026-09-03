@@ -8,6 +8,8 @@ year: 2023
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Si toi la joie lève ta main gauche Si toi la joie lève ta main droite acclamée pour Jésus Viens louais Viens Jésus appouille-noi Amouveille À mon merveilleux chanté Jésus est mon moi Il a beau t'être tout mes péchés sur la main chanter Jésus mon sauveur Le sang m'a donné la victoire Pour ce que tu as fait Je te suis tous toujours Viens pour Jésus Je suis amour quand je pense à son amour c'est merveilleux Je t'ai fait Dieu à pécher ton moi Suis à super pour moi Et tu es bon pour moi ô ton de

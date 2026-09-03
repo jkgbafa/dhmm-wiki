@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=XgDgjAipz9k"
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 So thank you so much. Can you give the put your hands together and get honor Bishop and his family? Thank you so much. Before you take your seat before you take your seat. I know yesterday a lot of you were looking for my books.

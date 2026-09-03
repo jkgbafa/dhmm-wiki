@@ -8,6 +8,8 @@ year: 2025
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 So today we want to continue. Lord, I know you need somebody. You can depend on me. Amen. Amen.

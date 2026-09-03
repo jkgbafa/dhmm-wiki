@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=CSkqoBmXY_I"
 duration_min: 204
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh Form cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl cl Oh It all belongs to you Jesus Oh Oh Oh Oh Oh Oh Oh Oh Oh Oh Oh Oh Oh Oh Oh Oh Sing oh Power belongs to you Jesus Oh It belongs to you Oh Oh Oh Oh Oh Oh Oh It belongs to you Jesus To you Oh Oh Oh Oh Oh Oh Oh All glory, all power, it belongs to you, Jesus Sing, O Lord, O glory, O power.

@@ -8,6 +8,8 @@ year: 2010
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism"]
 ---
 
 e e e welcome to track number five of advancing Imp pegamos in winning the loss at any cost has everybody got your copies of the book now who does still not have it's coming okay how about catch the anointing how many have got your copies that's the anointing great now polishing and more polishing page 18 simple isn't it now let's read Luke 15: 8 and 9 it's right in the book on page 19 either what woman having 10 pieces of silver if she lose one piece does not light a candle and sweep the house and

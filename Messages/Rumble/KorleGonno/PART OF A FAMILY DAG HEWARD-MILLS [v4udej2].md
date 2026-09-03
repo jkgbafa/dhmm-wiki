@@ -7,6 +7,8 @@ url: "https://rumble.com/v4udej2/"
 duration_min: 40
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 And tell him you belong at the top. People at the top. You are part of the people at the top. Hallelujah. And I believe that this word that is coming practical down to earth, anointed, will keep you at the top.

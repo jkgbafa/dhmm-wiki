@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sxh3i/"
 duration_min: 99
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wisdom"]
 ---
 
 Piper and I, well, Piper Scout and I are on our way to Master Applied Coatings. All right, I pulled in a bay, and there's the trailer. Just came back in for day two of the ceramic coating. It cost me 26 cents per year more on my coverage. So I thought my truck was pretty until this happened.

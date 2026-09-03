@@ -4,6 +4,8 @@ book: "Now We Are At War"
 book_number: "089"
 chapter_number: 15
 type: book
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 ### Chapter 12\

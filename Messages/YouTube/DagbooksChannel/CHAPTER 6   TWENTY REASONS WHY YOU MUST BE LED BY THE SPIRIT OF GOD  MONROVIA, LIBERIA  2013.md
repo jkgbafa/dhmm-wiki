@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2013
 source: "autocaption"
+topics: ["The Holy Spirit", "Wealth and Finances"]
+tags: ["topic/the-holy-spirit", "topic/wealth-and-finances"]
 ---
 
 I want to um share with you some important things that I believe are going to help your ministry. How many of you are pastors? How many of you are trying to become pastors but are not yet pastors? All right. We want to Can we turn off that one, please? That fan. We want to give uh an opportunity to some of you to come to Bible school in Ghana. What I have a God put on my heart to give a special scholarship to you here. Amen. We have a charismatic seminary. Anacazo Bible Seminary is one of

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2jfYg0TSWAg"
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 you may be seated right in my last few minutes here with you before I hand over to the next speaker what I'm actually sharing about is what I call foundations for ministry like to really minister you need some foundations and one of the foundations is humility without humility all the rooms of your ministry you cannot enter the difference that mentions rooms effect places that God has for you you will not you you you will live and die without going to them so an end up way of your life when you stand before God it will

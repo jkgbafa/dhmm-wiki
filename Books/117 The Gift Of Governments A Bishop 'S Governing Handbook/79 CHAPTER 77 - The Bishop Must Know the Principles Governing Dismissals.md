@@ -4,6 +4,8 @@ book: "The Gift Of Governments A Bishop 'S Governing Handbook"
 book_number: "117"
 chapter_number: 79
 type: book
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 ### CHAPTER 77\

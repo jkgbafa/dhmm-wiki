@@ -8,6 +8,8 @@ year: 2000
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Oh there are higher high there are higher high there at the time whatever you need to do whatever you need lost to it in me Lord to the glory the glory fills my life feels fine we'll never be there for like five fall so slight way so bad oh my what a seed in the case again with my where are we - we come on no reply the goodbye your day I will never be oh that day never return after those the door I will walk the read our God oh I will never ah and

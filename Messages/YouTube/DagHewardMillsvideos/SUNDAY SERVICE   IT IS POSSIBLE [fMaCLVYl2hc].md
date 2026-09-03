@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=fMaCLVYl2hc"
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 I want you to turn with me to mark chapter chapter 9 my message is entitled it is possible all right and I want to read from mark chapter 9 as possible to serve God as possible to worship God as possible to be a Christian hallelujah there is no need for us as ministers to lower the standards of Christianity amen there is no need for us to change what God has said and make it diluted make it less than it is supposed to be Jesus Christ never lowered the standards to get more followers Amen Jesus Christ

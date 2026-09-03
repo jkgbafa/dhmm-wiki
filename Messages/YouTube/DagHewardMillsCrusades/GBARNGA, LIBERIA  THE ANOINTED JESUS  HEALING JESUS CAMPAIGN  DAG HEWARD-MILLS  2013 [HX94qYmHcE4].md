@@ -8,6 +8,8 @@ year: 2013
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/anointing", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Hallelujah If I gain all things in this whole wide world and I lose Jesus I've lost everything by way Jesus I have everything is more precious done anything if I gain all things in this whole wide world and I lose Jesus I've lost everything by way Jesus I have everything he's more precious than anything I have Jesus I have Jesus if I have Jesus I have have everything oh Jesus my King Jesus is more precious than somebody sing with me I have Jesus I have Jesus I have Jesus if I have Jesus I have everything

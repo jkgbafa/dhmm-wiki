@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=itQgSrANIN4"
 duration_min: 209
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I cast my mind to Calvary where Jesus bled and died for you me I see his WS his hands his feet my that can let's all sing it one more time I cast my mind to C me where Jesus and die for me I see his WS his hands hiset my that let's sing it again I cast my mind to calary where Jesus BL and die for me I see his hands me My Savior on that curer tree his body bound his body bound and drenched in tears they laid him down in J of the

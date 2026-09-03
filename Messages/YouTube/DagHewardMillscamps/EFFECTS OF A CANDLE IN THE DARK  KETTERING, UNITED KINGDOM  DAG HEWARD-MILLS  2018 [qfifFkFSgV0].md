@@ -8,6 +8,8 @@ year: 2018
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Chris joiny of the lording everywhere to the darkest corners of this world the spirit of the Lord is falling on the young ones who will go for him God is Raising who will stand for him the world Make Disciples of all Nations go to Every tribe every tongue and every people spread the Gospel of Jesus the Savior all who believe they shall be Redeemed by the blood of the Lamb you are a Christian Soldier you can join the army armies of the Lord matching everywhere to the darkest corners of this world the spirit of the

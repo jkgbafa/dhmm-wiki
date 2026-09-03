@@ -8,6 +8,8 @@ year: 2012
 duration_min: 198
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Pastor Fred Taylor and his wife from Lighthouse Chapel International from give of with all our Brethren from Ukraine I'm sure they'll bring us greetings later on we also have our unique not unque what a shock we have Bishop Richard I what a what a sh a sh what a all right so it no no no wait wait wait wait wait wait wait oh relax pastor Joe relax and so um I'll just give you the camp rules and then we will just continue from there okay so nobody leaves the camp site before the camp is over

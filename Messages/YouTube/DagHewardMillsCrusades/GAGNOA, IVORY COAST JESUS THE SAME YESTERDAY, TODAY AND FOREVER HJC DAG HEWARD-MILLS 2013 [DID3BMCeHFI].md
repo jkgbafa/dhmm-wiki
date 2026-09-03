@@ -8,6 +8,8 @@ year: 2013
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Your hand on your heart right now. Place la main sur votre poitrine. Lord Jesus. Seigneur. Let your power enter me today.

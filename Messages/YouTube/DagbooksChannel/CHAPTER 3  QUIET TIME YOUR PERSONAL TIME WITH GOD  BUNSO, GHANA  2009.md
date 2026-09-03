@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2009
 source: "autocaption"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 Seven things that happen during the quiet time. Number one, you develop the most important relationship of your life. Now, even though we are all dancing here, right? Everybody here has a different relationship with God. Yeah. Just like we all be dancing here. Everybody has a different relationship with me. Yeah. Everybody's relationship here with me is different. Is it not true? And your relationship with Alam stand up. Your relationship with this gentleman, everybody's relationship with him is is there anybody here who is close to him? How many know him? How many don't know him at all?

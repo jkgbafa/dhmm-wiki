@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=XThfeoY7ezY"
 duration_min: 260
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah god is good and all the time now attention and tell your neighbor god is good and is good all the time then everybody didn't mind you tell your neighbor one more time god is good and he's good all the time i didn't say push your neighbor i said tell your neighbor god is good and it's good all the time hallelujah what a blessing today happens to be i don't know it's like palm sunday yeah it means that everybody has to eat parmesan soup i don't know but in case you are not interested that's up

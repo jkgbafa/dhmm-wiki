@@ -9,6 +9,8 @@ duration_min: 114
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/CAPETOWN, SOUTH AFRICA  WHY YOUR SOUL IS IMPORTANT  HJC DAG HEWARD-MILLS  2015 [mag4SkKd6Q8]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Let me prophesy and say, I hear the change fall over your life. I am the chase before your house, over your marriage, over your jaw. I hear the change for somebody praise the Lord. Oh, clap your hands, clap your hands for Jesus. Clap your hands, keep clapping.

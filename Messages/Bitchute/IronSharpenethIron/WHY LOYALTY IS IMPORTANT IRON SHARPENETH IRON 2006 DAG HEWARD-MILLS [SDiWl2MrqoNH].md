@@ -8,6 +8,8 @@ year: 2006
 duration_min: 93
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Praise the Lord. Amen. In Second Corinthians chapter thirteen and verse eight. The Bible says that for we can do nothing against the truth but for the truth. In John 17, the seventeenth verse, Jesus also said, sanctify them through thy truth.

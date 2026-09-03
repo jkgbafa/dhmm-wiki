@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=DL7Z2xewG4M"
 duration_min: 258
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah God is good and all the time now turn to your neighbor and tell your neighbor God is good and is good all the time your neighbor didn't mind you tell your neighbor one more time God is good and he's good all the time I didn't say push your neighbor I said tell your neighbor God is good and he good all the time Hallelujah ah what a blessing today happens to be I don't know it's today Palm Sunday yeah it means that everybody has to eat pal n too I don't know but in case you

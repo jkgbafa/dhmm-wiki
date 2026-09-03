@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=uP8M2RZujDA"
 duration_min: 158
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Ferriday katana Maya oh yes Lola sorry Katayama holy bro Missoni Maya oh yeah little itty-bitty remitting far the I do you lay my life before ha I sing it father don't you ha I told a Lima life I live my life people ah Jesus I don't you or somebody lay a lie before him I lay my might also Jesus how I adore you she says I do I'll leave a life before you yes a lay my life before Oh you Oh spirit spirit outdoor you spit red eye I'll lay my life before you one lay

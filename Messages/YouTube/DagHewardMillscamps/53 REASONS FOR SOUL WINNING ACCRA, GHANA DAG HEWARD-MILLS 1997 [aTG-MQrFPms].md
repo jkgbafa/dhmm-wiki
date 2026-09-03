@@ -8,6 +8,8 @@ year: 1997
 duration_min: 15
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism"]
 ---
 
 Welcome to track number one of loyalty in the mega church. Accept it. Know that the Son of Man is come to seek and to save that which is lost. We have to begin to seek them out. We have to begin to go to their houses.

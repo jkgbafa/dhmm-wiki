@@ -8,6 +8,8 @@ year: 2009
 duration_min: 168
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 third example of somebody who did not finish Lucifer now this one is you must listen to this one carefully Ezekiel chapter 28 from the start you h a place in my heart a place that no one else could feel but sin kept your spirit from work in couldn't look honest Ezekiel 2 my will get way to the truth that I found in you I never knew just how good it would be to stand in your presence totally free now for forg now I have a reason for living Jesus keeps giving and G G till my

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=D2ja8bcKGEc"
 duration_min: 52
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 all right lift your hands literally man father thank you for this time Pam se puso mama guided us by a mighty spirit continued past Tony's pre-pre some leaders don't renew into all truth don't toot Verity thank you mercy you have called us soon as I play you have blessed us to do Sabini leader country nor are your mighty spirit button is pre-pre song Jesus name Amen your babysitter penny + s'il vous plait you're welcome to give thyself wholly swahili Bienvenue a mbutu's this conference marks the end of luck and need in your life monkey pursuant

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=3wAF1nPx7BI"
 duration_min: 154
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/anointing", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Hallelujah. Let us pray. Father, thank you for your glorious power that is manifested in our lives. Thank you, Jesus. For all that you are doing and will do.

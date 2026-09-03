@@ -9,6 +9,8 @@ duration_min: 13
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/SALVATION AND THE BLOOD OF JESUS  GTWC PARIS  DAY 3 SESSION 3  2025  DAG HEWARD MILLS [GPNLXVtbDCU]]]"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 The next set of messages, salvation and the blood of Jesus. Now let's look at steps to salvation. Through the blood of Jesus. Open the message. Wow.

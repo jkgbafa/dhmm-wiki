@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6YkVWkVengE"
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah amen for lift up your voice and lift up your voice and sing are you there upon amen somebody lift up your hand Hallelujah the h on Hallelujah tell good good K do me sh do it like this for now one somebody lift up your voice and say for lift up your hands when give to be sa when Hallelujah Clap Your Hands for Jesus tonight ladies and gentlemen tonight is the first night of this wonderful campaign God has come to visit us here tonight and he's doing so through a servant has used over the nations

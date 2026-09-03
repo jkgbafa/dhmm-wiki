@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2011
 source: "autocaption"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Now the next thing I'm going to be ending at a point but the art of listening to somebody. How to listen to somebody to receive this anointing. Acts chapter 10:44 Peter went and preached to the household of Cornelius. And as Peter was preaching as Peter was preaching I'm showing you how to catch the anointing. You see my topic is catch the anointing. Read it for yourself. I'm reading from the Bible. As Peter spake those words and as he was preaching, the Holy Ghost fell. Show me somebody who listens to preaching, he's going to receive the

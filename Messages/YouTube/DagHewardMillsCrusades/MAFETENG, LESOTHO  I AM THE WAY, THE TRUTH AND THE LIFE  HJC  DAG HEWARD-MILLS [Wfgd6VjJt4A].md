@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Wfgd6VjJt4A"
 duration_min: 142
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 in the name of Jesus in the name of Jesus I have the victory in the name of Jesus in the name of Jesus I have the victory in the name of Jesus in the name of Jesus I have the victory in the name of Jesus in the name of Jesus I am the victory in the name in the name of Jus in the name in the name of Jus I in the name in the name in the name in the name I have I have in the name in the name of in the name I

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MjpTsSCXVhM"
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Wealth and Finances"]
+tags: ["topic/leadership", "topic/wealth-and-finances"]
 ---
 
 lelou yeah let us pray Heavenly Father thank you for this great privilege great opportunity that we have to serve you Lord today what a blessing it is to follow you to obey you to learn from you to learn from your word we are so blessed and we thank you in Jesus name we ask you to guide us in this one hour that we have in your word make your word a lie to us we thank you Lord in Jesus name Amen you may be seated turn with me to Isaiah chapter 3 Isaiah chapter 3 and

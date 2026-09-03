@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8AGVBEScT4w"
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 jesus loves me this I know for the Bible tells me so they won to him belong they are we yeah lovely yes love the Bible Oh Jesus loved me he died Heaven's Gate to open why he will wash away my face let his child come yes she loved me yes yes she loved me please go she loved me yeah yes G me my cell Oh you hallelujah clap your hands Patricia how many times you say hallelujah hallelujah man tonight we are all so privileged and blessed then you're all fly directly to have one of the

@@ -8,6 +8,8 @@ year: 2002
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 welcome to track number 15 of Al the goals of the accuser what's that you never had career counseling how many have chosen to be in the ministry from early raise your hand up from early hey all of you are you serious you chose at the age of 18 how many have chosen I just want me from early in my life this your hand as ay number two I will be there for 0 years people one and they say what are you doing here what are you doing here what are you doing here beside eari decide

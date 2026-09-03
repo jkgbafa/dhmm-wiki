@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ue943/"
 duration_min: 42
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Heavenly Father, we thank you for this morning. Thank you for the opportunity we have to come before you, to come before your holy word. Lord, we ask you to guide us to speak to our hearts. Let your will be done in our lives in 2007. In Jesus' name, amen.

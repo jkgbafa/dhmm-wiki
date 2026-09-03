@@ -8,6 +8,8 @@ year: 2023
 duration_min: 36
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 Now to conclude. Yes. We conclude. I want to say one thing. Chapter 53.

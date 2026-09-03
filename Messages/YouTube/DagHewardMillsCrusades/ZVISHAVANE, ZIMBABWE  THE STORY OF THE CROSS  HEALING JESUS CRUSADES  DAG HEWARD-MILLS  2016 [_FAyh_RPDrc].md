@@ -8,6 +8,8 @@ year: 2016
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 give Jesus a shout hallelujah amen put your hands together oh oh lift up your hands and say come on give Jesus a shout lift up your right hand and say me me give me J Hallelujah good J oh everybody sing with me come on lift up your hands and say Amen everybody sing lift up your right hand and sing yes everybody sing come on to oh to to for the LIF come on and say to to to Hallelujah Clap Your Hands for Jesus please be seated at this time the gentlemen in black and white are

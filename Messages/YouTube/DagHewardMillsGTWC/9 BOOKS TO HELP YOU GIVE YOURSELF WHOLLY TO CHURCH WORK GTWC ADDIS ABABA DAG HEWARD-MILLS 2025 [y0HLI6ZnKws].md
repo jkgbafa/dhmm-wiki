@@ -8,6 +8,8 @@ year: 2025
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 You know, when I started building our first church building, I was working with a certain brother. He was my assistant. And he was a contractor. Contractor. I called him every day.

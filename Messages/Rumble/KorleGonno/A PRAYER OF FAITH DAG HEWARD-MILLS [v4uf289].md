@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uf289/"
 duration_min: 75
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/faith", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Powerful. I believe that all of us have been very expectant and waiting for today, and today has come at long last. We have been we have missed our bishop for a long time, was away for two and a half years, but by the grace of God. He's back, amen. He's back alive and well.

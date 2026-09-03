@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=PyngoltKV0o"
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 yesterday see how can you style when your world is crumbling down what I wanna cry oh my sister look around and I see you and may get you Oh your truck is what you have to do we gave you the way keep ah I come May your head on me I know you with the way of the world I know you want nothing Russell County we want to use now I can't Oh before my you forgave of my me reason on me hahaha commend me what should be I love to be on give you only

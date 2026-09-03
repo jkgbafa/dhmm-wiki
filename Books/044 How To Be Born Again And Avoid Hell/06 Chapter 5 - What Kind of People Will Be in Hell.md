@@ -4,6 +4,8 @@ book: "How To Be Born Again And Avoid Hell"
 book_number: "044"
 chapter_number: 6
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Chapter 5\

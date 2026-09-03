@@ -8,6 +8,8 @@ year: 2013
 duration_min: 23
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Are you alive? Are you awake? Are you awake? Hello, are you awake? Check your neighbor and see if it's awake.

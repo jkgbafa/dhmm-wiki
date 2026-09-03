@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=J3pYlhWP2Jk"
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 how many of you I love with Jesus that sort of Jesus that something to you the thought of Jesus makes you go all wild well somebody's standing next to you I don't know about you but I'm in love with Jesus come on shout out to the Lord the Lord is my shepherd I shall not want he makes me lie down in green pastures believe me beside still water here is for mine oh right your bed Oh give me even though I walk through the body of the saddle all I know we will go down picking

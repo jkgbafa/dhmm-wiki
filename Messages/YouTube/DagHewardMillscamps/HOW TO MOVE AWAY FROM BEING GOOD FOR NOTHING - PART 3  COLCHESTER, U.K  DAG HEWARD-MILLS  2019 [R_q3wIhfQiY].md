@@ -8,6 +8,8 @@ year: 2019
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 Hallelujah beautiful Holy Spirit we are thankful for this opportunity in Jesus name amen amen you may be seated now how many points have I given you to get yourself out of being good for nothing 10 okay number 11 what is point number one by the way be a man of conviction number two I can't hear you wait for your season number three secret of Secret of concentration number four contate contemplate reflect number five what hard and difficult choose hard and difficult things rather than nice and easy things number seven what number six be open to

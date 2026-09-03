@@ -9,6 +9,8 @@ duration_min: 77
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE SHEPHERDING SKILLS OF JEHOVAH  GTWC SOWETO  DAG HEWARD-MILLS  2016 [ZxuXpcYmo3w]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I want to continue sharing about the ministry work. And what I want to share with you about for, and I believe we have 20 minutes. Is the art of ministry, which is the art of shepherding? What it means to become a shepherd. And what it means, the art of shepherding, and the art of ministry.

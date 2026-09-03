@@ -8,6 +8,8 @@ year: 2016
 duration_min: 146
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 are you excited if you're excited be seated Hall there'll be plenty time to shout okay well it's a blessing and it's a joy to be here and to have this powerful camp with our own I said I will tell you when to shout okay I will tell you I have to finish my speech then afterwards you shout okay so will you behave yourself don't cross over into misbehavior okay so you're going to behave yourself now isn't it yeah so when I tell you to shout then you shout when I tell you to stand up then

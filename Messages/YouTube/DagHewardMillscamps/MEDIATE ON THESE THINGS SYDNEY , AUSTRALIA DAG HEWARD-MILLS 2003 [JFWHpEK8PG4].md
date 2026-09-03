@@ -9,6 +9,8 @@ duration_min: 77
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MEDIATE ON THESE THINGS  SYDNEY , AUSTRALIA DAG HEWARD-MILLS  2003 [JFWHpEK8PG4]]]"
+topics: ["The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances"]
+tags: ["topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances"]
 ---
 
 Well track number 18 of how to survive in Ephesus. That's why Africa is the way it is. Africa is one of the richest continents. But it has been led. We are being led by wicked people.

@@ -9,6 +9,8 @@ duration_min: 94
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/BANGUI, CENTRAL AFRICA REPUBLIC JESUS THE SAVIOUR AND THE HEALER DAG HEWARD-MILLS 2022 [ZY74EQMassc]]]"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 to you to you on you J right you oh give Jesus an another shout of Praise I can hear you hallelujah hallelujah tonight is the second night and I'm expecting greater things today every generation God raises a man and in this Our Generation I believe that God has given us an anointed man we are so blessed to be here tonight for God to use him to bless us whatever God doeth it will be forever and tonight God is about to change things in your life forever miracles signs wonders Deliverance is coming to us tonight if

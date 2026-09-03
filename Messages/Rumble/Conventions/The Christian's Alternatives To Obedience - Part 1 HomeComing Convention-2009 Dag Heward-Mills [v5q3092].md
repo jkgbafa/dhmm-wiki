@@ -8,6 +8,8 @@ year: 2009
 duration_min: 152
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care", "Vision and Direction", "Vision and Direction/Hearing God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Like a father feeds his children, like a shepherd leads his blood, the Lord will always guide us and show us where to walk, and in times when we have plenty, in times when we have none, he's our provider, and is mercy in there of us, like a shepherd leads us, and like a father feeds us from the morning to the evening till the sun rise again, like a shepherd lead us, and like a father feeds us, he is the great Iver time that we are gathered, confessing him as Lord, his spirit always guides us, feeds us from his word.

@@ -8,6 +8,8 @@ year: 2014
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer"]
 ---
 
 prepare the way of the Lord 10 things you need to do to prepare the way of the Lord number one preaching number two repentance isn't it number three the kingdom of God isn't it number four make his paths straight away isn't it number five warnings to vipers number six bring forth fruits isn't it number seven turn to Matthew chapter 3 stop looking back what number is this number what seven stop looking back verse 9 of Matthew chapter 3 and think not to say within yourselves we have Abraham to Our Father for I say unto you

@@ -4,6 +4,8 @@ book: "Ready At 20"
 book_number: "074"
 chapter_number: 21
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances"]
 ---
 
 ### CHAPTER 20\

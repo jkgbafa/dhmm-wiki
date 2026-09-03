@@ -8,6 +8,8 @@ year: 2019
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 and expect God to touch your life for Greater Works God bless you am I am I singing all right wow I thought was about to sing a solo would all have fallen under the power I tell you well we already are I've heard from Bishop Obie but Daddy was not here when Bishop OB came to bring so when welcome Bishop Obie One More Time clap your hands for the Lord hallelujah you may take your seat I think the moment we've been waiting for has been getting closer and closer and closer a visit from our father

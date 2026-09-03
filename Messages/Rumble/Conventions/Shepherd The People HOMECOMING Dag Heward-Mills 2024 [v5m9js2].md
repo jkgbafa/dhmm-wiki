@@ -8,6 +8,8 @@ year: 2024
 duration_min: 87
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 Oh why don't you stand on your feet and celebrate God's grace upon our Father? Hallelujah. Are you blessed with the documentary? What a blessing. Many became righteous.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ooIZefFxS5s"
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Salvation", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/salvation", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Once now I need a moon once now I sweet Oh Sunny Basa see so when in Basil O beja woe O be Huna many yeah Oh ya man in my no so I am soon there was so chin that so yeah when you nine way now what my hand to say oh the piece on that so I think your Dope Shelly for Dobio I won't be what so what shame on the dear Nan so badness oh wooi by Johnny I chinho not to me ah sweat ya sweat down what for yeah so dear oh woe but no too me cal no oh see ya never way no yes or the paut yet sure ran and say and qua n and qua yeah and you're in and was yeah oh man up on you know oh they make it oh so come de me oh so come de yo that's such a phone back no yes went to me auntie oh yes went to me auntie on the gentry and your don't you are oh ya man in my no way yes today yes today yes today oh the pautobi I'm sure so now I ain't to say oh the pay oh the joy man is that Let's appreciate well, the wonderful people of Chile take it for healing Jesus campaign is here.

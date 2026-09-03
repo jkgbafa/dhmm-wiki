@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=YAeGHznm1nI"
 duration_min: 213
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 this morning you've blessed us oh God and we are here to offer the praise that is due you Lord thank you for preserving Us in this season thank you for delivering Us in this season thank you for pouring out your spirit upon us thank you for hiding us under your feathers oh God we are grateful if there is somebody who is grateful lift your voice anywhere you are lift your voice and magnify God lift your voice voice and magnify God the pist says I will raise my voice I will lift my voice and the Lord

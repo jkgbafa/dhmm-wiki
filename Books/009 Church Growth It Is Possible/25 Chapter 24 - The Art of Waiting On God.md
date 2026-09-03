@@ -4,6 +4,8 @@ book: "Church Growth It Is Possible"
 book_number: "009"
 chapter_number: 25
 type: book
+topics: ["Fasting", "Prayer"]
+tags: ["topic/fasting", "topic/prayer"]
 ---
 
 ## Chapter 24

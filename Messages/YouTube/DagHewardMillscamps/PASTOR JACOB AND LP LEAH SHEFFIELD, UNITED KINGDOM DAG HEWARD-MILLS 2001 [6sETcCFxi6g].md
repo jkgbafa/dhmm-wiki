@@ -9,6 +9,8 @@ duration_min: 86
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PASTOR JACOB AND LP LEAH  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001 [6sETcCFxi6g]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to chapter 13 pastors of thousands. Hi Leo. Our subject is Lady Pastor Leah. L E Henesis twenty-nine. How many can see that you are moving?

@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/Hqsmerd2MIZg/"
 duration_min: 46
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Let us pray. Father, thank you for this morning. Thank you for the privilege we have to share your word. Lord, we ask that you guide us by your spirit and let your will be done in the name of Jesus. We thank you for this privilege for this opportunity.

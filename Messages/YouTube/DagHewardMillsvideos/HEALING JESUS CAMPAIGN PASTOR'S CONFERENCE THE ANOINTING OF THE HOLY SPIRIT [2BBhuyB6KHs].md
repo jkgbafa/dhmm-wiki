@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2BBhuyB6KHs"
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Anointing/Kinds and Waves of the Anointing", "The Holy Spirit", "Wealth and Finances"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/anointing/kinds-and-waves-of-the-anointing", "topic/the-holy-spirit", "topic/wealth-and-finances"]
 ---
 
 let us pray father thank you for this opportunity that we have to serve you we ask you to guide us by a wonderful Holy Spirit into all that is necessary for us in Jesus name Amen you may be seated please thank you this morning I want to share with you on the anointing the anointing of the Holy Spirit amen and I want to ask you to just open your hearts and receive what the Holy Spirit has for us amen the anointing of the Holy Spirit Zachariah chapter 4 verse 6 says then he answered and speak

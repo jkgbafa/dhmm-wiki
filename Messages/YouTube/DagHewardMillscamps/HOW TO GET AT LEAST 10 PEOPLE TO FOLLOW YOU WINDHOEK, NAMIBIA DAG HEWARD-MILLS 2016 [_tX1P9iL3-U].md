@@ -9,6 +9,8 @@ duration_min: 131
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HOW TO GET AT LEAST 10 PEOPLE TO FOLLOW YOU   WINDHOEK, NAMIBIA DAG HEWARD-MILLS  2016 [_tX1P9iL3-U]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Welcome to track number nine of where is the flock that was given thee how many enjoyed Ida's music let us pray Father we are grateful for this opportunity as you guide us further in Jesus' name amen may be seated what did I tell you I was going to tell you today how to how to get the ten to Exodus twenty eighteen verse twenty-one exodus eighteen verse twenty-one fantastic moreover thou shall provide out of all the people able men such as fear God men of truth hating covetousness and place them over them to be rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens now.

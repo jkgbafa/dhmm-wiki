@@ -8,6 +8,8 @@ year: 2008
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit"]
 ---
 
 signs of promotion how many want to be promoted number one when you are promoted your heart rejoices in the Lord may your heart begin to rejoice in the Lord Hannah said my heart rejoiceth in the Lord when the lord gave her the baby she said in 1 Samuel chap 2:1 my heart rejoiceth in the Lord number two your horn is exalted that is your Authority you have more Authority and control you get it my horn is exalted first Samuel chapter 2 verse1 so the second sign of promotion is that you have more control when you

@@ -4,6 +4,8 @@ book: "A Good General The Science Of Leadership"
 book_number: "023"
 chapter_number: 49
 type: book
+topics: ["Leadership", "Leadership/Generals and History Makers", "Marriage and Family"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/marriage-and-family"]
 ---
 
 ### Chapter 48\

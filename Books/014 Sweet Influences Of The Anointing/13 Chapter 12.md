@@ -4,6 +4,8 @@ book: "Sweet Influences Of The Anointing"
 book_number: "014"
 chapter_number: 13
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit"]
 ---
 
 ## Chapter 12

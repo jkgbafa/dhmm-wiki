@@ -9,6 +9,8 @@ duration_min: 68
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/FOUR SPECIAL TYPES OF HOLY SPIRIT DIRECTION GTWC BULAWAYO DAG HEWARD-MILLS 2025 [6qBvTZOgQSk]]]"
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 Now, now listen. I want to now share with you four types of guidance. Four types of guidance that are necessary for your spiritual development. Wow. As a Christian and as a minister. Ministers are Christians. Yeah. Ministers are Christians. Now this four types, how many are ready for the four types? Beautiful. Second Timothy chapter 3 verse 16. Let's go. WHAT DOES IT SAY? ALL scripture is given by inspiration. Not some scripture. Oh, is given by inspiration. Not the ones you like and the ones that favor your cause and the ones that make you happy and the

@@ -8,6 +8,8 @@ year: 2012
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Je suis à Timou Je suis la tine de louange Je veux adorer l'ouange Je suis l'adoration Je suis louange Je vais l'adorer tout le jour Tu le vois casser dans cette Oh de louange Je l'adorais Il a entièrement souci Il m'a donné la paix Même si on a une libérée J'étais dans l'affection Y alla tito à Midi Don't fetiché quand j'ai connu Jésus Il m'a changé mon fils Je suis un louange Il a dit d'adoration Je suis un louange Je vais l'adorer tous les jours Et si j'ai dit louange Je l'adorerai Il a honte Il

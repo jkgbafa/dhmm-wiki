@@ -9,6 +9,8 @@ duration_min: 100
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE WEAPON OF WISDOM  GTWC LONDON  DAG HEWARD-MILLS  2016 [Tcmkm54NeIQ]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Vision and Direction", "Vision and Direction/Hearing God", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/wisdom"]
 ---
 
 Father, we are so excited and thankful for the blessing of this morning in Jesus' mighty name. Amen. Now who said you couldn't come at 7 a.m. You see that you've come. Fantastic.

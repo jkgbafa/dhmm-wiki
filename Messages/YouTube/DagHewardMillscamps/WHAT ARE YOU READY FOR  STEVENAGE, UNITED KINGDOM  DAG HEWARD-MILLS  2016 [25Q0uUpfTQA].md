@@ -8,6 +8,8 @@ year: 2016
 duration_min: 136
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Faith", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/faith", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 w honey honey I love you honey honey I need you honey honey I love you honey honey I need you testimony I love you testimony I need you testimony I love you testimony I need you oh how I love thy law oh Lord it is my meditation all the day long through thy Commandments thou Hast made me wise wiser than my enemies oh my enemies how sweet are thy words sweeter than honey to my MTH honey honey I love you honey honey I need you honey honey I love you honey honey I need you and

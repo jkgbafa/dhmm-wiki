@@ -8,6 +8,8 @@ year: 2025
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Leadership", "Leadership/Art of Leadership", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/leadership", "topic/leadership/art-of-leadership", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Chapter 13. I'm jumping some because be a man of conviction. Yes. How do you become a man of conviction? Number one, do not read your speeches. Learn to speak from your heart. Those of you who read sermons, You come and you'll be reading. A LEADER WITHOUT CONVICTION IS A lifeless speech reading and emotionless puppet. Nobody takes any notice of him. Nobody believes his word. Nobody follows him. Do you sometimes wonder why people are not following you? It's maybe because because you're not a man of conviction. Hey You know, one day an unbeliever told me something.

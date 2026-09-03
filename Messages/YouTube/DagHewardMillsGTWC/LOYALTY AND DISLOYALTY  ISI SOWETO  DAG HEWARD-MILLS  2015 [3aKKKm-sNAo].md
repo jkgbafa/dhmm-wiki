@@ -8,6 +8,8 @@ year: 2015
 duration_min: 119
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Go into all the world and preach the gospel until your life is done. And if you love me, obey the great commission. Yeah. Build churches everywhere. In every town, every province, every city. Yeah. Africa shall be saved. But tell me, how long is it going to take for you to open me? See, I have a feeling that I'm waiting for you to do my thing. I have a feeling that I'm waiting. for you to open me. That's why I'm asking, am I going to wait for your love? Oh, am I going to wait in pain

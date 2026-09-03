@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tvnbl/"
 duration_min: 100
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Though I can see your only holy faith oh your throne above it seems so far away though I can touch I can touch your nails cards I am a deep unspeakable joy because it's my faith is Lord I believe in you I'll always believe in you and though I can see you with my eyes deep in my heart your presence I find Lord I believe in you and I'll put my trust in you let the Holbert say what they say no one can take your joy away Lord I believe one from above your God's only

@@ -8,6 +8,8 @@ year: 2023
 duration_min: 157
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Hallelujah How are you receiving, activated and blessed? Hallelujah How many has God guided in something, to whom has God spoken something? How many know that when they return home there will be something different in some areas? Hallelujah, nothing will be the same, nothing will be the same, nothing will be the same. Amen, hallelujah. Look, some workshops and plenary sessions were extended, and we didn't want to cut off the Holy Spirit at any time. The apostle will be here in a little while. I also don't want to cut off what God is going to bring with

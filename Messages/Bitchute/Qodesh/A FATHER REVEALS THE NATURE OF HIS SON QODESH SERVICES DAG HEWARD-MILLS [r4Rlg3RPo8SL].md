@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/r4Rlg3RPo8SL/"
 duration_min: 53
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Your integrity is the reason for me to carry the law I'm giving all to law to the light no matter what's gonna be integrating the reason for me to carry the law I'm giving it all to know in some time to give me all in your room on some beat me all I'm giving up to something on I brought some more He will not be laughing I'm giving up to law you might no matter what's gonna be seen your eternity for me to carry the law I'm giving all to know who I believe No matter what's gonna be your integrity is the reason for me to carry that love and give it all to know you are laid me I've got nothing to give us your dead You are knowing me I shall not I give it all to you believe me nothing to because you're there you will be I shall not want I'm giving it all to my life no matter what's gonna be a sea your integrity is the reason for me to carry the law I'm giving up to law the light no matter what's gonna be your integrity is the reason for me to carry the love and give it up to law the light no matter what's gonna be your eternity is the reason for me to carry the law I'm giving it all to go and give it up to go I'm giving up to go and give it all to Let us pray.

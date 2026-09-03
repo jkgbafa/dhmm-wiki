@@ -9,6 +9,8 @@ duration_min: 171
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/OBLIGATIONS OF CHRISTIANS MAMPONG, GHANA  DAG HEWARD-MILLS  2015 [XWXV3WMf-LI]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 Jesus, I love you, you're all the world to me, so I pour out my heart to you, and yes, I pour out my heart to you for all of my days. Oh, yes, I will, for all of my days. Said I just can't get enough of you, my Lord. Said I just can't get enough of you, my Lord, and every day you're sweeter than the day before, so I pour out my heart to you, and yes, I pour out my heart to you all of my days. Oh, yes, I will, for all of my days, and I wanna tell you, Lord, that I just can't get enough of you, my Lord.

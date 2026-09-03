@@ -8,6 +8,8 @@ year: 2002
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 welcome to track number nine of Al and I stood upon the sand of the sea and I saw a beast rise out of out of the sea having uh seven heads and 10 horns and upon his horn crown and upon his heads the names of blasphemy and the Beast which I saw was like unto a Lepard all right and his feet were like the feet of a bear and his mouth as the mouth of a lion and the dragon gave him his power and his seat and great Authority and I saw one of his heads

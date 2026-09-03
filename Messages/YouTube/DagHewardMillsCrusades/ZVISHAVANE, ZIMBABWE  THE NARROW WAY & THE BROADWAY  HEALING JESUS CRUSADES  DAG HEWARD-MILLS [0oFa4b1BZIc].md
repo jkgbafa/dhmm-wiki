@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=0oFa4b1BZIc"
 duration_min: 75
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 amen when I say respond J J shout loudly and give Jesus a shout Hallelujah lift up your umbrella like this come on come on and sing everybody sing come on give Jesus a shout come on come on lift your umbrella like that come on come on oh J everybody Hallelujah Clap Your Hands for Jesus chuses please be seated the servant of God is ready to minister the word of God and the power of God let's rise to our feet tonight and with joy receive evangelist you m today nothing is impossible to those who believe and

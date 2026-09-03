@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=XyW6InllXTs"
 duration_min: 189
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Anointing/Kinds and Waves of the Anointing", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/anointing/kinds-and-waves-of-the-anointing", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 oh it is Jesus yes it is Jesus it's Jes Jesus in my soul for I have touch the H of his dark and his love has made me is is oh it is Jesus it's Jesus it's Jesus in my soul in my soul I have his touch the ham of His Garment and his and his made me home I tried all I could seem like nothing did me any good sing it it then I heard Jesus he was passing by so I decided to give him a try oh it is Jesus it is Jesus wonderful

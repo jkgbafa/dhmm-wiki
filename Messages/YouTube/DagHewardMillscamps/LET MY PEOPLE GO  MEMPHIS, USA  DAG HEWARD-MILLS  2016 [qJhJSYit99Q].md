@@ -8,6 +8,8 @@ year: 2016
 duration_min: 183
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 let us pray father thank you for today thank you for the opportunity you give us to serve you we are grateful thank you Jesus guide us by your Mighty Holy Spirit today tomorrow the day after let us be moved into your will your perfect will in this time we thank you heal us of all our diseases heal us of all plagues that the enemy has Afflicted us with give us long life give us Health touch our finan es take away poverty take away lack take away spiritual diabetes take away starvation in the midst of Plenty

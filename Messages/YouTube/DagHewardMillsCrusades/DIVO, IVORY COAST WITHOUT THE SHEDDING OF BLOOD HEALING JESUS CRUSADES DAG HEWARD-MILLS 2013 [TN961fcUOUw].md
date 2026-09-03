@@ -8,6 +8,8 @@ year: 2013
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Toulement qui est pour Jésus qui est qui est crié, crier, crier, crier, crier, et même quand je vois, c'est que tu as fait, j'ai la paix, la paix dans mon cœur, quand je vois, c'est que tu as fait, j'ai t'adon, je veux te louer, mon Dieu, c'est de tout mon cœur, je te bénis, mon sauveur, dans l'affliction, dans la souffrance, tu me délivrer, tout le temps, et n'y a personne qui m'aime autant comme toi, ô mon Dieu, c'est de tout mon cœur, je te bénis, mon sauveur, dans l'affliction, dans la souffrance, tu me délivrer, tous les temps, et en personne qui m'a autant comme toi, oh, quand je vois, c'est que tu as fait, j'ai la paix, la paix dans mon cœur.

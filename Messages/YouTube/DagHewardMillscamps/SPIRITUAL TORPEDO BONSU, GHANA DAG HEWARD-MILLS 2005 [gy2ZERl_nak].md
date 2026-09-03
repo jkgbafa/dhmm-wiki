@@ -9,6 +9,8 @@ duration_min: 53
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SPIRITUAL TORPEDO  BONSU, GHANA  DAG HEWARD-MILLS  2005 [gy2ZERl_nak]]]"
+topics: ["Ministry and Pastoring", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer"]
 ---
 
 Welcome to track number ten of Basilization. All right. Now I don't want to deceive you. If you are going to do well as a bastard pastor, Basel Stream Pastor, or a Basel Shepherd, or a Weka group pastor. Or worker chapel pastor.

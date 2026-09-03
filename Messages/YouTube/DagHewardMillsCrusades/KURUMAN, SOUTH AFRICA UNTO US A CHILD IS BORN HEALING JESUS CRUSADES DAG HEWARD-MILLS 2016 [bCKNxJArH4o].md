@@ -9,6 +9,8 @@ duration_min: 129
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/KURUMAN, SOUTH AFRICA  UNTO US A CHILD IS BORN  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2016 [bCKNxJArH4o]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Tonight, the campaign we are enjoying is a result of the hard work of our pastors in the city. And we want to welcome the chairman of the Central Planning Committee of Best Campaign to come and also bring us his opening remarks. Let's welcome our chairman. Bless the Lord. Hallelujah.

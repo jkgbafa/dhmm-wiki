@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u2ltx/"
 duration_min: 50
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 Philippians chapter 3. I am preaching about Philippians chapter 3, verse 13. It says, Brethren, I count on myself to have apprehended, but this one thing I do, forgetting those things which are behind and reaching forth unto those things that are before. Amen. This morning, for just about 15 minutes, I want to share with you about how we must forget about those things that are behind and reach forth unto those things that are before us.

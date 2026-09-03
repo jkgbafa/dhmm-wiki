@@ -8,6 +8,8 @@ year: 2025
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Hallelujah! Is anyone happy tonight? Then clap your hands very loudly for Jesus. Hallelujah! Tonight, before we welcome the great evangelist, I want to extend a welcome to a member of the organizing committee for this campaign to give us an opening address. A round of applause for our pastor Steven for being able to give us a word. Amen. Amen. A round of applause for Jesus. Amen. You are blessed tonight in the name of Jesus. We would like to use this opportunity to formally welcome and introduce our evangelist to us. He came here to bless us. You

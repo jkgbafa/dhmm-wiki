@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/T01S44TIy9cN/"
 duration_min: 121
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Don't try to tell me God is dead, He won't be as morning Don't try to tell me He's not a lie He lives with me my heart open up beyond my way Don't try to tell me my God is there I just talk to him today Don't try to tell me God is there He walked me out this morning Don't try to tell me He lives with me my heart me now accepts me on my way Don't try to tell me my God is dead I just talk to him today He lives He lives He

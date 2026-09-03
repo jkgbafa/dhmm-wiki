@@ -9,6 +9,8 @@ duration_min: 72
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/LOVING GOD PART 2  GTWC CAPE TOWN  DAG HEWARD-MILLS  2017 [JY-_PD32AFg]]]"
+topics: ["Anointing", "Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "The Holy Spirit", "Wealth and Finances"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/the-holy-spirit", "topic/wealth-and-finances"]
 ---
 
 We know that all things work together for good to them that love the Lord to them who are the call. I have not seen, nor ear heard, nor have it entered the heart of a man. The things God has prepared for those who love him. You must love the Lord. Give him all your heart.

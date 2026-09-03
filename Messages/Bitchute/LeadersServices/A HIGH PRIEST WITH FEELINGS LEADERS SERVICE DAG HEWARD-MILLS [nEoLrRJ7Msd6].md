@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/nEoLrRJ7Msd6/"
 duration_min: 60
 source: "whisper"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 Today I think we're going to have a short service. What do you think? Hebrews chapter 4. We are looking at the priesthood. We're talking about leaders in the church.

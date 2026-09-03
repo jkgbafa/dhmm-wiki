@@ -8,6 +8,8 @@ year: 2025
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/salvation", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Father, thank you for your blessing. In the name of Jesus, we thank you for leading us and blessing us in the name of Jesus. Amen. And you can be seated. and consecrated. When I say anointed, you repeat consecrated. Consecrated, consecrated. Amen. Exodus 28 verse 41. and shall anoint them and clothe Aaron your brother and his sons with him, and anoint them, consecrate them and sanctify them, so that they may serve me as priests. Amen. Now, consecration means deeply devoted. Amen. Amen. So this morning we want to just look at a little bit at consecration and

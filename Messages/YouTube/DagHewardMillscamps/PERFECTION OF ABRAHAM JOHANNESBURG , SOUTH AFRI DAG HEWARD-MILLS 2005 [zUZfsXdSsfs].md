@@ -8,6 +8,8 @@ year: 2005
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 Welcome to track number three of perfection, hallelujah. Father, we lift our hands. We thank you, Jesus. We thank you, Lord. We worship you, Jesus.

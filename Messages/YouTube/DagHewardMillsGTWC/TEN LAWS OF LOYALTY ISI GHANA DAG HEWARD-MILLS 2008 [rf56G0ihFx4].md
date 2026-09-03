@@ -8,6 +8,8 @@ year: 2008
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 And all that I am show me away. I had to fly Lord all by say teach you to one day at a time so one day at time switches up that's all I'm asking on you give me the strength to do every day what I have to do with morrow and never mind Lord help me today show me the way one day last you remember when you walk up Jesus you know if you look in below it's worse now than she has to rise so no more say teach me to say one day at a time so one day to Jesus that is all asking of you please give me the strength to do every day what I am to do with Jesus and to go and burning my soul help me today show me the way one day at a time oh one day at a time switch Jesus that is all I must be of you give me the strength to do it today what I have to do is go to And to go never be honest help me today show me the way one day and dear Lord help me today show me the way one day if you see a rock standing by the way with the handy low from seats his song if you see a sister walking down the road.

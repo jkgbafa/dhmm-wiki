@@ -4,6 +4,8 @@ book: "Church Planting"
 book_number: "008"
 chapter_number: 21
 type: book
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Chapter 20\

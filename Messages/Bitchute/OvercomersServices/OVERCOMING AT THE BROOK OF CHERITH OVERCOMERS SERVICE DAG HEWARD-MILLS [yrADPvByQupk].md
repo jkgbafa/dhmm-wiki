@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/yrADPvByQupk/"
 duration_min: 101
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Every time that we gather together in his name, there he is awesome in power and in strength. So let us continually offer sacrifice to him, for it is good to sing praises to our God for he inhabits the praises of his people. So let us offer a sacrifice to him and let the lifting of our hands be as evening separates. Lord we love you. Oh Lord, we love you.

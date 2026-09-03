@@ -4,6 +4,8 @@ book: "Tell Them 120 Reasons Why You Should Be A Soul Winner"
 book_number: "026"
 chapter_number: 7
 type: book
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 #### Chapter 5\

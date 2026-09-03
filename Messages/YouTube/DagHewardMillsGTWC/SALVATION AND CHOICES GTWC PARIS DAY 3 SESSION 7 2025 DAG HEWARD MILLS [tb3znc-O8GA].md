@@ -8,6 +8,8 @@ year: 2025
 duration_min: 7
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 Next section. Salvation and choices. Salvation and choices. Yes. That's the next section.

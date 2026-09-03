@@ -8,6 +8,8 @@ year: 2017
 duration_min: 27
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 now that you have learned all these amazing things the last thing I think that I want you to see is the wonders of a curse the wonders of a curse now Thou shalt be Deuteronomy 28:37 Thou shalt become an astonishment a proverb and a BW among all the nations with the Lord shall lead thee perhaps one of one of these days we should have our us camp in Israel so that yes only Americans will be allowed only Americans will be allowed yeah you never know Hallelujah if you do the things that you are supposed to

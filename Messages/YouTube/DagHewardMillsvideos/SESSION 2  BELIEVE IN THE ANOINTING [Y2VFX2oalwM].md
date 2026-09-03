@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Y2VFX2oalwM"
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 hee-hee-hee-hee-hee me get a lot of time if the Lord a shower give the Lord the Lord gives the Lord has done as that at that time all right I see now I see that I see that some people when we say give a long time you are death at work early so I were to help you I said I'm going to help you all right so what we can give gives a lot and I want you to move one two three four all right and if the Lord less than one all right now if I

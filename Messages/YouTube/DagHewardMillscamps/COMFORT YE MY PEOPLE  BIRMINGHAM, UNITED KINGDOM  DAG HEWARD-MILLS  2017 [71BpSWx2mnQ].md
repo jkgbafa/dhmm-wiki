@@ -8,6 +8,8 @@ year: 2017
 duration_min: 133
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Hallelujah wow now I want us to do something before we go for our lunch break Isaiah 60 you can sit down make sure your neighbor is awake check his temperature his pulse and his stomach Hallelujah listen you know something because they they we cannot stay Beyond 10:00 it really squeezes our time because normally we would have been here longer as usual but we can still make it amen am so Isaiah 60 very quickly uh verse one arise and shine for thy light is come and the glory of the Lord is risen upon thee now two

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7inGUtaRFQ8"
 duration_min: 237
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 bow-bow whoa both the beach again again Oh he's gotta power to deal and I believe I believe I I Oh again kilos and I Alleluia I said hallelujah you may be seated in the presence of the Lord hallelujah how many know that because we came he is going to glorify His name glorify your name tonight Lord tell five people that God is going to glorify himself you know something let me tell you something you see some of you we are saying gosh glorifying but we don't understand glorify so you are not gonna block women chica

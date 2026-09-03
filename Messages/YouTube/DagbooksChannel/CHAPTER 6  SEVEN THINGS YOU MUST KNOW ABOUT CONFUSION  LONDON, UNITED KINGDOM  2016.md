@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2016
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 The other thing that is happening against you is called confusion. Psalm 71:1 says, "Let me never be put to confusion." Confusion is the lack of clarity and God is not the author of things that are not clear. So how many realize sometimes you are confused as to whether you are good or bad? Huh? Are you good or bad? You're not sure anymore. God is not the author. Psalm 70:2. Confusion is a weapon of war. Satan loves to confuse the leader and make him uncertain. Let them be ashamed and confounded that seek after my soul and

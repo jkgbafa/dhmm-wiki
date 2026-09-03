@@ -8,6 +8,8 @@ year: 2023
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Well, well, well. We just have about 20 minutes to that 20 minutes. Session. Yeah. I don't even know what to do.

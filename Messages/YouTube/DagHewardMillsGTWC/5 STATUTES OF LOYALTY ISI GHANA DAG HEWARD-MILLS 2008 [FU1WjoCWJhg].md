@@ -8,6 +8,8 @@ year: 2008
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 What the future brings who knows where the road will lead see the world can change wherever so with thee it's an age of uncertainty and sometimes when you call on the Lord sometimes He can seem so far away But I say wait You must believe just wait He won't forsake his own Oh no You're not alone He came through for me I know He'll come through for you He's never blessed than faithful And he cannot be untrue Even when life's storms are raging He's the one He never changes He'll come through He came through for

@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/HAMS-ON-THE-MOVE--
 duration_min: 102
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 What is a curse? Basically, it's a pronouncement by an authority figure. Amen. Are you there? Are you there?

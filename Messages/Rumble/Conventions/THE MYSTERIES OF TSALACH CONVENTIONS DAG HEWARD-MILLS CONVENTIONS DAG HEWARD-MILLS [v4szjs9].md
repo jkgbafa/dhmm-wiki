@@ -7,6 +7,8 @@ url: "https://rumble.com/v4szjs9/"
 duration_min: 115
 source: "whisper"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Where is your chef? Where is your put your hands together? One, two, three, four. Come on. Everybody hang a chip.

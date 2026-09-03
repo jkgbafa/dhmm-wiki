@@ -8,6 +8,8 @@ year: 2008
 duration_min: 152
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 the next reason why we must be so winess is because the gospel offers the greatest the greatest of everything wow amen number one it is let me share with you the greatest number one is the greatest invitation of all time God so Lov the world Amen the greatest invitation whosoever is it not the greatest invitation whosoever anyone number two the greatest person loves you you huh you may be loved by the person who loves you is a rapist but somebody greater may love you and you find yourself being blessed the greatest person the greatest invitation

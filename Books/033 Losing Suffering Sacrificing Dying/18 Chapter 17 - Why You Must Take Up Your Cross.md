@@ -4,6 +4,8 @@ book: "Losing Suffering Sacrificing Dying"
 book_number: "033"
 chapter_number: 18
 type: book
+topics: ["Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 # Chapter 17

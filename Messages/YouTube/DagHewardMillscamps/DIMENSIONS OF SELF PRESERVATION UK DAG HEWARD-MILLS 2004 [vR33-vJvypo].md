@@ -9,6 +9,8 @@ duration_min: 30
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/DIMENSIONS OF SELF PRESERVATION  UK  DAG HEWARD-MILLS  2004 [vR33-vJvypo]]]"
+topics: ["Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 Welcome to track number 10 of others. Now I want to give you the four dimensions of self-preservation. Turn with me to Matthew 25. When somebody is involved in preserving himself, are you there? For the kingdom of heaven is as a man traveling into a far country who called his own servants and delivered unto them his goods.

@@ -8,6 +8,8 @@ year: 2004
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 when you are a lay person right unknowingly many many things go unattended amen amen are you listening to me are you listening yes when you are a lay person you will find out that this particular thing happens all the time things that need attention are or go on for years and years and years without the necessary attention now it is not everybody who needs attention who calls for attention okay are you understanding what I'm saying it is not everybody who needs the attention who calls for the attention or requests this attention amen amen are you

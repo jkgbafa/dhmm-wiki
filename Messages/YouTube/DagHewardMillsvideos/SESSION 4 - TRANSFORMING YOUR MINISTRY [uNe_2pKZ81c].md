@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=uNe_2pKZ81c"
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 my friend into me the other day as we walked along the way then of not something day and she calls me our behavior he came by Santa free from a life of little change I gave my life to him that day that's amazing I'm telling you tell you to keep reaching keep teaching they'll be all about saying uh that's what friends are for he bring him keep baby that's what friends are for and I would be this way simply came into my life I have never been the same what a difference Jesus made she's a

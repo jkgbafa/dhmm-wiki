@@ -8,6 +8,8 @@ year: 2017
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Father, thank you for the blessing. Père, merci pour la benediction of these wonderful foundations. By your mighty power, force puissance. Lead us in Jesus' name. Amen.

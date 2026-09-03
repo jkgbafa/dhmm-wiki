@@ -9,6 +9,8 @@ duration_min: 19
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SIGNS OF FAMILIARITY - RECAP  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001 [H0flQCrvkL4]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Marriage and Family", "Marriage and Family/Children and Parenting"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting"]
 ---
 
 Welcome to track number 23 of Pastors of Thousand. How to fight familiarity? Number one. Do not sit at the back. Do you have your notes?

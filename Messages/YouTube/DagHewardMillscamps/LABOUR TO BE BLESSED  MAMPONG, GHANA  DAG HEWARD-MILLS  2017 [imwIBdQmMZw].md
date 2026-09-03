@@ -8,6 +8,8 @@ year: 2017
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "The Holy Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/the-holy-spirit"]
 ---
 
 how how great th how great th how great th how great th are how great how great father we are grateful for your great blessing and help in our lives in Jesus name amen amen you may be seated glory to God now we are advancing steadily labor to be blessed are you being blessed lay pastors did we watch the film yet um make sure tonight you remind me at we can watch the beginning at least up to a point I'm sure about 15 20 minutes of the film it can give you a good feeling of

@@ -8,6 +8,8 @@ year: 2006
 duration_min: 101
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 all right any questions Question Time father we thank you for your blessing this morning help us Jesus Christ amen amen all right question time no questions yeah yeah with near experience say that people were just about to die or because there are different kinds of death you have clinical death reversible death where your heart stops and your breathing stops and your those are and then you have what some people call tissue death where the tissues are degenerated or deteriorated they change like Lazarus for 4 days in the in the in the in the M they

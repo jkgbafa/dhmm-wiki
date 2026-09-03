@@ -8,6 +8,8 @@ year: 2003
 duration_min: 19
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 welcome to track number three of the present stage three Exodus 10: 7 and Pharaoh's servant said unto him how long shall this man be a snare unto us may Pharaoh begin to say that about you how long shall this man be a snare unto us let the men go that they may serve the Lord their God knowest thou not yet that Egypt is destroyed and Moses and Aaron were brought again unto pharaoh and he said unto them go serve the Lord your God but who are they that shall go now now now Pharaoh is interested

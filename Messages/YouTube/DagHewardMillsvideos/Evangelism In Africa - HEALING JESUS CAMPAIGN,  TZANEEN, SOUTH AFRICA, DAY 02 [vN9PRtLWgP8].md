@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=vN9PRtLWgP8"
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 I believe something great is going to happen to us tonight. And join me to welcome Vivaldi to prepare our hearts for what God has in store for us. Listen. Hallelujah. Did you hear that? glor. Listen. Keep on your I Hey, Yes, Lift up your voice. Heat. Heat. Yeah. Heat. Are you ready? Are you ready? Are you ready? Jesus. Jesus. Come on. Come on. Jesus. Jesus. Jesus. Do it like that. Do it like that. Come on. Come onesus. Jesus. Now listen. Listen carefully. At the mercy of the name Jesus, every knee shall bow and every tongue

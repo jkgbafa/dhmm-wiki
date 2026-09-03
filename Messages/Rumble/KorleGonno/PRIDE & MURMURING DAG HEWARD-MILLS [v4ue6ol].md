@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ue6ol/"
 duration_min: 87
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 Hallelujah, oh, hallelujah, oh Sana, hallelujah, oh Santa, hallelujah, oh yeah, oh, hallelujah, oh, oh Santa, hallelujah, oh Samah, put your hands together, hallelujah, oh Sana, hallelujah, oh, Santa, hallelujah, oh yeah, oh yeah, oh Santa, hallelujah, oh Satan, hallelujah, put your hands together for Jesus, hallelujah. You want to go around, shake somebody, welcome somebody into the presence of the Lord, hallelujah. You want to make a new friend, you want to shake the hand of somebody you have never spoken to before, let's be happy, you're my brother, you're my sister, so take me by the end, together we will work till we come, there's no hope that can defeat us as we walk inside by side, as long as there is love, we will stand, or move around, shake somebody, welcome somebody with a smile.

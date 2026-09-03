@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hc3ZJZGQqRc"
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/ministry-and-pastoring", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 together with Bella one is not too far Oh that's devotion be Blair we walk the field us all gather you when ha you coming now we insane but sequences we want to see the together you one shop the Gospels in the street for everyone all again he is supposed to everyone to be with a word cloud and plead and cry Lord in prayer i little send me before the from day after day where you man I don't we want to build up together you I'm doing now but other fields are dry we are we will

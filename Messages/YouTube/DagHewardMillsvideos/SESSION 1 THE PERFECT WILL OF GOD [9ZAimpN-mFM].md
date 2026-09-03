@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9ZAimpN-mFM"
 duration_min: 115
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Vision and Direction", "Vision and Direction/The Will of God", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 oh my brother tell me where was I when you called out for me to help you did I seem too busy too busy to hear how could you have known that I I I had a problem of my own oh but did it seem seem to you that I just did not care don't condemn me for not being there when you really really needed me oh just understand that each of us have burn is that we have to bear oh but there one one who's always standing right there beside us yeah and it's Jesus my

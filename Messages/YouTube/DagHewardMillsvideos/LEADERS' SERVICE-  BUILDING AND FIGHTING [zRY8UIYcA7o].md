@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zRY8UIYcA7o"
 duration_min: 70
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 thank you Lord for your great blessing in Jesus name Amen all right turn with me to the a mile and are you there nine minutes after 4:00 and they're going to read from with seven little stands Lee for the reading of the scripture and best seven together but it came to pass that when Sunderland and subbaiah and Arabian the ammonites and the ISIS I'd head of the walls of Jerusalem were made up that the breaches began to be stopped then they were very rough and conspire all of them together to come and fight against Jerusalem

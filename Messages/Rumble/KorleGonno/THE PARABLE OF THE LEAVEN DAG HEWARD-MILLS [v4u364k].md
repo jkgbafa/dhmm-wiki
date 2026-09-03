@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u364k/"
 duration_min: 43
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Turn with me to Matthew chapter 13. We thank God for the day that he marched through into Jerusalem into a week before he was crucified. Is that not so? I have been sharing about the parables of Jesus, and I believe that these parables are very, very important for us. Amen.

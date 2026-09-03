@@ -8,6 +8,8 @@ year: 2018
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Father, we are grateful in the name of Jesus for this opportunity to serve you. Lead us and bless everyone present here. In the name of Jesus, we pray. Amen. sit down . A rather hasty announcement. A rather hasty announcement. Whenever a prophecy is declared, we must wait before shouting so that there is an interpretation, otherwise I will only speak French. Amen. All right. Therefore, hardness is necessary in order to bear fruit. There are four things in my book here. Suffering, sacrificing, and dying are four things you need if you are going to work for the

@@ -8,6 +8,8 @@ year: 2014
 duration_min: 175
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 but let's pray just just pray in the spirit learn to charge yourself up in the spirit just charge yourself up in the spirit charge yourself up in the spirit the r Mar Li Li an b b sh r am am m wow thank you Jesus amen you might be seated glory to God GL are we blessed I was very excited by the the way Bishop presented first John 54 within the context of precious were you blessed by that by that verse yeah let's go back to that verse it's very nice first John 54 the the

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=WhxAjateZn8"
 duration_min: 182
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 AED me this morning we want to give God thanks praise him for the privilege of seeing this beautiful day beautiful Sunday it's um a great day and I need you to believe that it is a great day so let's for a moment lift up our voices and thank God for the privilege of seeing this particular day in this year God has made it possible God has done it thank God for the good things God is doing in your life and thank God for the great things he's also doing in your life let's spend some time

@@ -8,6 +8,8 @@ year: 2014
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 a a oh oh Hallelujah thank you Jesus for this great privilege that our ears are blessed to hear and our eyes are blessed to see May the hearing of our ears and the seeing of our eyes lead to a change in our lives this is our only hope Lord not the lectures in the University not the social events we attend in town this is our only hope may this great opportunity not pass Us by in Jesus name amen am you may be seated we want to go through yesterday's points yesterday evening and since I was

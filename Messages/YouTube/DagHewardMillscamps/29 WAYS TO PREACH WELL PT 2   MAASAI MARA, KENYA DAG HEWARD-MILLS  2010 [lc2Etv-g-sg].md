@@ -8,6 +8,8 @@ year: 2010
 duration_min: 20
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 e welcome to track number 16 of the privilege psm6 109 and you explain us he cannot understand are you there number 20 develop the art of making people laugh people want to be happy there is so much sadness in the world Amen wow number 21 soak in breaching ties amen listen to messages number 22 catch the anointing to teach amen it's not by might is not by power but by my spirit says the Lord amen it's not by might it's not by power it's by my spirit says the Lord amen number 20 three title your

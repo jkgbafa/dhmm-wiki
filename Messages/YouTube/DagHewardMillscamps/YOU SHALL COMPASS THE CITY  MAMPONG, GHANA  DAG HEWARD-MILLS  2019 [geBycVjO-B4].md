@@ -8,6 +8,8 @@ year: 2019
 duration_min: 223
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 do you think God is answering your prayer do you feel that you are waiting on God do you feel that you are relaxed in his presence do you feel that there is no particular time that we have to close it's almost time for the all night you see hypocrisy is revealed where we can do certain things for a long time without asking for closing time now let me tell you anything that you you want the closing time and the vacation time time is not in your heart that's how to know that that thing is not

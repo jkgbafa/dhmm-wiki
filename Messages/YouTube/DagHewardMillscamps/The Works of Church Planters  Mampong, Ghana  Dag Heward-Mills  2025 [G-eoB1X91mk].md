@@ -8,6 +8,8 @@ year: 2025
 duration_min: 19
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Heaven, Hell and Eternity/Judgment"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/heaven-hell-and-eternity/judgment"]
 ---
 
 Amen. Now, chapter three. You think I've closed? You are joking. Verse eight. Ephesians chapter 2. My bishops are the sleepiest looking group of all the people here. Don't say no. That is the case. That's the case. Don't say no. That's the I see your face. That is the case. You look the oldest and the sleepiest. It's true. Yes. Come, come. All of you come walk here and look at the faces of the people. Come, come. All of you come walk. Look at them. Look at the faces. Walk all the way here to the end there.

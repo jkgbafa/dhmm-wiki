@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2013
 source: "autocaption"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Frugality. Count your pennies as a leader. If you want to lead your people, count your pennies. Amen. Jesus taught us to lead by counting coins and pennies and little little amounts. John 6 verse 12. And when they were filled, he said to his disciples, "Gather up the fragments that remain that nothing may be lost. leader's job is to make the lead the people into prosperity leadership prosperity and most people who are grown up in the in the African setting believe that prosperity comes by somebody giving you money. The first step towards prosperity is to be

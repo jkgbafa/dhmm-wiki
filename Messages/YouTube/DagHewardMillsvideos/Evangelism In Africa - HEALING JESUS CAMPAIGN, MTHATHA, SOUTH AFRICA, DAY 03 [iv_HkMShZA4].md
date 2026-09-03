@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=iv_HkMShZA4"
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah label people let's appreciate the crowd the mask loud beeping a fantastic mascot will be straining one more let club behind and appreciate the Mars colony god bless you cause less prayer thank the Lord for the offering my god it's whatever people of the end not father you bless our seat boom aah chuckles to Galilee do you send your a to melancholia upon BC this was built and giving tonight and I'm Sanjay let us enjoy fruits from BC but for now that is clam OS is saga where the roots of your visitation in Google for

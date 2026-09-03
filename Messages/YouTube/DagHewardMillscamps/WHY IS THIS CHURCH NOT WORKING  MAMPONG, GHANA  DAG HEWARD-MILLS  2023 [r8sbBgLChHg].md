@@ -8,6 +8,8 @@ year: 2023
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 I like your hand clap but it can be louder M are you excited are you not happy that you didn't die last year you didn't die last week that you are still alive you've been in this church for many years but this is an experience you will never forget in your life I'm so glad that you made it to this Camp because in this Camp what has been used to build this great church we have is going to be imparted to you shepherds are going to be anointed and appointed new pastors are going to rise

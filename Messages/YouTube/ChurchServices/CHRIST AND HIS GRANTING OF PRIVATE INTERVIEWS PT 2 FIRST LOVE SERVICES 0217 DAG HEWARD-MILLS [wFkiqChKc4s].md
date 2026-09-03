@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wFkiqChKc4s"
 duration_min: 154
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Salvation", "Salvation/The New Birth", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/salvation", "topic/salvation/the-new-birth", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I'm a winner I'm a winner I'm a winner Doesn't matter what the situation Go see or go tell you I'm a winner I'm a winner Break this bold confession In the face of Fahanna I'm a winner Galibe my son you do We will never leave her I'm a lover come I don't love to see you too Everything I do Every word I say Everything I touch I trust the window Everywhere I go Everywhere I am Everything I do I trust the window Nothing is impossible With God on my side I'm a winner I'm a winner

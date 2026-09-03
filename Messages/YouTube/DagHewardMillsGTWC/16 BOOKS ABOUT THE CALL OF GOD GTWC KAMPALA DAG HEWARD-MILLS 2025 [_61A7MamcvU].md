@@ -8,6 +8,8 @@ year: 2025
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 Hallelujah. What a blessing. Lift your hand and pray for the spirit of revelation. Pray for the spirit of revelation. Lord, we are asking for the spirit of revelation.

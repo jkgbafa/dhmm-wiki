@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/SQ2ROWTeAaaD/"
 duration_min: 96
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I stand before you guilty and unworthy. How can I be forgiven and made whole though I know I break your heart, but you promised I could start all over, and all the things I've done. You place the meet and everyone into the sea of forgetfulness. You place the love my sins. I'm the one who keeps reminding you over and over again into the sea of forgetfulness as far as it's from the West.

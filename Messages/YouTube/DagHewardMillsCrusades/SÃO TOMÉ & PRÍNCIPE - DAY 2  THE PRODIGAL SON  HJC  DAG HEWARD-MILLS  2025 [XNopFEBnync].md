@@ -8,6 +8,8 @@ year: 2025
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 Oh, raise your hands, raise them, raise them, raise your hands. Applause for Jesus. Cry out to the Lord. Glory to God. Shout, shout, shout to the Lord. PAS, applause. Holy. Amen. Hmm. Savior. Jesus the Savior. Healer Jesus liberates Jesus. That's faith, only Jesus. There is no one here. Nobody. Like Jesus, your name is power. Speak more to Jesus. Jesus the Savior. Jesus the Savior. Curator. Jesus the healer. Jesus the Liberator. Jesus. There is no one here. There is no one like Jesus. Your name is powerful. Hey, in the name of Jesus, amen. We are saved.

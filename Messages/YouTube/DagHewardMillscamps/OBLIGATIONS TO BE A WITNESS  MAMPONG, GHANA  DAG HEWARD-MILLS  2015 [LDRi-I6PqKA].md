@@ -8,6 +8,8 @@ year: 2015
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 there are days when I feel the best of me is ready to begin then their day when I feel I'm Letting Go I'm soaring on the way but I've learned and laughter or in pain how to survive when I get on my knees I get on my knees there I am before the Lord that change is me see I don't know how but there's power when I'm on my I can be in a crowd all by myself or almost everywhere when I feel there's a need to talk with God cuz he is IM man well

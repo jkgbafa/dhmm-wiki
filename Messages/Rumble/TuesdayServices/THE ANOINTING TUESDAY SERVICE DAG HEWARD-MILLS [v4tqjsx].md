@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqjsx/"
 duration_min: 87
 source: "whisper"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Tonight, I'm just gonna share with you a little about the anointing. How many like the anointing? Are you sure you like the anointing? Right. Now, the anointing is the Holy Spirit.

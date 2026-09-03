@@ -8,6 +8,8 @@ year: 2025
 duration_min: 50
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Second Timothy chapter 1, we are reading Verse seven. Are you listening to me? God has not given us the spirit of fear, but of power, of a love, and of a sound mind. I want everybody to listen to me now, please. I beg you because I beg you because you are in Switzerland.

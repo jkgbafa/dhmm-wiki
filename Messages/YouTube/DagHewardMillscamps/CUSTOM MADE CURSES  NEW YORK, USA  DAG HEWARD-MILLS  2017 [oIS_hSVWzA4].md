@@ -8,6 +8,8 @@ year: 2017
 duration_min: 75
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 father thanks for this wonderful opportunity that we have in your presence in Jesus name amen am you may be seated neutralizing curses now customade curses customade curses custom made curses are special curses just for you Joshua made as castom made Cur in Joshua 6:26 in the days did Heil the bethelite build Jericho he laid the foundation thereof in Abraham his first born and set up the gates thereof in his youngest son but that is the Fulfillment of the in Joshua 6:26 it said Joshua adjured them at that time saying cared be the man before the

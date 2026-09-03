@@ -8,6 +8,8 @@ year: 1997
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 welcome to track number eight of loyalty and the mega church you don't have to be annoyed we rather trying to help you some of us our voices are so oh uh just the same T of voice but you must learn to shout and give the Lord a clap of pra it's all part of the preaching you don't learn to do and you always just very stiff I didn't used to Shout to the Lord and bless the Lord I didn't used to do things I'm very cool you can ask my wife I'm very quiet person very

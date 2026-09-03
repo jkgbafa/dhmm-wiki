@@ -8,6 +8,8 @@ year: 2016
 duration_min: 6
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number three of where is the flock that was given thee wow are you ready to give yourself holy wow you can see that let's go through these core areas that you're going to develop this year what is number one are you going to develop the ability to fight how many of you are ready to become fires namibian fires you know your country fought for independence isn't it and but we are going to fight another kind of fight we are going to fight the fight to build a mega church we are fighting the

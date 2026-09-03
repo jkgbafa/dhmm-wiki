@@ -9,6 +9,8 @@ duration_min: 67
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE SIN THAT EASILY BESETS US  SEVENOAKS, UNITED KINGDOM  DAG HEWARD-MILLS  2002 [0y3nzJV423o]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Welcome to track number 23 of all out. We are going to look at the sin that so easily besets us that keeps us from you know pressing on all out. Okay. And I am going to share with you about only one sin. Okay.

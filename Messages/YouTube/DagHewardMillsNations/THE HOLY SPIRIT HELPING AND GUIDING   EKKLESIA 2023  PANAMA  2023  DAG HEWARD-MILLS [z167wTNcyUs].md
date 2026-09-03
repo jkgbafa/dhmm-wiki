@@ -8,6 +8,8 @@ year: 2023
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Thank you Holy Spirit, for the great power that is unleashed tonight. We ask, Lord, that this great promise be fulfilled in every life tonight. Thank you for your presence and thank you for your great promise. We praise you, we love you in the name of Jesus. Amen. God bless you. You can take his place. Tonight is a night of healing. Amen. I want her to put herself in her place. Amen. I'll be brief tonight because I believe we 've received most of the blessings already. So I'll share a short message, but I think it's very

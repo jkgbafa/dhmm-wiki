@@ -4,6 +4,8 @@ book: "Weeping And Gnashing"
 book_number: "078"
 chapter_number: 3
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 ### CHAPTER 2\

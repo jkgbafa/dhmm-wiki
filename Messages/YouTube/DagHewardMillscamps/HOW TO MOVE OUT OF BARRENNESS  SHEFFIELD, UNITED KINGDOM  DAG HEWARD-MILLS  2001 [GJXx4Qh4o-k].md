@@ -8,6 +8,8 @@ year: 2001
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 welcome to track number six of pastors of thousands we want to look at how to move out of barness so what is barness Amen in the dictionary it means so moving out of barness so I'm going to Define barness for you so that you can when when God said to Rebecca or when the sisters brothers said to Rebecca may you be the mother of thousands of tens of thousands what did she mean so is there something like barrenness in the realm of the spirit yes there is is that not so and so we check the

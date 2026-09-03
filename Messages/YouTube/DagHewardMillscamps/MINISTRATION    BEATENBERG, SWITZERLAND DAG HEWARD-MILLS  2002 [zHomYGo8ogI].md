@@ -8,6 +8,8 @@ year: 2002
 duration_min: 43
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Prayer"]
+tags: ["topic/anointing", "topic/prayer"]
 ---
 
 welcome to track number 14 of life in the church lift your hands to the Lord just thank him right now thank him thank him thank you Jesus thank you Jesus thank you Jesus thank you Jesus thank you Jesus thank you Jesus thank you Jesus thank you Jesus thank you thank you thank you thank you thank you thank you thank you I just want I just want to thank thank you Jesus we worship you we worship you oh o I just want to thank you I just want to and now and now oh let the we

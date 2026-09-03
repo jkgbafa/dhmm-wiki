@@ -8,6 +8,8 @@ year: 1999
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Missions"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/missions"]
 ---
 
 Victory to Victory from glory to glory from Victory to and is stand up stand stand up for Jesus is is from victory victory before is from Victory to Holy Spirit we welcome you to this place we ask that you have full control lead us in Jesus name amen amen you may seated praise the Lord are you glad to be at at this Camp can can somebody move this back please um I believe that we are all tired tonight so we just going to have an introductory session all right now the theme for our camp is

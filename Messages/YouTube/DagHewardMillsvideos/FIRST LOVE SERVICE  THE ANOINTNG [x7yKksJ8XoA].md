@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=x7yKksJ8XoA"
 duration_min: 186
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you can do better than that but just get a [ __ ] that's making of a scandal we are friends right now I'll try to get my job back let me see you clap let me see you plow let me see you clap let me see you clap let me see you clap clap clap I hear Sly discovered nothing daddy taken away my shake make my paint unit name I pray please testing again I know you rescued myself gotta stop in my sin I believe my shame is taken away and my pain is doing anything

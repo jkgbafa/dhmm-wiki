@@ -4,6 +4,8 @@ book: "The Art Of Hearing How To Be In The Perfect Will Of God 2Nd Ed"
 book_number: "021"
 chapter_number: 14
 type: book
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 ## Chapter 13

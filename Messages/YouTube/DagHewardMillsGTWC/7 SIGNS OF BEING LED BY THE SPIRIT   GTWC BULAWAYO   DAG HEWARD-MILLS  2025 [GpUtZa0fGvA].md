@@ -8,6 +8,8 @@ year: 2025
 duration_min: 38
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Now listen, how many of you here are pastors? How many are not pastors, but you want to be a pastor one day? Only four. How many want to be rich millionaires? But you don't want to be a pastor. Okay, sit down. This meeting is for pastoral ministry work. So I hope you listen. Now I have a group in Ghana called Lablam. It means learn about business by learning about ministry. That means that you can learn about business by learning about ministry. And it's true a lot of the principles that are used in ministry can even

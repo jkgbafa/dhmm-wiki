@@ -8,6 +8,8 @@ year: 2015
 duration_min: 199
 source: "whisper"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Howdy folks, rocking, rolling, strolling, and controlling your ever loving blue eyed Scott Bolin. And I've got some important information to share with you right now, a few days ago. I had my very last processed, packaged, corporate food. In other words, from this point forward for the next 30, 60 days, or maybe even forever, I'm going to live to 120 strong. And so can you.

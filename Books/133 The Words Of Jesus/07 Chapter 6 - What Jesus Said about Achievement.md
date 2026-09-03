@@ -4,6 +4,8 @@ book: "The Words Of Jesus"
 book_number: "133"
 chapter_number: 7
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 ## Chapter 6

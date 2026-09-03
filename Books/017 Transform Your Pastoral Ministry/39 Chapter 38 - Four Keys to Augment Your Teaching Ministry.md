@@ -4,6 +4,8 @@ book: "Transform Your Pastoral Ministry"
 book_number: "017"
 chapter_number: 39
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ## Chapter 38

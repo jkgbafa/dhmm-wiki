@@ -8,6 +8,8 @@ year: 2025
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Curses", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 Well, having introduced the fathers, we have a great man in our midst. Some people are called generals, but they are not yet generals. Here in our midst, we have a general, a proper one. Okay? He stands in the five-fold ministry. You mentioned the apostolic, he is gifted. You mentioned the prophetic, he is also there. Evangelist, he is also there. He is also a pastor. He's a teacher. He is an author of over 100 books as you can see. all his books. And as as we introduce him, I want you to stand. Please stand. All All

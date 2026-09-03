@@ -4,6 +4,8 @@ book: "Amplify Your Ministry"
 book_number: "011"
 chapter_number: 4
 type: book
+topics: ["Ministry and Pastoring", "Prayer", "The Holy Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer", "topic/the-holy-spirit"]
 ---
 
 ## Chapter 3

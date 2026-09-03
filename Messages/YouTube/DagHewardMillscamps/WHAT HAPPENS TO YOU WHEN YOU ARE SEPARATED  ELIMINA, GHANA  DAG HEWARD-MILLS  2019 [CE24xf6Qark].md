@@ -8,6 +8,8 @@ year: 2019
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 so what happens to you when you are separated for the work of the ministry that is the main thing let's look at verse five verse four and they been sent forth by the Holy Ghost so notice they were sent by the Holy Ghost all right they were sent by what the GH the Holy Ghost so you must be sent by the spirit you can't send yourself do you see you can't send yourself you have to be sent by the holy spirit so people who send themselves don't end up well is it not true yes and

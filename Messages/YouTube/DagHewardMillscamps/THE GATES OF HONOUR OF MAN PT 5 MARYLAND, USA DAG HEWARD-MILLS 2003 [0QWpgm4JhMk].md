@@ -9,6 +9,8 @@ duration_min: 42
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE GATES OF HONOUR OF MAN PT 5  MARYLAND, USA  DAG HEWARD-MILLS  2003 [0QWpgm4JhMk]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 Of gates and roads. Amen. You are going to be blessed when you are able to see things from a heavenly point of view. Amen. So I love following the honor of man.

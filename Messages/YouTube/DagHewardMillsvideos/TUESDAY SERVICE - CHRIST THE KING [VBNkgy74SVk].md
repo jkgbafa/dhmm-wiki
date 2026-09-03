@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=VBNkgy74SVk"
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 I love and I wanna talk to you early in the morning afternoon days dawning I love to listen to your phone I wanna fall to you every morning when I awake feel so good to give you brain tell you how I love you what you mean to me I love to talk to you yes so here this to make this thing when I try to do things my own way you said it all on me I do direct my my totally giving way thing you with me on from evening and you'll notice what I'll be

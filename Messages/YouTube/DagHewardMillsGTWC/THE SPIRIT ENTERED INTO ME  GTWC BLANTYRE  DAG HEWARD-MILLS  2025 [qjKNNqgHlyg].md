@@ -8,6 +8,8 @@ year: 2025
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I feel the presence of God here. God's power is just about to touch somebody. Now listen, whilst I was there, I played Kenneth Hagen messages on my beloved tape recorder. And around 7 or 8 in the evening, 780. I knelt down on on the bed and I was praying and Kenneth was playing in tape, but I slept. Then I woke up around 3:00 a.m. 2 a.m. or 3:00 a.m. And I was praying. I slept the whole night. I said, "Oh, I was praying for him." God saw that I was praying to him. Something jumped out

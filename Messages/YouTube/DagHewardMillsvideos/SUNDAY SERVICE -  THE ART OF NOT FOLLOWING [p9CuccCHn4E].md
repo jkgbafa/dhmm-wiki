@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=p9CuccCHn4E"
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you know I can only surmise I can go anywhere thought I told you be there wherever I go where I see and we're right there moving Lorna mini ahead I can't get away we all quit spirit as long you'll never leave me and long before my waterfall you're right Oh with what I owe you Oh but I don't you I can go ha I can't I can't run well merely for know know what to do I could always wear my boarding team have to bear with a blue lion I try to tie for the fern

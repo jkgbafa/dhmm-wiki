@@ -8,6 +8,8 @@ year: 2020
 duration_min: 239
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Wow, thank you so much for joining us. Welcome to Flow Prophetic Encounter. God is going to bless us and God is going to be good to us. And we are grateful that you are behind your television set and you are behind your laptop and um your phone as well. Enjoy God's presence as you watch and you listen.

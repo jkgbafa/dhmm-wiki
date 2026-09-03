@@ -8,6 +8,8 @@ year: 2014
 duration_min: 114
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing"]
 ---
 
 During the last session, I believe that there was a prophecy. About God is going to give you some steps. That are going to take you out of a certain level. Amen. And these are the steps.

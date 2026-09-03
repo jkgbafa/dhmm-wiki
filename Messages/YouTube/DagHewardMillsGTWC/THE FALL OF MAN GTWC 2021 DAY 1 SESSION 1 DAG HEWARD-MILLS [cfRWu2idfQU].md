@@ -8,6 +8,8 @@ year: 2021
 duration_min: 167
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I wanna come close to you stand before you let me have another chance to serve you, Lord Let me serve one more time, Jesus. I wanna come close to you one more chance, Lord to serve you, Jesus. Um Lord didn't do well with the gifts you gave me no well the first time I know I've gone all my chances, Lord, please hear my prayer. I'm begging you, Lord, please, please, Lord, oh Lord, it's my calling to serve you, be merciful, oh Lord, like Mama showed me mercy, she forgave me so many times and help me out of my struggles, let me stand before you, Jesus, oh Lord, let me have another chance to serve you, Lord, let me serve one more time, Jesus.

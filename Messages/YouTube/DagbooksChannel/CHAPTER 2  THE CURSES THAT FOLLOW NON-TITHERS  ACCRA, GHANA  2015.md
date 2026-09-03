@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2015
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 life. Okay. You start to introduce yourself to curses. Yes. So money let me tell you and the greatest curse is to be without God. You say you you you are you have money but now God is out of your life. You are a cursed person. What is the use of your life? How big can you be? you are going to die like everybody else and be thrown into the ground like everybody and be forgotten. So it is a it's the greatest curse of stupidity to throw God out of your life. So tithing will force you

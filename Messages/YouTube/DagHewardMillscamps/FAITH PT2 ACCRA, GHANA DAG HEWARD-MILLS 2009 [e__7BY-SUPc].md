@@ -9,6 +9,8 @@ duration_min: 111
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/FAITH PT2  ACCRA, GHANA DAG HEWARD-MILLS  2009 [e__7BY-SUPc]]]"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 Welcome to track number five of my first love. Amen. You may be the seeded. Hebrews 11. Oh, can I have my King James Bible?

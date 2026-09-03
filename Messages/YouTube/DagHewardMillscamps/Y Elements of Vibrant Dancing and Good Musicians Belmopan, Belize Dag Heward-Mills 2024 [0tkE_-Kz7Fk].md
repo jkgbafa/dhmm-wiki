@@ -9,6 +9,8 @@ duration_min: 30
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Y Elements of Vibrant Dancing and Good Musicians  Belmopan, Belize  Dag Heward-Mills  2024 [0tkE_-Kz7Fk]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Now the next number 11 is vibrant dancing. Now loud music. There was so loud when the prodigal son came home. The salvation was happening that people could hear from those who were coming. How come the elder son heard the music?

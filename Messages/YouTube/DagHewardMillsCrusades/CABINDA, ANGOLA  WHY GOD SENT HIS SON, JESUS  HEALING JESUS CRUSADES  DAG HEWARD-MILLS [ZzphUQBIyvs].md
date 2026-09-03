@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ZzphUQBIyvs"
 duration_min: 156
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 gage ah MA [ Applause] protocol let the people come to give their offering please we have a moment please please come a little faster please I want a little faster please protocol God bless come come come coming coming come we are waiting for you come hurry the people please hurry the people please coming coming come come welcome to the Evangelist tonight one of the Evangelist Hallelujah Hallelujah faster protocol please please faster please [ Music] Hallelujah Hallelujah one Sales in your head let's pray let's thank God minute let's leave the last ones to come and give

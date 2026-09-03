@@ -9,6 +9,8 @@ duration_min: 106
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/FIGHT ABOUT THE CALL OF GOD  GTWC SRI LANKA  DAG HEWARD-MILLS  2018 [B5Mx1_Xzkx4]]]"
+topics: ["The Call of God", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-call-of-god", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Ephesians chapter 2 verse 1. It says we are his workmanship. And to good works. Which God has before ordained. Walk in them.

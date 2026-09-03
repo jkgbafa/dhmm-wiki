@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2015
 source: "autocaption"
+topics: ["Marriage and Family", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 for the wisdom of paying tithes. Yeah. Seven explanations for the wisdom in paying tithes. Tithing. When you pay tithes, that is 10% of whatever God gives you. When you pay tithe, okay, you demonstrate seven wisdom thoughts that are in your head. So, people don't realize that paying tithes is a really great sign of wisdom. And I I'm going to show you why. Why is it a sign of wisdom? Number one, and it's going to be quick. Number one, tithing. All right. Shows that you are humble and humility creates wealth. Humility creates wealth. Yes. When you

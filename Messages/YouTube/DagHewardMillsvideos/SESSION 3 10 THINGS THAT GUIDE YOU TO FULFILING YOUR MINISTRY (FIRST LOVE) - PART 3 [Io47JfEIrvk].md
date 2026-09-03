@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Io47JfEIrvk"
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 amen I want someone to open to Colossians 4:17 Colossians 4:17 we find it you reading what do we have there and face - octopus take his to the ministry which thou has received in the Lord that thou fall fail amen amen and we want to pray that God will continually show us amen because the ministry is a revelation ministry is a revelation a never-ending revelation God is always showing you aspects dimensions of the call you see where pasta you see that God is going to give you a special ministry to raise funds it's also a

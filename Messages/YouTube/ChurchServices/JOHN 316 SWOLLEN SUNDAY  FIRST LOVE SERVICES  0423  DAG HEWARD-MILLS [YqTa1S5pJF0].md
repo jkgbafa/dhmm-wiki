@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=YqTa1S5pJF0"
 duration_min: 275
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 amen come on everybody stand onto your feet we're giving the Lord Praise we've come into His presence and we want to sing another song of Praise Hallelujah come on back come on let's s to our Sone this after my do you not know you not know not hurt not hurt come on sing it's been told it's been told from the begin the Lord your God your God on your side on your side oh my soul oh my soul be afraid don't be afraid the Lord the Lord is rightous and power he will strengthen he will

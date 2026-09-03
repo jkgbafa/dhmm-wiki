@@ -8,6 +8,8 @@ year: 2008
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Hallelujah let's believe together tonight ask the Lord to open our eyes our spiritual eyes that we might see Jesus Hallelujah Lord thank you God Open the Eyes of My Heart Lord Open the Eyes of My Heart I want to see oh yeah I want to see you open Lord open the the Eyes of My Heart Lord Open the Eyes of My Heart I want to see you I want to see you see you see you I lift it up shining in the light of your glory pour out pour out your power and love we sing

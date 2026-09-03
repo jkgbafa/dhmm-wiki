@@ -8,6 +8,8 @@ year: 2012
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now I want us to look at another very important foundation. The first one was the call of God. The second was the will of God. And accuracy in following the will of God. The third foundation that will keep you going.

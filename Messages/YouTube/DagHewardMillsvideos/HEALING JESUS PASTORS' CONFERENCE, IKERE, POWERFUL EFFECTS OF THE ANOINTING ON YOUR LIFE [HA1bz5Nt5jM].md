@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=HA1bz5Nt5jM"
 duration_min: 84
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 powerful effects of the unloading on your life number one hour oke Oke please Bruins in Nigeria who nearly died for effect of the unloading on your life from today Bella is a grunion lorry I hear a lot your nila number one okoma Coco Isaiah chapter 61 this is what Isaiah said he said the Spirit of the Lord God is upon me because the Lord has anointed me to preach good tidings unto the meek when the anointing is on you you will be anointed and able to preach to the poor Isaiah Oracle aleni Oh Bertha ok

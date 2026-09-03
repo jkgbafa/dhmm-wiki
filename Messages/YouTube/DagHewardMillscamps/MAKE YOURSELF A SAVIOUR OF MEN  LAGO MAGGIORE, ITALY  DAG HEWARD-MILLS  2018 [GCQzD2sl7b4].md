@@ -8,6 +8,8 @@ year: 2018
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 it's wonderful to be here amen let us pray father thank you for the opportunity to be here today amen bless us mightily Amen in our time here together we are thankful amen that you have made it possible amen bless our hearts and transform Our Lives totally amen in Jesus name we pray and everyone said amen Oba chapter one Oba please Hallelujah have you found obadah verse 17 but upon Mount Zion shall be deliverance and there shall be Holiness and the house of Jacob shall possess their possessions and the house of Jacob shall be a fire

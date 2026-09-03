@@ -4,6 +4,8 @@ book: "The Reward For Hard Work Is More Work"
 book_number: "096"
 chapter_number: 9
 type: book
+topics: ["Work and Diligence"]
+tags: ["topic/work-and-diligence"]
 ---
 
 ### Chapter 8\

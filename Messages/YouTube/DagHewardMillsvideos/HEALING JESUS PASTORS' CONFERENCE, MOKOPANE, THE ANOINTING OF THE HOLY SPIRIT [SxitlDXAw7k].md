@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SxitlDXAw7k"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Anointing/Kinds and Waves of the Anointing", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/anointing/kinds-and-waves-of-the-anointing", "topic/the-holy-spirit"]
 ---
 
 hallelujah hallelujah clap your hands for Jesus that caliber an agenda motto are you ready for what God is going to do they can be Seneca customizer CD recs your heart ready to receive the Word of God they don't tell you now you can reset your analogy let's welcome either to prepare how hard I am will prepare let's say Jesus you are my first love there is the love that can comedy bless that Jesus is your home is your perfect that was us to do less that cheese you are mine for there is no man left

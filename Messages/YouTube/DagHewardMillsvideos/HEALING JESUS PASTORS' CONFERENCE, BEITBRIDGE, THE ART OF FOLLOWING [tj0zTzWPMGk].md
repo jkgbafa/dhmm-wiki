@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tj0zTzWPMGk"
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 now let's read 2nd Corinthians 11 already for you don't worry I fear lest by any means the serpent the serpent is Satan as a serpent beguiled Eve through his subtilty ok the serpent deceived Eve in the same way is Satan is going to corrupt your mind from the simplicity that is in Christ one of the most great webs of Satan is to make simple things unbelievable most of the instructions of Christ are so simple people do not accept them follow me that's a follow me don't suppose follow me stretch forth your hand right pick up

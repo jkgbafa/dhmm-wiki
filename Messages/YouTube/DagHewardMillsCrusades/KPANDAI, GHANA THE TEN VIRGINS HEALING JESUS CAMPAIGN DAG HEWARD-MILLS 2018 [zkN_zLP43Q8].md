@@ -8,6 +8,8 @@ year: 2018
 duration_min: 147
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 Hallelujah. I don't know how much you have my Jesus. Oh, yeah, you're dead my Jesus. Hallelujah. Show you the Nakassa, who I didn't Amen.

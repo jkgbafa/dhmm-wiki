@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wJC5ZcMRzy8"
 duration_min: 140
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 for his good and his mercies endureth forever so we want to give thanks to the Lord this morning and we just want to say thank you Lord for the first Sunday of the year how many of you are grateful to the Lord to see this day oh I don't feel the excitement how many how many of you are grateful to the Lord hallelujah amen let's close our eyes and lift up our hands to the Lord give thanks with a grateful heart give thanks to the Holy One to the Hol why don't you give thanks thanks

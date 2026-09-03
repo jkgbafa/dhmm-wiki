@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ydrPskWVjoc"
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 and I will open your Rizal Rasmus Oh Oh pray somebody hallelujah how many I want to say Lord if you're looking for somebody who loves you look my way anybody here want a lot to look their way this morning you want to sing Lord if you're looking for somebody who can praise you with song with hands lift it up when hand puppet when it does with it does Lord that was my way come on put your hands together with me somebody somebody somebody's afraid you look away far far away how many of you know that

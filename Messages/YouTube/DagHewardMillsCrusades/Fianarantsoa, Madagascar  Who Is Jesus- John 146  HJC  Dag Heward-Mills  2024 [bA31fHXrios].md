@@ -8,6 +8,8 @@ year: 2024
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit"]
 ---
 
 n God is going to touch your life clap your hands and let's receive God Evangel I expect a miracle LIF up your hands father which are in heaven thank you for tonight for this afternoon I pray send your Mighty Holy Spirit into our midst touch every life right here in this city of fu in the name of Jesus send your angels send your power send your salvation thank you for a great visitation on the city of fanu in the name of Jesus welcome you holy spirit thank you Father in the name of Jesus amen amen

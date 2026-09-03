@@ -8,6 +8,8 @@ year: 2003
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/anointing", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 welcome to track number 15 of bear receiving the people God sends into our lives can compare can compare oh n can compare you can Ser cuz you can search everywhere and you will find none to compare none can compare none can compare can compare oh you can sech oh everywhere and you will find to compare how marvelous your mercy how marous your mercy how glorious your grace glor your gra how marvelous your mercy how power Lord your presence Lord I long to see your your mercy how glorious your great how powerful how powerful your presence

@@ -8,6 +8,8 @@ year: 2009
 duration_min: 160
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I want you to stand to your feet for just a minute. I want to ask you to please stand to your feet for just a minute. By the grace of God, we are seeing the fourth night of the healing Jesus Christ. It is not the doing of any man. And you're not it is not the doing of any pastor.

@@ -8,6 +8,8 @@ year: 2012
 duration_min: 141
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 We love you, Jesus. Oh Jesus, we love you. We love you, we love you, we love you, we love you, we love you, we love you, we love you, we love you, we love you, oh, yeah, just love him where you are Sunday Mayane Sunday Baba Babayandayande Baba Baba Jesus. We love you, Jesus we love you, oh we are Sun Naraburias Karamaya Deakatand, oh we love you and Jesus, we enthron you we proclaim you are standing here in the midst of us, standing here in the midst of we raise you up with our prayer, we

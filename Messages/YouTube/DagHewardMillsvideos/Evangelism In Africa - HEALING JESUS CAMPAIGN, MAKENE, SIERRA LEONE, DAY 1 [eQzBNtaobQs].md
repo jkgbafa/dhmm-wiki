@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=eQzBNtaobQs"
 duration_min: 124
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 tamal let it be louder let it be louder can it be a little louder and can you a - ow - it my kinda give a shout to the law hallelujah please be seated and let's be quiet others time no talking please require and let's welcome the deputy chief administrator for Mike Andy City Council to bring us away man of God distinguished ladies and gentlemen it is the pleasure alone and a delight for mechanic city council to be part of this great occasion I want to take this opportunity on behalf of the mayor who is

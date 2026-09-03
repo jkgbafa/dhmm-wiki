@@ -8,6 +8,8 @@ year: 2025
 duration_min: 36
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "The Holy Spirit", "The Holy Spirit/Baptism of the Spirit"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-holy-spirit", "topic/the-holy-spirit/baptism-of-the-spirit"]
 ---
 
 Now, let me tell you three quick ways to get more of the Holy Spirit. How many would like three quick ways like how can you get three ways quickly to get some more vitamin C? Number one, just I'm just giving you three quick ways. Number one, pray for the Holy Spirit. Pray. Ask for the Holy Spirit. Hello. Hello. Come. Come. I need you. Come. I like this guy, you know. Look at his Come. Look at Look at his shirt. Come on stage. Come. Come. Are you German, French, Italian? German, please. German. Look at Holy Spirit.

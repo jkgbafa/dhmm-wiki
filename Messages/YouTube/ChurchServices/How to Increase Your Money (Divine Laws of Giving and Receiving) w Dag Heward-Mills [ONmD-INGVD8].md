@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ONmD-INGVD8"
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you know how does money come it's something that people have studied how does it happen how does money come how many have ever had the feeling or know somebody was at a finger where there is money when people are rich he's doing something bad everything is owned by the Jews this bank is owned by the Jews that law firm or they are all Jews that medical they are all Jews beginning from today I see the Lord blessing you in Luke 638 father thank you for the blessing we have today in your holy presence we ask

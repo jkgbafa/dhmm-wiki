@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/EnY1wUXwhv3K/"
 duration_min: 68
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Salvation", "Salvation/The New Birth", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/salvation", "topic/salvation/the-new-birth", "topic/the-holy-spirit"]
 ---
 
 How many of you want to say this morning that Lord? If nobody else here will praise you, if nobody else here will love you, and you need somebody, look my way. Is there anybody like that this morning? You want to sing to the Lord that if you're looking for somebody who loves you, somebody who will serve you, somebody who praise you with a dance, somebody who is not ashamed to clap their hands, and to keep the Lord a jump, and to keep the Lord a praise. Look my way.

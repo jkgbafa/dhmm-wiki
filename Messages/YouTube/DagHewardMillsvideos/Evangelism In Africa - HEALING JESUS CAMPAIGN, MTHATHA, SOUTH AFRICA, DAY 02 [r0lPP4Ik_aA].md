@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=r0lPP4Ik_aA"
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism"]
 ---
 
 you're the free the name of all she always hear me when I call you lift me up each time I fall you're the same oh Jesus how I love to sing your name jeepers you feel the first the last day oh you died and took away my shame you're just the thing Oh Chisa you're the food and coming T G bird we need the love and you can breathe oh Jesus within our boy this avenging your diseases the people oh Jesus you're the sweetest name of all you live me up each time I fall oh

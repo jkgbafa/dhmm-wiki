@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=78cg3HZLPB4"
 duration_min: 39
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 I want to give you three keys to God's divine promotion all these three things are things that you must do in secret amen ten million Matthew chapter five okay chapter six now another way in which promotion could be described as by what we call God taking you forward lifting you up moving you ahead from one state to another amen and I'm going to show you from the Bible that there are things that God has said and whenever you are promoted people can see is that not so is another nature of promotion it's something that people

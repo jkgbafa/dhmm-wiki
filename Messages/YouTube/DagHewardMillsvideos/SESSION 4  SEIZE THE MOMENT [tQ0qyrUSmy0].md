@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tQ0qyrUSmy0"
 duration_min: 182
 source: "autocaption"
 match: "exact"
+topics: ["The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 he called us not to worry and that he'll be going away and while here the winning a special place closes well the time is right good morning tonight he will cast back you're coming yeah ah coming back I feel for me Jesus Christ is coming back the ban of man by God and war go raised on every day I'm making separation and I'm getting ready for the great celebration I'm going to get my business already tomorrow whoo-hoo - follow me play call me again hallelujah I am free praise the Lord I'm free no longer bear

@@ -8,6 +8,8 @@ year: 2015
 duration_min: 224
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Vision and Direction"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/vision-and-direction"]
 ---
 
 if you see a brother standing road with heavy the seats and if you see us system Falling by the way just stop and say you're going the wrong way you've got to try a little kindness you better show a little kindness Shine Your Light for everyone to see and if you try a little kindness then you overload the blindness of narrow minded people of a narrow minded Street don't walk around the down now L A Helping head instead of down oh and the kind that you show every day will help someone I longer away oh

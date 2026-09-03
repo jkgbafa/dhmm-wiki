@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=sKltK7JDjSY"
 duration_min: 4
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 Jeremiah 48:10. What does it say? Moab has been at ease from his youth. He has settled. So, some of you have been at ease. So, you need a whack. And some He says he has settled on his lease. Some of you are settled in some bad ways. Those ways cannot make you a good wife or a good husband. That's why we have a song be nice. Be a responsible brother. Don't be a kept man. A man who is just at home. Your wife is like a lioness. She goes out hunting whilst you are sleeping. You

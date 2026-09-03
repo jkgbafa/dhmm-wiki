@@ -8,6 +8,8 @@ duration_min: 213
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/THE SECOND HARVEST OF THE SERPENT SEED  FIRST LOVE SERVICES  0420  DAG HEWARD-MILLS [YAeGHznm1nI]]]"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 This morning you've blessed us, oh God, and we are here to offer the praise that is due to you, Lord. Thank you for preserving us in this season. Thank you for delivering us in this season. Thank you for pouring out your spirit upon us. Thank you for hiding us under your feathers.

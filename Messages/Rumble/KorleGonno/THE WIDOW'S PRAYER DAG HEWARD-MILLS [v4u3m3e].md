@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3m3e/"
 duration_min: 27
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 I bring you greetings from uh London. I was in the church in London. Uh first I was in Seattle, Washington. I was invited by Pastor Wendell Smith. Some of you may remember him.

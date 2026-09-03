@@ -9,6 +9,8 @@ duration_min: 63
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE FIVE CROWNS  ACCRA, GHANA  DAG HEWARD-MILLS  2003 [v7zTIc0F-NM]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number fifteen of agree on the way. Set your affection on things above. Where Christ, where Christ sitteth, where he's sitting where Christ sites. Set your affection. That is your feelings.

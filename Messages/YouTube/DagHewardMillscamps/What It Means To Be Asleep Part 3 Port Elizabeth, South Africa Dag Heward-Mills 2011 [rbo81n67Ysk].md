@@ -8,6 +8,8 @@ year: 2011
 duration_min: 156
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 almost finish the camp okay I'm going to go faster now are you there what does it mean to be asleep no movement number one is no vision number two no movement isn't it Movement we have two types of movement I mean movement all right God drawing you isn't it different types of moving and moving ently and I'm talking about urgent ently four ways and reasons why you must move ently four reasons why you must move with Agency number one you must move with agency before the living livens the bread amen now the Egyptians were urgent

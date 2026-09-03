@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=eoqcbIEXA44"
 duration_min: 145
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/leadership", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 the art of leadership the art of leadership the reason that art of leadership is very important is because is it very important for us because we are naturally bad leaders and the longer you resist the diagnosis of yourself the longer it will take you to move to the higher level that God has I've lived in Africa all my life I've never lived in Europe before never I went I went to school in Ghana I've never been to school outside Ghana even for one day so having been here for so long and having grown up in

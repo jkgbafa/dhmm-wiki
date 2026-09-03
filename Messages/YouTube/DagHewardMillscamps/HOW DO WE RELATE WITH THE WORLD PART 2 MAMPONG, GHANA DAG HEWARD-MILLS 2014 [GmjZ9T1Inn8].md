@@ -9,6 +9,8 @@ duration_min: 128
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HOW DO WE RELATE WITH THE WORLD PART 2  MAMPONG, GHANA  DAG HEWARD-MILLS  2014 [GmjZ9T1Inn8]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 And while I'm gone away, I will be building you away. And I'm coming again to take you back to live with me. I must go away. I must go away. For my work down here on earth is done.

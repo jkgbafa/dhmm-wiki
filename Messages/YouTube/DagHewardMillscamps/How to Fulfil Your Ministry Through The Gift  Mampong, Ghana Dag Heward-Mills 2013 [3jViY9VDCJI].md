@@ -8,6 +8,8 @@ year: 2013
 duration_min: 151
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/ministry-and-pastoring", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 lift your voice and thank him lift your voice and thank him thank you Lord Hallelujah hallelujah hallelujah we want to pray and lift your hands to God lift your holy hands to God oh lord your mercy Lord your mercy have mercy Lord have mercy Lord oh amen put your hands together for the Living God all right we want to pray now and um pray and ask God for his mercies which is also one of the ways that we can fulfill our ministry turn your Bibles with me to 2 Corinthians chapter number four verse number one

@@ -8,6 +8,8 @@ year: 2015
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Jesus you're the sweetest name of all Jesus you're always hear me when I call oh Jesus you lift me up each time I fall you're the sweetest sweet name of all Jesus how I love to sing your name Jesus you're still the first the last the same oh Jesus you died and took away my shame you're the sweetest sweetest name of all oh Jesus you're the soon and coming King Jesus we need the love that you can bring oh Jesus we lift our voices up and sing you're the sweeter sweet the name of all oh

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=vMENVH14KtM"
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 now I'm just sharing something from this book called the mega church Zapata's avez-vous Kelly shows you live let me guide leave the mega church Jamaica Italy I want to encourage you those are watching the mega church the the - missile evil a mega hey man I'm N I want you to be a mega church pastor keep an eye on the mega church pasta atv-3 faster didn't Iike it in Jesus name or notice now when you go right in your chest I got Churchill you write it come on any harder mega CJ the rock' Keys mega

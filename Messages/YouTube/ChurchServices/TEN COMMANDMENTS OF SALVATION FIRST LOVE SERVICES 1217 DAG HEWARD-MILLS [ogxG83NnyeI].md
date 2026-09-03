@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ogxG83NnyeI"
 duration_min: 160
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Salvation", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/salvation", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh Lord, how they increased, that troubled me. Many are they that rise up against me. Many there be that say of my soul, that there is no help for him in time. But thou, oh Lord, are a shield for me. My glory, you lift my hand.

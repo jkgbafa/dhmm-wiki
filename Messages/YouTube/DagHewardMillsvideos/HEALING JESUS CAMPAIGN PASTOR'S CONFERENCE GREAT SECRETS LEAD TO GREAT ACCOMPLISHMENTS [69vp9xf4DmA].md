@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=69vp9xf4DmA"
 duration_min: 155
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Church Growth", "Church Growth/Mega Church", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/church-growth", "topic/church-growth/mega-church", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 louia what a blessing to be here today but I see you know me for often some interviews I'm glad to be s bloody man Upington to this how many here pastors with an ESR Stewart how many Church workers do we have will carry workers at of zero alright so today I wanna share with you something that will be important as workers dock adequately each deal with viable Americas as pastoral of care workers amen now the vision that we have is very important divisive at unsatisfiable America we must have a vision for church growth we see

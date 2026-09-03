@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JSd0WUVSPEM"
 duration_min: 171
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Missions", "Missions/The Nations", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/missions", "topic/missions/the-nations", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 The Bible says that God has forgiven us all our iniquities. Can I have an amen? And also he has healed us of all our diseases. I know that we are still in this season of Corona and God, by his grace, you have not been plagued by it. Your family has not been plagued by it.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tmdmuSWZX90"
 duration_min: 33
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring"]
 ---
 
 praise the lord praise the lord praise the lord i'm so excited this evening to come your way again we are still on our series the preview to give thyself holy to 2020 and the days are getting closer and closer and this evening we are going to spend a very wonderful time here listening to a great sermon of god who is going to tell us so many things that you need to know about give us a holy conference ladies and gentlemen this evening i have with us in the studio the bishop of the healing jesus ambitions

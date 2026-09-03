@@ -8,6 +8,8 @@ year: 2014
 duration_min: 222
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 okay how can I say thanks now verse 17 or we start from verse 16 but arise and stand on thy feet for I've appeared unto thee for this purose to make thee a minister and a witness both of these things which thou has seen and of those things in the which I will appear unto day delivering thee from the people and from the Gentiles unto whom I now send thee God will deliver you from the people he's sending you to sometime the very people you've been sent to are the people who want to fight you

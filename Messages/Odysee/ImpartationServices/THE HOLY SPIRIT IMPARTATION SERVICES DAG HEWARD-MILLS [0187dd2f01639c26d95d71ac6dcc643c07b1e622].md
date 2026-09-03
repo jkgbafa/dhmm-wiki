@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/the-holy-spirit-im
 duration_min: 92
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit"]
 ---
 
 Lift your hands to the Lord. Thank Him for tonight. Ask the Lord to heal you, speak to you, minister to you tonight. Thank you, Holy Spirit. Thank you, Holy Spirit, for your blessings tonight.

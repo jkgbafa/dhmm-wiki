@@ -8,6 +8,8 @@ year: 1997
 duration_min: 52
 source: "autocaption"
 match: "exact"
+topics: ["Fasting", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Prayer/Intercession"]
+tags: ["topic/fasting", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/prayer/intercession"]
 ---
 
 welcome to track number two of loyalty and the mega church verse 8 we are looking at the rod and the staff amen wherever you see the rod and you see the staff know that the shepherd is at work amen any time you see my rod and my staff thy rod thy rod is the symbol of the shepherd's work amen and one of the duties of the shepherd is to lead your people to take new territories Hallelujah in Exodus 17:8 the Bible says and then came amalec and fought with Israel Hallelujah in refidim and Moses said

@@ -8,6 +8,8 @@ year: 2024
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 Acts chapter 6:4 please Acts chapter 6:4 we will give ourselves continually to prayer and to the ministry of the word amen acts 6 verse1 in those days now I want to share with you about prayer and um the work of the Lord in those days when the number of the disciples was multiplied there arose a meming of the gracians against the Hebrews because their widows were neglected in the daily ministration amen their widows were neglected where in the daily ministration amen verse two then the 12 called the multitude of the disciples unto them and said

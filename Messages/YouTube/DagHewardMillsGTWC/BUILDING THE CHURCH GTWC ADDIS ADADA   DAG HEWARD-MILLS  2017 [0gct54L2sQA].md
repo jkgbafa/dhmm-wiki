@@ -9,6 +9,8 @@ duration_min: 40
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/BUILDING THE CHURCH GTWC ADDIS ADADA DAG HEWARD-MILLS 2017 [0gct54L2sQA]]]"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Vision and Direction", "Vision and Direction/The Will of God", "Wealth and Finances"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god", "topic/wealth-and-finances"]
 ---
 
 I need to feel your presence. I want to know your power. F me now with more of you. I want to see your glory. I wan know your way so would you please come and fill this place. I need fresh air from you. Cover my life with your brain down refreshing from above. I need your presence today. Please come and show me the way. Show down your upon me. Make me more and more like Jesus Christ. have so the world may see that you are the port I am just the so into what you want

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_JrXRJAgPMo"
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 best five of Philippians two they says let this mind be in you which was also in Christ Jesus who being in the form of God thought it not robbery to be equal with God but made himself of no reputation amen and he made himself of no reputation and took upon himself the form of a servant and was made in the likeness of men and being found in fashion as a man he humbled himself and became obedient unto death even the death of the cross wherefore God has also highly exalted him and given him a name

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=bjtfsc_I-Bc"
 duration_min: 70
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 father we thank you for your blessing today as we receive your holy word blessed us and encourage us in Jesus name Amen you may be seated praise the Lord today we are going to look at a Greek word right so the title of the Methodist clicks eclipses syllable of c.h.l.i p and i lifted like life answers back clips all right flips it Philips just c.h.l.i P and I is all right okay so just keep that at the back of your mind remaining to tell you what it is before we finish man hey man chapter 5

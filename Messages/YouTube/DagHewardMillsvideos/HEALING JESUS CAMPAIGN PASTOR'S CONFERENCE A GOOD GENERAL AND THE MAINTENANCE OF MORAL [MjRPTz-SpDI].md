@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MjRPTz-SpDI"
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 a good general maybe one or two points will be ending soon cotterpin doozer sorrows Doretta angry achilles on a jolly morgue immediately a good general and the maintenance of morale mohammad ahmad a johanna holy earth beluga CP or hollow Sahai one of the main one of the main things in fighting is the morale or the good feeling the good feeling in the team that are fighting em weird intro to hulu Nguyen da Curie banna banna banna Libby Eko boom Muttley maybe grande panel ACPO panel a massage many people don't have a good feeling but one

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=dYmomLWYQvg"
 duration_min: 29
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 listen Jesus met many bad people when he was on Earth he had thieves he met thieves but he would convert them or preach to them he even met fares he met adulterous women he met serial fornicators serial the woman of Samaria She Was a Serial fornicator she was was never satisfied with one man hey but Jesus was able to relate with all these people but for Judas he said no no no this guy is better that he was never born yeah that means that is the worst thing you can ever be sometimes in my church

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ug61e/"
 duration_min: 29
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 We praise you for what you have done in our lives. We ask, oh Lord, that you would open our hearts and our spirits that we may be pleasing to you and do your will. As we listen to your word this morning, we pray for humility and direction and the spirit of revelation and wisdom in Jesus' name. Amen. Let's continue with our series on seven great principles.

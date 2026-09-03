@@ -8,6 +8,8 @@ year: 2013
 duration_min: 161
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Oh Jésus Il est le Dieu de vivant Il est le Dieu de divin Il est le Dieu de vivant Il est le Dieu de Niv Oh il est le Dieu Le Dieu demi mal Dieu Dieu demain le Dieu Il est le Dieu de son vin Il son banane de la postolion Disons du bois son géant Il ressuscita Et la salle de la mort Il est le Dieu de l'Ivan et son basaniel de la fonction du sauveur Jonas du poisson géant Il ressuscita Laza de la mort Il est le Dieu de mes mains Oh il est

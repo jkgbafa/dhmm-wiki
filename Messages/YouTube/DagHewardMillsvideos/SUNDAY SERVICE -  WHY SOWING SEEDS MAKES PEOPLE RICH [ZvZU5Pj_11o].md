@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ZvZU5Pj_11o"
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 a lady one says sing for joy to go on our strength shout joyfully to the goal of Jacob raise a dog trying to tip bro the sounding lower with the hub below the champagne at the full moon on our feast day today's our feast day hallelujah we are coming to the house of the Lord on a fifth day and we want to sing joyfully more to the Lord how many of you agree with me that is a good day is that good time this song says if we call to him he will answer us how

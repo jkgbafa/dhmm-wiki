@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=dUbN2MY4vgU"
 duration_min: 142
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism"]
 ---
 
 in the name of Jesus Wow in the name of G I have happy tourists in the name of in the name of XI I I have before me the name I am happy ah Oh I don't wanna head in a box hallelujah hallelujah clapping hands what Jesus tonight as we receive the Evangelist what a nice clap your hands clap your hands and you may be seated you may be seated IRA go to LA party hallelujah hallelujah are you excited tonight how do you assume that I surely I expecting God to touch you tonight as I

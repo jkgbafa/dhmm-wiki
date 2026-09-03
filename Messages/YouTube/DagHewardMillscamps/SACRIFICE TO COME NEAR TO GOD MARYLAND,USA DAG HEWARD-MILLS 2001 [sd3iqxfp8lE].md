@@ -8,6 +8,8 @@ year: 2001
 duration_min: 10
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number nine of the message of sacrifice. You must sacrifice, huh? In order to come near to God. In Exodus chapter 29. Are you listening to me?

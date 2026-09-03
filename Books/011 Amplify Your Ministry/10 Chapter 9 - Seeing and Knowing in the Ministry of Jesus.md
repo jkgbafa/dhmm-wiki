@@ -4,6 +4,8 @@ book: "Amplify Your Ministry"
 book_number: "011"
 chapter_number: 10
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ## Chapter 9

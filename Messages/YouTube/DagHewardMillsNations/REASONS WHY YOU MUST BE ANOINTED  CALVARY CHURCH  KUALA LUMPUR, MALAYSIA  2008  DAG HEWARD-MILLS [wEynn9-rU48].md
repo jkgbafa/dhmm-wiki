@@ -8,6 +8,8 @@ year: 2008
 duration_min: 36
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring"]
 ---
 
 are you glad to be here this morning wonderful um father thank you so much for this morning and the opportunity that we have to serve you we are grateful oh God in jesus' name amen are you glad to be here this morning how many here are pastors oh wow okay I have um something very powerful one of our pastors just came in from Ghana I want to introduce this um we have several D DVDs are these DVDs or CDs DVDs and CDs different ones available so many loyalty different powerful messages that will be a blessing

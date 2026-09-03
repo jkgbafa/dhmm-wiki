@@ -8,6 +8,8 @@ year: 2006
 duration_min: 28
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Welcome to track number three of spiritual battles. Bless you. We praise you. Hallelujah. In Jesus' name.

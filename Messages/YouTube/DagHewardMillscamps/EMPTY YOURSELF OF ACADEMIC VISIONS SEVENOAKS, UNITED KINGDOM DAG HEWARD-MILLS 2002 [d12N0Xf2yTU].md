@@ -9,6 +9,8 @@ duration_min: 21
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EMPTY YOURSELF OF ACADEMIC VISIONS  SEVENOAKS, UNITED KINGDOM  DAG HEWARD-MILLS  2002 [d12N0Xf2yTU]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Vision and Direction"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/vision-and-direction"]
 ---
 
 Welcome to track number seven of all love. You must empty yourself of academic visions. That does not mean you shouldn't go to school. School is important. But I'm not here to explain that I have taught about the importance of school before.

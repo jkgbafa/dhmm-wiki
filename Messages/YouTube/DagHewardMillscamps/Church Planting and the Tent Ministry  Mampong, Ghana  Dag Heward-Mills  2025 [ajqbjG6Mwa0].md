@@ -8,6 +8,8 @@ year: 2025
 duration_min: 31
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Ministry and Pastoring"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/ministry-and-pastoring"]
 ---
 
 Now, Acts chapter 18. Now, this church planting group, I want to take you to um Greece. Will you go? Will you go to Greece? Yes. I want to take you to Greece. Let Let's look at Let's look at this. Acts chapter No, I mean on a on a on a tour. Oh yeah. Will you will you go on your Now wait. Acts chapter 18 verse1. Now I want to share with you the 10th ministry. Yes. The 10th ministry. Church planting and the tenth ministry. Yes. Acts chapter 18 verse 1. Are you watching? After these things,

@@ -8,6 +8,8 @@ year: 2005
 duration_min: 32
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number five of perfection and when it's planted what have is thrown underground I'm going to forget about you in your little corner after some years and the bigger the bigger the plant is the Deep ey must I tell you you have to write a book on seats because like rice rice you can sprinkle it because it's very light when it grows you cannot sprinkle maze because it's very tall it's a fall you have to plant it and when it comes to trees there are some trees you have to dig deeper it's just

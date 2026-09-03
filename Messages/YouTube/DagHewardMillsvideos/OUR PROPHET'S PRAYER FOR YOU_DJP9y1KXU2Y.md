@@ -3,6 +3,8 @@ title: "OUR PROPHET'S PRAYER FOR YOU_DJP9y1KXU2Y"
 channel: "DagHewardMillsvideos"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Jesus look on your little children and help them help them to stop have them not to fall help them to be on a rock to stay you are lifted at this moment out of every miry clay and your feet are washed and you are placed upon a rock father lift your children up into the heights of the clouds higher than they imagine where they never thought they could be let them stand there by prophetic power supernatural power superior power leatherby an elevation two weeks from now two months from now and two years from now you

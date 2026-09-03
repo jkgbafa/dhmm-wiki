@@ -8,6 +8,8 @@ year: 2009
 duration_min: 135
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 amen amen amen how different people were called amen amen amen and I believe that um this particular session Bishop is explaining to us that we will not all be called in the same way even though we are all called yeah I think our nature is such that we Al always want to be um be treated as others were treated or want to see what happened to the other person happening to us before we believe amen amen but the Bible says in I believe First Corinthians 12 that there are diversity of gifts there I mean if

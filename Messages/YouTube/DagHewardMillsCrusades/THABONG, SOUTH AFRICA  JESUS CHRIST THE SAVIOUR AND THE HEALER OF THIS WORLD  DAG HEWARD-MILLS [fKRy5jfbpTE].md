@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=fKRy5jfbpTE"
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah Give the Lord a shout of praise C up to me oo o waiting leave me come one to me I give lift up your voice and say hey Mama let me oh I give be give when I when I would you be sa when I fell out I out when I F when I I Hallelujah Hallelujah Give the Lord a shout of praise J for delay amen J lift up your hands and S let let me w oh yeah more amen Give the Lord a shout Give the Lord a s to to me to

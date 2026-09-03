@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ta2lq/"
 duration_min: 153
 source: "whisper"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 You gave me time when no one gave me the time of day. You look deep inside while the rest of the world look away. You smiled in me when there were just frowned everywhere. Oh yeah. When you gave me love when nobody gave me a praise.

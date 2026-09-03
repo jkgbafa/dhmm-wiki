@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=eLtwRZCFVB4"
 duration_min: 255
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 lift up your hands and say Lord you are welcome in this place Lord you are welcome in this place oh yes Lord you are welcome in this place you are welcome in this place Lord you are welcome in this place Lord Oh Lord You're Welcome in this place oh Jesus thank you Jesus let's all sing Lord you are welcome Lord you are welome in this place in this place sing Lord you are welcome Lord you are so welcome in this place you are lift up your hands and sing Lord you are welcome in this place

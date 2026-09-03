@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2019
 source: "autocaption"
+topics: ["Prayer", "Salvation"]
+tags: ["topic/prayer", "topic/salvation"]
 ---
 
 Tonight my preaching is very simple. It's about why God sent his son. Why God sent his son and I'm reading from John chapter 3 16. For God so loved the world that he gave his only begotten son that whosoever believes in him should not perish but have everlasting life. Amen. Amen. And verse 17, it says that God sent not his son into the world to condemn the world, but that the world through him might be saved. Amen. Amen. Tonight is a good night for you because the Bible says God so loved the world that he

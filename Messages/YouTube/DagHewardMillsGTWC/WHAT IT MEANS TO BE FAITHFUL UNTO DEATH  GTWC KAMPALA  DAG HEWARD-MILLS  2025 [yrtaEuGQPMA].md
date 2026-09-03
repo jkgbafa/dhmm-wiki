@@ -8,6 +8,8 @@ year: 2025
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 Hallelujah. [screaming] Thank you. Let let us pray. Let us pray. Father, we are grateful for today for the opportunity to be here. We pray that you speak to our hearts and lead us [clears throat] by your spirit. Thank you for this bless. Lift your hands and ask God to touch your heart by the spirit lead you. Thank you beautiful Holy Spirit for blessing us, touching our lives. We're grateful and thankful in the name of Jesus. Thank you. Thank you. Thank you in Jesus name. Amen. You may be seated. We're excited to be here and um

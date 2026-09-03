@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=j-zoeQujz30"
 duration_min: 131
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 are you ready to receive what God has for you let welcome Vivaldi to bless us with a song Hallelujah Give the Lord the best shout of praise are you ready are you sure you are ready and and for this are you sure you ready are you sure you ready for listen are you ready re Give the Lord a shout are you ready of Give the Lord a shout Give the Lord a shout hallelujah are you ready do it like this lift your hands like this lift your hands like this hey everybody shout jesuses everybody shout

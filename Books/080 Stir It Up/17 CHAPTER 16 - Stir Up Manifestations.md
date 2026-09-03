@@ -4,6 +4,8 @@ book: "Stir It Up"
 book_number: "080"
 chapter_number: 17
 type: book
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 ### CHAPTER 16\

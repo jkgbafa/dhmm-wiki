@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=x1utDZEtOMo"
 duration_min: 125
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you now stages of honor Stage one fantastic are you being blessed you are being blessed because you are thinking about a topic yes and the topic is stages of Honor and stages of this honor and I believe these stages will be a blessing to you for the rest of your days amen now why do I call it stages of Honor because you may honor someone but you may honor God but you may not another person at a certain level so it is very important that we learn about honor honouring because the Bible tells us that

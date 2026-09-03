@@ -8,6 +8,8 @@ duration_min: 86
 source: "whisper"
 match: "exact"
 duplicate_of: "[[Messages/Rumble/SoulWinnersServices/THE WISDOM OF SOUL WINNING SOUL WINNERS SERVICE DAG HEWARD MILLS [v4sub50]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 We want to give a good offering tonight. Amen. Trust that you came to church with an offering. Amen. So please take out a good offering.

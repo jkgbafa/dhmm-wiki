@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=HzHk4fHCcoU"
 duration_min: 154
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 blessed jesus you are my first love there is no other love that can compare blessed jesus it is your holy love it is your perfect love that draws us to you blessed jesus you are my first love there is no other love that can compare blessed jesus it is your holy love it is your perfect love that draws us to you now there's no other love we desire there's no greater love that we could you are my first love there is no other love it is see there's no other love that we desire and there's

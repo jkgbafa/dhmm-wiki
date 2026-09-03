@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=yPsAjgtLrR4"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 see oh at see let captive oh let it see let oh let see tonight oh Hallelujah C see oh say you let to see man see oh Hallelujah sing let see oh and see sh you and to see say you he let see and ser stand to your feet tonight l I expect a miracle are you expecting a miracle tonight I if you are expecting a mirac lift your hand I expect nothing is impossible miracle lift up your hands everybody heavenly father thank you for tonight thank you for your power Lord we ask for your

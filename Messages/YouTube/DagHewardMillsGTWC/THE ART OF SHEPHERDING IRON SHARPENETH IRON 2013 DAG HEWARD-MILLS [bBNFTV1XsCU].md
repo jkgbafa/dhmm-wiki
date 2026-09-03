@@ -8,6 +8,8 @@ year: 2013
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Trust in the Lord with all your heart and in our time your own understanding in all your ways acknowledge him and he shall die and he shall die trust in the Lord and all your heart oh learning your own understanding know your ways and knowledge him oh yes he shall direct and he shall direct your life oh he will not allow you food to be moved and he that he too will not the Lord is near unto all and that for him to all that God Him into Trust in the Lord with all your heart and in our time your own understanding you know your way of knowledge Him oh yes He shall die And he served back trust to the Lord with all your heart and in us your own understanding in all your ways knowledge Him oh yes He shall die And he shall die your trust in Him with all your heart Oh and live your own understanding your ways knowledge Him Oh he shall and He shall direct your path Yes And he shall die your He will He shall die your He shall we are many We are one body We are one body in Christ Though we are many We are one body We are one body in Christ Oh yes So we are many We are one body We are one body Though we are many We are one body We are one body One day in the Lord Jesus Christ Binding us together in one cause and one in the one God One Father over we are many We are one body We are one body So we are many We are one body We are one body Hallelujah Wow.

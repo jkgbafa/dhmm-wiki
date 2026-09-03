@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/b87vPb3iifh1/"
 duration_min: 127
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wisdom"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wisdom"]
 ---
 
 Hallelujah. Lord pour out your speed on all the people. Let your sons and God let your sons and God speak your word of prophecy. Speak your word of prophecy. So as dreams and listen so as dreams and be reveal the secrets of your heart.

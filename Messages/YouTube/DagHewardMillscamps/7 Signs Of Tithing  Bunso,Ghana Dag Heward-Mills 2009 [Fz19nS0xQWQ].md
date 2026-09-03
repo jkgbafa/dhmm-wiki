@@ -8,6 +8,8 @@ year: 2009
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 now the next important section section six is tithing tithing tie in the Greek comes from the word Master mahash mahasay Mah or Mahari it means a 10 amen Leviticus chapter 27: 30 it says and all the T I of the land whether of the seed of the land or of the fruit of the tree is the Lords because it is Holy unto the Lord and I want you to know Leviticus 27:30 if a man will at all redeem of his tithes amen he shall add that to the fifth part amen have you found Leviticus 27

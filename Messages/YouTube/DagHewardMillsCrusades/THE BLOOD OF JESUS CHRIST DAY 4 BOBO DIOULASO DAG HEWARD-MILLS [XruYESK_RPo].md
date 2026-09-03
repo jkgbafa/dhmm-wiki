@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=XruYESK_RPo"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Alléluia sous le monde crié sous la main qui a bouché sous crier fort, crié fort, acclamé, crié, acclamé, crier, acclamer, crier, Alléluia, Alléluia, Amen, mon cœur, c'est de tuer mon cœur, je te bénis, mon sauveur, dans l'affection, dans la souffrance, tu m'es délivré, tout le temps, il n'y a personne qui m'a autant comme toi, mon Dieu, c'est de tu mon croix, je te bénis, mon sauveur, dans l'affection, dans la souffrance, tu veux délivrer, tu es ta personne qui va autant comme toi, quand je vois ce que tu as fait, il y a la paix, la paix dans mon cœur, quand je vois, ce que tu as fait, je t'adore, je veux te louer, chanté, quand je crois, c'est que tu as fait.

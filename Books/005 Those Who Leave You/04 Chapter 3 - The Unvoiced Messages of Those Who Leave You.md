@@ -4,6 +4,8 @@ book: "Those Who Leave You"
 book_number: "005"
 chapter_number: 4
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ### Chapter 3\

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xUcDc3iF2WQ"
 duration_min: 196
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 come on everybody thank him thank him thank him thank him thank him thank him thank him thank god that is giving you victory over every form of disease some god that is giving you victory over poverty some god is giving you victory over madness some god is giving you victory over every form of illness thank god he gave you victory over covet some god is giving you victory about the voice of the enemy i want to hear somebody lifting their voice and thanking god and blessing god what an all what an honor my god yes

@@ -4,6 +4,8 @@ book: "How You Can Preach Salvation"
 book_number: "027"
 chapter_number: 65
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation"]
 ---
 
 ### Salvation Message 63: 

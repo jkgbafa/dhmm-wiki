@@ -8,6 +8,8 @@ year: 2016
 duration_min: 134
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/the-holy-spirit"]
 ---
 
 wow wow are you enjoying Ida's music fantastic now before you can give anything to anybody you need to be filled with the holy spirit amen amen now how can you be filled with the holy spirit amen amen how can you be filled with the Holy Spirit how can you be filled with the Holy Spirit is it fantastic fantastic wow wow Luke 11 verse 9 I'm showing you how you can be filled with the Holy Spirit how many want the Holy Spirit and I want to give you the number one way you can be filled with

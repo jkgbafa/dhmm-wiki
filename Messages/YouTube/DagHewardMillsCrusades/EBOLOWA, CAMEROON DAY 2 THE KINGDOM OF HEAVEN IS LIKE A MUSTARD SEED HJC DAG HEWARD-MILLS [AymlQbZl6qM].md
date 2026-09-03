@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=AymlQbZl6qM"
 duration_min: 119
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Qui est pour Jésus? Et pour l'homme à crier pour Jésus qui est avec joie écoutez, écoutez, écoutez, ainsi j'ai dirait de loin. Vous êtes là, vous êtes là. J'ai l'adorer. Il a ôté mes soucis.

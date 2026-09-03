@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/WGurkiq7e7wL/"
 duration_min: 70
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 This morning, I'm glad to announce you that Bishop is in his house. Please touch your feet and let's welcome the bishop. Give the Lord a shout and a clap. Hallelujah. Let's pray.

@@ -8,6 +8,8 @@ year: 2021
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Hallelujah. Hallelujah. Father, thank you for the opportunity. That we have in you. In the name of Jesus.

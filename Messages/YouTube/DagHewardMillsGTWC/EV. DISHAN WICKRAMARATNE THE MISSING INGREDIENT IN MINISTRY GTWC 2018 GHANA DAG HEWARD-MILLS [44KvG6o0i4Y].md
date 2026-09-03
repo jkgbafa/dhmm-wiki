@@ -8,6 +8,8 @@ year: 2018
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 No, no, no, no, no, no, no, no, no, no. I'm responding to his love. I know what I must do. Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah. I don't wanna fit in my mission.

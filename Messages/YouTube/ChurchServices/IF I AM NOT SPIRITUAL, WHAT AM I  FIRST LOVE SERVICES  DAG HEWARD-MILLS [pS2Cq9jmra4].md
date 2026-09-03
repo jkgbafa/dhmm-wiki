@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=pS2Cq9jmra4"
 duration_min: 170
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 Hallelujah let us pray heavenly father thank you for today thank you for your great blessing guide us by your spirit we pray let your will be done we thank you that you are present and that you are Le you are leading us and that you are guiding us thank you Lord for your blessing in Jesus name amen amen you may be seated are you excited to be here I am also excited to be here this morning this morning my subject is about spiritual men and Prophets again but the title of my message is if you

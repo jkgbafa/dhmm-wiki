@@ -8,6 +8,8 @@ year: 2015
 duration_min: 89
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 presence of the heathens that we may not be intimidated oh Lord Oh Lord Oh Lord Oh Lord we ask you for the power whoever that you are you don't have to just do any other thing but lift your voice and ask God for the power the power the power we are all expected to become Witnesses we are all expected to become Witnesses we are all expected to can witness it not a section not a fraction not some people but we are all you shall receive power you shall receive power you shall receive power you shall

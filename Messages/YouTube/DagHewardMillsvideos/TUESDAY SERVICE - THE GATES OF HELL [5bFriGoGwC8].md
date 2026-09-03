@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=5bFriGoGwC8"
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I met an old friend today in a cafe on the here to see him after all these years somehow did not seem strange we left and women in the Bauhaus the lively you too but I could tell leave with him nothing much I changed an invitation to a party was all he had to offer everyone will be there and all the Hagen even thing a beach at the time and he pee in the trash he said we're all out there is but I could tell one he was talking to was the old me looked a

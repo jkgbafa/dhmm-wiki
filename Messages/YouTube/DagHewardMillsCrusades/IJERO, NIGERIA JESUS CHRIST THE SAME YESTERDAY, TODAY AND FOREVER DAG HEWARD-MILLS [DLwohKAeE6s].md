@@ -8,6 +8,8 @@ duration_min: 100
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/IJERO, NIGERIA  JESUS CHRIST THE SAME YESTERDAY, TODAY AND FOREVER  DAG HEWARD-MILLS [DLwohKAeE6s]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Ready tonight in Japan. If you are ready tonight, so I said join me once again to all camps that I have to prepare our hearts and talk to receive what God has for us tonight. For our transgression, he was bruised for our beliefs. And we strike sweet. For our transgressions.

@@ -8,6 +8,8 @@ year: 2000
 duration_min: 176
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 um Genesis chapter 25 let's go to the second one Genesis chapter 25 and verse 20 now Isaac was 40 years old when he took Rebecca to wife the daughter of bethl the Syrian of padan Aram the sister to laan the Syrian and is intreated the Lord for his wife because she was Barren and the Lord was intreated and his wife conceived and the children struggled together within her and she said if it be so why am I thus now in today's world right we know that 20 40% of the reasons why people cannot have children

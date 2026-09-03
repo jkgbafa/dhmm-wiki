@@ -8,6 +8,8 @@ year: 2010
 duration_min: 112
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 Only Jesus the Lord He will leave the Lord and the end of the Lord He believed in the we are called to take a life to a world where seems to have been to raise a cause sharing life with one who's alone with a heart of heart of eating to the words of the life holy law as they do the law and the only when we believe I'm not looking behind me. I believe that I'm not paying to rest in you now. I know I'm making it. I'm made about breaking. Lord, I'm keeping my eyes on you.

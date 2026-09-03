@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Anointing", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring"]
 ---
 
 Now let me just give you one or two keys to doing attempting new things. First I gave you attempt great things for God. Then I said attempt greater works greater works than the works that Jesus did. Now I'm saying attempt new things because I said I will show you new things that you don't know. Jeremiah 33:3. Now these are the ways if you want to attempt something new in God. Number one, be open to new books. Yes. That you've never read before. Yeah. Wow. Second Kings chapter 22 verse 8. And Elilia the high priest said

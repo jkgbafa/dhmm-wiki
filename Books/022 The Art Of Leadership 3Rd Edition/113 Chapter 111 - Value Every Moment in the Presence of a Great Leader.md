@@ -4,6 +4,8 @@ book: "The Art Of Leadership 3Rd Edition"
 book_number: "022"
 chapter_number: 113
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Leadership"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/leadership"]
 ---
 
 ### Chapter 111\

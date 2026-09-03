@@ -4,6 +4,8 @@ book: "Name It Claim It Take It"
 book_number: "110"
 chapter_number: 30
 type: book
+topics: ["The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 ## Chapter 28

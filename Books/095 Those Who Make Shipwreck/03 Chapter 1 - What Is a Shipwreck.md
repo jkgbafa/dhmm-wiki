@@ -4,6 +4,8 @@ book: "Those Who Make Shipwreck"
 book_number: "095"
 chapter_number: 3
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ### Chapter 1\

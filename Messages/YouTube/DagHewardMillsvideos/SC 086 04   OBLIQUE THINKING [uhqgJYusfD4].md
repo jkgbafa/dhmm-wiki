@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=uhqgJYusfD4"
 duration_min: 201
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 i will let us make here three tabernacles one for thee one for moses one for elias while he yet speak behold a bright cloud overshadowed them and behold a voice out of the cloud who said this is my beloved this is my beloved son in whom i am well pleased hear ye him amen hear ye him and when the disciples heard it they fell on their face and were very afraid amen you see this scripture shows us how blessed we are that what god our what god wants us to do with our anointed person is

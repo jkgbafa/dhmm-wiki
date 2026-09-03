@@ -9,6 +9,8 @@ duration_min: 60
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/TWO DIMENSIONAL SHEPHERD BONSU, GHANA  DAG HEWARD-MILLS  2005 [qHcr1aw0nRk]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 That ever live, and that secret must be applied in megachurch too in a serious way. Hallelujah. You find out that Jacob was a man who knew that this world. You see, if you want to do well here, you are always going to need the two sides that balance powers and balance things out. Life is not made up of a very straightforward road that works just, but it has dimensions, and there are two big dimensions.

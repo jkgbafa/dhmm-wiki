@@ -9,6 +9,8 @@ duration_min: 6
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/RECAP BY BISHOP OGOE   WINDHOEK, NAMIBIA DAG HEWARD-MILLS  2016 [fKDLwPxwenY]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number three of where is the flock that was given thee? Wow. Are you ready to give yourself holy? Wow, you can see that. Let's go through these core areas that you are going to develop this year.

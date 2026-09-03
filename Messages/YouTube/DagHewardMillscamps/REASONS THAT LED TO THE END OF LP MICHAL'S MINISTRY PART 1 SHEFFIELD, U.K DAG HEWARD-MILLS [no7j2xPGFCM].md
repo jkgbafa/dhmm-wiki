@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=no7j2xPGFCM"
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring"]
 ---
 
 Welcome to track number 20 of Pastors of Thousand Sterile Nonproductive Scanty Uncillable Bleak Unproductive Alright now those who came forward to give their what do you call it? Those who came forward to give their uh came as missionaries. I will have a meeting with you after the service or after the camp, services after the camp. Okay, after the service for me, after this session, what you want? Alright, second Samuel chapter six.

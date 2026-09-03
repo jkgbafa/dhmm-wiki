@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3mqq/"
 duration_min: 55
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 We want to thank the Lord for bringing us to this part of the service. And I'm glad to announce to you that there's a bishop in the house. Hallelujah. And so it's time for the mega word. And the mega church members are ready.

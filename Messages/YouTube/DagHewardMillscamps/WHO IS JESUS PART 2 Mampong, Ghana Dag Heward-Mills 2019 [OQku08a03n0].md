@@ -9,6 +9,8 @@ duration_min: 133
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHO IS JESUS  PART 2  Mampong, Ghana Dag Heward-Mills 2019 [OQku08a03n0]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Amen. While we are still standing, I believe that we have to push in the message we have heard today and water it with prayer. Amen. And the first prayer I want us to pray is the reality that Jesus is the savior of the world. Yes.

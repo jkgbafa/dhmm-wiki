@@ -8,6 +8,8 @@ year: 2017
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 we are going deeper now Zechariah Chapter 8 now this is where we are moving prophetically into Zachariah now don't be worried about the Old Testament verses we are going to be looking at it's beautiful now again the word of the Lord of hosts came to me saying thus says the Lord of hosts I was jealous for Zion with great jealousy huh that says the Lord I'm returned unto Zion now God is coming back to you God is coming back to you God is coming back into your situation that's why God sent me here to speak

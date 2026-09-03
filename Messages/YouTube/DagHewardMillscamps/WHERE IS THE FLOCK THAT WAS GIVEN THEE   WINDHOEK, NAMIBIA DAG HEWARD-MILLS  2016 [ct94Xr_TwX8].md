@@ -8,6 +8,8 @@ year: 2016
 duration_min: 166
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number 12 of where is the flock that was given thee chapter 18 the question is where is the flock that was given thee pastors and now every single member the question is where is the flock that was given thee Exodus 18:21 moreover Thou shalt provide out of all the people able men such as fear God men of Truth hating covetousness and place such over them to be rulers of thousands rulers of hundreds rulers of 50s and rulers of tens amen now God's great family came out of Israel out of Egypt amen amen

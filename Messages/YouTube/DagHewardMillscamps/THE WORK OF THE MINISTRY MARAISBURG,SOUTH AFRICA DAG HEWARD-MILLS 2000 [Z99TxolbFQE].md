@@ -8,6 +8,8 @@ year: 2000
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 Welcome to track number 11, the work of the ministry. Have mercy on us in Jesus' name. Amen. Please be seated. I have the privilege.

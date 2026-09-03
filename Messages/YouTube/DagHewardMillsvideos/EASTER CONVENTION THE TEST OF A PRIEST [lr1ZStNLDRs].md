@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=lr1ZStNLDRs"
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 longer you get to take it off for you really we are all about you hallelujah this meetings about Jesus I know you didn't hear what I say that's why ma was very feeble I said this meeting is about Jesus hallelujah and we believe that tonight is going to draw us closer and closer to him and we're going to have an encounter with him amen well we want to give an offering tonight miracle offering hallelujah Abba miracle offering yeah yes yes ke- pay attention all right so every one of you take a good offering together a

@@ -8,6 +8,8 @@ year: 2018
 duration_min: 183
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 What on the adorable part of me at all me wanna pass me in? Yes, man, yes, you money oh yes you want to say one more yeah, you want to be a suit right now can you fall for him to fall come on yet yet oh shit was about you now came up and I think I'm mean that too much. What's the most woman? That will you name yours? Nano Makuma would be a big one.

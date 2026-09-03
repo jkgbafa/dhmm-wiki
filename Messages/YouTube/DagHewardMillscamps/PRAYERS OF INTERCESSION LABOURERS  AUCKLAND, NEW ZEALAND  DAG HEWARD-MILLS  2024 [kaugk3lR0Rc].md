@@ -8,6 +8,8 @@ year: 2024
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer", "Prayer/Intercession", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer", "topic/prayer/intercession", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 now before we finally end I want us to look at the prayers of he says praying with all prayers I want us to look at prayers of intercession prayers of intercession amen amen Ezekiel 22 and verse 30 number one an intercessor is a man in the gap yeah Ezekiel 22:30 I sought for a man among them that should make up the Hedge and stand in the gap before me for the land that I should not destroy it but I found none amen amen so what is intercession all right now I want the my nice big

@@ -8,6 +8,8 @@ year: 2017
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer"]
 ---
 
 pray pray pray my pray my prayer my pray might h come on lift your voice lift your voice and pray to God ask God for strength ask him for strength Jesus Jesus Jesus m in the name of the Lord Jesus Christ Hallelujah Hallelujah I said hallelujah amen wow now the verse that we are reading to pray with is the verse that Bishop oo shared with us Galatians 4: 19 my little children of whom I travil in birth again until Christ be formed in you and we are asking God to give us that strength to continue

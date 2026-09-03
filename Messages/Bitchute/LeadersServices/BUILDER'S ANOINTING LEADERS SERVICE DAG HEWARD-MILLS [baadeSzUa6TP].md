@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/baadeSzUa6TP/"
 duration_min: 61
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Leadership"]
+tags: ["topic/anointing", "topic/leadership"]
 ---
 
 We are reading Nehemiah chapter 4. It came to pass when Sambalad heard that we build the wall that he was rough. Can you find Nahemiah? Yes, yes. You found it.

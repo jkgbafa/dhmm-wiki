@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IEt1TD2sXoA"
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome. Let's welcome Bishop to bless us. Now one is what? Resistance and opposition. Number two is what?

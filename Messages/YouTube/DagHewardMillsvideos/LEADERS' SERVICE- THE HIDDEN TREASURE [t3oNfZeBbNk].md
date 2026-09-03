@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=t3oNfZeBbNk"
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Leadership"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/leadership"]
 ---
 
 all right how many way in this building this morning all right powerful and stupendous - pendous is an English word which means more than you expected and it means amazing everybody it means stupid means amazing gray and model you expected as Ali well I was saying this morning when Los Angeles the last two weeks it was an experience we went to Hollywood where they make filming and on the floor on the on the other Road they are star in their life like stars in the floor of the pavement and as you walk along the sand

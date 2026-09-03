@@ -8,6 +8,8 @@ year: 2010
 duration_min: 199
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 You must understand the anointing. How it is. One day I saw a certain man. He was going to look for a snake. The snake he was looking for.

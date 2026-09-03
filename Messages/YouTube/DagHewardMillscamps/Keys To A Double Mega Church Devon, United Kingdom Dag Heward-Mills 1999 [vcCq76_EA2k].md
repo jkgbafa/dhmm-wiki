@@ -8,6 +8,8 @@ year: 1999
 duration_min: 151
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 so now we are now getting into okay so I'm going to give you Keys H keys to a double mega church to double mega church double Mega all right amen amen principle number one keys and principles principle number one so now these are the keys to moving to a double Mega anointing cuz you need a double anointing for a double mega church amen you need a double anointing to become a missionary to go outside your own people oh I I I really pray that we'll be able to send somebody to Russia barus to Lebanon to

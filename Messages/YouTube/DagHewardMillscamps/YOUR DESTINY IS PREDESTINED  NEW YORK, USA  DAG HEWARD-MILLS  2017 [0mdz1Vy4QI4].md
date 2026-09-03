@@ -8,6 +8,8 @@ year: 2017
 duration_min: 67
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 are you excited now in this little session we just have a few minutes and we'll continue early in the morning as I said I want to pray for everybody amen and um so those who come early will be prayed for and those who don't come early I decided to do that way to eliminate those who are but I the reason why I want to pray for you is because prayer Works amen now God is good amen and God is blessing us mightly and we are going out of this place into our destiny of building Mountain

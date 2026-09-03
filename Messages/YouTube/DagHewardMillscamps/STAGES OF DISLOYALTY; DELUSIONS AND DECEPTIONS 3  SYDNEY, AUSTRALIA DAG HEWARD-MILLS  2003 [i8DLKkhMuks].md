@@ -8,6 +8,8 @@ year: 2003
 duration_min: 44
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 welcome to track number 11 of how to survive in Ephesus God had a plan he was saving and through so many people been added did you come to the church through who who brought you to church pastor kakra yeah my wife's brother brought this so so even my wife you see me meeting my wife was connected to Australia some years ago but nobody knew the reason because my wife's little brother I led him to Christ he's called kakra one day I'll send him here to come he's a prophet yeah he you see he was a

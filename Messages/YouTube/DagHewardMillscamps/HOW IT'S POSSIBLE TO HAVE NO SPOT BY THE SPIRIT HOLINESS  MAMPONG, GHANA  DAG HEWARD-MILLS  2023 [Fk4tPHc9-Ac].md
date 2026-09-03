@@ -8,6 +8,8 @@ year: 2023
 duration_min: 84
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 now I want to move on to the next important topic what is the theme of this camp meeting now it looks like when you say no spot uhhuh it's another area so what what it looks like is that it looks as though we can have only two types of people people with no sport but with wrinkles and then people with no wrinkles but with spots I don't know if you are getting what I'm trying to say because it looks like people who have no wrinkles which are like the young people they can have a lot

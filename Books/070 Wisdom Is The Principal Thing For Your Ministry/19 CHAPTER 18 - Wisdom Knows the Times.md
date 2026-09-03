@@ -4,6 +4,8 @@ book: "Wisdom Is The Principal Thing For Your Ministry"
 book_number: "070"
 chapter_number: 19
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Wisdom"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/wisdom"]
 ---
 
 ### CHAPTER 18\

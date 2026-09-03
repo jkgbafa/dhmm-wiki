@@ -4,6 +4,8 @@ book: "Victory Secrets"
 book_number: "032"
 chapter_number: 25
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Victory Secret No.24\

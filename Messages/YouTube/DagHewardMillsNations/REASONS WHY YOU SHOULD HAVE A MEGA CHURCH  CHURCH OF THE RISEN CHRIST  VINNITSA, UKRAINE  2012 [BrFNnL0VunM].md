@@ -8,6 +8,8 @@ year: 2012
 duration_min: 53
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Prayer"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/prayer"]
 ---
 
 let us pray father thank you for what you are doing today what a great blessing in the name of Jesus thank you dear Lord amen you may be seated this morning I am sharing with you about the mega church do I have a mega church book here uh Mega yes why don't I have a mega church book in Russian Ukraine okay all right I'm sharing with you about the mega church yeah everybody to um turn with me to Job chapter 8 verse seven do you have your Bible bies though thy end thy beginning was small

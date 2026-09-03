@@ -8,6 +8,8 @@ year: 2002
 duration_min: 43
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 for LIF and then I was sitting there the yard where the trucks were waiting for the car truck to get ready and there was this guy and he sat by me and I talked with him and I said to him sir do you believe in God he said me no of course not and I said he asked me do I I said yes he said where do you come from I said I come from Africa Ghana he said oh yes you do you must and I said and I said why why why do you say

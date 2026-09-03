@@ -4,6 +4,8 @@ book: "Can T You Do Just A Little Bit More"
 book_number: "054"
 chapter_number: 2
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 ###  CHAPTER 1\

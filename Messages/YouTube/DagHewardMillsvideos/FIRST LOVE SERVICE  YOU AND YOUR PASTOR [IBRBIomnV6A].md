@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IBRBIomnV6A"
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 you you wanna know why I really like Sunday morning I really wasn't fornicated never read my Bible and I never ever prayed at all but then I would say yeah that's my real bed be back before me that's why I'm there yeah free the night before Monday morning it's the time I'm gonna seek my lord we'd better step with us Sunday morning is the time I'm gonna walk with you I'm getting stronger breathe a lot that's why I really really like before do you wanna know how to spend my lovely born visitation invitation I remember

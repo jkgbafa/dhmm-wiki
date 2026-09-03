@@ -8,6 +8,8 @@ year: 2021
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/anointing", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Consider your ways for yeah oh to the mountain and bring the wood and build the house of God I will take pleasure I'll be glorified in it this is my will for you oh oh child I will build my house upon this rock and the gates of hell shall not prevail against it I will give you the keys of the kingdom of heaven and what you find on earth is found in heaven but will you build my church will you build my house will you be my nehemiah and build a house of God I will

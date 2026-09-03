@@ -4,6 +4,8 @@ book: "A Good General The Science Of Leadership"
 book_number: "023"
 chapter_number: 67
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ### Chapter 66\

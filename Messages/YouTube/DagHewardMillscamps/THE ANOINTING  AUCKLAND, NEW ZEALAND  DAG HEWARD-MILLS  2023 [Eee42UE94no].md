@@ -8,6 +8,8 @@ year: 2023
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 oh yes so open your heart to every missionary who is sent to bring you an anointing I believe that through Kenneth Haagen I Reed an anointing in 1988 I believe Kenneth haen was sent to me and how was he sent to me because he he opened to me the gates of the anointing to my life because God used him when I was praying and waiting on the Lord in 1988 to touch my life and I received the anointing I was praying in the middle of the night where's my book where's my book on the anointing

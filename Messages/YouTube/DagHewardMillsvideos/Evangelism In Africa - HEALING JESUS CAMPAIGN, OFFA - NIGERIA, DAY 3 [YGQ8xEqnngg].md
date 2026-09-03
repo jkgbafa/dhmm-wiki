@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=YGQ8xEqnngg"
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 in painting Oh a Oh oh yeah Oh Oh Oh Oh Oh thank you lady pot cider please put your hands together and appreciate just wonderful gifts of God hallelujah are you ready for what is coming your way tonight are you ready for what is coming your way tonight God began a great whack on the first night Alanya jacopo a work of healing our general is a waving Ebola and delivering IT specialist he continued yesterday what's the best wagon I know and it's built after tonight awesome work that's regularly and I believe great things are going

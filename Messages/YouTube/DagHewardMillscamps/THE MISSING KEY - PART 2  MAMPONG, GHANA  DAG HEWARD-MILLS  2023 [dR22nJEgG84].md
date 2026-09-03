@@ -8,6 +8,8 @@ year: 2023
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 lift your hands and put your hands on your eyes and ask for the spirit of Revelation Lord reveal reveal reveal reveal reveal open my eyes open my heart thank you holy spirit thank you Lord in the mighty name of Jesus we pray with Thanksgiving thank you in Jesus name amen am you may be seated now the missing key Luke 11:52 woe unto you lawyers for you have taken away the key of knowledge the what the key of knowledge and you entered not in yourself now turn with me to matth chapter 16 beautiful Verse 18 now

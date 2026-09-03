@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9ndUKQG5l7o"
 duration_min: 115
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Jesus I shall I'll be worried so you ready I'll be back in the loan did you hear that I'll be worried yes are you sure you are here short short keeping a bed of bed on my kieso I know yes are you sure you are here I come on yes so what's your back yes so what take a worry yes so what take a four what's your party lawyer lift up your two hands like this with it so what you have a body that's who I take a worry that's who I take a boy but take a back in the law that's who I take a party that's who I take a worry that's who I take the boy back in so I say that's you want to take the body that's who I take a worry that's who I take a boy I take a party that's who I take a body that's who I take a worry that's you want to take a boy I take a party do it like this come up to Jesus I shall we suit ya be as soon y'all be associated while you want your sooth while you want yes and rock for rocky shot yes lift up your two hands look to the heavens come on and shout Jesus while you want yes while you're so catching so that nobody Do you want more?

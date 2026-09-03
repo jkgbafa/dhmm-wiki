@@ -9,6 +9,8 @@ duration_min: 69
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/How You Can Achieve Excellence In Ministry Mampong, Ghana Dag Heward-Mills 2025 [hobrhPp453A]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now, now I want us to look at how you can achieve, you see, when you when God calls you. All right? When God calls you right there, there's a time that you have to do your part. Please open the doors so that the air comes in because when you come from outside, you'll be surprised and we'll close it after a few minutes just for fresh air. Are you cold? You're not cold. Okay. So let's open it a bit and then after we if you are cold you close it. If you are cold just close it.

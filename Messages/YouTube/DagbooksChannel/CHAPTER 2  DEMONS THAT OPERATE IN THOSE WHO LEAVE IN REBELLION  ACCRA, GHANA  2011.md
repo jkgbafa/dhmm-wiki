@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2011
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances"]
 ---
 
 demons that operate in those who live. Chapter two. Number one. Many times when people leave things, they live in rebellion. So my subject is what are the evil spirits? operate in people leave. Now the quintessential lever, the best example of a of a lever is no other person than Lucifer who left the service of Almighty God and became an enemy enemy of God. Amen. He said in Isaiah, I will ascend. In Isaiah 14:12, I will ascend. Amen. above the heights of the clouds. And I will exalt myself and my throne above the stars of God

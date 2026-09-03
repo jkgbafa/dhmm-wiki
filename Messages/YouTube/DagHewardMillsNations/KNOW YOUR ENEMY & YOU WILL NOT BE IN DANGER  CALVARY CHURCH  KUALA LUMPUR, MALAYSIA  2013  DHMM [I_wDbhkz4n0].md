@@ -8,6 +8,8 @@ year: 2013
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Heat. Heat. Lord, oh Lord, oh Lord, oh Lord remember Lord Lord meal. Heat. Heat. Hallelujah. Fly away. Let's show our appreciation again for this marvelous display of divine talent that we were blessed with tonight. Amen. Thank you so much. Thank you so much. This week is a week of unusual supernatural blessing, enrichment, empowerment, worship and the display and revelation of the glory of God. I was just thinking not only is this excellent, beautiful building and the program a kind of symbolic uh display of God's glory, we it feels like almost being in heaven here. It's

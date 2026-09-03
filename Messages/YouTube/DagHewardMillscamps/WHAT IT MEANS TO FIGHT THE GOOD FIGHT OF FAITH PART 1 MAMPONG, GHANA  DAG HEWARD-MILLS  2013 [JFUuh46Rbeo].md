@@ -8,6 +8,8 @@ year: 2013
 duration_min: 148
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/faith", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 hallelujah hallelujah father thank you for this opportunity today we ask you to guide us by the Holy Spirit into all truth and all of your will in Jesus name amen amen you may be seated how many of you have never been to a camp before can I see your hand please you've never been for a camp raise your hand please very important stand up stand up stand up I want to see you this is your first time at a camp wonderful very good is this Deo Deo Deo and where's your friend um y y YY

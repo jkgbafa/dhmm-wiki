@@ -8,6 +8,8 @@ year: 2009
 duration_min: 76
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I see a dark cloud coming my way, and I know it's gonna try to rain on me. They're almost here, but I can't say I'm just as happy as can be just because I've got Jesus on my mind just because I've got Jesus on my mind the situation might be so awful dream, but that's when I just up and get my mind on him before I know it, everything is all right. It's just because I've been Jesus on my mind. I see a giant riding my way. But I must say I'm not the least bit afraid of him.

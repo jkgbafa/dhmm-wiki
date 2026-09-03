@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ARt3lCaEJtM"
 duration_min: 193
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 are you happy that you are in church um I've been asking myself this question that if were all to be in the Garden of Eden will we be worshiping like this I don't know are you there now Genesis 4:26 the first time prayer was introduced in the Bible first ever time prayer was introduced in the Bible was in Genesis 4:26 and to Seth to him also there was born a son and he called his name Enos everybody say Enos not the other one this is Enos say in us then look at it then began men

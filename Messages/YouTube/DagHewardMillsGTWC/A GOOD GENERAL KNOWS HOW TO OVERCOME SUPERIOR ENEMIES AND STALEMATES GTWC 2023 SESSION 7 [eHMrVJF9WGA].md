@@ -8,6 +8,8 @@ year: 2023
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Leadership", "Leadership/Generals and History Makers", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/leadership", "topic/leadership/generals-and-history-makers", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh yes, a good general knows how to overcome stalemates. How many have fought with something and it has gotten stuck halfway, halfway? Everybody is half, half, it's not moving, you are also not moving. Do you want a key as a good general? How to overcome stalemates.

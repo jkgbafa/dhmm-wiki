@@ -9,6 +9,8 @@ duration_min: 134
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HOW YOU CAN BE FILLED WITH THE HOLY SPIRIT   WINDHOEK, NAMIBIA DAG HEWARD-MILLS  2016 [ZHnElp3haG4]]]"
+topics: ["Anointing", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/the-holy-spirit"]
 ---
 
 Wow. Are you enjoying Ida's music? Fantastic. Now, before you can give anything to anybody, you need to be filled with the Holy Spirit. Amen.

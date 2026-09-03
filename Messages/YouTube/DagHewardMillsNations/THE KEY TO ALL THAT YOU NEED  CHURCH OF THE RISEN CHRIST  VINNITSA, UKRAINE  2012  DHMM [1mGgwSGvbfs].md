@@ -8,6 +8,8 @@ year: 2012
 duration_min: 55
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 hallelujah hallelujah today I'm going to show you the great key to everything that you need in your life amen amen and this key I'm going to share with you is the most precious key to me and it is a vision that God gave to King David amen amen how many have watched Superman Superman Superman Superman how about Batman Batman Batman Batman how about Spiderman have you watched Spider-Man before nobody on the back has watched Spider-Man before how many have watched Rambo Rambo Rambo Rambo R how many have watch Terminator do you know where all these

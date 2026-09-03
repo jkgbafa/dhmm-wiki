@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=PFQgqT4bg5c"
 duration_min: 55
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation"]
 ---
 
 Heavenly Father thank you for tonight thank you for your blessing for guiding us to this point we give you thanks and we give you praise in Jesus name Amen you may be seated tonight I want to share with you a short Bible message on salvation amen and the title of my message is choose number one God Edge's you to choose between blessing and cursing throughout the Bible God offers us a choice and the first choice is God offers you to choose between a blessing and a curse amen it says I call heaven and earth to

@@ -9,6 +9,8 @@ duration_min: 61
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EFFECTS OF THE HOLY SPIRIT   LOVE FOR GOD PT 2  CAPE COAST, GHANA  DAG HEWARD-MILLS  1999 [RF2b5HxhE_I]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit"]
 ---
 
 See some of these things, otherwise, I question the tongue you are speaking. Amen. If you claim to be anointed after three months, after six months, after a year, if I do not see the long-term effect, I question whether you are really a person filled with the Holy Spirit or not. I remember once when we first had a dog in our house. And to start backing.

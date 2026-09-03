@@ -4,6 +4,8 @@ book: "The Megachurch 2Nd Ed"
 book_number: "010"
 chapter_number: 2
 type: book
+topics: ["Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring", "Prayer"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring", "topic/prayer"]
 ---
 
 ### Chapter 1\

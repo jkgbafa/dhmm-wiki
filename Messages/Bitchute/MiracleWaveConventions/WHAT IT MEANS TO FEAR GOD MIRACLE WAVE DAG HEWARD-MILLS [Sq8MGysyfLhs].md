@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/Sq8MGysyfLhs/"
 duration_min: 182
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 I'm an evil to our boom to me say what you are being to me wobo I want to be wabu and oh so you waboo but today from this I was so and I move as I see a reminder and you're now so dear oh one yeah someone and to be an him so I've got to get anime a dear time and what's a sister and need there was a say I see every more yeah be joke and you are now so dear one yeah someone and to mean it's a dinner but then you know I want you to be wobble and oh if you need it to be wobble I am so big what's the name of the Thank you, Jesus.

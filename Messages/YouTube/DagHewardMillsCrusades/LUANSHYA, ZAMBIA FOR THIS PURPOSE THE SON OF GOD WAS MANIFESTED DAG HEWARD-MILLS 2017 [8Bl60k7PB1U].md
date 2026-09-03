@@ -8,6 +8,8 @@ year: 2017
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah. Namaka na macana F your moi chitina montima la fon chitilla Nami Sumbo no Tim Nami Sumboushi Oh ma chushi Oh ma loin pour sous shot Nami Lumba l'oltima F your one chitina lift up your right hand say one chitina but then one chitilla Notre May Sumbo Fiona Fukama E de me she can so moi lit moi moi fouilles not me lift up your right hand and say Ya la F your one chitilla buttons F your one chitilla Notre Mola Ni bonus Lift up your right hand and say amen to all the polla Pushina so

@@ -8,6 +8,8 @@ year: 2000
 duration_min: 37
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 father we thank you for this morning thank you for your Holy Word we know Lord Jesus that you are with us many strings through us blessing us and teaching us your will we ask a lot for the spirit of revelation and understanding today in Jesus name Amen you may be seated in the presence of the Lord this morning I want you to turn with me to Luke chapter 15 and we want to continue studying this important illustration story Jesus gave it to us and we will not read the whole passage this time because we read

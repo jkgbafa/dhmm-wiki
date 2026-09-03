@@ -4,6 +4,8 @@ book: "Am I Good For Nothing"
 book_number: "113"
 chapter_number: 5
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ### CHAPTER 4\

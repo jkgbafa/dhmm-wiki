@@ -8,6 +8,8 @@ year: 2014
 duration_min: 272
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Salvation", "Salvation/Repentance", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Call of God"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/salvation", "topic/salvation/repentance", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-call-of-god"]
 ---
 
 Welcome to the wonderful city of Yamosukro, the official capital of the Republic of Lacôte. Located in the heart of the Ivory Coast, Yamasucro is the fourth largest city in the country and the political capital, whereas Abidjan is the country's economic capital. Yamasukro is a beautiful and well planned city with an expansive road network linking every corner of the city. And serving in a number of ministerial positions in the French government. Under Hufoigny's visionary leadership, La Côte d'Ivoire prospered economically.

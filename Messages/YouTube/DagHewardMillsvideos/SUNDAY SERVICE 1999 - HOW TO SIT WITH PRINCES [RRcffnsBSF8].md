@@ -8,6 +8,8 @@ year: 1999
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 don't lick my hands at lick my lick my hair lick my pan lick my head lick my pack oh are you lifting your hands lick my head with my head with my head and you maybe think that in the presence of the Lord we have a quite a couple of announcements to make so if you can let ladies and gentlemen lend me your ears I've come to give announcements but not to preach how many are here for the first answer is the first time you are worshiping with us in this beautiful cathedral give us a

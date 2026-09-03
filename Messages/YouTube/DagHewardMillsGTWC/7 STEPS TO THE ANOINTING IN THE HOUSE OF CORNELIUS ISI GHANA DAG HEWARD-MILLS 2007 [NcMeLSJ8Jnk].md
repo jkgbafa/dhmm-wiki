@@ -8,6 +8,8 @@ year: 2007
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Prayer", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/prayer", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 The Lord is my shepherd and I nothing. He shall feed me in the green pasture, and leads me for beside water. He shall restore my soul and lead me in the path of righteousness for his name. Yea, though I walk through the valley of the shadow of death, I will fear no evil, for thou art with me, thy road and thy stand on me, and thou shall prepare a table before me in the present of mine enemy. Thou has anointed my head with oil, and my cup shall be full.

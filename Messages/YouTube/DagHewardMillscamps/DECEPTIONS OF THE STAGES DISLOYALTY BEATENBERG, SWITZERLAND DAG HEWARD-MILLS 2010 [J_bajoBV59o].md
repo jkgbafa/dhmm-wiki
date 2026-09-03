@@ -9,6 +9,8 @@ duration_min: 94
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/DECEPTIONS OF THE STAGES DISLOYALTY    BEATENBERG, SWITZERLAND  DAG HEWARD-MILLS  2010 [J_bajoBV59o]]]"
+topics: ["Loyalty and Disloyalty", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to Frank number 10 of advanced more faithful, more dependable, more reliable, more that we can trust in time of fire, in time of storm, in time of good and in time of bad. That is how many would like to marry somebody who will be faithful to you in prosperity and adversity, or you like to marry somebody who'll be faithful to you when things are good, and when things are not good, the person will drop you on the way. Amen. Are you listening to me? Alright.

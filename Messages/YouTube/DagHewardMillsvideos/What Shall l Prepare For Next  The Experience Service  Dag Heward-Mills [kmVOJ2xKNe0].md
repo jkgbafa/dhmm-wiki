@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=kmVOJ2xKNe0"
 duration_min: 213
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 the Bible says that my house shall be called The House of Prayer I want us to pray look at the scripture in Proverbs chapter 8 verse 17. the Bible says I love them that love me and those that seek me Ellie shall find me Hallelujah I love them that love me who are the people who love the Lord and the Bible tells us exactly the group that love God see those that seek me early Hallelujah we want to pray that God will give us a desire for him a longing for him the Bible says that

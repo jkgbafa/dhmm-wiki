@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_mpRwFVhzmQ"
 duration_min: 183
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Jesus say power Jesus Jesus power power Jesus power power power to Lola to the Lola Hallelujah I said Hallelujah Can you help me give Jesus a shout Hallelujah you are welcome to the second night of Healing Jesus campaign in Rundu Amen if you are blessed turn to your neighbor and say neighbor I'm too blessed to be here Hallelujah Well I want to inform you that you are about to experience a more powerful night than yesterday Jesus Amen Well tonight before we go any further Masu Ganina come out to Kiki I want to acknowledge um someone very important to go he came all the way from Ventukund to grace this occasion.

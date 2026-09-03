@@ -4,6 +4,8 @@ book: "The Determinants"
 book_number: "052"
 chapter_number: 3
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 ### Chapter 2\

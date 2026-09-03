@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uc1p5/"
 duration_min: 80
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 Blessed in the name of the Lord Blessed be the name of the Lord Blessed be the name of the Lord most glory to the name of the Lord Glory to the name of the Lord Glory to the name of the Lord Glory to the name of the Lord Most High Mount High Glory to the name of the Lord A Glory to the name of the Lord Glory to the name of the Lord Sing with the smile holy is the name holy is the name of the Lord come on holy is the name of the Lord

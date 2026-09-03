@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2019
 source: "autocaption"
+topics: ["Anointing", "Church Growth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Deliverance"]
+tags: ["topic/anointing", "topic/church-growth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance"]
 ---
 
 How to measure church growth. Yes. How to measure church growth, right? So, um church growth must be measured because when you are dealing with um God, it is in your interest, are you with me? to tell the truth. Amen. And it is it is in your interest to um know what you are really dealing with. Amen. Amen. Now, if you look at Joshua chapter 8, we can start with Joshua chapter 7. He said, "And they returned to Joshua and said to him, let not all the people go up, but let about two or 3,000 men.

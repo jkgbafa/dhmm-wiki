@@ -9,6 +9,8 @@ duration_min: 26
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SONG MINISTRATION   GENEVA, SWITZERLAND DAG HEWARD-MILLS  2016 [dfIvyq8OWcU]]]"
+topics: ["Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 Welcome to track number four of Sterry Love Go into all the world and preach the gospel until your life is done if you love me, obey the Great Commission, yeah. Church is everywhere in every town, every province, every distinct Europe shall be safe, but tell me how long is it gonna take for you to obey me? I have a feeling that I'm waiting in vain for you to do my will. Because your mind is on other things. So I have been thinking to myself, it seems I'm wasting time on you.

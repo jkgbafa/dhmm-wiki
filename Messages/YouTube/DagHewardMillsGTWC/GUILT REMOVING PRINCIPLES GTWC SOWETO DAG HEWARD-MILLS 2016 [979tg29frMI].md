@@ -9,6 +9,8 @@ duration_min: 130
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/GUILT REMOVING PRINCIPLES  GTWC SOWETO  DAG HEWARD-MILLS  2016 [979tg29frMI]]]"
+topics: ["Ministry and Pastoring", "The Call of God", "The Call of God/Responding to the Call", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 My Lord and my God. I can't believe it. I can't believe you die for peace. God is sacred. And Lord in return.

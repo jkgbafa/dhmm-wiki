@@ -8,6 +8,8 @@ year: 1997
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number nine of loyalty in the mega church move on we are at the camp we are sharing about keys to how to become a successful Shepherd isn't it keys to shepher oral success now notice that if you didn't have these Keys before now that you have the keys you are more liable Amen to the Judgment of almighty God than if you didn't have them now that you have them you are supposed to do something with them amen what's the first key the key of what Mega Harvest amen and under that key we

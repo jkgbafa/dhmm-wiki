@@ -8,6 +8,8 @@ year: 2018
 duration_min: 136
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/loyalty-and-disloyalty", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 Thus say at the Lord Consider your ways for yeah go up to the mountain and bring the wood and build the house of God I will take pleasure I'll be glorified in it this is my will for you child I will build my house upon this rock the gates of hell shall not prevail against it I will give you the keys of the kingdom heaven what you find on earth is bound in heaven will you build my church will you build my house will you be like Nehemiah and build the house of God say I

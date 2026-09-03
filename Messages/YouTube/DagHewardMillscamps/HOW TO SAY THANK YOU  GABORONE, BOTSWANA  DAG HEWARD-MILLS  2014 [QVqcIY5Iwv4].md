@@ -8,6 +8,8 @@ year: 2014
 duration_min: 38
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 tell them even if they don't believe you tell them even if they don't receive you tell them for me please tell them for me tell them that I love them and I came to let them know tell them even if they don't believe you just tell them even if they don't receive you tell them for me please tell them for me tell them that I love them and I came to let them know though it seems you are forsaken just tell them seem your heart is Shen tell them for me please tell them for me

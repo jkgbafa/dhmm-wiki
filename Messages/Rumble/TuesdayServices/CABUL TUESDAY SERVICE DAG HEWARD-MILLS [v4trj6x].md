@@ -7,6 +7,8 @@ url: "https://rumble.com/v4trj6x/"
 duration_min: 90
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah. Lift your hands and ask God to speak to you tonight. Father, thank you for your blessing. Thank you for your guidance. Thank you for your help in all that we do.

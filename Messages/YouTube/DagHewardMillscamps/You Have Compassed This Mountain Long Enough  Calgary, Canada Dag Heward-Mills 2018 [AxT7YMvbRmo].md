@@ -8,6 +8,8 @@ year: 2018
 duration_min: 124
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 oh God I want to love the way you do I want the god kind of love I want to feel this love forever I want to love that never fail oh Jesus I want my love to last M I want my love to go on and on and on and on and on I I want something that is lasting I don't want the sun to stop shining oh my love Lord I am married now and I want my love to last I want to love and be loved for always when the years have gone by

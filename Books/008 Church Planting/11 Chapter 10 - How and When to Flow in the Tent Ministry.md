@@ -4,6 +4,8 @@ book: "Church Planting"
 book_number: "008"
 chapter_number: 11
 type: book
+topics: ["Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Chapter 10\

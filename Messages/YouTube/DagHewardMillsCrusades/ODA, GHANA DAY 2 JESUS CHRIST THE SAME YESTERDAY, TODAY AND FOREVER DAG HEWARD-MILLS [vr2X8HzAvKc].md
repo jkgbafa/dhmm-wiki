@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=vr2X8HzAvKc"
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/The New Birth", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/the-new-birth", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Let's put our hands together. And welcome Vivali to prepare our hearts to receive what God has for us tonight. Yeah, boy, and some yes here, yes, sister John Tina. Hallelujah. Hallelujah.

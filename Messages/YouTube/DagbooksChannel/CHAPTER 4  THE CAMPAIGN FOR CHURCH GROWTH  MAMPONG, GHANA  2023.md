@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Church Growth"]
+tags: ["topic/church-growth"]
 ---
 
 Now in this second session I want to talk to you about what I call the campaign for church enlargement. The campaign for enlargement. Amen. 1 Corinthians chapter 16 and verse 9. It says for a great door and effectual is open unto me. That is Paul saying this in the ministry. But there are many adversaries. Amen. Amen. It says, "A great door and effectual is opened unto me and there are many adversaries." Many. Now a campaign is an important activity. All right. A campaign is a systematic. Systematic. Everybody say systematic. Systematic. There's a systematic aggressive. Everybody

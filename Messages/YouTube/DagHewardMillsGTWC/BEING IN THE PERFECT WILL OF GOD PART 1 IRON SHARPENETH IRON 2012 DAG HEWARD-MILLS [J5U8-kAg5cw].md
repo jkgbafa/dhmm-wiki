@@ -8,6 +8,8 @@ year: 2012
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 Take up your cross and follow Jesus Take up your cross every day don't be ashamed Say that you know him count a cross and take up your cross follow him oh take up your cross oh yes and follow Jesus Why don't you take up your cross oh every day and don't be ashamed to say that you know him count the cost and take up your cross follow him oh what are you doing for your keys have you freely given everything to the one who gave his life for you and don't to be satisfied just to know he's the one who will save your soul have you forgotten what you need to do what you need to do just take up your cross oh yeah and follow Jesus my brother take up your cross oh don't be ashamed say that you don't count the cause and take up your cross follow him and there are times it seems like the road is alone and there are times we feel like we cannot no more but we've got to take up our cross and follow Jesus we've got to take up the cross oh yes every day don't be ashamed say that you know him say that you know him count of cost and take up your cross follow him I'll sing it one more time take up your cross oh yes follow Jesus I want to take up my cross oh yes I do follow every day I won't be ashamed oh no to say that I know him oh yeah I will count the cross take up my cross you count your cross take up your cross count the cross take up your cross follow me clap your hands for either God bless you Hallelujah.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=csYbuH0XvxI"
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you sent your word to heal us you sent your love andace how can I re you oh Lord how kind you are you s your word to hear us and you your love and peace how can I re you oh Lord how kind you are your mercy flows from my th seeking to save my soul when I was yet in sin you came and die for me my burden was so heavy I could not find no race but Jesus you came and you said me free I give you all the bre because your word toal

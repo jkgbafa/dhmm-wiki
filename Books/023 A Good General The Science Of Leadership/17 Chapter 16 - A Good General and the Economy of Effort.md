@@ -4,6 +4,8 @@ book: "A Good General The Science Of Leadership"
 book_number: "023"
 chapter_number: 17
 type: book
+topics: ["Church Growth", "Church Growth/Church Planting", "Leadership", "Leadership/Generals and History Makers", "Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/leadership", "topic/leadership/generals-and-history-makers", "topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 ### Chapter 16\

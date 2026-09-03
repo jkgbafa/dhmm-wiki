@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uc1h8/"
 duration_min: 66
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/faith", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Are you excited to be in the house of the Lord? I said, Are you excited to be here? Amen. This morning, I believe that the power of God is here. The presence of God is here.

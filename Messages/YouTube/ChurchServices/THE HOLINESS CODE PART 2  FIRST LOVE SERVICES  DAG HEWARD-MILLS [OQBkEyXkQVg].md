@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=OQBkEyXkQVg"
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 when the spirit tries to move you hit the call and when the enemy tries to confuse you you got to build a holy wall cuz the good Lord is watching to see if we are listening to his word and there is no one more disappointed if we act like we haven't heard you got to eat the call Brother you got to hit the call Sister everybody want and all H the call you got to hit the call Brother you got to hit the call Sister everybody one and all hit the call and the faith is

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=V5JcHGBHDi8"
 duration_min: 253
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Merci. Comme vous le constatez ce soir. C'est soirée à un cachet particulier. Et je vous demanderai encore de manifester votre joie plus que ça. S'il vous plaît.

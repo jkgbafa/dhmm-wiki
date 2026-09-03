@@ -9,6 +9,8 @@ duration_min: 108
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EVANGELISM AND THE ANOINTING  ELMINA, GHANA  DAG HEWARD-MILLS  2006 [z_EEV_nixZI]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Right, right. Now listen, listen carefully, okay? I want us to say I I felt something in my spirit that is gonna happen when you go back, a mistake. And so I want to tell you how to overcome that mistake. When you go back, what is gonna happen is that the octopus spirit of the octopus will be reduced to the spirit of um giraffe, or even if you don't take the spirit of a monkey, in other words, two legs or four now.

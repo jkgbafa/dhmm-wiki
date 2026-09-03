@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hUMAa1QPmEk"
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring"]
 ---
 
 the next topic is we are doing the works of Jesus how many are going to do the works of Jesus how to handle Judas now if you are following Jesus and you are doing The Works of Jesus as a good leader one of the things you need to have is the ability to handle Judas Iscariot amen amen if you read this book on leaders and loyalty you see a scripture in proverbs 30 verse 29 31 it says there are three things that go well amen amen right and the last one is a lion which is

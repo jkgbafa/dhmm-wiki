@@ -8,6 +8,8 @@ year: 2017
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/anointing", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 How to identify anointed people Wow! Are you here or are you leaving? It seems we will finish soon, but we are still wondering how you can know if someone is anointed since you cannot see the anointing. Amen. Luke 7:18, verse 19. You are using the criteria of Jesus Christ. Amen. When they asked, "Are you the Messiah ?" Gorgeous. The Messiah means the most anointed person. Yes. How can you tell if someone is out? When they asked Jesus if he was anointed, he sent back a message. He told Jean-Baptiste that blind people can see. The lame

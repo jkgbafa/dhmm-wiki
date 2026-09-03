@@ -3,6 +3,8 @@ title: "CHAPTER 3  TEN TYPES OF FATHERS  CONAKRY, GUINEA  DAG HEWARD-MILLS"
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 There are 10, I'm going to give you 10 kinds of father. Your heavenly father. How many know the heavenly Father who is in heaven? Number 2, your father in Christ. Please take ours . The one who brought you here leads you to Jesus. Alleluia. Recently, I was on a crusade somewhere and a young man came up to me and said, "Pastor, please , you must preach your best message." I said, "But why did I have to preach well?" He said, "Where you're going to have this crusade, when I was 18, you came to preach there.

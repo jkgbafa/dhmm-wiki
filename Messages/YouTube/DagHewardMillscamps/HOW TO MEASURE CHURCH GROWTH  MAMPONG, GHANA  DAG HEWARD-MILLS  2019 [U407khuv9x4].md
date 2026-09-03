@@ -8,6 +8,8 @@ year: 2019
 duration_min: 179
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Church Growth", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/church-growth", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 there's energy there's great expectation we are already being blessed we are already being fed things are changing in our Ministries our churches are changing color so your hand clap is not inappropriate and the loudness thereof is not inappropriate adding a little shout will spice it up hallelujah hallelujah what a blessing what a blessing if you had all the money you would not be able to pay the gate fee to such an anointing said seminar hamatan Bible seminar and we want to show our appreciation to God for the life of our prophets truly the prophets of

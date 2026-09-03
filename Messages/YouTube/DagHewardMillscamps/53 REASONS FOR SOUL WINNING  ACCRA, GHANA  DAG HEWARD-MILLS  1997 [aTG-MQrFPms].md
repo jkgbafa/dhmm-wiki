@@ -9,6 +9,8 @@ duration_min: 15
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/53 REASONS FOR SOUL WINNING ACCRA, GHANA DAG HEWARD-MILLS 1997 [aTG-MQrFPms]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism"]
 ---
 
 welcome to track number one of loyalty and the mega church accept it know that the son of man is come to seek and to save that which is lost we have to begin to seek them out we have to begin to go to their houses we have to begin to organize our members organize our Ministries and say look you know this why we are here it's it's true that we are here to Asher people to sit down but praise the Lord Jesus came to seek to save that which was Lord we also have come not

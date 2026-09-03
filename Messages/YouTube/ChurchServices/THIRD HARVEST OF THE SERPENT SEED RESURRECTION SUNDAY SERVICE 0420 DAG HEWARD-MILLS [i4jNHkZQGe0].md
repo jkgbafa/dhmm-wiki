@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=i4jNHkZQGe0"
 duration_min: 224
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Marriage and Family", "Marriage and Family/Children and Parenting", "Marriage and Family/Sexuality and Purity", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/marriage-and-family/sexuality-and-purity", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 The Son promised us that he is going to die. He's going to go into the grave, and in three days, he will be resurrected. And today is the day we are celebrating the resurrection of Jesus Christ. We want to say thank you. We want to appreciate you.

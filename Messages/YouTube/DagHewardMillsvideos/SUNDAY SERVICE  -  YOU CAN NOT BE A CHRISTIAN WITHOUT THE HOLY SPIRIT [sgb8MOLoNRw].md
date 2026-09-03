@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=sgb8MOLoNRw"
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 without the have a vision let me have vision from the spirit hell anyone with the litter always show me that you're the start and the end zombie and and everything I knew remind me of my love for you oh he's behind love but many are in meetup this Allah teach me how to give what it's are you kidding that we learn me can let me work let me work let me work within they're always showing that your heart you're the start and see and darling then everything I do remind me of my love for you

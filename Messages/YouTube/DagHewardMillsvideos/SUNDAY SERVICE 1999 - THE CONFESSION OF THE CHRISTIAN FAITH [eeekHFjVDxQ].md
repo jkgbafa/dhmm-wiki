@@ -8,6 +8,8 @@ year: 1999
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/faith", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 oh the Sauter praise give him a star are you excited to be in the house of the Lord I said are you excited to be here amen this morning I believe that the power of God is here the presence of God is here and you are also here and I know that only good things will happen to you I said only good things will happen to you give them or another shout of brain you have broken the chain that held a copy so you have broken the chain and use the audio for all your enemies

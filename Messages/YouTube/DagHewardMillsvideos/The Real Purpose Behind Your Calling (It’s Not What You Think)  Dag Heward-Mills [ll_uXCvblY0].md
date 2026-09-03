@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ll_uXCvblY0"
 duration_min: 36
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 One of the only ways in which something good can happen to you is if God wipes away your sin. You know, if you are not aware of sin in your life, it is because God has not revealed it to you. I'm sure that if God reveals your sins to you, what what you've done wrong, you'll be so surprised. The reason for things I've been asking myself, why am why why am I why what is the purpose of my calling? Not that am I called or not or why, but in the calling, what is the purpose?

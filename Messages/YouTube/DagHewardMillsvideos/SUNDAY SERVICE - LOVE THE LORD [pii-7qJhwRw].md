@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=pii-7qJhwRw"
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Salvation", "Salvation/Repentance", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/salvation", "topic/salvation/repentance", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 if anything fun Oh now Oh ah Hey you Oh haha Oh Oh ah the Ballu you hallelujah hallelujah hallelujah mr. hunter thank God for a wonderful Sunday ball fell Sunday over here what a blessing it is to being in the house of the Lord thank you Jesus done a great thing for us we are excited to be here this very first Sunday night Katrina what a great blessing it is to know you to love you we like you we choose you we praise you thank you in the name of Jean amen you may be seated

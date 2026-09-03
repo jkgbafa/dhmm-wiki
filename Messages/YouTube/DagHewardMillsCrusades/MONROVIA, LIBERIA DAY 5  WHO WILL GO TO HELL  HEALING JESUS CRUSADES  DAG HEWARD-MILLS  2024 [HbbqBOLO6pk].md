@@ -8,6 +8,8 @@ year: 2024
 duration_min: 138
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 and now I want you to prepare yourself for the powerful music Ministry of sister Jo you y your hand your hand C tell your nebor tell your neighbor if you get everything everything and you not get Jesus you not getes Jesus stand up stand up stand up today way if I G all this this so one word and I lose Jesus I lost everything I jesus I have everything he's more precious than anything say I have Jesus I have Jesus I have Jesus if I have Jesus I have everything oh Jesus my King Jesus is

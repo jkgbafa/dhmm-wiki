@@ -8,6 +8,8 @@ year: 2007
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 we want to look at poilo testings what are the different kinds of tests that you should expect so as we go through all these different types of tests you're going to be well prepared Amen to to meet them because you know that there are all different things that are in the Bible about the way God deals with his servants amen amen are you there yeah okay now um Second Corinthians the first test poilo test is precious and we are going through this when we finish the camp I mean as far as I'm my section will

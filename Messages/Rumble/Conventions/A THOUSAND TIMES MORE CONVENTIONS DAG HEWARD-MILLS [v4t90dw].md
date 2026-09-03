@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t90dw/"
 duration_min: 145
 source: "whisper"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Do you have me on your mind? When you climb upon that sow me with her life while I was saved, Savior. Redeemer, redeem my heart again, redeem, redeem my heart again, say you familiar with my witness. The next answer is so important as we think about Easter. Redeem.

@@ -8,6 +8,8 @@ year: 2006
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 we thank you Lord and everyone said amen amen all right you may be seated right who are those who are here today you are from where universities poly Technics and what else NTC how many are here from the universities raise up your hand let me see okay poly Technics can I see NTC can I see all right uh what else that's about it who how many here finished school huh Lagos International okay any other International people here wow okay how many here are not ghanians okay very good why why are you at the camp come

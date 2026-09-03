@@ -8,6 +8,8 @@ year: 2001
 duration_min: 59
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Intercession"]
+tags: ["topic/prayer", "topic/prayer/intercession"]
 ---
 
 Welcome to track number 13 of Victory in Pegamos. Now the next thing is you must engage yourself in traveling prayer. It's a new point. Learn how to do travailing prayer. Traveling.

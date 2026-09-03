@@ -4,6 +4,8 @@ book: "Those Who Are Mad"
 book_number: "112"
 chapter_number: 21
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 ### CHAPTER 19\

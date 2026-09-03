@@ -8,6 +8,8 @@ year: 2015
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 I want to feel your presence I need to know your power feel me out with more of you I love to see your glory I want to know your so would you please come and feel this place I keep press from you cover my life you break down a new from above I need your pres today please come and show me the way show down make more and more like Jesus have your way so that the world may see you are the part I am just the so me sh into what you want me I'll

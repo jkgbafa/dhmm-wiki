@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=gP-nrvuguXM"
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 - we all across the land it's a free country come on Emma its Louie once again once again once again don't open let's go where we go love lift up your hands father thank you so much for your great presence here thank you Lord for your power we thank you for your message Lord for taking me and bringing me back home oh it's your mercy Lord thank you for your wonderful people that are here today to receive your word thank you for a great blessing for this morning for tonight at the miracle service thank you

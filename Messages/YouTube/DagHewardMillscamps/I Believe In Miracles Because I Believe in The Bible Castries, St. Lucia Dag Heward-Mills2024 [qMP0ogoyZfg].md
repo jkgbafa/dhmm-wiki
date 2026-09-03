@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=qMP0ogoyZfg"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 The theme for our camp meeting is I believe in miracles, and I believe that through this camp meeting, miracles are going to happen in your life. And I believe that God is going to touch your life. God is going to do something. Miraculous for you. Amen.

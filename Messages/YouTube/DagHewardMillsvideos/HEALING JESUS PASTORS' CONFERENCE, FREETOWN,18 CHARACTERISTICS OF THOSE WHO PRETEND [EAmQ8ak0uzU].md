@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=EAmQ8ak0uzU"
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 loyalty all right is very important and I'm now sharing with you on this book loyalty and this loyalty Series this one is called those who pretend many people are always pretending it's not real okay now in Romans chapter 12 verse 9 the Bible says let love be without dissimulation dissimulation means to pretend everybody say dissimulation amen so many people are pretending when you are a leader you must know that most people around you are pretending I know that most people around me are pretending they pretend to talk in a certain way way they pretend to

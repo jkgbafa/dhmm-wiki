@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=kwLXOSeWVNA"
 duration_min: 135
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/the-holy-spirit", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 now just as the message of prosperity and abundance and success and achievement is not an evil message but it is a replacement and it is not the same amen amen so it's a replacement of the good thing although it is not overtly evil thing but it is a replacement of the clear and defined will of God how many understand what I'm talking about amen amen so what we need is what we need is to be careful of things that are close they are parallel but it's not the same amen amen in Ghana we have a

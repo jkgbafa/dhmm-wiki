@@ -4,6 +4,8 @@ book: "Catch The Anointing"
 book_number: "015"
 chapter_number: 10
 type: book
+topics: ["Anointing", "Anointing/Catching the Anointing"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing"]
 ---
 
 ## Chapter 9

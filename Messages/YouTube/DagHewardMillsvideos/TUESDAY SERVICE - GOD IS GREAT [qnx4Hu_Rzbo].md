@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=qnx4Hu_Rzbo"
 duration_min: 37
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 hallelujah amen let's pray Heavenly Father thank you so much for the opportunity evening to receive a holy word we bless you and we ask that you open our heart in these few minutes to receive the word and to flow along with your blessing Thank You Holy Spirit in Jesus name Amen on Sunday I began to share about prosperity with a pepper and I learned to continue on Tuesdays probably I'm going to switch from Sunday to Tuesday's on a prosperity with a pepper how many want to prosper alright now it's all part of the Word of

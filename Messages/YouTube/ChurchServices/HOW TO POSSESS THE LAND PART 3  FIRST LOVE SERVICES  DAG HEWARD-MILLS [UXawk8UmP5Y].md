@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=UXawk8UmP5Y"
 duration_min: 102
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 when we pray stir the inner fire when we pray take away the worst desire when we pray Holy Spirit Lift Us higher when we pray when we pray let it not be for a season when we pray give us wisdom and not reason when we pray let your name be our petition when we pray when we pray pray Lord show us the way pray pray When you pray lean not on your understanding when you pray just take hold of his Commandments When you pray know that he is your crying when you pray When you pray

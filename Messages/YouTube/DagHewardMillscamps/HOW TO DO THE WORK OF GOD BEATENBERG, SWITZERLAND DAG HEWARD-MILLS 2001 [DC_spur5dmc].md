@@ -9,6 +9,8 @@ duration_min: 43
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HOW TO DO THE WORK OF GOD  BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2001 [DC_spur5dmc]]]"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Welcome to track number 11, Victorine Pegamos. Now, the next thing that we want to talk about is how to do the work of God. Amen. How to do the work of God. How many want to know how to do the work of the Lord?

@@ -8,6 +8,8 @@ year: 2016
 duration_min: 153
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 early in the morning as the new days Dawn I love to listen to your talk to me and I want to talk to you early in the morning morning as the new days daing I love to listen to you talk to me and I want to talk to you early in the morning when I awake it feels so good to give you praise tell you how I love you what do you meant to me I want to talk to you it's so easy to make mistakes when I try to do things my own way you

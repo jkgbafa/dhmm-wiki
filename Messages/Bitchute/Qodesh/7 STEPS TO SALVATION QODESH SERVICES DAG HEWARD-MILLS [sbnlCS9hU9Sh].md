@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/sbnlCS9hU9Sh/"
 duration_min: 50
 source: "whisper"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 Jesus is the answer for the world today. There's no other. Jesus is the way. So if you have some questions in the corners of your mind, and trace is up to men. Reflections of your past.

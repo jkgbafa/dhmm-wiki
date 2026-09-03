@@ -4,6 +4,8 @@ book: "The Church Must Send Or It Will End"
 book_number: "082"
 chapter_number: 10
 type: book
+topics: ["Ministry and Pastoring", "Wealth and Finances"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances"]
 ---
 
 ### CHAPTER 9\

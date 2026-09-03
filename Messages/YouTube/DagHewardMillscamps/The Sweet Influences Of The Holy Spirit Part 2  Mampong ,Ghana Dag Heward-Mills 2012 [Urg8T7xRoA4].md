@@ -8,6 +8,8 @@ year: 2012
 duration_min: 153
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Witchcraft and Jezebel", "The Holy Spirit"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/witchcraft-and-jezebel", "topic/the-holy-spirit"]
 ---
 
 speak to us once again open our ears to hear open our spirits to understand what you have for us we know we will never be the same again in Jesus name we pray amen you may be seated I found it I found it new life in Jesus Jesus Christ I have love and peace I have joy home all in Jesus Christ say I have found it I have found I found new life in Jesus Christ he gives me love and peace and in him I found joy and hope all in Jesus Christ say I found

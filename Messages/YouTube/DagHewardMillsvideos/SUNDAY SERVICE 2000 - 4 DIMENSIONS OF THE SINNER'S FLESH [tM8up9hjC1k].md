@@ -8,6 +8,8 @@ year: 2000
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 amen it's a me one looks at me let us see Jesus let me be a reflection of his love and mercy to dare and when they start to read my life story when they start to read my life story I wanted to bring my Savior glory where anyone who me let them see me oh come on oh when anyone look at me leatherby Jesus let me be a reflection of his love and let me to live when they start to read my life story when they start to read my life story I wanted to bring

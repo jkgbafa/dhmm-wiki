@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=obSRKjCEDPo"
 duration_min: 153
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 why does you give Jesus a bad shot of pray before leaving Oh Oh welcome I wear these like you yeah mom Ella naked keepo haha keep on evening yeah ha College Niki : Nikita his head me chemo Nadi people nothing lead us I do love ow and every time I tell you every time sacrifice my treat I came on a keyboard not lingerie she wanna see foreign all muddy are to nursery because yo Wow can you feel the fire in the atmosphere can you feel the power in the atmosphere tonight the Word of God is

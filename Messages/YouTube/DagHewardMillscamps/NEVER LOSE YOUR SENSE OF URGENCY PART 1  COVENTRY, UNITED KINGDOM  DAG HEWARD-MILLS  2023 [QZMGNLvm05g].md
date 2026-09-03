@@ -8,6 +8,8 @@ year: 2023
 duration_min: 142
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 thank you for your warm welcome please please thank you all right you may be seated what a blessing second Timothy chapter for are we in a nightclub it's a church it's a church building a conference Hall all right amazing now um when you um show such Joy at seeing me you make my enemies more angry and more tough please please sit down you are you are you are disturbing the enemy PE okay please sit down because they don't know why you are happy fantastic second Timothy chapter 4 verse 2 we read from verse one it

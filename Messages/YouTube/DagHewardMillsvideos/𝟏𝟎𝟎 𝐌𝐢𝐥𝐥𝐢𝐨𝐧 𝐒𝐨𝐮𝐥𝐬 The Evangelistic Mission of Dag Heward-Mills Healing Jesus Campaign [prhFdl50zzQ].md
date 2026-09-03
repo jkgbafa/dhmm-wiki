@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=prhFdl50zzQ"
 duration_min: 7
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 Heat. Heat. Oh, heat, heat. There's a business man. There's a widowed wife.

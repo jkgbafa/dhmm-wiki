@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Q-rGOiqiJv4"
 duration_min: 168
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Soul Winning and Evangelism/Witnessing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/soul-winning-and-evangelism/witnessing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we are the day as we walk along the way you can I've got something stay and she told me on the stage' King died set up free from a life of sin and shame I gave my heart to him that Daddy after even I can tell you tell you to keep reaching help all about behavior for all that's what friends are for keep praying keep give it to a friend before not be this way since he came into my life I have never been say one of the 20 the big she isn't right the truth

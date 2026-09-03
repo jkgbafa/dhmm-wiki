@@ -7,6 +7,8 @@ url: "https://rumble.com/v4n9uvz/"
 duration_min: 49
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Hallelujah. Amen. Father, we thank you for your presence and for your spirit. Oh Lord, we pray for the anointing to be with us. Thank you for the shepherd's anointing that is distributed today.

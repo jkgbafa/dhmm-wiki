@@ -8,6 +8,8 @@ year: 2002
 duration_min: 10
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing"]
 ---
 
 Now let me share with you steps to the anointing. Step number one. You must. Step number one. The principle of the vessel change.

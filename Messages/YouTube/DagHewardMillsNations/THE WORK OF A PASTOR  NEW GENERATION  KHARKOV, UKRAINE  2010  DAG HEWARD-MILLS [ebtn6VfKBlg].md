@@ -8,6 +8,8 @@ year: 2010
 duration_min: 150
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Missions", "Missions/The Nations", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/ministry-and-pastoring", "topic/missions", "topic/missions/the-nations", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 begin to praise the Great God with all your heart Gallia we praise you Lord my life at your feet I need only you alone only you always give the answer helper in my difficulties Always in the first place You humble life I do it all for you One way Jesus I live only for you Lord my One way Jesus I live for you Lord my One way Jesus Jesus I live for you Lord my one way Jesus I live for you Lord my one way Jesus I live for you Lord my one way I will

@@ -8,6 +8,8 @@ year: 2009
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 against Chad laar king of alam and tidal king of gulim and Amel king of Shar and arok king of elasa Four Kings against five now the valley of s was full of tarpits and the kings of s and gorma fled and they fell into them but those who survived fled to the Hill Country and they took all the goods of Sodom and all their food supply the pirate and they also took lot Abraham's nephew and his possessions and departed for he was living in Sodom then a fugitive came and told Abraham the Hebrew now he

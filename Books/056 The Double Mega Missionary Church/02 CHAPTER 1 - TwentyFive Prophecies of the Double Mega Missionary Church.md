@@ -4,6 +4,8 @@ book: "The Double Mega Missionary Church"
 book_number: "056"
 chapter_number: 2
 type: book
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Missions", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/missions", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 ### CHAPTER 1 \

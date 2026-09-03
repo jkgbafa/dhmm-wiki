@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/yv1mcPwx5vIC/"
 duration_min: 50
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, thank you for this morning and this great opportunity that we have in you to serve you, to live for you, to follow you. We are thankful, and we are praising you. We ask you to lead us by the Holy Spirit into all truth in the name of Jesus Christ. We are praying. Amen.

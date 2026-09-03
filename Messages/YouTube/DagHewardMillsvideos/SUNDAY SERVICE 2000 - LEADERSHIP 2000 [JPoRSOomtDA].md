@@ -8,6 +8,8 @@ year: 2000
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 well this morning a limo well late morning we are privileged to be in the mega church I said in the mega church where the mega where it comes life and we thank the Lord we have a man that is anointed been teaching for many years and the teaching that transforms lives and changes lives my life is a testimony of what those teachings can do amen and I believe that this morning God has a word that is not for your personal life and for my personal life and I believe that by the time we shall live

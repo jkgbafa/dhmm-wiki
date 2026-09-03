@@ -9,6 +9,8 @@ duration_min: 227
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/ARISE AND OBEY MY VOICE HELSINKI, FINLAND DAG HEWARD-MILLS 2023 [sX5wIULv224]]]"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Hallelujah, hallelujah, and raise your hand and pray for the spirit of obedience, obedience. Thank you again for the spirit of obedience in the name of Jesus. Sit down, get up and obey my voice. Amen, amen. Now, as we're about to finish, you must have something in your heart that God is asking you to do. You see, this morning when I read my Bible, no matter what I read or what I meditated on, it came to me as something I must obey. You must be sensitive to obedience. This feeling is there always something that God imprints

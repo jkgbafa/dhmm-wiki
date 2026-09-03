@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=nY-8AOVvJCE"
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 the servants of God is ready to nice advice identity poly comes with a hand club and lets out a shout a big time to it and let's welcome the biology to if she would open our eyes for us to see what happens when we gives a lot of shock I will sing over there obey the Holy Name he taught me my lady these are marching he helped set me free I will sing all this go ahead please believe me he carried my birthday is all marching how he set me free I was once a kid

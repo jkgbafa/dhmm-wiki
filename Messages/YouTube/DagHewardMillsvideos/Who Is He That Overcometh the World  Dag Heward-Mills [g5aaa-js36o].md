@@ -8,6 +8,8 @@ duration_min: 97
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/Who Is He That Overcometh the World  First Love Church  Dag Heward-Mills [K0diZ-KJ52I]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Brothers, before you propose, make sure there's How many have noticed that some bad thoughts come, then they go, then they come again. If you have had that experience, lift up your hand. It comes, then it goes, then it comes again. Bad thoughts. Bad thoughts. Don't worry because ask yourself what is controlling me controlling me. You must be strong and say I will not allow anyone or anything to influence my thinking. Hallelujah. What a blessing. Let us pray. Father which are in heaven, thank you for the opportunity. Thank you for today. We are praying for your

@@ -9,6 +9,8 @@ duration_min: 16
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/NEVER FORGET THE PRINCIPLE OF DEATH IN WAR  ELMINA, GHANA  DAG HEWARD-MILLS  2008 [1SOcUL0Ef2Y]]]"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 That's number fourteen of warfare keys. What's the next point? Key number twenty-seven. War. Warfare keys.

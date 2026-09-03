@@ -8,6 +8,8 @@ year: 2019
 duration_min: 213
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 We thank you, Lord. Yes, forget about my voice and think of the words. Thank you. Jehovah. Lift your hands and say les mains.

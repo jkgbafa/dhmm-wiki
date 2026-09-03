@@ -4,6 +4,8 @@ book: "The Megachurch 2Nd Ed"
 book_number: "010"
 chapter_number: 13
 type: book
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 ### Chapter 12\

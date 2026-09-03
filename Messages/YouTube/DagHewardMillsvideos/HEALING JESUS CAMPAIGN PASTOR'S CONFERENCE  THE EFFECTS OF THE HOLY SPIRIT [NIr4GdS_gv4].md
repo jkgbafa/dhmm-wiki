@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=NIr4GdS_gv4"
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 that I can't these dreams is goes no keep forced on without me is it me those dreams too they'll be no more Halsey stay in here and I sad so me I about I was already to the to but you to the d so be strong heeey we're standing to stay in the winner jeez No hi bless the day I found you I want to stay around you serving in your house Lord those around you I I want to do your will and I want to love yes you chose me anointed me to preach so

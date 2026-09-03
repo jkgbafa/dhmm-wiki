@@ -8,6 +8,8 @@ year: 2016
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 number number nine number n your destiny is to be a glorious Church Ephesians chapter 5 vers 27 that he might present it to himself glorious church not having spot wrink or any such thing but that it should be holy and without blemish IR reprehensible wow wow amen amen is it amazing so God has a plan for you to be glorious glorious without spot without wrinkle now beauty is affected greatly by two things number one SPS and two wrinkles these are the two takeways from beauty SPS and wrinkles now spots we have spiritual spots and physical

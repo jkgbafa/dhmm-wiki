@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2Frw9q8yuWo"
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Vision and Direction"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/vision-and-direction"]
 ---
 
 No, the Cheech holding sofa, so we're looking at how to grow the church and Hummer Hamel 1 ladies from the Freebox and a jacket, jazz category, big, there are three beds in this category, church growth, planting, designating a mediator and the mega, and they tell Fritons to text Ramchurn to beat, these are three subjects on which I preach from Megachurch, the Mega Church, Venues from Church Cannes, biblical, that means the church can be great, friend Molly C B, everyone there, great, humble Chuck, basically, and the church can grow and that a big one, it can

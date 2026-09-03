@@ -8,6 +8,8 @@ year: 2017
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 What a blessing. You may be seated. I want to bring up Dr. Elijah Mashwani to come and give us a greeting. Please come. Let him Oh, why don't you put your hands together for Oh, keep clapping to encourage. This is the best thing that has ever happened to our beautiful country, South Africa. Bishop Mills and his team have done something that has never happened in many many many years in South Africa. I have shared platforms with Oral Roberts, Billy Graham, TL Osborne, Kenneth Hagen, Joyce Mayers, Reard Boner, Benny Hinn, the meetings that were held in

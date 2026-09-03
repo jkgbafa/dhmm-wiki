@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_N12fan9xBk"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 that he died on the cross for us Lord we worship you this morning I should sing to the Lord just firm a chance for me Oh dad for me Jesus came Jesus kid he did it for me come on just imagine as vomit just a little baby Jesus came Jesus character here oh come on everybody looked up like to say just one man just public defamation movie Jesus Jesus can read it for me just for me vomit that form a cat for me to see you Jesus came again for me to be drawn a rough

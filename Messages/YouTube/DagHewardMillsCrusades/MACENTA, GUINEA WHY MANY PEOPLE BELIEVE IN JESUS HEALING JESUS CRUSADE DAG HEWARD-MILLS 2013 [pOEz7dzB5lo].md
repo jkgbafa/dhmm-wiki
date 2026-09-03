@@ -8,6 +8,8 @@ year: 2013
 duration_min: 133
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Ma c'est Alléluia Tous les mots crier pour Jésus crié qui est fort crié fort crié fort Alléluia quand je vois ce que tu as fait et la paix la paix dans mon cœur quand je vois ce que tu en as fait je veux te louer acclamé au monde Dieu c'est de tout mon cœur je te bénis mon sauveur dans l'affection dans la souffrance tout me délivrer tout l'état et n'a personne qui m'a autant comme toi au monde c'est de tout mon cœur je te bénis mon sauveur dans l'affection dans la souffrance tout me délivrer tout

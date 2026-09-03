@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=itRhDewwtgA"
 duration_min: 59
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 let us share what a fire father we thank you so much for this opportunity to be here we ask you to guide us by your spirit into all truth in Jesus name Amen you may be seated we just came back from a trip to Singapore and I want to invite my wife to come and give us greetings from Singapore you know I usually don't say much so it's very lucky you know says hello we might on the 8th two days ago was 19 years since we got married so we're still around 19 years one night

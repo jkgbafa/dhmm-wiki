@@ -9,6 +9,8 @@ duration_min: 83
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/BEITBRIDGE, ZIMBABWE  JESUS CHRIST THE SAVIOUR AND JESUS CHRIST THE JUDGE  DAG HEWARD-MILLS  2016 [MbekZVHhOIc]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Are you here? Are you sure you are here? Lift up your voice and get Jesus a share Nemo Tamburra Ni canon dinora no counamata Jamaica Demo Farah Mandi Kawana Jamaica Diafugama Lift up your voice and say Kawana Jama Kanditiana Jama Kanditi Oh Fukama say of maurisda Jesus kind of fear oh come on I say the wana jamakiti I say wana di kawana j'avais dit ma nota no fugama D mebaga oh you ready bad beach are you ready the potato no matter each soon be signed on a side my canti no no rain on the pony

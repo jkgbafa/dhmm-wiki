@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=S3bKH5tNI8g"
 duration_min: 50
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Salvation", "Salvation/Backsliding"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/salvation", "topic/salvation/backsliding"]
 ---
 
 shall we pray Heavenly Father thank you for this morning thank you for the opportunity we have Lord in your presence Lord we ask that you speak to our hearts we ask that you guide us we are that your will be done in the name of Jesus thank you for your blessings today as you take us to the next level in our Christian race in Jesus name Amen all right you may be seated now how many have got your book backsliding I need me to have a book in church with you every Sunday all right how

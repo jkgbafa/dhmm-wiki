@@ -8,6 +8,8 @@ year: 2019
 duration_min: 199
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I stand amazed in the presence I stand amazed in the presence of Jesus the n and I wonder how he could love me and I wonder how he could love have me and s i condemn I CLE how marvelous how marvelous how wonderful and my soul oh shall how my my Lord how wonderful is my S oh yes love how bels how oh how how wonderful am i s oh shall how my Lord how marvelous how wonderful is my s yes I stand amazed in the presence oh I stand oh amazed in the presence oh

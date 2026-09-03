@@ -4,6 +4,8 @@ book: "Now We Are At War"
 book_number: "089"
 chapter_number: 29
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 ### Chapter 26\

@@ -8,6 +8,8 @@ year: 2008
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 the limitations of the call the first thing is that um Christ has the fullness all right it is only Jesus Christ who has everything that is needed amen okay and I'm going to give you about eight verses show that to you the rest of us have a measure all right Christ has everything and the rest of us have something small to work with Okay so number one John chapter 3:34 it says John chapter 3:34 are you there okay for he whom God has sent speaketh the words of God for God giveth him not the spirit

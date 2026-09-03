@@ -8,6 +8,8 @@ year: 2018
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah am let us stand everybody everybody standing and let us pray father thank you for the blessing of your holy word today guide us lead us Minister turn us into candles for your word says that no one lights a candle and puts it under a bush you have lit us up oh Lord and made us candles use us For Your Glory send us oh Lord to zabulon and nephalem where people are waiting to hear from us we thank you Lord in Jesus name we pray amen you may be seated by your fellow candle greet your

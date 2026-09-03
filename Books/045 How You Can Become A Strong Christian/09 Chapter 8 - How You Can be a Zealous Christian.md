@@ -4,6 +4,8 @@ book: "How You Can Become A Strong Christian"
 book_number: "045"
 chapter_number: 9
 type: book
+topics: ["Fasting"]
+tags: ["topic/fasting"]
 ---
 
 Chapter 8\

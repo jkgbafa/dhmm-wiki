@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=i7b7izNG6Cc"
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah sand Give the Lord the best shout of Praise oh come on and do it better for the Lord Give the Lord a shout are you ready I cannot hear you are you ready Give the Lord a shout lift up your right hand lift up your hand and say are do it like this are you ready for hey woo hey are you ready tell your neighbor tell your neighbor are you ready Give the Lord a shake give Shake Yourself for Jesus come on and Shake Yourself for Jesus did you hear that did you hear that

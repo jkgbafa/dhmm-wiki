@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Bi9TivGVdAk"
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Anagkazo and Compelling", "Soul Winning and Evangelism/Crusades", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/anagkazo-and-compelling", "topic/soul-winning-and-evangelism/crusades", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Luke chapter 14:1 15 and he said when one of them sat at meat with him and heard these things he said blessed is he that shall eat bread in the kingdom of God and he said unto him a certain man made a great supper and invited many people now in order for Christians to become well motivated Ed and successful in witnessing the very last words of Jesus known to man on Earth all right go into all the world and the last words when he appeared after his resurrection you shall receive power after my spirit is

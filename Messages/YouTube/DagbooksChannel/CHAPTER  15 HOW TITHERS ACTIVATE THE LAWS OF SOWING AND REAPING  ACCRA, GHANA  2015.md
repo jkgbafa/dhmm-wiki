@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2015
 source: "autocaption"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 is sewing and reaping. Is that not so? Okay. Is the basic method to farm to sew a seed. So whenever you pay tithes, you are practicing the important seed, the important ministry of sewing and reaping. Amen. Amen. So today I want to share with you the laws of sewing and reaping. The laws of sewing and reaping. So number one, you must plant something. Amen. If you don't plant something, you will never have anything to reap. Okay? Now, if you look at Ghana, which is one of the poorest countries in the world, All I will ask

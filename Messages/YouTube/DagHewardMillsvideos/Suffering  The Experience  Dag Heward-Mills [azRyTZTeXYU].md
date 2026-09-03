@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=azRyTZTeXYU"
 duration_min: 136
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 on all worship all worship and prise all blessing all power how worthy how Worthy is all glory GL all oh worship all all blessing all bless all power Glory Glory H worship worship all PR all bless all power how Worthy is your name how Worthy is your name s all glory glory allor all oh we give you all our worship we give you all our worship all bless all power is your it's your I stand I stand in all of you Jesus you lift your hands to the Lord standing Lord You Jesus I stand I

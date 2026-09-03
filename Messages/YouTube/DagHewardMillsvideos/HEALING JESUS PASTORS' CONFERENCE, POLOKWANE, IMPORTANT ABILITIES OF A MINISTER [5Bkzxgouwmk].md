@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=5Bkzxgouwmk"
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 like a father feeds his children Like a Shepherd leads his flock the Lord will always guide us he will show us where to walk and in times when we have plenty in times when we have none he is our provider and his Mercy never stops like a shepher he leads us like a father he feeds us from the morning to the evening till the sun rise again like a shepher he leads us and like a father he feeds us oh yes he is The Great I Am oh like a shepher he leads us and like

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ydWR3KFLTsQ"
 duration_min: 134
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Mon ponifanaway si essuie au chien si moi l'ailleurs la chance d'avoir la yes Satana Watchoutsuma vive Olaya sous la Yatsu n'y coucha qu'on a dit l'ayance l'ailleurs soi-ci vite l'aïe soit la tuman qui vit au l'asso qui n'y coup l'ailleurs soi-là we knows qu'il s'est sûr à couturier ça comme tu l'es sous sière. Si tengo todas deste mundo y perdendo Jesus, eu perdi tutto si tengo Jesus, tengo tutto è mais precioso que tudo se tengo Jesús, si tengo Jesus, tengo tutto Jesús si tengo Jesus, si tengo Jesus tengo tutto, me susprezo si t'en si tengo Jesús si tengo Jesus tengo tutto que tutto Jesus criou y è un qui pegar todas mãos è mais precioso que tutto si tengo Jesús si tengo Jesus tengo tutto Jesus Jesus Jesù è minha força è poderoso è precioso è precioso Jesus Señor Jesus Señor Seigneur Jesus è Seigneur quando vejo o que fai por mi paz pasto quando vejo o que fai por mi louco This is a place of miracles.

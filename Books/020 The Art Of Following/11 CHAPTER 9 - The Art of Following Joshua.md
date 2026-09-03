@@ -4,6 +4,8 @@ book: "The Art Of Following"
 book_number: "020"
 chapter_number: 11
 type: book
+topics: ["Ministry and Pastoring", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/ministry-and-pastoring", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 ### CHAPTER 9\

@@ -8,6 +8,8 @@ year: 2024
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-holy-spirit"]
 ---
 
 A miracle Today raise your hand everyone in the back in the stands raise your hand in the MOV please are Pray now let's pray nobody can walk anymore boys nobody walks Lord Jesus thank you very much for this opportunity to preach your word to pray for the people to bring about the Miracle for the glory of God Lord have mercy on us tonight all evil spirits that work against us fall to the ground in the name of Jesus Father we thank you for your holy spirit in the name of Jesus we break the demons in

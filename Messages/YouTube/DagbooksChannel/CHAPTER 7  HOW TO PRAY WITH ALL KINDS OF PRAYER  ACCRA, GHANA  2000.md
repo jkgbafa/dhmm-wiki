@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2000
 source: "autocaption"
+topics: ["Faith", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/faith", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Thank you for your presence, Lord Jesus. Father, we we thank you. We praise you. We give you the glory. We give this service to you. We ask that your will will be done and you lead us in all of your plan, your will and your word in Jesus' name. May our hearts be open. May we be humble to receive in Jesus' name. Amen. Amen. You may be seated. Hallelujah. Um, turn with me to Genesis chapter 20. Hallelujah. Are you glad to be in church? We are I'm also glad to be here after a journey, a

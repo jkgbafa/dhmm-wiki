@@ -8,6 +8,8 @@ year: 2022
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 a better hand clap you keep clapping your hands because we are welcoming to bless us wither Cofe some s s come he yes yes oh yes pick up my Cofe sh oh yes oh yes yeah n n n yeah oh yes yes touching yeah yeah yeah oh oh yes me for pick up my coffee pick up me corner way oh see oh yeah yeah who can if fear oh oh n n n need okay K to K to hey let's clap our hands for the N are you ready for what God has for you these

@@ -8,6 +8,8 @@ year: 2019
 duration_min: 195
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Hallelujah are you glad to be here tonight this week will be memorable in your Christian experience and um like Bishop saki said if your amen was louder than somebody's amen then your breakthrough will come first Hallelujah just a few minutes to know that we belong to God and he is our great God lift up your hands and thank him for a few minutes thank you Lord what a glorious God you are Jesus thank you Lord you are great yes you are Holy One you walked upon the sea you raised the dead you reign in Majesty

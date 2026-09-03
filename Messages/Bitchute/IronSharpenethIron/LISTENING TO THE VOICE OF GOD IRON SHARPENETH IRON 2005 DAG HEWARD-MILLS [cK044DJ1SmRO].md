@@ -8,6 +8,8 @@ year: 2005
 duration_min: 57
 source: "whisper"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 To be significant means what? To be large or important enough to have an effect. To be insignificant means what? To be small and unimportant, such as so as to have no effect. Forgive.

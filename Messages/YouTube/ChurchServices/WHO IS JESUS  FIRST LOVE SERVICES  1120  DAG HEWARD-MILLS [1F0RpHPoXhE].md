@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=1F0RpHPoXhE"
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 see you lifting your hands and lifting your voices praying in the Holy Ghost and praying in your understanding and giving God thanks that is what the scripture tells us to do enter into his gate with Thanksgiving let us enter into the gates of the Lord with Thanksgiving father we are grateful we are thankful we are so much full of excitement and happiness because this is the day you have made and we are supposed to be glad and rejoice in it lift your voice pray wherever you are and thank God bless God for your life bless

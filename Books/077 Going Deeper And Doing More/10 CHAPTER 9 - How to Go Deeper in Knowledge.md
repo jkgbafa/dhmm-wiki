@@ -4,6 +4,8 @@ book: "Going Deeper And Doing More"
 book_number: "077"
 chapter_number: 10
 type: book
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 ### CHAPTER 9\

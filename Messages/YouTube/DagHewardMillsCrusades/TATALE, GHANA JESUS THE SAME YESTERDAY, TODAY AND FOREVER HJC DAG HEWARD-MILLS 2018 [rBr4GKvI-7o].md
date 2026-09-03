@@ -8,6 +8,8 @@ year: 2018
 duration_min: 146
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Allez, alléluia, come si wanna foulant, allez, alléluia, kamasi wanda foulon, comme si wanna four, comme ainsi, aleluia, allez, alléluia, comme si wanda, si vous allez halé, allez louia, kamasi wanda four, allez, allez, comme si wanna foul, siah, allez, allez, alléluia, comme si Wanda, tout ça, allez, allez, allez, Luia, Kamasi Wanda Foulard, allez, allez, allez, Luia, Damasi Wanda Foul, Kama Sala, Juan, c'est là, Alléluia, c'est où tu as bien, oh y'a mes yeux, alléluia, oh Yami, oh, c'est là. Oh, il y a eu l'a.

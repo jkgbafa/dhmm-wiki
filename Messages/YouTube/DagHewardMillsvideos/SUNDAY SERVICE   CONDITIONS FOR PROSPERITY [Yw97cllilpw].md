@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Yw97cllilpw"
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 hallelujah let us pray Heavenly Father thank you for this morning thank you for the opportunity we have in your presence Lord we ask that you guide us we ask that you lead us we ask that you speak to our hearts thank you for a great opportunity in your presence in Jesus name Amen you may be seated yea so that today I want to share with you the last in this series on prosperity with a purpose that I'll be giving you on Sundays I believe as I was tapping Telling You Reverend staff he'll be taking us

@@ -8,6 +8,8 @@ year: 2013
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 hello all right next one number 30 no I told you that was 51 so I'm now going to number 30 number 30 avoid foolish and unlearned questions 2 Timothy 2:23 but foolish and unlearned questions avoid knowing that they do gender stries amen amen glory to God glory to God yeah listen this is private this one is between Father and Son and it's something personal don't answer every question question don't answer every question avoid foolish questions that generate Strife for they do gender Stripes all right so you know if somebody ask you so how will you

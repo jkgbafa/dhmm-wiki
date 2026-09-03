@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=g5RWJMAkXFE"
 duration_min: 146
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 don't you had me on your mind when you climb upon so me we redeem our Savior within my redeemer hurricane reading haha you coming a windbag with newborn baby the next time they so important as you think about Easter every stripe on your head every one of your bra everywhere and yeah you go out right a testing regime a regime I had a game with in my heart again come and you familiar with my dear friend so every craze that you caught up on my line or retained to you in prey Oh wave to him

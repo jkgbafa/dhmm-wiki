@@ -9,6 +9,8 @@ duration_min: 22
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/RECOGNISE THE BEGINING OF A GREAT CAREER   ELMINA, GHANA DAG HEWARD-MILLS  2005 [WvDQ2vRGTXQ]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring"]
 ---
 
 Welcome to track number seven of Snake Junction recognize the small beginnings of a great career. You must recognize that this is my career, and this is the small beginning of my career. Amen. Recognize this is the beginning. And many people who know us and knew us in school, I don't think they are so surprised that we are pastors today.

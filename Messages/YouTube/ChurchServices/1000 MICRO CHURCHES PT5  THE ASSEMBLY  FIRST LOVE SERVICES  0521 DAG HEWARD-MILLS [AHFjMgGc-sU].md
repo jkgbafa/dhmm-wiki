@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=AHFjMgGc-sU"
 duration_min: 232
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 why don't you put your hands together for Jesus if you're excited to be alive I can see Moren clapping and that is always a blessing to see her clapping oh only Mor n is clapping why don't you all put your hands together for the Lord if God has done something wonderful for you show him the appreciation by putting your hands together for him Hallelujah God is good hey your response alone I said God is good is God good sometimes or good all the time so has God been good to you today what about just a

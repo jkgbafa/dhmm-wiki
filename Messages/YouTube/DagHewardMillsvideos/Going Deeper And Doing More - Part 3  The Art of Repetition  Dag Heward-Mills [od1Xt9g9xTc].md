@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=od1Xt9g9xTc"
 duration_min: 164
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah now today um i want to emphasize on something in the bible about the um offerings all right and i want to uh you to know that you know the the the greatest thing you must desire in your life is a blessing and the thing you must fear most of all is a case and in fact what i want to tell you is that the more spiritual you are the more you will value blessings and the more you'll be afraid of doing things that initiate cases the more spiritual you are you know there are some

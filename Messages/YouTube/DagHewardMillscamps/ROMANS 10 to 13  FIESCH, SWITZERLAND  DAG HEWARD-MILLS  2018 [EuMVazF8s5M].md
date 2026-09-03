@@ -8,6 +8,8 @@ year: 2018
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 It starts at verse 9. From the Romans 10, it says, "If you confess with your mouth, 'Jesus is Lord,' and believe in your heart that you will be saved. For with your heart you believe that you are justified, and with your mouth you confess that you are saved. Whoever believes in him will not be put to shame. For there is no difference between Jew and Greek, since they are all the same Lord, who is rich to all who call on him." Verse 13: " For whoever calls on the name of the Lord will be saved."

@@ -8,6 +8,8 @@ year: 2022
 duration_min: 13
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 you may be seated we are we are just catching our breath and then we'll pray amen have you caught your breath but I I think you should CL for yourselves there there is a certain fire that is in you that is beautiful and I pray that this fire will not be quenched I said I pray that this fire will not be quenched and that it will rather grow brighter and brighter and bigger and and that is what I just want us to pray about this afternoon I it will be very wrong for this Camp to

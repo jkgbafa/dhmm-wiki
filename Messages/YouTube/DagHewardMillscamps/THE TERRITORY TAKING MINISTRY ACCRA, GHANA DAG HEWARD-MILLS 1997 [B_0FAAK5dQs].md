@@ -9,6 +9,8 @@ duration_min: 52
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE TERRITORY TAKING MINISTRY  ACCRA, GHANA  DAG HEWARD-MILLS  1997 [B_0FAAK5dQs]]]"
+topics: ["Fasting", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/fasting", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 Welcome to track number two of loyalty and the mega church. Verse 8. We are looking at the rod and the staff. Amen. Wherever you see the rod and you see the staff, know that the shepherd is at work.

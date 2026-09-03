@@ -8,6 +8,8 @@ year: 2019
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 and this is the first part so that we can move quickly to the rally Summit Congress and meeting please just squeeze in and and let's settle down you people said come at 7 and here it's almost 10:00 people are still coming yeah if we six by now you'll be here yes there th crowds of people are walking in at the back crowds and crowds yeah unbelievable since I came here just now so sometime that's why we give this this time of times time at six come at 5 then by 8:00 you see that people are

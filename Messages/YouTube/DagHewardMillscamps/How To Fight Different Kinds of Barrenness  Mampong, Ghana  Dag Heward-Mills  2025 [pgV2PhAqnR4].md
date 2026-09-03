@@ -8,6 +8,8 @@ year: 2025
 duration_min: 55
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Wow. Now I want us to look at some women. Wow. Who suffered from baroness and let us see what they did to overcome the baroness. H do you know some barren women in the Bible? Number one Sarah. Let us use let us see the strategy of Sarah that she used. Would you like to know the strategy? Because Sarah had a strategy in the end. She had a child. So those of you who sense that your level of fruitfulness is not much and that if you don't take care you you seem to be falling into the

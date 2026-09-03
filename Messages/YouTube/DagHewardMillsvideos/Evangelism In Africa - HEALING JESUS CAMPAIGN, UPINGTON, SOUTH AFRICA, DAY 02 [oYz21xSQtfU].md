@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=oYz21xSQtfU"
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 we all trust in Jesus Oh ah Oh Oh to the pain apply laughing ah I love with Peabody by Dulles for the hunt club hallelujah hallelujah hallelujah please be seated I'm Alicia Technium greetings are in store for us tonight who are the nurses to a false panel and tonight infinite we want to welcome philosopher bill for mayor of our city keeper mr. Perron stores to bring us his remarks of full of paper on scum as a speech computer and bring it where to us all others campy let's clap our hands and welcome amia returning with

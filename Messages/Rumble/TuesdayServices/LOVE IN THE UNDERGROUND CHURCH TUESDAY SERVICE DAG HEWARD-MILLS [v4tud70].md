@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tud70/"
 duration_min: 65
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 Just lift your hands to the Lord and ask him to bless you to touch your life this evening, Lord. Thank you for the great opportunity that we have. Thank you for the great blessing that we have. Thank you, Lord. Thank you, Lord.

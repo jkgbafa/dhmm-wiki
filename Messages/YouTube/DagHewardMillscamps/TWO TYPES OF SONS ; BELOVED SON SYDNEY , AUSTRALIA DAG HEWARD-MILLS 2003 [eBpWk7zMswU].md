@@ -9,6 +9,8 @@ duration_min: 41
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/TWO TYPES OF SONS ; BELOVED SON  SYDNEY , AUSTRALIA DAG HEWARD-MILLS  2003 [eBpWk7zMswU]]]"
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 Welcome to track number four of how to survive in Episode. First Timothy Timotheus. Are you dear? Well, we started, and uh, we didn't get beyond uh verse 2. Paul and apostle of Jesus Christ by the will of God, according to the promise of life, which is in Christ Jesus to Timothy, my colleague to Timothy, my friend to Timothy, my schoolmate to Timothy, my old body to Timothy, my what?

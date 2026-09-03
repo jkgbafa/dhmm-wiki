@@ -8,6 +8,8 @@ year: 2001
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Real gold. Amen. Is that not so? Great. How to get the real gold that you need for heaven.

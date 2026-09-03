@@ -9,6 +9,8 @@ duration_min: 114
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/VICTORIA FALLS, ZIMBABWE  HOW CAN YOU ESCAPE THE DAMNATION OF HELL  DAG HEWARD-MILLS  2016 [_fqWtbHlAh4]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Second night and final night of our healing Jesus campaign here in beautiful Victoria Falls. God is about to do something great in your life. And it's my pleasure to welcome the chairman of the board of trustees of our campaign in this city to bring us his closing remarks. Let's welcome our chairman, clap your hands for Jesus. We receive our chairman to give us his remarks.

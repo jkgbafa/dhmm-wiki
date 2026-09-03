@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ue76b/"
 duration_min: 62
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Let's welcome the wonderful tulips as they minister to us. Jesus is the answer. Let's sing. Jesus is the answer. For the world today.

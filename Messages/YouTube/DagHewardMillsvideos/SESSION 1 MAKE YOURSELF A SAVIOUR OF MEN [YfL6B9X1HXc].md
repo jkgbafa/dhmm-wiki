@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=YfL6B9X1HXc"
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 it's wonderful to be here amen let us pray father thank you for the opportunity to be here today bless us mightily in our time here together we are thankful that you have made it possible bless our hearts and transform our lives totally in Jesus name we pray and everyone said amen Oh Obadiah chapter one Obadiah please hallelujah Obadiah have you found Obadiah verse 17 but upon Mount Zion shall be deliverance and there shall be holiness and the house of Jacob shall possess their possessions and the house of Jacob shall be a fire and the house

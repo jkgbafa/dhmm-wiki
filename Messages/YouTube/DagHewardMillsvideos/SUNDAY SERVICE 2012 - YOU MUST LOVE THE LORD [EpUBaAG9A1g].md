@@ -8,6 +8,8 @@ year: 2012
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Repentance"]
+tags: ["topic/salvation", "topic/salvation/repentance"]
 ---
 
 I will rejoice in you and be glad in our etoy resort I'll return if you ha ha ha ha ha ha she done solid bodies of the King Jesus taking up oh oh I will rejoice rejoice and you have big mass our absorb I will return in renoise I'll return in und class I will enjoy show me a pallet run together I will recharge if I decide to return paradise I'll return there you were big laughing I wanna chop your than wine show me after you and everyone together I will rejoin get is Tina it

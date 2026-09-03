@@ -8,6 +8,8 @@ year: 1999
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 with Oh you want to lift up the head with your hands to the loneliness as I said the Bible said that meant everything that has breath let everything that has breath this morning you have what you want to let up your voice to the Lord in a form of worship in the words of that person together begin to lift up the rest of the load force attacks in with an advancing and I single estate I believe to just worship and exalt the name of the Lord and we can reflect on the goodness of the lord

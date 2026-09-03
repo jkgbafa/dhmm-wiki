@@ -8,6 +8,8 @@ year: 2001
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 welcome to track number 15 of the message of sacrifice number one let's go through all the points we've been through all these hours we've been here number one is what amen sacrifices are stopped they are opposed by who by the Antichrist or anyone like the Antichrist amen is that not so when the Antichrist Danny when the Antichrist come what is he going to do he's going to stop sacrifices being done that's why sometimes when I'm giving I don't tell anybody because many times when I want to give if I discuss it I won't give it

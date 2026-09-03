@@ -9,6 +9,8 @@ duration_min: 27
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/YOUR PLACE  SEVENOAKS, UK  DAG HEWARD-MILLS  2005 [jCyQTjn2gKE]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Welcome to track number nine of birthday. Kewa. The last point is your place. Is the unfortunate the reason why it's an unfortunate story is because it is just like your place. Revelation chapter 12.

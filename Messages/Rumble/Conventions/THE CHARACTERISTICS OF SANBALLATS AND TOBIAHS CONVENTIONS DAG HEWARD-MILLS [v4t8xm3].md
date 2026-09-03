@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t8xm3/"
 duration_min: 158
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Lord, your God's on your sight. Oh my soul. Don't be afraid. Hope in the Lord. By his consciousness and power.

@@ -9,6 +9,8 @@ duration_min: 36
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/DREAMS AND VISIONS  GTWC BULAWAYO   DAG HEWARD-MILLS  2025 [aAoKcu2Yipk]]]"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 I'm looking for someone that I can send. someone to sacrifice his life, his dreams, his goals. I'm looking for someone who loves me so. Hello. Is it me you're looking for?

@@ -8,6 +8,8 @@ year: 2019
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 oh your presence is to nothing like a pres your to me Lord Jesus Jes oh oh Jesus Oh Jes oh Jes Jesus Heaven Jesus yes Lord Your Presence is Heaven oh Jesus oh Jesus Jes oh Jesus your presence your Jes oh Jes your presence is oh Jesus Jes Jesus your me I stand amazed in the prence of Jesus the n and I wonder how he could love you and I wonder how he could love me I S I stand amazed in the presence of Jesus I stand amazed in the presence oh Jes and I wonder

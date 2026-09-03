@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=rZ3b--z7fbw"
 duration_min: 69
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 they say you will never till you walk up and touch the memory of you and walk Dolby Nadia's died enjoy thank you baby they are hi like you too anybody you wanna hold visit us forever I anybody you wanna do forever hey I baby buddy on anybody here I'd like to do anybody now Alleluia let us pray father we thank you for this evening thank you for your blessing thank you for the opportunity that we have to be here tonight we thank you in Jesus name Amen you may be seated turn with me to John

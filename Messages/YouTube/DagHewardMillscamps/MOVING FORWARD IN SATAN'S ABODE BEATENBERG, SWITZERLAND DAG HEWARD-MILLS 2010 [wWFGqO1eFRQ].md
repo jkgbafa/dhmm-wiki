@@ -9,6 +9,8 @@ duration_min: 90
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MOVING FORWARD IN SATAN'S ABODE   BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2010 [wWFGqO1eFRQ]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances"]
 ---
 
 Hello, hello. Hallelujah. Hallelujah. Where is Pergamos? Where the devil lives.

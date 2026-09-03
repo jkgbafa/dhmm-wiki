@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=a1EDLEAASD4"
 duration_min: 119
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Tonight is the third and final night in Francis Town. And I believe tonight is going to be the greatest night. Are you prepared for what God is about to do? Amen. Before we go any further, we would like to invite the chairman of the Central Planning Committee.

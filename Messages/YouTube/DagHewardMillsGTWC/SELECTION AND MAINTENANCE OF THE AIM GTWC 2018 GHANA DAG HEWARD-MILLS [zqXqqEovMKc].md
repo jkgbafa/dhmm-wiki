@@ -8,6 +8,8 @@ year: 2018
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Hallelujah. We are blessed to be in the house of the Lord, isn't it? And for a few minutes, let's just worship him and thank him for this glorious time. Adorant le glorify pour ce temps. Lift up your hand, let's thank him.

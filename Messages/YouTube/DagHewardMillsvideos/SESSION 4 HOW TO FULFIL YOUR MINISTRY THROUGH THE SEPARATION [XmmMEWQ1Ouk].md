@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=XmmMEWQ1Ouk"
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 what a blessing now so I was explaining to you that how you can fulfill your ministry okay it is basically ten things that show you your ministry and that guide you in your ministry and also make you fulfill your ministry and one is the messy and the love that you receive and that you respond to the second thing out of the 10 is your separation I gave you the point isn't it what was the first one the messy the second one is was the separation now a person who is appointed by God to work for

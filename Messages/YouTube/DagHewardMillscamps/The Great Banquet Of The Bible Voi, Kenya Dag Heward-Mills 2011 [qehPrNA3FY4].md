@@ -8,6 +8,8 @@ year: 2011
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 God has called us to his banquet you can't go without salvation oh yeah God has called us to his banquet you can't go without salvation oh no for God has called us to his banquet you can't go without salvation God has prepared a wonderful banquet every one of you has got to be there yeah yeah all you need to do is go for your garment oh yes the Garment of Salvation that Jesus gives Jesus gives God has called us to his banquet oh yes and you can't go without salvation Salvation yeah God has called us

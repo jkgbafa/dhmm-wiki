@@ -8,6 +8,8 @@ year: 2011
 duration_min: 161
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 hallow his name praise His name what a great work he's doing in your life what a blessing what a great blessing he's at work in your life you may not know but he's doing something wonderful in your life Magnify Him surely you are being blessed surely you are being blessed Magnify Him bless his name bless His holy name for great things he's doing for the things you are hearing what a privilege blessed are your ears for they hear blessed are your eyes for they see lift your hands and bless the name of the Lord for

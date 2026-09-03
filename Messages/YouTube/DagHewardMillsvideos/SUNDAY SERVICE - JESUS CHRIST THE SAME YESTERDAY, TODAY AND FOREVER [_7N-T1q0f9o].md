@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_7N-T1q0f9o"
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 or give it to the Lord put your hands together for the hems car hallelujah and as they go down I believe there's excitement in the air want to rise up and receive the power there is excitement in the air there's excitement in the air can't you feel it in your soul God is moving by hypocrisy pooping in the leg you let him take control and rejoice in him today and my faith will be here can't you be late you're so not into this mic is moving in the same I want you let him take on

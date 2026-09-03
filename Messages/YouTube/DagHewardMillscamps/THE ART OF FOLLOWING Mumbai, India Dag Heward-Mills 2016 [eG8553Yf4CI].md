@@ -9,6 +9,8 @@ duration_min: 162
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE ART OF FOLLOWING  Mumbai, India  Dag Heward-Mills  2016 [eG8553Yf4CI]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Many of us, many of us are going to enter the ministry in a great you see, you've been we've been ushered into the ministry. This visit has ushered us into the ministry. Doors have been opened to us to do the ministry in a way that we have never done it. We have never done it, we have never understood it. But that grace and that anointing is coming upon our lives to tackle and approach the ministry with a special grace and a special anointing.

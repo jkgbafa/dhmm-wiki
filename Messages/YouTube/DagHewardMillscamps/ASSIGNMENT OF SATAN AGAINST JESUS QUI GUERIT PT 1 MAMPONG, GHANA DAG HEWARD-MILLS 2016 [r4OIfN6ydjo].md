@@ -8,6 +8,8 @@ year: 2016
 duration_min: 89
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to track number three of the plus petit deviendra a million. Hallelujah. You may be seated. We are ready for another wonderful time. With our father.

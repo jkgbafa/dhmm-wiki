@@ -8,6 +8,8 @@ year: 2011
 duration_min: 159
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 all right how to fall into a deep sleep how to fall into a deep steps to a deep sleep number one First Corinthians chapter 15 verse 33 how to fall you see sleep you know for those who have problems sleeping right you find out that they actually it looks natural like oh I'm going to bed but those who have sleep problems I tell you you see them always that key to going to sleep don't drink tea don't drink coffee have your bath the stimulant the scratching of your body that hasn't been bed has a contribution

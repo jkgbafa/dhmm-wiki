@@ -8,6 +8,8 @@ year: 2004
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Missions", "Missions/The Nations"]
+tags: ["topic/missions", "topic/missions/the-nations"]
 ---
 
 welcome to track number four of others okay the next thing that I want us we come back to the selfishness thing but I want us to just look at this three things that Jesus did Jesus and others Jesus and others number one Jesus died for others amen amen Jesus died for others have you got Philippians 2 and let's read from verse one what does it say Glory amen I think it's it's there I mean it's typed out directly what do you think huh what do you think think look not every man on his own things

@@ -4,6 +4,8 @@ book: "The Love Of The Spirit"
 book_number: "103"
 chapter_number: 6
 type: book
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 Chapter 3

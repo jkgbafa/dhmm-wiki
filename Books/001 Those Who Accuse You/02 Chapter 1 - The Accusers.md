@@ -4,6 +4,8 @@ book: "Those Who Accuse You"
 book_number: "001"
 chapter_number: 2
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 ## Chapter 1

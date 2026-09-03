@@ -8,6 +8,8 @@ year: 2015
 duration_min: 241
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Heaven, Hell and Eternity/Judgment", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/heaven-hell-and-eternity/judgment", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 how many do you have 19 18 then the big three Jesus and blind bmus it's another story that you can use not that you can use it's not you can use you are telling about what you know isn't it blind bimus that's T Wonder yes blinding from birth isn't it Lying by the roadside waiting for Jesus then suddenly Jesus comes people say you got to shut up but blind bimus continues to cry all the more all the more and then in the end Jesus said let him be brought to me wow he comes to Jesus

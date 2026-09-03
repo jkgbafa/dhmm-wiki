@@ -4,6 +4,8 @@ book: "Enlargement Secrets"
 book_number: "075"
 chapter_number: 18
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ### CHAPTER 17\

@@ -8,6 +8,8 @@ year: 2003
 duration_min: 11
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Amen. Ameny. So right here at the back of the book, create. Everybody should be an atmosphere creator kind of person for yourself. Music.

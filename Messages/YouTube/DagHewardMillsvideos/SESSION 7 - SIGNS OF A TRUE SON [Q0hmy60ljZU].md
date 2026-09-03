@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Q0hmy60ljZU"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 every pound every dollar every unit of any currency you put into this great work touches their life in a town in a village in a nation somewhere and I believe that as we watch this many of you have been touched to even do more to support this great work God is doing not only in Africa but also in other nations of the world and what we see a big thank you to the Lord for making it possible or just to happen clap your hands for Jesus and how many of you know that God has bled

@@ -9,6 +9,8 @@ duration_min: 33
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MIRACLE OF THE DEMONIAC IN THE SYNAGOGUE DOMINICAN REPUBLIC DAG HEWARD-MILLS 2024 [g1sWm4gFKtQ]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Now let's go into the miracle of the demon-possessed man in the synagogue. Mark chapter 1 is interesting in these miracles. Each of these individuals, the testimonies of these people, these miracles teach us many things. Mark chapter 1 says, "It was the Sabbath, and he went directly into a synagogue, which we are seeing here. It is 19. It says, ' And it was the Sabbath day, and he went directly into a synagogue.' It says, 'And they were astonished at his teaching, for they marveled, saying, "Where does this man have authority?"' And there was in the synagogue

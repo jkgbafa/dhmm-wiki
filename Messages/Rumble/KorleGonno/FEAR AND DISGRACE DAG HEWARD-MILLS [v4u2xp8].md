@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u2xp8/"
 duration_min: 48
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 This morning he's preaching again, and one of those nice, wonderful messages that blesses our hearts and lifts us to the place where God wants us to be. I know you will never be the same again. I've been longing to hear the messages, I've been longing to hear. I hear it on tape, but today I will hear it live, ladies and gentlemen. Please, with Jesus' joy, let's welcome our bishop as he comes.

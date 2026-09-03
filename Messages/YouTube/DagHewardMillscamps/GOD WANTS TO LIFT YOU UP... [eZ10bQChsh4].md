@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=eZ10bQChsh4"
 duration_min: 35
 source: "autocaption"
 match: "fuzzy"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Of the church must end or it will end. We are blessed this wonderful morning. God has been gracious to us. God has honored us. God has favored us.

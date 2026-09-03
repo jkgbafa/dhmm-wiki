@@ -8,6 +8,8 @@ year: 2001
 duration_min: 84
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number two of victory in pegamos 20 reasons why we must be Soul winners now this is going to be under I mean it's it's under I'm giving that to you because uh the first deception of pamos is what that the bodies and so on are more important than the soul is that not so yes but I believe that we are supposed to be Soul winners amen amen amen amen and this is very important actually there are 54 reasons but I just want to give you 20 number one without Soul winning there will

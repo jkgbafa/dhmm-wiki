@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ug39l/"
 duration_min: 63
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/faith", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 You may be seated in the presence of the Lord. Are you glad to be in church? Great. It's good to be back home. Good to see all of you again.

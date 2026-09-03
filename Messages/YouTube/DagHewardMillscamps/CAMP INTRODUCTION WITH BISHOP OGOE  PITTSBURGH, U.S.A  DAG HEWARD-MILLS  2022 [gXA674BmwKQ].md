@@ -8,6 +8,8 @@ year: 2022
 duration_min: 31
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting"]
 ---
 
 I need you to know you know I want to have sound in the monitors the monitors if the monitors are working if they are here for a reason then there should be sound in them otherwise come for your monitors come and collect your monitors but I want you to know that you are at the best place of your life if if you are here if you are here at this Camp then you are about 500 km ahead ahead ah heard and just like you I also cannot wait for our prophets to be here actually I'm

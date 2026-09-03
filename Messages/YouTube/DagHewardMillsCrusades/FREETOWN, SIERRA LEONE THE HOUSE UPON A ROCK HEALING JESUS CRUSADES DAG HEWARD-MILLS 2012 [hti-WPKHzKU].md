@@ -8,6 +8,8 @@ year: 2012
 duration_min: 119
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Soon and very soon we are going to see the king Soon and very soon we are going to see the King Soon and very soon we are going to see the King Hallelujah Hallelujah We are going to see oh soon and there we are going to see oh soon and very soon we are going to see thee Yes soon and there soon we are going to see Hallelujah Hallelujah We are going to see the King And no more crying there We are going to see the King No more crying there We are going to see

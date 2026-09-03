@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=mF_xKlYlRtY"
 duration_min: 152
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Tonight is a very special night. Cette nuit est une nuit special. Bon, j'amène l'un des aman de vos. God is going to bless us greatly through the evangelist tonight. Par l'évangélisme ce soir, Dieu va nous bénir abondamment.

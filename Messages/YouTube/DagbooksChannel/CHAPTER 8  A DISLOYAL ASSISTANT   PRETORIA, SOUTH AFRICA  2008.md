@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2008
 source: "autocaption"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Loyalty and Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 2 Kings chapter 13 verse 14. Now Elisha was fallen sick of his sickness whereof he died. And Joash the king of Israel came down unto him and wept over his face and said. Oh my father, my father, the chariot of Israel and the horsemen thereof. And Elishah said unto him, Take bow and arrows. And he took unto him bow and arrows. And he said to the king of Israel, "Put thine hand over under the bow." And he put his hand Elijah put his hands on the king's hands and he said, "Open the window eastward." And

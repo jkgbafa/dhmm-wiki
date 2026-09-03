@@ -8,6 +8,8 @@ year: 2011
 duration_min: 80
 source: "whisper"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 You gave me time when no one gave me time of day. Oh you looked at me while the rest of the world looked away and you smiled at me when there were just frowns everywhere, Lord, you gave me love when no one gave me time of day Oh that's why I call you Savior and that's why I call you for you touch my heart and you touch my soul you help me start all over again that's why I love you, Jesus, and that's why I always care you gave me love when nobody gave me a praise oh you gave me laughter after I cried oh my tea oh yes you did and you heard my prayer when the rest of the world this in you looked in my heart and you found such tenderness you gave me love when nobody gave me a breath Oh that's why I call you Savior and that's why I call you pray Lord you touch my heart and you touch my soul you help me start all over again and that's why I love you Jesus and that's why I'll always care you gave me love nobody gave me a praise that's why I call you my savior and that's how I know you're my friend you touch my heart and you touch my soul you help me start on over again and that's why I love you Jesus and that's why I always came 'cause you gave me love nobody gave me a praise Oh you gave me time no one gave me time a day oh you looked at me when the rest of the world looked away Lord you smiled at me when there were just frowned everywhere yes, you smiled at me.

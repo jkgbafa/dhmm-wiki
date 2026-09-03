@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tqy5KoqGjCo"
 duration_min: 166
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 not that H for the water my soul long you alone you are my heart's desire and I long to Worship You To Worship You I said ped for I ped for the water the water Soul after long after the you alone you alone are my heart desire and I long to worship you you alone you are alone Are My Strength are my strength and my sh to you alone to you my spirit may my SP you you are Lord you are my my heart desire night long to worship you we are going to start all

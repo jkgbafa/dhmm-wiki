@@ -8,6 +8,8 @@ year: 2008
 duration_min: 69
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 welcome to track number three of warfare Keys Hallelujah lift your hands and thank God for tonight father thank you for your blessing thank you for speaking to us already Lord thank you for your mercy your blessing thank you for your power holy spirit thank you Jesus we love you Lord we praise you father thank you Lord for your great blessing in the name of Jesus we love you and we pray that your spirit will open our eyes for a few moments that we are here tonight we thank you Lord in Jesus name amen you may

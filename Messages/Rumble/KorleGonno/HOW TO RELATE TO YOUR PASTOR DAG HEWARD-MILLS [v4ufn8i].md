@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ufn8i/"
 duration_min: 76
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 This morning I believe that our father is back with us. Hallelujah. But he's really here with us to speak into our lives and to share from his heart to our hearts. And I trust that as we open our hearts, God is going to speak to us, direct us and bless our lives. If you're excited this morning, stand to your feet, please.

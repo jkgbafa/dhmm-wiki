@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=klRkqEeIjjw"
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Vision and Direction"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/vision-and-direction"]
 ---
 
 let us pray peon Heavenly Father thank you for today nestled ethnicity Pazuzu and a great opportunity that we have in you it said can't look at your canoes of all on tois guide us by your spirit kanji new pattern is free and let your will be done it critical aunty swathe in Jesus name Ananda GG we thank you dear Lord Nutella make your senior great thing that you are doing doing content conscious beyond tendency in our lives don't know fee thank you Nephi in Jesus name well known the city and everyone said amen it's all

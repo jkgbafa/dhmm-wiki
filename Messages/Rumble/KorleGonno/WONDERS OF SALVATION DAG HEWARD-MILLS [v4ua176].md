@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ua176/"
 duration_min: 29
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Salvation"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/salvation"]
 ---
 
 What does it say? No, let's read from verse 21 because you are too known. What does 21 say? Okay, nobody can answer. But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets.

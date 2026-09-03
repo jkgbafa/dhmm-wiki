@@ -9,6 +9,8 @@ duration_min: 111
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/FINANCIAL RED LIGHTS IN PERGAMOS  BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2001 [pud5QjO-71k]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number seven of Victory in Pegamos. Everybody say victory in Pergamos. We started the camp by reading about the book of Revelation. There were seven churches. Is that not so?

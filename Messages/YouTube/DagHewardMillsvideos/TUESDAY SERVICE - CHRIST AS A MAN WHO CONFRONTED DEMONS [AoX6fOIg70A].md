@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=AoX6fOIg70A"
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 with an unclean spirit who had his dwelling among the tombs and no man could bind him no not with chains all right and the change had been plucked asunder by him the fetters broken in pieces neither could any man tame him and always night and day he was in the mountains and in the tombs crying and cutting himself with stones amen amen are you understanding but when he saw Jesus afar off here on and worshiped him and cried with a loud voice and said what I what have I to do with thee Jesus thou son

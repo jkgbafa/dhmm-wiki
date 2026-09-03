@@ -4,6 +4,8 @@ book: "How You Can Become A Strong Christian"
 book_number: "045"
 chapter_number: 10
 type: book
+topics: ["Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 Chapter 9\

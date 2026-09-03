@@ -4,6 +4,8 @@ book: "Faith Secrets"
 book_number: "060"
 chapter_number: 39
 type: book
+topics: ["Faith", "Ministry and Pastoring"]
+tags: ["topic/faith", "topic/ministry-and-pastoring"]
 ---
 
 ### Chapter 38\

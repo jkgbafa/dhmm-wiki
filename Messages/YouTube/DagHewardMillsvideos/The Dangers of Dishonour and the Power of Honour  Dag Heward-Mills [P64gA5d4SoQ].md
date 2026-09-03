@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=P64gA5d4SoQ"
 duration_min: 45
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 One is dishonorable. There are people who dishonor the servants of God. And I'm reading you this book, Dishonor, and I wrote it before I met you. I didn't write it for you, I wrote it a long time ago . So don't think that what I say about this book is because of you . Amen. First, their absence can be a sign of dishonor. His absence, not being here, could be a sign. Yes. And what happens in some of them? In 1 Samuel, chapter 1, verse 15. This was when Saul was rejected. Saul pleaded with Samuel,

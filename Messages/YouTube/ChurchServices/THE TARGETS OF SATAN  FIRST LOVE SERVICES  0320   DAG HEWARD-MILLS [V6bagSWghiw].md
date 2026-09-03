@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=V6bagSWghiw"
 duration_min: 247
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father in Heaven how we love you would you mind lifting your voice and singing to God this morning your name Hallelujah the earth now tell him that may your kingdom be established estblished in our Praises our Praises church are you ready to sing this song to God declare declare your mighty blessed be the Lord come on CH sh sh sh chur raise your voice and sing it who was and is who was and is blessed be the Lord the Lord oh godmy who ra who ra one more time chur blessed be the Lord blessed be

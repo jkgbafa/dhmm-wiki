@@ -8,6 +8,8 @@ year: 2013
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 feel like your life has end get nowhere to go your future holds no promises you're at a No Time Low whatever you do is just not enough you feel like you're giving up thoughts of cashing it all in every situation is a nowh I know someone who's there on on him you can cast your burdens to him you can give your care cuz he's more than a friend a real friend that love you at all time more than a friend yes it will more than a friend a true friend that sticks closer than a brother

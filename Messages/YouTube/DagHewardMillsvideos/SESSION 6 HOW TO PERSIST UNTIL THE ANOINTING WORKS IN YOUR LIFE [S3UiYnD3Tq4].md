@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=S3UiYnD3Tq4"
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 I stand before you you'll see and don't work me how can I be forgiven me and made holy though I know I break your heart but you promised I could start all over and all the things I've done you placed and each and every one into the sea of forgetfulness you placed all of my thing I'm the one who keep reminding you over and over again into the sea of forgetfulness yeah forgive me and you can let the Mustang into the be up again you welcomed me with open arms and in spite of all I've

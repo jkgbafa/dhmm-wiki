@@ -8,6 +8,8 @@ year: 2019
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 I received a call from God the other day I was just a young person he spoke to me and said my child you are mine you must work and you must preach do you know the secret of prosperity seek ye first the kingdom of God and all these things that people seek for I will give them all to you I'll go where I have to go preach what I have to preach have the maximum impact yeah I'll go where I have to go preach what I have to preach I will have the Maximum Impact yeah

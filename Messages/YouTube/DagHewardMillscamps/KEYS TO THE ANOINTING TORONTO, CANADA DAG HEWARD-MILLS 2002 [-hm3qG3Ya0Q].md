@@ -9,6 +9,8 @@ duration_min: 106
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/KEYS TO THE ANOINTING  TORONTO, CANADA DAG HEWARD-MILLS  2002 [-hm3qG3Ya0Q]]]"
+topics: ["Anointing", "Church Growth", "Church Growth/Mega Church", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/church-growth", "topic/church-growth/mega-church", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number two of the mega church. There were people you think would not get married. Really? Sometimes you just wonder, Lord. How can it be?

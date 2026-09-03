@@ -8,6 +8,8 @@ duration_min: 160
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/TEN COMMANDMENTS OF SALVATION FIRST LOVE SERVICES 1217 DAG HEWARD-MILLS [ogxG83NnyeI]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Salvation", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/salvation", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Lord how they increas that troubled me many are they that rise up against me May there be that say of my soul that there is no help for him in God but thou oh Lord are a shield for me my glory you lift my head but thou oh Lord are a shield for me my glory you lift my head I cried onto the Lord with my voice and he heard me out of his holy i l me down and I slept I awake for the Lord preserved me but thou oh Lord are a shield for

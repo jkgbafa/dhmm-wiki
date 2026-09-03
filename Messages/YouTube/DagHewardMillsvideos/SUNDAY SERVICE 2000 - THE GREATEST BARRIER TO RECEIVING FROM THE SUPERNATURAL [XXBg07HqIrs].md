@@ -8,6 +8,8 @@ year: 2000
 duration_min: 36
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 let's pray father thank you for this morning thank you for your word to us we thank you for an opportunity to be in your presence to receive your word to grow in you and to become what you want us to become hollow would be thy name in Jesus name Amen hallelujah you may be seated I'm happy to be back here I was in Panama in South America and also for convention a church invited me there and I was also in America in a part of the states where our churches in North America and Canada were

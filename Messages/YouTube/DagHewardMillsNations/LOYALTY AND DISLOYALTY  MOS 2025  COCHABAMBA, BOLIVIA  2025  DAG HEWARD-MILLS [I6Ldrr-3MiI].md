@@ -8,6 +8,8 @@ year: 2025
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Let's pray. Father, thank you for this day and for your power that is manifested in the name of Jesus. I pray for all those who are here, that you may touch our lives with your holy word. We are grateful in the name of Jesus. Amen. God bless you. You may now sit down. You can lower the pulpit, please. the pulpit down there as it was yesterday. No, no, no. The pulpit. Already. Thank you. Alleluia. Today I want to share something very important with you, and that is about loyalty and disloyalty. Amen. Eodos. Now, Exodus chapter

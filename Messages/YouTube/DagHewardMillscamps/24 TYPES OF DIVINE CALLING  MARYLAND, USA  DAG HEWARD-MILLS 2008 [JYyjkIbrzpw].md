@@ -8,6 +8,8 @@ year: 2008
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Call of God", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-call-of-god", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 you didn't clap like that when I came I'm suspecting this loyalty here anyway please sit down I wanted to just say hi she's a preacher herself so she's more popular than I am you clap louder for her but I'm still in charge so welcome have to say hello Hallelujah well I'm honored to be here among honorable people this is the first International Gathering I'm coming to this year it's a privilege a lot has happened and the Lord is taking me from day to day I've learned to ask him to give me this day my daily

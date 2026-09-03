@@ -8,6 +8,8 @@ year: 2017
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 Amen. Well, before we carry on tonight, we are blessed to have very great men and women of God here. Tonight is the last night unfortunately of the um this conference give yourself holy conference and um tonight is the last night. We have had great men and women s of God sitting here to receive and it is right. cannot introduce everybody but at least one or two can come up and say hello to us. So with Jesus joy I'd like to invite the general secretary of Assemblies of God in the whole of South Africa Apostle Lafoy

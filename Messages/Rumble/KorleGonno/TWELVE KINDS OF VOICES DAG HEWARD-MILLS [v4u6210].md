@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u6210/"
 duration_min: 62
 source: "whisper"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 It's up to me to decide. But how can I expect to win if I never try I just can't keep up now? I've come too far from where I started from Nobody told me the road will be easy. Never said there wouldn't be trials. Never said I wouldn't fall.

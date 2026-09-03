@@ -8,6 +8,8 @@ year: 2024
 duration_min: 45
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Alright, now let's go into church growth. Sit down. All these things bring about church growth. Amen. Gloria God.

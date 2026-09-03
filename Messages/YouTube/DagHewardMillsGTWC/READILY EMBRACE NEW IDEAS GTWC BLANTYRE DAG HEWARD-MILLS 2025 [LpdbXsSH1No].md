@@ -9,6 +9,8 @@ duration_min: 60
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/READILY EMBRACE NEW IDEAS  GTWC BLANTYRE  DAG HEWARD-MILLS  2025 [LpdbXsSH1No]]]"
+topics: ["Church Growth", "Wealth and Finances"]
+tags: ["topic/church-growth", "topic/wealth-and-finances"]
 ---
 
 We want to show I want to show them the nine books that have to do with church growth. Somebody has unplugged the video. Uh-huh. Beautiful. Now we want to see the nine books for church growth.

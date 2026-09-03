@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tvmo9/"
 duration_min: 62
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Let's pray. Father, thank you for the opportunity we have in church today to hear your word, to grow in your word, to do your will, Lord, lead us, we pray by your mercy. Thank you in Jesus' name. Amen. You may be seated.

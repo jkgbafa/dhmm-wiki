@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=p41jdwRqnqI"
 duration_min: 38
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Place my visitors, may God bless you, sit down, north of Argentina in the car with you. The last thing I'm going to share, or chance for you, you will have, minister, comes from the book, transform your pastoral ministry, and hand, amen, no harmony, one to be good, post, are good, steal, good pastors of the tuw dafoe boukria, there are two wonderful lines, will connect publica, but you really need to help a man, this pivot, just five minutes, mans, and I'm going to talk again for five minutes. When he became post, then became pastor, decosse and

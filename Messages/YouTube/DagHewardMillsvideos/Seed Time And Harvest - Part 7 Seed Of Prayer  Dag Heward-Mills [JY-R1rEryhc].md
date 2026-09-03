@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JY-R1rEryhc"
 duration_min: 254
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Prayer", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Vision and Direction", "Vision and Direction/The Will of God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/prayer", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 why don't you lift your two hands with me to jesus lift your hands with me to jesus and if jesus has indeed done any good thing for you i want you to lift your hands and lift your voice as well and begin to say thank you to him begin to bless him begin to honor him begin to adorn him begin to praise him begin to celebrate him even right now as your hands are lifted you want to say jesus i want to thank you i've seen in your word that is a good thing to give

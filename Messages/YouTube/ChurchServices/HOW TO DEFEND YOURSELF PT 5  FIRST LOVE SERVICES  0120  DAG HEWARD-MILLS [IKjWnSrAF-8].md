@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IKjWnSrAF-8"
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Another Sunday and we are here to hear from him be blessed by him be comforted be encouraged by him and um want to welcome all of you to our flow prophetic encounter service right now we want to enter into a moment of Thanksgiving already you can sense that the atmosphere is charged why don't you lift your hands wherever you are lifting your holy hands to the Lord and offering praise offering worship offering Ador ation acknowledging the goodness of the Living God the Bible says you should enter into his gate with Thanksgiving oh and into his

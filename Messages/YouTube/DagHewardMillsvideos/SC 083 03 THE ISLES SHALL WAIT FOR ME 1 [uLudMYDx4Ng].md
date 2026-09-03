@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=uLudMYDx4Ng"
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/faith", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 bless the lord and pray and prepare your hearts remember today is an if any monday the last days are if any man so lift your hands and pray and say lord i prepare my heart pour your seeds many of you will not get this opportunity again till next year god willing some people are going to listen to bishop every sunday but you will not get it that way you can only soak by podcast but there is something different about a person being with you live and this is the last session pray that lord what i

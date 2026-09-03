@@ -9,6 +9,8 @@ duration_min: 16
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE MEASURMENT MINISTRY  ACCRA, GHANA  DAG HEWARD-MILLS  1997 [WC7EA3pB3Mg]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number four of loyalty and the mega church. Oh, then they will do any woowear. And every time the pastor, the leader will say, This what do we wear? She will be saying this. And then they will sort of do themselves like that.

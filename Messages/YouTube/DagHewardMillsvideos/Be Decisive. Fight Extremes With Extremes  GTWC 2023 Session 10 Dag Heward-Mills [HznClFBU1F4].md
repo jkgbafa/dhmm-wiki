@@ -8,6 +8,8 @@ year: 2023
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 father thank you for the mighty presence of your spirit in the name of Jesus Christ chapter 21. we are going up to chapter 76. a good General and decisiveness James 1 verse 8. a double-minded man is unstable in all his ways amen amen listen God is a God who takes decisions it is not a good thing for you to balance in between two opinions the Bible says how long will you go between two opinions foreign how long Elijah came to all the people and said how long ability between two opinions amen that is why there

@@ -8,6 +8,8 @@ year: 2022
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/faith", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 if anyone is excuse me to use the word not without gifts it will be myself I've never seen myself as a gifted person rather as someone who lacks gifts yes so if that's how I think then you who are many of you are so naturally you can see that there something there's some kind of gift about you should be doing much more amen amen now use the gift or lose the gift use the gift or lose the gift use the gift or lose the gift what gift the gift of God now the gift that God

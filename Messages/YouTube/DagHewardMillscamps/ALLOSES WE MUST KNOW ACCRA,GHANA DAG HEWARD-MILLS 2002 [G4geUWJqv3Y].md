@@ -8,6 +8,8 @@ year: 2002
 duration_min: 27
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to track number three of Zocria ten alosis that you must that you must know about you must number one another pastor of the same kind, a loss pastor, a loss pastors. How many want other another pastor of the same kind? Hallelujah. Number two, another church, a loss church, alone's churches. We want a loss churches.

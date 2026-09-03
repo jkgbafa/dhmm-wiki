@@ -9,6 +9,8 @@ duration_min: 148
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/CHURCH PLANTING  ISI SOWETO  DAG HEWARD-MILLS  2015 [IV49Zt-P9zM]]]"
+topics: ["Church Growth", "Church Growth/Church Planting", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah. I believe this week our lives are not gonna be the same again. Can I hear an amen? How many of you have come here to be transformed by the power of God? And you've come here to learn and receive from the Lord.

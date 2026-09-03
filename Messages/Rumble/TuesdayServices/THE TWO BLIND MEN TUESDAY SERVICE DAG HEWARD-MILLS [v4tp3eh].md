@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tp3eh/"
 duration_min: 109
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Everywhere he went he was doing good the mighty healer Jesus he cleansed the leper and when the people saw him they started walking everywhere he went everywhere singing one more time everywhere he went everywhere he was doing good he's a mighty healer what a mighty God we serve what a mighty God live what an a mighty God just as the piano and the congregation what a mighty God we serve what a mighty God fill this room with your worship I can feel your presence Jesus Angels bow before bow before him bow before allow me to introduce one tree song a bosom I'll explain it can I get a witness in the house means our ancestors means our ancestors worship idols and little gods that means but as for we can I get a witness in the house we will worship Jehovah can we sing it one more time we'll come back to the English so me very softly congregation lift your hands let's sing one more time what a mighty God we ser I'm so happy I'm so happy what a mighty God Angels bows by people.

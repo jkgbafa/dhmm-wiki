@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2014
 source: "autocaption"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances"]
 ---
 
 Three causes of disloyalty. Three causes of I was talking about six principles of disloyalty. That's chapter four. I'm on chapter five. Those who are ignorant now three causes. One, an erratic personality. There are some people they are they just prone to make sudden changes. Do you have an erratic personality? Erratic personality means you are erratic. What does erratic mean? Huh? Disposed to make sudden decisions. Suddenly you change to another girl. Suddenly it's another person. You join winners chapel. The next time I see you, you are in redeemed church of God. The next time I see

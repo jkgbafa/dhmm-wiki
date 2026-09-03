@@ -9,6 +9,8 @@ duration_min: 106
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE DUTY OF PRAYER  WARWICK LE LAGON, VANUATU  DAG HEWARD-MILLS  2024 [o2sWKi9CL7o]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 Right, you may be seated, Acts chapter six and verse four, Acts chapter six. Acts chapter six and verse four says, but we will give ourselves continually to prayer and to the ministry of the word. Now, very important is that prayer is half of the work of the Lord. Prayer is half of the work, and that is what I'm trying to share with you this morning. The duty of prayer, the duty of prayer.

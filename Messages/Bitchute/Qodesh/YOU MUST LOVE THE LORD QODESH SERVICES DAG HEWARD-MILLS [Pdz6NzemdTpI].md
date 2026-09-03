@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/Pdz6NzemdTpI/"
 duration_min: 97
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Salvation", "Salvation/Repentance", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/salvation", "topic/salvation/repentance", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I will rejoice in you and be glad. I will enjoy your love and wine. Draw me after you and let us run together. I will rejoice in you and I will rejoice. I will rejoice in you and be glad.

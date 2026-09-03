@@ -8,6 +8,8 @@ year: 2023
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism"]
 ---
 
 h I the e e I e e the you e e all e for e e e spe e hey hey he expect fore GL hallelujah hallelujah hallelujah hallelujah hallelujah hallelujah hallelujah hallelujah are you excited to be here today then I want you to clap your hands and give the Lord a shout of praise tell tell your neighbor your life will not be the same again hallelujah hallelujah you may be seated if you have a seat vers that first day of healing Jesus campaign here in beautiful Lille Gabon God is going to touch our lives

@@ -4,6 +4,8 @@ book: "The Church Must Send Or It Will End"
 book_number: "082"
 chapter_number: 14
 type: book
+topics: ["Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 ### CHAPTER 13\

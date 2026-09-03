@@ -8,6 +8,8 @@ year: 2005
 duration_min: 94
 source: "whisper"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Amen. Christ-likeness, especially in the area of loyalty and disloyalty. Amen. So I'm I'm now sharing from this book a new book on loyalty, leaders, and loyalty. Now the first, I want to show you eleven qualities that if you can imbibe, assimilate, accept, adopt, imbibe, receive, and um be immersed into, you will become powerfully significant.

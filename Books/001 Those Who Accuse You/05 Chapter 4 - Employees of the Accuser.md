@@ -4,6 +4,8 @@ book: "Those Who Accuse You"
 book_number: "001"
 chapter_number: 5
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 ## Chapter 4

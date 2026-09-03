@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=P85EEkoFfSY"
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Missions"]
+tags: ["topic/missions"]
 ---
 
 let us pray father thank you for this opportunity as we come before your holy word we ask you to bless us and guide us by your spirit in Jesus name Amen you may be seated this evening and really share with you from Oswald J Smith something short on the title is the why and the how of foreign missions why we should have foreign missions amen why should the church evangelize well number one because God's Word commanded number two because God's plan demands it and the two how come the world evangelize how can the church evangelize

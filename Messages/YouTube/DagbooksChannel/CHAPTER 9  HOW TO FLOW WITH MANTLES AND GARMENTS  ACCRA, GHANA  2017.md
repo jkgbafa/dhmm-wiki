@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2017
 source: "autocaption"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 And now tonight I want to share with you about flowing with the anointing. Hallelujah. Now when we talk about flowing with the anointing, it is about um flowing with the Holy Spirit. Now the Holy Spirit is what do you call it? A spirit and spirits are some of the most difficult things to flow with because we are physical. We are spirits but we are trapped in bodies and because of that we are often unable to relate with the spirit world. All right. Now, um the spirit world, imagine the demon of Gdara, which had a legion

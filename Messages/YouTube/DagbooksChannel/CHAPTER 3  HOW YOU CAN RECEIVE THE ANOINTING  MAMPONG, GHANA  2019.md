@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2019
 source: "autocaption"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Amen. You may be seated. Now, how you can receive the anointing? Number one, terminated transferred anointing. That is the first way and that in that way somebody's life and ministry is terminated like Elijah and then it results in Elisha beginning to minister like Peter and John and James when Jesus life and ministry was terminated on earth then you have uh Peter and James and John beginning to minister. Number two, living transferred anointing. So this you can find this in chapter number [snorts] three of how the mega church anointing living transferred anointing. This is that a

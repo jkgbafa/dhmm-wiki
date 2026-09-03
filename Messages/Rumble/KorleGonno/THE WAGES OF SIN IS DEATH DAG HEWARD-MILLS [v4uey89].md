@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uey89/"
 duration_min: 48
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Thank you, Lord, for the blessings we have in you. Lord, guide us, lead us into all truth and into your will. Thank you for this great day, great opportunity. We thank you in Jesus' name. Amen.

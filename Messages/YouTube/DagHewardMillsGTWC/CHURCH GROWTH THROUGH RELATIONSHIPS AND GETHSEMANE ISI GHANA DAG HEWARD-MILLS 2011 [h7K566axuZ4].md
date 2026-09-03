@@ -8,6 +8,8 @@ year: 2011
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Prayer"]
+tags: ["topic/church-growth", "topic/prayer"]
 ---
 
 Righteousness, peace, joy in the Holy Ghost, righteousness, peace and joy in the Holy Ghost, that's the kingdom of God, righteousness, peace, joy in the Holy Ghost, righteousness, peace and joy in the Holy Ghost, that's the kingdom of God. Don't you wanna be a part of the kingdom? Don't you wanna be part of the kingdom? Don't you wanna be a part of the kingdom? Come on, come on, everybody.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=sscI3uE-asw"
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 this morning I am sharing about take up your cross sacrificing and suffering for Jesus Christ amen Matthew chapter 16 verse 24 it says then jesus said unto his disciples If any man will come after me let him deny himself and take up his cross and follow me amen for whosoever will save his life shall lose it and whosoever will lose his life for my sake shall find it amen now how many of us have been saved by Jesus Christ can I have a wave very good so this morning I am sharing with you about something

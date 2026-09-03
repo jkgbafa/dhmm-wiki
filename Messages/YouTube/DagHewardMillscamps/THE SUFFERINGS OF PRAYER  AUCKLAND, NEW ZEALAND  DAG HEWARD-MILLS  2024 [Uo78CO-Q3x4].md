@@ -8,6 +8,8 @@ year: 2024
 duration_min: 25
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/All-night Prayer"]
+tags: ["topic/prayer", "topic/prayer/all-night-prayer"]
 ---
 
 who may be seated now this morning we want to share about we are on a Prayer seminar oh yeah and the sufferings of prayer the sufferings of prayer amen amen yes now to suffer means to undergo all right or be subjected to or to endure pain distress loss or anything unpleasant pain distress loss injury or anything unpleasant or any experience so when you pray you must have uh you experience some unpleasant thing that's why people don't pray that's all why do people have a lot of sex all around it's not a suffering there's no suffering

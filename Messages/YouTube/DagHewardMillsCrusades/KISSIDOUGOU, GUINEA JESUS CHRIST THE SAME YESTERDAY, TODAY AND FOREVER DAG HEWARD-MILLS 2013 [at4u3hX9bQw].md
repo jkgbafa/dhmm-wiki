@@ -8,6 +8,8 @@ year: 2013
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Il est inador. Jésus est de la louange. Je vais l'adorer tous les jours. Sous la voix qui est là. Sous la voie d'assaut à cette douce.

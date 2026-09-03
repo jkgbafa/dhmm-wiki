@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ocE8zE7aveo"
 duration_min: 28
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up"]
 ---
 
 Welcome to track number 10 of warfare keys. Key number 10. Attack the hidden agenda. And motifs that are not the goal of the army. Attack what?

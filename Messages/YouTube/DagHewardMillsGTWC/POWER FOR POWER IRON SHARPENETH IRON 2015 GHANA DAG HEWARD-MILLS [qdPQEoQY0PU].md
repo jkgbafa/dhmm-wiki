@@ -8,6 +8,8 @@ year: 2015
 duration_min: 138
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/anointing", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 If you're not harmless as you will never never never make it, and if you're not a wise as a serpent, you will never, never, never make it, Jesus said I give you power the power of God, so you can cast out devils, and as you go, I want you to preach my word, preach about the kingdom the kingdom of heaven heal the sick, plant the lepers, raise the dead freely, you receive freely if you're not harmless as you will never never never make it if you're not a wise as a serpent, you will never, never, never make it if any man come unto me and hate not his father and his mother and his beautiful wife too and his children, brothers and sisters, yea, and his own self, he cannot be my disciple, and who so ever take up his cross and come out to me.

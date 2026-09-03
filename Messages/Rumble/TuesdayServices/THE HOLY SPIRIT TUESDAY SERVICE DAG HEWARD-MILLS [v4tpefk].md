@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tpefk/"
 duration_min: 60
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Prayer", "Prayer/Praying in Tongues", "The Holy Spirit"]
+tags: ["topic/faith", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/the-holy-spirit"]
 ---
 
 Let us pray. Father, thank you so much for this evening. Thank you for the opportunity that we have to serve you. Lord, we ask that you speak to our hearts in the few moments that we have granted you to speak to us. We thank you for your mercy and your grace that keeps us.

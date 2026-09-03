@@ -9,6 +9,8 @@ duration_min: 170
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/WHY LOYALTY IS IMPORTANT PROPHETICALLY  GTWC ETHIOPIA  DAG HEWARD-MILLS  2017 [yTX2oS1z6oo]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 My friend came to me the other day as we walked along the way. She said, I've got something to say, and she told me of the Savior. He came, he died to set us free from a life of sin and shame. I gave my heart to him that day. That's the reason I can tell you.

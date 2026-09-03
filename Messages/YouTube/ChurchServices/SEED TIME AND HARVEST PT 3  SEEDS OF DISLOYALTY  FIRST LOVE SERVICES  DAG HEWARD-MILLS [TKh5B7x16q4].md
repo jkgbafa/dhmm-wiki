@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=TKh5B7x16q4"
 duration_min: 205
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 everybody say Amen verse four is a verse we are looking for everybody look at it beautifully I know God is going to touch your heart and something wonderful will come out of it it says that blessed is the man whom thou choosest and whom thou causest to approach unto thee that he may dwell in thy courts we shall be satisfied with the goodness of thine house even of of thine Holy Temple put your hands together for Jesus now what the Bible is teaching us here is that it is a blessing to be chosen by God

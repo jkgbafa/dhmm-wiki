@@ -8,6 +8,8 @@ duration_min: 116
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/THE GREATER LOVE OF JESUS DAY 2 BOBO DIOULASO DAG HEWARD-MILLS [0DJE-gE-J10]]]"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 J oh see let captive oh J let see I'm say let let see oh Hallelujah you oh say you let to see man see oh Hallelujah sing let see see see sh you and to see you he let his see and ser more stand to your feet tonight l I expect a miracle are you expecting a miracle tonight I if you are expecting a miracle lift your hand I expect nothing is impossible the miracle lift up your hands everybody heavenly father thank you for tonight thank you for your power Lord we ask for your presence

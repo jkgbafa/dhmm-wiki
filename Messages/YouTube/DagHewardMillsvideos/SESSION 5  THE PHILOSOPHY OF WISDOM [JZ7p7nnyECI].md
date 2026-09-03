@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JZ7p7nnyECI"
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 no by my god even sanxenxo roses vicky agüera profession good practice only sprint without decision description and decisive but today is still and the still carried a good the cannabis is still out waker maybe from Japanese wii and is still further out not yet the ball the faces i let's see maybe hello jospin of social type the priests llosa no yes yes this is the I chose pension of skin paths of another room d d m d for me life is for you I stayed those that life well works on his pain of exclusion one

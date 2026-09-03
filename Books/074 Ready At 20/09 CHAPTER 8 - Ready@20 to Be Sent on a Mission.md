@@ -4,6 +4,8 @@ book: "Ready At 20"
 book_number: "074"
 chapter_number: 9
 type: book
+topics: ["Missions"]
+tags: ["topic/missions"]
 ---
 
 ### CHAPTER 8\

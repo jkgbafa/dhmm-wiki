@@ -8,6 +8,8 @@ year: 2010
 duration_min: 89
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 thank you thank you Hallelujah are you still around all right then you are genuine agents Hallelujah now I am sharing now about the anointing I was telling you earlier that there are two things two qualities amen all right one is a leader and then the other is to be anointed amen can you come here my friend can you come yeah come and your friend come yeah are you afraid how old are you 22 very good and you 28 28 okay so if this brother is a leader and he's anointed that's it then you are ready

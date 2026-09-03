@@ -8,6 +8,8 @@ year: 2007
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 right are you there back to poos and we were at 2 Corinthians right chapter number what now another important test for you are you there are you there you are not there is the test of fear where I put thee in remembrance that thou stir up the gift of God which is indeed by the putting on of my hands for God has not given us the spirit of fear but of power and love and a sound mind there are many frightening things about the ministry you get it and you're going to have to overcome them

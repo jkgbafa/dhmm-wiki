@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tylb8/"
 duration_min: 66
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 After all we've been through, we still have Is love. Oh, we still have his love. Oh, we still have this love. After all we've been through, after all we've been through. I said, after all we've been through.

@@ -8,6 +8,8 @@ year: 2015
 duration_min: 89
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 I'll be thinking of you thinking of you and though we're far apart you're in my heart and there you'll always stay till we meet again someday I'll be thinking of you you I'll be praying for you pray in all your hopes and dreams that they will come true and should there be some rain I know the sun will shine again cuz I'll be praying for you ooh o and if you have some problems see don't let them ever get you down just remember just remember God's strength is always around right oh and I hope your

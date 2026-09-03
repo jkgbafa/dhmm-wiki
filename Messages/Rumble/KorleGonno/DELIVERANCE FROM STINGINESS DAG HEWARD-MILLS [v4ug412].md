@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ug412/"
 duration_min: 46
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Deliverance", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Wow. Give them a clap offering, please. I said Hallelujah. Are you excited to be in chair this Sunday morning? Are you ready for the word of God this morning?

@@ -9,6 +9,8 @@ duration_min: 47
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/HOW CAN YOU FULLFIL THE CALLING GTWC BRAZZAVILLE DAG HEWARD-MILLS 2017 [8ogwzkvAVw8]]]"
+topics: ["Ministry and Pastoring", "The Call of God"]
+tags: ["topic/ministry-and-pastoring", "topic/the-call-of-god"]
 ---
 
 Father, thank you for this blessing that you have given us in the name of Jesus. Amen. Please take a seat. We've heard about the mega church. This is the call by which God has called us. Now we want to know how to fill out this call. Amen. And one of the fundamental means to fulfill this call through light. The light. Isaiah chapter 60 and verse 1. Isaiah 60 verse 1. What is written? Arise, be bright, for your light has come and the glory of the Lord rises upon you. Amen. Arise, arise, be enlightened, for your

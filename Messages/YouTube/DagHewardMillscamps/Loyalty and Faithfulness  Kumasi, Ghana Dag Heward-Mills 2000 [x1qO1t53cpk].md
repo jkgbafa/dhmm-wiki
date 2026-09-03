@@ -8,6 +8,8 @@ year: 2000
 duration_min: 179
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 light the final time for the final time it's so wonderful God God God God God God I said God's love it's so wonderful God's love so wonderful Wonder it's so high it's so high you can't get you can't get it's so low and it's so white so it's so high yeah and it's it's all it's all wide it's so wide yeah I said God God God love Yeah Wonder it's so wonderful it's so wonderful it's so Wonder wonderful God's God's God's love God wonderful God God so wonderful God it's so wonderful wonderful it's so hard

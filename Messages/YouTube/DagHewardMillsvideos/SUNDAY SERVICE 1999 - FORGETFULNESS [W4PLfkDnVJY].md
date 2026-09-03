@@ -8,6 +8,8 @@ year: 1999
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Fasting"]
+tags: ["topic/fasting"]
 ---
 
 in terms of backsliding and I want to continue ministering about that hallelujah hallelujah the next symptom of box how many used to come for this service before you have some notes which are the symptoms we have done before can you tell me number one is what I can hear you back from penny number two parent looking backwards number three are you you have any note number three is what what are the thing over confidence on before all right I'm not hearing you can see Deuteronomy chapter 8 we just continue from there you try to meet

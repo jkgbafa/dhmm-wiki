@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9wfnCWs5yfk"
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 hallelujah bear Americana kazoo giggle or nasarah Carrera come on Dina Jolson swapnika this is not a zoo no sire saucer Dean Acheson teenager Derrick Akal course Agora somebody somebody's gonna Gina salsa upon a car this is not a zoo Josiah's Oh sir he nacho su dinero say ah Kakaako for resort a Carrera con andina hotel japonica dissing ah je su Josiah's Oh Serena Tetsu dementia say ah Kakaako for resort a hinata hinata hinata hinata to De Niro said oh he said you are so good everybody thinking I just denied denied denied a to be Mary

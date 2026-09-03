@@ -9,6 +9,8 @@ duration_min: 119
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/REASONS WHY WE SHOULD AVOID PSEUDO MINISTRY  ISI PARIS  DAG HEWARD-MILLS  2015 [N5NGLNdF4VE]]]"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 You may be seated. This morning. So Matam. God is taking us further into the ministry. Do not ministere.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tNSDaj5MZdc"
 duration_min: 65
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 like a father feeds his children we'll always let's go I'm swimming we have not is our poll I see like as we coming to his frets passing him leads us from his brother I did taking up we our children are like to Shepard up I have made a choice the Shepard nor do I stand No oi Jim Oh hi oh yes I will massive Jesus you are my said cheese holy ETSI god best set years back Jesus that's wrong to do Oh yes sir cheese ha yeah father thanks a million for the great blessing of

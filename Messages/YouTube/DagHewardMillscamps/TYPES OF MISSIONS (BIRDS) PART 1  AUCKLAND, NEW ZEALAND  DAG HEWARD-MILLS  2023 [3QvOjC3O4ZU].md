@@ -8,6 +8,8 @@ year: 2023
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Missions"]
+tags: ["topic/missions"]
 ---
 
 all right you may be seated wow Mery now we are going to look at something very important now turn to Matthew chapter 13 Matthew chapter 13 verse 31 another Parable put he forth unto them saying the Kingdom of Heaven is like under a grain of mustard seed which a man took and swed in his field amen amen which indeed is the least of all seeds but when it is grown so this morning we looked at when it is grown now we're going to look at the birds look at the birds now Birds it says it

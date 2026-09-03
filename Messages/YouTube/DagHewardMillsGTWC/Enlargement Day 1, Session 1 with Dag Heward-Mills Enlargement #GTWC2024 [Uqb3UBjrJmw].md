@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Uqb3UBjrJmw"
 duration_min: 250
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Ministries. And on this 20th anniversary. We are set for landmark experiences. Landmark experiences. You will not forget what is about to happen this week.

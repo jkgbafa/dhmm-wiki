@@ -8,6 +8,8 @@ year: 2007
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing"]
 ---
 
 sometime God wants to give you something from that person look anointing is here already it's not something that's going to come from somewhere it's like money it's already in the system and just like money you see many of us are going to live and work in London for years but there are people who are 2 years old they are richer than you will ever be when you are 70 because real wealth does not come by working in London it doesn't has it come has it come please tell me the truth it comes through the families

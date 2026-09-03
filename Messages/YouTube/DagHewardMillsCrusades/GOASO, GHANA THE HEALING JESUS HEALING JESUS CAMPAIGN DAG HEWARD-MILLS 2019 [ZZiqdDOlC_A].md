@@ -8,6 +8,8 @@ year: 2019
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Jesus went about all Galilee Healing so many diseases they brought the sick and the dumb many that were possessed the devil those who were named those who had the policy woe them heal them by his power so unto you that fear my name shall the son of righteousness arise with healing healing it is away Jesus to come in and he bore all our sicknesses great multitudes came unto him have been with them those who are those who were blind those who were dead those well prayer oh they threw them down at the feet of Jesus heal them heal them by his power but unto you that fear my day shall the Son of righteousness arise with healing healing in his way Jesus to our infirmity oh yes Jesus bore our sickness he laid his hands on every one of them oh yes he healed them he healed them by his power but unto you that be in my name shall the son of righteousness arise with healing healing in his away Jesus to our infirmity and Jesus bore our sits but unto you that fear my name shall the son of righteousness with healing healing it is away Jesus to our infirmity Jesus bore our sickness tonight you're about to hear the word of salvation the word of healing the word of deliverance.

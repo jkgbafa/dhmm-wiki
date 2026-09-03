@@ -4,6 +4,8 @@ book: "Flow In The Anointing"
 book_number: "061"
 chapter_number: 4
 type: book
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ### CHAPTER 3 \

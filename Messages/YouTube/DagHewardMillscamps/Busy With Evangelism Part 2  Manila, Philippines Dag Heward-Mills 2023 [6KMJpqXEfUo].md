@@ -8,6 +8,8 @@ year: 2023
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 thank you Jesus hallelujah amen hallelujah what a blessing amen now you may be seated occupy till I come make yourselves busy busy amen amen and busy with what evangelizing amen Jude chapter 1 Jude chapter 1 verse 21 verse 21 keep yourselves in the love of God amen amen looking for the mercy of our Lord Jesus un to eternal life now of some have compassion some people just need you to show a little compassion that's all amen some people need compass passion amen Jude 2122 wow amen some people need the compassion message making a difference others

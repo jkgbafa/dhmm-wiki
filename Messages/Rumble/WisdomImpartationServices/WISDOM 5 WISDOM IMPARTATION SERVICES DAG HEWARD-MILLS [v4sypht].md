@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sypht/"
 duration_min: 142
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer", "topic/wisdom"]
 ---
 
 God's love is greater than your father's love for you. God's love is greater than your mother's tender care or your boyfriend who says he's in love with you from age to age. God is the same, and his love will never fail. God's love is greater because he gave his life for you. God's love is greater because he shed his blood for you.

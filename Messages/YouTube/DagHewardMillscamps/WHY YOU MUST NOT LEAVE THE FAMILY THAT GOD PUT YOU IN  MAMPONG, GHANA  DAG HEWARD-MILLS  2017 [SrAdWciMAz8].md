@@ -8,6 +8,8 @@ year: 2017
 duration_min: 170
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 now that I know there's only one God in all of the earth you're my only God and I want you to know my love for you I'll never let go no no cuz I love you so w all I want Woo is to serve you if I live my life again I'll choose you it's been worth worth living for you Lord I love you and there's no one above you cuz you gave your son you gave your life and you turned my life all around you gave your life to set me free so I serve

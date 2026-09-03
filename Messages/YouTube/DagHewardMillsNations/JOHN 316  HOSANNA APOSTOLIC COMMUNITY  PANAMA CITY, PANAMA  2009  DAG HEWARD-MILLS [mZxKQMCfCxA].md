@@ -8,6 +8,8 @@ year: 2009
 duration_min: 89
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 D her Mills is interpret Pastor Pedro Rivera rece hello hallelujah hallelujah all right lift your hand let's pray heavenly father thank you for tonight we pray that you guide us lead us by your spirit thank you for your great blessing tonight is a night of Miracles salvation and your blessing we thank you Lord for your great power that is here with us tonight in Jesus name and everyone shouted amen God bless you you may be seat I want to welcome my beautiful wife ad to say hello we have been married for 20 years 20 years

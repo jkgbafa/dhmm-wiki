@@ -8,6 +8,8 @@ duration_min: 131
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/POLOKWANE, SOUTH AFRICA  THE CROSS OF JESUS CHRIST  HEALING JESUS CRUSADES  DAG HEWARD-MILLS [j-zoeQujz30]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Are you ready to receive what God has for you? Welcome to Baldi to bless us with a song. Are you ready? Are you sure you are ready? I'm too laughing.

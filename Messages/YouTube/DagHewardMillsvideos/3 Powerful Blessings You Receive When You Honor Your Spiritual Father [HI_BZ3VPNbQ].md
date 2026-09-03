@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=HI_BZ3VPNbQ"
 duration_min: 35
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Marriage and Family", "Marriage and Family/Children and Parenting"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting"]
 ---
 
 Today I want to share with you about those who honor him. I want you to come with me to chapter three: rewards for honoring your father. Amen. Three rewards. Everyone say three. 1, two, three. Three. Ephesians 6, verse 1. Obey your parents, for this is right. God gives parents for a reason. He wants to be a source of blessing for human beings. Amen. When you come, God wants you to have a source of blessing for you, and he has decided to place such a blessing in a father. So he teaches her how to relate to

@@ -9,6 +9,8 @@ duration_min: 100
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MONROVIA, LIBERIA DAY 1  THE GOOD SAMARITAN  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2024 [Wv9nC2OHpMQ]]]"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare"]
 ---
 
 Oh Jesus, we praise your name. Oh Jesus. Let's all praise your day. We praise your name. We praise.

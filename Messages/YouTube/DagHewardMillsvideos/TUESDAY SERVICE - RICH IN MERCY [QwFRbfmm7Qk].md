@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=QwFRbfmm7Qk"
 duration_min: 91
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah let us pray I want you to just pray now the Lord to speak to you this evening as the Lord speak to you this evening thank you Jesus for speaking to us father thank you for your blessing thank you for speaking to us thank you for your word thank you Holy Spirit we ask you lots of guidance we ask you a lot to speak to us let your will be done just pray to the Lord in a moment pray to the Lord in a moment thank you Jesus thank you Jesus for your blessing Lord

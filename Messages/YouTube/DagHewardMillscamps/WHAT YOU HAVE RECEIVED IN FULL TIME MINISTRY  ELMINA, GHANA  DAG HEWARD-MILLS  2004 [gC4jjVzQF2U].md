@@ -8,6 +8,8 @@ year: 2004
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/ministry-and-pastoring", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 what you have received in full-time Ministry what you have received in full-time Ministry 2 Corinthians 4:1 says says um therefore seeing we have received this ministry as we have received Mercy we faint not amen amen it is very important to see in the ministry uh understand what you have received amen okay so see seeing we have received this ministry we faint not what is this ministry this full-time Ministry amen amen amen so what Paul is saying is that he has noticed that he has received something amen are you there I very good what has he

@@ -8,6 +8,8 @@ year: 2023
 duration_min: 138
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Hallelujah. What a blessing it is to be in church one more time. Welcome, everybody. We want to spend some time praying, thanking God and praising God and coming before God. Lifting your voice right now to Jesus and thanking him for yet another opportunity he's giving us.

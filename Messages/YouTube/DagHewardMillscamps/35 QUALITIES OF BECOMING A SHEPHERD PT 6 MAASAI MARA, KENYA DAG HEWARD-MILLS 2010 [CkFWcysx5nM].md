@@ -9,6 +9,8 @@ duration_min: 65
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/35 QUALITIES OF BECOMING A SHEPHERD PT 6   MAASAI MARA, KENYA  DAG HEWARD-MILLS  2010 [CkFWcysx5nM]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Welcome to track number 14 of the privilege. If you're not sure, hey, I should choose for then later you come and kiss me. Sometimes you see your children. You, you, if you have a daughter, you give birth, your daughter is not getting married. Will you not always be concerned about it?

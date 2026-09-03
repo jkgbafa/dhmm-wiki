@@ -9,6 +9,8 @@ duration_min: 91
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/BUILDING THE CHURCH OF GOD  GTWC LUSAKA  DAG HEWARD-MILLS  2025 [TZu0i3dcxsk]]]"
+topics: ["Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 But Jesus did not say that. If we want to be honest, you get it? Yes. So a lot of pastors have backslidden. You know, one of the top people for backsliding is pastors.

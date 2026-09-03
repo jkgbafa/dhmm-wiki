@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=HlkeBUoGGVI"
 duration_min: 133
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 hallelujah what a blessing father we are grateful and thankful for such a beautiful day you've given us Mighty Holy Spirit we need your will we need your grace we need your Mercies this beautiful Sunday morning why don't you just lift your hands and lift your voice wherever you find yourself and bless God praise God honor God throughout the entire week God has been good to you he's been good to me and today is a day we've decided to come before him and praise him and adore him in the precious name of the Lord Jesus Christ

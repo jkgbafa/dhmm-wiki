@@ -8,6 +8,8 @@ year: 2017
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Wealth and Finances"]
+tags: ["topic/vision-and-direction", "topic/wealth-and-finances"]
 ---
 
 I need to feel your presence. I want to know your power. Fill me now with more of you. Oh, I want to see your glory. I want to know your ways.

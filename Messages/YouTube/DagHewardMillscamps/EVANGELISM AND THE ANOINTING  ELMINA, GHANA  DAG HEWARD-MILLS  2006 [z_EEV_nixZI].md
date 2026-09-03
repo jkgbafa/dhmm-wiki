@@ -8,6 +8,8 @@ year: 2006
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 right right now listen listen carefully okay I want us to say I I felt something in my spirit that is going to happen when you go back a mistake and so I want to tell you how to overcome that mistake when you go back what is going to happen is that the octopus Spirit of the octopus will be reduced to the spirit of um giraffe or even if you don't take a the spirit of a monkey in other words two legs or four now I want Raymond to come and I want David to come where

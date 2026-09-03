@@ -8,6 +8,8 @@ year: 2013
 duration_min: 63
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Come on, I believe it is the tea. I believe that I believe in the line. I believe that it's in the other power. Come in. Let's start again.

@@ -8,6 +8,8 @@ duration_min: 121
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/I Saw The Dead A Life Changing Revelation Dag Heward-Mills [g2ZFjwmNAFA]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I saw the dead when people die we don't see them anymore so for somebody to say I saw the dead I mean this is one of the most fantastic Revelations that John had on the aisle of pmos the last time you saw the dead they were lying down they were lying down in the hospital they were lying down at home they were lying down in a coffin they were lying in state they were lying in the Mory but I saw the dead standing wow what a blessing you may be seated amen now we want to

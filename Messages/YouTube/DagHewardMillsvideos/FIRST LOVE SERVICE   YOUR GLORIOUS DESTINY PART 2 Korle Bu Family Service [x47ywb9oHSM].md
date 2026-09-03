@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=x47ywb9oHSM"
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 my car my I worship you I yeah Oh not my what there's a time that I need my ah hallelujah put your hands together for the MA it's testimony time how many love testimony wanna fall on us that's the result to give us the best testimony put your hands together for Teresa hallelujah please my name is there is a woman and I mean face love attention sir please my testimony is about a time speaking and graphic OPI de sandia song component thanks B can you remember yes then I remember that I have a testimony about

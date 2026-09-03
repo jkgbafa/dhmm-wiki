@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2008
 source: "autocaption"
+topics: ["Prayer", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/prayer", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 And this morning I want to share about the reason for Palm Sunday which is the new creation. Amen. The new creation. All right. And I want you to turn with me to second Corinthians chapter 5 verse 17. And I'll be sharing some things that are in this powerful book. Seven great principles. All right. 2 Corinthians chapter 5:1 17 it says therefore if any man is in Christ he is a new creature old things have passed away behold new things have come amen also in John chapter 3 and turn with me to John chapter 3 just

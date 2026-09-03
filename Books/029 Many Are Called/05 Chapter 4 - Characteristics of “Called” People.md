@@ -4,6 +4,8 @@ book: "Many Are Called"
 book_number: "029"
 chapter_number: 5
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ## Chapter 4

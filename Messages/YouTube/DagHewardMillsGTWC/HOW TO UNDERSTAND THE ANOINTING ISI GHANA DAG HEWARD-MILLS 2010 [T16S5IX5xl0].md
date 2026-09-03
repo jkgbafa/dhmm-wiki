@@ -8,6 +8,8 @@ year: 2010
 duration_min: 199
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Anointing/Impartation and Mantles", "Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/anointing/impartation-and-mantles", "topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 You must understand the anointing. How it is. One day I saw a certain man. He was going to look for a snake. The snake he was looking for.

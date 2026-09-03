@@ -4,6 +4,8 @@ book: "What It Means To Be As Wise As A Serpent"
 book_number: "028"
 chapter_number: 17
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 Chapter 17\

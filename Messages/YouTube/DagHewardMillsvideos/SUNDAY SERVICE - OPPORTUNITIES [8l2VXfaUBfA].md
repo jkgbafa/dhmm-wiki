@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8l2VXfaUBfA"
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 hallelujah let us pray together lift your hands and thank God for today thank God for His blessing in the new year God is going to give you a word that is going to help you with a new year to do well I was going to bless you with his word his spirit but I thank you thank you thank you thank you kala mashallah la Baba laylamon are the same beloved eternal medicine beloved to the DECA resident I give you praise without you Lord we are grateful in Jesus name Amen you may be seated and the

@@ -8,6 +8,8 @@ year: 2024
 duration_min: 69
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 I have a message from the Lord Jesus sent me to you are you ready to listen do you want to hear it I said I've got a message from the Lord Jesus sent me to you are you ready to listen do you want to hear it did I make a mistake when I called you should I have chosen another person or anointed another one how many times will I give you dreams and visions and Powerful convictions still you don't obey the reason why I'm asking these question you take it so lightly you take me so

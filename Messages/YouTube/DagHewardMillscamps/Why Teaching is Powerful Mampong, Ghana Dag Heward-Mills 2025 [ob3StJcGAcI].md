@@ -9,6 +9,8 @@ duration_min: 29
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Why Teaching is Powerful  Mampong, Ghana  Dag Heward-Mills  2025 [ob3StJcGAcI]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "The Word and Books"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-word-and-books"]
 ---
 
 Why teaching is powerful? I just gave you why preaching is powerful. Why teaching is powerful? Amen. Now hello.

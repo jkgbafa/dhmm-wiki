@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IH20xr9auNE"
 duration_min: 45
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 father we thank you for an opportunity as we come before your word today we ask in jesus' name that you bless us bless us with your holy word speak to our hearts we don't want to be the same again Lord we want to grow in you in Jesus name amen amen you may be seated I know how to be a based and I know how to abound amen can I have a copy of the bearing fruit somebody I took it down all right now God wants to prepare us for fruitfulness amen amen because he wants

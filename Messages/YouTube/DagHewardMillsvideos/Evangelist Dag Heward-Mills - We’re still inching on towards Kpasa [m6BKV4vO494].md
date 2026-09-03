@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=m6BKV4vO494"
 duration_min: 10
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 we are on the road still from our last campaign this is Jeremy my bodyguard and I know we said you're on our way to pass on the last video it is not a mistake it still pasaría heading towards it's been a ridiculously long journey and we're still on the road yeah so we actually are on a highway now this is a highway this is a motorway between two important towns so on our way from tottaly we got stuck because there was a river there was a broken bridge and we couldn't cross so we had to

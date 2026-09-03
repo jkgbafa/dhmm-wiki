@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-NEmzjaOySk"
 duration_min: 33
 source: "autocaption"
 match: "exact"
+topics: ["Missions", "Missions/The Nations"]
+tags: ["topic/missions", "topic/missions/the-nations"]
 ---
 
 International Sunday as we have it is to make us aware of the nations of the world and of our responsibility towards these nations amen one of the greatest ailments and plates which came upon the human race when we fell that is we fell in the Garden of Eden Adam fell you know that's a very important story for you to study I want to encourage everyone to study that story the story of what happened to man when he fell the first the first thing you will notice that happened when man fell was that he said I

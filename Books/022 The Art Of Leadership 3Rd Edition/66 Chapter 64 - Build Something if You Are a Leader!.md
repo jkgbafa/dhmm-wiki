@@ -4,6 +4,8 @@ book: "The Art Of Leadership 3Rd Edition"
 book_number: "022"
 chapter_number: 66
 type: book
+topics: ["Leadership", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wisdom"]
+tags: ["topic/leadership", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wisdom"]
 ---
 
 ### Chapter 64\

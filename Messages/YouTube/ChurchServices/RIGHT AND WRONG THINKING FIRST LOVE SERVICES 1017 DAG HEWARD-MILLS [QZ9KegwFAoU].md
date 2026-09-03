@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=QZ9KegwFAoU"
 duration_min: 214
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now, I want us to pray to God. You know, one of the things that we need God to help us with is the opening of our eyes to behold the wondrous things out of His Word. The Bible line on your decks is not the same as what you have read. And if God does not open your eyes to see the wonders that are there in His Word, you would hear, but you cannot be transformed. When Jesus was walking with the disciples, He said, He opened their eyes and they were able to see Him.

@@ -9,6 +9,8 @@ duration_min: 49
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE SUFFERINGS OF CHRIST PART 1  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024 [4voP6fH-1hE]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Marriage and Family", "Prayer"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/marriage-and-family", "topic/prayer"]
 ---
 
 Now Jesus accomplished many sufferings. Amen. And he endured temptations. So let's look at all the I want to just quickly run through different sufferings that Jesus experienced. Including and not the least the suffering of prayer.

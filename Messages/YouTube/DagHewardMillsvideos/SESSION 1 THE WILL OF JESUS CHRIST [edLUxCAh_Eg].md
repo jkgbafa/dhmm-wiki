@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=edLUxCAh_Eg"
 duration_min: 179
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we in the world on the hall ah Oh Oh Oh hallelujah hello do you have a story to tell do you have a story to tell Alleluia everybody started bowing hallelujah let's go ahead everybody's gotta go everybody's gotta go be the folks everybody's gotta what happened out there where is nothing now okay though I was there when it's love everybody everybody now what we're gonna do I will say when Oh Terry cook I was there with up games down there when cooking down I will fish without talking I was a minister I went down Oh

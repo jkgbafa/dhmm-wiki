@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/men-of-god-imparta
 duration_min: 59
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 2nd Kings chapter 1 verse 9 then the king okay wait verse 5 when the messengers returned to him he said why have you returned and they said a man came up to meet us and said to us go return to the king and say that says the Lord is it because there is no God in Israel that you are sending to inquire of Beelzebub the God of Ikron therefore you shall not come up from the bed where you have gone but you shall die all right this is Ahaziah he fell from his upstairs to downstairs and he was not well so he went to find out whether he was going to live so therefore you shall die then he said to them so the king asked in verse 7 what kind of man was he who came up to meet you and spoke these words and they answered him said he was a hairy man with a leather girdle are you there bound about his loins and he said it is Elijah the tish bat you know some pastors you can recognize them from their dressing somebody like Dr.

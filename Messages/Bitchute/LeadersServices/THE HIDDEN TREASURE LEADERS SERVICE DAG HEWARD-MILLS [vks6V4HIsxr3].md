@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/vks6V4HIsxr3/"
 duration_min: 61
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Leadership"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/leadership"]
 ---
 
 Alright, how many were in this building this morning? All right. It's powerful and stupendous. Stupendo is an English word which means more than you expected. And it means amazing.

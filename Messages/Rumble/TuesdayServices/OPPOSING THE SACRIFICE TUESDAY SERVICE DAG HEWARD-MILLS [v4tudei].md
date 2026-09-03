@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tudei/"
 duration_min: 65
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 So I'm going to continue for just a few minutes this evening to share about in the presence of devils. I'm going to share with you a couple more things that you will encounter as you walk on this earth. Mark chapter 8. Jesus Christ lived on this earth and he encountered devils. Devils that he encountered fought him and opposed him throughout his life and ministry.

@@ -8,6 +8,8 @@ year: 2010
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 how many points did I give you number one is what what to be fully persuaded to be fully persuaded steps to do what steps to not fight each other yeah when the devil is inviting us to fight we are going to reject it yes through these steps yeah amen amen number one is what fully to be fully persuaded amen amen think about it carefully deeply trying to understand how many have seen our website have have you been going to the website yes have you seen there's more information on the website huh you know why that

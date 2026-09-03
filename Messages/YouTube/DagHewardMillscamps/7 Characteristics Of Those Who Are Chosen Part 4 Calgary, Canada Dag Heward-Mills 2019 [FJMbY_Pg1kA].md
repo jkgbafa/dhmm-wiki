@@ -9,6 +9,8 @@ duration_min: 76
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/7 Characteristics Of Those Who Are Chosen Part 4  Calgary, Canada  Dag Heward-Mills  2019 [FJMbY_Pg1kA]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Who are those whom God chooses and uses? Number one, those who believe, number two, those who are virgins, number three, those who flow, number four, those who are young, number five, those who are appreciative, number six. Do you have those who are joyful? Those who are humble. Six.

@@ -8,6 +8,8 @@ year: 2016
 duration_min: 214
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 has been how many agree if you agree just wave to the Lord wow what a blessing in Jesus name Heavenly Father we thank you Holy Spirit we welcome you to where you like to exist in the midst of the sins thank you in Jesus name amen please let's be seated in the presence of please if you are the um one who has the keys to 812 room 812 I'm not sure which um but 812 please you're needed at the back I hope I've um clearly Define what kind of person we need you needed at the

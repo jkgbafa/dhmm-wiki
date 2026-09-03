@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=1VsD6CzOdF8"
 duration_min: 214
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah come on happy birthday let Daddy enjoy yourself come on baby silence hallelujah we're never gonna stop praising him Hallelujah come on none of you are going to be praising God from now into eternity come on what a beauty We Praise You Lord for the story of your life I will make us so I'll never let him know crazy for your beauty miracles all the Wonders so I'm never ready it's on every side I'll be back gonna use come on let's take this see I'll be praising I'll be praising you I'll be praying praise again

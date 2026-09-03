@@ -8,6 +8,8 @@ year: 2010
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 let's put our hands together and welcome the bishop all the way from Ghana amen hallelujah let us pray father thank you so much for this wonderful opportunity to share your word what a blessing for all the things we have already heard Lord we pray that your spirit will minister to our hearts bring us Lord L to your perfect will we do thank you Lord in jesus' name for wonderful things you have done already in our lives in Jesus name amen amen you may be seated right okay um we are sharing about the mega church amen

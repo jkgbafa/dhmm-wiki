@@ -4,6 +4,8 @@ book: "Laikos Lay People And The Ministry"
 book_number: "012"
 chapter_number: 7
 type: book
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 ### Chapter 6\

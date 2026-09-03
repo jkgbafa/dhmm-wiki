@@ -8,6 +8,8 @@ year: 2006
 duration_min: 25
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Choose battle to choose what to seek after. Write it in that way. The battle to choose what to seek after. The battle to choose what to seek after. The next one is what the battle.

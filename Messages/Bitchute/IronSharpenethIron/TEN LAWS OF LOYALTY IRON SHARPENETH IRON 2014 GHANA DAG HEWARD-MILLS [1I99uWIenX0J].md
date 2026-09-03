@@ -8,6 +8,8 @@ year: 2014
 duration_min: 49
 source: "whisper"
 match: "exact"
+topics: ["Leadership", "Loyalty and Disloyalty"]
+tags: ["topic/leadership", "topic/loyalty-and-disloyalty"]
 ---
 
 Now I want to share with you on loyalty and disloyalty. And I'm preaching from my book, those who are ignorant. It's all under loyalty and disloyalty. I got it. Loyalty and it used to be called leaders and loyalty.

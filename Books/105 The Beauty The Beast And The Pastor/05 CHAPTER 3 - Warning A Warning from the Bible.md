@@ -4,6 +4,8 @@ book: "The Beauty The Beast And The Pastor"
 book_number: "105"
 chapter_number: 5
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 CHAPTER 3\

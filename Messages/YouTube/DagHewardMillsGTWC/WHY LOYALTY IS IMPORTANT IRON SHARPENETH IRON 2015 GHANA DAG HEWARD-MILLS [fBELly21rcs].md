@@ -8,6 +8,8 @@ year: 2015
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers", "Loyalty and Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 What it means to be as wise as a serpent. Serpents are wise because they are masters at overcoming demons. One of the great wisdom of a serpent is that it eats serpents. Wow. In this book, what it means to be as wise as a serpent.

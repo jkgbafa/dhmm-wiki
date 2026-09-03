@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=36aTWiax2gk"
 duration_min: 102
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Missions"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/missions"]
 ---
 
 on the go through cries a Hey leaving me to be laughter hi there Thailand only Jesus can the law people meet the end up broke every key open door when we are called to pay his life to a world where all the dry what could be too great sharing one only the last I can see all debris their head and they must it was holy jesus Hey I am say to people when with me that we they need the low father we thank you for this great privilege in Jesus name Amen you may be seated

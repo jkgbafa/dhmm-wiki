@@ -4,6 +4,8 @@ book: "Those Who Are Offended"
 book_number: "084"
 chapter_number: 9
 type: book
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 ### CHAPTER 8\

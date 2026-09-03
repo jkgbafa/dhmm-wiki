@@ -8,6 +8,8 @@ year: 2003
 duration_min: 44
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 welcome to track number four of AG greet on the way turn with me to Colossians chapter 3 if ye then if ye then be risen with Christ huh I said if ye then be risen with Christ seek those things which are where above seek those things which are above hallelujah amen where Christ sth on the right hand of God I I don't know if you understand what I'm after listening to what Solomon said I think you can understand why he's saying this H you see God is giving you understanding to the scriptures at first you

@@ -8,6 +8,8 @@ year: 2013
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Si j'ai possède tous les biens du monde et je peux Jésus J'aurai tout perdu Si j'ai Jésus J'ai toute chose Il est mon bien le plus précieux Si j'imposète tout le bien du monde Et je peux Jésus J'aurai tu perds Dieu Si j'ai Jésus J'ai toute chose Il est mon bien le plus possible Si j'ai Jésus Si j'ai Jésus Si j'ai Jésus Si j'ai Jésus Il y a toute chose Oh Jésus Mon rang Jésus Il est mon bien le plus possible Si j'ai Jésus Si j'ai Jésus Si j'ai Jésus Si j'ai Jésus Il y a

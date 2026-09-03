@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=N8kY8l56TFI"
 duration_min: 154
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I have a message from the Lord Jesus sent me to you are you ready to listen do you want to hear it I've got a message from the Lord Jesus sent me to you are you ready to listen oh do you want to hear it did I make a mistake when I called you should I have chosen another person or anointed another one and how many times will I give you dreams and visions and Powerful convictions still you don't obey see the reason why I'm asking this questions you take it so lightly you take me

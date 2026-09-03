@@ -8,6 +8,8 @@ year: 2012
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 hallelujah hallelujah hallelujah are you excited tonight it is time to touch open HS put your dancing shoes in place as I invite the mass it's time for praise and worship shall we receive the Mas as the leaders into praise and worship woo somebody shout Jesus are you ready to praise the Lord tonight SE Somebody by your side say come alive tonight come praise the Lord Now Praise His holy name will praise the Lord praise the Lord now come on I will praise His holy name praise His holy name I will praise the Lord somebody praise

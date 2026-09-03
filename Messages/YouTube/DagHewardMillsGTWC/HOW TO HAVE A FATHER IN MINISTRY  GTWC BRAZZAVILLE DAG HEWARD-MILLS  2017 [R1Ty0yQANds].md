@@ -9,6 +9,8 @@ duration_min: 76
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/HOW TO HAVE A FATHER IN MINISTRY GTWC BRAZZAVILLE DAG HEWARD-MILLS 2017 [R1Ty0yQANds]]]"
+topics: ["Ministry and Pastoring", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I'm going to show you how to have a father figure in the ministry. How can you have a father in the ministry? 1 Corinthians 4 verse 15. And I believe this is one of the last things I will share with you. You would have 10,000 masters. However, you do not have several fathers, since I have begotten you in Jesus Christ. Who is a father? Amen. A father. Not all pastors or ministers are fathers. Not all men are fathers. Amen. Not all men are fathers. There are some men who are not fathers. What makes you a

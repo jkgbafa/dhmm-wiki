@@ -9,6 +9,8 @@ duration_min: 122
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/BULAWAYO, ZIMBABWE  IT IS BETTER FOR THEE TO ENTER INTO THE KINGDOM OF GOD WITH ONE EYE  2016 [Glq_oIAGuVE]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 No, Jesus, no lie. No, Jesus, no lie. No, no, no, no, no, no, no. No, Jesus, no lie. Come on.

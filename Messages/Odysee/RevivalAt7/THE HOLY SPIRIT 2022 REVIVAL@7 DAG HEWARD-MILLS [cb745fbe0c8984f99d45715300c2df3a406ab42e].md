@@ -8,6 +8,8 @@ year: 2022
 duration_min: 107
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Holy Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-holy-spirit"]
 ---
 
 Feel my cup, Lord I lift it up, come and quench this testing of my soul, bread of heaven, feed me till I want no make me whole my cap, Lord, feel my cup, I lift it up, Lord, come and quench, come and quench this nursing of my soul, hallelujah, feed me, feel me till I no more. Feel my cup, my cup, yes, Lord, and make me one more time, feel my cup, Lord, feel my cup, Lord. I lift it up, Lord, give me up, Lord. I know you can quench Lord this thirsting of my soul, of heaven. I want you to feed me, feel me, feed me, feel my cup, my cup, and Lord.

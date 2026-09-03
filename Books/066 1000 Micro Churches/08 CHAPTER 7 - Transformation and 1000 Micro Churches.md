@@ -4,6 +4,8 @@ book: "1000 Micro Churches"
 book_number: "066"
 chapter_number: 8
 type: book
+topics: ["Anointing", "Faith", "The Word and Books"]
+tags: ["topic/anointing", "topic/faith", "topic/the-word-and-books"]
 ---
 
 ### CHAPTER 7\

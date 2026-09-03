@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/aOLiJUwVm8jo/"
 duration_min: 109
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Want to pray for the president. Want to pray for the vice president. Want to pray for the minister of finance, elect or appointed. They need God's help. Can you not see?

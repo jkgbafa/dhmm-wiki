@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=b3v0ukS9W3w"
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 It's time for the Word of God. Now, stand to your feet everybody. How many of you have been blessed by the teaching of monsters? I can't hear you. I can't see you.

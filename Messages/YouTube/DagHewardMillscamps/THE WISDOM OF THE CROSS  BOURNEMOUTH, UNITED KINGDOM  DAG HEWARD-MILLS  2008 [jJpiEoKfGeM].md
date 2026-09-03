@@ -8,6 +8,8 @@ year: 2008
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wisdom"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wisdom"]
 ---
 
 now the wisdom of the cross for the word 1 Corinthians chapter 1 um ver 18 what does it say in your Bible preaching of the Cross what does the King James say the preaching okay this one says the word of the Cross is foolishness to those who are perishing but to us who are being saved it is the power of God Amen so my first message was everybody has a different cross okay now this one is the wisdom of the Cross now I'm saying here that the preaching of the Cross is foolishness to those who

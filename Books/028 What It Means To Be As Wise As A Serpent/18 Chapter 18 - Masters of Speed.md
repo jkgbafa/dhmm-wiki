@@ -4,6 +4,8 @@ book: "What It Means To Be As Wise As A Serpent"
 book_number: "028"
 chapter_number: 18
 type: book
+topics: ["Anointing", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring"]
 ---
 
 Chapter 18\

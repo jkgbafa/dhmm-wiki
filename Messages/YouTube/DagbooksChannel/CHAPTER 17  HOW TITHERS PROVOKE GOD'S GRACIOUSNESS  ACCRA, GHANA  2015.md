@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2015
 source: "autocaption"
+topics: ["Missions", "Missions/The Nations", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/missions", "topic/missions/the-nations", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Turn to Psalm 67. Now, this is why tithing is important. And I want you to see a great secret in tithing from Psalm 67. Wonderful. Psalm 67. I love this scripture. There's a song actually now. God, is this the right scripture? Okay, I want to change the version. God be gracious to us and bless us and cause his face to shine upon us. Why? Why should God be gracious? That your way may be known on the earth and your salvation among all nations. Let the people praise you, oh God. Verse three, let a pe all

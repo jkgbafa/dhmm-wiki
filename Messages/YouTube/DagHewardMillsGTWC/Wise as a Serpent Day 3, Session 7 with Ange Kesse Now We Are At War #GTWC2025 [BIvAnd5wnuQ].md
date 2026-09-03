@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=BIvAnd5wnuQ"
 duration_min: 17
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 We are now flying to France. Hallelujah. Hallelujah. We have a great man of God coming out of France. To lose in France.

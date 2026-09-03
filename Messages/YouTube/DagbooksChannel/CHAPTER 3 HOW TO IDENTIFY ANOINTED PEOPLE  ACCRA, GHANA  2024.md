@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2024
 source: "autocaption"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Now, how to identify chapter 3, anointed people? How can you ident,000 in that fund? Yes. How much do you have in your fund? How much do you have in your fund? Now say every Norwegian citizen, how many are there? How many million are there? I think about four or five million. I don't know. But every citizen has $270,000 in that fund. Can you catch the fund? By the way, maybe check and see if you can. Maybe you can catch the You can apply to be a Norwegian citizen. So, how much do you have in your

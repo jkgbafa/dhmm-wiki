@@ -3,6 +3,8 @@ title: "OUR PROPHET'S PRAYER FOR YOU_b09QCdh5m2U"
 channel: "DagHewardMillsvideos"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 I see a table I see a good table is covered with food it's covered with abundance it's covered with good things and the table is in a good house receive your good house from the law for the love of giving his children many good houses by his power you never be homeless anymore moving from house to house from uncle - uncle - auntie - friend your days of homelessness in the house with a patent receive your garden receive no help at all receive my condition God has covered you now may the fetters of Jehovah cover

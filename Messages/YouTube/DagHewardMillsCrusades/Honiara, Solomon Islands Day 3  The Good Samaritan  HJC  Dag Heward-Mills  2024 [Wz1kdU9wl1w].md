@@ -8,6 +8,8 @@ year: 2024
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 I expect miracle today nothing is impossible to those who believe and say I word is still the same W I expect a miracle today I expect miracle today nothing is impossible to those who believe and I believe that's what is still oh so I expect to today for with God nothing is impossible it's not possible to be impossible and with God every promise shall come true for we know surely all things can oh so I expect a miracle today for nothing is impossible to those who believe and say and I believe God's word is to

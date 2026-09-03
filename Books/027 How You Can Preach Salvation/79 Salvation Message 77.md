@@ -4,6 +4,8 @@ book: "How You Can Preach Salvation"
 book_number: "027"
 chapter_number: 79
 type: book
+topics: ["Anointing", "Salvation"]
+tags: ["topic/anointing", "topic/salvation"]
 ---
 
 ### Salvation Message 77: 

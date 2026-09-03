@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=92kys_H1hqc"
 duration_min: 161
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 let's take it from the top Lord you are good Lord you are good and your mercy enduring forever Lord you were good s Lord you are goodness your mercy enduring forever One More Time One More Time Lord you are good and your Mery endurance forever God you were say Lord you are good and your mercy enduring forever people from every nation from every nation and from generation to generation We Worship You hallelujah hallelujah we worship you for who you are for who you are We Worship You hallelujah hallelujah hallelujah we worship you for who you

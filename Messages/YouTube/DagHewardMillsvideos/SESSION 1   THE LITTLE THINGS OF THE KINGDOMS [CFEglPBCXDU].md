@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=CFEglPBCXDU"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 all that is truth that is your word we love you Father in Jesus name and everyone said amen as you can see we are still building we brought you here so that you'll be able to participate in the building and especially in the fundraising to help to build amen what do you think is it a good idea so I do believe that God has blessed us with a good church in 1993 that 14 years ago we were having our first service were just moving into Caligula Cathedral so it's been 14 years and we are grateful

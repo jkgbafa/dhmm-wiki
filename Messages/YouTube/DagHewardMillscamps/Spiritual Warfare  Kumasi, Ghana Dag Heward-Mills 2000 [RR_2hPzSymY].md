@@ -8,6 +8,8 @@ year: 2000
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 lift up your voice and say you are God you are God you are God there is not like you our God you are God you are God you are God you are we salute you tonight when I look at yes Lord thank you my father I look at I thank you my Jesus I look at the SE I turn and I say oh my Lord yes Lord everybody one more time you are God what a mighty God we serve uh you are God uh you are God you are God you are God you are God

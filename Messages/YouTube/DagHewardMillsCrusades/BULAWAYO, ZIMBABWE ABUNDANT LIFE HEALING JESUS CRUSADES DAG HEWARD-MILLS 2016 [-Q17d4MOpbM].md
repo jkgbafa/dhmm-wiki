@@ -8,6 +8,8 @@ year: 2016
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Disna Jesus à cochon à son dising with me common si la Jesus Accocha Jesucoute Four José Oh Jésus a caïté nos sœurs Disney Mouchangeti Acoshakou Four sauce Desson Jésus n'est jamais Jésus à Kocha Lift up your right hand Jesus Dina Jésus Oh Jésus Jésus a cochachou Four à jour Acca Kochou Four Azos Aka Koch Jesus Dimbo J'aime Four à Son Jesus J'ai Suakanaka Jesus Bonne Si A Kou Four Asso Jesus Jesus Jesus Jesus Jesuit Maman Chaque Four Asso Jesus Jesus Account Chaque Four Association Jesus Account Jacob Hallelujah Hallelujah J Jesus Hallelujah Hallelujah Y'a Good M Cosis Are You Yeah La Lela La Lala Wow Toi La Um Tu Alô Isaman I Lela Theresa Quoi Quand C'est Ma Kulu Koubi Hallelujah Ingui Hambi Sang O M listen.

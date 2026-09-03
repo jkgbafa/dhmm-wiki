@@ -8,6 +8,8 @@ year: 2012
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 all right Hallelujah let us pray heavenly father thank you for this great opportunity that we have in you we ask you to guide us and lead us by the Holy Spirit into all of your perfect will we thank you Lord in Jesus name amen okay please be seated now thank you Holy Spirit for your will that is being done in Jesus name amen now listen we are here because um I really felt in my heart that we should have a camp to help us to see the vision that we are working towards together amen amen

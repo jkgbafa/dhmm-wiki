@@ -4,6 +4,8 @@ book: "Those Who Are Ignorant"
 book_number: "119"
 chapter_number: 11
 type: book
+topics: ["Leadership", "Loyalty and Disloyalty"]
+tags: ["topic/leadership", "topic/loyalty-and-disloyalty"]
 ---
 
 ## Chapter 9

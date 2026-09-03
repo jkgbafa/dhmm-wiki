@@ -8,6 +8,8 @@ year: 2023
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Chapter 58. Fighting by building. Chapitre 5. Fighting by building. Chapiter 58 and construction.

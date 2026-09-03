@@ -4,6 +4,8 @@ book: "The Gift Of Governments A Bishop 'S Governing Handbook"
 book_number: "117"
 chapter_number: 32
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 ### CHAPTER 30\

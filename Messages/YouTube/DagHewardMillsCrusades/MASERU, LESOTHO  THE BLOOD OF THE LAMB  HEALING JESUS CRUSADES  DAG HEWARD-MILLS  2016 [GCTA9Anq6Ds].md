@@ -8,6 +8,8 @@ year: 2016
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Mas Give the Lord a shout of Praise Hallelujah do you believe Jesus is here tonight I said Do you believe Jesus is here tonight give the Lord a shout Wonder me oh wave your hands to Jesus when to me oh feel I give they Clap Your Hands for Jesus oh I give oh I give to me see when I when I hallelujah oh are you here wave your hands to Jesus so re yeah yeah la la la la la la it it your hands to Jesus hallelujah hallelujah hallelujah oh we oh oh me me Hallelujah

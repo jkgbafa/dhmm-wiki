@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=OD6-XBGR86w"
 duration_min: 50
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 Philippians chapter 3 I am preaching about Philippians chapter 3 verse 13 I'd say brethren I count on myself to have apprehended but this one thing I do forgetting those things which are behind and reaching forth unto those things that are before Amen this morning for just about 15 minutes I want to share with you about how we must forget about those things that are behind and reach for and to those things that are before us amen how many want to make great advances this year in the kingdom of God how many want to make great

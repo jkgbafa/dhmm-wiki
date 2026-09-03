@@ -8,6 +8,8 @@ year: 2018
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Cause yes, I'm saying, yes, me pot, me potential, me pot, yes, my boy, me beautiful, wow, my boy, me beautiful, me, dà, wow, my boss, my bow din, bat, my body. You shall be my such a faux ni a summer so I won't save me a man sail is right on buried oh sad, oh next, oh yeah, someone is dying, oh, my boy, me both, my bowing dad, oh, my bat, my ball, meau, my bowing die, yeah. Oh next, I'm doing one in a so do so y'all, and this for I fat, me potential, me

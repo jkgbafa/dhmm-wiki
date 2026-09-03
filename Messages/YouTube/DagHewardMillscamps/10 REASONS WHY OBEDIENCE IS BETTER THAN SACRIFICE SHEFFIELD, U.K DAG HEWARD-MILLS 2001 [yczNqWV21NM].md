@@ -8,6 +8,8 @@ year: 2001
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number 17 apostles of thousands. Obedience is a greater thing than sacrifice. Amen. Do you want to know 10 reasons why obedience is greater than sacrifice? How many want to be arrested upon arrival in heaven?

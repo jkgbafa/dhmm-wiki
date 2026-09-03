@@ -8,6 +8,8 @@ year: 2005
 duration_min: 131
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number 16 of birthday Kwa your new job how many want to know more about your new job somebody should find Micah 6:8 the main key that you must accept for your new career is that it is God's way of living amen for a priest like you amen the job title is what prophet Pastor priest preacher amen and then the decrees at the side are f ft so you're right Natalie what Dana then or pastor pastor and then to brackets ft full time preacher into brackets full time so write your new name on

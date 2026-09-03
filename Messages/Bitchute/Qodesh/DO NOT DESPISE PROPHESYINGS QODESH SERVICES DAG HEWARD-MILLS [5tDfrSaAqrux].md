@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/5tDfrSaAqrux/"
 duration_min: 107
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Blessings and glory. Lord, it is for you to enjoy wisdom, thanksgiving. That's what that we sing in Jesus. The same verse. It belongs to our God.

@@ -8,6 +8,8 @@ year: 2008
 duration_min: 101
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 next topic we are going to discuss is um demonstration of spiritual sunship now if you are not a son what's a bastard amen we'll soon find out what is a bastard number one how many want to be Sons or bastards I don't think you want to be a bastard now there are there are people sometimes who call you uh father Papa do you have the DVD I'm going to show that in a moment okay now um there are people who call you father this that now it's important that you should be a son okay it's

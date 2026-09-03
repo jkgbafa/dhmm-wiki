@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-cL-_N-vBTA"
 duration_min: 196
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 want to spend some time to pray to the Lord as the Bible instructs us want to pray giving God thanks praising him and worshiping him and um if you have your Bible just turn your Bibles with us quickly to the book of Psalm the last verse in the book of Psalm Psalm 150 and verse number six the Bible says let everything that has breath praise the Lord hallelujah oh can I hear you amen Hallelujah the fact that you've been able to respond amen shows that you have breath and you are one of the people that

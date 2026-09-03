@@ -8,6 +8,8 @@ year: 2003
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Judgment", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/judgment", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 welcome to track number one of Bea make my heart faithful and true so when you look at me it's your righteousness you see Lord Make Me pure in Heart Lord Make Me pure in heart heart make my heart faithful and faithful and true so when you look at me it's your righteousness you see Lord Make Me pure in heart I know the only way that I can be made clean is only by your blood it's only by your blood so f my heart with faith and Grace that I might see wonders of Your Love wonders

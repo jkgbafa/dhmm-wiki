@@ -8,6 +8,8 @@ year: 2016
 duration_min: 140
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 now the next one is ready at 20 to serve ready at 20 to serve numbers 11 numbers 11 wow how many are glad that we are looking at some of these wonderful things in the Bible too nice and I'm going to give you a number of points as we go along all right you've done work of Shame you've done Gala you've done different addresses depending on the year you are here we sometimes here sometimes here you've given birth to blood crashed babies yes you've done everything you've smoked you've drunk you've taken drugs you've destroyed your

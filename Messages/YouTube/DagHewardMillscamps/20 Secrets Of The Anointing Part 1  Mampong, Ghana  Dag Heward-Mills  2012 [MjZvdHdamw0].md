@@ -8,6 +8,8 @@ year: 2012
 duration_min: 161
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 you may be seated in the presence of the Lord secret number one about the anointed and his anointing now this is something you need if you are going to work for the Lord all of you without this um all the work we doing is not going to work well amen are you listening to meening to you wonderbar the first secret is identify the anointed who has been sent to you with his anointing identify the anointed who has been sent to you with his anointing identify the anointed who has been sent to you with his anointing

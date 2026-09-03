@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MzLdMn5hUtg"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 the heral Angels Sing glory to the newborn king peace on Earth and mercy M God and S down joyful all he rise join the tri of the SK with Angel Christ is heart the hair of Angels Sing glory to the let's sing it one more time Angel sing glory to the newborn king peace on Earth and mercy M God sound Joy All Nation R join the tri of the SK with Angelic voice BR Christ is born in bethle the her Angels Sing glory to the new king glory to the newborn king we give you glory

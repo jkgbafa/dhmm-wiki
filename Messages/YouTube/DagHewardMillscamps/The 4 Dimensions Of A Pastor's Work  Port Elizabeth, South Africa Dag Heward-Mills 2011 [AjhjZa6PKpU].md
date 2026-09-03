@@ -8,6 +8,8 @@ year: 2011
 duration_min: 151
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 right all right all right all right all right glory to God father thank you for this opportunity to be blessed in Jesus name amen may be seated now I was giving you some points how to Asher you into the work of the work isn't it you have those points there number one was what I to be a good shepher no before that now before that how do be ushered into the work of God Amen one is to have a burning desire and two is to be a champion at lay Ministry amen now the next topic

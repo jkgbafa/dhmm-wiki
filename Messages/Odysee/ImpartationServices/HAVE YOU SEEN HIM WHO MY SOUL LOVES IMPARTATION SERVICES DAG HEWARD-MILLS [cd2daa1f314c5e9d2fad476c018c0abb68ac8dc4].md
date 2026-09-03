@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/have-you-seen-him-
 duration_min: 96
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Songs of Solomon. On my bed after night I sought him whom my soul loves. Amen. I sought him but I did not find him. I must arise now and go about the city in the streets and in the squares.

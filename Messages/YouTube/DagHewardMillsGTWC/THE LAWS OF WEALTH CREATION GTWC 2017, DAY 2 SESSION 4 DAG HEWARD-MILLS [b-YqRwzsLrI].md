@@ -8,6 +8,8 @@ year: 2017
 duration_min: 18
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now I believe that we are being blessed. Um, I was going to share with you a very important secret, but I think I'm going to rather do that tomorrow. Because of the time, I was held up by some things, so I just want to round up the evening because we are ending at eight. The laws of wealth creation in ministry number one humility, humility, and we have this wonderful book here, and those who are proud. So tithing.

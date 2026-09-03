@@ -9,6 +9,8 @@ duration_min: 81
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/RECAP  MARYLAND,USA  DAG HEWARD-MILLS 2001 [TNBqpOF2n3A]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to track number 15 of the message of sacrifice. Number one, let's go through all the points we've been through all these hours we've been here. Number one is what? Sacrifice. Amen.

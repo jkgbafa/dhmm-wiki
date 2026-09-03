@@ -4,6 +4,8 @@ book: "Steps To God 'S Presence"
 book_number: "114"
 chapter_number: 22
 type: book
+topics: ["The Word and Books"]
+tags: ["topic/the-word-and-books"]
 ---
 
 ###  CHAPTER 21\

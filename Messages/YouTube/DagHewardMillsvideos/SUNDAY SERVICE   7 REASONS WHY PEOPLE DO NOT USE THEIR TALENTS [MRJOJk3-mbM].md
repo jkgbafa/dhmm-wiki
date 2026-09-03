@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MRJOJk3-mbM"
 duration_min: 45
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 let us pray father we thank you so much for today the opportunity we have to come to you to receive your word to hear what your spirit is saying thank you Lord we are grateful for the opportunity are grateful for the chance let us listen to the words that you have for us in Jesus name Amen right today I want to share with you about sliding forward moving forward last week I was talking about going back sliding but this time I want to talk about going forward and using the giving something it's our time to

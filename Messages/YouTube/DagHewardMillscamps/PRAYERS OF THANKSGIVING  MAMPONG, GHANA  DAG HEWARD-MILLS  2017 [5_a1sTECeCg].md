@@ -8,6 +8,8 @@ year: 2017
 duration_min: 175
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer"]
 ---
 
 I have been learning to walk in love it is not easy to walk in love the fruit of the spirit is walking in love Faith hope and love but the greatest of these is love oh my Lord please help me help me forgive and walk in love W it's not easy but help me Lord for of is patient and love is kind love is not jealous and love is not easily provoked love is not proud it's not Unbecoming love does not boast and love does not seek its own for love is fa and love is

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=bDcH2VxZ0Nk"
 duration_min: 34
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 after nearly a decade of holding healing Jesus campaigns in Western and Southern Africa the Evangelist and his team returned to Ghana for a series of campaigns although this action-packed journey was marked by risk uncertainty and unforeseen complications it was characterized by fantastic miracles mass salvation an unrelenting joy and was ultimately a beautiful success it was a slightly overcast day when the healing Jesus cam painting sets out from their base in a crowd the team's first destination was Kwame dancing it was during this trip to Parma dancehall that the team first encountered the kind of egregious

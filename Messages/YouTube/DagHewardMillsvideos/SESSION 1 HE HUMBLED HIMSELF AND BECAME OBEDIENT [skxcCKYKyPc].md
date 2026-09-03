@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=skxcCKYKyPc"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/The Will of God", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 the theme of my short messages during this time is he humbled himself and became obedient that is the message that I'm preaching and I don't want to change it to any other title because I want you to remember it he humbled himself and became obedient a man I said he humbled himself and became obedient televideo Philippians chapter 2 originally I thought that the Lord wanted me to share with you about humility although that is a good message and very powerful is the key to greatness I feel that a lot has that message for some other

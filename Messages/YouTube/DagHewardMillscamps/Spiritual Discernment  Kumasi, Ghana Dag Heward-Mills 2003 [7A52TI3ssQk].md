@@ -8,6 +8,8 @@ year: 2003
 duration_min: 182
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "Prayer/Praying in Tongues", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/anointing", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 to be pleasing you pleasing you this is all I really want to do to be pleased you pleasing you this is all I really want to do to be pleasing you pleasing you this is all I really want to do I want to be pleasing you pleasing you this is all I really want to do Lord I want to live my life to please you I bring my heart before you to remove oh oh make of me a vessel fit for Honor that I might Shine for you as spling gold I want to be pleasing

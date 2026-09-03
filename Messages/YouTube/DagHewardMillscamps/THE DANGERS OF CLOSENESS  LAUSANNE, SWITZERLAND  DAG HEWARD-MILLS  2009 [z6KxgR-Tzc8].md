@@ -8,6 +8,8 @@ year: 2009
 duration_min: 162
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 the dangers of closeness the son of kab with the sons of Reuben took action and they rose up before Moses together with some of the sons of Israel 250 leaders of the congregation chosen in the assembly men of renown they assembled together against Moses and Aaron and said you have gone far enough for all the congregation Are Holy every one of them and the Lord is in your midst why do you exalt yourself in the Assembly of the Lord when Moses heard this he fell on his face and he spoke to Kor saying tomorrow morning

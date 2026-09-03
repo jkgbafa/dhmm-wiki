@@ -8,6 +8,8 @@ year: 2011
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Heavenly Father, thank you for the great blessing that has been given to us this morning in the name of Jesus. We ask you to guide us by your Holy Spirit. Thank you for the great anointing and great blessing that is released on our lives. In the name of Jesus, we love you, Lord in Jesus' name. Amen.

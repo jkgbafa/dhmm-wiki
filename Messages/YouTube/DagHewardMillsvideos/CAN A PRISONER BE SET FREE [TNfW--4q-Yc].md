@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=TNfW--4q-Yc"
 duration_min: 5
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Deliverance"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/deliverance"]
 ---
 
 is there anybody here who's been in jail and wants to share that testimony what it's like come what does the judge say when you're being sent to jail um the judge when I was being sent to jail he said um at first he said that you've been found guilty and then he said that if you don't like that part you're not gonna like the next part and the next part was that you're not going to go back outside you're going to go downstairs straight into herself and then straight to prison that's the first thing he

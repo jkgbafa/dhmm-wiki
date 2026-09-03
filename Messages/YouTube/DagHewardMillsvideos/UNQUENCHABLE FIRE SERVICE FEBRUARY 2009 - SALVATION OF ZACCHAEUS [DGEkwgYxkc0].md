@@ -8,6 +8,8 @@ year: 2009
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 this is the news Oh Oh No I want to come over here because the first of all think in the year 2009 physical that office together with the Vanity Fair magazine is wearing a beautiful northern edge screen to the known as the only one out of actually where I must still open I think these are not offering to about five times now we simply and I thought okay thank you so much for opportunity to get to water work lord I pray for this not babies go back to the federico be impossible to the speed of

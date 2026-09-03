@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xMKaugDB888"
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Luke chapter 20 and he began to tell the people this parable a man planted a vineyard and rented it out to vine growers and went on a long journey arrived for a long time and at the harvest time he sent a slave to the vine growers so that they would give him some of the produce of the vineyard but a vine growers beat him and sent him away empty-handed and it was seeded to send another slave and they beat him also and treated him shamefully and sent him away empty-handed and he proceeded to send a

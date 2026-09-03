@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uextx/"
 duration_min: 21
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Mark chapter nine verse we're going to read from verse 43. I'm going to share a bit, then we will uh just changing the format a little by the same church service, amen. And if thine hand offend thee, cut it off. Amen. For it is better for thee to enter into life maimed than having two hands to go into hell into the fire that never shall be quenched.

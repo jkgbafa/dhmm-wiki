@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=W-z0MDEAsvQ"
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Mighty hold me with th powerful of heav Heaven the of Fountain and he let all myy and when I the oford my hand death of and destru of Praises of Praises I will ever give to the to the I will never give to the of Praises SS of Praises I will ever give to thee qualities needed for watching and praying amen I believe I started sharing with you some of those things and I'm continuing today what are some of the things that are needed for watching and praying number one diligence did you have that diligence

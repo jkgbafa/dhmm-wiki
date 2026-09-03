@@ -4,6 +4,8 @@ book: "Know Your Invisible Enemies And Defeat Them"
 book_number: "116"
 chapter_number: 8
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Spiritual Warfare", "Spiritual Warfare/Demonology", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-holy-spirit"]
 ---
 
 Chapter 7\

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jOsgCyhI1Eg"
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/All-night Prayer"]
+tags: ["topic/prayer", "topic/prayer/all-night-prayer"]
 ---
 
 Father, thank you for the great blessing today for la grandission in Jesus' name of Jesus. Amen. Amen. Lift your hand, say I am blessed. Lever subis.

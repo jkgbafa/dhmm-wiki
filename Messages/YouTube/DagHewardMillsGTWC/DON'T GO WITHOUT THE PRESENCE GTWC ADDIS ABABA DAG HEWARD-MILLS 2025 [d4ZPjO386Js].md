@@ -8,6 +8,8 @@ year: 2025
 duration_min: 21
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Hallelujah. Hallelujah. Let us pray. Father in Jesus name. Amen.

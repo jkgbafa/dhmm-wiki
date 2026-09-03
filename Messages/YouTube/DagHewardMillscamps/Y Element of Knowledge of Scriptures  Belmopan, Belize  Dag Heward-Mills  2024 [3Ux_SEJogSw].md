@@ -9,6 +9,8 @@ duration_min: 24
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Y Element of Knowledge of Scriptures Belmopan, Belize Dag Heward-Mills 2024 [3Ux_SEJogSw]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 now young element number 22 second timoth y chter 3 verse 14 to 15 young element number 22 knowledge of scriptures knowledge of scriptures second Timothy chapter 3 verse 14 but continue thou in the things amen which thou Hast learned and being assured of knowing of whom thou Hast learned them are you there and that from a child thou has known the holy scriptures which are able to make thee wise unto salvation through faith which is in Christ Jesus amen amen are you listening to me list now who knows the scriptures from a child from a

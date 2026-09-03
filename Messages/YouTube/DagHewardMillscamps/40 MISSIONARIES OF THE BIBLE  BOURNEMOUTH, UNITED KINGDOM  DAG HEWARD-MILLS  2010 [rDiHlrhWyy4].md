@@ -8,6 +8,8 @@ year: 2010
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Missions"]
+tags: ["topic/missions"]
 ---
 
 now let me share with you 40 missionaries from the Bible Noah number one God sent Noah on a mission to all men amen amen to build an ark so that he would save them amen amen but they did not listen to him is that not so Genesis chapter 6 verse 13 and somebody should read it for us from verse 13 to 20 one and God said unto Noah the end of All Flesh is come before me for the Earth is filled with violence through them and behold I will destroy them with with the Earth make

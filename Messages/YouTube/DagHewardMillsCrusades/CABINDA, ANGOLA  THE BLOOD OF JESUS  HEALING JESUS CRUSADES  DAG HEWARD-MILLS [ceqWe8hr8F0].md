@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ceqWe8hr8F0"
 duration_min: 36
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Happy that you are here today, I want everyone to put their hands together with clapping, let's welcome our sister Vivalab shouts to the Lord Jesus Jesus oh Jesus we adore you and Jesus Jesus oh Jesus We adore you oh Jesus We adore you oh Jesus we adore you raise your hands oh Jesus We adore you oh Jesus we adore you oh Jesus you are Glory who compares to you glory maril Jesus I adore you oh Jesus I adore you raise your hands oh Jesus I adore you oh Jesus I adore you oh Jesus oh Jesus

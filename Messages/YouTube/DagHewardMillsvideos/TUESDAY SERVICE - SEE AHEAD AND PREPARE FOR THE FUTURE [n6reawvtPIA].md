@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=n6reawvtPIA"
 duration_min: 137
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 there is a long game only you can save a raging temper and raised in Penryn only you can't feel my soul mercy Lord though you are after drink from the river drink from the Reviva the flow feet for your throat there is a longing very lovely only you can see originally oh you can steal my soul it's a steal or - no you guys are no drink from the river drink from the river the float before you are bro let me deep I keep Irina with Jesus hold me close in your embrace hey take me

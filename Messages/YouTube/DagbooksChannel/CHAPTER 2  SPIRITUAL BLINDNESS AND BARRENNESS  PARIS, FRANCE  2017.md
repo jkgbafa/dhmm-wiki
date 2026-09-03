@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2017
 source: "autocaption"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Hallelujah to God. Alleluia. Are you still here or are you leaving? Are you sure you're here? OK. Now, let's see why infertility occurs and we're going to cure it. 2 Peter 18. 2 Peter 18. So beautiful. The word tells us. What does 2 Peter 18 verse 9 tell us instead? But he in whom these things are not present is blind. He can't see blind. But he in whom these things are not present is blind. He cannot see far ahead and he has forgotten the purification of his past sins. Wow ! Wow! So you see, people

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uf4vh/"
 duration_min: 44
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Well, we thank the Lord for this beautiful Sunday morning. I believe that God has a word in season prepared especially for you for coming this morning, and your life will never be the same again. Ladies and gentlemen, we have our own father and our bishop and our pastor to teach us and to guide us into the word of God. I believe that every word that is going to come this morning will not fall to the ground, but will build you up and establish you in the faith. I want us to stand to our feet and welcome our father and our bishop as he ministers.

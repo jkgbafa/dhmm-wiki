@@ -9,6 +9,8 @@ duration_min: 43
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MINISTRATION    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002 [zHomYGo8ogI]]]"
+topics: ["Anointing", "Prayer"]
+tags: ["topic/anointing", "topic/prayer"]
 ---
 
 Welcome to track number fourteen of life in the church. Lift your hands to the Lord, just thank him right now. Thank him, thank him. Thank you, Jesus. Thank you, Jesus.

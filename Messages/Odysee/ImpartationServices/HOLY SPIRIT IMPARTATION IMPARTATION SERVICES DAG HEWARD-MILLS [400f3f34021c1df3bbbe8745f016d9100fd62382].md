@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/holy-spirit-impart
 duration_min: 65
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit"]
 ---
 
 How many were not here this morning? You were somewhere else and you came this evening. Give me a hand raise. Alright. How was the elections?

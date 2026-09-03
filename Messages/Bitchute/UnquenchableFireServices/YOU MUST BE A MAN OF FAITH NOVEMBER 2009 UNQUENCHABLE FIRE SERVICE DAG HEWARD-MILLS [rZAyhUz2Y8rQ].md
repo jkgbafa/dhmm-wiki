@@ -8,6 +8,8 @@ year: 2009
 duration_min: 76
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Jesus the Son will be called by his name call from the dark and delivered from sin holy race save everyone but by the love Jesus the Son where the people have we're called by his name we're fall from the dark and we're delivered from since everyone Lord by the blood but by the blood by the blood Jesus the Sonia just thank God for tonight thank you Jesus for your blessing hallelujah thank you Jesus for a great blessing in Jesus' name amen you may be seated tonight I just want to share um a short message and then I'll show you some short DVD.

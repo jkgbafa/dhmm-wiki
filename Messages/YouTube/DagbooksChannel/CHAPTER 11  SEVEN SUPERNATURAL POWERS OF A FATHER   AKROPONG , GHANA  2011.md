@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2011
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Seven supernatural powers of a father. What a shock. A shock. Are you tired? Okay. Sit down. Sit down. Sit down. Look, if we don't continue, we cannot finish anything. Even this one, we are not finishing anything. How much more if we are always on break? Number one, the father's supernatural power to be a stepping stone. Every father, when you see your father, see a stepping stone. Through him, you will go higher. Amen. That's the scripture. Luke 2:34. This child is set for the rising. The rising the rising of many. Amen. I'm giving you the power

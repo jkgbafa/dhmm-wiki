@@ -8,6 +8,8 @@ year: 2019
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 I Know Thee I knew Thee I knew before you came I knew what you would say I knew thee then you that you came anyway because they knew the person I pray that God give us a humble heart to receive what God has for us your life my life our lives our Ministries will change forever clap your hands for the Lord one more time amen be seated as we welcome Ida h early in the morning as the new days I love you me and I to early in the morning as the new days I love

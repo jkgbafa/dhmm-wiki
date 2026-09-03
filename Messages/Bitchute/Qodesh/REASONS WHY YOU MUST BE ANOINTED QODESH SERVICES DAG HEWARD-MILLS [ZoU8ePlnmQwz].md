@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/ZoU8ePlnmQwz/"
 duration_min: 49
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 He took my pain my life and not maybe salvation except in the name of the Lord. He came away. He came to stay. Shiny salvation accept me the name Salvation. Lift your hands to the Lord and ask God to speak to your heart this morning.

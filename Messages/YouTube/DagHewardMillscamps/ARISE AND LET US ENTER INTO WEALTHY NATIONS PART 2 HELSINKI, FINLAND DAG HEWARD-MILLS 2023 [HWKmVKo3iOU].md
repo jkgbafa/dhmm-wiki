@@ -8,6 +8,8 @@ year: 2023
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, thank you for this blessed time. In the name of Jesus. You may be seated. Hallelujah. Now, how many of you believe that your offering is going to open a special door?

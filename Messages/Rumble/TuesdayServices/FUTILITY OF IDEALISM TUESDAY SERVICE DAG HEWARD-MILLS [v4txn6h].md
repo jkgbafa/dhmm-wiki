@@ -7,6 +7,8 @@ url: "https://rumble.com/v4txn6h/"
 duration_min: 48
 source: "whisper"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 He has spoken on the topics of faith, family, and freedom in Cuba, Belgium, Brazil, Congo, UK, and all over the USA to crowds from 14 to 40,000. International leadership speaker, trainer, and coach. Author of Learn Two Raw Leadership. Attitude hack. Live a more excellent life.

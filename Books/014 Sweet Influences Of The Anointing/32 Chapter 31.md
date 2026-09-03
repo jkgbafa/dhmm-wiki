@@ -4,6 +4,8 @@ book: "Sweet Influences Of The Anointing"
 book_number: "014"
 chapter_number: 32
 type: book
+topics: ["Prayer", "The Holy Spirit", "The Holy Spirit/Baptism of the Spirit"]
+tags: ["topic/prayer", "topic/the-holy-spirit", "topic/the-holy-spirit/baptism-of-the-spirit"]
 ---
 
 ## Chapter 31

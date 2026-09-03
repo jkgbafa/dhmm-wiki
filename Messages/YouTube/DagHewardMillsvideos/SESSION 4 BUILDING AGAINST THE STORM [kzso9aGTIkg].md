@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=kzso9aGTIkg"
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 this handle of kids daily I will put my trust me Hey I won't listen when he speaks to me there's no fear living in his angels all keeping me I'm covered by his heads under his wing I'm covered by love he delivers me from evil and he keeps me all my day covered my own now hi in the shadow of your I put my trusty I will listen when he speak to me there no fear living in his be hey gels all around keeping me his wings I will try pick it up and I'm covered

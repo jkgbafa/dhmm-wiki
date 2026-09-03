@@ -8,6 +8,8 @@ year: 2015
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wisdom"]
+tags: ["topic/prayer", "topic/wisdom"]
 ---
 
 open your mouth and pray bring Spirit bring spirit Sal Glory we thank you for wonderful lift up the voice and pray from the front to the back lift up the ghost lift up your voice and pray let me hear you pray the spirit lift up your voice lift up your voice and pray lift up your voice LIF up your voice and pray lift up your voice bring the spirit lift up your voice bring the Holy Ghost if you have gift of Tong lift it up and pray let me hear you from the front to the

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Vp3vR9e2t_k"
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 turn to Jeremiah chapter 9 do you remember when the rich man went to hell he was advising was his name Abraham to send Lazarus to go and preach and the and Abraham told him Abram said to him they have Moses and the Prophet then here then they will not go to hell all right so that's why these prophets are important somebody like Jeremiah we find it difficult to listen to him by these very important all right what do you think now man message could also be entitled that door to demons all right but you can

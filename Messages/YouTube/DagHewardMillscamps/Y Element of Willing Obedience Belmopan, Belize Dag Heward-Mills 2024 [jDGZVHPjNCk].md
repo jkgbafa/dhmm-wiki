@@ -9,6 +9,8 @@ duration_min: 22
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Y Element of Willing Obedience  Belmopan, Belize  Dag Heward-Mills  2024 [jDGZVHPjNCk]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Number three. What is a why element? What is a why element? Number three. I gave you seven things.

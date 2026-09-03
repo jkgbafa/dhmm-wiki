@@ -8,6 +8,8 @@ year: 2016
 duration_min: 38
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Clap Your Hands for Jesus you may be seated so yesterday we learned very important things about our destiny and the first and how many of you believe that your life will reflect that Destiny and the first Destiny you must achieve and see in your ministry is that even though you are small your church is small you are alone you are few you will become a thousand and if you read mega church reasons why we must have a mega church if this is your vision it will drive you it will it will guide you there are

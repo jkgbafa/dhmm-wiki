@@ -4,6 +4,8 @@ channel: "DhmmInternationalMinistry"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Call of God"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-call-of-god"]
 ---
 
 Wow, what a blessing. Hallelujah. Lift your hands with me. Let's pray. Father, thank you for tonight.

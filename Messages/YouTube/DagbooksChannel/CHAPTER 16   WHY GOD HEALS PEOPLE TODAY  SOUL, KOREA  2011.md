@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2011
 source: "autocaption"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Ja. Why does the Lord heal us ? God teaches us to manifest His glory. John 11:4 says: “This illness is not fatal, but is for the glory of God, and that the Son of God may be glorified through it .” Don't know problem. I do not know what problem you all came out with this evening. When you bring a problem to God, He wants to receive glory through that problem . amen. How many of you do you want to see the glory of God? It was one day when I was holding a meeting in the

@@ -9,6 +9,8 @@ duration_min: 82
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PERFECTION OF ABRAHAM PART 5  JOHANNESBURG , SOUTH AFRICA DAG HEWARD-MILLS  2005 [TnIff4uQSWo]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Welcome to track number three of perfection God before family God before family Zimbo God before you see. I I didn't want to preach this message to ordinary Christians. I waited for you. What's the first step to perfection? Huh?

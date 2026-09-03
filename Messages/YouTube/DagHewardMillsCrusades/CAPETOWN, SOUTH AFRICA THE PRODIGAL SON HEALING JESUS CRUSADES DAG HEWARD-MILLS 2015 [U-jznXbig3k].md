@@ -9,6 +9,8 @@ duration_min: 74
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/CAPETOWN, SOUTH AFRICA  THE PRODIGAL SON  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2015 [U-jznXbig3k]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Tonight I'm preaching from an old story that everybody knows. Well, I don't know if you all know it, but it's the story of the prodigal son. This is a story that Jesus told us. He said, A certain man had two sons, and the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living.

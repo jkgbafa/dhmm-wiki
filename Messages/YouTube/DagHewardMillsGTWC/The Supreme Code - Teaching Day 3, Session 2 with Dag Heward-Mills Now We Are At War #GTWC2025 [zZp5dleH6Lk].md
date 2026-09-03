@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zZp5dleH6Lk"
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 You may be seated. I want us to hurry up. P V C I P V C I Amen. Amen. And uh we are going to We are looking at.

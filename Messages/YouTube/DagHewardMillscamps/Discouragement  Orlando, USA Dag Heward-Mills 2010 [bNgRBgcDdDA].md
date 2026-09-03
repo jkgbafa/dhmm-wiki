@@ -8,6 +8,8 @@ year: 2010
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 there are two ways to use the powers that God has given you isn't it is that not so what are the two ways confessions and then prayers and the keys that you have learned you will always all your prayers will be answered isn't it isn't it that is why I'm not going to ask you for certain things so that I always have 100% answered prayer I'm going to gauge you before I ask you for certain things I'm going to analyze you very well I'm going to analyze the word of God very well and analyze my

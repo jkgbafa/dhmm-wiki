@@ -8,6 +8,8 @@ year: 2024
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 What you did for me, I have peace, peace in my heart. Sing with me when I see what you did for me. I adore you, I praise you. like this like this. Life for the [ Music] Lord God of my heart, I adore you. My Lord, from affliction, in suffering, you deliver me. Always you are Lord, I adore you, you are Lord, you are adored, I praise you. Raise your hands when I see, when I see what you did for me, I have peace in my heart. Sing with me with strength when I see what

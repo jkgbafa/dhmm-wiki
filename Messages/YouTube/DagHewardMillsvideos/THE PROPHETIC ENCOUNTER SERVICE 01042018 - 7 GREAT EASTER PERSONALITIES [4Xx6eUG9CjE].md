@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4Xx6eUG9CjE"
 duration_min: 226
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Prayer/Praying in Tongues", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 somebody give God a shout of praise without passing a sound in the Lord your exercise of this morning I usually excited this morning hallelujah what a pleasure that we have today it's today not a blessed day Turner neighbor today is a good day and ask your neighbor what day is today we know this Sunday why what day is today hallelujah I said hallelujah can have an email from you hallelujah why won't I spend some time to pray and I think that today is a good day to say thank you to the Lord we went to

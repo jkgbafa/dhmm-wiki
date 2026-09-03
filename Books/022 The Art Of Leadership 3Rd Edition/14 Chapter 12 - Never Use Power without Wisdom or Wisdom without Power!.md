@@ -4,6 +4,8 @@ book: "The Art Of Leadership 3Rd Edition"
 book_number: "022"
 chapter_number: 14
 type: book
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 ### Chapter 12\

@@ -8,6 +8,8 @@ year: 2012
 duration_min: 32
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 now characteristics of midlife crisis the number one a search for an undefined dream or goal as search for an undefined dream or goal hey so when you are experiencing midlife crisis you begin to search for an undefined dream or goal and you start it's like I'm looking for something I don't know what it is is and before you realize the church is a victim of your search so this happens to people whether they are pastors or they are not pastors number two a deep sense of remorse for the goals you have not accomplished you start

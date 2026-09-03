@@ -8,6 +8,8 @@ year: 2024
 duration_min: 19
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 so let me start to give you these y elements sit down number one what are the Y elements number one Numbers Chapter One let's read Because I want to show them to you from the Bible and when I show it to you from the Bible then I'll give you the element and when you see that element in your life then you flow with it y element number one are you ready for y element number one for number one why element number one being a teenager wow then 2 Chronicles chapter 20 I wish there's a Bible

@@ -4,6 +4,8 @@ book: "Those Who Are Slanderers"
 book_number: "093"
 chapter_number: 8
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 ### Chapter 6\

@@ -8,6 +8,8 @@ year: 2000
 duration_min: 46
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Deliverance", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 here's a cup of Ripley hallelujah I said hallelujah I expected to be traded Sunday morning I waited for the Word of God this morning well if you are 3d as I am why don't we start to our feet as receive a bishop to minister the wear of the King to us put your hands together put your hands together put your hands together be excited the Sunday morning hallelujah hallelujah are you happy to be in church this morning are you happy with your voting very good let's pray father thank you for this morning for an opportunity

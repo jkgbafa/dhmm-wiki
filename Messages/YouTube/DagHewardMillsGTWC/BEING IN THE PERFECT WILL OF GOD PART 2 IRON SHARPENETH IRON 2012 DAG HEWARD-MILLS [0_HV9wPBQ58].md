@@ -8,6 +8,8 @@ year: 2012
 duration_min: 135
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/the-holy-spirit", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 Now, just as the message of prosperity and abundance and success and achievements is not an evil message. But it is a replacement. And it is not the same. Amen. So it's a replacement of the good thing.

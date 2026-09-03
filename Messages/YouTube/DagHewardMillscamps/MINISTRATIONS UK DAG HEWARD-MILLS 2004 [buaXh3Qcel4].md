@@ -9,6 +9,8 @@ duration_min: 33
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MINISTRATIONS  UK  DAG HEWARD-MILLS  2004 [buaXh3Qcel4]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Welcome to track number thirteen of others. Oh, yes, Lord. As the Lord who just changed my love my spirit and my soul and be in fame with the power of the whole spirit my life will never be the same person. So be in fill with the power of the Holy Spirit. I want you to just confess your sins quietly to the Lord, the sins of your hand and of your mind and of your soul.

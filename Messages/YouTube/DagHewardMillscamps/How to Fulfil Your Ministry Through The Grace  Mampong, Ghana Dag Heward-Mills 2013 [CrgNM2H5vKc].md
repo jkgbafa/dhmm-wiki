@@ -8,6 +8,8 @@ year: 2013
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 what is number eight huh how many can operate even without the gift wow what is number nine how to operate in the ministry through the Grace isn't it now what is the grace wow are you excited about Grace Grace is a very wonderbar thing Grace is a very what wonderbar is German for wonderful amen now Titus 2 11 11 what does it say what what was the name of that camp who is he that come of the world yeah for the grace of God that bringeth salvation and in that is why what now the grace

@@ -8,6 +8,8 @@ year: 2016
 duration_min: 194
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 obligation of a Christian to the Heathen of the world use all means available to preach the word of God obligation of a Christian witnessing to everyone the conversion of the Nations through the blood of Jesus Christ yeah can't you do just a little bit more and can't you go just a little bit further can't you preach just a little bit more and can't you give just a little bit more The Church Must send or it will end so attempt great things for God oh so Get Up Stand Up you must fight the fight Get Up

@@ -8,6 +8,8 @@ year: 2019
 duration_min: 138
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 May churches be planted may I be part oh god of the vision of the truths in the name of Jesus can you lift your voice and begin to pray right now I just want you to spend some time we want to pray one to say the Lord Jesus May the scriptures be fulfilled in my life may the word of God be fulfilled in my life use me as a vessel oh God you called the failures you call the Unworthy you call the rejected Lord thank you that I qualify I qualify I'm in that category and

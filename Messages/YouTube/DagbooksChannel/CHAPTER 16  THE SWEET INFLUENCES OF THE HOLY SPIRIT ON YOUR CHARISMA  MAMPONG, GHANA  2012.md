@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2012
 source: "autocaption"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 influence of the spirit on your charisma through the influence of the spirit you will be charismatic. How many like love to be charismatic? And I I do not think you even know what it means to be charismatic. So turn with me to Romans chapter 12. Romans chapter number 12. There is another name I could have given this massage. I could have called it the sweet influence of the Holy Spirit on your magnetism. But I want to be conservative and use a name or a word that you may feel is more spiritual. Now the word charismatic

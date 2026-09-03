@@ -7,6 +7,8 @@ url: "https://rumble.com/v4syix6/"
 duration_min: 129
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 Do do do the first boyfriend I had Peter. Oh, he won my heart, and I gave myself to him night after night. He came into my life, a dream come true. I did everything he told me to do. I just wanted us to be together.

@@ -8,6 +8,8 @@ year: 2019
 duration_min: 44
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Leadership", "Wisdom"]
+tags: ["topic/anointing", "topic/leadership", "topic/wisdom"]
 ---
 
 The day is a very exceptional week for you and for me. There are many things God is going to do in our lives this week. And every work he is going to do. One very big principle. And that principle is the principle of the seed.

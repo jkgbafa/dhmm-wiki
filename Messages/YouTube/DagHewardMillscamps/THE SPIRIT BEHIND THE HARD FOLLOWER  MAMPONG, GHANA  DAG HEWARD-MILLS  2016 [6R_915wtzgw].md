@@ -8,6 +8,8 @@ year: 2016
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Psalm 63 and um verse number 8 what does it say my soul followeth hard after thee amen We are following hard after God we are in school we are studying philosophy but we are following hard after God following hard after the work of God following hard after the ministry amen am and I was saying yesterday that it's very important that we stumble upon such a scripture once a while because as you keep going on and on in the ministry you can or even in church sorry not Ministry even inur church you can easily get distracted

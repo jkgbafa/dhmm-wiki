@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqete/"
 duration_min: 58
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Salvation/Repentance", "Vision and Direction"]
+tags: ["topic/salvation", "topic/salvation/repentance", "topic/vision-and-direction"]
 ---
 
 Today we're in M I S S I S S I P P I. We're in the state Bolshevita Mosquito. Where friends you just meant bring over Fredfix. And where even gas stations have a sign on their door that says no profanity. Well, good afternoon.

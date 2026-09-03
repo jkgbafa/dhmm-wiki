@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ciHcdhp4JF0"
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 from the start you had a place in my heart a place that no one else could feel but sin kept your spirit from working a me I couldn't look at life honestly until the day when my will gave away to the truth I have found in you I never knew how good it could be to stand in your presence totally free I'm forgiven now I have a reason for living Jesus keeps giving and giving giving to my heart overflows I'm forgiven now I have a reason for living Jesus keeps giving and giving for till my

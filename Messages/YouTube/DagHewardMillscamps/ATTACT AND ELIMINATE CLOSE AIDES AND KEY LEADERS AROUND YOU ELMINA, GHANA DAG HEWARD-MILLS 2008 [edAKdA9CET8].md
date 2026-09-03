@@ -8,6 +8,8 @@ year: 2008
 duration_min: 21
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 Attack. Alright. Close aides. And opinion leaders around generals. Key number three.

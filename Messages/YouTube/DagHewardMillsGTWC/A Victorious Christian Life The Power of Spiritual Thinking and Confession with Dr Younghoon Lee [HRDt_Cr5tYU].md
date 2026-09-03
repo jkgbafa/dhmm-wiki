@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=HRDt_Cr5tYU"
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 What a blessing. You may be seated. We are blessed at this time. Can we all settle down? And um we have the first um speaker for tonight.

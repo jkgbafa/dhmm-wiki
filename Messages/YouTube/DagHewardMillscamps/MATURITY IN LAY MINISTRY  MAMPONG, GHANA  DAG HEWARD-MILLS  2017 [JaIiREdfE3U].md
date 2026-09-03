@@ -8,6 +8,8 @@ year: 2017
 duration_min: 133
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 maturity is to teach the young ones and to encourage the young ones to follow the call of God and do better than their fathers amen amen now after you have laid the foundation of honesty and Truth truthfulness are you listening to me for yourself the next very important sign of your maturity as a lay Pastor is in is seen in your ability to teach the young ones and encourage the young ones to follow the call of of godall hallelujah amen why don't you open the door wide so that everybody can just come in yes just

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7oPKE6eyguc"
 duration_min: 50
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer"]
 ---
 
 look 18 and I want us to reach from rest of my learn the parables of Prayer Luke chapter 18 verse 9 and he's picked this parable well let's bless me from verse 1 he says and he speaker pebble on this end that men ought always to pray and not to faint saying there was in a city a judge which he had not God neither dead man all right let's read verse 9 and his figures parable unto setting which trusted in themselves that they were righteous and despised others all this is under the theme of prayer

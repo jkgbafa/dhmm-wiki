@@ -4,6 +4,8 @@ book: "Many Are Called"
 book_number: "029"
 chapter_number: 17
 type: book
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Salvation"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/salvation"]
 ---
 
 ## Chapter 16

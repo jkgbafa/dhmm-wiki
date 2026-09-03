@@ -8,6 +8,8 @@ year: 2021
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring"]
 ---
 
 Father, thank you for this opportunity. Serve you to serve and to follow you. We are grateful for your mighty power that is released in our lives in Jesus' name of Jesus Christ. Amen. You may be seated.

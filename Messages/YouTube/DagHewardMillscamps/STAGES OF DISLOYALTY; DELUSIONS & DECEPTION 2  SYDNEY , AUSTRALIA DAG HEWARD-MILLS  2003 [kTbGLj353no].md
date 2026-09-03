@@ -8,6 +8,8 @@ year: 2003
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 welcome to track number 10 of how to survive in Ephesus the same so we shouldn't let that thing come between and if you behave like that God cannot use you in this place because many of the people here are not from your country there are going to be people from from look and you know although people say they are Christians it are people affect in America if you want to see the difference go to church on Sunday not even at work but church that's where you see that character that behavior if it's white the whole

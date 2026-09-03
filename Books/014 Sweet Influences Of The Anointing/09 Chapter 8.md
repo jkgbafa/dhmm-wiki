@@ -4,6 +4,8 @@ book: "Sweet Influences Of The Anointing"
 book_number: "014"
 chapter_number: 9
 type: book
+topics: ["The Holy Spirit", "Wisdom"]
+tags: ["topic/the-holy-spirit", "topic/wisdom"]
 ---
 
 ## Chapter 8

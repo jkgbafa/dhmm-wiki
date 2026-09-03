@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ucvd9/"
 duration_min: 66
 source: "whisper"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 I can see some people are shaking all right, but they are not smiling. That's the free coordination. Shake somebody with a smile and work on somebody in the house of God. Oh, we are many. We are one body.

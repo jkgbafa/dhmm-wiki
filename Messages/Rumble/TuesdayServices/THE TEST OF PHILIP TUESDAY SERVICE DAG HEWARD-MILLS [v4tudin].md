@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tudin/"
 duration_min: 69
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 They say you will never know till you walk up to that. And you look into his eyes of the light. And touch the neckprints in his hand. Then if you can walk away. Knowing all he is died to.

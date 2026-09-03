@@ -9,6 +9,8 @@ duration_min: 107
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/TYPES OF PRAYER PART 2 (PRAYER FOR STRENGTH)  WARWICK LE LAGON, VANUATU  DAG HEWARD-MILLS  2024 [IGVqSjTvWzU]]]"
+topics: ["Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 You may be seated. Ephesians chapter six. Our subject is the prayer seminar that I believe is life changing. Amen. Life-changing prayer seminar.

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 67
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 Chapter 24. If you cannot read, you cannot lead. Amen. Now, I always know people who don't read. If you cannot read, you cannot lead. Amen. Amen. Now, why must you read? Number one, I'm giving you reasons why you must be a reader. Number one, information in a book will make the difference in your life. Amen. Amen. The information in the book will be will make be the difference in your life. Number two. Number two, reading a book puts you in direct contact with the author. How many want to be in direct contact with somebody anointed?

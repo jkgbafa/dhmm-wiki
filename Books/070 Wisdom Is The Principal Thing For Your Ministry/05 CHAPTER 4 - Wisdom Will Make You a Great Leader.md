@@ -4,6 +4,8 @@ book: "Wisdom Is The Principal Thing For Your Ministry"
 book_number: "070"
 chapter_number: 5
 type: book
+topics: ["Leadership", "Wisdom"]
+tags: ["topic/leadership", "topic/wisdom"]
 ---
 
 ### CHAPTER 4\

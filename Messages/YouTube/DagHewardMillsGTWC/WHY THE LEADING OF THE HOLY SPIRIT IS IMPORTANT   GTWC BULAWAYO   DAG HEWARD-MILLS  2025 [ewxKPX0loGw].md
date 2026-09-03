@@ -8,6 +8,8 @@ year: 2025
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "Vision and Direction", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-holy-spirit", "topic/vision-and-direction", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Jesus. Father, we thank you for the blessing we have today in Jesus name. Amen. Amen. You may be seated. Hallelujah. What a blessing we have today. Amen. Now, I want us to look into the word of God for guidance. Amen. I want to share with you about the art of hearing and following God. Amen. Amen. Now the first reason or the first important thing is in following the will of God, following the spirit of God is that it is the reason that differentiates people who are in ministry. It differentiates Christians. It differentiates people on earth.

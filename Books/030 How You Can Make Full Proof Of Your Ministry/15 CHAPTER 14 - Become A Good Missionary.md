@@ -4,6 +4,8 @@ book: "How You Can Make Full Proof Of Your Ministry"
 book_number: "030"
 chapter_number: 15
 type: book
+topics: ["Missions"]
+tags: ["topic/missions"]
 ---
 
 CHAPTER 14\

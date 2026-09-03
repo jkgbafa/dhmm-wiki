@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ufmqr/"
 duration_min: 63
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Hallelujah. Turn with me to the book of Daniel. I want to share with you this morning something important from the word of God. Amen. Hallelujah.

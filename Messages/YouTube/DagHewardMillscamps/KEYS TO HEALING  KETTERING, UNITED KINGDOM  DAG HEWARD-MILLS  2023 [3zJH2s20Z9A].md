@@ -8,6 +8,8 @@ year: 2023
 duration_min: 226
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Hallelujah all right amen lift your hands let's pray Father which are in heaven thank you for this opportunity we are so excited to be in your presence thank you for a chance to receive your word thank you for a chance to walk in your will thank you for a chance to grow in you we are grateful speak to everyone Lord I pray touch every life Lord by the Holy Spirit draw out us into your will amen send us into the whole world Amen to do your perfect will amen we are grateful Lord Amen in Jesus

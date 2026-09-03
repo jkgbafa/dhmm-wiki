@@ -8,6 +8,8 @@ year: 2024
 duration_min: 44
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare"]
+tags: ["topic/prayer", "topic/spiritual-warfare"]
 ---
 
 all right now we have come to the last session and I'm I'm going to pray for everybody amen so I want you to just bear listen for just a few moments and uh this is an amazing prayer sem seminar Matthew chapter 12 what Jesus said about all these things prayers sit down Matthew chapter 12 but when the Pharisees heard it they said this fellow does not cast out Devils but by pipop the prince of the devils and Jesus knew their thoughts and said unto them every every Kingdom divided against itself is brought to Desolation if

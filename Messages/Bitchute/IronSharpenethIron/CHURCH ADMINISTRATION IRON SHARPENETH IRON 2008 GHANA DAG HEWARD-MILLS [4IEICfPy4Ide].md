@@ -8,6 +8,8 @@ year: 2008
 duration_min: 49
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Amen. And it's going to bless you. Hallelujah. One of the things that it talks about is how to establish a membership base. It's very important for you to have members.

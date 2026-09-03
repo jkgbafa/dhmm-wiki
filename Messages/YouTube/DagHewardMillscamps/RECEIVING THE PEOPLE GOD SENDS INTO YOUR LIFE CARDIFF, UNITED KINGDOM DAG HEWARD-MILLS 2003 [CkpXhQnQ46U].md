@@ -9,6 +9,8 @@ duration_min: 60
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/RECEIVING THE PEOPLE GOD SENDS INTO YOUR LIFE  CARDIFF, UNITED KINGDOM  DAG HEWARD-MILLS  2003 [CkpXhQnQ46U]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 Welcome to track number fifteen of Fima. Receiving the people God sends into our lives. Compare. Oh you can stand because you can send everything. And you will find none to compare.

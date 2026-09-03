@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=mvSiMlx_m0Y"
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Shepherd of my soul I gave you full control wherever you may be I will follow I have made a choice to listen for your voice wherever you may be you're the segment of my dog I gave you for control where were you I will I have made a joy Oh your boy wherever you baby I the quiet my stream my car oh off my soul will be my god my soul and I gave you wherever you may you're my stream by my side - nice a mighty mouth oh I can see that my soul will

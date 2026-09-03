@@ -8,6 +8,8 @@ year: 2025
 duration_min: 34
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Hallelujah. Hallelujah. Hallelujah. Hallelujah. What a blessing.

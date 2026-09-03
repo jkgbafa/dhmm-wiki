@@ -8,6 +8,8 @@ year: 2005
 duration_min: 22
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 welcome to track number 21 of birthday Kwa last one he says the greatest calling of all is to be conquered by him the greatest calling of all is to be conquered by him when he has conquered you fully and you have become nothing in his hands then you have achieved the highest calling and that is why Christ went through what he went through suffered and was totally in the hands of God into thy hands I command my spirit he he he went through anything that his father said including the death and the death of the

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xMR7klW3DMc"
 duration_min: 133
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you happen to be in church this afternoon how did you put your hands together and give the Lord a kind of rare Alleluia open the eyes of my heart Lord open the eyes of my heart I want me our seal I want do you want to see these eyes on my life whatever I want I was the you Caesar almost time open the eyes of my heart to my truck taken of your feet of my heart yeah I want to see you I wasn't really that subhansin person to be a you'll be signing in the

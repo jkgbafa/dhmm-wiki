@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ue6uw/"
 duration_min: 62
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 When Jesus shall appear all the world will see him in the sky He shall have the body that no single day We shall be with Christ the Lord of God If you want to get there if you want to get there from your sins I want God's chosen one You can be in the new Saturday If you want to get there to get down from the same You can be so you can be the new Now here all the world its mansion and wealth will be no more There will be such confusion There will be God's people like Paul and Moses do we shall see his face forever if you want to get there once now when your voice I want us to die Saturday you can be so in one you can be with a new side we shall see we shall see pressure and walk on streets of God we shall see the glory of the Lord the glory of God And I tell you what we shall see God's people shall see God's people like Paul and Moses everyone we shall see his place for now if you want to get them from your sins and the world you can be so you can be if you want to get there we do want to get there one God says when your God will be one God's chosen once you have day with the beauty There's something about great people that they suffer from is that nobody seems to think that they need any comfort or they need any help.

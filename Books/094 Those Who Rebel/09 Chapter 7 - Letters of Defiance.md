@@ -4,6 +4,8 @@ book: "Those Who Rebel"
 book_number: "094"
 chapter_number: 9
 type: book
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 ### Chapter 7\

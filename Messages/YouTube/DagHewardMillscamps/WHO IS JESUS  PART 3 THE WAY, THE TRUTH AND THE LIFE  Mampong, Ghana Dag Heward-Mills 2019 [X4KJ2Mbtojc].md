@@ -8,6 +8,8 @@ year: 2019
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 in Luke chapter 21 and verse 38 Luke 21 and verse 38 the Bible says go to 36 Luke 21 and 36 watch ye therefore and pray always that ye may be accountable sorry you will be accounted worthy to escape all the things that shall come to pass how many of you know that many things are coming to pass one of the things coming to pass is judgment and Jesus these are the words of Jesus watch ye therefore and pray always that ye may be accounted worthy to escape all these things that shall come to pass

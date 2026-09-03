@@ -8,6 +8,8 @@ year: 2015
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Missions", "Missions/The Nations", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/missions", "topic/missions/the-nations", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 I must go away I must go away for my work down here on Earth is done and while I'm gone away I will be building you a place then I'm coming again to take you back to live with me why must you leave us oh the people cried as Jesus as he said his last goodbye why must you go oh how we want to know then Jesus dri their eyes in then reply my little children I ha to leave you but I must go away I must go away for my work down here on Earth

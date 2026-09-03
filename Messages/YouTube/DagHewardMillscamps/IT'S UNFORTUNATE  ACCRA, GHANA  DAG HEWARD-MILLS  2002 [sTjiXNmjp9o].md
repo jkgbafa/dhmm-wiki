@@ -8,6 +8,8 @@ year: 2002
 duration_min: 47
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 welcome to track number one of alos Hallelujah lift your hands I want to be more like you Jesus I want to be more I want to be more like want to be a vessel you are I oh Jesus to be more I want to be more like you want to be more I want to be more like to be I want to be more like J want to be more I want to be more like Jus want to be a you are father we thank you for this evening as we come before your holy word

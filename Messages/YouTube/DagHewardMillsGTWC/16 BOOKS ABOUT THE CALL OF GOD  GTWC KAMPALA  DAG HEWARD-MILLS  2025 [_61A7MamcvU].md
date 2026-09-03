@@ -9,6 +9,8 @@ duration_min: 62
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/16 BOOKS ABOUT THE CALL OF GOD GTWC KAMPALA DAG HEWARD-MILLS 2025 [_61A7MamcvU]]]"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 Hallelujah. What a blessing. Lift your hand and pray for the spirit of revelation. Pray for the spirit of revelation. Lord, we are asking for the spirit of revelation. Give us the spirit of revelation. Give us the spirit of revelation. Thank you, Lord, for the spirit of revelation. Pray for the spirit of revelation. Father, thank you for opening our eyes. Amen. Amen. Jesus name. All right. You may be seated. Now first thing is thank you very much Apostle Moses for the warm welcome for us here in this house. The reception the attitude of the people is

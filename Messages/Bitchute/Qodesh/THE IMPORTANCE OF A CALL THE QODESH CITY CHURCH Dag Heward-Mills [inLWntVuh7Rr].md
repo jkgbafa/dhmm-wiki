@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/inLWntVuh7Rr/"
 duration_min: 94
 source: "whisper"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 Now, if God has called you, all right, it is dangerous to not follow the call. Very dangerous for your life. Everything about your life is connected to the call. That's for what God is doing. He will do it.

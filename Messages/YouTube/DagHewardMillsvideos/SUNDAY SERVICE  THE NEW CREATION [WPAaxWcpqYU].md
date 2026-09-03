@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=WPAaxWcpqYU"
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Salvation", "Salvation/The New Birth", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/salvation", "topic/salvation/the-new-birth", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I'm not looking behind me and mistakes have already made Hocus live inside me I believe that my dad's orbit I know I'm not gonna break it I'm keeping my eyes on you but you Oh my friend to you dr. Shane but what I must do I know I can make it break it no I'm keeping my eyes on you I'm bothering you but I mean do my I'm keeping my eyes on you following you following you I'm keeping my eyes on you while we do fun with you I'm keeping my eyes but often but I

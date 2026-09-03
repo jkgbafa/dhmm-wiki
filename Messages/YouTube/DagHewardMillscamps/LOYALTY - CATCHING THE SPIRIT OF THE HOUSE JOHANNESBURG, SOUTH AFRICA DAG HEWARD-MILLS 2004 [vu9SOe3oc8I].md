@@ -9,6 +9,8 @@ duration_min: 58
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/LOYALTY - CATCHING THE SPIRIT OF THE HOUSE  JOHANNESBURG, SOUTH AFRICA  DAG HEWARD-MILLS  2004 [vu9SOe3oc8I]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 Welcome to track number six of church planting, amen. Now, one of the things about loyalty is you need to catch the spirit of the house in order to be loyal. Amen. You need to catch the spirit of the house of the ministry. Because every ministry has a culture.

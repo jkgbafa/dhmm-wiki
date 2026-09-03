@@ -8,6 +8,8 @@ year: 2011
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 Shepherd of my soul I give you full control wherever you may lead I will follow I have made a choice to listen for your voice wherever you may lead I will go Lord You Are The Shepherd of my soul and I give you full control wherever you may lead I will fall because I have made a choice I want to listen for your voice whereever ever you may lead I will go be it in a quiet pasture Oh by a gentle stream The Shepherd of my soul is by my side should I face a mighty

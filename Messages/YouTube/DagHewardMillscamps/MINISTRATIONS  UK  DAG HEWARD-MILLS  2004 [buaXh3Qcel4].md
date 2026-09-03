@@ -8,6 +8,8 @@ year: 2004
 duration_min: 33
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 welcome to track number 13 of others oh yes Lord ask the Lord to just changing my heart my spirit and my soul I being f with the power of the Holy Spirit my life will never be the S the son I know take all in all me touching my soul and it's changing my life are being filled with the power of the Holy Spirit my life would never be the same my spirit and my soul are been filled with the power of the Holy Spirit the light would never be the same I want you to

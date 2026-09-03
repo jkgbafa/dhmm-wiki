@@ -9,6 +9,8 @@ duration_min: 65
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/BEAUTIFUL FEET    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002 [IdIrSyX8hBU]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Prayer"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/prayer"]
 ---
 
 Welcome to track number seven of life in the church. To deserve to know you. Lord, what have we done to deserve to know you? We thank you. Father, help us to help many others to also know you.

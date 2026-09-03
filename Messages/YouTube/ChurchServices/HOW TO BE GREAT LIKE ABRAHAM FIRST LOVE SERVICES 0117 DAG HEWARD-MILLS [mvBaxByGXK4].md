@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=mvBaxByGXK4"
 duration_min: 185
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah. Wow, now we are going to pray our next prayer. We are going to ask God to show us more love and help us to love. Hallelujah. How many of you know that it's not easy to love?

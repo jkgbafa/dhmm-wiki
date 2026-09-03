@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=UwsB8Vn-BBo"
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Backsliding"]
+tags: ["topic/salvation", "topic/salvation/backsliding"]
 ---
 
 this morning I want to continue for the few minutes that we have on our subject of backsliding amen and I'm reading from Chapter four I want you to get a book everybody this one make sure you have it and read them it would be a blessing to you now today I'm looking at what we call the psychology of backsliding when we talk about psychologies what people think about you know as they fall away or as they move away from the Lord turn with me to Galatians chapter 6 please as they move away from the Lord

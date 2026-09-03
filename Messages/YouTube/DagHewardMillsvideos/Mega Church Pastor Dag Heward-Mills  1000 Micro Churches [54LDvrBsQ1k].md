@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=54LDvrBsQ1k"
 duration_min: 269
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Vision and Direction", "Vision and Direction/Hearing God", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we want to spend time this morning to give god thanks and give him praise because god always expects thanksgiving from his people let's read from deuteronomy chapter 8 and verse number 9 the bible says a land wearing thou shall eat bread without scarceness thou shalt not lack anything in it a land whose stones are iron and out of whose heels thou mayers dig brass verse 10 when thou has eaten an at four then thou shall bless the lord thy god for the good land which he have brought thee into or have given thee hallelujah today

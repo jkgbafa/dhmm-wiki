@@ -8,6 +8,8 @@ year: 2001
 duration_min: 24
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 Welcome to track number twenty of the message of sacrifice. Message of the cross. Okay, the next one. Sacrifice. I mean write it this way.

@@ -8,6 +8,8 @@ year: 2019
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 Rise your feet and let's receive our father and our prophets. Clap your hands, hallelujah. Hallelujah. Father, thank you for the blessing that we have in the name of Jesus. We are grateful for this time.

@@ -9,6 +9,8 @@ duration_min: 87
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EXPECT A MIRACLE OF A CALL  ST. JOHN'S, ANTIGUA  DAG HEWARD-MILLS  2024 [jL8F3UjArZk]]]"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 Now we want to move on to number two. The miracle of a call. The miracle of a call. Expect a miracle. Number two, I expect the miracle of a call.

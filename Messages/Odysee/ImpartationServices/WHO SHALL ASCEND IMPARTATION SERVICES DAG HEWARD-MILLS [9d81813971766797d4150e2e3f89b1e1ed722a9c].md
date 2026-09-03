@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/who-shall-ascend-i
 duration_min: 77
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 There will be mountains that I will have to climb, and there will be battles that I will have to fight. But victory or defeat, it's up to me to decide. But how can I expect to win if I never try? I just can't give up now. I've come too far from where I started from.

@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/Td8HTc67gF3F/"
 duration_min: 97
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Leadership"]
+tags: ["topic/anointing", "topic/leadership"]
 ---
 
 Amen. Father, thank you for this great opportunity that we have in your presence. We ask that you speak to our hearts. Lead us into all of your will in Jesus' name. Amen.

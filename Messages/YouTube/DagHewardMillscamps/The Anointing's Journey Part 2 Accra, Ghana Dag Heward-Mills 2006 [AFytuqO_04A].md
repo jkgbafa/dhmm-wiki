@@ -8,6 +8,8 @@ year: 2006
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 now I didn't bring you here do we have career Counseling in the church on Sundays but at this camp we don't have career we SP careers here SP careers weate careers because Christ carpentry career was terminated by his father Paul's career as a tent maker and as a lawyer was terminated my career as a doctor was terminated I am not here to build your career we are here for Christ and to die for Christ if you know you are here for marriage business future political friend and other SRC elections and other things you have reach

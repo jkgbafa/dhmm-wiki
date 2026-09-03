@@ -8,6 +8,8 @@ year: 2008
 duration_min: 101
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Tonight we have a short service and um I'm gonna launch a new book for you little book tonight tonight um I want to share with you about the purposes of the fire and um the next time we have the opportunity I want to share with you about the brightness of your fire. Because in this book, when Rick Joyner was giving the vision of the torch. As for me, if I don't have a vision, I'll use somebody's vision. I'll use it until I have my own. But I don't have mine, I have somebody's vision.

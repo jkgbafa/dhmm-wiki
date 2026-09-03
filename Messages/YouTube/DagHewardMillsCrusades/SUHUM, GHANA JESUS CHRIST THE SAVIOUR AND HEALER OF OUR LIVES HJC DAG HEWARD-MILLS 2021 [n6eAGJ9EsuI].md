@@ -8,6 +8,8 @@ year: 2021
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Now size warrior but siano bonsama chez us don't you don't pay paste Woman to say oh so it's wow oh d'opa yes do I Dotopay O Tobi oh Tobi Yes Doe Dotopa so de ma chiesa nido Mamitoubi Topo yes soon to me to fou yesou Nani Doyo Nani Doini Opa no s nana inui once nana hingua si ya ni pasiso bewing Obewe Soucha me soy when you pay to say maussamatou so bah ça won't be almost a watching manip Nan so se coban et sepa ni a chene Nasobanese Offo n to mia swe diawa tea what of you na yeso diaba no to be cacossiano panor yes da pautan siami and your dam hengo si ainia si yo mando city mousse au sudio that's so bacon yesou en to me anjo Nini Nana yen the way Nini Nanny yo don't you oh ya made my dog Way Yes do you pay oh dopa so he was an yes on sopa bi autobi autobi o d'apa sofa ma sassou la chena mia sutopa Can we give Jesus a loud shout?

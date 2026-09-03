@@ -8,6 +8,8 @@ year: 2009
 duration_min: 83
 source: "whisper"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 The art of soaking in messages. Amen. Amen. Hallelujah. Hallelujah.

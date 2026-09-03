@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2ffnHjT8yzk"
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I wonder I I wanna tie I wanna pray somebody time well this was a wretched morning and we have a hymn Squire also here to give us a song so please welcome the hymn Squire to give us a song on Resurrection morning give somebody a high five when you see Christ is risen He is risen indeed thank you him Squire for that beautiful song well before we hear the preaching of God's Word we have a dear lady sister lady to read the scriptures this morning like Paul said till i come give attendance to reading or

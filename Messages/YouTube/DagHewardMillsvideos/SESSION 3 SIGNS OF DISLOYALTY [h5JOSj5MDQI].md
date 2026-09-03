@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=h5JOSj5MDQI"
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 what the August is a the people are tired we are going to work as well whether or designer today raga has rebelled rebelled against me let people who they don't want all the training and from God the fact that somebody submits himself to be trained it some pieces have to be thought it's a sign that the person is humble is a sign of the presence flexible is a founder person is being led by you when we are not prepared to be trained or refrain from the object you came from come and be restrain and relearn

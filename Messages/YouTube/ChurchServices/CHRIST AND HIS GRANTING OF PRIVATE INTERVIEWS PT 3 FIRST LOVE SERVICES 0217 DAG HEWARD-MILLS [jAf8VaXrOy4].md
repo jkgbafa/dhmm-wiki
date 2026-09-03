@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jAf8VaXrOy4"
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 AHA! Yes! My people! This my God in good old... I beg...

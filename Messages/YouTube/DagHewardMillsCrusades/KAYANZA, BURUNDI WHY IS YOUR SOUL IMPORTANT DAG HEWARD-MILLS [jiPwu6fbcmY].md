@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jiPwu6fbcmY"
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 So I want you to be ready. And we would like to invite the governor to go to meeting Uramatari. We thank him for coming again. And tonight he had something small to say. So I would like you to welcome him with a clap offering.

@@ -8,6 +8,8 @@ year: 2009
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 number two you are not qualified to do certain jobs in certain Fields amen not everybody is a doctor this man sitting here is a sergeon but so he's qualified to do certain jobs in a particular field but then when it comes to centry he's a lay person although he's a sergeon do you understand yeah so that's number three is what an ordinary I love it an ordinary are there any is there ordinary sitting by you I mean they were sitting by you I think some of you are sitting by very special people that is why

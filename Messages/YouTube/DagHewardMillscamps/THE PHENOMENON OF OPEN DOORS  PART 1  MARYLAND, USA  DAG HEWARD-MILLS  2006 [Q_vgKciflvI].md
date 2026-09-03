@@ -8,6 +8,8 @@ year: 2006
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 I see God opening doors for free cause of gospel some of you for instance you are let's say if um our church had a radio station you will be you will be one of the best people to run the radio station some of you be very good presenters talk to you am ministering on the radio I mean you have time for such things receiving calls answering playing music talking to people some of young girls need 24 hours and it's a do for somebody to to just walk into if we had it you understand what I'm

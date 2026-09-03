@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ymH9vwJSCNw"
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you may ask me why I serve the Lord is it just for heaven or to walk those Mighty streets of God and to hear the Angels Sing m is it just to drink from the fountain oh that never shall dry or just to live forever forever and ever in that sweet old but in heaven never was promised to me NE God's promise to live etern his just the Lord in my life I was living in a world of Darkness he came along and brought me the light oh I was living in a world of Darkness

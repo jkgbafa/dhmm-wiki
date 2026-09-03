@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/IS045-BEING-FILLED
 duration_min: 127
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Spiritual Warfare", "Spiritual Warfare/Demonology", "The Holy Spirit", "The Holy Spirit/Baptism of the Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-holy-spirit", "topic/the-holy-spirit/baptism-of-the-spirit"]
 ---
 
 Here I go again, Lord, asking for more. Fill me up completely with your anointing oil. Not only my head, but every part of me. I'm yielding and humbly thine. Servants to thee.

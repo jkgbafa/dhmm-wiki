@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=pE8gfcNuqGI"
 duration_min: 115
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Our guest honor I draw to make a second evangelist doctor Doug Muse Watch to uh evangelist Doug he wanted meals and you are in the world brother is it bishop or apostle Zach Kawalala? Commaso Abusa Zach Kawala and I won't say o in a gulanda with him, the representative of the district commissioner I'm in a muta at DC, ladies and gentlemen Abambo, brothers and sisters in the Lord. I don't have much to say because of this wonderful time. On behalf of the organizing committee here in the one day, Maloma and Worse I mean I can say that you mentioned Chipango.

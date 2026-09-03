@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=nskuYTcvyWU"
 duration_min: 159
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 he you come on S Jesus you're my Foundation I know I can stand Jesus it's all about Jesus name I put my hope in your holy hands I put my hope put my in your he say Jesus you're my friend Foundation friend Foundation I know I know I can stand Jesus come on come on I put my hope put my in your word I put my hope in the holy word holy word I have a living hope I have a living hope I have a future I have a future God has a plan for me

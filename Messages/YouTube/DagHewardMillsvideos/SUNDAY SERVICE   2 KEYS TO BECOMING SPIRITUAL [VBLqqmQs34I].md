@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=VBLqqmQs34I"
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 welcome to covenant Sunday the first Sunday of the year and on this Sunday we are dedicating this Sunday to saying something to the Lord amen about our lives about what we want him to do with us and what we want him to do with us for the year amen and we are making a covenant with the Lord we are saying Lord what we what we want to promise you is to be spiritual this year amen tell somebody I want to be spiritual how many want to be spiritual for a change okay so we want to

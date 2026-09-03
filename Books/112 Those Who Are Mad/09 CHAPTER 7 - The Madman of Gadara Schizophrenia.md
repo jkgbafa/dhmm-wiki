@@ -4,6 +4,8 @@ book: "Those Who Are Mad"
 book_number: "112"
 chapter_number: 9
 type: book
+topics: ["Loyalty and Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/loyalty-and-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ### CHAPTER 7\

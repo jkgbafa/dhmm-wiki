@@ -8,6 +8,8 @@ year: 2006
 duration_min: 44
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Leadership", "Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/leadership", "topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number 11 of spiritual battles. The next thing is that he went, he boiled his oxen, and then he came or went after Elijah and ministered unto him. Amen. He ministered unto him. He became Elijah's servant.

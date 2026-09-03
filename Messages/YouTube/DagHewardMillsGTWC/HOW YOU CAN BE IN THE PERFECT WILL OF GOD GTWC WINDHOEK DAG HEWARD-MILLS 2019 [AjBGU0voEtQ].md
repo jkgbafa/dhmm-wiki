@@ -8,6 +8,8 @@ year: 2019
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 Now the Lord spoke to Moses saying this is what pertains to the ministry from twenty-five years old every shall serve in the tabernacle of the Lord But at the age of fifty they shall step back from the priesthood they will assist their brothers in the service that they go and the younger people will take up the ministry This is your time to work twenty five to fifteen This is your season twenty five to fifteen is the best time I to work for the Lord twenty five to fifteen twenty five to fifteen twenty five fifteen from twenty-five to fifteen it is good for a man that he bear the yoke in his youth you must understand that you don't have forever You cannot postpone the time of the Saturday Do you remember how young and innocent you were when you started a walking deeper and deeper and deeper in sin.

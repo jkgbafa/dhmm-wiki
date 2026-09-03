@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2004
 source: "autocaption"
+topics: ["Salvation", "Salvation/Backsliding"]
+tags: ["topic/salvation", "topic/salvation/backsliding"]
 ---
 
 Hallelujah. Hallelujah. Hallelujah. Let's pray. Father, thank you so much for the great opportunity we have in your presence to love you, to serve you. We ask Lord that you guide us into all truth, into all that is your will. Help us, Father. We thank you for the opportunity to be in church. we could easily not have been here but we thank you in Jesus name. Amen. Amen. You may be seated in the presence of the Lord. Now today I am going to begin to share with you a little about backsliding and I'm going to share

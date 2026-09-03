@@ -8,6 +8,8 @@ year: 2023
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 oh keep Clapping Your Hands you know how many of you are excited that we are starting again that that you have you have a chance to even do this ministry again oh yes yes some of us have regrets but I'm very happy that even the pastors who were called yesterday are alive they are alive another opportunity so it's a very important prayer Bishop kobby has led us this morning to pray and uh we are going to be praying the same prayer over and over again but clap your hands this morning you may be seated our

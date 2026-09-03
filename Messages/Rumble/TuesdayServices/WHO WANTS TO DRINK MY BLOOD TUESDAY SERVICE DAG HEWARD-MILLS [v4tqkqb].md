@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqkqb/"
 duration_min: 54
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Wealth and Finances"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/wealth-and-finances"]
 ---
 
 We must pray while it is day, spread in the word of God as we walk along the way. We do his way, spread in the word of God till it reaches to every. We must work while it is spread in the word of God as we walk along the way. We live to do his will spread in the word of God as it reaches to every. We must witness to everyone we meet.

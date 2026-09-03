@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sz4cu/"
 duration_min: 154
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 Father, I pray for your light to come into our lives so that we would shine. Thank you for the destiny of shining in this life. In Jesus' name. We pray. Amen.

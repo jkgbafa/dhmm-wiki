@@ -8,6 +8,8 @@ year: 2001
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 Welcome to track number one of the message of sacrifice is victory in Pegamos, victory in Pergamos. Now, before I so victory in Pegamos. Now, the first thing I want to share with you is the territorial nature of devils, the territorial nature of devils. Turn with me to Mark chapter 5. And verse 1.

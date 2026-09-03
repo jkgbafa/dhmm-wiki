@@ -8,6 +8,8 @@ year: 2014
 duration_min: 272
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Salvation", "Salvation/Repentance", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Call of God"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/salvation", "topic/salvation/repentance", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-call-of-god"]
 ---
 
 Welcome to the wonderful city of Yamasucro, the official capital of the Republic of La Côte d'Ivoire. Located in the heart of the Ivory Coast, Yamasukro is the fourth largest city in the country and the political capital, whereas Abidjan is the country's economic capital. Yamasucro is a beautiful and well planned city with an expansive road network linking every corner of the city. And great aunt to the famous Felix Hufoebe, first president of La Côte d'Ivoire. The city of Yamasukro owes its greatness singularly to the hard work and vision of this one man, Felix Hufeboigny.

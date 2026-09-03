@@ -8,6 +8,8 @@ year: 2024
 duration_min: 20
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 number 20 19 is happiness 20 young element gospel preachers yes 1 Timothy 13-7 a young person stays with the gospel as I besought Thee to abide still at Ephesus when I went into Macedonia that thou mightest charge some that they teach no other Doctrine neither give he to Fable and endless genealogies which minister questions rather than Godly edifying which is in faith so do now the end of the Commandment is Charity out of a pure heart and of a good conscience and of Faith unfeigned from which some having swerved have turned aside un vain jangling

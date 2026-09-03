@@ -7,6 +7,8 @@ url: "https://rumble.com/v4udgff/"
 duration_min: 46
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/prayer", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 He shall have God's word is a light unto my pathway. God's words have a salvation. His word is healing, is healing to every nation. We'll take you all the way to glory. He'll set you free.

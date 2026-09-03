@@ -8,6 +8,8 @@ year: 2024
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Alléluia Hallelujah Yeah, reach a mix of an iTessosi Oh Asadat Unitana Mi Kamani Chessos Mila Pamouzi Yana Pamouziana Vima Finiana Nananiana Wanda Nichaman Raisu Tesou Lensa Rysi Nesso Bigamani Chassi Anakarena Nanana Arena Yakasou volou para siana si adicha Irahi Nya Narani Lazarus Venouzi Ariya Nika Souka Foda ilakani Ilasaro Sikria Babadi Ni la banana Nani Sisani Lasarusi Nitani La Sarusima Tungani Adeline Bitsu Kasiwa Naka Pana Korea Mati Kane Ti Demoni Wanina Jesuan Yazia Namina Rafati Yana Tewa Wanani Chabayana Saliami Jesuan Raisu Jesu Amiam Nihu Pana Kare Nahi Lazarusiabray Abra Ali Fasu Lasarushi Bay Turabi Tibano A bagatica ni de la tua libeau Vena toalicha wanna stabi la bata mampi salada Raisu Jesus Miche so Faisi Faisi Mafi Mafi Famarinana Sisana Raisu Jeso Rala Hidotana Rana Vicana Rena Matu Rena Matou Rena Maku Reso Desho Nitana Man Jessy Isah Mita Naway Ma Jessy Man Jessy Ma Jessica Asandra To Ne Moshara Asanatuna Man Jessie Majesi Mandessa Hades Oh Mitsad Safari Mandresi Isaiah André Sifona Mandresi Isaiah Andres Mihira Andressi Andres Banana Raiziambe Andresi Andesona Isai Andresou Banana siamo sikaumbe sena one sivolfire Olaina Raya Sini Jesus Pan Desi Caesika Manana Clap your hands for Jesus.

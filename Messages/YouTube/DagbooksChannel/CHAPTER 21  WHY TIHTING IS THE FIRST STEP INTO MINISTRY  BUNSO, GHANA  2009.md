@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2009
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Tithe in the Greek comes from the word masser. Mahasher, mahasu, mahasai or mahasari. It means a tenth. Amen. Leviticus chapter 27:E 30 it says, "And all the tithe of the land, whether of the seed of the land or of the fruit of the tree, is the Lord's because it is holy unto the Lord." And I want you to know Leviticus 27:30. If a man will at all redeem of his tithes, Amen. He shall add death to the fifth part. Amen. Have you found Leviticus 27 verse 30? Now tithing. How many of you pay tithes? How

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=G8UhjyvwtDA"
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 a heavier burden blazer blazer me you just keep all my things cause the reader the victory at the end of the race the more you win the more soothing and healing the more someone won't you know Moyles body Emma see your concern I felt this wall tricky he promised to show you where the well fall mob uh I know that'd be funny the higher mountain top the heavy of the burden the waiters got blade the morbid cars are coughing please just keep on fighting for the freedom of victory at the end of the way the

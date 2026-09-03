@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2015
 source: "autocaption"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Number five, it is a great thing to serve the Lord because when you serve the Lord, God will take delight in your prosperity. Prosperity. H wow. Psalm 35:27. Let them shout for joy and be glad that favor my righteous cause. Yay. Let them say continually, "Let the Lord be magnified, which has pleasure in the prosperity of his servants." Amen. You have begun to rise. I said you have begun to rise. Why? WHY DO I WHY DO I SAY THAT YOU BEGAN to rise? Because you began to serve God. Yeah. You began to serve God. So

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=179R7UZ_ngA"
 duration_min: 166
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah amen are you excited tonight our little super super move then clap your hands are abyssum not a lot of shout our Ataman our chocolate Oreo you may be seated liquor uttama pod all is set for tonight first 30 patterns of a super move and at this time we want to welcome the chairman of the central planning committee of the healing Jesus campaign here in McCain lumpia on another one he'll attend many more campaign Imam as we can move to give us welcome address i say arabic allah shall we welcome our chairman with a hand

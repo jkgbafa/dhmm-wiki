@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tvmcl/"
 duration_min: 72
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Heavenly Father, thank you for your blessing at this time. We praise you, Lord. We ask for the input of your spirit at this time and to lead us into heavenly places in Jesus' name. Amen. Alright, you may be seated.

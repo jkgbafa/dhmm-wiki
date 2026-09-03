@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=CEIituSqoFU"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I want to talk about the stages of disloyalty the first stage of disloyalty is the independent Spirit the first stage of disloyalty independent Spirit what are the symptoms of an independent Spirit I'm preaching some people are disturbing me some people are disturbing me number one loyalty the stages of an IND the stages of disloyalty an independent spirit is when a person is part of something but he's doing his own thing everybody must watch out for an independent spirit everybody must watch out for an independent Spirit what is an independent Spirit when you have who are

@@ -8,6 +8,8 @@ year: 2019
 duration_min: 187
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 there comes time we must he his heard and call we must come come together and preach we must share the word of God to every boy and girl we must show the greater love of God we can go on pretending day by day that there is your life after this life we can see the people go they're dying every day did they know our Savior Jesus Christ we are the church we are his people we are the ones who know the word of God so let's start preaching there's a choice we've got to make To

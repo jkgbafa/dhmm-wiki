@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=a31HSvrRHFA"
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 clopin man you see let all the earth meet all right let all the earth me though he Raab himself in and darkness tries to hide and trembles at his boy and travel that he bore oh how great with me ha ha and don't be harder how great is about ha ha ha great yeah with me ha Oh ah Oh Wow all right ah Hey haha Oh Oh Hey I appreciate that far they've been a blessing I love your and for them Alleluia wanna pray and Bangor for the offerings and the privilege to deep father we

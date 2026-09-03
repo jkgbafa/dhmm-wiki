@@ -4,6 +4,8 @@ book: "The Gift Of Governments A Bishop 'S Governing Handbook"
 book_number: "117"
 chapter_number: 15
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring"]
 ---
 
 ### CHAPTER 13\

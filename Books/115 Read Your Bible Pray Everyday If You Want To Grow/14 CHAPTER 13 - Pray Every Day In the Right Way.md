@@ -4,6 +4,8 @@ book: "Read Your Bible Pray Everyday If You Want To Grow"
 book_number: "115"
 chapter_number: 14
 type: book
+topics: ["Prayer", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/prayer", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 CHAPTER 13\

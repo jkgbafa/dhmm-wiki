@@ -8,6 +8,8 @@ year: 2015
 duration_min: 190
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh Lord, I will accept your perfect will for my life today. Cuz you hold my destiny. You have a purpose for me. Yes. And you have a plan for me. Oh, I want to follow your will. I love your perfect will. I love the choice you make for me. I just love the mystery of your will. Just take my hand and walk with me. Oh Lord, I trust in your will. I believe in your word. I'll go away. Yes, Lord. I will accept your perfect will for my life today. Cuz you hold my destiny. You

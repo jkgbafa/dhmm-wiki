@@ -8,6 +8,8 @@ year: 2020
 duration_min: 148
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 Call on God and invocant le nom de l'Eternel. I'm going to give you a new grace. Father, give me new grace. Give me new help. Donne moi my ears.

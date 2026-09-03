@@ -8,6 +8,8 @@ year: 2014
 duration_min: 131
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth"]
+tags: ["topic/church-growth"]
 ---
 
 can put seeds into his life till he begins to Pastor presidents and diplomats to have the ministry that people who have been to school cannot even have a man who stands no education tell three people there is great hope for you let me tell you let me tell you those of you here who don't have much education those of you who don't have much education there is hope for you the limits have been taken away amen the walls have been broken away it's now in your hands am go find seats itat seats until you have

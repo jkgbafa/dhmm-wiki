@@ -4,6 +4,8 @@ book: "The Gift Of Governments A Bishop 'S Governing Handbook"
 book_number: "117"
 chapter_number: 25
 type: book
+topics: ["Ministry and Pastoring", "Missions", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/ministry-and-pastoring", "topic/missions", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 ### CHAPTER 23\

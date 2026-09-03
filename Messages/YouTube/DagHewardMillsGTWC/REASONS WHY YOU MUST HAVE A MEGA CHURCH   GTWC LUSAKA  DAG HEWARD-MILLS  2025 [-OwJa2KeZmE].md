@@ -8,6 +8,8 @@ year: 2025
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now we must continue. Uh you must have a mega church. Number four, because pastors think are deceived into thinking that the work has been done when it has not been done. Most pastors have this delusion that the work of God has been done. Some people even think that Zambia is saved. Do you have bad people in Zambia? Hey, there's no country without a lot of people that needs to be saved. Even with the churches we have, you see how much evil is growing in the nation. So, Zambia needs more churches and more pastors, mega churches

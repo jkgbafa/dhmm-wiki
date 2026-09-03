@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=fwaNUkW6adc"
 duration_min: 161
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 I'll mean ya me, Mammy Sakuma Natya Ben Abrantia or the Betty And this O Bashana Hosso Middle Wasam Minamina Mania Wonny Bummy Sankomayans on Mamma Sacoma Nan Sakuma Mingami my way that won't pay ya come in a minute and then we are see my way Oh what it's a real Oh one in our from a mo and a mere cate and now better no one soon I brand ya was so much or no button word in a sin yeah no word in a sin or one in our from it if I come up a ratio

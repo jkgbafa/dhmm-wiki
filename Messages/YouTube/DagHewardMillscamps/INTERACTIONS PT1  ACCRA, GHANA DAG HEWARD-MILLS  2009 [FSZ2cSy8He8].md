@@ -8,6 +8,8 @@ year: 2009
 duration_min: 12
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 welcome to track number four of my first love hallelujah amen how many of you are blessed so far oh some hands were down amen amen all right are there some empty seats by you somewhere is there any empty seats as somebody gone home oh if there's an empty seat by you and you know that the person has actually checked out he took the early train amen all right so if there's no empty seat by you that we are all serious Ministry minded people here hallelujah amen all right so at this point I want to give

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 13
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 So now let's move on to the next section, the salvation and blood of Jesus. Now let's look at the steps that lead to salvation through the blood of Jesus. Please open the message. Whoa! John 31 so go ahead in the message and listen and this is in French, in English by the way it is translated because it is translated into English and French incredible Now, we come to the blood of Jesus. Everyone should be able to preach on the field of Jesus. If you don't know what to say, you don't know what to say. Tell

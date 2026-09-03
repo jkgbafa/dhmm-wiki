@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MMxO0D6fTao"
 duration_min: 177
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Salvation", "Salvation/Repentance", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/salvation", "topic/salvation/repentance", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 mark abba-zaba dilib Acosta Malaba kapa Pardo leave acaba la Badie ste na miyago sadita Lari Aditya thank you Jesus markaba tous hasta praying and thanking him praying and thanking him praying and thanking him markaba she Katya mulatto balla balla balla baccala Vachon de la vaca baladeva kabul abba-abba-abba yabas easties re hasta la liste Natalia D macapa la bikina lava yonder lava Rabia dos de Miyagi Sadat oh not Allah bhai Paula yes Lord mashanda lava kappa play DeMarcus Tattaglia Scott Aaliyah nasty nasty DOMA table - t-midi maka Paula bada ba-da-da ste Atta dusty are a dusty

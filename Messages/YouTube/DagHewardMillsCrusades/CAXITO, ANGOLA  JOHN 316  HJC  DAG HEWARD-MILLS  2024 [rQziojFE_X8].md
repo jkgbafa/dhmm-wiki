@@ -8,6 +8,8 @@ year: 2024
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 clap your hands and let's welcome vival to bless us with some good Le ASAS P PR Wonder me you no f f for me he adore G oh D no suff to me to es to I see I see I see one face for me I see I see I see God to the Ling confess to to I see I see so so as so Hallelujah yeah yeah J count oh J the J oh J oh see oh comp glor Mar the Ador oh I Ador I I I oh J I see hey oh glor

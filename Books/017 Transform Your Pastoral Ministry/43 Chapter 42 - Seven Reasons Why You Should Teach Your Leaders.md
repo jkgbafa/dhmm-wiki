@@ -4,6 +4,8 @@ book: "Transform Your Pastoral Ministry"
 book_number: "017"
 chapter_number: 43
 type: book
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 ## Chapter 42

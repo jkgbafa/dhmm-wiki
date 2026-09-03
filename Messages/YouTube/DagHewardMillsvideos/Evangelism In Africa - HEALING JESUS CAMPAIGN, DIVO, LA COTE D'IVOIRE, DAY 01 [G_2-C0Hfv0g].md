@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=G_2-C0Hfv0g"
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 a recipe hallelujah Slovakia Pazuzu kiyow kiyow kiyow kiyow kiyow kiyow kiyow amen let's see Concha walk security affairs elihpa lapa homonka concept was taken to your fare je t'adore jabber Tolui there did you local JCPenney Montalban I love flicks John a lot so far to make elevated Julita Elna paths are key men or Hong Kong were to are or want your said that you Walker shared every knee won't ever die love flicks you're the last to find to make a leave it to lead on in a Pathan key men also promise were oh gosh ever

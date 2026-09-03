@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ODu1ibUCOfw"
 duration_min: 119
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 and there we are we are we are yeah we are ah Oh we are going we are going easy booyah booyah we are going Hey we are going we are he's a lot of shine Oh ah we-we-we hahaha Oh mother friend done Oh we're not happy tell me life one place Jesus a hyung Club believed in professional right that's a very loud one minute longer we didn't retreated the servants of God is ready to minister tonight tonight is the final night of this wonderful campaign and I believe that God is opposed to doing a fine

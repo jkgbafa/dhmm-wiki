@@ -4,6 +4,8 @@ book: "It Is A Great Thing To Serve The Lord"
 book_number: "034"
 chapter_number: 7
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 CHAPTER 6\

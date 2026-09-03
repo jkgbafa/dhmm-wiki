@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=EAwxHIISv6g"
 duration_min: 179
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh that's a good one laughs I'm sticky like you mean it since what what's this one I want to take three this is what just watch here we go to say today today thank you mom thank you mom here we go to stay in the day today's the day don't want to say so hi come on in this is what tomorrow's business watch today here we go to success thank you thank you decisive day right tonight come on right Hey Oh it's out of play we are just warming up tell somebody we're just warming up

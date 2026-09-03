@@ -9,6 +9,8 @@ duration_min: 7
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/SALVATION AND CHOICES GTWC PARIS DAY 3 SESSION 7 2025 DAG HEWARD MILLS [tb3znc-O8GA]]]"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 Next section: the greeting and the choices. Yes, that's the next section. You must choose the house built on a rock. Jesus said the wise man built his house on the rock, and the rains came down. The wells came and the torrents came . The rains came and the torrents came. And the house of the wise man remained steadfast. This is n't music for Sunday school, it's the Gospel. Some of you, some of you, have become like helicopters. It's as if you're above the Gospel. It's as if that's too basic for you. The madman built his

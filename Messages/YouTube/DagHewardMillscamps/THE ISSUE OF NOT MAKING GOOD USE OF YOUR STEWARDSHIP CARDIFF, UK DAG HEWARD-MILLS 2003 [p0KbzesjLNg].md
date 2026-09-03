@@ -8,6 +8,8 @@ year: 2003
 duration_min: 25
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Wealth and Finances", "Wisdom"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wisdom"]
 ---
 
 Welcome to track number 18 of Bima this of thee. Give an account of thy stewardship, for thou mayest be no longer steward. Then the steward said within himself, What shall I do? For my Lord doth take away from me the stewardship. I cannot dig to beg, I am ashamed.

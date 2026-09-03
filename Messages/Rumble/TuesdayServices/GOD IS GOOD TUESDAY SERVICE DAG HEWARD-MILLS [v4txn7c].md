@@ -7,6 +7,8 @@ url: "https://rumble.com/v4txn7c/"
 duration_min: 37
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Hallelujah. Amen. Let's pray. Heavenly Father, thank you so much for the opportunity this evening to receive your holy word. We bless you.

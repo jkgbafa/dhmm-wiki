@@ -9,6 +9,8 @@ duration_min: 109
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE ART OF LEADERSHIP PART 1  GTWC SOWETO  DAG HEWARD-MILLS  2017 [Y4E_T1lRxwQ]]]"
+topics: ["Leadership", "Leadership/Art of Leadership", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wisdom"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wisdom"]
 ---
 
 Hallelujah. What a blessing. Are you blessed already this morning? Father, thank you for your power and your word that is changing our lives. We are grateful for your healing of our lives and the healing of our leadership in Jesus' name.

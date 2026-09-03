@@ -8,6 +8,8 @@ year: 2024
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Wonderful Love, wonderful love, Jesus died, sing, took my sins on that Cross, Jesus, Lord, gave me life, victory, all my life, raise your hands, sing with me. Wonderful Love, wonderful love, Jesus died for me, took my sins on that Cross, Jesus, Lord, gave me victory, all my life, I love you, for the Lord. Clapping Clapping please, raise, raise, raise please Oh, it's true, God is love, your immense and profound love, you forgave me of my sins, you suffered for me and died for me, like heaven above earth, my God, separate me from your precious blood,

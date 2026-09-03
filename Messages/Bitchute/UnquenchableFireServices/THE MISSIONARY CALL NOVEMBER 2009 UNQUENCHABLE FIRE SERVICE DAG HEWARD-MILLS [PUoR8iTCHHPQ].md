@@ -8,6 +8,8 @@ year: 2009
 duration_min: 102
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Children and Parenting", "Missions", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/missions", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 On they go through pride leave and feel to be laughter hide silent only Jesus can leave the law people need the law at the end of He is the open people need the Lord people need the Lord And when we read to take his life to world where wrong seems right what could be to grade God sharing one with one whose life through his love our eyes can see all the grief they bear and they must hear the blessed word only Jesus can leave the Lord people leave the law at the end of broken dreams He's the person the Lord yes they do the Lord when will we that we must give speech the life they need the law Father we thank you for this great privilege in Jesus' name Amen You may be seated tonight my message is entitled The Missionary Call Sound with me to Hebrews chapter five and we read one scripture and then we'll be we'll have a basis for what we are going to talk about amen chapter five it says no one takes this honor to himself amen but receives it when he is called by God, even as Aaron was.

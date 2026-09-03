@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=XCaa8_bpFPU"
 duration_min: 191
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wisdom"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wisdom"]
 ---
 
 let the spirit of the Lord come as you together here this morning we want the presence of God to fall upon us want the spirit of God to fall upon us you cannot come into His presence and leave the sa ask that his presence fall upon you tonight let and of the let anointing anointing of anointing anointing of the heav the spir the spirit of the Lord come down let the spirit of the Lord let the spirit of the Lorden come down let the spirit of the Lord hallelujah hallelujah how how many of us believe

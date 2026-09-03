@@ -8,6 +8,8 @@ year: 2025
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 I want to introduce also. Can you show us the websites? Banner, if you have it, show it. Hello. All right.

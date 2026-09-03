@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u852u/"
 duration_min: 61
 source: "whisper"
 match: "exact"
+topics: ["Missions", "Missions/The Nations"]
+tags: ["topic/missions", "topic/missions/the-nations"]
 ---
 
 Let us pray. Father, thanks so much for this opportunity to be in your house to hear your word to receive your word. Lord, we ask that you speak to our hearts this morning in Jesus' name. Amen. You may be seated in the presence of the Lord.

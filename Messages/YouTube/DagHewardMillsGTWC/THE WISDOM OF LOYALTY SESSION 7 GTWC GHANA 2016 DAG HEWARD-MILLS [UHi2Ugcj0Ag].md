@@ -8,6 +8,8 @@ year: 2016
 duration_min: 115
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 Now all this is about being able to bear much fruit. I want to share with you a little bit about the wisdom of faithfulness and loyalty. Amen. What is the wisdom of loyalty? It's the wisdom of promotion.

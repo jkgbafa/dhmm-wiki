@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-JKKHm0T5Lg"
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Monsassonakasa or come off Jesus Massa or come off Jesus or come off Jesus Oh any Jesus Oh team of Jesus I've been both Jesus Yang Oh come for Jesus Jesus Oh when it Jesus Jesus oh be I wanna yet to measura to come out for Jesus Oh my Jesus Jesus oh bear anyways yet never too me chang to me aha say Walkassai O bear Kabi Sao I come out so yeah that's a noir coatsu mouse wokas oh bear I can be say walkassai I come at soy that one could not say Jesus oh be a to say Jesus Jesus I'm food janet yaboodina I'm born in a to go that one I bought in for Nanqua Jobness on to say Jesus Jesus Jesus we give you glory oh say oh si dancing oh swear oh hey oh yet say yet say oh Yes, give that shout to Sister Vivaldi.

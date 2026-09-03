@@ -9,6 +9,8 @@ duration_min: 94
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/SEVEN VISIONS OF PAUL GTWC BULAWAYO DAG HEWARD-MILLS 2025 [Vr5fDiCyTyE]]]"
+topics: ["Prayer", "Vision and Direction"]
+tags: ["topic/prayer", "topic/vision-and-direction"]
 ---
 
 seven times that the Lord spoke to Paul. I want to give you seven visions of Apostle Paul. Number one, and each vision he speaks to Paul, uh you better hear it also. All right. Number one, the Damascus road vision. Number two, the Ananas vision. Number three, the trans the temple vision. I will call it. Number four, the Macedonian vision. Number five, the Corinthian vision. Number six, the vision of paradise. And number seven, the the storm vision. The storm vision. The vision in the storm. Are you there? Now, did you get it or you didn't get

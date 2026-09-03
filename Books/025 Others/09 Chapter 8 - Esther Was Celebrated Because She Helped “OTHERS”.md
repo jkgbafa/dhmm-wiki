@@ -4,6 +4,8 @@ book: "Others"
 book_number: "025"
 chapter_number: 9
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Deliverance", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Chapter 8\

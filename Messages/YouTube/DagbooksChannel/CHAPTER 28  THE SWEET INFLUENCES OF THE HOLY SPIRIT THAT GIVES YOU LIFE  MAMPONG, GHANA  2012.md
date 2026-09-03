@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2012
 source: "autocaption"
+topics: ["Anointing", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/the-holy-spirit"]
 ---
 
 Glory to God. Glory to God. Now, I have always thought that the Holy Spirit has more effects on our lives than speaking in tongues. I've always thought so. And that's what I'm preaching about. It is something that I've always felt that the Holy Spirit doesn't just make us speak in tongues and that his presence and the influence he has on our lives is far greater than the gifts of the spirit that we know of. Word of knowledge, word of wisdom, word of um descending of spirits, gift of faith, healings and speaking in tongues and prophecy.

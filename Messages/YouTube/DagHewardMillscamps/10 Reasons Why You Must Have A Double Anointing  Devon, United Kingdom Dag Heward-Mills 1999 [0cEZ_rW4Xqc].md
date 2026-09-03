@@ -8,6 +8,8 @@ year: 1999
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 you may be seated I want to give you 10 reasons for double a double you have 10 reasons for what what do you have now 25 for mega church and then four four the first one was double Mega missionary next one is why Missionary Church Missionary Church reason eight reasons why I'm missionary I'm giving you 25 reasons you must have a mega chur now I'm giving you about 10 more reasons why right we must aim for a double anointing amen amen now 25 8 10 reasons why you must have a double anointing now listen Elisha

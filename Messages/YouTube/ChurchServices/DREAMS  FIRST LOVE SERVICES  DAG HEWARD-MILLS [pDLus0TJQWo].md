@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=pDLus0TJQWo"
 duration_min: 196
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 now from the top I will worship I will worship will worship with all of my heart with all of my heart I will praise you I will praise you with all of my strength with all of my strength I will see you I all of my name all of my I will follow I will follow all of your way all of your way I will live I will You Are My Worship my and I will give I will give you are my praise my Praise You Lord I long to worship and you are Lord are

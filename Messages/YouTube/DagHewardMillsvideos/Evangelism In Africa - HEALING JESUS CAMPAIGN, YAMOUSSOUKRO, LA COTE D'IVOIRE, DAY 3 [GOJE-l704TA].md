@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GOJE-l704TA"
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 hallelujah hallelujah vict vict Victor Victor Victor Victor Hallelujah v v v Hallelujah care for Shante you to problem oh to the problem you do do eny oh oh to problem all do I do all you uhhuh Hallelujah to the oh and and she blue oh you make hey my my Hallelujah m in my li Andy need just you the L just you the yes you the the hey to the in Hallelujah keep standing to your feet tonight keep standing to your three nights ago the power of God came here in God s and he came

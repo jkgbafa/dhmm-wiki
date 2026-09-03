@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2017
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "The Holy Spirit", "Wisdom"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/the-holy-spirit", "topic/wisdom"]
 ---
 
 I'm sharing about the prayers of Jesus and the prayers for the Holy Spirit. All right. Thus the heavens and the earth were finished and all the host of them. And the seventh day God ended his work that he had made and he rested on the seventh day from all his work which he had made. And God blessed the seventh day and sanctified it because in it he had rested from all his work which God created and made. These are the generations of the earth when they were created in the day that the Lord God made

@@ -9,6 +9,8 @@ duration_min: 131
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE VISION OF GOD GTWC ADDIS ADADA DAG HEWARD-MILLS 2017 [S4MyTrzlXVE]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Vision and Direction"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/vision-and-direction"]
 ---
 
 eh large house there are Then change your vna without the anointing you can do very much for its by the anointing you can build a church you can preach you can teach and gathers why the anointing word any said preach i could teach and i could heal when you believe the anointing comes on whoo oh ooooo ano pastor you can do very muchoo wind by men whoo oh oh without the anointing pastor I tell you cann do very much for it's by the anointing you can build a church you can you can teach you can

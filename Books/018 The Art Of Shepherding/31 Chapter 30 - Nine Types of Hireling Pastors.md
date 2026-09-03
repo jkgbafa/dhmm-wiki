@@ -4,6 +4,8 @@ book: "The Art Of Shepherding"
 book_number: "018"
 chapter_number: 31
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances"]
 ---
 
 ## Chapter 30

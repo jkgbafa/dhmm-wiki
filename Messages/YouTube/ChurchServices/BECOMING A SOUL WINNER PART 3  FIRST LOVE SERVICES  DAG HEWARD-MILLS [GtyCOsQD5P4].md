@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GtyCOsQD5P4"
 duration_min: 220
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Curses", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 are you sure you'll be praising the Lord even when we are sad if you praise the Lord in all situation Give the Lord a shout of Praise how many of us believe that God is with us are you sure you believe it Emmanuel he is with us amen amen and he walked where we walked Hallelujah he stood where we we are standing Hallelujah and he felt what we feel and he understand Hallelujah come on are you ready come on where I walk he good where I stand he good where I stand not what I we

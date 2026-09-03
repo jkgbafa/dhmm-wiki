@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=lTOpGQ71ltc"
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 You know there are many curses that you don't use the word I curse you. We don't use the word I curse you like when Jesus uh cursed the fig tree. He didn't he didn't say I curse you fig tree. He said so remember that about deception. Those who are into telling lies and deceiving that you are probably also being deceived about something that is fantastic.

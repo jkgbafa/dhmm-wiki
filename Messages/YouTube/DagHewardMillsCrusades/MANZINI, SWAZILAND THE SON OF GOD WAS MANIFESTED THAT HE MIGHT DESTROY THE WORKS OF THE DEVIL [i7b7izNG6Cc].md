@@ -8,6 +8,8 @@ duration_min: 117
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MANZINI, SWAZILAND  THE SON OF GOD WAS MANIFESTED THAT HE MIGHT DESTROY THE WORKS OF THE DEVIL [i7b7izNG6Cc]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 I cannot hear you. Are you ready? Oh, I cockella is on us on me. I saw she some sheft up your right hand and say what is on me. I saw she laughed on some me.

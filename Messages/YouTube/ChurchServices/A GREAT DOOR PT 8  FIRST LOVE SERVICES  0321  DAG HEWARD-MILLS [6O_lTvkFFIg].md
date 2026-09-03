@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6O_lTvkFFIg"
 duration_min: 263
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Prayer", "Prayer/Praying in Tongues", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 now the Bible says in Galatians chapter 5:1 17 for the flesh desires what is contrary to the spirit and the spirit what is contrary to the flesh they are in conflict with each other so that you are not to do whatever you want Galatians chapter 5 verse 17 there's a constant battle and a constant fight in our flesh between the Flesh and the spirit survival of the fittest the strongest wins this afternoon we want to make one side stronger and um if you are here you want to make your flesh strong I think it's a

@@ -8,6 +8,8 @@ year: 2000
 duration_min: 156
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welome on behalf of the bishop I also want to um let Pastor Kaka welcome me Reverend kabin is the host Pastor he has made this Camp possible and I tell you this is one of the best camp meeting that I've ever attended and we want to put our hands together and welcome Reverend kab amen amen you're welcome to kumas say the Garden City and uh you're welcome to this Camp 2000 and as we entering the New Millennium I'm happy that God is using Kumasi to Asher in the church into New Height the new Millenia and

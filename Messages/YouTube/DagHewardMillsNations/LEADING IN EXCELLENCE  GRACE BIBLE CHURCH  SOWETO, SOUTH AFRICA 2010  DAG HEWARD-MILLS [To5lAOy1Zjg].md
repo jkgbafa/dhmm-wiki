@@ -8,6 +8,8 @@ year: 2010
 duration_min: 70
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 tell them how many agree that we must tell them how many of you realize that there are a lot of people everywhere isn't it and then and many of those people do not have what we have amen where where are my books are they here right the next um thing that I want to share with you two things that I believe are very important I'm I'm I'm leaving off my reasons why you should be and I'm going to go on to how to become a missionary amen oh you don't seem to be excited about that

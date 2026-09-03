@@ -9,6 +9,8 @@ duration_min: 149
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/ELMINA, GHANA DAY 1 THE GREAT FEAST HEALING JESUS CAMPAIGN DAG HEWARD-MILLS 2019 [0RT09Yi_Tkc]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 you me Hallelujah Jesus Hallelujah one more me water Papa water sister water brother water Miss give give give give me go what what what smile hallelujah amen wow wow wow wow wow wow are you excited tonight are you excited tonight if you are excited let me hear your hand clap tonight hallelujah amen you may be seated wow wow everybody find a place to sit tonight the servant of God is ready tonight to minister you will never be the same again after these three nights Clap Your Hands for Jesus Jesus and I want to ask everyone

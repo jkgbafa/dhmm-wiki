@@ -8,6 +8,8 @@ year: 2014
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 I must go away I must go away for my work down here on Earth is done and while I'm gone away I will be building you a place then I'm coming again to take you back to live with me I must go away I must go away for my work down here on Earth is done and while I'm gone away I will be building you a place then I'm coming again to take you back to live with me why must you leave us all the people CED as Jesus as he said is last goodbye why

@@ -4,6 +4,8 @@ book: "100 Answered Prayer 2Nd Ed"
 book_number: "041"
 chapter_number: 6
 type: book
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 ### CHAPTER 5\

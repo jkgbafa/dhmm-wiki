@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IeVXL4ECoEg"
 duration_min: 150
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 like a father sees his children like a shepherd lead his flock the Lord will always guide us he will show us where to walk and in times when we have plenty in times when we have enough he is our provider and his mercy never stopped school like a shepherd ELISA like a father he feels something learning to the evening till the fertilize again like a shepherd ELISA like a father capito oh yeah he is the great I am Oh as we come into his presence confessing him I've loved his holy spirit counsel to feed us

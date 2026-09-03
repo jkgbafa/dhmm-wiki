@@ -8,6 +8,8 @@ year: 2015
 duration_min: 118
 source: "whisper"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "The Holy Spirit"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/the-holy-spirit"]
 ---
 
 You may be seated. This morning. God is taking us further into the ministry. Transformation. In transformation.

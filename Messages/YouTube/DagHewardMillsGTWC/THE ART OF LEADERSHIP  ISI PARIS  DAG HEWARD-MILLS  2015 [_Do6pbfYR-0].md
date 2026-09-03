@@ -8,6 +8,8 @@ year: 2015
 duration_min: 46
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 Father, we are grateful for the wonderful blessing we have in you today in Jesus name. Amen. You may be seated. Hallelujah. Today I want to share with you about the art of leadership. leadership. Amen. The art of leadership is the art of making people do what you want them to do. Leadership. I have a very wonderful book here, The Art of Leadership. Leadership. And in this book, I want to recommend everybody read this book. Amen. Hallelujah. Now Isaiah chapter 3 verse 12. As for my people, children are their oppressors, and women rule over them. They

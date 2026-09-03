@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SRzM5xUeYrk"
 duration_min: 164
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 holy spirit thanks for your guidance my oceanographer never do in Jesus name Karina nauseous amen amen now I'm all that I'm going to share with you I found in this collection of books seventy three of us are Ohana room nakisha was in Lincoln would you consider money that I have brought to you ticket to stay alone amen amen and the reason I have brought these books to you labor calahonda crystal because the hollow is because jesus said that he spoke to the Pharisees he says you have taken away the key of knowledge Maran available for

@@ -8,6 +8,8 @@ year: 2004
 duration_min: 1
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting"]
 ---
 
 welcome to the macire you are listening to a camp entitled church planting this Camp was held with pastors and Shepherds in s and Johannesburg South Africa in September 2004 learn effective methods of starting and growing a church discover how to build a team of helpers the important key of loyalty and many more

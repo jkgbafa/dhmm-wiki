@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=sYLT5LdtVF4"
 duration_min: 166
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Alléluia tout le monde crier crier crier crier crier crier quand je vois ce que tu as fait, j'ai la paix, la paix dans mon cœur, quand je vois ce que tu as fait, je t'adore, je veux te louer, ô mon Dieu, c'est de tout mon cœur, je te bénis, mon sauveur, dans l'affection, dans la souffrance, tu me délivrer, tout le temps, et on n'y a personne qui m'aime autant comme toi, mon Dieu, c'est de tu mon cœur, je te bénis, mon sauveur, dans l'affection, dans la souffrance, tu me délivrer, tout le temps, et on n'y a personne qui m'a autant comme toi, quand je vois ce que tu as fait, j'ai la paix, la paix dans mon cœur.

@@ -4,6 +4,8 @@ book: "Church Administration"
 book_number: "040"
 chapter_number: 15
 type: book
+topics: ["Leadership", "Loyalty and Disloyalty"]
+tags: ["topic/leadership", "topic/loyalty-and-disloyalty"]
 ---
 
 ### Chapter 14\

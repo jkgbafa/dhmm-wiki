@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ue51u/"
 duration_min: 62
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 Give the Lord a big hand clap. Give the Lord a big hand clap. I said, give the Lord a big hand clap. And add a shout offering. Hallelujah.

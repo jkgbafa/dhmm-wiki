@@ -8,6 +8,8 @@ year: 2018
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 hallelujah amen lift your hands just thank the Lord for this wonderful opportunity father we thank you for the blessing we have in you today in the mighty name of Jesus Amen am number eight the islands are waiting for people who are going to bring about supernatural Church growth so the islands are going to wait for somebody who will bring about church growth amen Isaiah 60 and verse number one arise and shine for thy light is come and the glory of the Lord is risen upon thee for behold Darkness shall cover the Earth and gross Darkness

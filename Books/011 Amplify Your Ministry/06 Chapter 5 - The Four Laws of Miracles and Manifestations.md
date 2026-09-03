@@ -4,6 +4,8 @@ book: "Amplify Your Ministry"
 book_number: "011"
 chapter_number: 6
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer"]
 ---
 
 ## Chapter 5

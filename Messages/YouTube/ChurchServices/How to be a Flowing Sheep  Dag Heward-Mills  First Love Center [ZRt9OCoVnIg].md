@@ -8,6 +8,8 @@ duration_min: 101
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/How to be a Flowing Sheep Dag Heward-Mills First Love Center [ZRt9OCoVnIg]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 teach now the heart of a man in the realm of the spirit is like the heart of the body what you put in is what comes out you didn't know art students you know veins and ARS art students students yeah you are soft when it comes to sex you are soft when it comes to foolishness I think I've closed because I don't think people don't people don't want me in this room people don't want me in this room we need to be on fire for Jesus somebody was asking me how do you maintain your fire

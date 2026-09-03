@@ -7,6 +7,8 @@ url: "https://rumble.com/v4txokh/"
 duration_min: 103
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Thank you. I just want a thank you. I just want a thank you. I just want a thank you. I just want a thank you.

@@ -4,6 +4,8 @@ book: "Those Who Are Dangerous Sons"
 book_number: "003"
 chapter_number: 15
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring"]
 ---
 
 ### Chapter 14\

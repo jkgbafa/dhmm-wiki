@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=re1nbFR0E2s"
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 Oh my job and I do all my job my God my God thank you Oh wagon if a big big big big hunk loved the car what a powerful car I can tell you hand club well at all let it be loud tonight hallelujah you may be seated how many of you are believing God for a touch tonight how many of you know God is coming through to you wherever you are both at the bar can you hear me tonight if you are the back say I believe at the bar bar say I believe hallelujah

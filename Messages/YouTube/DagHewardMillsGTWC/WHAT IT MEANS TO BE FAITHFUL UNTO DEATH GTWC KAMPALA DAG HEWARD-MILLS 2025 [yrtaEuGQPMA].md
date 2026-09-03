@@ -9,6 +9,8 @@ duration_min: 127
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/WHAT IT MEANS TO BE FAITHFUL UNTO DEATH  GTWC KAMPALA  DAG HEWARD-MILLS  2025 [yrtaEuGQPMA]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 Hallelujah. Thank you. Let us pray. Let us pray. Father, we are grateful for today for the opportunity to be here.

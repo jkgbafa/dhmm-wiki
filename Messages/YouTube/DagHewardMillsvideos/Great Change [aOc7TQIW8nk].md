@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=aOc7TQIW8nk"
 duration_min: 29
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 m e oh the crowds you have just seen are the masses evangelist DG heward Mills preaches to he also interacts with individuals heads of state and notable Personalities in the nations in which the healing Jesus campaigns are carried out sharing the word and praying for them indeed we as the healing Jesus C campaign learned a lot about war whilst interacting with one of the most famous generals of the Liberian Civil War Prince yomi Johnson who is famous for capturing former president Samuel Koo in Monrovia the capital city of Liberia we are in in in banga

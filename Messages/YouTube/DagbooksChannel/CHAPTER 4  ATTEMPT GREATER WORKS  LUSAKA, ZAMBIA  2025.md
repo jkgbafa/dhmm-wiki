@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 I want to share with you. Attempt greater works. Amen. Amen. Attempt what? Greater works for Jesus. Remember what Jesus said, the works that I do, you shall do. What? What are the works that Jesus did? He opened factories. He established universities. He set up import export businesses, isn't it? And he formed three political parties. No, he did not. No. What did he do? Matthew chapter 9:35. Matthew chapter 9:35. Jesus went about. This is the works of Jesus. Those who want to do greater works, greater works. You must also know which works are the works so

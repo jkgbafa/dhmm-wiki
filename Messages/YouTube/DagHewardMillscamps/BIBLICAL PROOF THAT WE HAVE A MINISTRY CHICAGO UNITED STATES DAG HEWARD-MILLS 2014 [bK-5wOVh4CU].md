@@ -9,6 +9,8 @@ duration_min: 157
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/BIBLICAL PROOF THAT WE HAVE A MINISTRY CHICAGO  UNITED STATES   DAG HEWARD-MILLS  2014 [bK-5wOVh4CU]]]"
+topics: ["Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Hallelujah. Come on. Come on. Come on. Come on.

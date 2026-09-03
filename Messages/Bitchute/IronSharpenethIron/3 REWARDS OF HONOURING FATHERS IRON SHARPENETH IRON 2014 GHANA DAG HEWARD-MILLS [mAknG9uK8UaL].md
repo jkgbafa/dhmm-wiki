@@ -8,6 +8,8 @@ year: 2014
 duration_min: 62
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Three rewards for honoring your father. Now the first reward for honoring fathers. That it may be well with you. Amen. That it may be well with you.

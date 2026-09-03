@@ -8,6 +8,8 @@ year: 2022
 duration_min: 13
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 step number four second Corinthians chapter how many steps have I given to your Apostolic Ministry four number one is what don't compare yourself number two is what know your territory isn't it number three is what marital commitment yes it's an everlasting allout commitment tell your neighbor I'm committed to you maritally oh yes tell the person you either be at my funeral or I'll be at your funeral yeah and then number four is what H Holiness Chastity and I've shown you how to crowd out ask for forgiveness remember I assured you God said oh forgiveness you

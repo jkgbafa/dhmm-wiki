@@ -8,6 +8,8 @@ year: 2000
 duration_min: 27
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 let's read verse one it says this is a true saying if a man desire the office of a bishop he desireth a good work amen a bishop then must be blameless the husband of one wife hallelujah my subject this morning is leadership mm leadership mm at the beginning of the year we are still in the beginning of the year we spoke about devotion mm and now I want to share with you leadership mm now I am sharing this with you because I believe that this is a year where you can and must develop into a

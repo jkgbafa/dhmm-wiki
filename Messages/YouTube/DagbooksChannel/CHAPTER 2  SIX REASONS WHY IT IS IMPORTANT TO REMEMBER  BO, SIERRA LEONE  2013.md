@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2013
 source: "autocaption"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Salvation"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/salvation"]
 ---
 
 16 verse 12. Why remembrance is very important. Number one, okay, read it out. And thou shall And thou shalt remember that thou was a bond man in Egypt, and thou shalt observe and do these statutes. Deuteronomy chapter 16 verse 12. Wow. THOU SHALT REMEMBER THAT THOU WAS a bond man. One of the reasons why it is important for us to remember is because remember will make you appreciate salvation and preach about salvation. Now many people many of us pastors have forgotten ABOUT SALVATION. IN FACT WE CANNOT EVEN PREACH ABOUT SALVATION. When you ask a pastor

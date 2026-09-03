@@ -4,6 +4,8 @@ book: "Those Who Are Proud"
 book_number: "002"
 chapter_number: 18
 type: book
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 ## Chapter 16

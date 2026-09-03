@@ -8,6 +8,8 @@ year: 2009
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I bringing you greetings from Ghana glad to see all of you here where is gal is he here he's on his way okay where's Paul I don't see Paul also on his way Paul is you're also organizing lot of organizations wow okay great turn with me to Galatians chapter 3 there six uh my sister there's a chair here somebody sitting there okay there's a chair right there or you can sit in front my chair great uh the question is I'm sharing about the blessings of Abraham and um the question is who are the true sons

@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/reasons-why-people
 duration_min: 85
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Lord, I want to live my life to please you, oh, I bring my heart before you to remote, oh, make of me a vessel fit for enough That I be shy for you expecting all to be pleasing you, oh, pleasing you This is all I really want to do, to be pleasing you, pleasing you This is all I really want to do, to be pleasing you, oh, pleasing you This is all I really want to do, to be pleasing you, oh, pleasing you This is all I really want to do, oh, Lord, Lord Lord, I

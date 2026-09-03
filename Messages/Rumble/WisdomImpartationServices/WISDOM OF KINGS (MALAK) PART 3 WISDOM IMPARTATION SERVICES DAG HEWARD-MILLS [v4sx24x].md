@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sx24x/"
 duration_min: 198
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer", "Prayer/Praying in Tongues", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 Are you being blessed in the presence of the Lord? Our first song for tonight. It's coming from the stars. And it's about the church. How many of you love songs about the church?

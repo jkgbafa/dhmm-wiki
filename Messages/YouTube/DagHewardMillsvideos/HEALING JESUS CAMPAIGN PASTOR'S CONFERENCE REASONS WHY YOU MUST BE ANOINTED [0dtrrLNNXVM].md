@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=0dtrrLNNXVM"
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 today we want to share with you on some things that I believe are very important for your ministry amen karate on occasion okatee to soak in an array you soak one my cities in Winona usually a big building stands on some pillars or columns commissioned by all who do we say the automatic palabra swimming corner and when the pillars are discovered you find out that it is those pillars that are basically carrying everything me how come I kiss is a hundred would have won already Peter assume it sanitation failure one of the big pillars that

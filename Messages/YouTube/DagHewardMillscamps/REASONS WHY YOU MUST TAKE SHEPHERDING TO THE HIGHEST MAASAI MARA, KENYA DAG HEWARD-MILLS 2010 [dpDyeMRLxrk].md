@@ -8,6 +8,8 @@ year: 2010
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number 19 of the privilege. Try with my Jesus found me. You did not feel what I felt when it rounds along the round me. You don't know the cause of the air. Oh, you don't know the cause of my breath.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=a3VwKjlhQU0"
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Prayer"]
+tags: ["topic/anointing", "topic/prayer"]
 ---
 
 the art of soaking in messages amen amen hallelujah hallelujah when you when you listen to a message like now you are not soaking it in what you are doing is not called soaking amen amen can I have a towel can I have a towel and oil small towel and some oil or water yeah very small towel okay now whenever you hear a message Faith Comes you believe in the message in the word of God but apart from that you receive the spirit amen amen John chapter 6 verse 63 what does it say the words that

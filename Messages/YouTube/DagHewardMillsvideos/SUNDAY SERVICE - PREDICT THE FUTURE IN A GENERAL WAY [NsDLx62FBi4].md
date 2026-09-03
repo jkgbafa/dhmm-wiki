@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=NsDLx62FBi4"
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 not with your people we exalt you wherever you are just cluster I concentrate on him and talk to him directly Lord you are God in my life Oh come on Hinata Machinarium boy who Leah my son enemy and Here I am way you abide in me i3 Here I am longing here I am longing tell him whoa hide me hide me hide me in your bring me to my knee bring me to my may I know Jesus more and more me I know Jesus more and Here I am longing Here I am lucky Oh Here

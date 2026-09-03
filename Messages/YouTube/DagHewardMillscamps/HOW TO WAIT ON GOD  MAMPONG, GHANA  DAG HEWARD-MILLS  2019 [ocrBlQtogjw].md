@@ -8,6 +8,8 @@ year: 2019
 duration_min: 235
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah are you excited to be here all right now I realize that let's pray father thank you for the gift you've given to us for the blessing you afford US guide us by your mighty mighty power Holy Spirit we are thankful in the mighty name of Jesus amen amen now I realize that when you send people as missionaries many of them or not many some of them cannot do well because first of all they are not spiritual people that's one of the big things they are not spiritual you see when uh man fell in the

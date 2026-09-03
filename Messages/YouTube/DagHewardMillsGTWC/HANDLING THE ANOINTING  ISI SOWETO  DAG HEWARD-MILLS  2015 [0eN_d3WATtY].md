@@ -8,6 +8,8 @@ year: 2015
 duration_min: 224
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Jesus is calling you. Ooh. All he is saying. All that he wants you to do is come home. Come home. If you're living in the city or living in the country town. Oh, way out there when nobody else is around. All he is saying and all that he wants you to do. Please come home. Come home. See, you may have some problems. Your life might be so confused. Yes, it is. But when you come back home, God is going to fix it for you. All he is saying, all that he wants you to do is

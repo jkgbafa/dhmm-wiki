@@ -8,6 +8,8 @@ year: 1999
 duration_min: 7
 source: "autocaption"
 match: "exact"
+topics: ["Missions", "Prayer", "The Holy Spirit"]
+tags: ["topic/missions", "topic/prayer", "topic/the-holy-spirit"]
 ---
 
 e welcome to track number 11 of love and the mega church Revival and a blood of prayer hallelujah hallelujah amen are you excited about that are you excited about that so how many feel that we should continue in our important prayer that we are praying huh all those in this area are not they don't think so you all right everything okay High jackers are doing better than Shepherds but from today shepherds are going to do better than hij jackers we are more than hijackers now we are going to form and we are forming it now

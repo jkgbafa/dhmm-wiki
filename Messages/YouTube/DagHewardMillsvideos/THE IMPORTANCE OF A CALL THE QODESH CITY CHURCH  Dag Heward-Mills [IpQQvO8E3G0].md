@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IpQQvO8E3G0"
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 Now if God has called you all right it is dangerous to not follow the call very dangerous for your life. Everything about your life is connected to the call. That's for what God is doing. He will do it. Whether he uses a monkey or a dunkey. If God has called you to serve him, brother, don't look at nobody. Oh. There is a reason. There is a reason for God's calling. That is why it is dangerous to not be callable. It's dangerous to not be callable. Now tonight I want to just share a short message on

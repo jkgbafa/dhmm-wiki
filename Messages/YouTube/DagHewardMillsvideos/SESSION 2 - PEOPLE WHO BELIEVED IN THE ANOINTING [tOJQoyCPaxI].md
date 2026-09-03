@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tOJQoyCPaxI"
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 a thousand decision amen no see no do and access movie universe was Jesus Christ what happened to Jesus but it's not his answer Jesus all the time and praise the heavens were opened and the holy book is like exam and Jesus sighs it was a ministry just like this one since we decrease after the power of the Holy Spirit a homogeneous Jesus is not is written as the Sun in opportunity Jesus Christ people who choose yet we are honest to Jesus hallelujah a photo okay we want more we want the Holy Spirit so I try

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 133
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 We thank also the evangelist Doug for this availability to come and visit the town of Bulma. Your message is a testimony that God is working with you. If all those people has come here It is a sign that God really with with you. We thank you with all the team and all the organization. May the God of grace keep on using you mightily. If I can ask a question to the crowd. Do you want that the next year that the bishops to come again? Amen. Amen. Amen. We welcome you from all our hearts to testify

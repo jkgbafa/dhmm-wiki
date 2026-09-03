@@ -4,6 +4,8 @@ book: "Read Your Bible Pray Everyday If You Want To Grow"
 book_number: "115"
 chapter_number: 6
 type: book
+topics: ["The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 CHAPTER 5\

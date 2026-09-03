@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2017
 source: "autocaption"
+topics: ["Prayer", "Prayer/Intercession"]
+tags: ["topic/prayer", "topic/prayer/intercession"]
 ---
 
 Today we're continuing and we are looking at intercession. Prayers of intercession. Wow. Now, and again, I I'm staying with Jesus. Don't bother about other people and other things in the Bible. Just Jesus. Now, to intercede is to act or interpose in belief in behalf of somebody. All right. Another word is is it means to attempt to reconcile differences. Okay. But another word is it means to be a go between to be a goeteen. So you go between them when you are interceding. All right. Now being a goeteen. Wow. Now how many would like to know

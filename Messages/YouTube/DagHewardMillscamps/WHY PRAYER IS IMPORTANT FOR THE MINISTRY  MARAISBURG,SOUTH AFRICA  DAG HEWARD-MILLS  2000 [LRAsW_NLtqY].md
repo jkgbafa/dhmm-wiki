@@ -8,6 +8,8 @@ year: 2000
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 welcome to track number four of the work of the ministry that if you don't pray or you don't understand we must believe in prayer I believe very very much in prayer I cannot lie to you I believe in prayer I remember there was this time is just there was this time this gentleman came to me he told me that oh he I wanted to move from where I was living and he told me that oh he has this place that um I mean is going for a very reasonable price and so on and blah he

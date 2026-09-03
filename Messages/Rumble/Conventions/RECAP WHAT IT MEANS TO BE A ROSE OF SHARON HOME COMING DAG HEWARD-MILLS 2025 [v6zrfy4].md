@@ -8,6 +8,8 @@ year: 2025
 duration_min: 139
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, we give you thanks. We give you pray. Lift your holy hands. Leave me scent. Say oh God, feel me.

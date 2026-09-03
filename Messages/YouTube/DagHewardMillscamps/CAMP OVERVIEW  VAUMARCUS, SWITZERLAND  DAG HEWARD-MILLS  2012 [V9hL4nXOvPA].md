@@ -8,6 +8,8 @@ year: 2012
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 This morning, let us pray that your will be done in this gathering. This morning, open our eyes, give us wisdom, give us understanding, the spirit of revelation in knowledge. Thank you for your blessing. Once again, in the name of Jesus, amen. May God bless you. Take your seats. This morning, let us pray with you. What does it not mean to be faithful until death? Do you remember what it does not mean? We saw what it means. We saw, we will see what it does not mean. OK, that's something to share with someone. What does it

@@ -8,6 +8,8 @@ year: 2018
 duration_min: 138
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 I waited on the Lord to hear his gentle voice for guidance and direction where to go. I opened up my heart to know the perfect will of God. His will is what I need his perfect will as I spent so many hours in the presence of the Lord. I calmed down and began to hear his voice, the lovely voice of God, your tender voice revealing the mysteries of your will at the crossroads of my life. No other voice compares, oh no, it's the sweetest sound my heart has ever heard the lovely voice of God, the spirit and turning to me when he spake to me.

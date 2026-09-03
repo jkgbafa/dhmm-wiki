@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7xgi4HMXjhs"
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "The Call of God"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/the-call-of-god"]
 ---
 
 today i'm talking about a holy calling is special your calling is special even if you are a home wrecker you are an adulterer you are a woman i don't care what you are okay your calling is special and it's different from that other person's calling make sure you fulfill it all one of the things i've noticed is that when people don't fulfill their calling they actually go into evil not fulfilling the call often leads people not that they are just good christians and they don't maybe go to some extreme but often they go off completely

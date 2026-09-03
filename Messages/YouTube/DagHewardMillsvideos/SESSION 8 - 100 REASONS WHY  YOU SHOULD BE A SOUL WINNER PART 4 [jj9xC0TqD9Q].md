@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jj9xC0TqD9Q"
 duration_min: 152
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 the next reason why we might be so win is because the gospel affects the greatest the greatest of everything amen number one it is let me share with you the greatest and the one is the greatest invitation of all time God so loved the world amen the greatest invitation whosoever is another great as invitation whosoever anyone number to the greatest person loves you huh he may be loved by the person who loves you is a rapist but somebody greater may love you and you find yourself being blessed the greatest person the greatest invitation the greatest

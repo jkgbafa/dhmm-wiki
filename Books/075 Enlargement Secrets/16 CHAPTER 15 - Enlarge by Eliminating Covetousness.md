@@ -4,6 +4,8 @@ book: "Enlargement Secrets"
 book_number: "075"
 chapter_number: 16
 type: book
+topics: ["Anointing", "Wealth and Finances"]
+tags: ["topic/anointing", "topic/wealth-and-finances"]
 ---
 
 ### CHAPTER 15\

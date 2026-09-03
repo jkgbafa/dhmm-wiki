@@ -8,6 +8,8 @@ year: 2013
 duration_min: 119
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 The anointing is specific is specific. It's a shirt. Somebody is wearing is a shirt that somebody is wearing the porter because it is a mantle. Now, if somebody here asks me for my shirt that I'm and says to me, I want your shirt that you are wearing. It is possible for me to give the person that in the same way wants the anointing on my life.

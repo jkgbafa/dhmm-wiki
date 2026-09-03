@@ -4,6 +4,8 @@ book: "Faith Secrets"
 book_number: "060"
 chapter_number: 55
 type: book
+topics: ["Faith", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/faith", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 ### Chapter 54\

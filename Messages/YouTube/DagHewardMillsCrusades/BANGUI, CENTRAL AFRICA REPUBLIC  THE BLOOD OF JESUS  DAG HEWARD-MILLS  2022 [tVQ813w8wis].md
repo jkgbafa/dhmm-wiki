@@ -8,6 +8,8 @@ year: 2022
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 I cannot wait for what God is about to do and I'm sure you are also ready I want you with excitement to join me to welcome evangelist D heward males to bless us tonight we we God everybody lift your hand say I expect a Mir nothing is impossible I expect a miracle heavenly father thank you for tonight I pray for your power your miracle and your Holy Spirit to move in this place in a special way we welcome you Holy Spirit have your way do wonders do wonders heal the sick save the Lost thank you

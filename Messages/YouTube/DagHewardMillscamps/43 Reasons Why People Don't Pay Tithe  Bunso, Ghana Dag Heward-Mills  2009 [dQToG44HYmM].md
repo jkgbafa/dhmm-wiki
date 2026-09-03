@@ -8,6 +8,8 @@ year: 2009
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 43 reasons why some people do not pay that number one they don't know about it why some people don't pay TI Why lios don't pay TI they don't know about but you cannot say that now Brethren I want that through ignorance you did it by the times of this ignorance God has wined but now he commanded all men everywhere to repent 2 Corinthians chapter 8 verse 7 turn to me is a very important verse that we need to look at amen amen glory be to God glory be to God glory be to God glory be

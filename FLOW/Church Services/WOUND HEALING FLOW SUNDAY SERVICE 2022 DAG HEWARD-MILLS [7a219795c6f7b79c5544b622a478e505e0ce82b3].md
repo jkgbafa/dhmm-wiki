@@ -8,6 +8,8 @@ year: 2022
 duration_min: 148
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/the-holy-spirit"]
 ---
 
 Um, what a blessing God has given us today. It's a beautiful rainy Sunday here in Accra and um welcome to church. Want to take some time and come before God and pray to Him. Remembering that it is important and it's a Christian's duty to always pray and call on God and prayer changes you personally when you involve yourself in prayer. So just lift your voice and pray in the spirit for now, pray in tongues for now, build up yourself on your most holy faith, praying in the Holy Ghost.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=66HYizyKJY0"
 duration_min: 69
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 are you with the path of the Lord the last of the door I can see I can't read the blue we are the blu link I love you what though I mean good again singing again ding I love you with a love I love you with a love for the law I love you my friends all I love you with the love of the Lord I could believe in you I can t endure body opposed you're a real I love you I love you above you one last passing and again I love you I love

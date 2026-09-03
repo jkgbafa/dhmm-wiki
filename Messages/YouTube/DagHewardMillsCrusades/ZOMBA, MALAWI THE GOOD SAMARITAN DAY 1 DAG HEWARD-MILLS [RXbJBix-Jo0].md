@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=RXbJBix-Jo0"
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Tonight is the night you've been waiting for tonight is the night you've been waiting for that and God is going to give you a great experience right here. I want to announce to you by the grace of God. We have with us here tonight, the servant of God, Evangelist Daggywat Mills. And let's welcome him with a shout. Hallelujah.

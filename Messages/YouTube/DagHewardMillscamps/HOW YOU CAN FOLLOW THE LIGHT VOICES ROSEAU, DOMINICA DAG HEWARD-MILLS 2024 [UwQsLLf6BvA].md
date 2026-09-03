@@ -9,6 +9,8 @@ duration_min: 63
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HOW YOU CAN FOLLOW THE LIGHT VOICES  ROSEAU, DOMINICA  DAG HEWARD-MILLS  2024 [UwQsLLf6BvA]]]"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 Now, I want to ask again. Right. How you can follow this light. That's the main thing. Amen.

@@ -9,6 +9,8 @@ duration_min: 142
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/EAST LONDON, SOUTH AFRICA  JESUS CHRIST AND THE WOMAN WHO WAS BENT OVER  DAG HEWARD-MILLS  2015 [fC5KPjyvqp4]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Jesus is here right now Jesus is here right now he is here to meet your need to set the captive free Jesus is here right now if you feeling all alone and you fight the battle alone and depression threatens your very soul Jesus who faith in you today chase the dark clouds away oh Jesus is here right now Jesus is here right now Jesus is here right now he is here to meet your need to set the captive free oh Jesus is here right now if you feel nobody cares and life has been unfair and

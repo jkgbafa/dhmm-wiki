@@ -4,6 +4,8 @@ book: "Those Who Pretend"
 book_number: "006"
 chapter_number: 8
 type: book
+topics: ["Loyalty and Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 # 

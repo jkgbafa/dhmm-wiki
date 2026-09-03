@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u5pxe/"
 duration_min: 39
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Hallelujah. Turn with me to Luke 18, please. Last week was Father's Day. So we interrupted our series on prayer, the parables of prayer. But we are continuing today.

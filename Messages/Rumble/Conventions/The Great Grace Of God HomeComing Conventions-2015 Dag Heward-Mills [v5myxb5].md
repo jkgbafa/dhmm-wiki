@@ -8,6 +8,8 @@ year: 2015
 duration_min: 121
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Next, we want to hear from Reverend Queku Amponsa from Zurich, Switzerland. Oh, keep clapping. Wow. Somebody put your hands together for Jesus. Well, it's it's surprising and um amazing.

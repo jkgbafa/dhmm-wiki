@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2017
 source: "autocaption"
+topics: ["Fasting", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/fasting", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 All right. Matthew, Matthew 17. Matthew chapter 17. And then we read what Jesus said about fasting with prayer. Amen. Wow. Verse 14. Now when they were come to the multitude, all right, when they were come to the multitude, verse 14, when they were come to the multitude, a certain man came kneeling down to him and saying, Lord, have mercy on my son, for he is lunatic and sore vex. Next. Now, lunar scene. You see, people used to think that madness was caused by the moon. So, the lunar phases, the luna is to do with the

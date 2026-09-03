@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sxnbo/"
 duration_min: 175
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Salvation", "Salvation/The New Birth", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/salvation", "topic/salvation/the-new-birth", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 The best place to be on a Sunday evening The best place to be on a Sunday evening on a Sunday evening Blessing on a Sunday Sunday Uh-huh I said the best place to be on a Sunday evening on a Sunday Sunday chicken chicken chicken chicken chicken Hallelujah Why don't you take your seats Why don't you take your seats Amen? There is a lot of excitement in the air Hallelujah Why don't you take your seats while we welcome While we welcome I said wow we welcome the dance I made it we don't speak And nothing just

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 67
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/ministry-and-pastoring"]
 ---
 
 Let's pray. Father, thank you for today for guiding us with your Holy Spirit. Lead us. Continue. Speak to our hearts.

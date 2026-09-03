@@ -8,6 +8,8 @@ year: 2011
 duration_min: 131
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring"]
 ---
 
 all right Hallelujah number one seven reasons why young people are useful in Ministry amen thank you Holy Spirit for your power and presence in Jesus name how many people here are young so this message applies to your life amen amen if you are a bit old you can be excused come back after this session we don't want any otherly person to despise us amen amen young people are useful why why why are young people very good that's for me I prefer young people in the ministry to old people why number one because Jesus Christ was

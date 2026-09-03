@@ -9,6 +9,8 @@ duration_min: 20
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/LOYALTY - CURE TO FAMILIARITY  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001 [9sY51PyUpSE]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 Welcome to track number 25 of pastors of thousands. C 8 and 28. C8 and 28. All things. All things mean all things.

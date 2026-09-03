@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ar0fQZGoQDA"
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 I I believe in come on I believe he come on shout come on believe I believe I believe that is here now I believe that he in PR here with the power here with the power like this here we are gathered together as a found us one lifting up our voices to the king let's start again here we are gathered together here we are gathered together as a family family a family now found us one liftting up our voices to the king and we cry out we cry we cry holy Worthy is your name we

@@ -3,6 +3,8 @@ title: "THE GATE OF THE HONOUR OF MAN  MARYLAND, USA  DAG HEWARD-MILLS  2003_Vkm
 channel: "DagHewardMillscamps"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number four of gates and roads now this brings me to another Gates which I want to look at and I I I think this is a very primary very important one probably one of the most important ones I I think concern us and it's called the honor of man John 5:41 I receive not it should be in red in your Bible if you don't have a Red Letter Bible please change it you need a Bible with red letters so that you can clearly see when Jesus is speaking okay it says I receive

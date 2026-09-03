@@ -4,6 +4,8 @@ book: "The Gift Of Governments A Bishop 'S Governing Handbook"
 book_number: "117"
 chapter_number: 16
 type: book
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 ### CHAPTER 14\

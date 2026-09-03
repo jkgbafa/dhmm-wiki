@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IVw10vMsp94"
 duration_min: 44
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 let us walk in your will and help us to understand your holy written word that we may be your servants who please you we love you and we thank you in Jesus name Amen you may be seated in the presence of the Lord are you glad to be in church this morning tell with me please to Hebrews 11 verse number 6 god-willing we're basically beginning his new series next week for some time and we are all going to be blessed with these powerful messages amen today I want to conclude on my message hallelujah with prosperity

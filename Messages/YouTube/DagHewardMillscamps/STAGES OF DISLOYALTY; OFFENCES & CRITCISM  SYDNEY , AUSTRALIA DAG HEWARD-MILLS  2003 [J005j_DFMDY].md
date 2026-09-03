@@ -8,6 +8,8 @@ year: 2003
 duration_min: 32
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 welcome to track number eight of how to survive in Ephesus stage number two stage one is what independent independent spirit I thank God that he counted me what faithful so when the Lord looks at you what is he going to be looking at whether you are faithful what does faithful mean constant number two it means what Rel reliable number three loyal and then number four it means the same you are the same always the same the same when you love me today tomorrow you still love me amen when you say good things about me today

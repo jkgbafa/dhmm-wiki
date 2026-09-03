@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2020
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Prayer/Intercession"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/prayer/intercession"]
 ---
 
 Chapter 11 on page 87 if you have the physical book. All right. Chapter 11. Now, what will you be doing when you are a shepherd? So, that's what I'm teaching you because I'm expecting everybody to become a shepherd, including those of you who have run away from it for a long time, saying to yourself, look, this thing, I don't know how I'm going to do it. I don't think I'm qualified. I don't think I'm good enough. You'll be surprised to find out that you are better than a whole lot of people whom you think are

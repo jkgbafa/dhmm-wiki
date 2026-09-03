@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=s33tdQxVCXg"
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Heavenly Father we thank you for this morning thank you for the opportunity we have to come before you to come before your holy word Lord we ask you to guide us to speak to our hearts let your will be done in our lives in 2007 in Jesus name Amen you may be seated are you glad to be here very good please enjoy your last few days in colleague ah no we will not be coming here very soon are you aware of that the fed service people are in the Kadesh already so we'll be moving from

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8CbtLGK0Fgw"
 duration_min: 196
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 how I love you you are my old IDO I can see your face your floor beyond your brain when you speak to me you say it might be really work and never I love you how I love you you are my only daughter oh I can see your face the Gloria your brain when you speak to me you said my spirit free door three comes out it's over wealthy you are my lord you are my everything forever you happy before I hit my hand day I love you you are my my how let us pray

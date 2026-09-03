@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Llpy5akHvFk"
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 turn with me to revelations now how many are ready to respond to God with good love great love revelations chapter number 2 - the angel of the church in Ephesus write the one who holds the seven stars and is right and the one who walks among the seven golden candlesticks face this read it somebody to start up and read it out for us write these things saith he that holdeth the seven stars in his right hand who walketh in the midst of the seven candles golden candlesticks I know thy works and thy labour and thy

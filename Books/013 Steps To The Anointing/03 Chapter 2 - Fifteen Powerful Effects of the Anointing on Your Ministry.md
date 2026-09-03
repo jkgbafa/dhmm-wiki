@@ -4,6 +4,8 @@ book: "Steps To The Anointing"
 book_number: "013"
 chapter_number: 3
 type: book
+topics: ["Anointing", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring"]
 ---
 
 ## Chapter 2

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hnJgik6xfM4"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we are having flow prayer meeting on Sunday morning so that is a blessing let's lift our hands and just give thanks to the Lord in my life thank you Lord in the name of Jesus in the name of the Lord as you open my eyes Jesus blessings foreign I'll never give you away thank you Father for the guidance yes amen amen I want us to pray for the Holy Spirit one of the things that the Holy Spirit does for us is to guide us hallelujah amen amen one of the things that we need more than

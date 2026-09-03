@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=FN3RAPwkfKA"
 duration_min: 138
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 come on put your hands together for jesus you'll be excited to be in church this afternoon amen well um the scripture teaches us that they overcame the devil they overcame him through the blood and the word of our testimony any time that we share testimonies here in church it gives us the power to overcome the enemy in our lives amen oh can i get a bigger amen so today we are taking one testimony from our brother emmanuel who is going to talk about how god saved him and changed his life i want you to put

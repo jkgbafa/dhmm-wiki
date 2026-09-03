@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2017
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Prosperity in the ministry is very connected to tithe paying. Amen. Now, when you allow your church Christians to not pay tithes by your failure to teach and to preach on tithing in such a way, as to bring major changes. Then you will suffer the loss of wealth and you will suffer the loss of the increase that is supposed to be your portion. Amen. Amen. Are you listening to me? Right. So from now your ministry will be characterized by prosperity of the ministry and you are going to enjoy a higher level of finances in the ministry.

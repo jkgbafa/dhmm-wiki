@@ -8,6 +8,8 @@ year: 2008
 duration_min: 8
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 welcome to track number 19 of warfare keys let me just uh di divert a bit to income Keys income Keys eight spiritual keys to increase your income number one pay your tithes to break a curse number two pay your tithes to avoid hypocrisy bankruptcy and the undermining of your own Spiritual Authority number three so seeds towards financial prosperity so seeds as a Ministry must so seeds did you get it number two pay your tithes to avoid hypocrisy to avoid bankruptcy to avoid the under mining of your own Spiritual Authority okay we've done this already so

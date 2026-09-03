@@ -4,6 +4,8 @@ book: "Am I Good For Nothing"
 book_number: "113"
 chapter_number: 7
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 ### CHAPTER 6\

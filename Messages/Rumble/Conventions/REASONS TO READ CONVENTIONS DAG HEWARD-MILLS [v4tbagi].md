@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tbagi/"
 duration_min: 192
 source: "whisper"
 match: "exact"
+topics: ["Missions", "Missions/The Nations", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/missions", "topic/missions/the-nations", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Can you sing with me? Draw me close to you. Draw me close to you. Never let me go. Never let me go.

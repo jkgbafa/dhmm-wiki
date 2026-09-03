@@ -9,6 +9,8 @@ duration_min: 90
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/RENAMING THE ROADS BY SATAN  MARYLAND, USA  DAG HEWARD-MILLS  2003 [VPZr-SJS1Rs]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 I've mentioned a few of them already. So I'll just give you about five or six of them. Number one. Gain the road. If you enter the gate, or narrow is the gate, broad, no, enter the straight gate.

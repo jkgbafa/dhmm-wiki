@@ -9,6 +9,8 @@ duration_min: 122
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/TZANEEN, SOUTH AFRICA  BEHOLD I STAND AT THE DOOR AND KNOCK  DAG HEWARD-MILLS  2014 [Au12BZJrKa8]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 I believe something great is gonna happen to us tonight. And join me to welcome Vivaldi to prepare our hearts for what God has in store for us. Listen and to la Moraya I'm for the Shaman Via Kilukulur Did you hear that to me some more polo she moral and for the shaman listen Keeba Kitwenera Keeba Kissola Keep on Abbas Keep on our chat so far to love before the Sorry World is to me so ya wore it on Sabin Kid Shaw McLuhan Jesus Lift up your voice and say that so you have to be shot that's all a time Lift up your voice that's all our shot to be some walk up for sea and to la moral I want this shaman witchy look to me so we are in shot, Jesus come on, come on Jesus Jesus Do we like that do we like that?

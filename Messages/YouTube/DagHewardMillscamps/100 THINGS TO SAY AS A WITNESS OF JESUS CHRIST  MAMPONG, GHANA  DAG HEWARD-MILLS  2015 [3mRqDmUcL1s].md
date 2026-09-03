@@ -8,6 +8,8 @@ year: 2015
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 for oh my God my God thank you Lord we bless your holy name amen amen wow is it not amazing we want to pray our next prayer and this time we want to pray for love for the Heathen the lost if you love God you must also love the Lost yeah it's not the love that will give you the chance to be sharing I mean there are so many people who can share like I was telling somebody the sharing is not easy because we have the things you can read and then just oh I read

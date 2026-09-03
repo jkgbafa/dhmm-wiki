@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uf2tx/"
 duration_min: 32
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 See that when it comes to the hearing of the word, let us lay aside every filthiness and superfluity of naughtiness and receive with meekness that engrafted word which is able to save our souls. I believe that this morning the mega word that is coming your way is going to save your soul. You're going to help in various areas of your life, and you'll never be the same. Shall we stand to our feet, please? As we seek the bishop to minister to us.

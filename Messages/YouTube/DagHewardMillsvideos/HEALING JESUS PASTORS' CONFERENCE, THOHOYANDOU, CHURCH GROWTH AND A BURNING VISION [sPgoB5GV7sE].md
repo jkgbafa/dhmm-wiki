@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=sPgoB5GV7sE"
 duration_min: 152
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Vision and Direction", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/vision-and-direction", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 let's have Jesus you are my first love there is no love the love that can come bless Jesus it is your home he is perfect that's all we do let's add cheese you are my part there is no cos man and you're perfect that's the food yeah there's no there you are my there is is your perfect roll don't we laughs cheese to oh that's wrong to you you're perfect now - here flower flower and closer it today it's wrong how I love you love you are my only God I can see your face your

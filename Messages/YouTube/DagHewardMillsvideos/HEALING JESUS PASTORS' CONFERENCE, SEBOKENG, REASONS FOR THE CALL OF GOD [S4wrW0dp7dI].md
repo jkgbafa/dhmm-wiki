@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=S4wrW0dp7dI"
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "The Call of God"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/the-call-of-god"]
 ---
 
 now this morning I'm going to share something and doctor gonna share something as well and we also really blessed to have Bishop Musa Dagh know who is also here come all the way from the weto also share some very important things with us so I'm going to start and then we are going to continue amen now I want you to listen very carefully painting a cold and many many people are called by God and Olivia Ephesians chapter 2 verse 20 it says for we are his workmanship in Christ Jesus created unto good works we are

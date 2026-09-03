@@ -4,6 +4,8 @@ book: "100 Answered Prayer 2Nd Ed"
 book_number: "041"
 chapter_number: 7
 type: book
+topics: ["Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 ### CHAPTER 6\

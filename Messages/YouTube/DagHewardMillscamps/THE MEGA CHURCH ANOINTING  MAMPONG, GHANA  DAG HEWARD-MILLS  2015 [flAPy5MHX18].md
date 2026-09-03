@@ -8,6 +8,8 @@ year: 2015
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/anointing", "topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 tonight I want to just uh talk about one more thing that is needed for the mega church vision and that is the mega church anointing how many want the mega church anointing if we have time I will share with you the mega church principles but the first step to the mega church anointing is the prin the step of a vessel chur change change In Your Vessel second Timothy 2:20 in a large house there are not only vessels of gold and of silver but also of wood and Earth some to honor and some to dishonor so

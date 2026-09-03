@@ -8,6 +8,8 @@ year: 2001
 duration_min: 67
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 command and teach when you come to church expect to hear both commands and teachings and when you hear a command you must obey so that God can bless you amen amen amen because if you do not hear commands and you do not obey and respond to commands you will never be able to command Hallelujah so there are some things that God will tell you and there are some things that he will command you and there are some things that he will teach with understanding but when he's ministering to you without understanding and he's commanding you

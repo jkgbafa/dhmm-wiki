@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=T2-t-OgupNI"
 duration_min: 142
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 do oh keep on praying keep on keep on praying will humble themselves is oh sweet brother don't stop see the power of god is oh from their sins is a good is keep on praying keep on me memory keep on praying keep on praying all day hallelujah father thank you for your blessing today in jesus name amen you may be seated it is a blessing to be here today our offering time this morning or afternoon is from the book of esther chapter number five and i want us to believe that god can and will help

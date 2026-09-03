@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wNd9Ay4G9GY"
 duration_min: 167
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 go into all the world and preach the gospel until your life is and if you love me obey the Great Commission bill Chuck is everywhere in every house every problem and bus tell me how long you stay gone all day for you - Oh baby I have a feeling for you - Oh baby I have a feeling that way today Hey for you to my wig why I'm asking and I don't wait I'm gonna let you make for your love I'm gonna wait I leave to cool remember what I told you I told your feel

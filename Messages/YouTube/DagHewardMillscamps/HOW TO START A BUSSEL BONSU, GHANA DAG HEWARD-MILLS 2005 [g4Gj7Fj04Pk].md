@@ -9,6 +9,8 @@ duration_min: 84
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HOW TO START A BUSSEL  BONSU, GHANA  DAG HEWARD-MILLS  2005 [g4Gj7Fj04Pk]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number nine of basilization for which of you intending to build a tower sitteth not down first and counter the cost you understand do not start things that you abandon you get it's very some way now we are going to have remind me to talk about the uh yeah okay we are gonna have uh for a shepherd we are going to wear a charcoal gray jacket you know charcoal gray yeah and it's going to be very powerful when you become a pastor you change into black do you see and the ladies to see

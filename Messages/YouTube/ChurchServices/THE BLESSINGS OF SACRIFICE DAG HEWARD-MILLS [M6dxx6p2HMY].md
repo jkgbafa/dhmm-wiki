@@ -8,6 +8,8 @@ duration_min: 103
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/THE BLESSINGS OF SACRIFICE  DAG HEWARD-MILLS [M6dxx6p2HMY]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Knowledge Knowledge pops up. It's not about knowledge. Knowledge is not what is missing in the church. We have a lot of knowledge. We've never had as much knowledge as we have.

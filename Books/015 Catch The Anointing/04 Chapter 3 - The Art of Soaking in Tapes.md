@@ -4,6 +4,8 @@ book: "Catch The Anointing"
 book_number: "015"
 chapter_number: 4
 type: book
+topics: ["Anointing", "Ministry and Pastoring", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 ## Chapter 3

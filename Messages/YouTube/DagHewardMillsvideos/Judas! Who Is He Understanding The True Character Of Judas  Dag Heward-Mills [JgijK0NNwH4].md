@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JgijK0NNwH4"
 duration_min: 115
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 as for Judas all I have to do is to read the title of the chapter is a bad deviation and aberration is a bad um malformation it's it's a bad it's a catastrophe it's a spiritual disaster to be a Judas you must be a friend eny that's why the book is called who is he he a friend so you may not want to be a friend Matthew 26 verse 47 Matthew 26:47 and while he yet spake Lo Judas one of the 12 came and with him a great multitude with swords and staves from the chief

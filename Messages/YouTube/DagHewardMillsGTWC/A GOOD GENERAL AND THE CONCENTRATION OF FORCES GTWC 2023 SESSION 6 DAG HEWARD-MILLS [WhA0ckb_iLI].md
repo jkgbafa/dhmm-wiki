@@ -8,6 +8,8 @@ year: 2023
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Father, thank you for your blessing. Père, merci in Jesus' name. Amen. You may be seated. Now we are in this conference looking at what it means to be a good general.

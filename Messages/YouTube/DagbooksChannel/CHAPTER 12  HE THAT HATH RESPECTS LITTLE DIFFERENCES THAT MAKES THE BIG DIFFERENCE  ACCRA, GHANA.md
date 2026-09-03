@@ -3,6 +3,8 @@ title: "CHAPTER 12  HE THAT HATH RESPECTS LITTLE DIFFERENCES THAT MAKES THE BIG 
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 He that has respects little things that make a big difference. He respects little things. Amen. Second Kings chapter 5 and we are going to read from Come on boy. We're going to read from verse one. Now non the Syrian the captain of the army was a great man with his master highly respected because by him the Lord had given victory to Aram. All right now the Aramians verse two had gone in bands and had taken captive a little girl from the land of Israel. And then she said to her mistress, no, but verse one, the

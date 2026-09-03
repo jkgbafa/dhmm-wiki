@@ -9,6 +9,8 @@ duration_min: 48
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE CURSE AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024 [x6ks6MUQk14]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/demonology"]
 ---
 
 Heal Me Oh God heal me oh Lord Heal Me Oh Lord Heal Me Oh Lord Heal Me Oh Jesus heal me oh holy spirit oh yes Lord stand to your feet as we pray and we get ready to hear the word oh pray thank you Father thank you thank you thank you hallelujah hallelujah hallelujah hallelujah hallelujah thank you Jesus blessing us in this prayer seminar prayer meeting what a blessing what goodness you shown to us we thank you Father thank you Lord we thank you Jesus thank you Lord in the mighty name of Jesus we

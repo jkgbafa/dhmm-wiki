@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=KIyc-NWF8hE"
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 in this wonderful book now so leave mass media it used to be called the art of hearing a varsity Apple a large downtown I'm even going to change the name back it should be chosen an uncle how to hear come on downtown you must hear with the same on top you know God is always speaking to me Jim about to you and I'm always trying to find out what is he saying AJ said to you the sheet it's a kiss yeah energy they don't care what you say Washington cement a gas I could watch you

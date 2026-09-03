@@ -9,6 +9,8 @@ duration_min: 63
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/STAGES OF DISLOYALTY; THE INDEPENDENT SPIRIT  SYDNEY , AUSTRALIA DAG HEWARD-MILLS  2003 [zj0oudzWQgw]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number seven of how to survive in Ephesus has enabled me. He counted me faithful, putting me into the ministry. Amen. Now the qualifications, counting me faithful. Qualification for being involved in the work of God is to be faithful.

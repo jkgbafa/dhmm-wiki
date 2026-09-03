@@ -9,6 +9,8 @@ duration_min: 170
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/FAITH  ACCRA, GHANA DAG HEWARD-MILLS  2009 [-04nq2AGivE]]]"
+topics: ["Faith", "Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/faith", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Welcome to track number two of my first love. We shall be changed in a moment in a twinkling of a night at the last caught up in his glory. We shall not be the same. We shall all be changed in a former in a twinkling of I'm the last trump when the trumpet shall sound and the de shall be and the glory of the Lord shall be seen. Where is thy victory?

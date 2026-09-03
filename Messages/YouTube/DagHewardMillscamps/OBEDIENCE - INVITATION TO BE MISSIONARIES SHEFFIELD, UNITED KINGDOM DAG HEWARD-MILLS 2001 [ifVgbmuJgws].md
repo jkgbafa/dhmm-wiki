@@ -8,6 +8,8 @@ year: 2001
 duration_min: 38
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Missions", "The Holy Spirit"]
+tags: ["topic/marriage-and-family", "topic/missions", "topic/the-holy-spirit"]
 ---
 
 Welcome to track number 19 of Pastors of Thousand. Listen. I believe that God wants more missionaries from here. How many are prepared to be missionaries? Raise up your hand.

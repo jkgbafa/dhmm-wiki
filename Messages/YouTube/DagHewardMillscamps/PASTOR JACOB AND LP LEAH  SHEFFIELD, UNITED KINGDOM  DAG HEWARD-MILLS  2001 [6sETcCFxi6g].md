@@ -8,6 +8,8 @@ year: 2001
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number 13 of pastors of thousands Hal our subject is Lady Pastor Leah l e a h Genesis 29 how many can see that you are moving moving moving moving from a stage of baroness and what is the meaning of Baron dryness dness bleakness not copious teral nonproductive airless childless issuess scany it's unfortunate huh not conceiving dry desert let's see one of the this one is a combination Pastor Jake and Lady Pastor Leah yeah Pastor Jake Jacob and Lady Pastor Leah some people are going to see the tapes with their names written on

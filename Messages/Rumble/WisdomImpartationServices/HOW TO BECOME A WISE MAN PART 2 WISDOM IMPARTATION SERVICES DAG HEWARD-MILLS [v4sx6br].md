@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sx6br/"
 duration_min: 127
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wisdom"]
 ---
 
 Britain's biggest indoor arena, Co-op Live in Manchester, has postponed its opening yet again. Called off this week's concert concerts by the Grammy Award winner Olivia Rodrigo. The third and latest attempt to open was abandoned last night, less than an hour before a performance by an American rapper with fans left queuing outside. Shows by the comedian Peter Kay have already been rearranged twice. Music fans last night complained of being left out of pocket.

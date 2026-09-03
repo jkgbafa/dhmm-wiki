@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=bIyWp88LG5Q"
 duration_min: 20
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 evangelist die cubed Mills and the healing Jesus campaign team are rapidly expanding massive evangelistic efforts across the nations of Africa preaching the gospel of Jesus Christ after more than 10 years evangelists die cubed Mills continues to reach many countries on the continent with the Word of God Mozambique is one of the countries the healing Jesus campaign visited holding a series of nine campaigns across the southern region of the country preaching the gospel and ministering the healing power of Christ time and time again Evangelist accurate Mills has shown his result for willing souls in Mozambique in

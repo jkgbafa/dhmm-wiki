@@ -8,6 +8,8 @@ year: 2017
 duration_min: 175
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 it's better at least it's better than the P than the Bishops isn't it the all the pastors together is better than the Bishops so the Bishops even the pastors it's fantastic okay now only sisters can you stand and give the a shout some of you your shouting is suspect you suspect you some are too you you are to ladylike two of you ladies your shouting is still there's no fire in your shouting come on sister give the a shout all right we will take it like that at least it's still better than all the pastors

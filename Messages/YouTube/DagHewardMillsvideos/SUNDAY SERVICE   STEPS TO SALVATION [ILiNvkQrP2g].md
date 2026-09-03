@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ILiNvkQrP2g"
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 I was sinking deep in sin far from the blissful seeking to rise from the water he lives had me now sleep souls in danger to Kaaba Jesus completely say he will lift you by his hand I don't be everywhere and beetles is wheel over he'll save your watch to be thank God for the love that lifted us up well this is Easter Sunday when I'm sure I'm glad that our Father the presiding bishop is one more time in the house we don't have him often now let me just say that each time he is not

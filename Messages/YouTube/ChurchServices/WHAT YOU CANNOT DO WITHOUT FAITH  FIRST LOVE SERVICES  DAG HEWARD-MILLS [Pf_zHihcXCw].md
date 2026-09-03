@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Pf_zHihcXCw"
 duration_min: 185
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Marriage and Family", "Marriage and Family/Children and Parenting", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/faith", "topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 can you imagine can you imagine can you imagine he dwells in the Praises of his people he dwells in the midst of thankful people Sant rant kamamba yes yes yes yes yes yes yes yes those who don't want us to be alive those who don't want us to be holy those who don't want us to be worthy of your calling Lord thank you for delivering us from them we give you thanks we praise you we worship you we exalt you everybody lift your hands to the King of Kings praise him with your voice worship him

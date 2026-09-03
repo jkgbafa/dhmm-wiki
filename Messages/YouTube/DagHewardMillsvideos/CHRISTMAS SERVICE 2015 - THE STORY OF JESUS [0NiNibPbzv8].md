@@ -8,6 +8,8 @@ year: 2015
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hello sofly and Tenderly Jesus is call you earnestly P Jesus is calling you oh he is say all that he wants you to do is come home come home come home living in a city living in a Country Town way out there when nobody else is around oh he is say oh that he wants you to do is come home come home so you may have some problems in life might be so confused but when you come back home God is going to fix it for you yes he will all he is saying and all

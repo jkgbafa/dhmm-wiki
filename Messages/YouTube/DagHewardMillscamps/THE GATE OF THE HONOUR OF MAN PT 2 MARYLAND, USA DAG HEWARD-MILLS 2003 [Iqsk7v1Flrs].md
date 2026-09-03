@@ -9,6 +9,8 @@ duration_min: 92
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE GATE OF THE HONOUR OF MAN PT 2  MARYLAND, USA  DAG HEWARD-MILLS  2003 [Iqsk7v1Flrs]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 He said, Oh, I don't want my children, I don't want my children to be brought up in that place. Where do you want your children? I'm going to America and I want my children to be. So I said, where were you brought up? Where were you brought up?

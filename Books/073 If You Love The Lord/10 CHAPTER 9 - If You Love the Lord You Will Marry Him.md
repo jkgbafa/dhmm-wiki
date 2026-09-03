@@ -4,6 +4,8 @@ book: "If You Love The Lord"
 book_number: "073"
 chapter_number: 10
 type: book
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 ### CHAPTER 9\

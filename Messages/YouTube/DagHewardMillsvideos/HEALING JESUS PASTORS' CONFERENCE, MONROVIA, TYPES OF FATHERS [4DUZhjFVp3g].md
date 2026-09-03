@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4DUZhjFVp3g"
 duration_min: 53
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 now I'm I'm going to share with you on what I call fathers and loyalty fathers and loyalty this book fathers and loyalty now this is the best session which I have saved for the very last moment and I want you to listen very very carefully to this after that we we are closed for the day amen and and tonight we have another powerful Miracle service amen now turn to 1 Corinthians chapter 4 verse number 15 1 Corinthians chapter 4 verse number 15 though you have 10,000 instructors in Christ all right you do not have many

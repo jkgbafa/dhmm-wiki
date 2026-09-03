@@ -4,6 +4,8 @@ book: "Ready At 20"
 book_number: "074"
 chapter_number: 19
 type: book
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 ### CHAPTER 18\

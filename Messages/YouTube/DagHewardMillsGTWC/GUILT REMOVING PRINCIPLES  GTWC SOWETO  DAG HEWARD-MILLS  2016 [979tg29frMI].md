@@ -8,6 +8,8 @@ year: 2016
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Call of God", "The Call of God/Responding to the Call", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 My Lord and my God. I can't believe it. I can't believe you died for me. What a sacriice. And Lord, in return, in return, I'll serve you for the rest of my life. Hallelujah. Lord, I will build your church. All I want is to serve you. And if I live my life again, I'll choose you. It's been worth worth living for you. Lord, I love you. And there's no one above you cuz you gave your son. You gave your life and you took my life all around. You gave your life to set me free. And

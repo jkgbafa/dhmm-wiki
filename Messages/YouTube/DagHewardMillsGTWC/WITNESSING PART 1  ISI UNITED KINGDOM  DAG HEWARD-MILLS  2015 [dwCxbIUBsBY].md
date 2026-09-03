@@ -8,6 +8,8 @@ year: 2015
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Oh Lord, I'm your willing servant. You know that I've been for years. I'm here in this pew every Sunday and Wednesday. I've stayed with many a tears. I've given you years of my service. I've always given my best. And Lord, I don't ask you for your life much. So Lord, I deserve this request. Please don't send me to Africa. I don't think I've got what it takes. I'm just a man. I'm not a ton. I don't like lions, rivers, or snakes. I'll serve you here in Serbia in my comfort of a middle class night. But

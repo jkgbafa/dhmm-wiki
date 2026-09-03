@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/KjsKPFcMqtgN/"
 duration_min: 65
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Sing it together. Come on. If you looking for somebody who lie, see, look my way. Look my way. If you looking for somebody to pray, see look my way.

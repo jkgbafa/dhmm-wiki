@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=RoVJi022j98"
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Tonight is the third night of Healing Jesus campaign in Aberoni. And I'm so excited for what is coming. We are going to enjoy some powerful ministration. Please help me welcome sister with our joy. Why don't you give Jesus your best shout of praise?

@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/1glbsC17Wut2/"
 duration_min: 81
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Psalm 81 says, sing for joy to God our strength. Shout joyfully to the God of Jacob. Raise a song, strike the timbre, the sounding loud with the heart. Blow the trumpet at the full moon on our feast day. Today is our feast day.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wcXGsoPe-Gk"
 duration_min: 102
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Grita con alegria con força grita para o Senhor. Escute. Tu precisas dies. Tu precisaste dialáção para gloria o inferno te chama, se rapido sua diz, se aceita Jesus, será grita con força a viarico, viviamo na terra, y tinha todas riquezas do mundo prazer do mundo, vestir pro Pascaras, y había un bombe, viviana na terra, seu nome era Lazzaro, y tinha feridas lambiano suas feridas todos lasaro no portão do mérito que é comer tus restos do Omérico, Lazaro sofrico Lazare, e un Jus para o séio di Abraham y omerico moré, mas foi para inferno.

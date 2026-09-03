@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=KF7mSP3QLCc"
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 how you have been to me forever faithful how true are your promises never Shen how good you have been to me how good you have been to me forever faithful how true your promises never Shen you are the love of my life you are the BL of my life you are the reason I live W I live for you I live for you I there no one above I walk I walk with you all all to talk to talk with you and feel and feel your breath on my face how amazing how amazing to are

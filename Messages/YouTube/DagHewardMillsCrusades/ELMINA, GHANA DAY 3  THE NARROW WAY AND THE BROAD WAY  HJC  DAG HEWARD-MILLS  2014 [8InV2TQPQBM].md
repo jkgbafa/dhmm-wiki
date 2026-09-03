@@ -8,6 +8,8 @@ year: 2014
 duration_min: 147
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 the servant of God is ready on this final night I want you to relax be comfortable and let's receive the ministry of Vivaldi tonight bless us with some hallelujah amen now true Jesus Christ awesome Jesus Christ hey for the of Jesus for Jesus hey yes yes I yes so how much is to me every yes I down my my I I I I see I I you want spee sing with action oh yes me what C come Hallelujah hallelujah amen don't sit down don't sit down standing the atmosphere is charged with excitement there is great

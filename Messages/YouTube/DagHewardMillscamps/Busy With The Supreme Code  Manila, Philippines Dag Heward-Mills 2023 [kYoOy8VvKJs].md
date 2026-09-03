@@ -8,6 +8,8 @@ year: 2023
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 while sheeps watched their flock by night all Seated on the ground the angel of the Lord came down and Glory sh that's a Christmas Caroline those of you who didn't go to church Sor oh what's happening are you while sheers watched their flocks by night all Seated on the ground the angel of the Lord came down and Glory Shone around fear not said he for Mighty bread had sealed their trouble old mind Glad Tidings of great joy I bring to you and all man let's take it from verse 8 sh by night all Seated on

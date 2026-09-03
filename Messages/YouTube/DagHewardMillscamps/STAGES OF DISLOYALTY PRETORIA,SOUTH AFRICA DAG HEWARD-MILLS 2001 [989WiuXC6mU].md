@@ -8,6 +8,8 @@ year: 2001
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/anointing", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 Welcome to track number 11. Victorine Lyotisha. More people than I do in the church. He knows more people. More people know him than they know than they know than know me.

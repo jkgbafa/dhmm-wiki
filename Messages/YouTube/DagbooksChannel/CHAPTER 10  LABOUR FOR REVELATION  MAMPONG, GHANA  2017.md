@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2017
 source: "autocaption"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now labor, okay, for revelation. Labor for revelation. labor for revelation rather than laboring to be rich. Because what Pastor Oay was explaining, if you if you look at me, you see that millions of dollars are passing through my hands to to do things. But the pastors are not humble to be when I say I need it now. I need you to finish now. People don't want to do that. But he has learned it. Working here is a determinance. Speed race are won by people who are fast. Yes. the the the the carpenter who put the

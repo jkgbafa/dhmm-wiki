@@ -9,6 +9,8 @@ duration_min: 71
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/25 REASONS FOR A MEGA CHURCH  CAPE COAST, GHANA  DAG HEWARD-MILLS  1999 [-JelHEoxUQs]]]"
+topics: ["Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 Welcome to track number two of Loving the Mega Church. Now, the theme for our camp this year is the Holy Spirit and the Mega Church. We will be sharing for just about 30 minutes. And then we'll go and sleep so that we can start early tomorrow morning. Amen.

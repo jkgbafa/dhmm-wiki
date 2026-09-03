@@ -9,6 +9,8 @@ duration_min: 78
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/SEBOKENG, SOUTH AFRICA  THE NARROW WAY OR THE BROADWAY  DAG HEWARD-MILLS  2015 [mooXFUyVsIw]]]"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 And ladies and gentlemen, it is now time for our offering. Hallelujah. All those who are sitting to my extreme left and right. Wherever you are tonight, the offering you give. Please look into your bag, your pocket, your wallet, bring out a worthy offering.

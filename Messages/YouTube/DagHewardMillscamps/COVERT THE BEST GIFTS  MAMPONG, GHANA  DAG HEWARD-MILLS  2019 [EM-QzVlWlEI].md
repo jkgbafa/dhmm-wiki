@@ -8,6 +8,8 @@ year: 2019
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Salvation", "Salvation/The New Birth", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/prayer", "topic/salvation", "topic/salvation/the-new-birth", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 Hallelujah do you remember the prophet prophesied that there is a train bringing some loads you don't remember that do you remember the latter part of the session the prophet said that it's a train bringing some loads I just want you to know that that train is coming right now I said I want you to know that train is coming right now as we give God a shout yeah as we give God a shout yes Lord y as we give God a shout yay hallelujah hallelujah you know right when we finished as a prophet prophesied some

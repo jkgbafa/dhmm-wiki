@@ -8,6 +8,8 @@ year: 2012
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 God has come to visit us here in Kabul. Deus people visitando lineagabu and you are one of the people God's power is going to touch tonight. The evangelist has come tonight. Evangelist I be joined in house. God is going to do something great in your life.

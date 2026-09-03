@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6BjOdcf6IE4"
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 hallelujah let us pray father thank you so much for this morning thank you for the opportunity that we have Lord in you to receive your word Lord we ask you to lead us to guide us to minister to our hearts thank you for your blessing in the name of Jesus amen you may be seated in the presence of the Lord are you glad to be in church well I'm glad to be with you here I believe Reverend Ellie has been blessing you every Sunday powerfully and I am just interrupting what he has been doing powerfully

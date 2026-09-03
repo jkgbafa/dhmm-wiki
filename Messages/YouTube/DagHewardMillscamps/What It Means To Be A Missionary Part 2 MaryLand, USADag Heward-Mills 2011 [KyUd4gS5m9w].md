@@ -8,6 +8,8 @@ year: 2011
 duration_min: 185
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Missions", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/missions", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 father we are so excited this morning in Jesus name amen amen sit down please now another meaning of the word the third thing that it means to be a missionary is to be a missile so you can be a missionary or messenger you can be on a mission or you can be a missile so to be a missile means to be a rocket a rocket now the different the difference between a rocket and a lane is the speed with which you can be sent now most successful missionaries are Rockets they go very fast to where

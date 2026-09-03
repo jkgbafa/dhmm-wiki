@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2007
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 And faithfulness is one of the disturbing um things. How many want your husband or wife to sleep with someone else? How many don't want it? All right. So tell somebody sitting by you, try not to sleep with someone else. You must try very hard. Amen. What do you think? Is it a good idea? Try hard not to sleep with anybody else apart from your husband or your wife. All right. But it is something that happens quite commonly. Is that not so? H or you don't understand what I'm saying? Is this something that happens in Deban?

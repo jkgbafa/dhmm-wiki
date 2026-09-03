@@ -8,6 +8,8 @@ year: 2018
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 Please be seated. Are you ready with a video? Please be seated. We're going to watch a short clip for seven minutes. Listen. Hello. God has blessed us to have crusades. And I just want to show you a short clip that shows the power of God that has been working. And I know that as you watch it, the anointing is coming on your life to do great things for God. Hallelujah. Hallelujah. Let's go. Oh. Oh. Oh. Oh. Oh. Oh. Oh. Oh. Oh. with a shattered life. A teenage girl with a choice to make. It's crowded here

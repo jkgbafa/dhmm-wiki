@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=99gfo-NgSnw"
 duration_min: 228
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah are you blessed that you are in church well I want to spend some time everyone standing there some gentlemen I think they are gentlemen they must be gentle they really must be gentle right at the back if you can help them wow father thank you Jesus want to spend some time this morning to pray and um like Jesus says in John 15 167 if ye abide in me and my words abide in you then ye shall ask whatsoever ye will and it shall be done unto you and this morning I want to pray with

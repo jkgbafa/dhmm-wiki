@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=qC6H7iNNscQ"
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah one of the covenant names of God is to Hoover child that is the God who is not provide a hallelujah Shore to the Lord that a lot is my provider so to supplier every need according to his riches in glory by Christ Jesus put your hands together for Jesus what else can imagine how many believe that God will provide your heritage don't need oh my beloved don't need of a husband a wife a little bit shop you're provided yamadera a home I provide is where it's a mission for me for me for me Jehovah

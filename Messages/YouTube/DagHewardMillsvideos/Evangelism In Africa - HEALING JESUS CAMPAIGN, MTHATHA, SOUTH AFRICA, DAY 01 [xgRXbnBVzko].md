@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xgRXbnBVzko"
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 Heavenly Father by what sources Fellini thank you for tonight yeah Penelope sugeun sure what a blessing super burnin together yeah a new Tata who battle intolerant Tata thank you that in Tata will never be the same again us all to pin to fall in that God your power is here with us today I'm sorry sook we give you fun when we get the banca we give you praise so when you ever do more we ask you to guide us yes then we'll discover it we welcome you why - yo punk ass Jesus name command you

@@ -8,6 +8,8 @@ year: 2024
 duration_min: 28
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 but young element number 32 remember we are going all the way up to 87 young element speed and rapidity one of the things about a young person is that they are fast walking when you see an older person walking you see them taking their time isn't it true and the young people will be going and even they'll be skipping jumping along they running Tre are not Tre but the elderly will be walking now in your fight against the enemy speed alone will destroy the enemy in Germany during the second world war Hitler developed a wellknown

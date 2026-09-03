@@ -8,6 +8,8 @@ year: 2025
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 Shout to the Lord. Raise your hands. Applause, applause, applause. Scream loudly. Hallelujah. If I have all the things of this world and lose Jesus, I have lost everything if I have Jesus. Scream, scream, scream, scream, scream, scream, scream. If I have Jesus, I have everything. Sing. It is more precious than anything. Get up, get up, get up. Cab, please, shepherds, get up, get up. for the Lord . If I have all the things in this world, I have lost, Jesus, I have lost everything. If I have Jesus, I have everything. It's more precious than you

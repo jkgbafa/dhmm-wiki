@@ -9,6 +9,8 @@ duration_min: 67
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/SEE AHEAD! PREPARE FOR THE FUTURE  GTWC BLANTYRE  DAG HEWARD-MILLS  2025 [NXP8ZnKoukY]]]"
+topics: ["Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 Chapter 24. If you cannot read, you cannot lead. Amen. Now I always know people who don't read. If you cannot read, you cannot lead.

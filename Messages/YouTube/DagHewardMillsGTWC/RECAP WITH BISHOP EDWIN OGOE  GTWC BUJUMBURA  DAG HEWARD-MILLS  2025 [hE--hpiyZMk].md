@@ -8,6 +8,8 @@ year: 2025
 duration_min: 28
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 How many of you know that God has really spoken to us? I believe that your ministry will not be the same again. I believe that God has visited us greatly and in this final session. I cannot wait for what God is going to say to me. I believe that God is anointing the evangelist to bring me a word for my life. Remember that this is the end of this conference and the Bible says that better is the end of a matter than the beginning. So we thank God for every experience you have had already. But

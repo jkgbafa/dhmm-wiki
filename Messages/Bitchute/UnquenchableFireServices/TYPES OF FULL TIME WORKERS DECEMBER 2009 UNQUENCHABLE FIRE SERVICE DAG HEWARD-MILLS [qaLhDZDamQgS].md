@@ -8,6 +8,8 @@ year: 2009
 duration_min: 114
 source: "whisper"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 You may ask me why I serve the Lord. Is it just for heaven's game? Or to walk those mighty streets of God and to hear the angels say it just to drink from that fountain that never shall run drive or just to live forever, live forever and ever in that sweet old life, but it ever was promised to me, neither God's promise to live eternally, it's been work just having the Lord in my life. I was living in a world of darkness, He came and it brought me the light, for I was living in a world of darkness, he came and brought me the light.

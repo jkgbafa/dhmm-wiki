@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=WueLgfYvhKg"
 duration_min: 140
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/the-holy-spirit"]
 ---
 
 father thank you for the great blessing you give to us we are excited thank you thank you for the blessing of the holy spirit that is given to us in the mighty name of Jesus thank you for everyone who is here with us and for all those who are here with us online we are grateful Jesus you are holy Jesus you are beautiful we thank you Lord in Jesus name amen you may be seated now I want to welcome all of you who are online I want want you to share and subscribe because this is

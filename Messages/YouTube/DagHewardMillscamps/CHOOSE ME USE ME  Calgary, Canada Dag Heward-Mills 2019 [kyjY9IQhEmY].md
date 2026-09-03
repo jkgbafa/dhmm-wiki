@@ -8,6 +8,8 @@ year: 2019
 duration_min: 168
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 father thank you for the blessing you've given us today what a blessing it is to be here we thank you and we ask you to guide us by your Mighty holy spirit amen thank you for what you are doing in Canada thank you for building a mega church winning many Souls changing many lives we are grateful heavenly father in Jesus name and everyone said amen hallelujah you may be seated are you excited to be here wonderful it's a blessing to be here um I think it was last year yeah in Calgary I said that we

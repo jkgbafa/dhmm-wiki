@@ -8,6 +8,8 @@ year: 2008
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Doing something for money, change the thing. Maybe you have to sing something, but you sing another one. So when I sing this one, this guy, this guy will like me for give money. I went to a church, and when they when you preach, they come and put money when you are preaching. I said, Oh yeah, it's a very common thing now.

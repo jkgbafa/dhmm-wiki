@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/qquklvl52lxs/"
 duration_min: 48
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 We thank God for this wonderful service. Christ is risen. Amen. Now, the subject of my message this morning is Christ is risen. We are forgiven, and we must forgive.

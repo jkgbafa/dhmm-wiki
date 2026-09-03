@@ -9,6 +9,8 @@ duration_min: 14
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/BE UNPREDICTABLE IN WAR  ELMINA, GHANA  DAG HEWARD-MILLS  2008 [_zRaDug52Sk]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 Welcome to track number 15 of warfare keys. Key number 26. Be unpredictable in war. Be unpredictable. You see.

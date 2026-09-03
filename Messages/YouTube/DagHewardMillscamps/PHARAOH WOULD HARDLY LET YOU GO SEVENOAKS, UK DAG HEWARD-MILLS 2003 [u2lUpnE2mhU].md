@@ -9,6 +9,8 @@ duration_min: 38
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PHARAOH WOULD HARDLY LET YOU GO   SEVENOAKS, UK DAG HEWARD-MILLS  2003 [u2lUpnE2mhU]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to track number one of the present. Father, we thank you so much for your wonderful presence, Lord. We love you. We welcome you in Jesus' name. Amen.

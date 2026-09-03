@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tpqpw/"
 duration_min: 62
 source: "whisper"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Well, you've had your quiet time now. Let's pray. Father, thank you for tonight. Thank you for the opportunity, Lord, that we have in you to serve you, to follow you, to obey you. Dear Lord, we ask you to speak to our hearts today.

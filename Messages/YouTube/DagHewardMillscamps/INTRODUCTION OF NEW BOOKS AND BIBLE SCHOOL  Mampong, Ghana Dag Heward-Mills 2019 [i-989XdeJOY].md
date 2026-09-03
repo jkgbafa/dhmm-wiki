@@ -8,6 +8,8 @@ year: 2019
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 I'm here for an encounter the group that is going to come after us who are coming from different places in case you get a chance to be around you will see that many of them when the session is over they'll come and lie here and pray someone come and kneel and pray someone want to walk where he walked and believe God someone to touch things because they believe in impartation but we are not like that right when it is break oh charie let's go and sort out some things and come you are not yet desperate

@@ -8,6 +8,8 @@ year: 2010
 duration_min: 86
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 There's a time to work, but there's a time to pray. Try to find a quiet place to hear his voice and see his face. Can you hear the spirit calling? Come away. Come away.

@@ -8,6 +8,8 @@ year: 2023
 duration_min: 59
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 you know one day something happened to me I want to tell you this story you know I belong to a group some years ago now this was a very powerful group yeah now um we had a leader we had a leader right we had a leader and uh there were some stories that came about the leader yeah now when I heard the stories I was like one of those Pharisees remember the people who wanted to Stone yeah so I said and there was a special meeting that was being organized all the people were being brought

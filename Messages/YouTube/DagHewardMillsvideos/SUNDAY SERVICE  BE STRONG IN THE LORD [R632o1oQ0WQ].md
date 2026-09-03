@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=R632o1oQ0WQ"
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/salvation", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Ephesians chapter 6 verse 10 my subject is be strong in the Lord amen be strong in the Lord be strong in the Lord amen in Ephesians chapter 6 verse 10 it says finally my brethren be strong in the Lord and in the power of his might be strong be strong God wants you to be strong okay finally my brethren be strong in other words God wants you to be strong so be strong depends on you it didn't say pray for strength it didn't say let somebody lay hands on you so that you become strong they

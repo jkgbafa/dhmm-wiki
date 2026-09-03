@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=riy2kYjdCFM"
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer"]
 ---
 
 Hallelujah Church Hallelujah is God not awesome is God not amazing oh we can know little about God we can know little about God we can know little about God yeah I want want had Prophet an old message teaching them a song about driving say she sing a song he's driving me I know that my God is driving me it's not even the driver who is driving me it is God who is driving me I told one of the chaos in the church who's traveling to kumas said God is the one going to drive that VIP

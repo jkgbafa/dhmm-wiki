@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=1_FDTDaoT4k"
 duration_min: 247
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I will bless the Lord oh my soul and all that is within me bless his home holy name I will bless the Lord all my soul and all that is within bless is ho name lift your voice and sing this song I Will Bless The Lord oh my soul my soul and all that is within me and all that is within me bless lift up your hands and let's sing it together I will bless the Lord oh my soul and all that is Within Me Lord and all that is within this is Holy for he

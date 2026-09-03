@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/dP6h4Tl4YXHl/"
 duration_min: 81
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Over the mountains and the sea, your river runs with love for me, and I will open up my heart and let the healers set me free. I'm happy to be in the truth. And I will take it live for him. And I will lower sing up praying, over the mountains and the sea, over the mountains and the sea. Your river runs, his river runs, and I will open up heart and let the healers.

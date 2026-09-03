@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=elFOFH6I0YA"
 duration_min: 17
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/loyalty-and-disloyalty", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 How to find Dag Huard Mills videos. Take any device, your phone, laptop, tablet, or even a smart TV. Now go to the search bar and type YouTube. YouTube is where people go to watch videos. All kinds of videos, including preaching messages. This is the YouTube website. When you're on YouTube, look at the top of the screen. You'll see a little white box or a magnifying glass. That's the search box. Tap there and type DAG Huard Mills. Then press the search or enter button. Now you'll see many videos appear. Look for the blue round picture. Right

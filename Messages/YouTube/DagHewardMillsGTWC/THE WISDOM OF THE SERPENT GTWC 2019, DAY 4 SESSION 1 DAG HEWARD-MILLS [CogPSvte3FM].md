@@ -8,6 +8,8 @@ year: 2019
 duration_min: 210
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel", "Wisdom"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel", "topic/wisdom"]
 ---
 
 Amen. How can be that thou my Lord? Oh bless his name. And can it be an interesting message? Lift your voice sing amazing.

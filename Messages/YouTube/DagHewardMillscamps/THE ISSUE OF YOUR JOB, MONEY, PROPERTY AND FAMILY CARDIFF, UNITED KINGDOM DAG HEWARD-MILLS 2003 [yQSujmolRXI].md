@@ -8,6 +8,8 @@ year: 2003
 duration_min: 309
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Prayer", "Wealth and Finances"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/prayer", "topic/wealth-and-finances"]
 ---
 
 Welcome to track number 17 of Bima. Okay, then said he unto him, verse 16. A certain man made a great supper and bade many and sent his servants at supper time. Is that not so? Say to them that were bidden, come for all things are now ready.

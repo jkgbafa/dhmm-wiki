@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Yz4XINAtDoU"
 duration_min: 235
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Salvation", "Salvation/The New Birth", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/salvation", "topic/salvation/the-new-birth", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 today you shall have your encounter with the prophet are you awake or you asleep the literal words of the Prophet are what is going to change you the words I don't need to fall asleep I don't need to look so diplomatic I need you to have in mind that I'm today is my set time to receive something from the Lord are you here with me this morning behold I have received the Commandment to bless the church and he has blessed and no man can reverse it lift your hands with me this morning except those who

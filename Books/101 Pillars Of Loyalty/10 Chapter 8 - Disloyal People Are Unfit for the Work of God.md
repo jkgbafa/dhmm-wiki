@@ -4,6 +4,8 @@ book: "Pillars Of Loyalty"
 book_number: "101"
 chapter_number: 10
 type: book
+topics: ["Loyalty and Disloyalty", "Ministry and Pastoring", "Spiritual Warfare", "Spiritual Warfare/Deliverance"]
+tags: ["topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance"]
 ---
 
 ### Chapter 8\

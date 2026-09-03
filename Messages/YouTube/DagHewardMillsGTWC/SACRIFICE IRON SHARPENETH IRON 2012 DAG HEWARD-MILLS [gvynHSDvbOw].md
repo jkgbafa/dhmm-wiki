@@ -8,6 +8,8 @@ year: 2012
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Do you love God? I said, Do you love God? Are you sure you love God? Wow. God is going to change our entire ministries are going to change by this one thing, loving God.

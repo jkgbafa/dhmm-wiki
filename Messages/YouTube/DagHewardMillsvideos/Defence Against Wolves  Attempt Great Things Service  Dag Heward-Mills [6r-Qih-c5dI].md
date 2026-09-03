@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6r-Qih-c5dI"
 duration_min: 142
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 and that deception has failed so many people This Is How They think there's nothing God is not be there's no real God so most people don't go to church most people don't believe in God and that's a big dis he's fulled the world one time I was working at an airport residential area early in the morning and as I was walking through the streets I saw many many big houses and the spirit told me that you know there may be big and beautiful houses but whether there are happy people inside the house you get what

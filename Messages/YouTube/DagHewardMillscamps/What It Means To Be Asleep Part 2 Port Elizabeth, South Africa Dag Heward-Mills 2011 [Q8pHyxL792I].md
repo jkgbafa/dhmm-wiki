@@ -8,6 +8,8 @@ year: 2011
 duration_min: 161
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Vision and Direction"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/vision-and-direction"]
 ---
 
 amen you may be seated what does it mean to be asleep amen number one there there are a lot of points you must have always a lot of points then your life will be very pointed amen amen now when you cannot when you are asleep amen am your eyes are closed is it not true and when your eyes are closed you cannot see and when you cannot see you have no vision so a person who is asleep a Christian who is asleep it's like this no vision you cannot sneak you cannot see cannot see here

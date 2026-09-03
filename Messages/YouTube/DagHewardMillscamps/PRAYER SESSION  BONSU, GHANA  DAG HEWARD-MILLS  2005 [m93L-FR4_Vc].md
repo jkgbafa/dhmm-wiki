@@ -8,6 +8,8 @@ year: 2005
 duration_min: 10
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 welcome to track number 13 of baliz it was a rainy night and I was praying praying for myself and I will never forget that prayer way on that road as I walked up and down I prayed Lord let me be fruitful I'll never forget this was in 198 three I prayed Lord let me be fruitful I walked from one end of the road to the other up and down in a village in England praying I want to be free fruitful and I when I look at my life I think God has answered that prayer although

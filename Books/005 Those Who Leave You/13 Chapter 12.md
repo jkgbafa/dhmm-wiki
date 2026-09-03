@@ -4,6 +4,8 @@ book: "Those Who Leave You"
 book_number: "005"
 chapter_number: 13
 type: book
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 ### Chapter 12\

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_7F3fPQwaRg"
 duration_min: 136
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Judgment", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/judgment", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah what a blessing father we are thankful and grateful for such a beautiful day you've given us thank you for calling us together to seek your faith and to seek your strength we want to welcome all of you to flowchest this wonderful morning um call somebody text someone like the floor Pastor said call someone reach out to someone and together we are seeking the face of God why don't you rise not lift your hands to God and bless him with all that you have and tell him that Lord I'm Grateful I'm thankful and praiseful I

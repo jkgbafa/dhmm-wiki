@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=1If7PIpV3rs"
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 so much man and I truly believe that our lives will not be the same again hallelujah everywhere a drop of the blood of Jesus touches that place is cleansed that place is purified that place never remains the same and I have no doubt that McKinney is changed permanently in Jesus name Amen oh I said Amen I mean I want you to put your hands together for that part they've also done very well you may take your seat now we are about to continue that that night you just take your seat clap your hands on the

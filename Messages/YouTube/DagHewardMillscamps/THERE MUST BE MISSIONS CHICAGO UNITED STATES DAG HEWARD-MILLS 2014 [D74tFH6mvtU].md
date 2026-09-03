@@ -9,6 +9,8 @@ duration_min: 164
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THERE MUST BE MISSIONS  CHICAGO   UNITED STATES   DAG HEWARD-MILLS  2014 [D74tFH6mvtU]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Missions", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/missions", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Where I'm coming from is hot. Very hot. But I can see that you are freezing. But I believe you are not freezing in your hearts. Your hearts are on fire.

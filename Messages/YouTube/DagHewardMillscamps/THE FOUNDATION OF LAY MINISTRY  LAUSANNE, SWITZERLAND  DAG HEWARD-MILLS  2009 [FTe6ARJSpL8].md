@@ -8,6 +8,8 @@ year: 2009
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 Hallelujah father we thank you for your blessing Jesus name amen amen you may be seated hallelu all right all right good now the next Foundation as I as I was sharing there are some things which the ministry hinges on Amen and I've given you some of these is that not so the ministry depends on them all right for the ministry to exist okay it depends on these things existing and without them Ministry does cannot exist Hallelujah so that is why we are calling them foundations Mighty foundations Mighty foundation and one of them is the what's

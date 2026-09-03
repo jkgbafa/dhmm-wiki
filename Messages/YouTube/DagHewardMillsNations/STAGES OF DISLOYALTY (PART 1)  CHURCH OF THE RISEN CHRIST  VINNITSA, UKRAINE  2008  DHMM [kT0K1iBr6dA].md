@@ -8,6 +8,8 @@ year: 2008
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 let us pray Heavenly Father we thank you for this time and we pray that you speak to our hearts let your will be done stabilize our churches stabilize our Ministries let your spirit re in US Lord we are thanking you you in Jesus name amen amen you may be seated right this afternoon I want to share with you about loyalty and disloyalty and I have um my book in Loy uh in Russian loyalty and disloyalty I believe it will be a blessing to you amen amen now why do we have to preach about loyalty because

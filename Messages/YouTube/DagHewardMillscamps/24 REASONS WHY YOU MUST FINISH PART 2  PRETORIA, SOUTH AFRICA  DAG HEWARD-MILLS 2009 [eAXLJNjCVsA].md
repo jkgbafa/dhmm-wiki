@@ -8,6 +8,8 @@ year: 2009
 duration_min: 225
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we must finish the works that we have been asked to do so that we bring glory to God John 17:3 and this is life eternal that they might Know Thee the only true God and Jesus Christ whom thou has sent I have glorified thee on Earth I have finished the work which thou gavest me to do oh now father glorify thou me with thine own self and with the glory which I had with thee before the world was amen am what does it say I have glorified thee on Earth I have finished the work which

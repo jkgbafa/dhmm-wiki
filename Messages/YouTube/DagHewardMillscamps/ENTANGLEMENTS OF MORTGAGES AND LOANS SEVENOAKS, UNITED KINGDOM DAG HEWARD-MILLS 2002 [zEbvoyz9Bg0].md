@@ -9,6 +9,8 @@ duration_min: 37
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/ENTANGLEMENTS OF MORTGAGES AND LOANS  SEVENOAKS, UNITED KINGDOM  DAG HEWARD-MILLS  2002 [zEbvoyz9Bg0]]]"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 Welcome to track number 16 of all out number one mortgage. I'm ringing directly. No operator direct. No, I guess you see, there are things which they fail you. You see, when I'm saying, look, listen, the whole camp is that.

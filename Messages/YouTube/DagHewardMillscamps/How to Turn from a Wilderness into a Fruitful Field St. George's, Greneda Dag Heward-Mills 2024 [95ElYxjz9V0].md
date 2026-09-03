@@ -8,6 +8,8 @@ year: 2024
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 Wow. All right. Glory to God. Now can I have the notes back, please? We are on number one, two, three, four.

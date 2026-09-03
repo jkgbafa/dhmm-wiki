@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=V7TlgG4DvbY"
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism"]
 ---
 
 Oh ah Oh via Apple could appear dr. Swan but not one person mom have had severe pain in this leg hello dump I use my pit miles mellough PA she could not walk well and if a party machine will show us how to use one before Komatsu my java forgiving easy about commercial come on about that's how sweet you was before some time with your pain nice but you know that all of us are here because this Jacob a cute end tonight are you excited tonight you know I guess you better answer that you're a

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=sHQijoLa1Qc"
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Oh Oh Oh we we we hallelujah Wow let us pray father we thank you so much for today and we thank you for your great blessing that you have given to us this morning that we should be in your presence and we should enjoy your power and your spirit in a special way Lord we ask you to guide us to lead us bring us into your will we thank you in Jesus name Amen you're all welcome to iron sharpening iron MN 0 st Delavan renew our local franchise very beautiful face alleluia alleluia this time I'm

@@ -9,6 +9,8 @@ duration_min: 89
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/UNDERSTANDING THE ANOINTING  NEW JERSEY, USA DAG HEWARD-MILLS  1999 [ns4bqyMgJ58]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Welcome to track number eight. So going deeper and doing more here. Father, we thank you in Jesus' name for this time. Thank you for what you have done, what you are doing, what you will do. Oh, it's wonderful.

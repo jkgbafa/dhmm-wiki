@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Now I want to share with you on what I call the privilege. Yes. The privilege. The privilege of being a shepherd. And a pastor. I believe that it's a great thing to ever become a pastor and it's one of the greatest privileges. If ever God allows you to be a pastor or a shepherd, you know, you've been given the a very great privilege. A privilege is something like an advantage that is given to some people but it's not given to everybody. Yeah. That's what it means. A privilege. It is a benefit enjoyed, a special exemption

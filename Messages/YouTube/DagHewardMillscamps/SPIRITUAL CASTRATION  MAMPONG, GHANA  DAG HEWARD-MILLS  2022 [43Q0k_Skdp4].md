@@ -8,6 +8,8 @@ year: 2022
 duration_min: 190
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 there's something I want us to thank God for we don't usually do that we don't do it often if at all but I want us to thank God for our daddy's life our pastor's life I tell you it's a blessing to have him as your pastor you know as your father there are different types of fathers but but God chose us and give us the privilege to be fed by an anointing that we cannot have enough words to describe and I don't want us to take it for granted don't take it for granted don't take

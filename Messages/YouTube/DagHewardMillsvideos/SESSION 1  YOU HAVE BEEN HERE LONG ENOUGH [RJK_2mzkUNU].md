@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=RJK_2mzkUNU"
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 father we ask you to guide us by your spirit lead us into all truth let your will be done father we thank you for your grace for your mercies thank you for your love Lord we believe that you are with us you have brought us this far we thank you in Jesus name Amen all right you may be seated hallelujah are you ready for Easter convention with a difference all right this is that convention I believe that is very prophetic amen now if you turn with me to Exodus I would like to show you something

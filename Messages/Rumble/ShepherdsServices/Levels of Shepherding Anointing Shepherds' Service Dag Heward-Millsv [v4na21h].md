@@ -7,6 +7,8 @@ url: "https://rumble.com/v4na21h/"
 duration_min: 72
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Thank you so much for the blessings that you have given to us today to love you and to worship you and to serve you. We ask you to lead us and guide us. Thank you, Holy Spirit. Jesus' name. Amen.

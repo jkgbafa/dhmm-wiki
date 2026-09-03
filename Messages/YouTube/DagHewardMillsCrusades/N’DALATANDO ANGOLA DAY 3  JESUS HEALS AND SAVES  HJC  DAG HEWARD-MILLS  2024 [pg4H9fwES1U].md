@@ -8,6 +8,8 @@ year: 2024
 duration_min: 70
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit"]
 ---
 
 Shout, Lord, clap, clap for Jesus when I see what He did for me I have peace Sing with me when I see what He did for me I adore you I praise you to the Lord [ Applause] power from my heart I adore you my Lord deliver you if you are Lord You are healer I adore you oh ah you are Lord You are healer I adore you I adore you when I see like this when I see what He did for me I have peace I have peace Sing with me peace in my heart

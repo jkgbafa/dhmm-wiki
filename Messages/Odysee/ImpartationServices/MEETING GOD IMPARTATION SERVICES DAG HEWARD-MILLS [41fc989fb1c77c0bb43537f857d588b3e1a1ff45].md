@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/meeting-god-impart
 duration_min: 92
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 We are looking at a subject which I think we may talk about for some time called meeting God. Amen. And I think that most of us need to meet with God. We need to meet with God. Amen.

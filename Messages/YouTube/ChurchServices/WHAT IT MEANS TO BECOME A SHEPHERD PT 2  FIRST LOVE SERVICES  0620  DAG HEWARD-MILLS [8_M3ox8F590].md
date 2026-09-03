@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8_M3ox8F590"
 duration_min: 205
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Prayer/Intercession", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/prayer/intercession", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah can we all stand to our feet and enter into the presence of the Lord thank you Jesus we bless you Jesus we are grateful and thankful for giving us another opportunity would you mind giving God thanks right now bless God for the privilege to join to be here right now give him praise give him thanks let him know that you are grateful for another day another opportunity another chance to stand before him to seek him to seek his strength to talk to him to let him know that you are really grateful we bless you

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=TegAvu9dmh4"
 duration_min: 163
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I will agree we lik you had this you hahaha being so control or we weren't you know I will worship you Oh Your Honor please - Arthur mrs. King you are come on you want to paint me crazy if you hire I replace your name Wow yeah you are Oh will lift you up where's all of my tuning you are yes you are yah yah you are you are yes you are I'll just tell him you are Lord you are Lord and song him tonight lift up his name and song about every situation Oh you

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ZmRUePy6yMo"
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Somebody shout Hallelujah. Shout a powerful hallelujah. We want to celebrate the grace of God that is upon God's servant with us here today. We want to thank God for the great work that has happened in the city of Palape. We are truly witnessing a historic event.

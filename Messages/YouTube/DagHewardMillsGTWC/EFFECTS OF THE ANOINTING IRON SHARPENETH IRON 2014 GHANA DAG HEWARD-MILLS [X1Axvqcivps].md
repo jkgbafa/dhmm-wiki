@@ -8,6 +8,8 @@ year: 2014
 duration_min: 20
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Jésus réveille, Jésus, Gloire, Jésus, Jésus qui guérit, il n'y a personne qui est semble à toi, ta puissance plus grande que tout. Soulèvement crié pour Jésus. Oh, à mon cas, Jésus, merveilleux, Jésus, Gloria Jésus, Jésus qui guérit, il n'y a personne qui est semblable à toi. Ta puissance plus grande que Dieu. Au nom de Jésus, Satan sans fouille.

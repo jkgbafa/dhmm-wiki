@@ -8,6 +8,8 @@ year: 2015
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 We are grateful to God for this great time that we are having. I believe that we're going to receive a beautiful song and then we carry on. Let's welcome our Aida to give us one of the beautiful pieces. So glad you can make it here tonight for this meeting. But can you excuse for one second?

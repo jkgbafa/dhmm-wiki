@@ -4,6 +4,8 @@ book: "The Gift Of Governments A Bishop 'S Governing Handbook"
 book_number: "117"
 chapter_number: 66
 type: book
+topics: ["Church Growth"]
+tags: ["topic/church-growth"]
 ---
 
 ### CHAPTER 64\

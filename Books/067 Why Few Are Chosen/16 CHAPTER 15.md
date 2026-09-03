@@ -4,6 +4,8 @@ book: "Why Few Are Chosen"
 book_number: "067"
 chapter_number: 16
 type: book
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Missions", "Missions/The Nations"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/missions", "topic/missions/the-nations"]
 ---
 
 ### CHAPTER 15\

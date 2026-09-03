@@ -4,6 +4,8 @@ book: "The Tests Of The Righteous"
 book_number: "102"
 chapter_number: 9
 type: book
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 ### Chapter 8\

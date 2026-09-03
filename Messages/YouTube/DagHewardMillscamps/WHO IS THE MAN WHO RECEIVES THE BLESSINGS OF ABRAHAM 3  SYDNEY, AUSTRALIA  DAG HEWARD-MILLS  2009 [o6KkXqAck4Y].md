@@ -8,6 +8,8 @@ year: 2009
 duration_min: 91
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 why is a person who does not pay ties why is he cursed because people who do what curse with the curse of what Malachi number two and number three people don't pay TI those who break the laws of God which are what 15 cases of what material Prosperity 30 cases of what captivity captivity crop failure business failure disease Insanity other and then 26 cases of what cases of defeat you say what Sayes of defeat new 30 new cases of defeat and what business failure captivity crop failure hey crop failure all the seeds You' planted in

@@ -8,6 +8,8 @@ year: 2018
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 another shout you may be seated so join me to thank Pastor P for the great work he has done here in Canada John me to thank where is Pastor Andy clap your hands for him Pastor Larry but listen to me very carefully very soon we we will have their send of parties the church is being handed over to the little boys and the little girls as said the little boys are the ones going to town as said the little boys are the ones going to town can I hear a shout now congratulate the nearest Pastor

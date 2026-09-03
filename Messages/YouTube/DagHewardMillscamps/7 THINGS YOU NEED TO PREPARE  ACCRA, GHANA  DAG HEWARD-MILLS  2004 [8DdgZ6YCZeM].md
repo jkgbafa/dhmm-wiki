@@ -8,6 +8,8 @@ year: 2004
 duration_min: 65
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 now at this very point I just want us to jump off and come to certain things that you must prepare yourself amen amen sanctify yourselves and come with me to the sacrifice now this is again speaking about preparation so I want to give you about seven things that you need to prepare and have if you're going to do well in the ministry amen or seven foundations that you need to lay amen I don't know if there are seven there may be more there may be less but about seven are you there yeah number one you

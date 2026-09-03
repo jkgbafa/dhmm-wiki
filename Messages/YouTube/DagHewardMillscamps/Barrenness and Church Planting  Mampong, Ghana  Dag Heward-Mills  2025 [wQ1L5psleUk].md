@@ -8,6 +8,8 @@ year: 2025
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting"]
 ---
 
 Hallelujah. Amen. Hallelujah. Amen. Please come in. Come in. Come in. What a blessing. What a blessing. How many of you believe that your prayers are incense before the Lord? Every prayer you have prayed are being answered by God. Amen. Amen. And I believe that every one of us here is going to fulfill this prophetic church planting code. That you are going to be a pastor who will be a church builder in a church building with 60 members and your crown will be waiting for you in heaven. Are you excited about that? All right, let's settle

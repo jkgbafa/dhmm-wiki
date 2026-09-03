@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ZvJ6LCZOUjk"
 duration_min: 158
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 what you do mom shame I don't why to make me to see my country see hallelujah hallelujah father thank you for this opportunity we're messy posit opportunity and this pastors conference who will set conference the pastor speak to our hearts we ask pal and lucas duda mendonça here get epistles cool movie in Jesus name value knowledge increase amen amen I say a guseva play hallelujah hallelujah this morning I want to actually share with you about the art of following shri mataji mera potassium ooh love dis Weaver and I'm preaching from my book the art of

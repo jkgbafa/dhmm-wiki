@@ -8,6 +8,8 @@ year: 2014
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 And no one better know what soon I brandia was on in no baby and all better no word in this in Nababa West in no word in this in all in now from Maitifa butter at the home and I won't chew no more in the mo bet sni what the sun for dinner journey free bone the home never yeah I want things I'm our neck sign what yet you're watching Nasu have been no more it doesn't bone it my guy we don't be the big answer that sacoma you may say right mommy sacoma men I

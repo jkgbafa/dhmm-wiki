@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=rTZICQ5mhCs"
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Witchcraft and Jezebel", "The Holy Spirit"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/witchcraft-and-jezebel", "topic/the-holy-spirit"]
 ---
 
 Hallelujah let us pray I want us all to just ask God to speak to our hearts this morning thank you Holy Spirit for your blessing for your word that is guiding us today in Jesus name amen amen you may be seated well we are excited to be here and I know that God is going to speak to our hearts amen what did I tell you I was going to preach about today sweet influences of what the Holy Spirit wow okay now how many know that there are many things that can influence you H there are

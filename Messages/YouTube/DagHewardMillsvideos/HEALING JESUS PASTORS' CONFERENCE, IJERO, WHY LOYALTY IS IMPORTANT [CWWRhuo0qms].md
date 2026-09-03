@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=CWWRhuo0qms"
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 this morning I want to continue on what we were sharing yesterday Laroy year effect assuaging aunty at Ambala Wassily lorry lakeyanna and what I am sharing is about the ministry on to the melatonin upon a channel share I have three books Moni we met ik on the art of shepherding yachting ball and the art of leadership at ECB attention during these three are apps method are you anxious when we see an ad it means that it's not just straightforward tabasco eBay is shaky Chantal o Donna just simple all there will be oceanic okuru new filly

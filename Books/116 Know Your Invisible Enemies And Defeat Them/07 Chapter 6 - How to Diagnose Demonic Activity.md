@@ -4,6 +4,8 @@ book: "Know Your Invisible Enemies And Defeat Them"
 book_number: "116"
 chapter_number: 7
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Chapter 6\

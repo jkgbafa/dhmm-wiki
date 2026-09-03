@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-tPNlkLGXPA"
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Grita para o Seigneur. Ma sea grita con força! Grita con força! Tu precisas di Jesus! Tu precisas de vida!

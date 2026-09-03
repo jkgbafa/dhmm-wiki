@@ -4,6 +4,8 @@ book: "Transform Your Pastoral Ministry"
 book_number: "017"
 chapter_number: 8
 type: book
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 ## Chapter 7

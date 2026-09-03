@@ -8,6 +8,8 @@ year: 2022
 duration_min: 231
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 and the Bible says that wo unto them that rise early to drink alcohol or wine and blessed rather are they that rise up early in the morning to se God hallelujah ask your neighbor have you had some wine have you had some alcohol you haven't and that's a good thing amen so Psalm 92 and verse number one says that it is a good thing to give thanks unto the Lord and to sing praises unto thy name oh most high Hallelujah and um we want to take some time this morning to thank God for the rest

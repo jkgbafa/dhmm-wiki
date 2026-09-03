@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u378z/"
 duration_min: 51
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah. Lift your hands with me and just worship the Lord. Breathe on me. Breathe on me. Holy God.

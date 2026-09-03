@@ -8,6 +8,8 @@ year: 2017
 duration_min: 153
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Kinds and Waves of the Anointing", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/anointing", "topic/anointing/kinds-and-waves-of-the-anointing", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 A great door is open unto you, but there are many adversaries. Be strong in the Lord and courageous. Rise up today and take your journey. You must pass over the river and behold I have given into thine hand. Seahhorn the Almorite, the king of Heshbon. I have given you his land. Oh, so come on and take territory. Whoa. Take territory. Whoa. [music and singing] Take new territory. Oh, new territory. Oh. Oh. Oh, a great door is open unto you, but there are many adversaries. Be strong in the Lord and courageous. Maintain your aim. Sustain the

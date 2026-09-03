@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=qmpxDy_5DvY"
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 amen let us pray Heavenly Father thank you for this morning and for the great opportunity we have in you to speak your word to receive your word Lord we ask for your grace to guide us we ask you to lead us by a great power and great wisdom we thank you Lord in the name of Jesus I mean you maybe see that in the presence of the Lord hallelujah amen now tonight or today we are studying prosperity amen how many wanna prosper how many one gold how many one silver how many one diamonds how many

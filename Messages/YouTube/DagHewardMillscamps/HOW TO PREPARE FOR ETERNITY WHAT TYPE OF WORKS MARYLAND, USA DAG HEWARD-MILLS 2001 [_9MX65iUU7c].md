@@ -9,6 +9,8 @@ duration_min: 36
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HOW TO PREPARE FOR ETERNITY  WHAT TYPE OF WORKS   MARYLAND, USA DAG HEWARD-MILLS  2001 [_9MX65iUU7c]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer"]
 ---
 
 Now the next thing that is going to come up is that you are going to be assessed. Amen. By the type of good works that you've done. Amen. How the works are.

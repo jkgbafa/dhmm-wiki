@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zEzOQuSG5pM"
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wisdom"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wisdom"]
 ---
 
 hallelujah hallelujah Bank Lord Jesus for this great blessing Nestea senior sheep who said gone benediction Amin Amin you may be seated I think I was subject as the Wilson for the work of God no tensile Associates fully serve the Jews you need to have wisdom so that you can do mighty work she happens when the science professor granted how many of you have been able to connect mighty works with wisdom communal who on people happen in chocolate roses in a sachet only six of you see person Selma whose mighty works are connected to his wisdom

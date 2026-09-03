@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Church Growth", "Church Growth/Church Planting", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Vision and Direction"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/vision-and-direction"]
 ---
 
 Chapter 4, the Jerusalem church. There are two churches you must take note of in the Bible. Number one is the Jerusalem church. 10 things you must know about the Jerusalem church. Number one, the Jerusalem church was the first church in the whole world. Number two, the important people were based at Jerusalem like how the pastors are based in Ara. Number three, there they were the church that had direct instructions from Jesus. Go into the world and preach the gospel. Number four, they were a prosperous church. They had money. The Bible says no one lacked anything.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8u_PiB4d8LA"
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you the toilet fills our heart he coming in or yes praising already ding I'll sweep the manatee inside Oh see blood empty wasting Huey ah take up your cross everything don't be a say that you know count the pause and see Tommy Oh brah follow what I could do me oh you're key to the war you are you satisfied have you forgotten what you me why you need it my mama it's all the FAA that you know that you notice how fun and safe ah Oh and final you know in say that you sold it

@@ -8,6 +8,8 @@ year: 2000
 duration_min: 76
 source: "whisper"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Well, this morning, early morning, well, late morning, we are privileged to be in the mega church. I said in the mega church, where the mega word comes live. And we thank the Lord. We have a man that is anointed. Been teaching for many years, and the teaching that transforms lives and changes lives.

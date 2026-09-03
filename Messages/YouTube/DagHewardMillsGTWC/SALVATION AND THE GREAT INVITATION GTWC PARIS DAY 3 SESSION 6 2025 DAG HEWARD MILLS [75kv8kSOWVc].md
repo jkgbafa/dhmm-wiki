@@ -8,6 +8,8 @@ year: 2025
 duration_min: 4
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 Number five, section five section numerous salvation and the great invitation. Come. Everybody say come. Vene. Come to God.

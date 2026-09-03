@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ZVb-uw_M6p8"
 duration_min: 183
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 now I am people misophonia chiffon hoodie I already ah Oh Oh well ah knowledge I'm a while I keep on Nutella and my fear what if you goggle pocket you know nylon back to Sun Woodson what is a scandal and funnel now listen my problem is my lumbar Oh lovely lovely young voters I totally love oh darling I was horrible I wasn't people Dorian I mean anyone may wonder for me and if I pepople numbers liangzi let's get one on my one Dolokhov border you I said your work online yummy papa what'd you say hey

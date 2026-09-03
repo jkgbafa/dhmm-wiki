@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Now the next topic is what does the Bible say about madness? Number one, the Bible has 10 things to say about madness. Number one, madness is something found in mankind. It must be studied and has also been greatly analyzed. Madness is something found in mankind. All right. Ecclesiastes chapter 9 verse three. This is an evil among all things that are done under the sun. That there is one event unto all. Yay also the son heart of the sons of men is full of evil and madness is in their heart while they live and after that

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=CnZcV3Otufw"
 duration_min: 164
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 So long ago I heard a voice inside my heart And deep within I knew each word was true But I was young and couldn't see the road that lay ahead of me So many things it seemed I had to do Each path I took just led me further from the truth And somehow I knew that I was wrong And as I heard these words again Tearing down each fear within The time has come to answer to his call Now I'm learning to live like Jesus Learning about his love for me Learning to live like Jesus Trusting every day he will make me what he wants me to be Now that I've pleased my life within his mighty hand I know that love will always guide my way The past is just a memory Nothing like it used to be And I'm so glad that I can truly say That I'm learning to live like Jesus Learning about his love for me I'm learning to live like Jesus Trusting every day he will make me what he wants me to be Learning to live like he I'm learning about his love for me I'm learning to live like Jesus Trusting every day he will make me what he wants me to be Learning to live like Jesus Learning about his love for me I'm learning to live like Jesus I'm learning to live like Jesus, trusting every day he will make me what he wants me to be.

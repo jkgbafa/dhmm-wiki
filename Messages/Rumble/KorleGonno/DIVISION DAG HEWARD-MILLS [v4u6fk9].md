@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u6fk9/"
 duration_min: 101
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Marriage and Family", "Marriage and Family/Children and Parenting"]
+tags: ["topic/loyalty-and-disloyalty", "topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting"]
 ---
 
 So we are we've missed the bishop so much, but we are glad that somehow God has taken him round and brought him where it all began to collect on Hallelujah. And I'm so excited, I believe you're also so excited to have him back home, and it's my pressure, it's my pleasure to welcome back home. Our father, our bishop. Hello. We wanna see.

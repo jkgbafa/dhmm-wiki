@@ -8,6 +8,8 @@ year: 2025
 duration_min: 21
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 The next reason for not being worthy of the call is people are not worthy. Number five. I'm giving you number five. So number five that is there, move it down. I'm giving you another number five.

@@ -8,6 +8,8 @@ year: 2008
 duration_min: 167
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 for as much as then you are children are partakers of Flesh and Blood he also himself likewise took part of the same okay that through death he might destroy him that had through death you see again through death through death are you with me yeah through death he might destroy him that had the power of death so through the cross and through his death he destroyed him that had the power over death so once again you see the cross having an effect are you listening to me to an effect which breaks a certain power over

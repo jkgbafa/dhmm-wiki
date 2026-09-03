@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 Everybody say others. Others. There's there's other people apart from us. Amen. So other people are people. Other people exist and other people are important to God. Amen. And when you come into this world, you have a choice of um looking out for others or looking out for yourself. Amen. Looking out others, living your life because of others or living your life because of yourself. All right, be healed in the name of Jesus. Now in Luke chapter 9 verse 23 Jesus said if anyone comes after me or anyone wants to be a Christian let him deny

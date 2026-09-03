@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=NaeErA3jrJY"
 duration_min: 75
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Holloway come away coming pass the time with me come away it's your heart and mine is and to Ramsey Club it is I'm expanses by Withey away so here a call away I hear him Expensify with me and my Louisville said you breathe oh I will be with me it's your heart and mind so Ramsey could be here I'm Sam hi with me come and spend some time with me I'm away come and spend some time with me Thomas Mann bhai with me come away hallelujah lift up your hands to the Lord thank you for

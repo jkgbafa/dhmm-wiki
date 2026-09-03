@@ -8,6 +8,8 @@ year: 2018
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah. Amen. Tatale, I said Hallelujah. Tonight is a great night. We are about to experience a great move of God.

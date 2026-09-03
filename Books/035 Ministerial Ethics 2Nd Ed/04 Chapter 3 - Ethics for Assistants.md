@@ -4,6 +4,8 @@ book: "Ministerial Ethics 2Nd Ed"
 book_number: "035"
 chapter_number: 4
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ### Chapter 3\

@@ -8,6 +8,8 @@ year: 2024
 duration_min: 134
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 amen you may be seated in the presence of the Lord all right now turn with me to John chapter 10 We are continuing on praying for Laborers this is topic is called praying for Laborers so I'm trying to help us to see what's a laborer a laborer is a Shepherd amen remember in Matthew chapter 9 and verse 38 he says pray the lord of the Harvest that he will send forth laborers and if you look at the verse before and the verse before that he talks about how there was a lack of Labor there's a

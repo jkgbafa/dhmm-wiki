@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=d5YXRkGvVT4"
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 ha ha ha walking with you you just can't be any place that you want to walking with you yes I do ha ha walking with you ha talking with you talking with you anything you tell me Lord it's oh where to go I talking with you yes I do ah talking with you you make me feel so faster and you make me feel like having boredom to you when I'm having a bra you always have a dance way of bringing me through no I I'm obvious enough singing to you your mentality that could be here

@@ -9,6 +9,8 @@ duration_min: 39
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SACRIFICE TO RECEIVE SPIRITUAL REWARDS IN HEAVEN  MARYLAND,USA DAG HEWARD-MILLS 2001 [dUqa99K1CDY]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 My life was everyone was saying my soul of the Holy Spirit my life will be touching my soul and changed my heart my child and came my heart my spirit and my soul my spirit and my soul I be killed with the power of the holy spirit my life will ever be the same the same my spirit of my soul my spirit and my soul I be a fail with the power of the holy spirit my life will never be not you know soul pray that gentle soul pray so we say the spirit to santo igual oh my spirit with me and spirit to santo Amen Hallelujah I left this song in Colombia beautiful song in Spanish is that not so how many know how to speak Spanish Poquito Poquito Can you put on the woman for a little while next point we are talking about sacrifice you must sacrifice I'm teaching you what every Christian should know about sacrifice the point that it is a central theme of the Bible and what do I mean by that it runs through the Bible everyone who was a servant of God or a worshipper of God was someone who kept on making sacrifices.

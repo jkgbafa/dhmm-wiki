@@ -9,6 +9,8 @@ duration_min: 46
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE ART OF LEADERSHIP  ISI PARIS  DAG HEWARD-MILLS  2015 [_Do6pbfYR-0]]]"
+topics: ["Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 Father, we are grateful for the wonderful blessing we have in you today. In Jesus' name. You may be seated. Today I want to share with you about the art of leadership. Amen.

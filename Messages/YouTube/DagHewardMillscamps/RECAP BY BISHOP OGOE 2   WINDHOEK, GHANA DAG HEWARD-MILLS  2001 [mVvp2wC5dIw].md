@@ -8,6 +8,8 @@ year: 2001
 duration_min: 44
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number five of where is the flock that was given thee please put yours together Hallelujah am amen let's pray father we thank you for the privilege to be here this morning we thank you for the privilege to be here at this camp we thank you for your plan you have for us let that plan unfold we commit ourselves into your hands our hearts that you prepare us for the great ministry that is ahead of us seasons of fruitfulness seasons of strength productivity impact increase we thank you speak to us this morning Lord

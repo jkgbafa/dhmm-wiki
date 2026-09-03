@@ -8,6 +8,8 @@ year: 2000
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 oh we have a man his name is either we were very maybe a meeting he Jesus ah so oh come on uh sing it me what Arimathea me was very maybe nativity set V de Jesus Oh ah man ETA Hey give that Lord every night you maybe hallelujah I said hallelujah hallelujah this morning we want to sing about the love of God amen to the love of Jesus for mon-kind that made him come down from heaven to lay down his life for us no greater love you Oh God hola again love PJ his life for

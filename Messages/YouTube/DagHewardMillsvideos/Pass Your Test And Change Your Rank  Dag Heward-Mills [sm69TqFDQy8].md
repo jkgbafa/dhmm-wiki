@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=sm69TqFDQy8"
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 wake up lifting your hands and lifting your voice to God lift your hands and your voice your maker oh God do a new sin in our lives today we come to you Lord oh yes we've come to worship we've come to praise you foreign God has something to say to us today let your hands to him and thank him his voice is coming straight from the heavens into your life today Jesus foreign yes yes Praise Him and thank him for his goodness and his mercies for his wonderful Works in our lives father we praise you

@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/3hSSjYqRM4tz/"
 duration_min: 70
 source: "whisper"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 Thank you, Lord, for your great blessing in Jesus' name. Amen. Alright. Turn with me to Nehemiah. And are you there?

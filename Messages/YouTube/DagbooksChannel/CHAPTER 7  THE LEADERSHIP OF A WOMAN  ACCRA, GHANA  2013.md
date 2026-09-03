@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2013
 source: "autocaption"
+topics: ["Leadership", "Leadership/Art of Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances"]
 ---
 
 I'm sharing with you about the leadership of a woman. The leadership of a woman is not necessar that is not necessarily how a woman is when she is leading because a woman can lead with the characteristic of a man but a man can lead with the characteristic of a woman. And I know women who lead with the characteristic of a man and I know men who lead with the characteristic of a woman. So that leadership of a woman is characterized by pettiness and quarrels. What do you think? So when you see you cannot when you

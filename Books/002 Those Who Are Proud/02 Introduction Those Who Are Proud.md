@@ -4,6 +4,8 @@ book: "Those Who Are Proud"
 book_number: "002"
 chapter_number: 2
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Introduction: Those Who Are Proud\

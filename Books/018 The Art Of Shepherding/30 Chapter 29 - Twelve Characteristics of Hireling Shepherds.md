@@ -4,6 +4,8 @@ book: "The Art Of Shepherding"
 book_number: "018"
 chapter_number: 30
 type: book
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances"]
 ---
 
 ## Chapter 29

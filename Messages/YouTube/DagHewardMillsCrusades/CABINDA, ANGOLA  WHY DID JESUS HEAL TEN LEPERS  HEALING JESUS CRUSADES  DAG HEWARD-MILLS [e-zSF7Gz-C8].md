@@ -8,6 +8,8 @@ duration_min: 72
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/CABINDA, ANGOLA WHY DID JESUS HEAL TEN LEPERS HEALING JESUS CRUSADES DAG HEWARD-MILLS [e-zSF7Gz-C8]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 cabinda this is the moment you have been waiting for Hallelujah I want you to Hallelujah I want you to expect great things tonight exping Mir expect signs and wonders exping Grand US expect the power of God help me welcome God's man of faith and Power be I hallelujah hallelujah lift your hands every standing everyone standing father thank you for your power thank you for your mercy tonight we lift our hands worship you we give you thanks for your Mighty power that is flowing in this place heal everyone tonight save everyone tonight touch the lives of

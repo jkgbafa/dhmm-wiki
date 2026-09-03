@@ -3,6 +3,8 @@ title: "CHAPTER 21  THE SWEET INFLUENCES OF THE HOLY SPIRIT ON YOUR WILLINGNESS 
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 The sweet influence of the spirit, the influence of the Holy Spirit. When the sweet influence of the spirit is on you, you'll be bolder. Yeah. The sweet influence of the spirit makes you bold. Makes you confidence. So I'm talking about the influence of the spirit on your confidence level. the influence of the spirit on your confidence level. Now, Acts chapter 4, then Peter, Acts 4:1. And they spake unto the people, the priests. And the captain of the people, and the Sadducees came upon them, bringing grieved that they taught the people, and preached through Jesus, the

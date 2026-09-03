@@ -9,6 +9,8 @@ duration_min: 97
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/BAFOUSSAM, CAMEROON JESUS CHRIST HEALING JESUS CAMPAIGN DAG HEWARD-MILLS 2022 [RVPsYzpgNa0]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah yes Lord am on onsh AC theor more yes hallelu is is confess confess on all the s tret hey Hallelujah shout hallelujah give Jesus another clap of ring amen amen tonight is a great night in baam because it's a night of miracle if you missed yesterday you missed a great blessing but tonight the blessing is double double blessings for you in bam I am so excited because God has sent his servant to this city to share the word of Salvation the word of Healing The Word of Deliverance your life will never be the same

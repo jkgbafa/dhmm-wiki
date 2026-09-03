@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=LnPM9WF1c8Q"
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Alleluia now the next important area is unloyal tea and this loyalty like understanding how people become disloyal so that you can prevent it that is why and people even do research that is why when a plane crashes it's never left alone recently Air France crash into the sea and they searched for two years at the bottom of the sea they found the black box after two years why did they send a nuclear submarine to the bottom of the sea to go and look for that black box because they want to understand how is it possible

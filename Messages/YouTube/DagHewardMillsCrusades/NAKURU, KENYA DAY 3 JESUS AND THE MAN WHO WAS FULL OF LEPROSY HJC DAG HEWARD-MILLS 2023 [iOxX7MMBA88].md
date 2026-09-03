@@ -9,6 +9,8 @@ duration_min: 145
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/NAKURU, KENYA DAY 3  JESUS AND THE MAN WHO WAS FULL OF LEPROSY  HJC  DAG HEWARD-MILLS  2023 [iOxX7MMBA88]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 But yeah, you get like a room be gonna gala sick, sugar, sugar, sugar, should I kill? Sugar kid. I find a man. Wash a motor seven seven. Washabu was up, wash up the wash up, so we didn't want to shop wash up Hallelujah.

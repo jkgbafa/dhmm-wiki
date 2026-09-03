@@ -8,6 +8,8 @@ year: 2002
 duration_min: 50
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/All-night Prayer", "Prayer/Intercession", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/prayer/all-night-prayer", "topic/prayer/intercession", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 welcome to track number nine of life in the church one thing thou lackest Jesus told that man and I'm coming now to the next step of one thing thou lackest and I call it the return of the cross the cross of Jesus Christ turn with me to First Corinthians chapter one amen 1 Corinthians chapter 1:1 16 quickly and I have baptized for Christ sent me not to baptize but to preach the gospel not with wisdom of words lest in case the cross of Jesus Christ should be made of none effect for the preaching of the

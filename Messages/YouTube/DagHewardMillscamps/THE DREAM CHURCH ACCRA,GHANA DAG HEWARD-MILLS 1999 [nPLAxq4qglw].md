@@ -8,6 +8,8 @@ year: 1999
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 Welcome to track number one of the dream church. Also, you must you must come here with a mind. I'm coming to learn something coming to receive something, not just coming around to be yawning. I don't like yawning at all. So have it in mind that you are coming to receive and to grow.

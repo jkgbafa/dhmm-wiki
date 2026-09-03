@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ygUe9SbtShU"
 duration_min: 177
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 number one you cannot handle knowledge lack of knowledge what happens when they pour water in hot oil but we are driving that spirit away from us hallelujah they will be able to handle knowledge and then what else experience or understanding understanding and what else experience and then the fourth one is one wisdom a we are praying that will be filled with knowledge when you are filling on it it will counter the foolishness we are praying I will be filled with understanding when you are filled with understanding it will counter the foolishness we are framed I

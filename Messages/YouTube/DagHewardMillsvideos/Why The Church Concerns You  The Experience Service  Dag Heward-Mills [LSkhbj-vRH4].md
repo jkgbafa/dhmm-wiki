@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=LSkhbj-vRH4"
 duration_min: 176
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah amen are you tired do you have you got a reason to praise him so we want to sing praise hallelujah praise the Lord praise the Lord praise the Lord let everything let everything praise the Lord PR the I pra on the mountain I praise when I'm sure I praise when I'm sure I'm prais when I'm woo I'm prais when I'm praise when surrounded surround cuz praise is the word cuz Praise Is The Word my enem let's go come on ASA I got re Soul when feel yes sir when I I pray I know you're

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=g9Tq8XjtXEk"
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 the Lord is my shepherd therefore and I laugh nothing he shall feed me in the green pasture and leads before beside the water he shower before my soul and leads me in the paths of righteousness for his name yea though I walk through the valley of the shadow of death I will fear no evil for thou art with me thy rod and thy house shall prepare a table before me in the presence of mine enemies thou has anointed my head with oil and my cup shall be full surely goodness and mercy shall follow me all

@@ -9,6 +9,8 @@ duration_min: 42
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MASTER KEYS  WORKING OF MIRACLES   GENEVA, SWITZERLAND DAG HEWARD-MILLS  2016 [_472NcvwL9U]]]"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number seven of Sterina. Number. Number what? Fourth master key. Work it out.

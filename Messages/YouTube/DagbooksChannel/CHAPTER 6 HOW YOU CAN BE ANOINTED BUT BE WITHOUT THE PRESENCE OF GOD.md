@@ -3,6 +3,8 @@ title: "CHAPTER 6 HOW YOU CAN BE ANOINTED BUT BE WITHOUT THE PRESENCE OF GOD"
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Hallelujah. Father, thank you for the opportunity that we have in you always. Thank you for your great blessing, your presence. We are grateful Lord in Jesus name. Amen. You may be seated. Uh tonight is a short Bible lesson and um Acts chapter 4 and on the presence of God who has the presence of God. Who has the presence of God? Amen. Amen. Acts chapter 4. Now, and they spake unto the people, the priests, and the captain of the temple, and the Sadducees came upon them, being grieved that they taught the people and preached through Jesus

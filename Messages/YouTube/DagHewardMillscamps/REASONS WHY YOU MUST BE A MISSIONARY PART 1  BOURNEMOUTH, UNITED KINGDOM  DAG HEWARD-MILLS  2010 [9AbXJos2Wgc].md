@@ -8,6 +8,8 @@ year: 2010
 duration_min: 190
 source: "autocaption"
 match: "exact"
+topics: ["Missions", "Prayer", "Prayer/All-night Prayer", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/missions", "topic/prayer", "topic/prayer/all-night-prayer", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 father we thank you for your blessing thank you for showing us great Mercy bringing us together we give you thanks Lord in jesus' name amen you may be seated thank you please be seated our theme is why are you not a missionary from um one of my books rules of full-time Ministry turn with me to Numbers Chapter N9 it says now on the day that the Tabernacle was erected and the cloud covered the Tabernacle the tent of the testimony um and in the evening it was like the appearance of fire over the Tabernacle the tent

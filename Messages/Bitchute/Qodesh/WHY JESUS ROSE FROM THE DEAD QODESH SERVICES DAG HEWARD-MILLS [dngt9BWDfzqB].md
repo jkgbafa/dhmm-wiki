@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/dngt9BWDfzqB/"
 duration_min: 54
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 He sees in me and he loves me my friend Jesus my sin if he had to do it all again because how Jesus and I don't know why no one is me know I love me and say my prayers And he's a pearl of great price great price from God Oh yes it does I Jesus loves me but I don't know why I don't know why he seems in me but I know I love can he loves me and I'll never ever be the same that even be the same 'cause they love the way my thing I take you all if we had to do it all again has he touched me, he touched me when I thought I could that is when he touched me and I will never be to say he touched me, he touched me on me.

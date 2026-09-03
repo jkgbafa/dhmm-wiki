@@ -8,6 +8,8 @@ year: 2016
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 we must develop committed members commitment how do you say devoted it's no but it's different because I'm coming to devoted but this one is committed the yeah check your your your dictionary Google Translate committed members are very important committed members like Mary at the back on the video me com amen now it is very important very important that we develop committed members another word for committed members is committed blocks when the blocks are not committed you lay the blocks up and when you come in the morning 100 of the blocks you've laid have moved away

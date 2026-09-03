@@ -8,6 +8,8 @@ year: 2014
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Matthew chap 3 and verse um 1 in those days Came John the Baptist preaching in the wilderness of Judea and saying repent ye for the Kingdom of Heaven is at hand for this is he that was spoken of by the prophet Isaiah saying the voice of one crying in the wilderness prepare ye the way of the Lord make his paths straight amen now what I'm trying to explain to you is that we are supposed to prepare for the Lord amen and the best way to prepare for the Lord Lord is to follow the best preparer

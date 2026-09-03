@@ -8,6 +8,8 @@ duration_min: 71
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/7 Great Principles  First Love Church  Dag Heward-Mills [olKeIfndX0M]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 so you see the point that i'm trying to explain is that just as you can't know that you have a liver and you don't know that you have a spleen or kidney you also don't know that you have a spirit in you so when you are saved you your spirit is what is changed your spirit is changed body of the man in three but let that make him to be like us you get it so when you are saved it's just that the spirit that is saved but as for the computer the mind the soul

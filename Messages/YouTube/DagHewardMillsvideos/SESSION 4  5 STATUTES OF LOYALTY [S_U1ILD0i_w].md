@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=S_U1ILD0i_w"
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 I agree mundo home where the road will lead see the world to change wherever so we be it's an age of certainty and sometimes when you call on the Lord sometime these so far away but I say way you have believed when you want to take it all oh no you're not alone Hey I don't you come through for you he's family left that fateful and he cannot be not true give us will I sponsor ages he's the one he never change he'll come through came through me you came through Buffy you have for you

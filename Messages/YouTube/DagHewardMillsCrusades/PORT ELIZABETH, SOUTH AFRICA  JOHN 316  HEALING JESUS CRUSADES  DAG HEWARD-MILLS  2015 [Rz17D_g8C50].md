@@ -8,6 +8,8 @@ year: 2015
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 God is an awesome God He Reign from heaven above with we D power and love our God is an awesome God our God is an awesome God he reigns from heaven above with me ST power and love our God God Heaven above with wisdom and power power and love our God is an awesome God oh our God is an awesome God God heaven with wisdom and power love our God is Oh Our God is no with wisdom and power our God is an awesome oh Our God our God our God Heaven above with wisdom and

@@ -8,6 +8,8 @@ year: 2011
 duration_min: 121
 source: "whisper"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Prayer", "Vision and Direction"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/prayer", "topic/vision-and-direction"]
 ---
 
 25 reasons why you must have a vision for a mega church for a mega equity. A mega church is a big church. Amen. Amen. You must have a mega church.

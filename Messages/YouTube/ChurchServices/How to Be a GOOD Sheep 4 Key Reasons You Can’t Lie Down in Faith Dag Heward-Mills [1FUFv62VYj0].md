@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=1FUFv62VYj0"
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Nobody can make you do anything. They can't make you come to church on time. They can't make you stop misbehaving in your marriage. You are just married for one year, look at what you are doing. To be a good sheep, the shepherd must be able to make the sheep lie down.

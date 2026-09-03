@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2i6oQOqNGAk"
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing"]
 ---
 
 you may be seated hello hello now how do you catch this anointing amen amen turn to Isaiah chapter 11 and let us read it it says in Isaiah chapter 11 verse 2 it says and the spirit of the Lord shall rest upon Him Spirit of wisdom understanding counsel might knowledge fear of the Lord I was saying it the other way around yesterday the first thing is the spirit of the Lord amen amen when we say the spirit of Elijah was resting on John the Baptist it means that John the Baptist behaved like uh Elijah amen

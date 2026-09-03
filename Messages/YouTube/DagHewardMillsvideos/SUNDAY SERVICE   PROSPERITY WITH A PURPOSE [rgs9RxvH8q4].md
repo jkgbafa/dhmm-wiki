@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=rgs9RxvH8q4"
 duration_min: 47
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 hallelujah well I'm excited this morning I felt very lonely for a long time but thank God this morning that at least my father is in the house this morning your father is in the house and we are so excited because when daddy comes back home we know that he is full of goodies he is full of many many wonderful surprises for us and we are so blessed to have a father come back to us after maybe a few days many days some days but we thank the Lord that we have him back ladies and gentlemen

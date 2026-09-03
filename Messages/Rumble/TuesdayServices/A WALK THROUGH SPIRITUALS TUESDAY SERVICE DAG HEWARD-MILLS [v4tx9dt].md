@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tx9dt/"
 duration_min: 38
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Thank you for the opportunity that we have, Lord, to receive your holy word. Father, we ask that as we humble ourselves before your word. Your spirit you will speak to us. Let your will be done. We thank you for your great blessing today.

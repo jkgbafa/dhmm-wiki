@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=RWH9U99Nw3U"
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 this sister whom you married where did you see her he said look I used to play in the nightclub so in the nightclub I saw this girl moment and I said hi baby I love you baby oh he said that is why I'm in this situation how many are not sitting or standing by your biological brother ahuh this is is life this is life you see that even though you have two sisters Three Brothers one you find that most of your life you are not you are not with them if you don't accept the family

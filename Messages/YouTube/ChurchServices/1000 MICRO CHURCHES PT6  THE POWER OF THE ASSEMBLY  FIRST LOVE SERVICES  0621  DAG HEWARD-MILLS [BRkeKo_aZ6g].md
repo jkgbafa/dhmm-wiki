@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=BRkeKo_aZ6g"
 duration_min: 236
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 and I know that our lives are not going to be the same again Hallelujah congratulate your neighbor turn to your neighbor and tell your neighbor you looking so good looking so handsome if he a beautiful girl oh friends hello why don't to rise and let us enter into a moment of short but powerful prayer are you congratulating your neighbor say something nice to your neighbor and if you are watching us now you are also being Welcome to our prophetic encounter service Hallelujah God is good and all the time say with me for the Lord is

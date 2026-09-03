@@ -8,6 +8,8 @@ year: 2009
 duration_min: 74
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 The more I seek you the more I find you the more I find you the more I love you I want to sit at your feet drink from the cup in your hand lay back against you and breathe feel your heart beat the more I seek you the more I find you and the more I find you the more I love you I want to sit at your feet drink from the cup in your hand lay back against you and breathe feel your heart beat this love is so deep it's more than I can stand

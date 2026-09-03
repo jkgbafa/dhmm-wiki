@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2006
 source: "autocaption"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Missions", "Missions/The Nations"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/missions", "topic/missions/the-nations"]
 ---
 
 Now a church when we say come the cost all right it means that there is a cost to a church existing if you are to count the cost then you must pay the price and the point that I'm trying to make is that the church work we are doing has a price. Francis, come. Stand here. Right. This is the price. This is the price of the church in Abuasi. One slave of God. Yeah. If you don't know, I'm telling you. Wow. Is the price then it's come. Now we want to have a church where in

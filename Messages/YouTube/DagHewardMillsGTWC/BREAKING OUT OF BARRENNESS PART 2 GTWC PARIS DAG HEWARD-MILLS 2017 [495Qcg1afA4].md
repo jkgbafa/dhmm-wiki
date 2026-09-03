@@ -8,6 +8,8 @@ year: 2017
 duration_min: 153
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Father, thank you for the blessing you give us today. Guide us by your mighty spirit. We are grateful. In the name of Jesus. And everyone said Amen.

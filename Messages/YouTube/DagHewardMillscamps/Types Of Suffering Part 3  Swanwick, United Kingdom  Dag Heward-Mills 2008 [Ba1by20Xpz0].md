@@ -8,6 +8,8 @@ year: 2008
 duration_min: 153
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 when you pretend to have some qualities or you pretend to have some beliefs that you don't really have you are suffering from hypocrisy so if you if you have the beliefs you get it it's great if you don't have it fine but to pretend that you have that belief when you don't have it is hypocrisy to pretend that you have that quality or that belief or that feeling when you don't have it that is the hypocrisy and it comes from the Greek word hypoc crisis h y p o k r i s i s number

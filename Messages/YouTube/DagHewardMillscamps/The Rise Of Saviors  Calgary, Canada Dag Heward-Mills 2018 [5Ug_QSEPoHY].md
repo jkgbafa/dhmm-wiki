@@ -8,6 +8,8 @@ year: 2018
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 go somewhere preach somewhere go somewhere preach somewhere oh oh go somewhere preach somewhere go somewhere preach when he that hath my Commandments oh oh yeah and he keep them he is is that loveth me and he that loveth me shall be loved of my father father oh and I will love him and I will love him and manifest myself to him W will you love God oh when he loves you w will you love God oh my when he loves you so go somewhere preach somewhere I said go somewhere preach somewhere you need to go

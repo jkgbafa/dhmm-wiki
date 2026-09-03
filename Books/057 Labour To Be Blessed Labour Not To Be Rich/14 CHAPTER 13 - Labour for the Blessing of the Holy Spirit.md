@@ -4,6 +4,8 @@ book: "Labour To Be Blessed Labour Not To Be Rich"
 book_number: "057"
 chapter_number: 14
 type: book
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 ### CHAPTER 13** **

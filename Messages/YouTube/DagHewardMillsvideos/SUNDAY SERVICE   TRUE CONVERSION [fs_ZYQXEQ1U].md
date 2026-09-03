@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=fs_ZYQXEQ1U"
 duration_min: 37
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 there was a man of the Pharisees named Nicodemus a ruler of the Jews we are in Brest two of John chapter three the same came to Jesus by night and said unto him rabbi we know that thou art a teacher come from God for no man can do these miracles that thou doest except God be with him and jesus answered and said unto Him very very I say unto thee except a man be born again he cannot see the kingdom of God said unto Him how can a man be born when he is old can

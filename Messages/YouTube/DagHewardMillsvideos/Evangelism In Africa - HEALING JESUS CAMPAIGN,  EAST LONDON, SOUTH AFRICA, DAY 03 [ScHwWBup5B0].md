@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ScHwWBup5B0"
 duration_min: 142
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 Jesus is here right now Jesus is here right now he is here to meet your needs to set the captives free oh Jes Jesus is here right now if you feeling all alone and you fight the battle alone and depression threatens your very Soul Jesus will visit you today chase the Dark Cloud house away oh Jesus is here right now Jesus is here right now Jesus is here right now he is here to meet your need to set the captive free oh Jesus is here right now if you feel nobody cares and life has been

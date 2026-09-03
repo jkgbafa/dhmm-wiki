@@ -4,6 +4,8 @@ book: "Loyalty Disloyalty"
 book_number: "000"
 chapter_number: 8
 type: book
+topics: ["Loyalty and Disloyalty", "Ministry and Pastoring"]
+tags: ["topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring"]
 ---
 
 Chapter 7\

@@ -8,6 +8,8 @@ year: 2017
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring"]
 ---
 
 I want to share with you how to have a father in the ministry. How you can have a father in the ministry. 1 Corinthians chapter 4. Verse 15. And this I believe is one of the last things I'm sharing with you.

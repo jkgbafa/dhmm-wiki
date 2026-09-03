@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t4hq3/"
 duration_min: 181
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Hello, friend, this is Ryan Hicks of TaughtTheProf.com. And today I want to talk about why you must think about life and blessing, not the circumstances. Now, in visualization, and you will think about and visualize the future circumstances, what you want, what you're believing for. And then in the end goal, because remember, Jesus said that you believe that you received when you prayed. So you're living and experiencing and visualizing the result of having that thing you're praying for, whatever it may be.

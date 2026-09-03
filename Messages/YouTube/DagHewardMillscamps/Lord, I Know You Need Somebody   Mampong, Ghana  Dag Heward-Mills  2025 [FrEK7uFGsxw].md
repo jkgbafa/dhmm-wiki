@@ -9,6 +9,8 @@ duration_min: 118
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Lord, I Know You Need Somebody Mampong, Ghana Dag Heward-Mills 2025 [FrEK7uFGsxw]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Wow. You may be seated. Number one, I want you to take these notes. Number one, Lord, I know you need somebody who will go in between God and man. I know you need somebody who will go in between God and man. Exodus 22:30, I sought for a man that should make up the hedge. Amen. So God is looking for people in Kumasi in Ashanti regional who will be between God and man. God is here, men are here and you are in between. You can depend on me. Lift your hand and say, "Lord, you can depend

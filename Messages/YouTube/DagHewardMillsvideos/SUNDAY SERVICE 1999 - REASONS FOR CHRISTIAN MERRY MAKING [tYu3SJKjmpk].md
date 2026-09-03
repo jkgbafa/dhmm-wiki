@@ -8,6 +8,8 @@ year: 1999
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 that day will be mighty fast Oh yeah Oh if you yeah come on ah halleluja halleluja there's something about great people that they suffer from is that nobody seems to think that they need any comfort or they need any help if I want to encourage you as you set your pasta or not subject to your visitation list Amen hallelujah and we do the same thing to Jesus always give me give me black need let me let me bless me but jesus also needs some comfort amen you need to head to lay you need to show

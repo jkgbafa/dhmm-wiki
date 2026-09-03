@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2024
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Today I want to share with you about loyalty and disloyalty. I think it's an important topic. I believe loyalty is a very important issue. And I want us to look at Proverbs 20:28. If you have the American version, Proverbs 20:28. It says, "Mercy and truth preserve the king, and by mercy his throne is upheld ." They can install the NB version. All the verses come from that version. It says, "The king who is loyal and truthful will maintain his power, and loyalty will keep his kingdom firm." So loyalty and faithfulness help make the church strong.

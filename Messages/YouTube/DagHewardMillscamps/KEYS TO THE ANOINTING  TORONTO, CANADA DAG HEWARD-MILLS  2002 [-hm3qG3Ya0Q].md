@@ -8,6 +8,8 @@ year: 2002
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/anointing", "topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 welcome to track number two of the mega church you know there were people you think would not get married really sometimes you just wonder Lord how can it be but I have noticed and I've watched every single one of them gets married no matter how old God has somebody for everyone and so I I I I realize that it is just important for us to focus on the Lord continue to work for him and all these things shall be added unto us amen amen can I have an amen amen there is somebody for you somebody

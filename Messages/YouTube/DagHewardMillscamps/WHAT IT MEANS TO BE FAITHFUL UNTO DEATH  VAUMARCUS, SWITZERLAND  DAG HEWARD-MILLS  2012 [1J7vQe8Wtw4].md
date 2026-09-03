@@ -8,6 +8,8 @@ year: 2012
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 early in the morning ask the noon day is daing I love to listen to your talk to me and I want to talk to you early in the morning as the noon day is starting I love to listen to you talk to me and I want to talk to you early in the morning when I awake it feels so so good to give you praise tell you how I love you what you mean to me I want to talk to you it's so easy to make mistakes when I try to do things my own way

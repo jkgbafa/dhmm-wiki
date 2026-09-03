@@ -9,6 +9,8 @@ duration_min: 56
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EFFECTS OF THE HOLY SPIRIT  LOVE FOR GOD PT 1  CAPE COAST, GHANA  DAG HEWARD-MILLS  1999 [rj8d9pWffdI]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit"]
 ---
 
 Well, track number seven of love and the mega church. Next one. What's the time? What's that? The next one.

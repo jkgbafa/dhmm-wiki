@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Z-bJXvpjkqo"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah give the letter sow okay lipid Allah says o repulsive lipid Allah says o referred is leave it on La Soul Reaper delay ha me too love Jesus and let's receive either tonight to bless us with at all is here right now your life nobody your life and he you see ladies here tonight two more do you believe a super the man is going to use it's also here right now Deborah doll a man is clear a non-sexual minister to us is here right now in his mouth salvation of miracle I expected miracle we Prada

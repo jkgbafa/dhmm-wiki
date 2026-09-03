@@ -8,6 +8,8 @@ year: 2011
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 now what are we going to eat at the banquet number one we are going to enjoy some fresh milk wow fresh milk hallu in First Peter chapter 2:2 the Bible says as newborn babe desire the sincere milk of the word wow how many love milk do you love some fresh milk fresh milk from a cow or fresh milk from whatever we are going to enjoy some fresh milk number two at this great feast we are going to enjoy some good bread you know when you go to a restaurant you have some bread safe to you

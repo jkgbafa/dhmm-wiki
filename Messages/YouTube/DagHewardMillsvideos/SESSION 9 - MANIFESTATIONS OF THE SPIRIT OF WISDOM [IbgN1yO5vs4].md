@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IbgN1yO5vs4"
 duration_min: 174
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Wisdom"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/wisdom"]
 ---
 
 halleluyah halleluyah fantastic let your hand deliver I fix my eyes on you the author of my face every day my eyes letting the cares of this world Eddie everything I'll fix my eyes on you and I lay my burden down the Nile letting the cash letting the care of this world one thing about this morning was this 100 all the day I wanna gain I'm anyone who gaze upon the beauty of the Lord one day I all the days of my life I was again this morning I want us to fix our eyes on Jesus

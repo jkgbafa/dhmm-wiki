@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zy_htQ6S1Nw"
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/faith", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 hallelujah father thank you so much for another opportunity to be in church to receive your word have mercy on us Lord we thank you for your Holy Spirit in Jesus name Amen you may be seated please we are studying the very important subject of how to live your life how to live the life how to live by faith Hebrews 11 verse 1 now faith is the substance of things hoped for the evidence things not seen Amen for by it the elders obtained a good report for by it the elders obtained a good report hallelujah how

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=AXnyw1NSuWE"
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 shall we pray father we thank you so much for tonight thank you for the opportunity law that we have in you to come before your word to come into your presence Lord we ask you to guide us to speak to our heart let your will be done thank you for another evening in your presence we could have been elsewhere we could have been dead but here we are in your presence and we say thank you in Jesus name Amen you may be seated hallelujah are you glad to be in church great we are looking at

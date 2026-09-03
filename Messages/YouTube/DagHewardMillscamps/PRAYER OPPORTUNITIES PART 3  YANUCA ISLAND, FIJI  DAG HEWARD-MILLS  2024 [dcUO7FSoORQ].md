@@ -8,6 +8,8 @@ year: 2024
 duration_min: 69
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 going to all the world and preach the gospel are you ready to go into all the world until your life is done until your life is done if you love me obey the Great commission build churches everywhere in every town every Province every city yeah Fiji shall be saved but tell me how long is it going to take for you to obey me I have a feeling that I'm Waiting in Vain for you to oby me that's how I feel I have a feeling that I'm waiting in for fans for you to do my will

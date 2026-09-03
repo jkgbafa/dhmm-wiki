@@ -8,6 +8,8 @@ year: 2024
 duration_min: 24
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now young element number twenty two Timothy chapter three verse fourteen to fifteen. Young element number twenty two knowledge of scriptures knowledge of scriptures Second Timothy chapter three verse fourteen but continue thou in the things amen which thou has learned and been assured of knowing of whom thou has learned them. Are you there? And that from a child thou has known the holy scriptures which are able to make thee wise unto salvation through faith which is in Christ Jesus, Amen. Are you listening to me?

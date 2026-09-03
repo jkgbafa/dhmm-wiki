@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=dI6uc2rnEY8"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 hallelujah accl hallelujah hallelujah amen Wonder said that you won't F to May Del to l last to May deliver to lat in give oh you sh to the confessing again to more to my to the GL can blue goer goer to love it are to problem problem you are ah Hallelujah tonight is the final night God is going to touch your life he has anointed his servant to minister the word of God and the power of God tonight let's receive hallelujah hallelujah I expect a miracle lift your hand if you expect I the love I

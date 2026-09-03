@@ -8,6 +8,8 @@ year: 2011
 duration_min: 177
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Amen, hallelujah, good evening. My name is Sister Michelle Michelle. I'll start by saying that not everything, well, since I grew up—I'm not old, but all my life I've spent a lot of time working on my physical appearance—that's it. And actually, when I came to church, I observed people and sometimes conventions. Even if I'm touched by a message, I make an effort not to show too much because I have to remain... I have to remain... And when the Reverend preached this morning, combined with what the Bishop was saying, I saw myself as... The prostitute is V

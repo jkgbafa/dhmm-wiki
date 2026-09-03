@@ -8,6 +8,8 @@ duration_min: 161
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MANKESSIM, GHANA DAY 3 THE TRUE LIGHT HJC DAG HEWARD-MILLS [fwaNUkW6adc]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 hallelujah amen amen my Hallelujah May a any said want something my yeah s some and you're watching oh you show o oh be my yes to say yes need now my say o hey yes fory yes yes yes yes be be the be your OHA OHA say every my yeah hey yes to hey say oh Jesus come on and Shout Jesus come on and Shout Jesus somebody shout Jesus now listen At The Mention Of The Name of Jesus every knee shall bow and every T shall confess that Jesus that Jesus that Jesus that Jesus is

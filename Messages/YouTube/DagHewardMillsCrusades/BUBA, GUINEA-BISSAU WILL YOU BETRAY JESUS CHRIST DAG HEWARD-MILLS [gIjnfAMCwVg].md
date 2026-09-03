@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=gIjnfAMCwVg"
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Prayer"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/prayer"]
 ---
 
 Jesus non à l'objet Jesus non adore Jesus Nangaba Jesus non adora Jesus dona lova es olda Todo Nagama Jesus donde adora Todo dia con me canta Kumai Je suis donna Todo dia Nangaba Tirito Bata Tirito Nabi passe no me adora Babia y cagada passa vida Aussi d'Anta Libertad Saba Soubiba En Tadora Inta Bye Baloba Jesus Et mon ta loba Je suis dans la Dora Es un donne Soda Todo dia Nanga Es un donatobat Esse dona Dora Todo dia Nanka Loba Es un donatora Jesus pasou Gita pas Jesus Big Koo Fassou Big Fassou Bitcoin Fassi Papé Go Faci Papé Ora Boot Big Fassi Nakruz de Cavalio Kissang Que Laco Savano Jesus Donald Jesus Don't Adora Jesus Donnez Ota Nagaba Hey Ta Jesus Vita Jesus Fatchabus Tout Monday Tout Nobata Tout Nobata Jesus Big Facci Pamé Black Big Pamé Jesus don't lava Jesus Alléluia C'est fala non Fala non gana non gana non Hey Grita pour force non gana non gagne non gagne non gagne non c'est pour la Victoria Note Victoria Nonga non gagne non c'est Note Victoria Jesus Vincus vaincitori non ça va gagner non gagne non c'est pour la mort Ma si baïno Papi a de quella prise de Jesus a divina pour ça tchoma Caboneka Bino Si Bala fala si vous n'avez pas inferno et sous si vous t'as lasaro per tour de bronz à ma bronzaro Babina Inferno Et fala di Salazaro T'as du taille et fresca d'Allene Papiana sous Free Yeah Inferno si Buda vivam et tes camions par gloria Passi Bobby by Inferno I can't hear your hand clap at all.

@@ -9,6 +9,8 @@ duration_min: 32
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/STAGES OF DISLOYALTY; OFFENCES & CRITCISM  SYDNEY , AUSTRALIA DAG HEWARD-MILLS  2003 [J005j_DFMDY]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 Welcome to track number eight of how to survive in Ephesus. Stage number two. Stage one is what? Independent spirit. I thank God that He counted me what?

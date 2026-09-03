@@ -9,6 +9,8 @@ duration_min: 69
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE BLESSINGS OF THE SONS OF OBEDIENCE    SEVENOAKS, UK DAG HEWARD-MILLS  2005 [NJdeEcDrj_0]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Welcome to track number three of obedience unto death, the blessings of the sons of obedience. Number one, you will no more be far from the Lord. When you read Ephesians, where it talks about the sons of disobedience, the children of disobedience, it says, even when we were dead in sins, he has quickened us together with Christ, and has raised us up, made us sick together in heavenly places. Hallelujah. What do you think?

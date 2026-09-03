@@ -9,6 +9,8 @@ duration_min: 19
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Element of Being A Teenager  Belmopan, Belize  Dag Heward-Mills  2024 [3ZWZc9s_p0o]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 So let me start to give you these why elements. Sit down. Number one. What are the why elements? Number one.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=rPu2u3d1_5g"
 duration_min: 186
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh Oh hallelujah amen we have another fire all the way many of you don't know that we have a very thriving church in we meet back and we have all the way from Winnie ba our fire from will ever put your hands together Winnie be quiet where are you where are you we have not arrived yet they are Rascals waba Winnie before Billingham oh oh welcome the fire from Willoughby we are now around whija-- River rich condition they are colleague unana praise the Lord so any free yelling yes and if you refer as background the

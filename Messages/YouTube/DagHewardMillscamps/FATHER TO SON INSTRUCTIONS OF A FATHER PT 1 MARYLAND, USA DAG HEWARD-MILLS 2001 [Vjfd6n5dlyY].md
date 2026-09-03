@@ -9,6 +9,8 @@ duration_min: 65
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/FATHER TO SON  INSTRUCTIONS OF A FATHER PT 1   MARYLAND, USA  DAG HEWARD-MILLS  2001 [Vjfd6n5dlyY]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring"]
 ---
 
 Welcome to track number eight. What is your life? Second Timothy chapter two. And again, we are looking at the instructions of a father. A father.

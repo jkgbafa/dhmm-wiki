@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3moe/"
 duration_min: 57
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 In your bed send your mind for the right all the mindsteps your will steps, I teach me your wild you unworking, help me be still Satan is me all the mind steps in your work for the mind steps in your work right of my tongue, Lord, let thy words, let the words of my mouth be acceptable. Take charge of my life every day and night, please, Lord, order my death in your work. I pray that Lord, you will order my death in your work. I want to walk, I want to walk well. Can we rise, please?

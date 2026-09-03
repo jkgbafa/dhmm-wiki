@@ -9,6 +9,8 @@ duration_min: 54
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/ALLOS AND THE BEAST  ACCRA, GHANA  DAG HEWARD-MILLS  2002 [NvGpd-2Za3k]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to track number nine of a loss. And I stood upon the sand of the sea, and I saw a beast rise out of out of the sea, having uh seven heads and ten horns, and upon his horn ten crowns, and upon his head the names of blasphemy, and the beast which I saw was like unto a leopard. Alright, and his feet were like the feet of a bear, and his mouth as the mouth of a lion, and the dragon gave him his power and his seat and great authority. And I saw one of his heads as it were wounded to death, and his deadly wound was healed, and all the world wandered after the beast, and they worshiped the dragon, which gave power unto the beast, and they worship the beast, saying, Who is like unto the beast?

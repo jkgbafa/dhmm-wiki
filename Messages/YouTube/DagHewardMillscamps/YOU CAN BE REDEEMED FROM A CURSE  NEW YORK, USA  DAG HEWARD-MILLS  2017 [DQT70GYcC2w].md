@@ -8,6 +8,8 @@ year: 2017
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Christ has redeemed us from the curse so you can be redeemed from a curse that's that's the whole point so like a curse is not a hopeless thing that's what I'm trying to say like there are powerful curses but it's not hopeless because if Christ could redeem us from the curse then when there is a curse it's possible that you can be redeemed from a curse I hope you understand what I'm saying is that good news to you that Christ can redeem us or that you can be redeemed from a curse amen okay so whatever

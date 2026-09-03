@@ -8,6 +8,8 @@ year: 2005
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 that ever live and that secret must be applied in mega church to in a serious way hallelujah amen you find now that Jacob was a man who knew that this world do you see if you want to do well here you are always going to need the two sides that balance powers and balance things out life is not made up of a very straightforward road that works just this way but it has dimensions and there are two big Dimensions he was a two-dimensional Shepherd so I'm talking about a two-dimensional shepherd He was a shepherd with

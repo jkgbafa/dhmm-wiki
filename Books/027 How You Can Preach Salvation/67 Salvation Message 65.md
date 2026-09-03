@@ -4,6 +4,8 @@ book: "How You Can Preach Salvation"
 book_number: "027"
 chapter_number: 67
 type: book
+topics: ["Salvation", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/salvation", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 ### Salvation Message 65:\

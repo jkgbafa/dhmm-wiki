@@ -8,6 +8,8 @@ year: 2023
 duration_min: 131
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 So we just have to stream some people. I can tell you this is going to be all my biggest time. I think it's done with all the things that I'm saying. I don't know what I was saying before I was like that. If you don't get an envelope, try and buy your own envelope and put your seat in it for tomorrow.

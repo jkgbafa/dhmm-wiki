@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqoxk/"
 duration_min: 86
 source: "whisper"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Early in the morning as the moon days morning. I love to listen to you, talk to me, and I wanna talk to you early in the morning as the noon days dawning. I love to listen to you talk to me, and I wanna talk to you every morning when I awake, feel so good to give you praise, tell you how I love you, what you mean to me. I love to talk to you. It's so easy to make mistakes when I try to do things my own way.

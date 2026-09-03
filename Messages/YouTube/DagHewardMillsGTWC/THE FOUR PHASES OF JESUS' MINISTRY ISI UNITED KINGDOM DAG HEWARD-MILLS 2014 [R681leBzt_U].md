@@ -9,6 +9,8 @@ duration_min: 144
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE FOUR PHASES OF JESUS' MINISTRY  ISI UNITED KINGDOM  DAG HEWARD-MILLS  2014 [R681leBzt_U]]]"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Evangelist Doug Hayward Mills and the Healing Jesus Campaign embarked on a historic visit to the Republic of Burkina Faso, preaching the gospel of Jesus Christ to the wonderful people of the country. A visit that would ultimately impact the nation forever. It is landlocked, surrounded by six countries: Mali, Niger, Benin, Togo, Ghana, and La Côte d'Ivoire. Burkina Faso is located within the savanna belt of West Africa, which is characterized by a generally hot and dry climate with less rainfall than its southern neighbors.

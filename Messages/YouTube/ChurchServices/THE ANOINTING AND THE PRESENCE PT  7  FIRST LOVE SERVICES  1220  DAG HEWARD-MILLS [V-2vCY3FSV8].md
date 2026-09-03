@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=V-2vCY3FSV8"
 duration_min: 218
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we just want to enter into a short time of worship amen amen and praise the Lord amen amen say here we are we're lifting our hands to you amen and he dwells in our Praises amen amen thank you Jesus thank you Jesus here we are here we are liting our hands lifting our hands to you here we are Lord here we are we're giving you thanks giving you thanks for all you do and as we praise as we praise and we worship and worship your Holy Name you are here you are here dwelling within our

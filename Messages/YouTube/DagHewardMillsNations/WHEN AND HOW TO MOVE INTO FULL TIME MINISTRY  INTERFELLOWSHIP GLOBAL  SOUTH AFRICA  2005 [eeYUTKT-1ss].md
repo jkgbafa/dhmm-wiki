@@ -8,6 +8,8 @@ year: 2005
 duration_min: 32
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "The Call of God", "The Call of God/Responding to the Call", "Wealth and Finances"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call", "topic/wealth-and-finances"]
 ---
 
 when and how to move from lay Ministry to full-time Ministry when should you become full-time and when should you be a lay Pastor it's right at the back of this the last chapter of this book when and how should you be a full-time Minister let me read it to you number one I give seven points when and how you should move from the lay Ministry into fulltime Ministry number one you must have a special call to sacrifice your Isaac what do I mean by sacrifice your Isaac Abraham he had his special something and not everybody

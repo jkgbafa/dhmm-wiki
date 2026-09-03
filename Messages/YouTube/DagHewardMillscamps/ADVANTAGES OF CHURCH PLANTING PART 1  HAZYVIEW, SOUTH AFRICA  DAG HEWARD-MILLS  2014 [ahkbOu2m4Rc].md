@@ -8,6 +8,8 @@ year: 2014
 duration_min: 115
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 advantages of church planting number one before while they are getting ready with the film number one you will have favor with God because that is the only thing God Is Watching about your life your your works on this Earth now Brothers this part of the message is for brothers yeah you watch the ladies when they meet each other one of the first things that they look at is their friend's what hair yeah they just sometime oh this is they start touching it oh you did this and they even sh they even refer to the one

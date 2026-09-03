@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uey33/"
 duration_min: 42
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/Backsliding", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/backsliding", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 This morning I want to continue for the few minutes that we have on our subject of backsliding. Amen. And uh I'm reading from chapter 4. I want you to get a book, everybody. Uh, this one, make sure you have it, and read them, it will be a blessing to you.

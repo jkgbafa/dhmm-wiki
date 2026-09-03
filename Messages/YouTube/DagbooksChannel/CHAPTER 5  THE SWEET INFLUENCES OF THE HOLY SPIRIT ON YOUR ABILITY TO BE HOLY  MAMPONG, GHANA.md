@@ -3,6 +3,8 @@ title: "CHAPTER 5  THE SWEET INFLUENCES OF THE HOLY SPIRIT ON YOUR ABILITY TO BE
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "The Holy Spirit"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/the-holy-spirit"]
 ---
 
 the sweet influence of the spirit on your ability to be holy on holiness. On your level of holiness? How many realize that it's not easy to be holy? Now, what does it mean to be holy? Pull this back. What does it mean to be holy? Holy, holy, holy. I recently discovered the meaning of holiness and I was amazed. I found it fantastic. And I think I should I should just read it to you because it may be of use to you. specially recognized as sacred. Amen. Specially recognized as sacred. Hallelujah. Hallelujah. Specially recognized as sacred.

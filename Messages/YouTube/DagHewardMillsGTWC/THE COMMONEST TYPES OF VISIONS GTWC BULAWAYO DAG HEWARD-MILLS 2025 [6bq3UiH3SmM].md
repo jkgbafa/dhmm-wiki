@@ -8,6 +8,8 @@ year: 2025
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Now I want to show you the commonest Nelly. I want to show you the commonest type of vision. Amen. All right. No.

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Prayer", "Salvation", "Salvation/The New Birth", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/prayer", "topic/salvation", "topic/salvation/the-new-birth", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 is here. Are you excited and ready? Are you excited and ready? Okay, help me to welcome Bishop Duan Mills to the stage. Hallelujah.

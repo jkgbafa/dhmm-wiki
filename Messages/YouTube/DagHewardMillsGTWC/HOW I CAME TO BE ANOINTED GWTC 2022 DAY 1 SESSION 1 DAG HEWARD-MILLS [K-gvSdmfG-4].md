@@ -9,6 +9,8 @@ duration_min: 133
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/HOW I CAME TO BE ANOINTED GTWC 2022 DAY 1 SESSION 1 DAG HEWARD-MILLS [fUGrLvsyjoI]]]"
+topics: ["Anointing", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/anointing", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Father, thank you for your great blessing. Thanks for your mighty power. Merci pour ta grand puissance that you give to us in your presence. Thank you for the ministry. Merci pour le ministère that you guide us.

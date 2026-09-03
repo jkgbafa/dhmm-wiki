@@ -9,6 +9,8 @@ duration_min: 63
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/CHURCH PLANTING  JOHANNESBURG, SOUTH AFRICA  DAG HEWARD-MILLS  2004 [HOcJrrgrjAg]]]"
+topics: ["Church Growth", "Church Growth/Church Planting", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number two of church planting. We ask that you guide us by your spirit in Jesus' name. Amen. You may be seated. Hallelujah.

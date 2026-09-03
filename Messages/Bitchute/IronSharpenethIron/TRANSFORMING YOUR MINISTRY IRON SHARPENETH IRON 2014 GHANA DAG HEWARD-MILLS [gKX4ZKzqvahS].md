@@ -8,6 +8,8 @@ year: 2014
 duration_min: 55
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Leadership", "Loyalty and Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/leadership", "topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 My friend came to me the other day as we walked along the way. She said I've got something to say. And she told me of the Savior. He came. He died to set us free from a life of sin and shame.

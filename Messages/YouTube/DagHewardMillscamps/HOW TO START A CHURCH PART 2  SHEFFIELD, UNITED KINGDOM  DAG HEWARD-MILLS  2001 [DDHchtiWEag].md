@@ -8,6 +8,8 @@ year: 2001
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number four of pastes of thousands now in Geneva the momon church have sent 12 or 11 full-time missionaries you know what they do they do witnessing from 9:00 in the morning till 9:00 in the evening yeah every day they have over 400 members gen sitting in their church on Sunday morning it's not a small number even in Ghana to have 400 people in one of the hardest climates you see charismatics we want things to be brought to us we want to be big short especially the word Pastor is unfortunately used on you

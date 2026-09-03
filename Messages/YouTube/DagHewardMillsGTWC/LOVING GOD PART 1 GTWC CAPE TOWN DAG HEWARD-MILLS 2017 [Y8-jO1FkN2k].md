@@ -9,6 +9,8 @@ duration_min: 95
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/LOVING GOD PART 1  GTWC CAPE TOWN  DAG HEWARD-MILLS  2017 [Y8-jO1FkN2k]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah. What a blessing. Amen. Let us pray. Father, thank you for today.

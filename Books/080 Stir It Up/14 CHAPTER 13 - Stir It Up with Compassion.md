@@ -4,6 +4,8 @@ book: "Stir It Up"
 book_number: "080"
 chapter_number: 14
 type: book
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 ### CHAPTER 13\

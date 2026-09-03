@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=c3u-TQemfQE"
 duration_min: 237
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Anagkazo and Compelling", "Soul Winning and Evangelism/Crusades", "Soul Winning and Evangelism/Witnessing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/anagkazo-and-compelling", "topic/soul-winning-and-evangelism/crusades", "topic/soul-winning-and-evangelism/witnessing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we have a great man of God who has been impacted by the Ministry of evangelistic word Mills and I would like us to put our hands over their welcome he shop Vincennes that's why Oh my friend is here wow I didn't know you are the one god bless you oh yes praise the Lord thank you thank you very much man of God they can't miss our our great evangelists who changed my life through books I started reading his books our church changed and today I strongly believe that my price and that I've been praying and

@@ -9,6 +9,8 @@ duration_min: 56
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHY IS SALVATION A MIRACLE  ST. JOHN'S, ANTIGUA  DAG HEWARD-MILLS  2024 [fOMdqxqIsHo]]]"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 Hallelujah. Father, we are excited today to receive of your holy word. Guide us by your mighty Holy Spirit and lead us to do your will. Thank you for the miracles you are doing for us. Thank you for the miracle of salvation.

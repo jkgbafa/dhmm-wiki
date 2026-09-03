@@ -4,6 +4,8 @@ book: "The Double Mega Missionary Church"
 book_number: "056"
 chapter_number: 8
 type: book
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 ### CHAPTER 7 \

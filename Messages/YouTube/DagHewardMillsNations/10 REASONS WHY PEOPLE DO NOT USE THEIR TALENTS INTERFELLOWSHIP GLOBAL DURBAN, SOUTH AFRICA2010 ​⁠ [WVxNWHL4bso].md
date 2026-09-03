@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=WVxNWHL4bso"
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/prayer", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 once again say thank you to Pastor Oliver of being here why non tithing Christians become poor this is my newest book this is the only book that I had a vision from the Lord that I should write you know when somebody is led by the spirit listen carefully to the things he says sometimes say God told me some sometimes say I feel like this some those who are genuine will tell you when how they heard God like Paul Paul the reason why God used Paul was because he was careful to say when he hadn't had

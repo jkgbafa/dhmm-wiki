@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=pD39rm2Ix1c"
 duration_min: 45
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 three yes go our played basketball I play car buses all the schools I say that I thought about this women are move on job my mother's hopping everywhere she thought bikini she took me over for bringing whatever fine I think the warfighter cause every such is our sister Melanie somebody that is big like gimme gimme I recall one Adam was dealing what is happen what they look at me yes Jesus is healing all department department is a bunch of all department yes processes I went to I because they were to Guinea to tell this to

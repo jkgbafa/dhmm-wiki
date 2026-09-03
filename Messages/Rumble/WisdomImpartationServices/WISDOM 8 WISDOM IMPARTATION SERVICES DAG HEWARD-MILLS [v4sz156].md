@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sz156/"
 duration_min: 89
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wisdom"]
 ---
 
 Yeah, we normally do that. Yeah, okay, yeah, yeah. Like first thing that's like somebody else.

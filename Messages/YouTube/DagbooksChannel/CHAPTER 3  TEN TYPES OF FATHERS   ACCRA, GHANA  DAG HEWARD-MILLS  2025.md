@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 types of people that can be fathers to you. Number one, your heavenly father is a type of father you can have. Number two, your father in Christ. Somebody who brings you to Jesus Christ. You would not have been a Christian if the person had not come to your life. Amen. Amen. Is it not true? must always remember that person. Number three, your spiritual father. That is the person who trains you in spiritual things. The person who trains you to read your Bible, the person who teaches you to pray, spiritual, father of spiritual things in your

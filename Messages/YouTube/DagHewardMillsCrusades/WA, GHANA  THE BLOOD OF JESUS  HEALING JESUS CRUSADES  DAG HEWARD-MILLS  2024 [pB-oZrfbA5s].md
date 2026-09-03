@@ -8,6 +8,8 @@ year: 2024
 duration_min: 147
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 keep clapping your hands because that is our way of welcoming vival to bless us with a song Jesus give Jesus a shout Say Amen and sorry to know I am baby say baby say yes to give Jesus a shout Jesus Hallelujah s I say give Jesus a shout of praise hallelujah oh Jesus is Alive w say yes hallelu War H Hallelujah War seek and Jesus aome the of Jesus Hallelujah awesome shesus Jesus Shing Jesus Hallelujah yes yes say Hallelujah can I hear your shout let's welcome Maya to bless us with some good music Jesus is

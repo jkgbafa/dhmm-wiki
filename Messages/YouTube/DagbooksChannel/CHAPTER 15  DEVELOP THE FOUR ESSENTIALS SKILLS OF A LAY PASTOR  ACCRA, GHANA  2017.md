@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2017
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Wealth and Finances"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/wealth-and-finances"]
 ---
 
 Amen. Amen. Now maturity number six is to graduate further in developing the five engines of the lay ministry. What are the five engines or special skills of a lay pastor? Number one, pastoral skills. Number two, professional skills. Number three, business skills. Number four, flourishing skills. And number five, early retirement skills. Those of you who are at the Danny Paul conference last year, five years ago, how many were not at the Danip conference 5 years ago? Okay, most of you were not. Wow. Okay. So, we are going all over again. There are five skills that a

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Ah510-mU8no"
 duration_min: 210
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 father thank you for the blessing that we have today in jesus name amen you may be seated are you excited to be here 31st of december i had news from new zealand that everything was okay they've entered the new year australia they're all in the new year let's say it's working so far what a blessing now today um i want us to do you have oil anointing oil yes although we are not going to go laying hands and all that we're going to do that the anointing is going to grant you a blessing exemption amen

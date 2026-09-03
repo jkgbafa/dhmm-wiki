@@ -4,6 +4,8 @@ book: "Fruitfulness"
 book_number: "065"
 chapter_number: 11
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit"]
 ---
 
 ### CHAPTER 10\

@@ -4,6 +4,8 @@ book: "Now We Are At War"
 book_number: "089"
 chapter_number: 27
 type: book
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Spiritual Warfare"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/spiritual-warfare"]
 ---
 
 ### Chapter 24\

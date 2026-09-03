@@ -3,6 +3,8 @@ title: "Excerpts On The Anointing  Mampong ,Ghana Dag Heward-Mills 2014_fU4dapn9
 channel: "DagHewardMillscamps"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Anointing", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/anointing", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 so now question time what question do you have about the anointing father through these questions and through these answers May we receive the anointing in Jesus name amen wow now what question do you have how many want a kind of invisible power to sort of be with you are you sure yeah are you sure you want it how many things how many think you can have it even if you are a girl girls if you are anointed you become about cine Kuman what are you going to be when you have the anointing what are you

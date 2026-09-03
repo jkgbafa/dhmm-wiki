@@ -4,6 +4,8 @@ book: "Those Who Are Mad"
 book_number: "112"
 chapter_number: 16
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 ### CHAPTER 14\

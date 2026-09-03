@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=dOs4NtIr_CA"
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Soul Winning and Evangelism/Witnessing", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/soul-winning-and-evangelism/witnessing", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 so those are the four best one and Moses answered and said they will not believe me no hack into my voice or they will say the Lord has not appeared unto thee so most of us in our lives and our ministry this is a response to your calling you will not believe that and they will say God has not appeared to you is it not true how are you going to overcome that and the Lost Symbol and the Lord said what is that in Dinah ham okay and he said a rod Iran and he said

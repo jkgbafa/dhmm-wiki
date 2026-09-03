@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=rRKvO4CC5Mo"
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 thingy no more surely Islam mushroom Athena boy is or what thingy na-na-na-na ma-na-ma-na unfortunate ah ha Oh Fournier often Okura a dinner ha ha nah oh yeah Oh is nothing new and he walked up on us they say lies why do people man with my ass they can he's coming man anybody wanna let anybody hear one may I I do anybody here wanna they say you kill you won't do that I touch the car sanitary you can walk hi anybody here wanna say aye anybody here wanna go hey I by you anybody here wanna home

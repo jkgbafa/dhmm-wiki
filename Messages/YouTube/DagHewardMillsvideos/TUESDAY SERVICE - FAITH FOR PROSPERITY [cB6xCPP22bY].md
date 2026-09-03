@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=cB6xCPP22bY"
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 nothing you I want away will they fd1 really we'll be one would you walk through the door the only the only one you're the only we'll never I wonder who sold em love love is all how to make these how they love one who used a porcupine is joy because the audiology mom will never see your beyond he warned of life from every speed you don't want it gone they'll never cuz you're the only reason come with me let him so oh Jesus come with me you're the only word polite mom will never eat he's

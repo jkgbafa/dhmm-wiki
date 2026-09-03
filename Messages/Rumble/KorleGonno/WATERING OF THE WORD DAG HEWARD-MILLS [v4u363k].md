@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u363k/"
 duration_min: 37
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Father, we thank you this morning as we come before your word. We pray for humility for openness, and we pray that our ears will not be dull, and our hearts will not be waxed gross, our eyes will not be closed, that we will not be sleepy as we receive your word. Thank you for blessing us today in Jesus' name. Amen. Alright, you may be seated.

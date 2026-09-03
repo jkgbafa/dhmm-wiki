@@ -4,6 +4,8 @@ book: "Prayer Opportunities"
 book_number: "098"
 chapter_number: 12
 type: book
+topics: ["Prayer", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/prayer", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 ### Chapter 11\

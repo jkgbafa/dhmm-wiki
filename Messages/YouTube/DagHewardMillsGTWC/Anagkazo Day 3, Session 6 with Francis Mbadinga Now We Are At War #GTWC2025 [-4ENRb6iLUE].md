@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-4ENRb6iLUE"
 duration_min: 21
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Anagkazo and Compelling"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/anagkazo-and-compelling"]
 ---
 
 What a blessing. Thank you so much. Merci beaucoup. Still standing. Toujours debout.

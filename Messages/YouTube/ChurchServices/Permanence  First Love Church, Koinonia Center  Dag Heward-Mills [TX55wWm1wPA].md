@@ -8,6 +8,8 @@ duration_min: 110
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/Permanence First Love Church, Koinonia Center Dag Heward-Mills [TX55wWm1wPA]]]"
+topics: ["Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Comfort he Comfort ye my people. Thus sayeth the Lord. Speak comfortably to Jerusalem. Cry unto her that her warare is accomplished. Her iniquity is pardoned. Oh, the Lord my God is my good shepherd. His rod and his t they come upon me. So shepherd the people who come to you. Show them the way to the Lord. Speak the word of God to them. Show them love. Oh, comfort he the people. Comfort. Tell them everything is going to be all right. Tell them God will take care of them. God will provide. Yeah. Yeah. God loves his

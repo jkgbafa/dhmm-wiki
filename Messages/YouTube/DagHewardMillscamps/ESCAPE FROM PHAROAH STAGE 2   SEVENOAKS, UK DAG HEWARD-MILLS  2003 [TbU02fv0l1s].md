@@ -8,6 +8,8 @@ year: 2003
 duration_min: 15
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 welcome to track number two of the present this stage two when Pharaoh would hardly let us go how many have been advised to cool down don't go too far with this church thing don't go too far with this church thing how many have heard that advice before is that if you are doing something don't do it too much it is be careful be careful don't take it too far don't take it too extremes don't go mad you'll destroy your life and what else will it do to destroy your education to destroy your future your life

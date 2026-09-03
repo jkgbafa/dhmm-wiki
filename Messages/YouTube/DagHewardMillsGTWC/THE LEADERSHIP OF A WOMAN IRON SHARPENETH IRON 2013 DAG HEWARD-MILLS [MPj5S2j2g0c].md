@@ -8,6 +8,8 @@ year: 2013
 duration_min: 69
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Let us pray. Father, thank you for the blessing that we have today. That you guide us by the Holy Spirit. In Jesus' name. Amen.

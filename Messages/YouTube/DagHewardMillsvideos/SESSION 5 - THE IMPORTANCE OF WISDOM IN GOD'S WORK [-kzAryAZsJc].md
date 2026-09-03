@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-kzAryAZsJc"
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 hallelujah hallelujah father thanks a million for the blessing mer you are giving to us we praise you we thank you in the mighty name of Jesus I want you to ask God to give you the spirit of wisdom right now pray for the spirit of wisdom thank you Jesus Christ Jes amen amen you may be seated this morning we want to continue on the importance of wisdom for God's work amen how do you become wise how can a person become wise with true wisdom or shall I say with real wisdom one of the ways is

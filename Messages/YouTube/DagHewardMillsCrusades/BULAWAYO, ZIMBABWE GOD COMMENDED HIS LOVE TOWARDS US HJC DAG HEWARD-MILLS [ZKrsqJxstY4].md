@@ -8,6 +8,8 @@ duration_min: 83
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/BULAWAYO, ZIMBABWE  GOD COMMENDED HIS LOVE TOWARDS US  HJC  DAG HEWARD-MILLS [ZKrsqJxstY4]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Put your hands together for Jesus Coutula Everybody say who I give on now selector who might celebrate to that given now Selecona You could lift up your right hand and say who I give on Nacona Gino Cootsama You could say me for my cousin Ooh see we tender in a co wang Selecona Coutura Lift up your right hand and say Lecona Who might sell a connaut who I give on that oh can Selecona Oh yeah with a man to me somebody sing Give Jesus a share so life si jesu oh manu come on a sing with me si jesu li su la beau jesis oh finalica jesu di si weika jesu gama jeso si coolika jesu satan we are so manga everybody sing Jesus lift up your right hand and see Jesus La la Malika Jesus si disorder Jessica Jesus Satan Jesus away and see Jesus wave on to Jesus He is the king of kids who measuring Clap your hands for Jesus and you may be seated at this time.

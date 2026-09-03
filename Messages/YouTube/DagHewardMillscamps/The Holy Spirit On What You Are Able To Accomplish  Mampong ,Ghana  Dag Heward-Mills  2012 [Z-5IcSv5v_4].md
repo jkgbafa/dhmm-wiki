@@ -8,6 +8,8 @@ year: 2012
 duration_min: 185
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Holy Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-holy-spirit"]
 ---
 
 number seven how many numbers do you have six so is it number seven number six the sweet influence of the Holy Spirit on what you are able to accomplish what you are able to accomplish what are you going to be able to do huh what are you going to do with your life what can you do what can you do mly what can you do is that mly what can you do with your life what are you going to be able to do Jeffrey what are you going to be able to do with your life

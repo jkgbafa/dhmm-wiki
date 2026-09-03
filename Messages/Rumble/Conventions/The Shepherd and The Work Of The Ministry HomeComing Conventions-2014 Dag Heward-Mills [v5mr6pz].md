@@ -8,6 +8,8 @@ year: 2014
 duration_min: 135
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Uh and they, you know, there's like a now there's a book being read about gender identity to like five and six year olds. Crazy. And they're and I'm texting with them and they're going, we're very like liberal people, but we're really confused as to why this is happening. And activists get into schools. That's right.

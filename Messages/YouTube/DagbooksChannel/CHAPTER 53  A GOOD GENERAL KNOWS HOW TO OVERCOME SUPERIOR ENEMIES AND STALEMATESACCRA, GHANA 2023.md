@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Leadership", "Leadership/Generals and History Makers", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh yes, a good general knows how to overcome stalemates. How many have fought with something, it has gotten stuck halfway, halfway, everybody is half, half, it's not moving, you also not moving. Do you want a key as a good general how to overcome stalemates? Wow. Wow. Many of our churches have grown up until the point of a stalemate. Is there anybody here who you feel that your church is at a stalemate? Stalemate. Lift your hand if you No. No. No. No. No. If you feel that your church has a stalemate, lift your hand. Yes. No.

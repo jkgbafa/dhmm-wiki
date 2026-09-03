@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=r0X2LkwnEdc"
 duration_min: 156
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I'm a winner, I'm a winner, I'm a winner Put your one hand up, if you know say you cannot be stopped I'm a winner, I'm a winner, I'm a winner Doesn't matter what the situation Go say or go tell you I'm a winner, I'm a winner Break this bold confession In the face of wild love I'm a winner, I'm a winner, I'm a winner God he did my son, he did He will never leave you I'm unovercome I don't know if you see it all Everything I do, every word I say Everything I touch, I

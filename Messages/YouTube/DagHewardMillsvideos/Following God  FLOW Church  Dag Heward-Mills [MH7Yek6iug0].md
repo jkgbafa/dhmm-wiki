@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MH7Yek6iug0"
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Prayer/Praying in Tongues", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah hallelujah hallelujah I'm so excited I don't know about you but I just want to feel the excitement all the way from where you are it's a Sunday morning and we are presently at the flowcheck studio and we want to begin to pray and thank God right now in the name of Jesus wherever you are lift your voice let's bless God let's thank God In The Name of Jesus God has been good to us God has been gracious we have seen another morning another week has passed and today is the beginning of another week you

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xI2CoqMzv60"
 duration_min: 181
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 the name of the Lord Oh right I am PA style avoid for the paper come on Santa quick reply back I mean yeah yes principal I said my my love don't keep done bro man on the back - I have a new no more coordinator here in the grace of God I said my heart is overflowing hey my heart my laptop keep blowing here is the crystal but I bet I'm going to praise the lattice buddy come on and I will I will stink apartment no and like testify bird yes the crystals on ipad run-run

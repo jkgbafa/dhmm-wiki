@@ -8,6 +8,8 @@ year: 2023
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah father thank you for Supernatural metamorphosis in the name of Jesus amen amen you may be seated now we have the transformation of your person number one number two the metamorphosis of what your size number three transformation of your spirituality and number four transformation of your name and number five the transformation of your pastoral Ministry transformation of your pastoral min Ministry now Acts chapter 6 now the transformation of a pastoral work by a pastor and somebody who is into the ministry Acts chapter 6 and verse one in those days the number of the disciples was

@@ -4,6 +4,8 @@ book: "Who Is He That Overcometh The World"
 book_number: "108"
 chapter_number: 2
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ### CHAPTER 1\

@@ -9,6 +9,8 @@ duration_min: 57
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/WHY THE LEADING OF THE HOLY SPIRIT IS IMPORTANT   GTWC BULAWAYO   DAG HEWARD-MILLS  2025 [ewxKPX0loGw]]]"
+topics: ["The Holy Spirit", "Vision and Direction", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-holy-spirit", "topic/vision-and-direction", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Jesus, Father, we thank you for the blessing we have today in Jesus' name. Amen. You may be seated. Hallelujah. What a blessing we have today.

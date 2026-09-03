@@ -8,6 +8,8 @@ year: 2002
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number eight of the mega church thank you for your word today in the name of Jesus Amen you may be seated now I want us to remove the pulpit from here and we are all going to come up here one after the other and we're going to quote scriptures wow we are starting with Ben now remember the scriptures I gave you from Romans you're going to sit on this chair and you're going to you're not allowed to ask anything outside Romans so when the person comes here right you guys are going to

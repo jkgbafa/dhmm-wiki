@@ -8,6 +8,8 @@ year: 2002
 duration_min: 44
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 welcome to track number 13 of the mega church releases power is that not so all right now let's go through that quickly sacrifice releases power now could you come and explain you realize that if you see all the activities in the world where there is sacrifice involved especially sayf of human life you see that that particular activity has power in it we can talk about the hisbah in in the Middle East and you see that they have some kind of power because they sacrifice their lives and so in everything that there sacrifice involved there is

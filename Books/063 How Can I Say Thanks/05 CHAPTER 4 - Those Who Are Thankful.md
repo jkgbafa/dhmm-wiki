@@ -4,6 +4,8 @@ book: "How Can I Say Thanks"
 book_number: "063"
 chapter_number: 5
 type: book
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 ### CHAPTER 4\

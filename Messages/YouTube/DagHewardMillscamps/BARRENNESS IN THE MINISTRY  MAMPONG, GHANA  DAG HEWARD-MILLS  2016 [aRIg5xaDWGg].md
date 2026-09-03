@@ -8,6 +8,8 @@ year: 2016
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 with Jesus Joy giving honor to whom honor is Du I want you to clap your hands as we welcome our founder and our Chancellor give the sh Hallelujah let us pray father we thank you for today and the opportunity that we have at this camp meeting guide us by your Mighty Holy Spirit we are grateful in Jesus name amen you may be seated wow it is exciting to be here and I believe that we are going to have a great time now to get straight to the point our theme is wonders of the lay Ministry

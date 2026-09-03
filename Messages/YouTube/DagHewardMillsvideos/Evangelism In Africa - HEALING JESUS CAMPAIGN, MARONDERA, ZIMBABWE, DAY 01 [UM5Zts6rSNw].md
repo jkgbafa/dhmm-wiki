@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=UM5Zts6rSNw"
 duration_min: 125
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 we've lived your name oh my go we bow before your broad we've list your name o mighty go we bow before your honor replace Johnny we bless your name for my ego father we bless your name we play Johnny my big boy bunnelby please join in we play your knees oh my ego we five I replaced your name we bless your name mighty boy we live on opposite my summation alpha by Abdullah Azzam waited a couple by your name I love me boyo now we bless your name your name we bless your name I need

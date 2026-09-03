@@ -8,6 +8,8 @@ year: 2002
 duration_min: 19
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 Welcome to track number 10 of all out the next vision. You must be delivered from a vision to live in a particular place. Amen. Don't have that vision. Okay.

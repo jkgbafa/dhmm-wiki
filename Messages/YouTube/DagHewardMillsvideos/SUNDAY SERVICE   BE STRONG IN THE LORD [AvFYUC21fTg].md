@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=AvFYUC21fTg"
 duration_min: 70
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 first corinthians chapter 14 verse 1 follow after charity and desire spiritual gifts but rather that you may prophesy amen God is telling us that this year we must desire after spiritual gifts and that we must prophesy amen alright now that's five I would that ye all speak with tongues but rather that he prophesied for greater is he that speaketh with tongues except he interpret that the church may receive edifying amen now one of the very important things about our spiritual walk is that the word of god cannot be lowered for you in particular the standards

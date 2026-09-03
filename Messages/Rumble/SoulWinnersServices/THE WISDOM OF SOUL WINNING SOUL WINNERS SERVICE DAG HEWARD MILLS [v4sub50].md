@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sub50/"
 duration_min: 86
 source: "whisper"
 match: "fuzzy"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 We want to give a good offering tonight, amen. I trust that you came to church with an offering, amen. So please take out a good offering. Let's bless the Lord. Hallelujah.

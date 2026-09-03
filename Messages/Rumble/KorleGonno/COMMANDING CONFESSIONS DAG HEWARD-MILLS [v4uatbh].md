@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uatbh/"
 duration_min: 62
 source: "whisper"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 How many are excited to be in the house of the Lord? And in particular, how many are excited to be in this church? The mega church. I said the mega church. I said the mega church.

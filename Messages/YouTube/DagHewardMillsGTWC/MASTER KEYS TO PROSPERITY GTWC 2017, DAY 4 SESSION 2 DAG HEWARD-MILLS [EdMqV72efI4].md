@@ -8,6 +8,8 @@ year: 2017
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "The Holy Spirit", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/prayer", "topic/the-holy-spirit", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Hallelujah. Father, what a blessing we have today. In the name of Jesus. Amen. Amen.

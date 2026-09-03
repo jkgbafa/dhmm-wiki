@@ -8,6 +8,8 @@ year: 1999
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 tell me how you feel when you're all alone with no one to say I love you come out and you feel your hope is gone try to call your best friend but he's not there now you wind up feeling a tear like no one came my brother taught you warning the storm doesn't last all we're here but there's a pretty little dogie full of plenty and you picked you up yes you yes you will you hold your hand you leave you can up oh yeah give all your hand you leave the bed 15 long as

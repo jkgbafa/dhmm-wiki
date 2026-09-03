@@ -8,6 +8,8 @@ year: 2003
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 he said oh I don't want my children I don't want my children to be brought up in that place where do you want your children said oh going to America you I want my children to so as he was I said where where were you brought up where were you brought up which town were you brought up and he told me T I said look you are brought up there and you say you want your child to be brought up I said do you know America do you know what is in America you say you

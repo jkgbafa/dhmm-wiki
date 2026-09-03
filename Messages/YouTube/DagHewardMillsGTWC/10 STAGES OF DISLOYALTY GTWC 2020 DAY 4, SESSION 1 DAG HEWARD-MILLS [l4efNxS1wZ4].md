@@ -8,6 +8,8 @@ year: 2020
 duration_min: 162
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 Hallelujah. Amen. Wow, what a blessing to see you again. God has given us another day. And He's going to bless us.

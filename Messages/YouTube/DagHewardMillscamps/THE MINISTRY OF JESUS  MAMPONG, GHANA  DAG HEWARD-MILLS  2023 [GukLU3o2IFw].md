@@ -8,6 +8,8 @@ year: 2023
 duration_min: 102
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Prayer"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/prayer"]
 ---
 
 now sit down the third section that I want to share with you is the ministry of Jesus himself the ministry of Jesus the ministry of Jesus Jesus in Luke 2 verse 41 the Bible says now his parents went to Jerusalem every year at the feast and when he was how old how old 12 years old this one there is very very young younger than but this is Jesus himself they went to the Jerusalem and jesus carried behind in Jerusalem and they supposing him to have been in the company went a day journey and they sought

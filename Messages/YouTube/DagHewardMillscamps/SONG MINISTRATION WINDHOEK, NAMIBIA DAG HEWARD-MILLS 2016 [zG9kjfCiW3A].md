@@ -9,6 +9,8 @@ duration_min: 40
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SONG MINISTRATION   WINDHOEK, NAMIBIA DAG HEWARD-MILLS  2016 [zG9kjfCiW3A]]]"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 Welcome to track number ten of Where is the Flock that was given thee? Go into all the world and preach the gospel until your life is done if you love me, obey the Great Commission, yeah. Will church is everywhere in every town, every province, every city now, maybe I shall be saved, but tell me how long is it gonna take for you to obey me? That I'm waiting for you to do my will. See, I have a feeling that I'm waiting for you to obey me.

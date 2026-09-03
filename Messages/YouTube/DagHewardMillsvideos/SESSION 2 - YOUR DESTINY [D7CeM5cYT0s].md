@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=D7CeM5cYT0s"
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 work on while you have the light work on while you have the light Night comes when no one can work so come on get your twos in work why do you have the light oh walk on why do you have the light oh walk on while you have the lights cuz Night comes when no one can work so come on get your tools and work while you have the light and fight on while you have the grace come on and fight on why do you have the grace fight on while you have the grace oh

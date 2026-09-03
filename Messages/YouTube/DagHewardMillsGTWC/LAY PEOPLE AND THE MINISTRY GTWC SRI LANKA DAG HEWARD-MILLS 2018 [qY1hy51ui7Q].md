@@ -9,6 +9,8 @@ duration_min: 60
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/LAY PEOPLE AND THE MINISTRY  GTWC SRI LANKA  DAG HEWARD-MILLS  2018 [qY1hy51ui7Q]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 Mama Prashna Kahana Kidanikwasaka now the devian mahanset of Oba Tuling Sabah Kodanakanda Pulong. It appeared Visual Skir and Mulukura Sabekata Lamandikahan de Pain Hagan make a Mama Hand Harima serious pressure. Nano Rumi Mukimani Kelly Kakre. Ape Dana Deo Sabahina Katha Api September Masimagata Abi Vishwasaka Ape Sabah Sunskrutia on the Madi Mitchell Dura in the Hundai Namut Metanin Venasak window and Ape Sabahatienne may Sabahat and me Abi Ape Sabah Tieni Vishing Lankawata Lanka Vingu Teha Namut Eva Katakara and the Hundai Namut Katakala Vedakne Yam Deval Venasunin.

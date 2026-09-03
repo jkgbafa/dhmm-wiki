@@ -8,6 +8,8 @@ year: 2016
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/vision-and-direction", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 hallow be your name oh Lord Hallowed be your name Lord and Majesty Divine Authority want to start from the very talk holy holy Lord you're mighty holy holy Lord you're worthy Lord you're worthy in a man in a man to sing sing your praise king of glory king of glory god almighty God almighty Hall be your name Hall be your name hallow be your name Hallowed be your name oh Jesus Hall be your name oh Lord hallow Be Your Name Lord and Majesty Divine Authority Hall be your name come on put your hands together for

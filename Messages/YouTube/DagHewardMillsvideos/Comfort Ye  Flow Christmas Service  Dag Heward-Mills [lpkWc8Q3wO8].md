@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=lpkWc8Q3wO8"
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 foreign bless the Lord foreign oh yeah foreign thank you foreign I know your grace you're holding it again foreign we bless you Lord hallelujah hallelujah father thank you so much for your kindness yes Lord for us this morning yes Lord what a blessing what a blessing yes a flow Church on Christmas Day hallelujah we're excited yes thank you in Jesus name amen amen you may be seated right you have a seed today is Christmas day I'm excited to be able to have church and wherever you are joining in from I want you to subscribe share

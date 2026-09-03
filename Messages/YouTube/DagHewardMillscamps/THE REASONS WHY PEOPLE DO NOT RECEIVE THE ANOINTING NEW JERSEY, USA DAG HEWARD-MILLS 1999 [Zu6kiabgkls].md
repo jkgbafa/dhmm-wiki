@@ -8,6 +8,8 @@ year: 1999
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Welcome to track number nine of coming deeper and doing more. Alright. Now, why is it a hard thing to get the anointing? That's the next topic. Why it is a hard thing to catch the anointing.

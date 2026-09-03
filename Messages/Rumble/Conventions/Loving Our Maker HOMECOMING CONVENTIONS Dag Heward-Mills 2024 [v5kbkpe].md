@@ -8,6 +8,8 @@ year: 2024
 duration_min: 102
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Clap your hands for the Lord, clap your hands for the Lord. What a beautiful. Let's clap our hands. Appreciate the Lord. Hallelujah.

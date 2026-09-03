@@ -7,6 +7,8 @@ url: "https://rumble.com/v4syq4x/"
 duration_min: 191
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 Oh Lord, speak into my life. I am a live in sacrifice. Oh Lord. Speak into my life. Can I get a witness?

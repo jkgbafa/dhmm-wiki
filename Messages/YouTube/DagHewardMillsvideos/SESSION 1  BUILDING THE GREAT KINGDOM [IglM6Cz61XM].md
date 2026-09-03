@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IglM6Cz61XM"
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 my heart what I happened haha he is a call you sell getting one aha what I have sings a song but I gave it all now that we thank you for your blessing your word in Jesus name Amen you may be seated give a lot of clap offering hallelujah amen well you are welcome to our proton Convention and I believe God is going to touch you in these three days I'm going to touch your life going to change your life amen and I want to be faithful to God to share what I believe he wants

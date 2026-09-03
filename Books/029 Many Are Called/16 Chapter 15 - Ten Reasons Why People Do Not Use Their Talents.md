@@ -4,6 +4,8 @@ book: "Many Are Called"
 book_number: "029"
 chapter_number: 16
 type: book
+topics: ["Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 ## Chapter 15

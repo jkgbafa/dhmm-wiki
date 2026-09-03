@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=OheO_NArEDc"
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 to the significant means what to be large or important enough to have an effect to be insignificant means what to be small and unimportant such as so as to have no effect forgive to be not noticed do not leave a mark on history not mentioned not considered hallelujah Amen now Israel was given this very key as a key to becoming significant because God Himself wanted them to be significant notice Deuteronomy chapter 28 it says and it shall come to pass that is thou shall hearken diligently unto the voice of the LORD thy God to observe

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Salvation", "Salvation/Repentance", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/salvation", "topic/salvation/repentance", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 ation and to before we come to the fornication, let's go to the next verse. I want to show a characteristic of a Jezebel. I have a book called Jezebel. A woman out of order. I need that book. But why don't they show me the screen? I like I would like to see the monitor or the preach the video also if it's possible. But anyway, I'm waiting. But I was going to show you a characteristic of Jezebel. You know, in case you want to identify her in church. Okay, how many would like to identify her in

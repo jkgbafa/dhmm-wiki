@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=YJu2SayhKuM"
 duration_min: 152
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Oh you clap your hands I hadn't read croco design from clap your hands or the car eventually production hallelujah hallelujah maybe Caesar tonight Ming I shall advance in absentia god bless you from Google induces at this point I want to welcome the chairman of the central planning committee of the healing Jesus campaign in Flemish amen where Elena's campaign to come to be Buster's final way a goose ass maka maka naka no johnny-san moanin low Chinese and oh no no no Charlie brothers and sisters and search now prepare to are very much humble yato below Kulu

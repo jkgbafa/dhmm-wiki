@@ -9,6 +9,8 @@ duration_min: 124
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/PVCI  GTWC SRI LANKA  DAG HEWARD-MILLS  2018 [h5hwbHTA-kg]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Yes, you can't get a cutity. Hallelujah. The Marinera, they want to sum up the tavern, we don't like the Pakaso. No better place to be than in God's house. Amen.

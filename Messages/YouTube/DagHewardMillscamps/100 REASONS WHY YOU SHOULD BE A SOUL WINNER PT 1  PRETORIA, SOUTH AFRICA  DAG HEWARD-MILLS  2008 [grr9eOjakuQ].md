@@ -8,6 +8,8 @@ year: 2008
 duration_min: 84
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism"]
 ---
 
 100 reasons why you should be a soul winner number one are you ready have you got enough paper to write 100 reasons number one you must be a soul winner because that is the Great Commission the great command the great mandate the great instruction the great order given to us by our lord Jesus Christ amen that the first reason why you must be a soul winner we must be people who go out and tell people about Jesus Christ amen did you get it you must be a soul winner because that is the Great Commission huh

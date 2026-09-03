@@ -8,6 +8,8 @@ year: 2013
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Pour Jésus, ô mon sauveur, t'as fait des grandes choses, ce que tu as fait, je peux pas le dire, parce que tu m'as délivré de toutes mes afflictions, oh Jésus, je te dis merci, ô mon sauveur, t'as fait des grandes choses, ce que tu as fait, je peux pas le dire, parce que tu m'as délivré de toutes mes afflictions, ô Jésus, je te dis merci, je te dis merci, Seigneur, te mon cœur, sous le monde chanté, je te dis merci, Seigneur, te mon cœur, oh mon sauveur, t'as fait des grandes choses, ce que tu as fait, je peux pas le dire, parce que tu m'as délivré de toutes mes afflictions, oh Seigneur, je te dis merci, je te dis merci, Seigneur, te mon cœur, je te dis merci, Seigneur, t'es tout, moi, ça t'est, je te dis, merci, tu merci, Seigneur, Jésus, chanter, chanté, je te dis, merci, mon cœur.

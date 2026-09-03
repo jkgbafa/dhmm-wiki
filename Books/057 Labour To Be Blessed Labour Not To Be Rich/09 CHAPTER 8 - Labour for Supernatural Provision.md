@@ -4,6 +4,8 @@ book: "Labour To Be Blessed Labour Not To Be Rich"
 book_number: "057"
 chapter_number: 9
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances"]
 ---
 
 ### CHAPTER 8 \

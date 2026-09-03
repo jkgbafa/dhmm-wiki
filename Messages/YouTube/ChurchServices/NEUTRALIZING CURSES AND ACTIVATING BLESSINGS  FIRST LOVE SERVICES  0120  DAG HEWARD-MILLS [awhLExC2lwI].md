@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=awhLExC2lwI"
 duration_min: 212
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Spiritual Warfare", "Spiritual Warfare/Curses", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 Malachi sorry Malachi 2:1 yes and now all ye priest this commandment is for you verse two if ye will not hear and if you will not lay to heart to give Glory unto your mother unto who my name to give Glory unto my name sayth the Lord of host I will even send a curse upon you so right now as we are here or as we are all in this world there are people that God is sending curses to them and who are those people the people who have not yet understood the benefit and importance

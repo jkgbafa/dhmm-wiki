@@ -4,6 +4,8 @@ book: "Everything By Prayer Nothing Without Prayer"
 book_number: "051"
 chapter_number: 13
 type: book
+topics: ["Fasting", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Deliverance"]
+tags: ["topic/fasting", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance"]
 ---
 
 ### CHAPTER 12\

@@ -8,6 +8,8 @@ year: 2017
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 that's take a walk together with our savior Jesus hand in hand he and I let's cherish every moment Jesus gives to us the time is passing by I often Pray when I kneel down by my bedside I ask the Lord to help me to obey his calling if I could just please the Lord I must cherish the love of God I must cherish the grace of God oh cherish his meres cherish his blood cherish the cross of Christ I must cherish the chance I have I must cherish the call of God oh cherish the time

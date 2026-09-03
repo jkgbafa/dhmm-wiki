@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u365f/"
 duration_min: 43
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Father, we thank you for this wonderful opportunity to be in church today. We pray, oh Lord, that you would guide us, you lead us, encourage us, let your will be done, open our hearts, Lord, to your word that we would never be the same again. We thank you, Lord, in Jesus' name. Amen. You may be seated in the presence of the Lord.

@@ -4,6 +4,8 @@ book: "Those Who Are Ignorant"
 book_number: "119"
 chapter_number: 13
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 ## Chapter 11

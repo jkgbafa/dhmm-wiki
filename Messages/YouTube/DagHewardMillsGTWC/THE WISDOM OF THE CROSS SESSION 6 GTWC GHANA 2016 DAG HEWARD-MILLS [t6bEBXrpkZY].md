@@ -8,6 +8,8 @@ year: 2016
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wisdom"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wisdom"]
 ---
 
 Father, thanks a million for the great blessing. Lay your hand on your head. Receive the wisdom of God. In Jesus' name. Amen.

@@ -4,6 +4,8 @@ book: "1000 Micro Churches"
 book_number: "066"
 chapter_number: 18
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring"]
 ---
 
 ### CHAPTER 17\

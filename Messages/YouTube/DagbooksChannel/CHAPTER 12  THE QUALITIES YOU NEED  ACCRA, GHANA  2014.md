@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2014
 source: "autocaption"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 qualities needed for watching and praying. Amen. I believe I started sharing with you some of those things and I'm continuing today. What are some of the things that are needed for watching and praying? Number one, diligence. Did you have that diligence? You need to be hardworking and you need to be diligent, disciplined. Otherwise you will not sleep early and pray. Amen. So watching and praying very important and this year is a year of prayer and I believe that God is going to help us to pray more. Number two, we need um what else do you

@@ -9,6 +9,8 @@ duration_min: 64
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/INTIMIDATION  GTWC LONDON  DAG HEWARD-MILLS  2016 [vynKJlDMMsg]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Three intimidation is demonic. Bible says, as they went to prayer, a certain damsel that was possessed with the spirit of divination met us. Acts 16, verse 16. And the same followed us day and night, crying, these servants are the servants of the most high God. She did this for many days.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Sm7t7qbTLHc"
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 let us pray father thank you for tonight thank you for your word your blessing in our lives we are most grateful Lord for all that you have given to us thank you Jesus for your mercy your kindness that allows us to be standing here today we give you a sign in the name of Jesus amen Holy Spirit lead us let your will be done today in Jesus name Amen you may be seated in the presence of the Lord hallelujah now um are you ready for what is coming your way okay turn to Isaiah chapter three

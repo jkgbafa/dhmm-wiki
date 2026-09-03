@@ -8,6 +8,8 @@ year: 2004
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/ministry-and-pastoring", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 Hallelujah now we want to look at the right reasons um seven correct reasons for being in full-time Ministry amen amen now the Bible teaches that your heart is a very important Place reach amen amen so in Proverbs chapter 4 it says in verse 23 keep thy heart with all diligence for out of it are the issues of life now if your heart is really you know in search for money then with Time Out of This Heart looking for money will come confusion Rebellion do you understand yeah one day uh we had a pastor who wanted

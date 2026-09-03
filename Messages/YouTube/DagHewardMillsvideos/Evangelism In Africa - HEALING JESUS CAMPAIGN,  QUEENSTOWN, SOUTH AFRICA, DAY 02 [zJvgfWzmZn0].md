@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zJvgfWzmZn0"
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah amen hallelujah amen great things are in store for us tonight in the coolest beggar economics ooh God is going to touch our life Chico Akuma super media - and if you just came tonight I wanna welcome you to an experience that will turn your life around forever what about we a cigar box of an intangible a pious balls of mana in Tohoku boom ba corner pocket and I want us all tonight to join me to welcome pasta cosa of the Board of Trustees of the healing Jesus campaign and I need to bring us some

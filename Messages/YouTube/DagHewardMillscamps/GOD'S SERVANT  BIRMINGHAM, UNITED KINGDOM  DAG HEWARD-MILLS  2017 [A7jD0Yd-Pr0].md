@@ -8,6 +8,8 @@ year: 2017
 duration_min: 201
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Hallelujah father thank you for this opportunity we have today in the mighty name of Jesus amen amen you may be seated turn with me to Isaiah 42 now I want us to pray that we would fulfill God's will for our lives amen so I want us to pray for three hours every day till we leave amen so today we have to accomplish three hours yesterday I believe we we almost accomplished three hours and so we have the balance of that one and then today's own and tomorrow's own all right is it a good policy now

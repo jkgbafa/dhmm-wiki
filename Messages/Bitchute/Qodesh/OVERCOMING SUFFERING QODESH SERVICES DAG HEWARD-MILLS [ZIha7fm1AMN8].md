@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/ZIha7fm1AMN8/"
 duration_min: 62
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 Lift your hands, Father. Thank you for this opportunity today. We love you. We praise you. We honor you.

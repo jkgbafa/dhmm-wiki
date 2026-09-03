@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sxn9r/"
 duration_min: 135
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 There's nobody else like you. Nobody else like you. Not my mother, not my father, not my sister, not my brother. Nobody else will do. That's why I love you.

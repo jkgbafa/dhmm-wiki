@@ -8,6 +8,8 @@ year: 2023
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 H the moment you have been waiting for is here I can't feel your excitement I can't hear your shouting I can't see the joy go here what's happening to you are you okay hey hey wow wow wow what aess blessing what a blessing what a blessing what a blessing what a blessing what a blessing what a blessing wow please be seated I am only here to express my joy wow nice this great opportunity that has been given to yes oh yes oh yes oh yes oh yes wow if wow you have been around for some

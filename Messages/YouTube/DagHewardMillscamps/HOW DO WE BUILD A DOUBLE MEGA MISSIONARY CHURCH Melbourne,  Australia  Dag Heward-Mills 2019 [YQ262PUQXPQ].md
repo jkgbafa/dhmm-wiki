@@ -8,6 +8,8 @@ year: 2019
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Missions"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/missions"]
 ---
 
 Church double Mega Missionary Church the next question is how do we get into the building of a double Mega Missionary church now are you listening to me now the question is how does a person build a great Hospital what do you think what do you think you do huh you build what desire yeah after you have a desire to build a great Hospital you need money and then what else huh workers oh you people you are failing your exam how do you build a great Hospital internet Foundation how do you build a great Clinic okay

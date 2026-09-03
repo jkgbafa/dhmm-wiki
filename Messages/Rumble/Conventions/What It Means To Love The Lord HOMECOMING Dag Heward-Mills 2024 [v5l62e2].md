@@ -8,6 +8,8 @@ year: 2024
 duration_min: 84
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 From Mada's beginnings as a medical student in 1987 at the School of Hygiene, Dag Heward Mills embarked on a journey that would change countless lives. Through the corridors of Kolobu Teaching Hospital, his vision took shape, leading to the founding of the Lighthouse Chapel International, a church that would grow beyond borders. In the unassuming setting of the Kolobu Canteen, early gatherings included Sunday services, midweek meetings and rehearsals, alongside the church's first wedding, baby dedication, and children's service.

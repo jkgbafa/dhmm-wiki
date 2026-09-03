@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2014
 source: "autocaption"
+topics: ["Prayer", "Prayer/Answered Prayer"]
+tags: ["topic/prayer", "topic/prayer/answered-prayer"]
 ---
 
 Hallelujah. Let us pray. Let us pray. Let us pray. Heavenly Father, thank you so much for this opportunity that we have to share your holy word today. We pray that you guide us. We pray that you lead us. We pray that you bless us with your word. We thank you in Jesus name. Amen. Everyone said amen. Amen. You may be seated. Hallelujah. We are sharing on the subject of prayer promises. Amen. And I want to just conclude this morning on this subject and we can move on to something else next week. Amen. Now God has

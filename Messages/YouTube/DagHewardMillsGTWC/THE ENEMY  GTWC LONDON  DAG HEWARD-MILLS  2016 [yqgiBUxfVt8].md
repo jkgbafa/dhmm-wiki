@@ -8,6 +8,8 @@ year: 2016
 duration_min: 188
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 I'll be ready at 20. Ready for the war. I'll be ready at 20 for the work of God. There is nothing I can do. Oh no. For the Lord, there is no way that's too far. No battle I can fight. Ready at 20. Let's give ourselves to this glorious mission unreservedly. Let us never think that our time, our strength, our families are our own. Let us dedicate them all to God and to his work. Let us give ourselves holy that our prophet in may I be ready at 20. I'll be ready at 20. Ready for

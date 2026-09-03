@@ -8,6 +8,8 @@ year: 2023
 duration_min: 156
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 father thank you for this great privilege you give to us at this time we are grateful heavenly father in the name of Jesus amen amen now 25 things that we are not ashamed of because we are not ashamed of the Gospel number one number one 25 things that we are not ashamed of because we are not ashamed of the Gospel now tonight we are going to end early so we can come tomorrow early so number one we are not Romans 1:16 we are not ashamed of the Gospel of Jesus Christ amen amen number one we

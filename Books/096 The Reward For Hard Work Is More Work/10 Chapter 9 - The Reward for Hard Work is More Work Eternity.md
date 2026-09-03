@@ -4,6 +4,8 @@ book: "The Reward For Hard Work Is More Work"
 book_number: "096"
 chapter_number: 10
 type: book
+topics: ["Heaven, Hell and Eternity", "Work and Diligence"]
+tags: ["topic/heaven-hell-and-eternity", "topic/work-and-diligence"]
 ---
 
 ### Chapter 9\

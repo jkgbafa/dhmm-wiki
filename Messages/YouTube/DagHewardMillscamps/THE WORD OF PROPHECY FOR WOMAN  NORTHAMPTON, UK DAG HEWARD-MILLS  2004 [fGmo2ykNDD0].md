@@ -8,6 +8,8 @@ year: 2004
 duration_min: 44
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 welcome to track number six of missions and missionaries now just ask the Lord for the Holy Spirit like the little girl in the dream she asked for the Holy Spirit ask for the Holy Spirit ask for courage ask for Wisdom ask for these things that God gives so that in the administration of the spirit these things will be added unto you father thank you Lord bless Lord and anoint never the same again in the name of Jesus thank you Lord for your blessing in the name of Jesus thank you thank you Lord for your blessing

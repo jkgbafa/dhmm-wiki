@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=i5VTeOeIMh4"
 duration_min: 125
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Let's pray over the offering. Father, we thank you for the offering. Père, nous te remercions pour cette offrand. Far om before nous ne canonions. We ask for your blessing upon it in Jesus' name.

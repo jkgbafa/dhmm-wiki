@@ -4,6 +4,8 @@ book: "Blood Power The Blood Of Jesus"
 book_number: "106"
 chapter_number: 14
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Chapter 13\

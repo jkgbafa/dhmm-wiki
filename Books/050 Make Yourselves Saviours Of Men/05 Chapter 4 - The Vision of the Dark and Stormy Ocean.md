@@ -4,6 +4,8 @@ book: "Make Yourselves Saviours Of Men"
 book_number: "050"
 chapter_number: 5
 type: book
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 ### Chapter 4\

@@ -8,6 +8,8 @@ year: 1999
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 let's welcome the wonderful tulips as they minister to act Jesus is the answer let's see for the world today if you have some questions in the chorus of Dharma greatest are you currently compete together fine reflections on the old past thank you can we can I know you've got mountains think you can not hide I'm all the disguise of God I'll speak it again I know you've got my eye Julie hallelujah The Saturdays but Valentine's be hallelujah they said it Valentine still image I want to tell you I have another amen and you know what

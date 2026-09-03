@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ue8du/"
 duration_min: 51
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 I want you to turn with me to Mark chapter nine. My message is entitled, It is possible. Alright. And I want to read from Mark chapter 9. It's possible to serve God.

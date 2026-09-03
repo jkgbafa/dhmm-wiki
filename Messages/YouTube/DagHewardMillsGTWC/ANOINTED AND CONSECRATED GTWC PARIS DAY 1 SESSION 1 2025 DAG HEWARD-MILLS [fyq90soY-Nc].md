@@ -8,6 +8,8 @@ year: 2025
 duration_min: 55
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Prayer"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/prayer"]
 ---
 
 What a blessed time. What is happening this week? It's an act of God's mercy towards you and I. What we are experiencing is an act of God's mercy. He called us to serve him.

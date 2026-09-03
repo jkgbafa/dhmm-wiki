@@ -9,6 +9,8 @@ duration_min: 13
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/DON'T BE FIXATED TO YOUR JOB  SEVENOAKS, UNITED KINGDOM  DAG HEWARD-MILLS  2002 [85IG1gcaE7I]]]"
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 Welcome to track number 12 of all out. Listen, there are no explanations for my messages. You get it? Just take it. That's what I mean.

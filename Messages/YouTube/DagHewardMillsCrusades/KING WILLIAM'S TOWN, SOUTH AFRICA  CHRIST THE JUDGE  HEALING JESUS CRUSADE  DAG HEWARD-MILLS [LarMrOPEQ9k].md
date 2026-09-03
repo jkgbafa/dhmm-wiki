@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=LarMrOPEQ9k"
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Jesus is here right now Jesus is here right now he is here to meet your needs to set the C free oh Jesus is here right now if you feel all hope is gone and you fight the battle alone and depression threatens your very Soul Jesus W VIs with you today chase the dark clouds away oh Jesus is here right now Jesus is here right now oh Jesus he's here right now now he is here to meet your needs to set the captive free oh Jesus is here right now if you feel nobody cares and

@@ -9,6 +9,8 @@ duration_min: 63
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/UNDERSTANDING THE TIMES    SEVENOAKS, UK DAG HEWARD-MILLS  2005 [HNYfP4IbdUU]]]"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Welcome to track number twelve of birthday. Kewa. The angel put his left leg where on the land of the sea. And the right leg. And he swear by that what?

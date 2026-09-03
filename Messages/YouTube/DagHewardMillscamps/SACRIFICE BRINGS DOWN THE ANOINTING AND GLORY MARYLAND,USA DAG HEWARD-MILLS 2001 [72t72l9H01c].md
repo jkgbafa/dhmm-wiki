@@ -8,6 +8,8 @@ year: 2001
 duration_min: 10
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Welcome to track number 24 of the message of sacrifice. Next one. Sacrifice. It's important to bring down the anointing and the glory. Tend to 2 Chronicles chapter 5.

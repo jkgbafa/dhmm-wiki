@@ -8,6 +8,8 @@ year: 2022
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 father thank you for this blessing in jesus' name amen amen you may be seated right I see much fewer people here than you said yesterday yesterday was like you all be here oh Bishop Henry is it they haven't woken up or they are not because come stand here and see so find out what's going on cuz I'm also tired I would love to rest and even have breakfast I haven't eaten since I came here oh yes so you get what I'm saying so you you are tired I'm also tired we all tired so anyway I

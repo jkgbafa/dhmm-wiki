@@ -4,6 +4,8 @@ book: "Those Who Honour You"
 book_number: "058"
 chapter_number: 12
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 ###  CHAPTER 11\

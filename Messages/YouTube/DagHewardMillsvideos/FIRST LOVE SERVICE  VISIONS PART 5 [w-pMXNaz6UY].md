@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=w-pMXNaz6UY"
 duration_min: 176
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh wouldn't be the presence of coffee yes you praise yourself of all this money raising up the moment the moment the moment the resistance yes the presence of God the glory of God it was amazing in this room like a row before the viable roster and example yes that not worried was filled with the glory where no flesh will glorify God by the spirit of man shall call if I go somebody wisely God this one actually it's the holy of holies somebody one dancer on the living on house side it's a view Hey Oh God

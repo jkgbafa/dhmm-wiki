@@ -8,6 +8,8 @@ year: 2006
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 let's pray again father we thank you for your blessing in Jesus name amen amen okay now to do the work of an evangelist I do believe that you need to have um a a certain grasp of not even a grasp but there are certain things that need to be in your understanding amen amen so I want to share some of those things and then we'll be done for the camp we go home am all right so the first one is um well these things that I'm going to share with you I call them phenomenon all

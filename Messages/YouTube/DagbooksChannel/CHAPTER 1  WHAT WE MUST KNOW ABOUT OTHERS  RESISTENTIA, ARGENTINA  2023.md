@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Hallelujah, hallelujah, hallelujah, hallelujah. Let's pray. Heavenly Father, thank you for this opportunity. We ask you to speak to our hearts and guide us in the great work. Thank you for your power, your power that is working today. May all who are in this place be filled with the Holy Spirit in the name of Jesus and the revelation of your word in the name of Jesus. And everyone says, "Amen." Alleluia. You may take a seat, please. Today I want to share many things with you , but unfortunately I don't have much time. So, I'm going to

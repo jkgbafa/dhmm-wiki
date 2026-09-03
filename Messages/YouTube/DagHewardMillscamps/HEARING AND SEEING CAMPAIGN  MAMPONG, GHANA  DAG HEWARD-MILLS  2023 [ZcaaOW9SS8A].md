@@ -8,6 +8,8 @@ year: 2023
 duration_min: 35
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 father thank you for the blessing we have today in the name of Jesus Amen you may be seated now the importance of us working on making the church grow this is the the most difficult part of a pastor's work if you ask me what is the most difficult part of the ministry is making the church grow that's that's that's my my experience making the church grow if you ask me what the most difficult part that you have experienced I say was making the church grow so shabby shepherding must go is a special set of systematic

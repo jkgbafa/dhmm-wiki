@@ -8,6 +8,8 @@ year: 2017
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 lelou you hallelujah father what a blessing we have today their help in addictions emotion in the name of Jesus amen amen you may be seated we never Plus beautiful God is giving prosperity job dude the prosperity to his fastest I see pastor someone 1/8 was 25 Saudis with verse event sank save now I beseech thee O Lord send now prosperity on what a prosperity some 1 1 8 verse 25 cent now Prospera prosperity Zachariah 8 and verse 11 zakah he which ever ciose but now I will not be unto the residue of these people as

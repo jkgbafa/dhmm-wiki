@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tu02w/"
 duration_min: 72
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Search from me. Draw me closer to you. Reveal your secret heart design. Stay me until the gift in me is pure and all consuming fire. You always know me.

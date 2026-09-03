@@ -8,6 +8,8 @@ year: 2000
 duration_min: 149
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 you have to prepare your message to meet the audience I mean if it's Evangelistic maybe it's one off so that one just goes if it's exaltation maybe you need to raise the moral of the troops as major said but with the teaching you have to go through the steps the reasons the why and so on and so forth and in fact uh as I listened to the bishop I realized that in fact I've been teaching for a while that I have to move from the utag anointing into something higher have you said reason Reverend Eddie

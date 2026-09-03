@@ -9,6 +9,8 @@ duration_min: 6
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EMPTY YOURSELF OF A FINANCIAL VISION  SEVENOAKS, UNITED KINGDOM  DAG HEWARD-MILLS  2002 [wqJXZC3AhKA]]]"
+topics: ["Vision and Direction", "Wealth and Finances"]
+tags: ["topic/vision-and-direction", "topic/wealth-and-finances"]
 ---
 
 Let's now be a little specific. Empty yourself of a financial vision. Amen. If you want to be used by God. I'm talking about things you must empty yourself of.

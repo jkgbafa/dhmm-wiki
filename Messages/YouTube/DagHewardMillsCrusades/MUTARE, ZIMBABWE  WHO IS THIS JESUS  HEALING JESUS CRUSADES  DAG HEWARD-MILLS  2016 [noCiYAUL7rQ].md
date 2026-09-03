@@ -8,6 +8,8 @@ year: 2016
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 hallelujah hallelujah amen amen no W oh Baba wo no good oh somebody say for come on give me no good God God when I say say are you there b are you there lift up your umbrella like this come on come on come on just on put your hands together for Jesus ch please be seated you may be seated if you are standing and tonight let's welcome bdr to bless us with a song how sweet deep the name of Jesus sound in aers here it to his sorrow heals his wound and drives away his fear

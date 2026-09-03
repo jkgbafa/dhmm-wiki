@@ -8,6 +8,8 @@ year: 2014
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Clap your hands, everybody tonight. Are you ready for what God has for you tonight? Why a crowd of a shadow and no man are doing. Last night we saw many souls saved. And I do need prayer and make you one and many testimonies of God's healing power.

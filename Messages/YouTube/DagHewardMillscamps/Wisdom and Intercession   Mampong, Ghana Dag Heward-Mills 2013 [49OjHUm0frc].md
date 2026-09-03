@@ -8,6 +8,8 @@ year: 2013
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Prayer/Intercession", "Spiritual Warfare", "Spiritual Warfare/Demonology", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/prayer/intercession", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wisdom"]
 ---
 
 two two wo wo wo W ooh oo w w here we stand Standing for the Lord never going back again to the world and give away here we stand fighting for the Lord we will prise the good night to stay in the Wind of the Lord so be strong in the Lord in the power of His might put on behold I'm my god oh L you may be able to stand oh let your light with truth and take up the sheld of fa and with the sword of the spirit we will over so can you

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 1999
 source: "autocaption"
+topics: ["Marriage and Family", "Salvation", "Salvation/Backsliding", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/marriage-and-family", "topic/salvation", "topic/salvation/backsliding", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Morning. All right, turn with me to Mark chapter 4 and we want to pick up where we left off last week. We are looking generally at the subject of backsliding and in particular at important symptoms of backsliding. Amen. Mark chapter 4. All right. Mark chapter 4. Are you with me? I want us to read from verse number 19 uh 20 and we'll continue from there. Ready? Go. Oh, please. Mark 4:1 19. Ready, go. And the cares of this world and the deceitfulness of riches and the lust of other things entering in choke the word, and

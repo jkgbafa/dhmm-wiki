@@ -7,6 +7,8 @@ url: "https://rumble.com/v4txodu/"
 duration_min: 74
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Let us pray, Heavenly Father, we thank you for your blessing this evening. Thank you for the opportunity to come before your holy word. We ask you to speak to our hearts, lead us in Jesus' name. Amen. You may be seated.

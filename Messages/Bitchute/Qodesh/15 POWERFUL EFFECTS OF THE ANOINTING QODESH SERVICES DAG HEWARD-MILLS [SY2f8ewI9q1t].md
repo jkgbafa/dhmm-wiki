@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/SY2f8ewI9q1t/"
 duration_min: 85
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 We bless you. We thank you for your presence. Holy Spirit, we invite you. Come and dwell among us. Have your own.

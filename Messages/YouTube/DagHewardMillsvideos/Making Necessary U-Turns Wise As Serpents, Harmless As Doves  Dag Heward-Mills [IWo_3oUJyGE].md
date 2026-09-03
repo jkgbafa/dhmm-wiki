@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IWo_3oUJyGE"
 duration_min: 5
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 So every Uturn, some of you have been going this way and you need to make a Uturn, you'll be making it very nicely this year in Jesus name. Don't be ashamed though. The humility is the next step. Don't be ashamed to say, you know, I said that, but I'm sorry. I' I've made a mistake and I've changed my mind. Don't be afraid of that. This year, don't be afraid of that. Yes, masters of Uturn. If you are sorry, you are sorry. That's all. That's all. What can happen again? You are sorry. Are you not sorry?

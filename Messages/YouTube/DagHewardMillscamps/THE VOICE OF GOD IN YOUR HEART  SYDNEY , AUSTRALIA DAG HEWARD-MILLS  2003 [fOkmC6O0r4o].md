@@ -8,6 +8,8 @@ year: 2003
 duration_min: 53
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 welcome to track number five of how to survive in Ephesus well are we reading 1 Timothy chapter 1 have you had some coffee are you all right everything okay good huh all right stand to your feet everybody do do you understand what God is telling you how many feel that God is speaking to you very good ibraim by the end of the camp we are changing your name huh yeah very necessary is there somebody here called alaji oh we have to change it Shahid who is Shahid give yourself to the Lord Just Close Your Eyes

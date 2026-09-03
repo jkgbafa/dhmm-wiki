@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=VxdRKhNHb_U"
 duration_min: 135
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 shout hallelujah hallelujah hallelujah hallah shout am hallelujah amen God is about to do something tonight Hallelujah B me me you song Hallelujah Hallelujah aome I'm hallelujah hallelujah say t prise the Lord what water Hallelujah wow wow give the Lord a hand clap tonight if you are excited about what God is doing clap your hands I can't hear your hand clap at all the atmosphere is charged and God is going to touch your life tonight please be seated what a night what a i without wasting any more time let's welcome V to bless us with a

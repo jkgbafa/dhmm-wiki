@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=gnq8_8WgA-8"
 duration_min: 162
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Oh haha to be bright we get the ball rolling on up trying to move it out he deserves the praise hallelujah you're gonna sing his love or give thanks unto the Lord for he is good ina luleå nothing other songs join us as we prize Oh before we Oh Oh Oh Oh ha ah Oh Oh oh yeah Oh what Oh lawyer remember what the power Oh hi ah ha ha ha now Wow hallelujah hallelujah other blessings you may be seated now I'm going to go a little faster and I'm going to beg you to make

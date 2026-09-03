@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/steps-to-the-anoin
 duration_min: 86
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Father, we are so grateful for this evening and the chance and opportunity that we have to serve you. Lord, we ask that you speak to our hearts today. We ask that you guide us, Lord, in Jesus' name. We ask that your spirit will bring us into your perfect will. We thank you in Jesus' name.

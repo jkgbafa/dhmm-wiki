@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=eATUzJObd6I"
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 horse neighs I will bless the Lord at all times and his praise shall continually be in my mouth I will bless the Lord at all times his praise shall be in my mouth my flow shall make it both in the law come magnify the Lord with me laughing though his holy name together I will bless the Lord at all times his praise shall be in my mouth my soul shall make his birth in the Lord come magnify the Lord with me let's exalt Holy Name together I will bless the Lord at all times great you'll

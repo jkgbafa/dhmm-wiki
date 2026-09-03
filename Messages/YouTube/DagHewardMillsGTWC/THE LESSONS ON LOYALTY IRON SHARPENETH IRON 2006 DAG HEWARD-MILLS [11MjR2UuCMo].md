@@ -8,6 +8,8 @@ year: 2006
 duration_min: 102
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 Bless Come on. Look on. My God, he loves moon. He says I am shot. Come on.

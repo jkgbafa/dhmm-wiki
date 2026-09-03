@@ -8,6 +8,8 @@ year: 2004
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 1 Samuel 1613 then Samuel took the Horn of oil and anointed him in the midst of his Brethren all right and the spirit of the Lord Came Upon David from that day forward so Samuel rose up amen and went to Rama he but the spirit of the Lord departed from Saul and an evil spirit from the Lord troubled him and Saul's servants right said unto him behold now an evil spirit from God troubleth thee let our Lord Now command thy servants which are before thee to seek out a man who is cunning a cunning player

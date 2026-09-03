@@ -8,6 +8,8 @@ year: 2023
 duration_min: 151
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 Father, we are grateful for your blessing in Jesus' name of Jesus Christ. Amen. Amen. You may be seated. You are all welcome.

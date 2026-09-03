@@ -8,6 +8,8 @@ year: 2017
 duration_min: 21
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Thanks, Jesus for the mighty, mighty Holy Spirit. Merci Jesus for the puissant puissant Saint Esprit who is flowing through our lives in our views. We love you, Jesus. We thank you. We love you, Jesus.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2Tr8vzZjCpQ"
 duration_min: 268
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 why don't you lift up your hands to worship the lord father you said where two or three people are gathered in your name there you are this morning we just want to lift up our worship to you sweet insects just want you to lift up your hands and worship the lord thank you jesus we appreciate you jesus thank you jesus every time that we are gathered together in his name there he is also our sacrifice to the praises of your people let our prayers sacrifice lord we love you oh lord we love you yes we

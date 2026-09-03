@@ -8,6 +8,8 @@ year: 2002
 duration_min: 31
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to track number eight. No, I'm going to the battle plan now. Number one, engage the enemy, engage the enemy. Number two, bind paralyze and immobilize him for a period. Number three, set his captives free, and then take them captive for Christ.

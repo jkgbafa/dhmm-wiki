@@ -4,6 +4,8 @@ book: "Those Who Rebel"
 book_number: "094"
 chapter_number: 10
 type: book
+topics: ["Leadership", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/leadership", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 ### Chapter 8\

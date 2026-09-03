@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=5maAI7fA9Ew"
 duration_min: 135
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I just want to talk to you about heaven when we finish here and we get up there I just want to talk to you about heaven Jesus you and me in eternity The Winner Takes It All Those Who R theing those who trusted him those who put it his will I just want to talk about the crowns we going to we when we finish and we get up there I just want to share about the crown of righteousness he gives to those know we look for his return The Winner Takes It All Those Who overcome

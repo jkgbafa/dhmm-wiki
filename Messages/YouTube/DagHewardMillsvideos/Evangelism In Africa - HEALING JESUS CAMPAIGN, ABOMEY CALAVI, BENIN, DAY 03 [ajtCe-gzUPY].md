@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ajtCe-gzUPY"
 duration_min: 152
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 tonight is a very special night set three children special bond some arrows nominative or a God is going to bless us greatly through the evangelists tonight palpable jellyfish watch you're gonna finish up on Dhamma but when availability by Daniel or monodromy Wawa Bhutto before we receive the Evangelist let us put our hands together and welcome with value to bless us all up all the hosts of our evolution rules dialog with the mother the producer for polymer you to home when I got on you know while on the Navarro hallelujah he opposed adieu pa pa pa

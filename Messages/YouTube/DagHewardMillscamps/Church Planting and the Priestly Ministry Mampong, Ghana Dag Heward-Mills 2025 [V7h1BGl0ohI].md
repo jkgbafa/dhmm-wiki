@@ -9,6 +9,8 @@ duration_min: 8
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Church Planting and the Priestly Ministry  Mampong, Ghana  Dag Heward-Mills  2025 [V7h1BGl0ohI]]]"
+topics: ["Church Growth", "Church Growth/Church Planting", "Ministry and Pastoring", "Prayer", "Prayer/Intercession"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/ministry-and-pastoring", "topic/prayer", "topic/prayer/intercession"]
 ---
 
 Seven things that every church planter should know about priestly ministry. Number one, we are priests unto Lord unto the Lord. Number two, the prayers we offer are incense to the Lord. Psalm 141, verse 2. Let my prayer be set forth before thee.

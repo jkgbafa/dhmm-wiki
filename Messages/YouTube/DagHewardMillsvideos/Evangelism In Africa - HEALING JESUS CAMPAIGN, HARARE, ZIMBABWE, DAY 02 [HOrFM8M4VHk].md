@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=HOrFM8M4VHk"
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah barometer cooler chess all right OC people order practice or a microRNA teacher Zhu mu 42 days old are you guys together for Jesus whoo oh poor Nancy Jesu Mundi see Jesu Oh Mary Richardson more a fetus i couldna oh hi Sammy while he wear my Sheba everybody came upon education for their teachers fooled easy deciliters more our PJs I do know why I got to me worried where muster motion which is the writer to stop on the ground lift up your eyes on a set up man come on as Gras which is errata su

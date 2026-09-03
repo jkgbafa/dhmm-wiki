@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/1oYsW9U4t5wi/"
 duration_min: 66
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I want to pray. I want to pray. I want a praise. Praise him. Praise him.

@@ -8,6 +8,8 @@ year: 2007
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 first thing we want to look at is four categories of ministers number one ministers who are running in vain they are wasting their time Galatians chapter 1 chapter 2 how many of us want to be in the ministry if you don't I think you should go home this not a camp for it's not a Christian Camp it's a camp for soldiers and workers all right what do you think do you understand what I'm saying it's not a camp for just Christianity ni things of Christianity it's a camp for people who want to work who want

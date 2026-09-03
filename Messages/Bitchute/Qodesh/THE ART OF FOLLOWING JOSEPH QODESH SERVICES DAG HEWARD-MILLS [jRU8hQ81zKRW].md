@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/jRU8hQ81zKRW/"
 duration_min: 38
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Today we want to look at the art of following Joseph. There are different people we can follow. Example that we can follow are people that have inherited the promises. And number one, Joseph in the Bible is somebody we can follow. Amen.

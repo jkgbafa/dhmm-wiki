@@ -9,6 +9,8 @@ duration_min: 80
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/I Believe in Miracles Because I Walk By Faith  Castries, St Lucia  Dag Heward-Mills 2024 [yNaHP6dqzdE]]]"
+topics: ["Faith", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/faith", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Pray for the spirit of revelation. Pray for the spirit of revelation. Mandalema kabana mandala bashubala. Faribandala mana brother. And kabalana ramata la bada.

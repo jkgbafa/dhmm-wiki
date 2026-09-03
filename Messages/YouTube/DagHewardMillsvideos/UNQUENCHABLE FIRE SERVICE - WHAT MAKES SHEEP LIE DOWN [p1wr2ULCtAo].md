@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=p1wr2ULCtAo"
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 believe it cause it will never pass the way we will need a mention story writing on the house of chalk because below they're not people basketball I know that everything is gonna be alright it's coming back like you said yes gonna be alright it's coming back for the truth and goo Oh everything is gonna be alright it's coming back oh yeah yes all right it's coming now where's my muscle zero nine pain even soli riding on the top so here you all your life and part doing and if you peace of mind I'm telling you

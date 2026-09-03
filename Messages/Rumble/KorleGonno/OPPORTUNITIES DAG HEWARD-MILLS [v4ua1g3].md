@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ua1g3/"
 duration_min: 49
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Tell me to Luke 15. I was teaching the other service a song. I don't know. If we have a time. Or maybe we can sing it once.

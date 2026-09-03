@@ -4,6 +4,8 @@ book: "Steps To God 'S Presence"
 book_number: "114"
 chapter_number: 3
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 ### CHAPTER 2\

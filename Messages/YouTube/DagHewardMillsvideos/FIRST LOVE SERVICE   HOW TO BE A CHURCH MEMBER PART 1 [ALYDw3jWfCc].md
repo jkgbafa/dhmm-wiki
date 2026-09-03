@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ALYDw3jWfCc"
 duration_min: 157
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 why does the kid a lot of chatter perfect today if the precious day I with a certified this builder the field has why don't you go and welcome somebody to churches the plan tends to be in the house of the Lord forever welcome somebody to church for encore encore what a solicitor kindom whether it's righteous that there is peace and joy in the Holy Ghost hallelujah righteousness peace and joy in the Holy Ghost come on what's the season's end time the Holy Ghost has began to us everything to us come on now Oh Oh but

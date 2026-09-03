@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=T5j7r5b-5GY"
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 proceed right away um by giving our very first gift and sacrifice to god amen in this offering amen now the the sacrifice that jesus made for us is the great sacrifice you know it's the most important thing for us as a church and for christians is the great sacrifice that jesus made for us so in 1st corinthians chapter 2 and verse number one it says paul said and i brethren when i came to you i came not with excellency of speech or excellency of wisdom declaring unto you the testimony of god for i determined not

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=u1IXVqhP27w"
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 And show that you are excited to be here on the third day. Of this wonderful campaign. Hallelujah. Hallelujah. Please be seated if you have a seat.

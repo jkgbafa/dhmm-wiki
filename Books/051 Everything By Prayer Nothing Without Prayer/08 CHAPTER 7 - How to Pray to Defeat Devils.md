@@ -4,6 +4,8 @@ book: "Everything By Prayer Nothing Without Prayer"
 book_number: "051"
 chapter_number: 8
 type: book
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 ### CHAPTER 7\

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=iiBdfQ5GCn0"
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism"]
 ---
 
 GL Hallelujah am Spirit the sh way God for Hallelujah my for I now k oh H hallelujah hallelu hallelujah hallelujah hallelujah amen hallelujah amen hallelujah hallelujah oh l something something hallelujah hallelujah hallu hallelujah hallelujah hallelujah sh hallelujah hallelujah hallelujah oh Hallelujah Hallelujah Hallelujah Hallelujah Hallelujah Hallelujah hallelujah hallelujah hallelujah hallelujah oh hallelujah hallelujah oh Hallelujah hallelujah hallelujah hallelujah we Hallelujah H hallelujah hallelujah Hall hallelujah hallelujah oh hallelujah hallelujah hallelujah hallelujah oh hallelujah hallelujah hallelujah hallelujah hallelujah you may be seated tonight what a wonderful celebration I want you to get a place to settle down whether you

@@ -8,6 +8,8 @@ year: 2009
 duration_min: 73
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 we can talk we call ah oh boy pinging we shall forever hallelujah father thank you for the blessing of your word we ask you for your guidance Holy Spirit in Jesus name Amen you may be seated hallelujah turn with me to Isaiah Isaiah chapter 31 a man how many were at the is I are I I science chapter 31 what does it say woe to those who go down to Egypt for help and rely on horses and trust in chariots because they are many and trust in horsemen because they are very strong but do not

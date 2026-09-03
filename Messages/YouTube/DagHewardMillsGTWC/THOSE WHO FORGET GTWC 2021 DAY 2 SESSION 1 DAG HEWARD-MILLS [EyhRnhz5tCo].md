@@ -8,6 +8,8 @@ year: 2021
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 This morning we want to thank him for his protection. We want to thank him. We don't want to take him for granted. We want to say, Father, we are grateful to you. For your hand upon our lives for your protection for your mercy for your kindness.

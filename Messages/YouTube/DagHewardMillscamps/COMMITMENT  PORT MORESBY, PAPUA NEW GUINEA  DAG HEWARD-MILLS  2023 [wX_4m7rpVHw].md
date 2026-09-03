@@ -8,6 +8,8 @@ year: 2023
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 now we want us to I want us to move to Commitment sit down commitment I want you to be committed for commitments amen are you there amen amen all right commitment commitment is is is a form of loyalty amen it's an agreement and it's a pledge to do something I've agreed to do it so when we talk about commitment we talking about you making an agreement in your mind I'm going to do something and God wants us to be committed let us agree that we are going to build the church amen amen let us agree

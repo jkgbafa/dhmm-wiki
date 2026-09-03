@@ -8,6 +8,8 @@ duration_min: 135
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/THOUYANDOU, SOUTH AFRICA  YOU CANNOT SERVE TWO MASTERS  HEALING JESUS CRUSADES  DAG HEWARD-MILLS [t72dOsTVNm8]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 Please join me to welcome the Valley to bless us with a song. Musi richotangan we in Bella Shoo Harry Mumanazana Hallelujah Give the Lord a shot of praise one pa mola blue niang Zina Dido Gua Dama Doe like now Yaka Mishia Mupulushi Mili Shao Isha Loft up your hands as send this up your hands I say up your head on to the Lord Waitella Why don't you sing with me kind of shot a man go down a shout Who Chias Who potenties And let's receive I got to bless us with a song. Carita, I dare at core poetang The Lord is my light and my salvation The Lord is the strength of my life of whom shall I be afraid when the wicked one my enemy came up against me to eat up my flesh?

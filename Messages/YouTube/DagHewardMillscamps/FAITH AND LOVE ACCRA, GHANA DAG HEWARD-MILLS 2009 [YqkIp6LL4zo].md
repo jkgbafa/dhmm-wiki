@@ -9,6 +9,8 @@ duration_min: 160
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/FAITH AND LOVE  ACCRA, GHANA DAG HEWARD-MILLS  2009 [YqkIp6LL4zo]]]"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 Welcome to track number seven of my first love. All right. Number one. Number six. Number eight.

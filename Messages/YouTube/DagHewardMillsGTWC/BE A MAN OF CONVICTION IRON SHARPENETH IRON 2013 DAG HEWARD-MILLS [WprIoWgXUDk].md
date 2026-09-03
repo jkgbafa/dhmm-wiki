@@ -8,6 +8,8 @@ year: 2013
 duration_min: 167
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Father, we thank you in the name of Jesus Christ. Amen. You may be seated. Now we are continuing on the art of leadership. The art of leadership is the art of shepherding or the art of shepherding is the art of leadership.

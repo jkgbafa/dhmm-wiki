@@ -8,6 +8,8 @@ year: 2011
 duration_min: 240
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I can see some pockets of seats around please someone should go out there and sweep all of them in please are there some people out there coming in yeah and also please check your phone turn it off Volante amen Volante volunte wait to be a missionary if we leave your husband we will be in the SKU hallelujah amen M but we are having a beautiful camp and uh you must not waste this privilege yeah they say that God is a god of a second chance but sometimes the Second Chance is too expensive amen he will

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9z6l7RclnD8"
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Repentance"]
+tags: ["topic/salvation", "topic/salvation/repentance"]
 ---
 
 hallelujah let us pray father thank you you came through for us we're going to come through for us thank you for the opportunity Lord we love you we thank you we worship you well as we come before your world thank you for giving us love when no one would even pray for us thank you for liking us when people wouldn't like us thank you for this opportunity we thank you in Jesus name Amen you may be seated Alleluia turn with me to Isaiah chapter 30 I am continuing with my little shots emanates from Isaiah a

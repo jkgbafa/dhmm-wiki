@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=lNZXagcsVEs"
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 knowledge paths up it's not about knowledge knowledge is not what is missing in the church we have a lot of knowledge we've never had as much knowledge as we have now so at the upper room meeting everyone was talking but then you looked at me with very piercing eyes with what piercing eyes piercing eyes they are called eagle eyes of the Prophet this is just a freestyle man boy let's go testimon t tonies testimonies testimonies tonon I need a house you give it to me I need you give it to me anything I want you

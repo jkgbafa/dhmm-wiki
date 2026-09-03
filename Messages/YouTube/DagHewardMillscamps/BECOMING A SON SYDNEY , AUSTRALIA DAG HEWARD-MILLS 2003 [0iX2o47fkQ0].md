@@ -8,6 +8,8 @@ year: 2003
 duration_min: 65
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances"]
 ---
 
 Welcome to track number three of how to survive in Ephesus. How many feel that God is speaking to you so far? What is God saying to you? Huh? Where are your grapes?

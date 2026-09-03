@@ -8,6 +8,8 @@ year: 2013
 duration_min: 135
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Si je pense bien tu moi et je peux chez Dieu Si j'ai su ta chance Il a mon bien Si j'ai pensé bien si je chasse Si j'ai Jésus Si j'ai tout chant Jésus moi je joue bien si j'ai Jésus Si j'ai sous mon pied Sous la banque La batou les gasses Je suis allée dans sa paix et tu t'es chance Et dans sa main Jésus Il a mon bien Si j'ai Jésus Si j'aime Si j'ai Jasso Si je suis Oh tu es chou Jésus la bonne pièce Si j'ai Jésus Si je suis Jésus Je suis à mon âge Je m'en tiens de ma bâtiment Jésus sois Seigneur Je suis mon patience Jésus Je vais la noyer sous le jour Jésus t'es louange Il est si t'as la tour Si je dis noir Je m'adore Last night we saw the power of God move here mightily la nuit dernier nous avons vu la puissance de Dieu se manifester ici puissant And tonight the salvation of God is coming to you once again le salut de l'intention vous arrive in for accord qui racque la wallie The power of God is coming to you once again la puissance de Dieu vous arrive in for accord and God has prepared a vessel to bring his power through to you it's you preparation serviteur pour nous apporter nos salut et la puissance de Dieu ce soir qui vient la fidèle as he ministers tonight, I believe you will never be the same again.

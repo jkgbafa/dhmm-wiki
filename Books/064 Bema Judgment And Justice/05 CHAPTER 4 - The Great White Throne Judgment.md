@@ -4,6 +4,8 @@ book: "Bema Judgment And Justice"
 book_number: "064"
 chapter_number: 5
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 ### CHAPTER 4\

@@ -4,6 +4,8 @@ book: "Transform Your Pastoral Ministry"
 book_number: "017"
 chapter_number: 33
 type: book
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up"]
 ---
 
 ## Chapter 32

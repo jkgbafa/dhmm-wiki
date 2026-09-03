@@ -8,6 +8,8 @@ year: 2002
 duration_min: 31
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 welcome to track number six of a Los um where do we start where do we stop all right okay now let me give you the um there are more Alles that we need to go through and then uh we'll be getting to the end of the camp but um yeah I'm saying we are going through so let's go through okay our Lo right let me look at uh Al Another of the same kind of anointing I just want to go through that a bit okay um Satan has had enough of one problem much less for

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=vPfEgkJk8tc"
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 I love you you are my only gone I can see your pain your glory ask your brain when you see cookie you said my theory please I love you I love you you are my only god I can see your face your glory and your brain when you speak to me you said my spirit read what can never tell I love you Lord me your love you go over well me and you are my glory you are my everything rabbi you mommy only keep my life my all new you I breathe with all I had

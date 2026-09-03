@@ -9,6 +9,8 @@ duration_min: 33
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/READY AT 20 GTWC PARIS DAY 2 SESSION 4 2025 DAG HEWARD MILLS [HK8_CWTw1po]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Beautiful manif. Now I want you to turn to the eight books that I have about the anointing. Can you show us the eight books? Eight books. Yes. Yes. Perfect. Catch the anointing. This one says receiver, but I I think it is catch. Huh? Catch. Glory to God. Glory to you. You are going to be another Elijah in this world. Another Elijah. You are going to be another Elijah. SOMEONE DOMINATED by the anointing. Amen. Dominated. Dominate. I will be I am prophesying. Many new Elijah are coming out. Many new Elijah are going to come out. People

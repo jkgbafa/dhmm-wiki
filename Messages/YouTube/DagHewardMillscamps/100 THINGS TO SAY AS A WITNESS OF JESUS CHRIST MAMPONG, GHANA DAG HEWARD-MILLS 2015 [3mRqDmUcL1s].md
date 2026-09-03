@@ -9,6 +9,8 @@ duration_min: 123
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/100 THINGS TO SAY AS A WITNESS OF JESUS CHRIST  MAMPONG, GHANA  DAG HEWARD-MILLS  2015 [3mRqDmUcL1s]]]"
+topics: ["Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Oh my God, my God. Thank you, Lord. We bless your holy name. Amen. Amen.

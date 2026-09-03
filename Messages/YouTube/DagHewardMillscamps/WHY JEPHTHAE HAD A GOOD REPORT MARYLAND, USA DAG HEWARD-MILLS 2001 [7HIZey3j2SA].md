@@ -9,6 +9,8 @@ duration_min: 69
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHY JEPHTHAE HAD A GOOD REPORT   MARYLAND, USA DAG HEWARD-MILLS  2001 [7HIZey3j2SA]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number 18 of what is your life. Let's turn again to Hebrews chapter 11. Verse 32. And what shall I more say? For the time would fail me to tell of Gideon.

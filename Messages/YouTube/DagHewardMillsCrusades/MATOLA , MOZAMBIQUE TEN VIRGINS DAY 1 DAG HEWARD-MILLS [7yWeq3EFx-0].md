@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7yWeq3EFx-0"
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Gita para o Seigneur Gita con força con força moani si essu, monou si es sofa na week my wina in ma coulo she courtouries away my wena coulois so manu siwa la bata as mancha i vi tela so si waitala so riwa so tana watuma so ni coup no sha t'in my wena soina soe la la laya so nisso laya so la so si wa soya soya so d'a sha t'maya wena canta comigo ma wena so ni sare oh si ta comigo nessu ni sahissa oh si oh oh tourissa Oh Jesus Jesus Seigneur Jesus Seigneur Jesus Jesus Jesus a Seigneur Seigneur Seigneur Gandhi Seigneur Applause applause clap your hands tonight is a first night of this great visitation desta grande visitation the power of God has come to visit us here in Matola Deus venez visit à tour himself is here with us in this city pop in established and the hour we've been waiting for has finally come the hora que nos paramos finalmente is ready to minister the word of God for a ministrary and the power of God I know your life will never be the same again.

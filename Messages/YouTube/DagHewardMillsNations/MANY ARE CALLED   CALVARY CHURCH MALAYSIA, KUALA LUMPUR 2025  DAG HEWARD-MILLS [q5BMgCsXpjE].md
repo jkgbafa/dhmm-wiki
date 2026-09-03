@@ -8,6 +8,8 @@ year: 2025
 duration_min: 50
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "The Call of God"]
+tags: ["topic/prayer", "topic/the-call-of-god"]
 ---
 
 What a blessing it is to be here today. I thank God for the opportunity to be here. Um again I consider myself to be one of the sons of Pastor Prince Gonaratam and his dear wife sister Petrina. So this is a homecoming. Amen. So, God bless you. God bless Calvary Church and I believe that I am home. Amen. Today, I want to share with you a short message. Um, and I believe we're going to be blessed. I want to share with you a message on what I call many are called. Many are called. Amen. Everyone

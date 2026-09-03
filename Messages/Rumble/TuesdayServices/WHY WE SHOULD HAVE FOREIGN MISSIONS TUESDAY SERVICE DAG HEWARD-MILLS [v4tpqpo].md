@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tpqpo/"
 duration_min: 64
 source: "whisper"
 match: "exact"
+topics: ["Missions"]
+tags: ["topic/missions"]
 ---
 
 Let us pray. Father, thank you for this opportunity as we come before your holy word. We ask you to bless us and guide us by your spirit in Jesus' name. Amen. You may be seated.

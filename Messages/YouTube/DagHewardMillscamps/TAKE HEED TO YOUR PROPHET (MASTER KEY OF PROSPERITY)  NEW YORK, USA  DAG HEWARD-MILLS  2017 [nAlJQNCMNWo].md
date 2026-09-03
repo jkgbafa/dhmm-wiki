@@ -8,6 +8,8 @@ year: 2017
 duration_min: 59
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Hallelujah are you excited to be here what a blessing bless father thanks so much for tonight and all that you have for us we are grateful in Jesus name amen amen you may be seated now now hagy the Bible says and they prospered through the prophesying of Hagi I believe that through the prophesying the continual edging that I have edging in you and prophesying to you you will prosper greatly am amen amen so take heed to your Prophet that God has given to you to prophesy to you and speak to you prophecy is not only

@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/imparting-a-gift-i
 duration_min: 66
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Romans 1, chapter 1, verse 11, 11. It says, For I long to see you, that I may impart unto you some spiritual gift, to the end that you may be established. Amen. Well, this is the foundation scripture for our series here. Now, this scripture is revealing to us certain very, very important truths.

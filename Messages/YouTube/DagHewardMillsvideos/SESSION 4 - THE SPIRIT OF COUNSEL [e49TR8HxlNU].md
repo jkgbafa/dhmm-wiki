@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=e49TR8HxlNU"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Isaiah 11 verse 1 the archbishop is going to be here without this evening there shall come forth a rod out of the stem of Jesse and a branch shall grow out of his roots and the Spirit of the Lord shall rest upon him the spirit of knowledge the spirit of wisdom amen and understanding the spirit of counsel and might the spirit of the knowledge and of the fear of the Lord and shall make him of quick understanding and the fear of the Lord and he shall not judge over the side of his eyes neither reprove

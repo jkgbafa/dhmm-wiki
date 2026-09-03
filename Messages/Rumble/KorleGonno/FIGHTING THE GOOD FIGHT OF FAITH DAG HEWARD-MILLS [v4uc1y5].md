@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uc1y5/"
 duration_min: 64
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/faith", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 This morning we want to give the Lord a loud sustained noise of praise hallelujah wanna do it together from the front to the back from the side to the side. Everybody want to lift up your voice and give the Lord a loud, sustained shout of praise, hallelujah, hallelujah. Oh, give me it to him, give it to him, give it to him, give it to him to Jesus today, hallelujah, hallelujah, we bless you, Jesus, we bless you, Jesus, oh Namib, yeah, yeah. Oh, yeah. Oh, I mean, I oh yeah, my put your hands together to send

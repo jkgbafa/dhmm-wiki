@@ -4,6 +4,8 @@ book: "Those Who Make Shipwreck"
 book_number: "095"
 chapter_number: 5
 type: book
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 ### Chapter 3\

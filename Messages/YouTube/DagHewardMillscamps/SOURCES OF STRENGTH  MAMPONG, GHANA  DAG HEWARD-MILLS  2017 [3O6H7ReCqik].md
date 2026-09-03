@@ -8,6 +8,8 @@ year: 2017
 duration_min: 203
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer"]
 ---
 
 oh oh amen amen sing it over your lives tonight everyone sing sing it over your life oh yes Lord power power and they belong Belong To Our God and forever forever andever oh oh amen amen amen amen remember amen is Jesus remember he deserves all our Glory come on tonight lift your voice to him liftt your voice to him come on Worship the Lord in this place Worship the Lord in this place he's glorifying you in this place come on and and forever forever and ever oh if you're not tired let's sing it one more

@@ -8,6 +8,8 @@ year: 2017
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 I was a Christian in attending church, and I believed I truly love the Lord, but there was a day I went to church, and the preacher spoke to me. Keep my words, my commands, listen to my voice. How deep is your love is your love handy? Is your love? He really needs to know that you're willing to surrender all of your life to his will and his command.

@@ -4,6 +4,8 @@ book: "Know Your Invisible Enemies And Defeat Them"
 book_number: "116"
 chapter_number: 27
 type: book
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Chapter 26\

@@ -9,6 +9,8 @@ duration_min: 71
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/DEVELOP LOYAL BUSSEL MEMBERS  BONSU, GHANA  DAG HEWARD-MILLS  2005 [l52mnQVbBR8]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number 12 of basilization. Now we are going to talk about developing loyal bastel members. Now turn to Genesis. I tell you, God has done a great work in your life. Verse 38.

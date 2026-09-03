@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=mHEFunyLoCY"
 duration_min: 159
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Oh we major war drums on Tuesdays we have clinic Wednesdays we had surgery for minor cases Thursday we had what we call OPD outpatients Department and then Friday we had surgery for major cases like one said you can take three four five six hours but there one on Wednesday is for small cases we can take like 30 minutes okay so every day was something Saturday's emergency duty so every day there's something so now the question was not that you have passed the hard you do on Mondays and what do you do on Tuesdays and what

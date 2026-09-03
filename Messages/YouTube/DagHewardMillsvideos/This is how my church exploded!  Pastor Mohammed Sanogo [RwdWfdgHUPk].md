@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=RwdWfdgHUPk"
 duration_min: 7
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Hello, I am Pastor Mohammed Sanogo, senior pastor of the churches and president of the Message of Life Ministry. The churches are a church composed of several communities, a church that originated in Ivory Coast and is based there, but which today is spread across all continents and in many countries around the world. The Message of Life Ministry, of which I am the pastor and president, is a ministry that works to evangelize throughout the nations, preaching the Gospel. This ministry has had an impact in America, with campaigns in America, Africa, and many other countries around the world.

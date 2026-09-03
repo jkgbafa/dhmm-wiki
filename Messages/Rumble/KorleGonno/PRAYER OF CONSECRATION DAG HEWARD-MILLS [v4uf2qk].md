@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uf2qk/"
 duration_min: 60
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 I believe he died and rose again. I believe he paid for us. And I believe I believe he's here now. I believe that he's here standing in army here with the power to heal. With the power to heal, and the grace to fall.

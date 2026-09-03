@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JCFdSUsJ0j8"
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 amen amen where I say we don't win when I say we the win we the win we go win again we don't win I'm not hearing you we don't win we don't shout Jesus you not you not sing with me we don't win we the win we go win again we don't win we go we go again say we don't win we go we go wi again we get Pap don't we Victory sing We got donkey we Victory last time we get don't give we Victory we don't win we the win we the win we

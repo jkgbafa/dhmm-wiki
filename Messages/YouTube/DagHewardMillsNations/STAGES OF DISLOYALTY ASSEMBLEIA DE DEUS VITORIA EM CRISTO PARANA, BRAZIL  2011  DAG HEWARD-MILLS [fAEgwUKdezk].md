@@ -8,6 +8,8 @@ year: 2011
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Hallelujah are you glad to be here today amen amen I wanted to show a short DVD before I share the word is it ready can we go ahead yeah you are your people it's gone there's a businessman there's a weired wife a smiling face with a shattered life a teen AG girl with a choice to make it's crowed here in church today and the preacher says as the sermon ends please close your eyes bow your heads is there anyone in need of prayer oh Jesus wants to meet you here cuz we all fall short and

@@ -4,6 +4,8 @@ book: "Steps To The Anointing"
 book_number: "013"
 chapter_number: 6
 type: book
+topics: ["Anointing", "Anointing/Catching the Anointing", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/the-holy-spirit"]
 ---
 
 ## Chapter 5

@@ -9,6 +9,8 @@ duration_min: 68
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/STAGES OF DISLOYALTY GTWC BUJUMBURA DAG HEWARD-MILLS 2025 [sLoFKAaDT2w]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances"]
 ---
 
 The pastor told me he left the church and all my members, he said, "Oh, like the members that have been with me for 18 years, he took all of them to his new church and my CHURCH THAT ALL MY ORIGINAL MEMBERS for 18 years, all of them were gone with this guy. All the pastor, everybody went so he told me I will never start ANY BRANCH AGAIN. WHERE I AM THAT IS THE only church at that location where I can see the people I see the pastors that is where I'll be Such wicked people are

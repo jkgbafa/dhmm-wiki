@@ -8,6 +8,8 @@ year: 2025
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Saint, go, raise your hands, shout to the Lord. Glory, glory, glory, glory, glory, glory , glory, glory, glory to God. Clap, clap, clap, clap. Like this . Raise your hands. Applause for Jesus. Dance, dance, dance. Glory. Jesus, Jesus. Oh Jesus, we adore you. Get up higher. Jesus, Jesus. Oh, Jesus, we adore you. Sing. Jesus, we adore you. Oh Jesus, we adore you. Oh Jesus, we adore you. Oh Jesus, we adore you. Like this . Holy well, holy well. for the Lord. Hallelujah. The hands, the hands. Oh Jesus, we praise you. You are Lord, Prince of

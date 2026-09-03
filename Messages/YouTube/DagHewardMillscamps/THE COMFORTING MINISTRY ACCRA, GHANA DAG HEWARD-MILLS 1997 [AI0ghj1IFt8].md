@@ -9,6 +9,8 @@ duration_min: 10
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE COMFORTING MINISTRY  ACCRA, GHANA  DAG HEWARD-MILLS  1997 [AI0ghj1IFt8]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number three of loyalty in the mega church. Let's go on. The next ministry is the comforting ministry. Psalm 23. We read it.

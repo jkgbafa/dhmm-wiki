@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Yw9nujv8sGw"
 duration_min: 219
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we give you praise oh Lord lift up your hands to him he indeed is a good God we love you Lord we bless your name you want to lift your hands to him you want to lift your hands to Jesus wherever you are mighty warrior you great and battle jeh is your name you're a mighty warrior mighty warrior you great in jeh is your name mighty warrior mighty warrior he is great to battle in battle is your name you want to join along and sing Jehovah is your name jeh is your name Jehovah is your

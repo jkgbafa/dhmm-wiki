@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9oCds_fJUhU"
 duration_min: 251
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 there is none like you no one else can touch my heart like you do and I could search for all eternity long and F there is none like you T are you ready come on sing with me there is none there is none like you no one else and no one else can touch my heart like you do I could search I could search for all et Lord and find there is none like I want us to raise our voices one more time and sing it there is none there is none like you like you

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=qJEu_KsOf6M"
 duration_min: 102
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 when we pray sturdy in a fire when we pray take away the world's desire when we pray Holy Spirit little far when we pray when we pray when we let it not be forced even when we pray give us wisdom and reason with me friend let your baby our petition when we pray when we pray when we pray pray pray Lord show us to where cray-cray when you pray Li not all your understanding when you pray just sick hold of these Colette bed when you breath no that is your crying wait crane when you pray

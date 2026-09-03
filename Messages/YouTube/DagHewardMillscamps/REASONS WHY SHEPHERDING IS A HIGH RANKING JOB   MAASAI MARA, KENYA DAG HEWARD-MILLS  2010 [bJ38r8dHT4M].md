@@ -8,6 +8,8 @@ year: 2010
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number seven of the privilege when Jesus comes for me I'll be waiting here watching patiently with my eyes to the sky I know you'll be for me my heart has confessed those things that set man free and give them new life the life I treasure now is a life filled with love and so much easy God so Lov the world he gave his own his only son that we shall have new life he shed his blood for you and me to cleanse us from harm unrighteousness for God so loved the world he

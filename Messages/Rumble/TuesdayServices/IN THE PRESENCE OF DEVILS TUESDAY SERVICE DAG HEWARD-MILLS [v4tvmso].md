@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tvmso/"
 duration_min: 67
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Never give up, Christian man. I wanna tell you that you never give up, never never know you never never give up, Christian man. I wanna tell you that you don't you ever ever don't give up your faith So never give up Christian man I wanna tell you that you never give up never never know you never never give up Christian man I wanna tell you that you don't you ever ever don't give up your faith This is the time that the sons of God should take up the work of God being stamped in season and

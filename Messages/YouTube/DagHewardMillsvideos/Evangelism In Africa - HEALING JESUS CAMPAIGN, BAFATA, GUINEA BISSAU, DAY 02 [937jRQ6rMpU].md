@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=937jRQ6rMpU"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 I believe that empirically so for you tonight he Akuma in a demi la grip of always denies and an even quicker miracle called tomorrow what we learn imagine anybody mal and you must not miss it Google debris for them have you must allow anyone missing if the dividend is a double trooper period so I am certain you to find your friends right the Video Converter alleluia alleluia love your hands and let's warm the infidels in desirable delicious hallelujah hallelujah are you blasted eyes who service already lighted God is going to touch you mightily there's little

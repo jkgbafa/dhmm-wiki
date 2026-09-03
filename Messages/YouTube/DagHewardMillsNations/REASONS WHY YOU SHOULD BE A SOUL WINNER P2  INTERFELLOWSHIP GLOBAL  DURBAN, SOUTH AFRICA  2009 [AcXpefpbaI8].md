@@ -8,6 +8,8 @@ year: 2009
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 thanks for this great blessing tonight we ask that you speak to our hearts and bless us thank you for your healings your Miracles your power your great blessing in Jesus name amen you may be seated hallelujah what are these I I the they have all these wonderful books at the back so one of this is what 100 Rand for all these books in a big bag like that and all the things about ladies all together wow and all the books I'm preaching from are together tell them steps to the anointing aspersions remembrance all for 150

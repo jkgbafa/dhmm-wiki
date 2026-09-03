@@ -8,6 +8,8 @@ year: 2002
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 welcome to track number 12 of life in the church I am sharing about um five statutes of loyalty and I'm sharing about um from my book here leaders and loyalty so how many don't have one leaders and loyalty how many have one of these book okay you can you look up everybody how many do not have one of these can I see your hand okay so get one do we have some of the back all right a statute is like a law or a rule or a principle that happens amen and uh you must uh

@@ -4,6 +4,8 @@ book: "Who Is He That Overcometh The World"
 book_number: "108"
 chapter_number: 17
 type: book
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 ### CHAPTER 16\

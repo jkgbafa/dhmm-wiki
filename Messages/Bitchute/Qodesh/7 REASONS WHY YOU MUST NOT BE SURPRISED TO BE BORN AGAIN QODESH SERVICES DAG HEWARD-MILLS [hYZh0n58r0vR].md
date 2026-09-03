@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/hYZh0n58r0vR/"
 duration_min: 67
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Salvation", "Salvation/The New Birth", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/salvation", "topic/salvation/the-new-birth", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 There comes a time. We must hear the certain call. We must come. Come together and we must shed the word of God to every boy and ball. We must show the greater love of Christ.

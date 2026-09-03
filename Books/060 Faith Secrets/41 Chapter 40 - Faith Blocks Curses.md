@@ -4,6 +4,8 @@ book: "Faith Secrets"
 book_number: "060"
 chapter_number: 41
 type: book
+topics: ["Faith", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/faith", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 ### Chapter 40\

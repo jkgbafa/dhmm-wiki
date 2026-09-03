@@ -9,6 +9,8 @@ duration_min: 31
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Church Planting and the Jerusalem Church  Mampong, Ghana  Dag Heward-Mills  2025 [fcavvqGoALo]]]"
+topics: ["Church Growth", "Church Growth/Church Planting", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Vision and Direction"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/vision-and-direction"]
 ---
 
 Chapter 4. The Jerusalem Church. There are two churches you must take note of in the Bible. Number one is the Jerusalem church. Ten things you must know about the Jerusalem church.

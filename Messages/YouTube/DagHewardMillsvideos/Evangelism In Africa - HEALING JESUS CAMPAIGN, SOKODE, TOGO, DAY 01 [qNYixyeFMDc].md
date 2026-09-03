@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=qNYixyeFMDc"
 duration_min: 148
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 yeah what'd I do Bufo Bufo Bufo Bufo Bufo Analia eyeball Pasha's you maverick glory interview to be a universal here sounds like why the puissance up Luger to eyeball catches you my vanishes you gloria shirred you judge you PK me you know pressure P autonomous wha so please either beautiful although they sure do that don't we oh no - you loser no pleasure ha ha - do you have any top we saw a lugar dilemma success as you said you thought we thought up you go Putin will not desert you - leg daily almost ashes

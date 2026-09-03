@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uc21f/"
 duration_min: 80
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 It's blowing once again. No. Don't know where it comes from. Don't know where it goes. Hallelujah.

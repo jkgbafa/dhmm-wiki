@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uh4h6/"
 duration_min: 74
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 God's word God's words a light unto my pathway. His words alight unto my feet there. God's word God's word will set you free. He'll set you free. God's word.

@@ -8,6 +8,8 @@ year: 2014
 duration_min: 29
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 we really want to pray you know yesterday Bishop called for 100 people and we had about 106 I hear but there are more of you amen there are more of you who are just a change away from joining this group and if John the Baptist prayed or preached change it means that it is possible for you to change tell your name but it is possible for me to change possible for me to change tell the person watch me change watch me change so we want to begin to pray now and ask the Lord to prepare

@@ -4,6 +4,8 @@ book: "The Words Of Jesus"
 book_number: "133"
 chapter_number: 12
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ## Chapter 11

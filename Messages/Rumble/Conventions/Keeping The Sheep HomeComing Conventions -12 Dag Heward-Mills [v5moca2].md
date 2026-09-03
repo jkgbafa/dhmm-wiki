@@ -7,6 +7,8 @@ url: "https://rumble.com/v5moca2/"
 duration_min: 126
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 May the bond of peace be tight, O God. May the bond of peace, the bond of peace, the bond of peace, the bond of peace. Mako Moscaba Losobo Sheba. Let it be our quest, O God. Sure.

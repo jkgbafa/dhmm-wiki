@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=XpxClMwvbG0"
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hey are you the memories ah I you I wanna ah my work amen Oh amen how many of you want God to take you back to the place where you face beneath Amen all right it's time for testimony how many of you have been blessed week after week about people testifying of how good one has been to them amen and today we have very powerful testimonies I want to call on hosta dawn out and people to give us their powerful testimonies people just gather for them hallelujah and my name is Fatima corner missionary from Liberia

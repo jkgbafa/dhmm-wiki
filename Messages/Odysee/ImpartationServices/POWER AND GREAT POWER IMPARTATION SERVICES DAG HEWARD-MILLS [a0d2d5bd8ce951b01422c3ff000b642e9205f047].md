@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/power-and-great-po
 duration_min: 67
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Father, thank you for a time like this in your presence. We love you and thank you in Jesus' name. Amen. I didn't ask you to sit down. I don't know why.

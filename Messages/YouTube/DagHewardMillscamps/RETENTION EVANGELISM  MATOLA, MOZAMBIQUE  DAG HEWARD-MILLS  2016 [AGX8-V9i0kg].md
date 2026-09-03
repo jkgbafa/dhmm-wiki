@@ -8,6 +8,8 @@ year: 2016
 duration_min: 133
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 ooh now that I know there's only one God in all of the earth you're my only God and I want you to know my love for you I'll never let go no cuz I love you so oh yeah all I want is to serve you if I live my life again I'll choose you it's been a Worth Living For You Lord I love you and there's no one I above you cuz you gave your son you gave your love and you turned my life all around you gave your life to set me free so I

@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/DLPDgTbv8P36/"
 duration_min: 182
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/anointing", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 And that you'll be going away. And while he is away, you'll be building, building us a special place, so that when the time is right, it could be morning, noon or night. He will come back. And I know that we'll be forever with him there. I know he's coming back.

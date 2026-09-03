@@ -9,6 +9,8 @@ duration_min: 118
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/DIEGO SUAREZ, MADAGASCAR WHY GOD SENT HIS SON HEALING JESUS CAMPAIGN DAG HEWARD-MILLS 2024 [PtH8XsMb2HI]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 hallelujah hallelujah Jus jus to rise to the the Bible me I see hey morning J Asar alar Abram right he right the re m is a high M high oh is high for is a high and for is and for is and for me calary to the maest is high maest is is hallelujah hallelujah Clap Your Hands for Jesus Diego Suarez are you ready for what God has for you tonight tonight is a night of God's power and that power is going to touch you and I'm happy to announce that there is a man God

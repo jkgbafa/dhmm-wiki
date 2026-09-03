@@ -4,6 +4,8 @@ book: "The Art Of Leadership 3Rd Edition"
 book_number: "022"
 chapter_number: 7
 type: book
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 ### Chapter 5\

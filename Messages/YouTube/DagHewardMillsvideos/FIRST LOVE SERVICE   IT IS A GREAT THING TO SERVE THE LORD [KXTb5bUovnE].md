@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=KXTb5bUovnE"
 duration_min: 153
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 had a dream to be a queen to marry my prince and live with him but then I met the prince of peace and the King of Kings today I have another dream to please my Lord and King I believe in Jesus he's my savior Master Lord and King and now believe in heaven and it's the only place I want to be my eyes can see ET turn eternity my eyes can see eternity I had a dream my goals for life by achieving this oh and achieving that but now I want to please my king I

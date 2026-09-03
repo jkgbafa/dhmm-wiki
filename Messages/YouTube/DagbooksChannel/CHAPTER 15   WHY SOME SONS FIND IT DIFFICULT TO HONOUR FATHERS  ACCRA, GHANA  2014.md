@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2014
 source: "autocaption"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Why some sons find it difficult? Ephesians 6:2. Okay. Honor thy father and thy mother, which is the first commandment, with a promise, that it may be well with you, and thou mayest live long on the earth. Amen. Amen. How many want it to be well with you? How many want it to be well with you in the ministry? The first reason why some people don't honor their fathers and their mothers is because they don't realize that somebody is a father. Amen. Amen. If you don't recognize that the person you are dealing with is actually a

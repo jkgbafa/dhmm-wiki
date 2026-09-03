@@ -8,6 +8,8 @@ year: 2009
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Soul Winning and Evangelism"]
+tags: ["topic/salvation", "topic/soul-winning-and-evangelism"]
 ---
 
 my God he loves me he says I am his child he calls me righteous says I'm the Apple love is so why do I clap my hands and why do I stamp my feet and why do I scream so loud I am not qualified I Am The Specialist I'm just addicted to the one who saved me I'm a li ghost no matter what and say made up my mind I am no work for God like everyday man average man I am a common man like no matter what I'm say made up my mind I'm going

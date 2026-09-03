@@ -8,6 +8,8 @@ year: 2017
 duration_min: 168
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, thanks for your blessing. Merci pour ta bénédiction in the name of Jesus. Amen. Be seated. Glory to God.

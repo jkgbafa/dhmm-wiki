@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2017
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Salvation", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/salvation", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now, I want to see the different types of infertility that exist because the types of infertility that exist exist for different reasons. Let's go to our Bibles to 2 Peter 1. 2 Peter chapter 1. How many of us want to bear fruit? It's beautiful. I believe that after this conference, you will be more and more. May grace and peace be multiplied to you through the knowledge of God and of Jesus our Lord. As His divine power has given us everything that contributes to life and piety. Amen. Amen. through the knowledge of him who called us

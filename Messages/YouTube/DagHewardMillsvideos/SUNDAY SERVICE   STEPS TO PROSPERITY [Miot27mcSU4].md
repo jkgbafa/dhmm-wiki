@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Miot27mcSU4"
 duration_min: 37
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 hallelujah shall we pray Heavenly Father thank you for this morning thank you for the blessing the privilege that we have to come to your presence Lord we ask that you speak to our hearts we ask that you minister to us let your will be done in the name of Jesus thank you for your blessing in Jesus name Amen god bless you you may be seated this morning I want to share with you about steps to prosperity turn with me to Genesis chapter 26 how many want to prosper everybody amen you Genesis chapter 26 that's one

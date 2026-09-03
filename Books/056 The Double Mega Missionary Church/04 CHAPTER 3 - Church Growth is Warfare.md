@@ -4,6 +4,8 @@ book: "The Double Mega Missionary Church"
 book_number: "056"
 chapter_number: 4
 type: book
+topics: ["Church Growth", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/church-growth", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 ### CHAPTER 3** **

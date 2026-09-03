@@ -4,6 +4,8 @@ book: "The Double Mega Missionary Church"
 book_number: "056"
 chapter_number: 23
 type: book
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 ### CHAPTER 22 \

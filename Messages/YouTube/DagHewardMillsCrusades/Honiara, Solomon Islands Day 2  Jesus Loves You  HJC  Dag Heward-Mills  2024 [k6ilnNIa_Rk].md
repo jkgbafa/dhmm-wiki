@@ -8,6 +8,8 @@ year: 2024
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Jesus loves me this I know for the Bible tells me so little ones to him belong they are weak but he strong yes Jesus Loves Me Oh yes Jesus Loves Me Oh yes Jesus loves me for the Bible tells me so oh yeah Jesus Loves Me He Who died Heaven's gates to open wide he will wash away my sin let his little child come in oh yes Jesus Loves Me Oh yes Jesus Loves Me Oh yes Jesus loves me for the by tells I know the Bible tell me oh yes the Bible the Bible tells

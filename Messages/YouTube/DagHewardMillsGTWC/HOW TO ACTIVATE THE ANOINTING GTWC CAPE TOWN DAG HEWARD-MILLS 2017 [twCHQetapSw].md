@@ -9,6 +9,8 @@ duration_min: 101
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/HOW TO ACTIVATE THE ANOINTING  GTWC CAPE TOWN  DAG HEWARD-MILLS  2017 [twCHQetapSw]]]"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I'll be ready at twenty, ready for the war. I'll be ready at twenty for the work of God. There is nothing I can't do for the Lord, and there is nowhere that's too far. No battle I can't fight, ready at twenty. Let's give ourselves to this glorious mission, unreservedly.

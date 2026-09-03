@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u84zk/"
 duration_min: 50
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 Grace and peace be multiplied unto you, verse 2. Are you there? Through the knowledge of God and of our Lord Jesus, according as his divine power have given unto us all things that pertain unto life and godliness through the knowledge of him that has called us to glory and virtue. Amen. Verse 4, whereby are given unto us exceeding great and precious promises, that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.

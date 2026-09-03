@@ -9,6 +9,8 @@ duration_min: 238
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/REASONS WHY WE SHOULD HAVE A MEGA CHURCH  ELMINA, GHANA  DAG HEWARD-MILLS  2006 [i3s56EJ4_Ew]]]"
+topics: ["Church Growth", "Church Growth/Mega Church", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 Alright. We are discussing the concept of building mega churches. Amen. Now everybody say mega is mega. Mega is mega.

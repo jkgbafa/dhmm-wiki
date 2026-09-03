@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2013
 source: "autocaption"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 may be seated. Now in the very last uh short session that we have now I want to put a certain mark that I want to encourage you. Bible says that they shut him up. They put a seal on him. Amen. And they cast him into the bottomless pit. Now those who are disloyal very important. Now the next group is those who forget. Turn with me to Hebrews. Chapter 6 and verse 10. It says, "For God is not unrighteous to forget your labor and your work of love which you have shown towards his name. in that

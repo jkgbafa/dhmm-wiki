@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Fm6KVx8PkYc"
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 that he gave he go home the song so that whoever believeth happy haha in the Santee strong the world but to save the world she loves I wash away into the world and the world to wash away oh Jesus time to wash away wash away me please who shall we alleluia alleluia let us pray Heavenly Father thank you for today thank you for the blessing of receiving your word what a blessing we have today to have faith you again in Jesus name Amen you may be seated happy Resurrection Sunday morning amen this morning I want

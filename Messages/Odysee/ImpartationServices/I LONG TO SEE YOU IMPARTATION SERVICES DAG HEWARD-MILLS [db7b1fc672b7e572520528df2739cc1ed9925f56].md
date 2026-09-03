@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/i-long-to-see-you-
 duration_min: 58
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Thank you for this opportunity, Lord, to be in your presence, to receive your holy word. Thank you, Lord, for the great opportunity that you give us today. Lord, we ask that you speak to our hearts and lead us into your gifts at this time. We thank you in Jesus' name. Amen.

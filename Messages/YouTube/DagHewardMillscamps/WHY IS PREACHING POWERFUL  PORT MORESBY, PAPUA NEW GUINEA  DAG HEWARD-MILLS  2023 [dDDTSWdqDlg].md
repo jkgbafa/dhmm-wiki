@@ -8,6 +8,8 @@ year: 2023
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 now why is preaching powerful what what is it that preaching is why is preaching powerful why why number one preaching attacks the root of man's problems amen which is what sin everybody is a sinner yes and I want you to look at Romans chapter 3 and verse 10 he says as it is written there is none righteous not one all of us have sinned now Romans chapter 5:12 Romans 5:12 it says wherefore as by one man sin entered into the world and death by sin so death passed upon all men for that all have sinned

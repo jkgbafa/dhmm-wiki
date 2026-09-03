@@ -8,6 +8,8 @@ year: 2023
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 Father, thank you for the guidance of your spirit. Thank you for the leading of the Holy Spirit. Merci parce que tu ne dirige pas le Saint-Esprit to do your will. We are grateful. Speak to our hearts.

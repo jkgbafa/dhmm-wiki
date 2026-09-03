@@ -8,6 +8,8 @@ duration_min: 154
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/MY LONG AWAITED PROMOTION HAS COME PART 2 FIRST LOVE SERVICES 0717 DAG HEWARD-MILLS [ltPpTOKvSQw]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 been ups and downs I've been through pain yes then I heard the voice God he way has never fil me you will never fail me I couldn't imagine he is always there for me he has never failed me he never you died on the cross you shed your blood for your love is pure with you I'm standing T you died on the cross for me you shed your blood for me love is I'm standing the Lord is my light the Lord is my the Lord is my you died on the cross for me you shed

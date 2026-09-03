@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/anointed-ones-impa
 duration_min: 62
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 right hallelujah amen lift your hands let's pray father thank you for your blessing thank you for your anointing just thank the lord right now let's thank the lord tonight for his blessing oh yes hallelujah hallelujah Oh, thank you, Lord. Just thank God that God is going to speak to you tonight. He's going to bless you tonight. Father, we thank you. We praise you.

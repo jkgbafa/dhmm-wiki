@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uekpe/"
 duration_min: 47
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Salvation", "Salvation/Repentance"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/salvation", "topic/salvation/repentance"]
 ---
 
 Heavenly Father, we thank you for today. We thank you for your blessings. Thank you for bringing us here. Thank you for giving us an opportunity to share your word to grow in you to increase to move forward. We are blessed.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_DwOqQx7TJ4"
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 whom shall I fear he the strength of my life no need to be o praise the Lord of my life kiss my life and my salvation whom shall I fear he's will spend on my life no need to be afraid our humble secret place where a bigger face he gives me peace for my trouble mine he carries me he helps me when I'm going to a store I'm protected in a Thor my mother noting that while staring ah tell me whom shall I fear here's my saran dan I know when he will try to destroy

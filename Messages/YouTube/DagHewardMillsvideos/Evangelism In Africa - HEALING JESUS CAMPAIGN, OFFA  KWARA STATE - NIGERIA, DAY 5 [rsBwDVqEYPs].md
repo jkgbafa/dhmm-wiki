@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=rsBwDVqEYPs"
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 Oh Oh meter oh now we're talking mu R away somebody shot and we are the man of God we are here to appreciate you to death before I came from a battle the Lord told me to go to the market and buy a gun I include to show that we are part of your ministry for the first time am I about 48 years on the stage the Lord has not told me that I began to look for anything that looks like can include I couldn't find with this one to show our love to show our

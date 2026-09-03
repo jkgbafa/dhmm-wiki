@@ -9,6 +9,8 @@ duration_min: 166
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/DAR ES SALAAM, TANZANIA CHRIST JESUS THE JUDGE HEALING JESUS CRUSADES DAG HEWARD-MILLS 2018 [0DioPaqOrIk]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Je yes yes yes yes yes yes Hallelujah Cate celebrate celebrate celebrate celebrate celebrate celebrate celebrate celebrate Jesus fire Praise Jesus fire Praise Jesus Jesus fire Jesus fire Jesus fire Jesus fire Jesus High live Jesus High live Jesus High Jesus High live Jesus High leave Jesus fire leave Jesus High leave Jesus High hallelujah hallelujah hallelujah yes we to are you ready to C are you ready to are you to you yes go it Hallelujah yes no huah hu Hallelujah yes yes hallelujah hallelujah yes yes Hallelujah hallelujah hallelujah hey hey hey hey hey 1 2 3 go

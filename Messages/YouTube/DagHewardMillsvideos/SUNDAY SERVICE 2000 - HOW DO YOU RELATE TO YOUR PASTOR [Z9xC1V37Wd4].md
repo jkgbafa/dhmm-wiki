@@ -8,6 +8,8 @@ year: 2000
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 today we are continuing our series on how to relate with your pasta how to relate to your pasta whichever one suits you first Peter chapter 2 and we want to read very quickly and we'll be moving on how to relate with your pastor if you have Peter in your Bible you can turn to chapter 2 and we want to read verse number 25 how to relate with your pasture for you were sheep going astray alright but I'm now returned unto the Shepherd and Bishop of your soul amen now here you find Jesus referring to himself

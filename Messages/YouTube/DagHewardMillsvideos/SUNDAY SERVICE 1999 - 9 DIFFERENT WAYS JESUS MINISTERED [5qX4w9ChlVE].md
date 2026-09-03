@@ -8,6 +8,8 @@ year: 1999
 duration_min: 18
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Prayer"]
+tags: ["topic/anointing", "topic/prayer"]
 ---
 
 I just want to go through the different ways by which Jesus ministered fully I may have mentioned them a bit the other day but I want to go through fully number one you realize that they have different ways by which God can minister to you is that not so alright number one is the laying on of hands this is a Bible way alright and you notice that Jesus responds to what you want hallelujah depending on your face if you have a lot of faith you may not need even them to lay hands on you you

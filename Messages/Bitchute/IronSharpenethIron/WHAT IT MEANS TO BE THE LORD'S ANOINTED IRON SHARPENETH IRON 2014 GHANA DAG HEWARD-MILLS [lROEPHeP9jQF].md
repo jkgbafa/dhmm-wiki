@@ -8,6 +8,8 @@ year: 2014
 duration_min: 75
 source: "whisper"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Let us pray. Father, we thank you for the opportunity that we have this morning to receive your word and to walk in your anointing. Thank you, Holy Spirit. Merci Saint Esprit. In the mighty name of Jesus Christ.

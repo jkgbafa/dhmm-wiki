@@ -9,6 +9,8 @@ duration_min: 92
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HOW TO GET A GOOD REPORT FOR ETERNITY   MARYLAND, USA  DAG HEWARD-MILLS  2001 [puqNq6-rFQ8]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 So we want to move on to the next important aspect of what is your life? What is your life number one? Is what short life long eternity? Amen. Number two.

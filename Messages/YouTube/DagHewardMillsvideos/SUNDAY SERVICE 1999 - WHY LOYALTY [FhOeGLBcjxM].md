@@ -8,6 +8,8 @@ year: 1999
 duration_min: 84
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 wave ask away with us the way Cory upsell or fill this whole place wave wave up the wave wave up the way wave up the way glory of the Lord filled with wave up the way waiver the healing wave of the law wave up the way wave of the way we're not the way going off the floor building only to come honestly it now wave after wave the healing way it never stopped never seed go after loss come on fill this holy without the way oh we like the way Cory got down no physical way

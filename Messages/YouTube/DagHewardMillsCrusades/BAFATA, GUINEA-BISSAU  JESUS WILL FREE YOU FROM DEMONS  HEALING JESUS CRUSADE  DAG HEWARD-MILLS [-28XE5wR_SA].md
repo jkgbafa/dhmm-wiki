@@ -8,6 +8,8 @@ duration_min: 72
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/BAFATA, GUINEA-BISSAU JESUS WILL FREE YOU FROM DEMONS HEALING JESUS CRUSADE DAG HEWARD-MILLS [-28XE5wR_SA]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 tonight is the third night of this campaign here in baata the power of God has been demonstrated here every night and we thank God for the vessel he has used to bless us these three nights tonight on this final night God is going to release a through his servant he is prepared and ready by the grace of God to minister to you tonight without moving around without talking I want us to clap our hands and receive Evangel hallelu I expect a miracle I expect a miracle I expect a miracle hallelujah hallelujah everybody Lift Your Hands

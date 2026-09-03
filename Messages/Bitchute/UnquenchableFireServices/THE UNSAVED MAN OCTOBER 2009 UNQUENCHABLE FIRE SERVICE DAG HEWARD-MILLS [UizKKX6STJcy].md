@@ -8,6 +8,8 @@ year: 2009
 duration_min: 91
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 For everything that you have done for me, so undeserved. Yes, you gave to brew your me the voices of men and angels cannot express my gratitude all that I am an ever hope to be. I give it all to you God be the glove to God be the glove to God me the glove for the things he has done with his blood, he has saved me with his power, he has raised me to God be the gloves for the thing. Just let me live my pleasing Lord to thee, and should I give oh Lord any praise let it go to Calvary with his blood, he has said me with his power, he has raised me to come me the glory for the things he has done with his love, he has me with his power my God, he has said me to God be the glove for the things he has done for the victory he has for me for the thing my God has done Hallelujah Father, thank you for this blessing with your blood, you have saved used us and brought us We thank you in Jesus' name, Amen.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6CGsDBgNqVM"
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 tonight for the first night of this campaign in the copani homo kobani I believe that God have great things in store for us again would you want a whole new look we showed you at this time I want to welcome the chief representative to bring us away let's put our hands together and receive him now we're stopping obligatory I'm relieved I'm with that day like a maleeni hallelujah praise the Lord hallelujah no to Jesus Luke oh by the way OOP our family way open the way move on find a way some shadow gubin Andre come

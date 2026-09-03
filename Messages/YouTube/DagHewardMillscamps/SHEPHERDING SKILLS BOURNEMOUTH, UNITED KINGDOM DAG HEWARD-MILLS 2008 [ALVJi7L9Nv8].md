@@ -9,6 +9,8 @@ duration_min: 66
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SHEPHERDING SKILLS  BOURNEMOUTH, UNITED KINGDOM  DAG HEWARD-MILLS  2008 [ALVJi7L9Nv8]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I'm going to give you some shepherding skills. Before we continue on our journey to 65 points. Number one. Gentleness. You must know that the children are tender.

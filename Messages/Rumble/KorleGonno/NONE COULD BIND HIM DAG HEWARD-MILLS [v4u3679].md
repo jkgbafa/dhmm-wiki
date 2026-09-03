@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3679/"
 duration_min: 54
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Father, we thank you for this morning. Thank you for your word. Thank you for your presence. Lord, we ask that you lead us, you guide us. And thank you, Lord, for your word that is able to save us, that is able to bless us, that is able to change our lives, Lord, in the name of Jesus.

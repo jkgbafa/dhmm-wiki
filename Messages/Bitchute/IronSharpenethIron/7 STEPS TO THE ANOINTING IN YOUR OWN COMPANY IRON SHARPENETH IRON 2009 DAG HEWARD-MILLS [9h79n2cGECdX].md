@@ -8,6 +8,8 @@ year: 2009
 duration_min: 137
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Prayer"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/prayer"]
 ---
 
 Amen. Amen. Alright. Seven steps to the anointing in your own company. And I'm reading from Acts chapter 4, verse 23.

@@ -4,6 +4,8 @@ book: "Name It Claim It Take It"
 book_number: "110"
 chapter_number: 10
 type: book
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Chapter 7\

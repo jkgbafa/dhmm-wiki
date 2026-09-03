@@ -9,6 +9,8 @@ duration_min: 63
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/The Power Of A Mustard Seed Commendable Love  Ducos, Martinique Dag Heward-Mills  2024 [eWZgsXtlOmM]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Hallelujah. Let us pray. Father, thank you for today. And your mighty power that is here today. Guide us.

@@ -9,6 +9,8 @@ duration_min: 38
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/OBEDIENCE - INVITATION TO BE MISSIONARIES SHEFFIELD, UNITED KINGDOM DAG HEWARD-MILLS 2001 [ifVgbmuJgws]]]"
+topics: ["Marriage and Family", "Missions", "The Holy Spirit"]
+tags: ["topic/marriage-and-family", "topic/missions", "topic/the-holy-spirit"]
 ---
 
 welcome to track number 19 of pastest of thousands listen I believe that God wants more missionaries from here how many are prepared to be missionaries raise up your hands okay now how many would like to be missionaries I mean not that you have heard one or two things but you want to be a missionary you believing God to be a missionary now amen in your life at this season of your life raise your hand raise your hand raise your hand now wives if your husband is not yeah you you can't raise your you are subject

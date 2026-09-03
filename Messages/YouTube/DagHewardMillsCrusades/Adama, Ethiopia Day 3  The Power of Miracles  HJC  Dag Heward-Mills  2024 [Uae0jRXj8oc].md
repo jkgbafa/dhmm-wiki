@@ -8,6 +8,8 @@ year: 2024
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 and and I oh and again set so head so yesus and so so so so child yeah is soon jusus SK yes winess sh sh yes carus yes oh yeah be wow hallelujah hallelujah Adama are you prepared for tonight tonight is the night of Salvation Miracles Deliverance tonight will change your life forever Jesus is here the servant of God is here I want you to stand to your feet and help me welcome evangelist that he was made Hallelujah Hallelujah Hallelujah the be for with God heart my now my I want everybody to lift your hands

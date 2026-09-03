@@ -4,6 +4,8 @@ book: "Going Deeper And Doing More"
 book_number: "077"
 chapter_number: 8
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 ### CHAPTER 7\

@@ -8,6 +8,8 @@ year: 2016
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah Give the Lord a shout yes this Hallelujah some by oh everybody sing say everybody is Hallelujah oh everybody sing go lift up your right hand and say Amen J lift up your right hand and sing J Hallelujah w everybody to Hallelujah Clap Your Hands for Jesus you may be seated please be seated I want to ask the ashes who are standing God bless you for the work you've done please find a place to sit now Hallelujah before we receive the servant of God please help me welcome bdr to bless us with a song Clap

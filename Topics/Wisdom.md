@@ -1,45 +1,46 @@
 # Wisdom
 
-## Books
-- [[Books/028 What It Means To Be As Wise As A Serpent/01 Chapter 1 - The Wisdom of Serpents|What It Means To Be As Wise As A Serpent]] (23 chapters)
-- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/01 Front Matter|Wisdom Is The Principal Thing For Your Ministry]] (41 chapters)
+Tagged by content: `topic/wisdom`
 
-## Book chapters
-- [[Books/022 The Art Of Leadership 3Rd Edition/14 Chapter 12 - Never Use Power without Wisdom or Wisdom without Power!|14 Chapter 12 - Never Use Power without Wisdom or Wisdom without Power!]] — *The Art Of Leadership 3Rd Edition*
-- [[Books/046 How You Can Have An Effective Quiet Time With God Every Day/08 CHAPTER 7 - The Quiet Time – Your Chance to Obtain Wisdom|08 CHAPTER 7 - The Quiet Time – Your Chance to Obtain Wisdom]] — *How You Can Have An Effective Quiet Time With God Every Day*
-- [[Books/052 The Determinants/08 Chapter 7 - The Third Determinant Wisdom|08 Chapter 7 - The Third Determinant Wisdom]] — *The Determinants*
-- [[Books/052 The Determinants/09 Chapter 8 - The Men of Wisdom You Can Follow|09 Chapter 8 - The Men of Wisdom You Can Follow]] — *The Determinants*
-- [[Books/052 The Determinants/10 Chapter 9 - How to Improve Your Wisdom|10 Chapter 9 - How to Improve Your Wisdom]] — *The Determinants*
-- [[Books/075 Enlargement Secrets/15 CHAPTER 14 - Enlarge with Equal Amounts of Spirituality and Wisdom|15 CHAPTER 14 - Enlarge with Equal Amounts of Spirituality and Wisdom]] — *Enlargement Secrets*
-- [[Books/077 Going Deeper And Doing More/08 CHAPTER 7 - Go Deeper into Wisdom and Do More|08 CHAPTER 7 - Go Deeper into Wisdom and Do More]] — *Going Deeper And Doing More*
-- [[Books/081 Seeing And Hearing/02 CHAPTER 1 - Seeing and Hearing is Your Entrance into Wisdom|02 CHAPTER 1 - Seeing and Hearing is Your Entrance into Wisdom]] — *Seeing And Hearing*
-- [[Books/105 The Beauty The Beast And The Pastor/36 CHAPTER 34 - Overcome in Your Marriage by the Wisdom of Naomi|36 CHAPTER 34 - Overcome in Your Marriage by the Wisdom of Naomi]] — *The Beauty The Beast And The Pastor*
-- [[Books/105 The Beauty The Beast And The Pastor/39 CHAPTER 37 - Overcome in Your Marriage By the Wisdom of Paul|39 CHAPTER 37 - Overcome in Your Marriage By the Wisdom of Paul]] — *The Beauty The Beast And The Pastor*
-- [[Books/107 How To Neutralize Curses/24 CHAPTER 23 - How You Can Escape from a Curse through Wisdom|24 CHAPTER 23 - How You Can Escape from a Curse through Wisdom]] — *How To Neutralize Curses*
-- [[Books/117 The Gift Of Governments A Bishop 'S Governing Handbook/77 CHAPTER 75 - Wise Judgment for Bishops|77 CHAPTER 75 - Wise Judgment for Bishops]] — *The Gift Of Governments A Bishop 'S Governing Handbook*
-- [[Books/127 The Secret/08 Obtain Wisdom Keys through the Power of Quiet Time|08 Obtain Wisdom Keys through the Power of Quiet Time]] — *The Secret*
 
-## Messages (131)
+## General (268)
 
-### Messages / Bitchute / IronSharpenethIron
+#### Messages / Bitchute / IronSharpenethIron
+- [[Messages/Bitchute/IronSharpenethIron/CHANGING LEVELS IRON SHARPENETH IRON 2015 GHANA DAG HEWARD-MILLS [eNFlbwltfKJJ]|CHANGING LEVELS IRON SHARPENETH IRON 2015 GHANA DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/IronSharpenethIron/CHANGING LEVELS PART 3 IRON SHARPENETH IRON 2015 GHANA DAG HEWARD-MILLS [0rdXg82hiDlp]|CHANGING LEVELS PART 3 IRON SHARPENETH IRON 2015 GHANA DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/IronSharpenethIron/DEMYSTIFYING THE ANOINTING IRON SHARPENETH IRON 2009 DAG HEWARD-MILLS [vPBjWsahrFBz]|DEMYSTIFYING THE ANOINTING IRON SHARPENETH IRON 2009 DAG HEWARD-MILLS]]
 - [[Messages/Bitchute/IronSharpenethIron/NEVER USE POWER WITHOUT WISODM AND WISDOM WITHOUT POWER IRON SHARPENETH IRON 2013 DAG HEWARD-MIL [pc7DyC83uvTR]|NEVER USE POWER WITHOUT WISODM AND WISDOM WITHOUT POWER IRON SHARPENETH IRON 2013 DAG HEWARD-MIL]]
+- [[Messages/Bitchute/IronSharpenethIron/THE SPIRIT OF COUNSEL IRON SHARPENETH IRON 2015 UK DAG HEWARD-MILLS [19PPwBYEqgZZ]|THE SPIRIT OF COUNSEL IRON SHARPENETH IRON 2015 UK DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/IronSharpenethIron/TRANSFORMING YOUR PASTORAL MINISTRY PART 2 IRON SHARPENETH IRON 2015 PARIS DAG HEWARD-MILLS [FlTWt4IxDk6j]|TRANSFORMING YOUR PASTORAL MINISTRY PART 2 IRON SHARPENETH IRON 2015 PARIS DAG HEWARD-MILLS]]
 
-### Messages / Bitchute / MiracleWaveConventions
+#### Messages / Bitchute / MiracleWaveConventions
 - [[Messages/Bitchute/MiracleWaveConventions/CHILDREN OF WISDOM MIRACLE WAVE DAG HEWARD-MILLS [Y0rc6pIILGLW]|CHILDREN OF WISDOM MIRACLE WAVE DAG HEWARD-MILLS]]
 - [[Messages/Bitchute/MiracleWaveConventions/PHANEROSIS AND WISDOM MIRACLE WAVE DAG HEWARD-MILLS [9pfK5Oy8tBIK]|PHANEROSIS AND WISDOM MIRACLE WAVE DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/MiracleWaveConventions/SIEZE THE MOMENT MIRACLE WAVE DAG HEWARD-MILLS [DLPDgTbv8P36]|SIEZE THE MOMENT MIRACLE WAVE DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/MiracleWaveConventions/THE ANOINTING FOR WEALTH MIRACLE WAVE DAG HEWARD-MILLS [SE9i7ST74GWB]|THE ANOINTING FOR WEALTH MIRACLE WAVE DAG HEWARD-MILLS]]
 - [[Messages/Bitchute/MiracleWaveConventions/THE PHILOSOPHY OF WISDOM MIRACLE WAVE DAG HEWARD-MILLS [b87vPb3iifh1]|THE PHILOSOPHY OF WISDOM MIRACLE WAVE DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/MiracleWaveConventions/WHAT IT MEANS TO FEAR GOD MIRACLE WAVE DAG HEWARD-MILLS [Sq8MGysyfLhs]|WHAT IT MEANS TO FEAR GOD MIRACLE WAVE DAG HEWARD-MILLS]]
 
-### Messages / Rumble / Conventions
+#### Messages / Rumble / Conventions
 - [[Messages/Rumble/Conventions/Plain and Hidden Wisdom HomeComing Conventions Dag Heward-Mills [v5mbdpe]|Plain and Hidden Wisdom HomeComing Conventions Dag Heward-Mills]]
 - [[Messages/Rumble/Conventions/The Hidden Wisdom Of The Cross Part 1 HomeComing Conventions Dag Heward-Mills [v5maa62]|The Hidden Wisdom Of The Cross Part 1 HomeComing Conventions Dag Heward-Mills]]
 - [[Messages/Rumble/Conventions/The Hidden Wisdom Of The Cross Part 2 HomeComing Conventions Dag Heward-Mills [v5matzt]|The Hidden Wisdom Of The Cross Part 2 HomeComing Conventions Dag Heward-Mills]]
 
-### Messages / Rumble / SoulWinnersServices
+#### Messages / Rumble / KorleGonno
+- [[Messages/Rumble/KorleGonno/10 STEPS TO BUILDING A HOUSE DAG HEWARD-MILLS [v4ug5s8]|10 STEPS TO BUILDING A HOUSE DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/ALTERNATIVES TO MORE FOOD AND RAIMENT DAG HEWARD-MILLS [v4tykzz]|ALTERNATIVES TO MORE FOOD AND RAIMENT DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/DEMONSTRATIONS OF THE SPIRIT OF GOD DAG HEWARD-MILLS [v4u62le]|DEMONSTRATIONS OF THE SPIRIT OF GOD DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/VISITORS DAG HEWARD-MILLS [v4tyl79]|VISITORS DAG HEWARD-MILLS]]
+
+#### Messages / Rumble / SoulWinnersServices
 - [[Messages/Rumble/SoulWinnersServices/THE WISDOM OF SOUL WINNING SOUL WINNERS SERVICE DAG HEWARD MILLS [v4sub50]|THE WISDOM OF SOUL WINNING SOUL WINNERS SERVICE DAG HEWARD MILLS]]
 - [[Messages/Rumble/SoulWinnersServices/THE WISDOM OF SOUL WINNING SOUL WINNERS SERVICE DAG HEWARD-MILLS [v4sub50]|THE WISDOM OF SOUL WINNING SOUL WINNERS SERVICE DAG HEWARD-MILLS]]
 - [[Messages/Rumble/SoulWinnersServices/WHAT IT MEANS TO BE A WISE PERSON SOUL WINNERS SERVICE DAG HEWARD MILLS [v4su6rw]|WHAT IT MEANS TO BE A WISE PERSON SOUL WINNERS SERVICE DAG HEWARD MILLS]]
 
-### Messages / Rumble / WisdomImpartationServices
+#### Messages / Rumble / TuesdayServices
+- [[Messages/Rumble/TuesdayServices/ILL FAVOURED AND WELL FAVOURED TUESDAY SERVICE DAG HEWARD-MILLS [v4tud5r]|ILL FAVOURED AND WELL FAVOURED TUESDAY SERVICE DAG HEWARD-MILLS]]
+
+#### Messages / Rumble / WisdomImpartationServices
 - [[Messages/Rumble/WisdomImpartationServices/BE FILLED WITH THE HOLY SPIRIT WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS [v4syp3f]|BE FILLED WITH THE HOLY SPIRIT WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS]]
 - [[Messages/Rumble/WisdomImpartationServices/GREATER THAN SOLOMON PART 2 WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS [v4sxiy5]|GREATER THAN SOLOMON PART 2 WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS]]
 - [[Messages/Rumble/WisdomImpartationServices/GREATER THAN SOLOMON WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS [v4sxh3i]|GREATER THAN SOLOMON WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS]]
@@ -70,13 +71,33 @@
 - [[Messages/Rumble/WisdomImpartationServices/WISDOM OF KINGS (MALAK) PART 3 WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS [v4sx24x]|WISDOM OF KINGS (MALAK) PART 3 WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS]]
 - [[Messages/Rumble/WisdomImpartationServices/WISDOM OF KINGS MALAK WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS [v4svskk]|WISDOM OF KINGS MALAK WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS]]
 
-### Messages / YouTube / DagHewardMillsGTWC
+#### Messages / YouTube / ChurchServices
+- [[Messages/YouTube/ChurchServices/9 WAYS YOU CAN QUENCH THE SPIRIT  FIRST LOVE SERVICES  DAG HEWARD-MILLS [PNECihsxHTU]|9 WAYS YOU CAN QUENCH THE SPIRIT  FIRST LOVE SERVICES  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/IF I AM NOT SPIRITUAL, WHAT AM I  FIRST LOVE SERVICES  DAG HEWARD-MILLS [pS2Cq9jmra4]|IF I AM NOT SPIRITUAL, WHAT AM I  FIRST LOVE SERVICES  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/PROPHETS AND SPIRITUAL MEN PART 2  FIRST LOVE SERVICES  DAG HEWARD-MILLS [vNZhKv9YZt4]|PROPHETS AND SPIRITUAL MEN PART 2  FIRST LOVE SERVICES  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/TESTS TO YOUR LONG AWAITED PROMOTION PART 1 FIRST LOVE SERVICES 0717 DAG HEWARD-MILLS [4jjDBg_gwyI]|TESTS TO YOUR LONG AWAITED PROMOTION PART 1 FIRST LOVE SERVICES 0717 DAG HEWARD-MILLS]]
+
+#### Messages / YouTube / DagHewardMillsCrusades
+- [[Messages/YouTube/DagHewardMillsCrusades/TEPA, GHANA THE CHILD JESUS HEALING JESUS CAMPAIGN DAG HEWARD-MILLS 2019 [Ji8tFYo13nY]|TEPA, GHANA THE CHILD JESUS HEALING JESUS CAMPAIGN DAG HEWARD-MILLS 2019]]
+
+#### Messages / YouTube / DagHewardMillsGTWC
+- [[Messages/YouTube/DagHewardMillsGTWC/CHANGING LEVELS IRON SHARPENETH IRON 2015 GHANA DAG HEWARD-MILLS [ZVgtRDxFuUg]|CHANGING LEVELS IRON SHARPENETH IRON 2015 GHANA DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/DEMYSTIFYING THE ANOINTING ISI GHANA DAG HEWARD-MILLS 2009 [bCoRloI0VT8]|DEMYSTIFYING THE ANOINTING ISI GHANA DAG HEWARD-MILLS 2009]]
 - [[Messages/YouTube/DagHewardMillsGTWC/DIVINE WISDOM GTWC 2018 GHANA DAG HEWARD-MILLS [JFzci9dI_cE]|DIVINE WISDOM GTWC 2018 GHANA DAG HEWARD-MILLS]]
 - [[Messages/YouTube/DagHewardMillsGTWC/Enlarge with Equal Amounts of Spirituality and Wisdom Day 4, Session 1 with Dag Heward-Mills [K_z3AHn_Hwk]|Enlarge with Equal Amounts of Spirituality and Wisdom Day 4, Session 1 with Dag Heward-Mills]]
 - [[Messages/YouTube/DagHewardMillsGTWC/HOW TO INCREASE WISDOM GTWC 2018 GHANA DAG HEWARD-MILLS [FY_tBWwdxyM]|HOW TO INCREASE WISDOM GTWC 2018 GHANA DAG HEWARD-MILLS]]
 - [[Messages/YouTube/DagHewardMillsGTWC/MANIFESTATIONS OF THE SPIRIT OF WISDOM SESSION 9 GTWC GHANA 2016 DAG HEWARD-MILLS [h9lS47AiFbI]|MANIFESTATIONS OF THE SPIRIT OF WISDOM SESSION 9 GTWC GHANA 2016 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/MASTER KEY TO BECOMING A GREAT MINISTER  GTWC SRI LANKA  DAG HEWARD-MILLS  2018 [2g1ID9q-wXc]|MASTER KEY TO BECOMING A GREAT MINISTER  GTWC SRI LANKA  DAG HEWARD-MILLS  2018]]
+- [[Messages/YouTube/DagHewardMillsGTWC/MASTER KEY TO BECOMING A GREAT MINISTER GTWC SRI LANKA DAG HEWARD-MILLS 2018 [2g1ID9q-wXc]|MASTER KEY TO BECOMING A GREAT MINISTER GTWC SRI LANKA DAG HEWARD-MILLS 2018]]
 - [[Messages/YouTube/DagHewardMillsGTWC/NEVER USE POWER WITHOUT WISDOM OR WISDOM WITHOUT POWER IRON SHARPENETH IRON 2013 [k_l2MpxjuwI]|NEVER USE POWER WITHOUT WISDOM OR WISDOM WITHOUT POWER IRON SHARPENETH IRON 2013]]
+- [[Messages/YouTube/DagHewardMillsGTWC/SELECTION AND MAINTENANCE OF THE AIM GTWC 2018 GHANA DAG HEWARD-MILLS [zqXqqEovMKc]|SELECTION AND MAINTENANCE OF THE AIM GTWC 2018 GHANA DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE ART OF LEADERSHIP PART 1  GTWC SOWETO  DAG HEWARD-MILLS  2017 [Y4E_T1lRxwQ]|THE ART OF LEADERSHIP PART 1  GTWC SOWETO  DAG HEWARD-MILLS  2017]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE ART OF LEADERSHIP PART 1 GTWC SOWETO 2017 DAG HEWARD-MILLS [rBItK9mOr00]|THE ART OF LEADERSHIP PART 1 GTWC SOWETO 2017 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE ART OF LEADERSHIP PART 1 GTWC SOWETO DAG HEWARD-MILLS 2017 [Y4E_T1lRxwQ]|THE ART OF LEADERSHIP PART 1 GTWC SOWETO DAG HEWARD-MILLS 2017]]
 - [[Messages/YouTube/DagHewardMillsGTWC/THE IMPORTANCE OF WISDOM IN GOD'S WORK SESSION 5 GTWC GHANA 2016 DAG HEWARD-MILLS [peJhXfzM2F4]|THE IMPORTANCE OF WISDOM IN GOD'S WORK SESSION 5 GTWC GHANA 2016 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE LEADERSHIP ANOINTING GTWC 2019, DAY 2 SESSION 1 DAG HEWARD-MILLS [C2qIZpMg-BY]|THE LEADERSHIP ANOINTING GTWC 2019, DAY 2 SESSION 1 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE SPIRIT OF COUNSEL  ISI UNITED KINGDOM  DAG HEWARD-MILLS  2015 [RfmkqTMj6dM]|THE SPIRIT OF COUNSEL  ISI UNITED KINGDOM  DAG HEWARD-MILLS  2015]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE SPIRIT OF COUNSEL ISI UNITED KINGDOM DAG HEWARD-MILLS 2015 [RfmkqTMj6dM]|THE SPIRIT OF COUNSEL ISI UNITED KINGDOM DAG HEWARD-MILLS 2015]]
 - [[Messages/YouTube/DagHewardMillsGTWC/THE WEAPON OF WISDOM  GTWC LONDON  DAG HEWARD-MILLS  2016 [Tcmkm54NeIQ]|THE WEAPON OF WISDOM  GTWC LONDON  DAG HEWARD-MILLS  2016]]
 - [[Messages/YouTube/DagHewardMillsGTWC/THE WEAPON OF WISDOM GTWC LONDON DAG HEWARD-MILLS 2016 [Tcmkm54NeIQ]|THE WEAPON OF WISDOM GTWC LONDON DAG HEWARD-MILLS 2016]]
 - [[Messages/YouTube/DagHewardMillsGTWC/THE WISDOM FOR THE WORK OF GOD SESSION 3 GTWC GHANA 2016 DAG HEWARD-MILLS [jnIf3SFkvJ4]|THE WISDOM FOR THE WORK OF GOD SESSION 3 GTWC GHANA 2016 DAG HEWARD-MILLS]]
@@ -88,12 +109,16 @@
 - [[Messages/YouTube/DagHewardMillsGTWC/THE WISDOM OF THE CROSS SESSION 6 GTWC GHANA 2016 DAG HEWARD-MILLS [t6bEBXrpkZY]|THE WISDOM OF THE CROSS SESSION 6 GTWC GHANA 2016 DAG HEWARD-MILLS]]
 - [[Messages/YouTube/DagHewardMillsGTWC/THE WISDOM OF THE SERPENT (MASTERS OF HANDICAPS ) GTWC 2019, DAY 4 SESSION 2 DAG HEWARD-MILLS [b6VWnzpnZgY]|THE WISDOM OF THE SERPENT (MASTERS OF HANDICAPS ) GTWC 2019, DAY 4 SESSION 2 DAG HEWARD-MILLS]]
 - [[Messages/YouTube/DagHewardMillsGTWC/THE WISDOM OF THE SERPENT GTWC 2019, DAY 4 SESSION 1 DAG HEWARD-MILLS [CogPSvte3FM]|THE WISDOM OF THE SERPENT GTWC 2019, DAY 4 SESSION 1 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/TRANSFORMING YOUR PASTORAL MINISTRY PART 2  ISI PARIS  DAG HEWARD-MILLS  2015 [HZajYgSaWqc]|TRANSFORMING YOUR PASTORAL MINISTRY PART 2  ISI PARIS  DAG HEWARD-MILLS  2015]]
+- [[Messages/YouTube/DagHewardMillsGTWC/TRANSFORMING YOUR PASTORAL MINISTRY PART 2 ISI PARIS DAG HEWARD-MILLS 2015 [HZajYgSaWqc]|TRANSFORMING YOUR PASTORAL MINISTRY PART 2 ISI PARIS DAG HEWARD-MILLS 2015]]
+- [[Messages/YouTube/DagHewardMillsGTWC/WHY LOYALTY GTWC 2018 GHANA DAG HEWARD-MILLS [R7TzN8nb9WE]|WHY LOYALTY GTWC 2018 GHANA DAG HEWARD-MILLS]]
 - [[Messages/YouTube/DagHewardMillsGTWC/WISDOM IS THE PRINCIPAL THING GTWC 2018 GHANA DAG HEWARD-MILLS [LITgwUUOXFE]|WISDOM IS THE PRINCIPAL THING GTWC 2018 GHANA DAG HEWARD-MILLS]]
 - [[Messages/YouTube/DagHewardMillsGTWC/WISDOM IS THE PRINCIPAL THING GTWC 2019, DAY 1 SESSION 1 DAG HEWARD-MILLS [LHlzUz1b0Ao]|WISDOM IS THE PRINCIPAL THING GTWC 2019, DAY 1 SESSION 1 DAG HEWARD-MILLS]]
 - [[Messages/YouTube/DagHewardMillsGTWC/WISE AS SERPENTS IRON SHARPENETH IRON 2015 GHANA DAG HEWARD-MILLS [cNaBEv55BO0]|WISE AS SERPENTS IRON SHARPENETH IRON 2015 GHANA DAG HEWARD-MILLS]]
 - [[Messages/YouTube/DagHewardMillsGTWC/Wise as a Serpent Day 3, Session 7 with Ange Kesse Now We Are At War #GTWC2025 [BIvAnd5wnuQ]|Wise as a Serpent Day 3, Session 7 with Ange Kesse Now We Are At War #GTWC2025]]
 
-### Messages / YouTube / DagHewardMillscamps
+#### Messages / YouTube / DagHewardMillscamps
+- [[Messages/YouTube/DagHewardMillscamps/30 SECRETS FOR YOUR GREAT TRANSFORMATION - PART 4  MAMPONG, GHANA  DAG HEWARD-MILLS  2023 [9z07FZYXygU]|30 SECRETS FOR YOUR GREAT TRANSFORMATION - PART 4  MAMPONG, GHANA  DAG HEWARD-MILLS  2023]]
 - [[Messages/YouTube/DagHewardMillscamps/AGREE ON THE WAY WISDOM STATEMENT PART 1   ACCRA, GHANA  DAG HEWARD-MILLS  2003 [y7-NPZk7Zt8]|AGREE ON THE WAY WISDOM STATEMENT PART 1   ACCRA, GHANA  DAG HEWARD-MILLS  2003]]
 - [[Messages/YouTube/DagHewardMillscamps/AGREE ON THE WAY WISDOM STATEMENT PART 1 ACCRA, GHANA DAG HEWARD-MILLS 2003 [y7-NPZk7Zt8]|AGREE ON THE WAY WISDOM STATEMENT PART 1 ACCRA, GHANA DAG HEWARD-MILLS 2003]]
 - [[Messages/YouTube/DagHewardMillscamps/AGREE ON THE WAY WISDOM STATEMENT PART 10  ACCRA, GHANA  DAG HEWARD-MILLS  2003 [gX5PxWVfX-4]|AGREE ON THE WAY WISDOM STATEMENT PART 10  ACCRA, GHANA  DAG HEWARD-MILLS  2003]]
@@ -118,39 +143,67 @@
 - [[Messages/YouTube/DagHewardMillscamps/AGREE ON THE WAY WISDOM STATEMENT PT 7 ACCRA, GHANA DAG HEWARD-MILLS 2003 [emkja-hnkKI]|AGREE ON THE WAY WISDOM STATEMENT PT 7 ACCRA, GHANA DAG HEWARD-MILLS 2003]]
 - [[Messages/YouTube/DagHewardMillscamps/AGREE ON THE WAY WISDOM STATEMENT PT 9  ACCRA, GHANA  DAG HEWARD-MILLS  2003 [KXbw2QCp-R4]|AGREE ON THE WAY WISDOM STATEMENT PT 9  ACCRA, GHANA  DAG HEWARD-MILLS  2003]]
 - [[Messages/YouTube/DagHewardMillscamps/AGREE ON THE WAY WISDOM STATEMENT PT 9 ACCRA, GHANA DAG HEWARD-MILLS 2003 [KXbw2QCp-R4]|AGREE ON THE WAY WISDOM STATEMENT PT 9 ACCRA, GHANA DAG HEWARD-MILLS 2003]]
+- [[Messages/YouTube/DagHewardMillscamps/CAMP OVERVIEW  NEW YORK, USA  DAG HEWARD-MILLS  2017 [Mr4dCPwEbzs]|CAMP OVERVIEW  NEW YORK, USA  DAG HEWARD-MILLS  2017]]
+- [[Messages/YouTube/DagHewardMillscamps/CAUSES OF INTRACTABLE POVERTY  MAMPONG, GHANA  DAG HEWARD-MILLS  2023 [50MRj0me_rk]|CAUSES OF INTRACTABLE POVERTY  MAMPONG, GHANA  DAG HEWARD-MILLS  2023]]
 - [[Messages/YouTube/DagHewardMillscamps/DAZZLING WISDOM THAT LEADS TO THE WONDERS OF LAY MINISTRY  MAMPONG, GHANA  DAG HEWARD-MILLS  2016 [m7HiW44D6ms]|DAZZLING WISDOM THAT LEADS TO THE WONDERS OF LAY MINISTRY  MAMPONG, GHANA  DAG HEWARD-MILLS  2016]]
 - [[Messages/YouTube/DagHewardMillscamps/EXPECT THE FRUIT OF WISDOM  GEORGETOWN, GUYANA DAG HEWARD-MILLS  2016 [RI60vO-xNuU]|EXPECT THE FRUIT OF WISDOM  GEORGETOWN, GUYANA DAG HEWARD-MILLS  2016]]
 - [[Messages/YouTube/DagHewardMillscamps/EXPECT THE FRUIT OF WISDOM GEORGETOWN, GUYANA DAG HEWARD-MILLS 2016 [RI60vO-xNuU]|EXPECT THE FRUIT OF WISDOM GEORGETOWN, GUYANA DAG HEWARD-MILLS 2016]]
+- [[Messages/YouTube/DagHewardMillscamps/OBLIQUE THINKING  Melbourne,  Australia  Dag Heward-Mills 2019 [2eD21GxKNk4]|OBLIQUE THINKING  Melbourne,  Australia  Dag Heward-Mills 2019]]
+- [[Messages/YouTube/DagHewardMillscamps/PRAYER  NEW YORK, USA  DAG HEWARD-MILLS  2017 [zBU1jhgZFpk]|PRAYER  NEW YORK, USA  DAG HEWARD-MILLS  2017]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYING FOR THE SPIRIT OF WISDOM  MAMPONG, GHANA  DAG HEWARD-MILLS  2015 [kXa2BNtqulw]|PRAYING FOR THE SPIRIT OF WISDOM  MAMPONG, GHANA  DAG HEWARD-MILLS  2015]]
+- [[Messages/YouTube/DagHewardMillscamps/PRINCIPLES FOR A SUPER MEGA CHURCH  MATOLA, MOZAMBIQUE  DAG HEWARD-MILLS  2016 [8EQsL7MikPY]|PRINCIPLES FOR A SUPER MEGA CHURCH  MATOLA, MOZAMBIQUE  DAG HEWARD-MILLS  2016]]
+- [[Messages/YouTube/DagHewardMillscamps/THE ISSUE OF NOT MAKING GOOD USE OF YOUR STEWARDSHIP CARDIFF, UK DAG HEWARD-MILLS 2003 [p0KbzesjLNg]|THE ISSUE OF NOT MAKING GOOD USE OF YOUR STEWARDSHIP CARDIFF, UK DAG HEWARD-MILLS 2003]]
+- [[Messages/YouTube/DagHewardMillscamps/THE MISSING KEY - PART 2  MAMPONG, GHANA  DAG HEWARD-MILLS  2023 [dR22nJEgG84]|THE MISSING KEY - PART 2  MAMPONG, GHANA  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillscamps/THE MYSTERY OF POWER TO PREACH TO MANY PEOPLE  KINGSTON, JAMAICA  DAG HEWARD-MILLS  2015 [Fcu-vOVQJKg]|THE MYSTERY OF POWER TO PREACH TO MANY PEOPLE  KINGSTON, JAMAICA  DAG HEWARD-MILLS  2015]]
 - [[Messages/YouTube/DagHewardMillscamps/THE WISDOM OF THE CROSS  BOURNEMOUTH, UNITED KINGDOM  DAG HEWARD-MILLS  2008 [jJpiEoKfGeM]|THE WISDOM OF THE CROSS  BOURNEMOUTH, UNITED KINGDOM  DAG HEWARD-MILLS  2008]]
 - [[Messages/YouTube/DagHewardMillscamps/THE WISDOM OF THE CROSS BOURNEMOUTH, UNITED KINGDOM DAG HEWARD-MILLS 2008 [jJpiEoKfGeM]|THE WISDOM OF THE CROSS BOURNEMOUTH, UNITED KINGDOM DAG HEWARD-MILLS 2008]]
+- [[Messages/YouTube/DagHewardMillscamps/THE WORLDLY VERSION AND THE GODLY VERSION  MAMPONG, GHANA  DAG HEWARD-MILLS  2014 [z6CvDEw73gs]|THE WORLDLY VERSION AND THE GODLY VERSION  MAMPONG, GHANA  DAG HEWARD-MILLS  2014]]
+- [[Messages/YouTube/DagHewardMillscamps/THE WORLDLY VERSION AND THE GODLY VERSION MAMPONG, GHANA DAG HEWARD-MILLS 2014 [z6CvDEw73gs]|THE WORLDLY VERSION AND THE GODLY VERSION MAMPONG, GHANA DAG HEWARD-MILLS 2014]]
+- [[Messages/YouTube/DagHewardMillscamps/TYPES OF RECEIVERS BY BISHOP RICHARD  MUNICH,GERMANY DAG HEWARD-MILLS  2016 [rBIi7GGQxoo]|TYPES OF RECEIVERS BY BISHOP RICHARD  MUNICH,GERMANY DAG HEWARD-MILLS  2016]]
+- [[Messages/YouTube/DagHewardMillscamps/TYPES OF RECEIVERS BY BISHOP RICHARD MUNICH,GERMANY DAG HEWARD-MILLS 2016 [rBIi7GGQxoo]|TYPES OF RECEIVERS BY BISHOP RICHARD MUNICH,GERMANY DAG HEWARD-MILLS 2016]]
 - [[Messages/YouTube/DagHewardMillscamps/The Wisdom Of Venom  Mampong, Ghana  Dag Heward-Mills  2013 [d9Dq3Byw5Mc]|The Wisdom Of Venom  Mampong, Ghana  Dag Heward-Mills  2013]]
 - [[Messages/YouTube/DagHewardMillscamps/WISDOM IS THE PRINCIPAL THING   GEORGETOWN, GUYANA DAG HEWARD-MILLS  2016 [laL2-BC35YU]|WISDOM IS THE PRINCIPAL THING   GEORGETOWN, GUYANA DAG HEWARD-MILLS  2016]]
 - [[Messages/YouTube/DagHewardMillscamps/WISDOM IS THE PRINCIPAL THING GEORGETOWN, GUYANA DAG HEWARD-MILLS 2016 [laL2-BC35YU]|WISDOM IS THE PRINCIPAL THING GEORGETOWN, GUYANA DAG HEWARD-MILLS 2016]]
 - [[Messages/YouTube/DagHewardMillscamps/Wisdom and Intercession   Mampong, Ghana Dag Heward-Mills 2013 [49OjHUm0frc]|Wisdom and Intercession   Mampong, Ghana Dag Heward-Mills 2013]]
+- [[Messages/YouTube/DagHewardMillscamps/Y-Elements New Technology, Inventive and Creative Belmopan, Belize Dag Heward-Mills 2024 [5F6V5kZdQaE]|Y-Elements New Technology, Inventive and Creative Belmopan, Belize Dag Heward-Mills 2024]]
 - [[Messages/YouTube/DagHewardMillscamps/YOU MUST BE WISE  NEW YORK, USA  DAG HEWARD-MILLS  2017 [JfzERS6xYrI]|YOU MUST BE WISE  NEW YORK, USA  DAG HEWARD-MILLS  2017]]
 
-### Messages / YouTube / DagHewardMillsvideos
+#### Messages / YouTube / DagHewardMillsvideos
 - [[Messages/YouTube/DagHewardMillsvideos/Becoming Wise in Challenging Times  Dag Heward-Mills [DAKUER6nFOs]|Becoming Wise in Challenging Times  Dag Heward-Mills]]
 - [[Messages/YouTube/DagHewardMillsvideos/Becoming Wise in Challenging Times Dag Heward-Mills [DAKUER6nFOs]|Becoming Wise in Challenging Times Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/FIRST LOVE SERVICE   9 WAYS YOU CAN QUENCH THE SPIRIT [jB2T3sIidwM]|FIRST LOVE SERVICE   9 WAYS YOU CAN QUENCH THE SPIRIT]]
 - [[Messages/YouTube/DagHewardMillsvideos/FIRST LOVE SERVICE   MYSTERY OF WISDOM [hjdIVl_BNIs]|FIRST LOVE SERVICE   MYSTERY OF WISDOM]]
 - [[Messages/YouTube/DagHewardMillsvideos/FIRST LOVE SERVICE   THE WISDOM OF A SHEEP PART 2 [JPUGTFeQjOQ]|FIRST LOVE SERVICE   THE WISDOM OF A SHEEP PART 2]]
 - [[Messages/YouTube/DagHewardMillsvideos/FIRST LOVE SERVICE   THE WISDOM OF A SHEEP PART 3 Mampong [wtlHWbrhKLo]|FIRST LOVE SERVICE   THE WISDOM OF A SHEEP PART 3 Mampong]]
 - [[Messages/YouTube/DagHewardMillsvideos/FIRST LOVE SERVICE   THE WISDOM OF ANGELS [XCaa8_bpFPU]|FIRST LOVE SERVICE   THE WISDOM OF ANGELS]]
 - [[Messages/YouTube/DagHewardMillsvideos/FIRST LOVE SERVICE   WISDOM 10 [0OVlK1w4NwQ]|FIRST LOVE SERVICE   WISDOM 10]]
+- [[Messages/YouTube/DagHewardMillsvideos/FIRST LOVE SERVICE  IF I AM NOT SPIRITUAL, WHAT AM I [VYZ7xUNiMq4]|FIRST LOVE SERVICE  IF I AM NOT SPIRITUAL, WHAT AM I]]
+- [[Messages/YouTube/DagHewardMillsvideos/FIRST LOVE SERVICE  SEVEN EXPLANATIONS FOR PAYING TITHE [Z3z3eVFbt5A]|FIRST LOVE SERVICE  SEVEN EXPLANATIONS FOR PAYING TITHE]]
 - [[Messages/YouTube/DagHewardMillsvideos/FIRST LOVE SERVICE  THE WISDOM OF ANGELS PART 2 [4k0LotDvGNg]|FIRST LOVE SERVICE  THE WISDOM OF ANGELS PART 2]]
+- [[Messages/YouTube/DagHewardMillsvideos/FIRST LOVE SERVICE  VISIONS PART 4 [1KdlI54E6OU]|FIRST LOVE SERVICE  VISIONS PART 4]]
 - [[Messages/YouTube/DagHewardMillsvideos/FIRSTLOVE SERVICE - WHAT IT MEANS TO BE WISE [5c37T1BeAkI]|FIRSTLOVE SERVICE - WHAT IT MEANS TO BE WISE]]
 - [[Messages/YouTube/DagHewardMillsvideos/Going Deeper And Doing More - Part 6 How You Can Go Deeper In Wisdom & Knowledge  Dag Heward-Mills [ACSMwgFvgxY]|Going Deeper And Doing More - Part 6 How You Can Go Deeper In Wisdom & Knowledge  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/HEALING JESUS PASTORS' CONFERENCE, BULAWAYO, THE MASTER KEY OF MINISTRY BULAWAYO [Ztq7m45JWtc]|HEALING JESUS PASTORS' CONFERENCE, BULAWAYO, THE MASTER KEY OF MINISTRY BULAWAYO]]
+- [[Messages/YouTube/DagHewardMillsvideos/HEALING JESUS PASTORS' CONFERENCE, KADOMA, KNOWLEDGE AND THE ART OF LEADERSHIP [wfr0Vacl-Wk]|HEALING JESUS PASTORS' CONFERENCE, KADOMA, KNOWLEDGE AND THE ART OF LEADERSHIP]]
+- [[Messages/YouTube/DagHewardMillsvideos/HEALING JESUS PASTORS' CONFERENCE, WITBANK, HOW YOU CAN TRANSFORM YOUR PASTORAL MINISTRY [oCPe_dmpJ90]|HEALING JESUS PASTORS' CONFERENCE, WITBANK, HOW YOU CAN TRANSFORM YOUR PASTORAL MINISTRY]]
+- [[Messages/YouTube/DagHewardMillsvideos/HEALING JESUS PASTORS' CONFERENCE,MAMELODI, TRANSFORM YOUR MINISTRY THROUGH LISTENING TO PREACHING 1 [l2bPKlUPS3o]|HEALING JESUS PASTORS' CONFERENCE,MAMELODI, TRANSFORM YOUR MINISTRY THROUGH LISTENING TO PREACHING 1]]
 - [[Messages/YouTube/DagHewardMillsvideos/HEALING JESUS PASTORS' CONFERENCE,NZEREKORE,DON'T USE POWER WITHOUT WISDOM AND WISDOM WITHOUT POWER [YxEzWhwZqh8]|HEALING JESUS PASTORS' CONFERENCE,NZEREKORE,DON'T USE POWER WITHOUT WISDOM AND WISDOM WITHOUT POWER]]
 - [[Messages/YouTube/DagHewardMillsvideos/Honour the King 7 Powerful Lessons from the Wise Men Dag Heward-Mills (Christmas Message) [7OjraLKRpos]|Honour the King 7 Powerful Lessons from the Wise Men Dag Heward-Mills (Christmas Message)]]
 - [[Messages/YouTube/DagHewardMillsvideos/Making Necessary U-Turns Wise As Serpents, Harmless As Doves  Dag Heward-Mills [IWo_3oUJyGE]|Making Necessary U-Turns Wise As Serpents, Harmless As Doves  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/PRAYERS FOR THE HOLY SPIRIT [qZRLL7zxo1k]|PRAYERS FOR THE HOLY SPIRIT]]
+- [[Messages/YouTube/DagHewardMillsvideos/SC 086 04   OBLIQUE THINKING [uhqgJYusfD4]|SC 086 04   OBLIQUE THINKING]]
 - [[Messages/YouTube/DagHewardMillsvideos/SESSION 1  PHANEROSIS AND WISDOM [y36ntP-9X8k]|SESSION 1  PHANEROSIS AND WISDOM]]
 - [[Messages/YouTube/DagHewardMillsvideos/SESSION 1 - THE WISDOM OF CHURCH PLANTING [VxhE3Od8xq8]|SESSION 1 - THE WISDOM OF CHURCH PLANTING]]
 - [[Messages/YouTube/DagHewardMillsvideos/SESSION 17 - YOU MUST BE WISE [mHr7SL7ElBA]|SESSION 17 - YOU MUST BE WISE]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 18 - PRAYER MINISTRATION [3xc74zeCp6E]|SESSION 18 - PRAYER MINISTRATION]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 2  AZAR AND YASHA HELP   PART 1 [e0yl2mEkZss]|SESSION 2  AZAR AND YASHA HELP   PART 1]]
 - [[Messages/YouTube/DagHewardMillsvideos/SESSION 2  CHILDREN OF WISDOM [WU0QT5pmPPQ]|SESSION 2  CHILDREN OF WISDOM]]
 - [[Messages/YouTube/DagHewardMillsvideos/SESSION 2 - THE WISDOM OF GOD [DdCFE5M9LG4]|SESSION 2 - THE WISDOM OF GOD]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 3  WHAT IT MEANS TO FEAR GOD [01-DLbnn2YI]|SESSION 3  WHAT IT MEANS TO FEAR GOD]]
 - [[Messages/YouTube/DagHewardMillsvideos/SESSION 3 - THE WISDOM FOR THE WORK OF GOD [zEzOQuSG5pM]|SESSION 3 - THE WISDOM FOR THE WORK OF GOD]]
 - [[Messages/YouTube/DagHewardMillsvideos/SESSION 3 - WISE AS SERPENTS [9xgKrV-zyOw]|SESSION 3 - WISE AS SERPENTS]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 4  SEIZE THE MOMENT [tQ0qyrUSmy0]|SESSION 4  SEIZE THE MOMENT]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 4 - THE SPIRIT OF COUNSEL [e49TR8HxlNU]|SESSION 4 - THE SPIRIT OF COUNSEL]]
 - [[Messages/YouTube/DagHewardMillsvideos/SESSION 4 - THE WISDOM OF LAY MINISTRY [nGUqji-fnaE]|SESSION 4 - THE WISDOM OF LAY MINISTRY]]
 - [[Messages/YouTube/DagHewardMillsvideos/SESSION 5  THE PHILOSOPHY OF WISDOM [JZ7p7nnyECI]|SESSION 5  THE PHILOSOPHY OF WISDOM]]
 - [[Messages/YouTube/DagHewardMillsvideos/SESSION 5 - THE IMPORTANCE OF WISDOM IN GOD'S WORK [-kzAryAZsJc]|SESSION 5 - THE IMPORTANCE OF WISDOM IN GOD'S WORK]]
@@ -160,12 +213,136 @@
 - [[Messages/YouTube/DagHewardMillsvideos/SESSION 8 - THE WISDOM OF FAITHFULNESS [i_d6PgPnEwc]|SESSION 8 - THE WISDOM OF FAITHFULNESS]]
 - [[Messages/YouTube/DagHewardMillsvideos/SESSION 9 - MANIFESTATIONS OF THE SPIRIT OF WISDOM [IbgN1yO5vs4]|SESSION 9 - MANIFESTATIONS OF THE SPIRIT OF WISDOM]]
 - [[Messages/YouTube/DagHewardMillsvideos/SOUL WINNERS SERVICE - WHAT IT MEANS TO BE A WISE PERSON [8MJXqN9qIDc]|SOUL WINNERS SERVICE - WHAT IT MEANS TO BE A WISE PERSON]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  - 10 STEPS TO BUILDING A HOUSE [SRtyGp51nZI]|SUNDAY SERVICE  - 10 STEPS TO BUILDING A HOUSE]]
+- [[Messages/YouTube/DagHewardMillsvideos/The Power of Reading in Ministry  Dag Heward-Mills [P8sosnA22PE]|The Power of Reading in Ministry  Dag Heward-Mills]]
 - [[Messages/YouTube/DagHewardMillsvideos/Those Who Are Mad  A Call to Wisdom and Obedience by Dag Heward-Mills [E6v-xQZXy6g]|Those Who Are Mad  A Call to Wisdom and Obedience by Dag Heward-Mills]]
 - [[Messages/YouTube/DagHewardMillsvideos/Unlocking Blessings through Wisdom  Dag Heward-Mills [uuYZc3NUUyA]|Unlocking Blessings through Wisdom  Dag Heward-Mills]]
 - [[Messages/YouTube/DagHewardMillsvideos/Unlocking Blessings through Wisdom Dag Heward-Mills [uuYZc3NUUyA]|Unlocking Blessings through Wisdom Dag Heward-Mills]]
 
-### Messages / YouTube / DagbooksChannel
+#### Messages / YouTube / DagbooksChannel
 - [[Messages/YouTube/DagbooksChannel/CHAPTER 12  NEVER USE POWER WITHOUT WISDOM OR WISDOM WITHOUT POWER!  ACCRA, GHANA  2013|CHAPTER 12  NEVER USE POWER WITHOUT WISDOM OR WISDOM WITHOUT POWER!  ACCRA, GHANA  2013]]
 - [[Messages/YouTube/DagbooksChannel/CHAPTER 20  WISDOM INCREASES BY HEARING  WA, GHANA  2024|CHAPTER 20  WISDOM INCREASES BY HEARING  WA, GHANA  2024]]
 - [[Messages/YouTube/DagbooksChannel/CHAPTER 27 THINKING ABOUT DEATH INCREASES WISDOM  WA, GHANA  2024|CHAPTER 27 THINKING ABOUT DEATH INCREASES WISDOM  WA, GHANA  2024]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 3  HOW TO PRAY FOR THE HOLY SPIRIT  MAMPONG, GHANA  2017|CHAPTER 3  HOW TO PRAY FOR THE HOLY SPIRIT  MAMPONG, GHANA  2017]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 3  WHAT IT MEANS TO ROB GOD  DURBAN, SOUTH AFRICA  2015|CHAPTER 3  WHAT IT MEANS TO ROB GOD  DURBAN, SOUTH AFRICA  2015]]
 - [[Messages/YouTube/DagbooksChannel/CHAPTER 5  WISDOM WILL GUARANTEE YOU VICTORY IN EVERY BATTLE  WA, GHANA  2024|CHAPTER 5  WISDOM WILL GUARANTEE YOU VICTORY IN EVERY BATTLE  WA, GHANA  2024]]
+
+#### Books — 013 Steps To The Anointing
+- [[Books/013 Steps To The Anointing/08 Chapter 7 - How to Persist until the Anointing Is Put to Use|08 Chapter 7 - How to Persist until the Anointing Is Put to Use]]
+
+#### Books — 014 Sweet Influences Of The Anointing
+- [[Books/014 Sweet Influences Of The Anointing/09 Chapter 8|09 Chapter 8]]
+
+#### Books — 020 The Art Of Following
+- [[Books/020 The Art Of Following/13 CHAPTER 12 - The Art of Following Solomon|13 CHAPTER 12 - The Art of Following Solomon]]
+
+#### Books — 021 The Art Of Hearing How To Be In The Perfect Will Of God 2Nd Ed
+- [[Books/021 The Art Of Hearing How To Be In The Perfect Will Of God 2Nd Ed/08 Chapter 7 - Twelve Different Kinds of Voices|08 Chapter 7 - Twelve Different Kinds of Voices]]
+
+#### Books — 022 The Art Of Leadership 3Rd Edition
+- [[Books/022 The Art Of Leadership 3Rd Edition/14 Chapter 12 - Never Use Power without Wisdom or Wisdom without Power!|14 Chapter 12 - Never Use Power without Wisdom or Wisdom without Power!]]
+- [[Books/022 The Art Of Leadership 3Rd Edition/66 Chapter 64 - Build Something if You Are a Leader!|66 Chapter 64 - Build Something if You Are a Leader!]]
+- [[Books/022 The Art Of Leadership 3Rd Edition/86 Chapter 84 - Find Solutions and Solve Problems|86 Chapter 84 - Find Solutions and Solve Problems]]
+
+#### Books — 027 How You Can Preach Salvation
+- [[Books/027 How You Can Preach Salvation/57 Salvation Message 55|57 Salvation Message 55]]
+- [[Books/027 How You Can Preach Salvation/74 Salvation Message 72|74 Salvation Message 72]]
+
+#### Books — 028 What It Means To Be As Wise As A Serpent
+- [[Books/028 What It Means To Be As Wise As A Serpent/01 Chapter 1 - The Wisdom of Serpents|01 Chapter 1 - The Wisdom of Serpents]]
+
+#### Books — 032 Victory Secrets
+- [[Books/032 Victory Secrets/02 Victory Secret No.1|02 Victory Secret No.1]]
+- [[Books/032 Victory Secrets/05 Victory Secret No.4|05 Victory Secret No.4]]
+
+#### Books — 038 Rules Of Church Work Walking Worthy 2Nd Ed
+- [[Books/038 Rules Of Church Work Walking Worthy 2Nd Ed/10 CHAPTER 9 - How to Enjoy Your Work|10 CHAPTER 9 - How to Enjoy Your Work]]
+
+#### Books — 046 How You Can Have An Effective Quiet Time With God Every Day
+- [[Books/046 How You Can Have An Effective Quiet Time With God Every Day/08 CHAPTER 7 - The Quiet Time – Your Chance to Obtain Wisdom|08 CHAPTER 7 - The Quiet Time – Your Chance to Obtain Wisdom]]
+
+#### Books — 048 Daughter You Can Make It
+- [[Books/048 Daughter You Can Make It/15 Chapter 12 - The Woman’s Keys|15 Chapter 12 - The Woman’s Keys]]
+- [[Books/048 Daughter You Can Make It/22 Chapter 19 - Overcoming the Curse Associated with Childbearing|22 Chapter 19 - Overcoming the Curse Associated with Childbearing]]
+
+#### Books — 052 The Determinants
+- [[Books/052 The Determinants/08 Chapter 7 - The Third Determinant Wisdom|08 Chapter 7 - The Third Determinant Wisdom]]
+- [[Books/052 The Determinants/09 Chapter 8 - The Men of Wisdom You Can Follow|09 Chapter 8 - The Men of Wisdom You Can Follow]]
+- [[Books/052 The Determinants/10 Chapter 9 - How to Improve Your Wisdom|10 Chapter 9 - How to Improve Your Wisdom]]
+
+#### Books — 070 Wisdom Is The Principal Thing For Your Ministry
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/02 CHAPTER 1 - Wisdom is the Principal Thing for Your Ministry|02 CHAPTER 1 - Wisdom is the Principal Thing for Your Ministry]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/04 CHAPTER 3 - Wisdom is the Secret to Mighty Works in Ministry|04 CHAPTER 3 - Wisdom is the Secret to Mighty Works in Ministry]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/05 CHAPTER 4 - Wisdom Will Make You a Great Leader|05 CHAPTER 4 - Wisdom Will Make You a Great Leader]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/06 CHAPTER 5 - Wisdom Will Guarantee You Victory in Every Battle|06 CHAPTER 5 - Wisdom Will Guarantee You Victory in Every Battle]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/07 CHAPTER 6 - Wisdom Will Give You A Stable Worldwide Ministry|07 CHAPTER 6 - Wisdom Will Give You A Stable Worldwide Ministry]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/08 CHAPTER 7 - Wisdom Turns You Into a Builder|08 CHAPTER 7 - Wisdom Turns You Into a Builder]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/09 CHAPTER 8 - Wisdom Is the Secret To Surviving Crises|09 CHAPTER 8 - Wisdom Is the Secret To Surviving Crises]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/10 CHAPTER 9 - Wisdom Guarantees Victory in Impossible Situations|10 CHAPTER 9 - Wisdom Guarantees Victory in Impossible Situations]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/11 CHAPTER 10 - Wisdom is the Secret to Promotion in Ministry|11 CHAPTER 10 - Wisdom is the Secret to Promotion in Ministry]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/12 CHAPTER 11 - Wisdom Will Turn You into a National Ministry|12 CHAPTER 11 - Wisdom Will Turn You into a National Ministry]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/13 CHAPTER 12 - Wisdom Will Make You Ten Times Better than the Others|13 CHAPTER 12 - Wisdom Will Make You Ten Times Better than the Others]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/14 CHAPTER 13 - Wisdom Will Make You Catch Up with Those Ahead|14 CHAPTER 13 - Wisdom Will Make You Catch Up with Those Ahead]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/15 CHAPTER 14 - Wisdom is the Secret to Your Financial Sufficiency In Ministry|15 CHAPTER 14 - Wisdom is the Secret to Your Financial Sufficiency In Ministry]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/16 CHAPTER 15 - Wisdom Is the Secret to Creativity in the Ministry|16 CHAPTER 15 - Wisdom Is the Secret to Creativity in the Ministry]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/17 CHAPTER 16 - Wisdom Turns You into A Practical Person|17 CHAPTER 16 - Wisdom Turns You into A Practical Person]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/18 CHAPTER 17 - Wisdom is the Secret to Catching the Anointing|18 CHAPTER 17 - Wisdom is the Secret to Catching the Anointing]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/19 CHAPTER 18 - Wisdom Knows the Times|19 CHAPTER 18 - Wisdom Knows the Times]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/20 CHAPTER 19 - The Proofs of Your Wisdom|20 CHAPTER 19 - The Proofs of Your Wisdom]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/21 CHAPTER 20 - Wisdom Increases by Hearing|21 CHAPTER 20 - Wisdom Increases by Hearing]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/22 CHAPTER 21 - Wisdom Increases through Books|22 CHAPTER 21 - Wisdom Increases through Books]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/23 CHAPTER 22 - Wisdom Increases through Testimonies|23 CHAPTER 22 - Wisdom Increases through Testimonies]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/24 CHAPTER 23 - Wisdom Increases through Instructions|24 CHAPTER 23 - Wisdom Increases through Instructions]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/25 CHAPTER 24 - Wisdom Increases through Rebukes|25 CHAPTER 24 - Wisdom Increases through Rebukes]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/26 CHAPTER 25 - Wisdom Increases through Teaching|26 CHAPTER 25 - Wisdom Increases through Teaching]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/27 CHAPTER 26 - Wisdom Increases through Prayer|27 CHAPTER 26 - Wisdom Increases through Prayer]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/28 CHAPTER 27 - Thinking about Death Increases Wisdom|28 CHAPTER 27 - Thinking about Death Increases Wisdom]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/29 CHAPTER 28 - Wisdom Begins When You Fear God|29 CHAPTER 28 - Wisdom Begins When You Fear God]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/30 CHAPTER 29 - Wisdom Increases by Observation|30 CHAPTER 29 - Wisdom Increases by Observation]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/31 CHAPTER 30 - Wisdom Increases by Observing High Places|31 CHAPTER 30 - Wisdom Increases by Observing High Places]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/32 CHAPTER 31 - Wisdom Comes by Observing at the Gates|32 CHAPTER 31 - Wisdom Comes by Observing at the Gates]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/33 CHAPTER 32 - The Mystery of Wisdom|33 CHAPTER 32 - The Mystery of Wisdom]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/34 CHAPTER 33 - Wisdom Increases As You Meditate|34 CHAPTER 33 - Wisdom Increases As You Meditate]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/35 CHAPTER 34 - Manifestations of Wisdom Soul Winning|35 CHAPTER 34 - Manifestations of Wisdom Soul Winning]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/36 CHAPTER 35 - Manifestations of Wisdom Humility|36 CHAPTER 35 - Manifestations of Wisdom Humility]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/37 CHAPTER 36 - Dark Sayings of Wisdom|37 CHAPTER 36 - Dark Sayings of Wisdom]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/38 CHAPTER 37 - Wisdom Minus the Fear of God|38 CHAPTER 37 - Wisdom Minus the Fear of God]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/39 CHAPTER 38 - The Wisdom from Above|39 CHAPTER 38 - The Wisdom from Above]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/40 CHAPTER 39 - A Wise Man is a Man of Works|40 CHAPTER 39 - A Wise Man is a Man of Works]]
+
+#### Books — 075 Enlargement Secrets
+- [[Books/075 Enlargement Secrets/04 CHAPTER 3 - Enlargement through Meditation|04 CHAPTER 3 - Enlargement through Meditation]]
+- [[Books/075 Enlargement Secrets/15 CHAPTER 14 - Enlarge with Equal Amounts of Spirituality and Wisdom|15 CHAPTER 14 - Enlarge with Equal Amounts of Spirituality and Wisdom]]
+
+#### Books — 077 Going Deeper And Doing More
+- [[Books/077 Going Deeper And Doing More/08 CHAPTER 7 - Go Deeper into Wisdom and Do More|08 CHAPTER 7 - Go Deeper into Wisdom and Do More]]
+- [[Books/077 Going Deeper And Doing More/10 CHAPTER 9 - How to Go Deeper in Knowledge|10 CHAPTER 9 - How to Go Deeper in Knowledge]]
+
+#### Books — 078 Weeping And Gnashing
+- [[Books/078 Weeping And Gnashing/05 CHAPTER 4 - The Third Prophecy of Weeping and Gnashing|05 CHAPTER 4 - The Third Prophecy of Weeping and Gnashing]]
+
+#### Books — 081 Seeing And Hearing
+- [[Books/081 Seeing And Hearing/02 CHAPTER 1 - Seeing and Hearing is Your Entrance into Wisdom|02 CHAPTER 1 - Seeing and Hearing is Your Entrance into Wisdom]]
+
+#### Books — 089 Now We Are At War
+- [[Books/089 Now We Are At War/14 Chapter 11 - USE MODERN WEAPONS|14 Chapter 11 - USE MODERN WEAPONS]]
+
+#### Books — 105 The Beauty The Beast And The Pastor
+- [[Books/105 The Beauty The Beast And The Pastor/36 CHAPTER 34 - Overcome in Your Marriage by the Wisdom of Naomi|36 CHAPTER 34 - Overcome in Your Marriage by the Wisdom of Naomi]]
+- [[Books/105 The Beauty The Beast And The Pastor/39 CHAPTER 37 - Overcome in Your Marriage By the Wisdom of Paul|39 CHAPTER 37 - Overcome in Your Marriage By the Wisdom of Paul]]
+
+#### Books — 107 How To Neutralize Curses
+- [[Books/107 How To Neutralize Curses/24 CHAPTER 23 - How You Can Escape from a Curse through Wisdom|24 CHAPTER 23 - How You Can Escape from a Curse through Wisdom]]
+
+#### Books — 108 Who Is He That Overcometh The World
+- [[Books/108 Who Is He That Overcometh The World/05 CHAPTER 4 - Overcome the Pressure to Conform to this World|05 CHAPTER 4 - Overcome the Pressure to Conform to this World]]
+- [[Books/108 Who Is He That Overcometh The World/10 CHAPTER 9 - Accept to be a Fool in this World|10 CHAPTER 9 - Accept to be a Fool in this World]]
+
+#### Books — 110 Name It Claim It Take It
+- [[Books/110 Name It Claim It Take It/11 Chapter 8|11 Chapter 8]]
+
+#### Books — 117 The Gift Of Governments A Bishop 'S Governing Handbook
+- [[Books/117 The Gift Of Governments A Bishop 'S Governing Handbook/77 CHAPTER 75 - Wise Judgment for Bishops|77 CHAPTER 75 - Wise Judgment for Bishops]]
+
+#### Books — 127 The Secret
+- [[Books/127 The Secret/08 Obtain Wisdom Keys through the Power of Quiet Time|08 Obtain Wisdom Keys through the Power of Quiet Time]]

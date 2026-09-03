@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ejGBa3tQh-I"
 duration_min: 146
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 Lord he qu he come Hallelujah come h all is yeah yeah yeah come Hallelujah I want us to pray and thank the Lord for the offering we have given tonight father we thank you that you bless this offering May we experience your visitation in a very special way in Jesus name we pray amen clap your hands for the ashes hallelujah amen at this time the car is going to give us some very very good music if you if you feel like dancing you can dance if you feel like jumping you can jump are you ready

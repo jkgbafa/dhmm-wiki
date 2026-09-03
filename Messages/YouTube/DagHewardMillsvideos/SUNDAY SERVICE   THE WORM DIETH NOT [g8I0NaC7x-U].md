@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=g8I0NaC7x-U"
 duration_min: 29
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 turn with me to Isaiah chapter 5 all the days of my life I wanna gaze upon you I thought chapter 5 now we read from verse 11 woe unto them that rise up early in the morning that they may follow strong drink that continued until night till wine inflame them how many used to follow strong drink early in the morning raise your hand if you are here thank you anybody else I once had a patient like that and he died by the by the morning he used to get up early in the morning by quarter

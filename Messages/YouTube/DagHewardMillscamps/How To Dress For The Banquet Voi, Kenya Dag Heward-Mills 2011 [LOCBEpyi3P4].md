@@ -8,6 +8,8 @@ year: 2011
 duration_min: 168
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 how to dress for the banquet how to dress for the banquet how many want to know what to wear sometimes you get an invitation C they say smart casual they say casual they say what Black Tie formal semi formal no what athletic wear no tracksuits no jeans Allowed no pajamas Matthew 22 and when the king came to see the guests he saw there a man which had not a wedding garments and he saith unto him friend H what what a shock a shock how CEST thou in hether not having a wedding garment and he was

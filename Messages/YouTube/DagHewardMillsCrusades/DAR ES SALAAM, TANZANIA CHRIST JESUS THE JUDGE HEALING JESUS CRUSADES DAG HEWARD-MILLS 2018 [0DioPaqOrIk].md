@@ -8,6 +8,8 @@ year: 2018
 duration_min: 166
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Yes, yes, yes, yes, yes. So I wonder if we celebrate, hallelujah, one better than the pen of fast, one better than I couldn't be in a fast, hallelujah, to not wanna celebrate, you know what you know, you know what you know, make it some celebrate, what they're to a rookie, to not say my child, celebrate, celebrate, celebrate, celebrate, celebrate, cellate, celebrate, celebrate, celebrate, celebrate, celebrate, celebrate, celebrate, celebrate, celebrate, celebrate, fire, this is the fire, face the fire, this is the fire, lifting the fire, lift is the fire, lift is the fire, lifting the sun, lift is the fire, lifting the fire, live the fire, live the fire, lift is the fire, live Jesus fire, lift in the fire, hallelujah, hallelujah, hallelujah, we get a girl to this, it was a kill, chicken, to the window of Kanaga, my people, hallelujah, one better now to not go one better now to the body with a kanga.

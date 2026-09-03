@@ -8,6 +8,8 @@ year: 2001
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 welcome to track number 14 of pastors of thousands I want to share with you about the 10th Ministry the 10th Ministry Acts chapter 18 question number one what is the tth ministry Acts chapter 18 you how many would like to learn Spanish and go out there to the Spanish world huh is there anybody here who speaks Spanish Rita speaks Spanish Peter Juliet which Juliet huh Julia you speak Spanish now listen 2 years ago we had had a come meeting and I spoke about did I speak about sacrifice no I spoke about the Missionary church and

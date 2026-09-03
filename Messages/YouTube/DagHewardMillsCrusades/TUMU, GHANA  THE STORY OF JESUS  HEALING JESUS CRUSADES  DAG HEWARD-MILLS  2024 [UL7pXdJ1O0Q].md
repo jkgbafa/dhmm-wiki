@@ -8,6 +8,8 @@ year: 2024
 duration_min: 134
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 e for e e spe for e for spe e for spe for spe for e for e Happ you e for for for for spe e for e for e for for e f e spe e for you for e for e e e f e for e spe e e for spe e for e e for spe e e for spe for e e e spe you for I he said no that time Jesus was bleeding Jesus was suffering three times the girl went and came three times three times Peter said I don't know

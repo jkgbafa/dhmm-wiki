@@ -8,6 +8,8 @@ year: 2014
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 heard the news about you a little while ago I tried to call you but you w work I'm glad I got you at home oh see no one else in this whole wide world could mean as much as you to me so I thought I Dro by for a little while in case you needed a friend everybody needs a little help to get the lives together you're no exception everybody needs another hand that they can hold on to better listen everybody needs a little help together lives together Jesus gives that to you verse two see

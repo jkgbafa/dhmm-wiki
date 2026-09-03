@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uf2in/"
 duration_min: 57
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Prayer/Intercession", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/prayer/intercession", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 It's ready with a mega song. You want to welcome them and give your offering as well. Thank you. Hallelujah. Hallelujah.

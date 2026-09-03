@@ -8,6 +8,8 @@ year: 2006
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 one day a friend of mine's mother was mared and um I met him he was telling me said I want to see your M said what they did to her she was killed so I said why did you go to the m he said I wanted to see it was something you know so I was thinking this story is so sad do you see is it not sad then years later I was talking to somebody and now the person was also telling me something about this guy's mother yeah how yes is go she was there

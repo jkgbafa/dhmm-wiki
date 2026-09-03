@@ -9,6 +9,8 @@ duration_min: 68
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/FIVE STATUTES OF LOYALTY    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002 [PgBk-QN_xeY]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to track number twelve of life in the church. I am sharing about five statutes of loyalty. And I'm sharing about my book here, leaders and loyalty. So how many don't have one? Leaders and loyalty.

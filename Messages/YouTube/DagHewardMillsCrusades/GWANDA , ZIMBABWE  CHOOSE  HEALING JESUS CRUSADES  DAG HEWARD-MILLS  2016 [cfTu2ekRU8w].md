@@ -8,6 +8,8 @@ year: 2016
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 J I'm la la la oh yeah yeah la la am amen amen J come on everybody say J we bless you Lord lift up your two hands and give Jesus away oh good to me good to me good to good me good me for the Last Time come on and say good do good good good me good to today is the last day give Jesus a shout give Jesus your best shout of Praise Hallelujah are you here are you here are you here one is are you ready hallelujah hallelujah watch jus Sim Sim s come

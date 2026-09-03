@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=vc_18slXBfY"
 duration_min: 286
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Demonology", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Draw Me Close to You Never Let Me Go never let me go I lay it all down again can we sing it I lay it all down again to hear you say that I'm your friend can you lift your hands and say can someone be Shameless about the fact that they want Jesus to say that they are his friend you are my Des is it your desire today can you lift up your hands if is your desire no one else would do no one else would do cuz nothing else could take your place nothing yes

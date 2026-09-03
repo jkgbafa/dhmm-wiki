@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=3yvfSO5cnSs"
 duration_min: 169
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer"]
 ---
 
 you work with E we got no I will be blessed because we came will be black will be K everybody as we gather tonight yeah nice we got every time y'all do every morning every morning every morning every morning every morning as we got us tonight as we gather knowing well no haha piggy will be black because we came will be black yeah he will be glad because Father we thank you tonight we'll be blessed because we came thank you there's a blessing in the house for everyone who came thank you we will not go

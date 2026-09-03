@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=QH0DrnOZmB8"
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 my youth hear me he me myth be afraid life AF just step on the en the en tell your neighbor this excuse can't keep standing with me good news dude sure gratitude attitude don'tu you goel song and move your shoes when you night BL ever be afraid to talk the life you live will terms the of the Shadow the enemy the enemy don't ever be afraid to dance your man that you want and justifi to be chrisan ever be afraid to the Lifey of the Shadow up me and just step on the enemy step on

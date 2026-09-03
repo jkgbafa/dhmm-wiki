@@ -8,6 +8,8 @@ year: 2024
 duration_min: 16
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now to conclude this little session, young element, no superiority outlook. And number 34, number 33, no superiority. And number 34, no dignified outlook. Amen. Wow.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6_-kxscFSk0"
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 Hallelujah are you glad to be here lift your hands and ask Jesus to speak to you personally this morning ask him to speak to you personally forget about everybody Lord speak to me I want you to speak to me thank you Holy Spirit we are grateful today for your great blessing in jesus' name lead us by your Mighty and powerful word that is so beautiful we are grateful we thank you Lord in the mighty name of Jesus holy spirit amen now this morning I am talking about or preaching about Jesus Christ right now why am

@@ -9,6 +9,8 @@ duration_min: 42
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHY ABRAHAM HAD A GOOD REPORT   MARYLAND, USA  DAG HEWARD-MILLS  2001 [dS1YwtU_RYs]]]"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 What is your life? Abraham was the father of faith. He pleased God. And the Bible says God he believed when God spoke. And God counted it unto him for righteousness.

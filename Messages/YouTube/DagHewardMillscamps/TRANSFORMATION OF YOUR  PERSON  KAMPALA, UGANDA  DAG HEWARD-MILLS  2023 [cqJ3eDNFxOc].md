@@ -8,6 +8,8 @@ year: 2023
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 let us pray father thank you for this time and the blessedness of the holy spirit in our midst we ask you to guide us to lead us to bless our hearts lift your hand and ask God to give you the spirit of Revelation ask God to give you the spirit of Revelation Lord we are grateful for the spirit of Revelation in the mighty name of Jesus thank you in Jesus name we pray amen you may be seated now transformation number one transformation of your person and that is what we're talking about yesterday that you'll be

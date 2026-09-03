@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uh4he/"
 duration_min: 68
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Amen. If anyone looks at me, let them see Jesus, let me be a reflection of his love and mercy to them. When they start to read my life story, when they start to read my life story, I want it to bring my savior glory. Let them see. Oh, come on.

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 142
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah. Alleluia. What a blessing to be here tonight, and I want to thank the apostle for inviting me here. Cochabamba. It is a great honor to be here with you in Cochabamba. I believe that God is going to change his life during this time that we are going to be together. Amen. Alleluia. I want you to raise your hand and let's pray. Father in heaven, thank you for this night. We pray for your power and your spirit for these last days, for your movement. The movement of your spirit, in Cochabamba, Bolivia, in Bolivia, in South

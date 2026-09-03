@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/O5m3tMejRFCR/"
 duration_min: 41
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Early in the morning, as the noon days morning, I love to listen to you, talk to me, and I wanna talk to you early in the morning, as the noon day is done. I love to listen to you, talk to me, and I want to talk to you early in the morning when I awake, it feels so good to give you praise, tell you how I love you, what you mean to me. I wanna talk to you. It's so easy to make mistakes when I try to do things my own way. He said, If I'll only ask, you direct my path, my soul.

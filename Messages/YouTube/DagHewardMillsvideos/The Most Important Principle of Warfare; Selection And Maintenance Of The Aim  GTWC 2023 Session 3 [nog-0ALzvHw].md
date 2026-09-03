@@ -8,6 +8,8 @@ year: 2023
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare"]
+tags: ["topic/spiritual-warfare"]
 ---
 
 hallelujah hallelujah let your hands thank you Holy Spirit for your guidance and the feeling of the Holy Spirit lead us the original leaders division thank you Mercy in Jesus name amen you may be seated now now we are looking at the good General amen the last thing that we were sharing was that do not be surprised at the outbreak of war the Nations now there are about 70 . um 70 six chaptersanta says in what I'm trying to share it was executed so far we are about six chapters gone maintenance So based on the calculation

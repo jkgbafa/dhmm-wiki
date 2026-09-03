@@ -8,6 +8,8 @@ year: 2002
 duration_min: 67
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 welcome to track number 23 of all out we are going to look at the sin that so easily besets us that keeps us from you know pressing on all out okay and I am going to share with you about only one sin okay that so easily besets all of us that we are unable to go all out what do you think so now being visionless in that sense is not a matter of just being an aimless person God does not want us to be aimless now when the Bible says without a vision a person perishes

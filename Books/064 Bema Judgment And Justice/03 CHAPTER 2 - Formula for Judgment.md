@@ -4,6 +4,8 @@ book: "Bema Judgment And Justice"
 book_number: "064"
 chapter_number: 3
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 ### CHAPTER 2\

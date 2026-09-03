@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/qOuxyEhOFeLV/"
 duration_min: 51
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 He's a strength of my life and no need to be afraid. The Lord is my life. He's my life and my salvation. He's a strength of my life. No need to be afraid.

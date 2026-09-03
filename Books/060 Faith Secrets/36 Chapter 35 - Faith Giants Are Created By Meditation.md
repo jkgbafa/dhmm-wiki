@@ -4,6 +4,8 @@ book: "Faith Secrets"
 book_number: "060"
 chapter_number: 36
 type: book
+topics: ["Faith", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/faith", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 ### Chapter 35\

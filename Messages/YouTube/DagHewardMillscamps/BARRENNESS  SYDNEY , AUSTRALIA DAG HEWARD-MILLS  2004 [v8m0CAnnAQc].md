@@ -8,6 +8,8 @@ year: 2004
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 welcome to track number one of barness and fruitfulness amen this I want us to share a bit about fruitfulness and baroness fruitfulness and barness I have a new book called uing barness in the ministry which I dedicated to Pastor Peter so I think we have a few copies there uh after the church make sure you get one all right make sure you have a copy hello give me enough that okay hallelujah amen so I believe that God is going to bless us God is going to catch our lives and he's going to do wonderful things

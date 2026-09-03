@@ -8,6 +8,8 @@ year: 2013
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Tu es Dieu, tu es bon, tu es beau, tu es bon, Dieu est beau, Dieu tu es bon, Dieu tu es merveilleux, Seigneur, tu es excellent, excellent est ton nom, excellent est ta force, Dieu, tu es merveilleux Seigneur, tu es excellent et ton nom Exil est ton nom Et sinon est un Dieu Dieu émerveilleux Seigneur Tu es là ton nom Et c'est l'homme est au nom est ta peau Et c'est l'enfant Dieu est merveilleux Seigneur Alléluia Dieu va faire encore encore Dieu va faire encore Alléluia Alléluia Il guérit les malades Il est puissant pour sauver

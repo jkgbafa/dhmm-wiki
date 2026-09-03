@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=QVasqPm5eug"
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 want to ask God to speak to you this evening mother thank you for your blessing thank you for your blessing thank you for your help thank you for your blessing thank you for your help we love you Jesus ask God to speak to you this evening oh yes no Monda little bit lemon a little every day yes Lord thank you Jesus for your great blessing thank you loafing mandala mandala Barada rainbow ladybird Braille mmmmmm bar eluded some anomalies tell a better editor not a lady Rizzoli Manasa Haleiwa l'amanda addendum boronic Burundi village founded hey Lara

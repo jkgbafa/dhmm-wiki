@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-spirliUbQU"
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 he directs hunters together a little misunderstood occurring when he given a Santos opinion tolling enemy Mukunda Santoshi maa laa la that tolling then he the next Santos of the rebels on the schwa recurring then go beyond Salva see the hair Allah he and the horizontal say Obama duck in the based on a guillotine pasado con Drupada parry apart chemically hallelujah my mother vitiation think I can hang in me make a martyr Donna rather the gamelan the peacock evening Angela my nanny the monkey dada hari an indoor akela now Superman you know David Mahanagar Anthea they

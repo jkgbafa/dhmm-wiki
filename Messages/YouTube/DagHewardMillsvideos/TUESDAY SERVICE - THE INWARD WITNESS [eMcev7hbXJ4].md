@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=eMcev7hbXJ4"
 duration_min: 39
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 let's pray father thank you so much for today thank you for the great blessing we have to serve you Lord we ask for your guidance guidance of your spirit and your blessing thank you for the spirit of wisdom understanding council period of mite spirit of the fear of the Lord spirit of knowledge and the Spirit of the Lord release into our eyes in Jesus name Amen you may be seated can we be the Romans chapter 8 and all of you coming from far and wide you're all welcome we are very happy to see you safe

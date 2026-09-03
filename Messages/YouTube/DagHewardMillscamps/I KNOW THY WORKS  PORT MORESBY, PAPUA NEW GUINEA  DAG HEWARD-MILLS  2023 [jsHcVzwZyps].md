@@ -8,6 +8,8 @@ year: 2023
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Judgment"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/judgment"]
 ---
 
 Hallelujah now Philippians chapter 2 and verse 5 it says let this mind be in you amen let this mind be in you which was also in Christ Jesus now this mind right is a mind about eternity amen am without this mind you cannot do the work of God nothing about the work of God will ever make sense let this mind be in you which also was in Christ Jesus so we are learning here that we are supposed to have the thinking of Jesus Christ amen amen and what is the thinking of Jesus Christ the thinking

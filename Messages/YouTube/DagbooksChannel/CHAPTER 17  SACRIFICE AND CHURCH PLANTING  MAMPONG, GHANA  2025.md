@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Church Growth", "Church Growth/Church Planting"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting"]
 ---
 
 Let's welcome the prophet. Hallelujah. Please be seated. Genesis 24:60. One of the things that prophet just taught us in breaking the barness of Sarah is that we must not reject the prophetic word. Hallelujah. When the angel was telling Abraham that his wife Sarah was going to conceive and give birth, Bible say she laughed. Amen. So just before we we went for our short break, prophet gave us a prophetic word from Genesis 24:60. Hello, Mr. Screamman. Help us 60. Yes. And they blessed Rebecca and said unto her, "Thou art at our sister, be thou the mother

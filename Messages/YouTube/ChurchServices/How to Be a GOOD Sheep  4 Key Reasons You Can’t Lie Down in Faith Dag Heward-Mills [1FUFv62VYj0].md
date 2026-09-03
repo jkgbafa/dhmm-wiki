@@ -8,6 +8,8 @@ duration_min: 123
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/How to Be a GOOD Sheep 4 Key Reasons You Can’t Lie Down in Faith Dag Heward-Mills [1FUFv62VYj0]]]"
+topics: ["Faith", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 nobody can make you do anything we can't make you come to church on time we can't make you stop misbehaving in your marriage you are just married for one year look at what you are doing to be a good sheep the shepherd must be able to make the Sheep lie down maturity doesn't mean no one can stretch your hand you see people think that when I'm great and I'm mature nobody can control me nobody can tell me what to do okay I'm going home now it seems that you are lost in you are you are

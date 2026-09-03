@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=cR1ehSaRIB8"
 duration_min: 69
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "The Holy Spirit", "Wealth and Finances"]
+tags: ["topic/anointing", "topic/the-holy-spirit", "topic/wealth-and-finances"]
 ---
 
 I want to talk first of all about the Holy Spirit the anointing is the holy spirit amen and the Holy Spirit is what we need amen because everybody who has anything and anyone who accomplishes anything it is given to him by God Amen and when we talk about the anointing we are speaking about what God does what the power of God does for a person because nobody is anything nobody is important God is important and God is great amen am so no one can of his own strength accomplish anything and no one can of his

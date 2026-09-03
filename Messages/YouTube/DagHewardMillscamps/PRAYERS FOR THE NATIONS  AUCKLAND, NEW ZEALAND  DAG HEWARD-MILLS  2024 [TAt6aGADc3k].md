@@ -8,6 +8,8 @@ year: 2024
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Missions", "Missions/The Nations", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/missions", "topic/missions/the-nations", "topic/prayer"]
 ---
 
 Psalm 2 verse one why do the Heen rage shange diversion to the Americano we are ending and we are praying as we end we are praying for Laborers and now we are going to pray for the Nations why are the nations in uproar why why are there so many problems in all the countries of the world and the people devising a vain thing like useless things are being planned verse two the kings of the earth that's the presidents and the prime ministers they take their stand and the rulers take counsel together against the Lord everything

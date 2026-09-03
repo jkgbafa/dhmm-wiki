@@ -8,6 +8,8 @@ year: 2011
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 This morning at the very beginning I was sharing about war and how it is necessary for the idea of war to enter your mind when you are building a church of war must be in your mind unless you have the idea of war which is what war is compelling the opponent to submit to soumett to your willont and to fulfill your will that is it right there on the screen number two a striving by force our opponents to submit to soumett to our willont now as you fight the church the devil will be fighting to

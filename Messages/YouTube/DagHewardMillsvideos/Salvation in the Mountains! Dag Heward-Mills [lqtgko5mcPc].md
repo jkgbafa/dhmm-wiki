@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=lqtgko5mcPc"
 duration_min: 1
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 Jesus Christ. From today, from today, I will follow Jesus. I will follow Jesus. And I will serve Jesus. I will serve Jesus for the rest of my life.

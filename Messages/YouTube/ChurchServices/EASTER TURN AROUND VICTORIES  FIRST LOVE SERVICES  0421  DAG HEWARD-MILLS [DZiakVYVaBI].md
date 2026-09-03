@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=DZiakVYVaBI"
 duration_min: 271
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah hallelujah sing Holy Holy Holy Hol Lord you are worthy Lord you are worthy and I'm honored and I'm honored to sing your praise oh he's the king of glory king of glory my God almighty God almighty Hall it be H it be your name sing all creation all creation Every Nation every nation has its being has it being by Your Word oh as it is done as it is done up heaven in heav let it be done here let it be done here on Earth oh sing let it be done let it be done

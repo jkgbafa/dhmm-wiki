@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ycegTU_508Y"
 duration_min: 53
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/faith", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 believe have faith in the miracle provision of finances in ministry y la voix la povey's on more miraculous day financed on a minister believe choir in the miracle provision the provision of provision miracle of finances in finance or the supernatural oh and a provision ma su natural amen amen are you though you are living Eskimos at Lava party have faith Elif wha in the miracle or supernatural provision of finances the ministry miracle you so natural they financed own mistake amen amen in other words Oh to believe that apart from the natural ways of getting money

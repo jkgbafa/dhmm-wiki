@@ -8,6 +8,8 @@ year: 2008
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 to track number 12 of warfare Keys good good now where were we yesterday snakes huh they are territorial okay Independence characteristic okay okay okay where you thing number one they are independent right yes number two is what they hide so so that means what huh no don't hide operate by what which is signs and symptoms must be a master of signs and symptoms you understand in other words you must not be a doctor who depends on LA and x-rays you get it cuz there's no x-ray here and there's no lap test to see certain things

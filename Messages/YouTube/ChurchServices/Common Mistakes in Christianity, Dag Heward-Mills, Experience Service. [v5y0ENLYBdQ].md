@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=v5y0ENLYBdQ"
 duration_min: 108
 source: "autocaption"
 match: "fuzzy"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 beginning from today there's going to be plenty of food some of you when you are going to buy KFC or you are going to buy some other food you wait till you are alone you want to be alone when you are buying now one mistake you can make a mistake that you should be careful of is your absence can be a sign of dishonor and somebody you are resistant to you do not honor your yieldedness and your flow reveal your honor answering back arguing back reveal resistance and dishonor let us pray Jesus thank you for the great blessing we have thank you for the goodness you give to us the love that you show us we are grateful at this time lift your hand and ask God to bless you ask him to bless you ask him to prosper you love you oh yes shando Gab��mara Oh yes.

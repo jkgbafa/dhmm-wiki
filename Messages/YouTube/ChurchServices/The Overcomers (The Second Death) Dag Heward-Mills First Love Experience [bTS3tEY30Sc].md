@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=bTS3tEY30Sc"
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 God is going to judge all of us according to the number of talents he's given to you. Those of you watching online, is there anybody online? I want you to listen to the short message I was preaching. This is a year you are going to become rich or sow the seeds towards riches. You're not being in need anymore.

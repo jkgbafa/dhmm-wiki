@@ -8,6 +8,8 @@ year: 2017
 duration_min: 211
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah amen thank you very much please be seated let's welcome the bishop fantastic shabby shepherding must go s for shepherding control another H for what hearing and seeing campaign another s for state of the flock campaign so two s's then one H for hearing and seeing campaign another H for honor the prophet now Mark chapter 6 verse one and he went out from then and came into his own country and his disciples followed him and when the Sabbath day was come he began to teach in the synagogue and many hearing him were astonished saying from

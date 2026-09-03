@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=w6oxj5q7Nms"
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 he 2 he have 1 no to d oh we're going no and m that macha there yes oh mua there come on we're when ok hallelujah allen hallelujah 1 charles balaya yes elected come on yes m well there me and kiss and cry baby sitter place where there too the man who didn't place himself completely the press fans this bone and human I clean his range of chains but you're going when you're still sleeping the pasta 1 and nacho place for those of a walkway lounge to shoot well sense and d is finally it's good

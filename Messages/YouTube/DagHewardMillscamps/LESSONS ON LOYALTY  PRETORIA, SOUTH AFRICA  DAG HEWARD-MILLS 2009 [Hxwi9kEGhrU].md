@@ -8,6 +8,8 @@ year: 2009
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 now next one all these are things that Judas luifer and others should have studied amen lessons of loyalty number one if you are going to be Loy I'm trying to teach you so that you will not fall into the same trap of Lucifer you are built in with worship anointing pastoral gifts everything everybody comes with some gifts that you must not fall into that now to develop strong stability to be able to finish what you started you need to develop strong loyalty amen number one you need to develop the lessons you have to understand the

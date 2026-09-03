@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=iiq07E74rZw"
 duration_min: 248
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah you want to lift your hands up to Jesus again this morning Lord we bless your Holy Name we give you all the Adoration and all the praise we are drawing nearer into your presence oh God thank you Lord we love you we honor you oh you just want to lift your hands up to Jesus begin to tell him just how lovely he is and how much of him you adore and how much of him you want Lord we want to be near to you oh God we love your presence Lord we want to be

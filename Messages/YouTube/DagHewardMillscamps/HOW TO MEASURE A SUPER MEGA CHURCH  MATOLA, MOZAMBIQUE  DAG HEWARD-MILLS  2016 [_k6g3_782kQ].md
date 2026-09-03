@@ -8,6 +8,8 @@ year: 2016
 duration_min: 150
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Church Growth", "Church Growth/Mega Church", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/anointing", "topic/church-growth", "topic/church-growth/mega-church", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 go go somewhere Tre somewhere go somewhere Tre some go some some go somewh treat somewh he have my Commandments and keep back there oh yeah he is is that love me and he that love me shall be Lov of my father and I will love him I will love him and manifest myself to him oh could to be love oh and we will you love God when he loves you so go somewhere somewhere go somewhere fre somewhere go somewhere fre somewhere go somewhere somewh I want to love him just because he love me oh yeah

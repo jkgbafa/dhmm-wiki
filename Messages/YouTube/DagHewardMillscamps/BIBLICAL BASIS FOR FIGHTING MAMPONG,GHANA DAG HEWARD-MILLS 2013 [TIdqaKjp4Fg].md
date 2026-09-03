@@ -8,6 +8,8 @@ year: 2013
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare"]
+tags: ["topic/spiritual-warfare"]
 ---
 
 And for the law, never going back to the world and even wait. I think for the Lord. We will fight a good stay in the will of the Lord. So be strong in the Lord in the power of his mind. Take up the shield of faith.

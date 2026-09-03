@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_eOyf5Aq2jg"
 duration_min: 145
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 foreign foreign foreign I don't know foreign amen you're welcome to a flow church service amen amen flow church is a church um that is online it's a flow Church and um we have two one two or three services a week yes Sunday Tuesday and Friday we can have seven times a week if we want we can have one we can have remember we we are always present and um you can join the church even if from New Zealand you can join from Ghana you can join from America you can join from Ukraine you can join

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=eKC7tVEPT6Q"
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 clap your hands for Jesus and let's appreciate our specious are you a special got to touch your life so nice then let's welcome the Baldy to bless us for the phone hallelujah if you believe Jesus here tonight kindly lift up your left hand and if you believe Jesus will touch you lift up your right hand and put your hands together for Jesus Christ one Rhianna you know whoa ha Matt may Yamaha Arrakeen our make one da and wheeler Kersey and sister happy naina Mariana ah ha Oh got me bleep yeah ah ah yes corner yes

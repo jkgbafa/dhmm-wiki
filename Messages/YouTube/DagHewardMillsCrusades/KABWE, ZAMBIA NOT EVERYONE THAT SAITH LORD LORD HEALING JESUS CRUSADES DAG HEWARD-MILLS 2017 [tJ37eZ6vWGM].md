@@ -8,6 +8,8 @@ year: 2017
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Ou awa yesou oh pocha yesu ta papa au abanga y moué a ma caia ti love yon se yesou au bébé la yes ou awa ma yes oh pocha yesu ta papa y moué a ma kaya tu love yon se nalia croyasou toi libala lift up your right hand toi li polla wishina li acqua yesou toi paloa she dalia croy yesou toi li fiboisina la koya soi t'i fia koye sou ni no mo t'è so lift up your hands I say yesou a macaya chila yeah yesou come lift up your right hand if it's o yesou Ama gaiach La la la china li a quoi yesou toi la main Bushina li a quoi yesou toi li fibra O'shi na liaqua yesou toi li pala loi she alia koye sous tande Moshi nali a koyesu Satana la boutou ta sou ta sou yachila lift up your right hand I see Yesu we love you Jesus Yeah yesou Yesou fianse Lumana lessa toi mi pala toi mi loupah laisse Yesou toi mi pala toi mi pala toi mi lumba laisse toi toi mi pala toi mi pala toi mi lumba laisse toi mi pala toi pala toi mi loupah les a Yesou toi mi pala toi mi pala toi mi bala toi palla Oh toi palla toi palla toi bibala toi bibala toi nipa toi pala toi pala oh oh toi mi palla toi bipala toi mi pala toi mi pala Put your hands together.

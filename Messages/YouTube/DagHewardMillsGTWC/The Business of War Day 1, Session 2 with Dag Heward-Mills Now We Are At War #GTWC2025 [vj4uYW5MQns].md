@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=vj4uYW5MQns"
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, we thank you for your blessing. And we are grateful. For your power. That is manifest in our lives. Now lift your hand and ask God for the spirit of wisdom.

@@ -4,6 +4,8 @@ book: "Key Facts For New Believers"
 book_number: "126"
 chapter_number: 8
 type: book
+topics: ["The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 CHAPTER 7 \

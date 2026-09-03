@@ -8,6 +8,8 @@ year: 2009
 duration_min: 73
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Curses", "Vision and Direction", "Vision and Direction/Hearing God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 We come rejoicing into his presence into his presence singing hallelujah. We come rejoicing, lifting our praise, we sing it hallelujah, hallelujah, hallelujah. We come rejoicing, singing hallelujah, hallelujah, hallelujah, rejoicing, singing hall the joy of the hearts as we come singing, praising our redeemer, and sing our sweet song, the melody inside our hearts, keeps ringing, and we raise the voices once again, sing our song to you, hallelujah, hallelujah, we come rejoicing, singing hallelujah, hallelujah, hallelujah, we come rejoicing, singing hallelujah.

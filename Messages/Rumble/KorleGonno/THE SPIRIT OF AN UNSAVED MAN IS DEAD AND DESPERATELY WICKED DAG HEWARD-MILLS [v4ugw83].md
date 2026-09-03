@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ugw83/"
 duration_min: 47
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Let's share a word of prayer. Father, thank you for this morning. We thank you for an opportunity where we can receive your word, be humble, understand what you are saying, and grow in you. We worship you, dear Lord. We pray for the spirit of revelation, wisdom in the knowledge of you.

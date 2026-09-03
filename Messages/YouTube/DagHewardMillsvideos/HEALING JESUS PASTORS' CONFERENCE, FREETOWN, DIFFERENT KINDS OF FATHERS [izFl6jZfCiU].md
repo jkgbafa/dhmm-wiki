@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=izFl6jZfCiU"
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 there are different kinds of fathers and everybody must know these ten different kinds of fathers number one your biological father that is the one who's who's feed give su you made you exist number two your heavenly father God in heaven through whom we exist in this world it is not true is it not true number three your father-in-law like Moses like Moses have a father-in-law through that father-in-law you come to exist at a marriage present if that's what I lower so that you will not be married is it true or not you and say father

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=a892lpqlJXw"
 duration_min: 28
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Call of God"]
+tags: ["topic/ministry-and-pastoring", "topic/the-call-of-god"]
 ---
 
 I want us to look at the laws of your mission as you become aware in the house of the Lord number one the law of knowing your calling you must know your calling amen first Corinthians 1:26 for you see your calling now what happens is that after some time you start to see your calling amen first Corinthians 1:26 look at it for you see your calling brethren how that not many wise men after the flesh not many mighty not many noble are called first Corinthians 1:26 for you see what you see what after some time

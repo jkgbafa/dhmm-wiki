@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=LBBjYFQfVs0"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Somebody give the Lord a shout. I cannot hear you. Give the Lord a shout and shout a shout. Come on and shout. Come on and shout.

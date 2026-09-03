@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JaXWzJTlEZI"
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 Ah, the bonds to the troubled soul that pushed me under when I see what you've done, I call it peace falling that when every time what you've done I was a teenager I can praise it all acclaimed the world saw what you my body I bless you good savior in bending in suffering kills but olive and all the state and we don't have too much who has me as much as oh you oh my god it's all my body I have blessed saved me the bending in suffering kills but to arrive you the state and

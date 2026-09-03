@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=QkKKRk38nQI"
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 yes if I think of all the old man of death the researcher is very small if I am I expect two things he is king well the most precious if I address this pain I pass over you I don't kill him if I had known all things and death if the face hunt was a rip-off I like it I go out in Chelsea to let go hold on that's your it I come you eat yourself alas sir came that told me my joker the if the author and oh hold on my my better all things

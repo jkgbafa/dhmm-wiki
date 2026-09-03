@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/WyinIRogsmG3/"
 duration_min: 103
 source: "whisper"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 So there we are jumping into a kind of Christmas mode. Since Christmas is coming, since Christmas is coming, and uh we want to talk about Mary's breakthrough. Amen. Preach it. Hallelujah.

@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/k28mROfGC2Be/"
 duration_min: 110
 source: "whisper"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 That's the ham of his garment. I tried. Oh I could seem like nothing. Did me any good. Then I heard she was passing.

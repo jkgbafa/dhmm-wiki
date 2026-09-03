@@ -8,6 +8,8 @@ year: 2023
 duration_min: 144
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 I want you to make sure that no one disturbs you at this Camp because the opportunity you have today is a rare opportunity it's a special opportunity God created this opportunity I will tell you that this is different from listening to podcast this is different from watching a video so I will encourage you to listen to the podcast PR watch the preaching videos but today our father is here physic you know so so the person sitting by you must be a serious person he must he or she must be the one he must be the

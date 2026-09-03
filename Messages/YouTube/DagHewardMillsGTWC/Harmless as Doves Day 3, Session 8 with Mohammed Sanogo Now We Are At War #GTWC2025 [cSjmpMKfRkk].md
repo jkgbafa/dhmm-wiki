@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=cSjmpMKfRkk"
 duration_min: 31
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/anointing", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Well we are blessed indeed. We some very and we are flying from Paris from France all the way back to West Africa. Hallelujah. We are one of the fathers of the French world. Many ministers look up to him.

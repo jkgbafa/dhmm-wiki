@@ -8,6 +8,8 @@ year: 2004
 duration_min: 145
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 Father, thank you for the opportunity once again in Jesus' name. Amen. All right, you may be seated. Right. Are you glad to be here?

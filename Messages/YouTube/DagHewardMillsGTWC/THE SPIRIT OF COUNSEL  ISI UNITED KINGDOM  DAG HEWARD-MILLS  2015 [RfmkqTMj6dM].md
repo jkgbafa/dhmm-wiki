@@ -8,6 +8,8 @@ year: 2015
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God", "Wisdom"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/wisdom"]
 ---
 
 Isaiah 11 verse1 the arb bishop is going to be here with us this evening that's going to be a blessing there shall come forth a rod out of the stem of Jesse and a branch shall grow out of his roots And the spirit of the Lord shall rest upon him. The spirit of knowledge, the spirit of wisdom, Amen. and understanding. The spirit of counsel and might. the spirit of the knowledge and of the fear of the Lord, and shall make him of quick understanding and the fear of the Lord. And he shall not judge after

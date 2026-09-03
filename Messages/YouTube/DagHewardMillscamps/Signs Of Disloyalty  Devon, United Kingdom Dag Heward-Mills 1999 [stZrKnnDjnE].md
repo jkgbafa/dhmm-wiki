@@ -8,6 +8,8 @@ year: 1999
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 now somebody should come here Peter come this way hold my hand like this no you see I'm hold to hold your hand like this okay so hold my hand like that no down here come you see my hand yes we are in the hospital now okay look at my hand you he what's that huh look at huh okay look again this is your last chance look at my look at my hand do you guys he you can see you lost sit now I have shown you a very very very important sign only somebody who is

@@ -8,6 +8,8 @@ year: 2011
 duration_min: 182
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Missions", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/missions", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 so please take your notes what does it mean to be on a mission number one to an assignment is that not so so means to have a task or a job means to be part of a delegation to be part to be part to be part of a delegation to be part of of a delegation amen believe God to join a better group than the group you are in now Hallelujah and also are here well there are some camps we've attended and we've had non Lighthouse members officially in the camp I don't know if there

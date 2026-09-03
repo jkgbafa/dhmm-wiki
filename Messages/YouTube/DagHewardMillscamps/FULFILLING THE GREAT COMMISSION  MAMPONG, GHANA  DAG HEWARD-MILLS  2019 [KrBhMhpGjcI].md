@@ -8,6 +8,8 @@ year: 2019
 duration_min: 190
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Salvation", "Salvation/The New Birth", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/salvation", "topic/salvation/the-new-birth", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah can we please be on our feet we want to start the program we thank God so much that we are receiving so much it's the same book we are reading but I believe that we are catching more Revelation which is affecting our lives affecting our Ministries affecting our churches Hallelujah so tonight you just want to say thank you Father oh God for this hmer time seminar Hallelujah Bible seminar you just want to lift your voice and you want to thank God that thank you that you created this for me so that I will be

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Q_HrP7QV8yI"
 duration_min: 188
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 lift your two hands with me to jesus everybody wherever you are standing wherever you are standing lift your hands high above your head and begin to thank god for his protection begin to thank god for his covering begin to thank god for sheltering you begin to thank god for protecting you begin to thank god begin to appreciate him his promise that he will not dash your feet against any stone and you can testify that god has not allowed you to dash your feet against any stone he's protected you he's guided you he sheltered you he's

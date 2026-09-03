@@ -8,6 +8,8 @@ year: 2012
 duration_min: 124
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring"]
 ---
 
 Many one who enter his gates with thus gave me a button will enter his case with my heart I will enter his parts with praise and I will say this is that they forjoice for he has made me glad I will enter his case with thus giving and I will enter his gate with us giving in my heart I will enter his cords with praise and I will say the sister I will rejoice for he has made me glad oh he has made me glad he has follow me glad he has made me glad so

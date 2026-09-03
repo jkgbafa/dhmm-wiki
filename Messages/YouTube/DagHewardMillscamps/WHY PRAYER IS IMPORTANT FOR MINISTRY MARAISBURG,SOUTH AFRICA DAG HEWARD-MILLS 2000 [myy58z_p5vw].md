@@ -8,6 +8,8 @@ year: 2000
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 The work of the ministry. Oh my sweet sweet I live by save you. Oh my sweet it was sweet sweet singing again I love you love I love you I be my save Oh my soul take joy my king I knew may you be a sweet sweet I love you I live to us to God take on the king and then it be a sweet sweet sweet Oh may you be a sweet sweet Oh may be a sweet time oh may you be a sweet sweet be a sweet Oh may it be a sweet I feel like worshiping the Lord. I feel like worshiping the Lord. I feel like worship the Lord.

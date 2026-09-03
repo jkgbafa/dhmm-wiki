@@ -8,6 +8,8 @@ year: 2018
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Father, we thank you for your blessing and for leading us to do your will. Conduous by your mighty power. We thank you in the name of Jesus. Amen. Can you sit down? How many of you have been blessed by the 100 campaigns? What a blessing. When I watch it myself, I become emotional. I wonder what the heavens will be like. We don't even remember all the things we have accomplished that we can win souls and more souls for the glory of the Lord. Now, I would really like to encourage you to add one more element

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Mi-raDjnQLA"
 duration_min: 203
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 father thank you for the blessing that is amazing we pray in this few moments we are together that you bless our hearts bless our lives bless us holy spirit oh yes place your hand on your heart and pray that the holy spirit should touch your heart and change your heart your life oh yes lord it's possible we thank you in jesus name amen you may be seated all right what is the weather like outside is it cold or hot it's cold do we need air conditioning or we don't need it we need it all right

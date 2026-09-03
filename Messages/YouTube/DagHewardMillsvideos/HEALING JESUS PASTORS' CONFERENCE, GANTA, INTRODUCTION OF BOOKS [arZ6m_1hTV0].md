@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=arZ6m_1hTV0"
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 now I'm going to tell you something that I don't normally see but I want you to open your heart and listen to that amen can I have an amen from you all right now to be a good pasta you must preach and teach now one of the things that people don't realize is that we are not preaching second things that we need to preach amen so today I'm going to give you some subjects that a pastor must be a specialist of doing and I'm going to start with the number one a will all problems in

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=1j74TV4qECE"
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 come on I believe the Lord has done something for us yeah welcome I just nicked your boys and just giving praise in its presence we wanna wear Ultima does picture boys you wanna get some West from you here's something from you that is an also gone Oh thank God sure when I see my lugar oh come on somebody just worship them we need his presence in our lives we get a spirit in our lives so without experience we can do nothing you want to sing the song it just surround me alone surround me with your

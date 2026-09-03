@@ -8,6 +8,8 @@ year: 2024
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Jesus shouts to the Lord, oh Jesus, Jesus, oh Jesus, I adore you. Sing with me, Jesus, Jesus, Jesus, oh Jesus, we adore you, oh Jesus, we adore you, oh Jesus, we adore you, oh Jesus, we adore you, like this, like this, shout, shout, shout to the Lord. [ Music] Lord, oh Jesus, we praise you, you are Lord, prince of peace, the Savior who compares to you. Glory, wonderful, we lift up Jesus and praise you, oh Jesus, we adore you like this, sing with me, oh Jesus, we adore you, oh Jesus, we adore you like this,

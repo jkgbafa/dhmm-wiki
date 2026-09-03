@@ -8,6 +8,8 @@ year: 2010
 duration_min: 73
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 hallelujah thank you you may be seated I want my wife my beautiful wife of 20 years to to bring greetings first so please welcome adade well praise the lord we are happy to be here this evening um I think the last time we were here was in 2008 and I can see that Jesus is Alive and Well in Bethany and um we want to also say thank you your pastor and yourselves supported some of our missionaries and because of that the work of God can go on so want to thank you as a church and

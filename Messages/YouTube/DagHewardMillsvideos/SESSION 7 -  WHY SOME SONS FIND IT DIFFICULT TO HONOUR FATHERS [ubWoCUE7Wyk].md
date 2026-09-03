@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ubWoCUE7Wyk"
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Our last session um now is going to be on the loyalty of Jesus Christ and I'm sharing from my book those who are ignorant. You see, we have looked at Satan and his nature and you can see in disloyal people a lot of satanic characteristics. Let us look at Jesus characteristics. We are going to be ending soon. So I want you to concentrate I see people standing at the doorway. We don't have that here in this country. You need to sit down, please. You need to sit down. Right. Number one, John 5:18. A person who

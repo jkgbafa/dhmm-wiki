@@ -7,6 +7,8 @@ url: "https://rumble.com/v4txnwb/"
 duration_min: 88
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Hallelujah. Shall we pray? Father, we thank you so much for tonight. Thank you for the opportunity, Lord, that we have in you to come before your word. To come into your presence.

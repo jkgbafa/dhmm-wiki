@@ -7,6 +7,8 @@ url: "https://rumble.com/v4taoke/"
 duration_min: 112
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/prayer", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 Praise the Lord Hallelujah. We have come into his house to magnify the Lord. Lift up holy hands. Make a joyful noise. Holy Spirit have your way.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jFft3GmggFU"
 duration_min: 133
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/church-growth", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 churches grow in Asia churches grow in South America unlike some trees which only grow in Africa and some trees which only grow in Europe like apple trees and some trees which only grow by the seaside like coconut trees churches have been made to grow everywhere they are planted so if you travel abroad to South America I have been to South America before I saw churches that have grown very big very big and I've been to Asia to Korea I've been to Malaysia have been to Singapore have been to Japan all of these places to Thailand

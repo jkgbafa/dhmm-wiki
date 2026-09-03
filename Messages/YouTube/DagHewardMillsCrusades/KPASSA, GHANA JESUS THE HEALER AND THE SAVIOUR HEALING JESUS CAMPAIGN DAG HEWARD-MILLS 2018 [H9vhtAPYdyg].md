@@ -8,6 +8,8 @@ year: 2018
 duration_min: 137
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Oh, glory be to God in the higher. We say glory be to God in the higher. Everybody shout hallelujah. Hallelujah. Oh, shout hallelujah.

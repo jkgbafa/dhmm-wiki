@@ -8,6 +8,8 @@ year: 2008
 duration_min: 120
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Vision and Direction", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/vision-and-direction", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 And it's all by your grace. Deal. In a time when sons are turning on the mother. And the mother's cry for justice can be our world where the future is so uncertain. Through the shaking I keep standing on your work.

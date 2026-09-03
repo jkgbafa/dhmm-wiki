@@ -1,23 +1,71 @@
 # Topics
 
-- [[Topics/Anointing|Anointing]] — 6 books, 21 chapters, 283 messages
-- [[Topics/Loyalty and Disloyalty|Loyalty and Disloyalty]] — 4 books, 21 chapters, 203 messages
-- [[Topics/Church Growth|Church Growth]] — 4 books, 5 chapters, 132 messages
-- [[Topics/Prayer|Prayer]] — 6 books, 20 chapters, 204 messages
-- [[Topics/Fasting|Fasting]] — 0 books, 1 chapters, 4 messages
-- [[Topics/Wealth and Finances|Wealth and Finances]] — 2 books, 17 chapters, 105 messages
-- [[Topics/Marriage and Family|Marriage and Family]] — 3 books, 33 chapters, 28 messages
-- [[Topics/Leadership|Leadership]] — 3 books, 6 chapters, 133 messages
-- [[Topics/Soul Winning and Evangelism|Soul Winning and Evangelism]] — 2 books, 9 chapters, 508 messages
-- [[Topics/Salvation|Salvation]] — 2 books, 6 chapters, 88 messages
-- [[Topics/The Holy Spirit|The Holy Spirit]] — 0 books, 20 chapters, 103 messages
-- [[Topics/The Call of God|The Call of God]] — 1 books, 6 chapters, 87 messages
-- [[Topics/Ministry and Pastoring|Ministry and Pastoring]] — 15 books, 70 chapters, 538 messages
-- [[Topics/Wisdom|Wisdom]] — 2 books, 13 chapters, 131 messages
-- [[Topics/Faith|Faith]] — 2 books, 8 chapters, 119 messages
-- [[Topics/Spiritual Warfare|Spiritual Warfare]] — 6 books, 35 chapters, 120 messages
-- [[Topics/Heaven, Hell and Eternity|Heaven, Hell and Eternity]] — 3 books, 10 chapters, 55 messages
-- [[Topics/The Word and Books|The Word and Books]] — 3 books, 36 chapters, 53 messages
-- [[Topics/Work and Diligence|Work and Diligence]] — 2 books, 19 chapters, 56 messages
-- [[Topics/Missions|Missions]] — 2 books, 23 chapters, 71 messages
-- [[Topics/Vision and Direction|Vision and Direction]] — 1 books, 8 chapters, 75 messages
+Every topic and subtopic, tagged by message CONTENT — a note counts even when its title never mentions the topic. Also browsable via Obsidian's tag pane (`topic/...`).
+
+- **[[Topics/Anointing|Anointing]]** (786)
+    - [[Topics/Anointing#Catching the Anointing|Catching the Anointing]] (61)
+    - [[Topics/Anointing#Impartation and Mantles|Impartation and Mantles]] (378)
+    - [[Topics/Anointing#Kinds and Waves of the Anointing|Kinds and Waves of the Anointing]] (33)
+- **[[Topics/Loyalty and Disloyalty|Loyalty and Disloyalty]]** (665)
+    - [[Topics/Loyalty and Disloyalty#Faithfulness|Faithfulness]] (273)
+    - [[Topics/Loyalty and Disloyalty#Judas and Betrayal|Judas and Betrayal]] (240)
+    - [[Topics/Loyalty and Disloyalty#Stages and Signs of Disloyalty|Stages and Signs of Disloyalty]] (101)
+- **[[Topics/Church Growth|Church Growth]]** (283)
+    - [[Topics/Church Growth#Church Planting|Church Planting]] (62)
+    - [[Topics/Church Growth#Mega Church|Mega Church]] (128)
+    - [[Topics/Church Growth#Visitation and Follow-up|Visitation and Follow-up]] (45)
+- **[[Topics/Prayer|Prayer]]** (1086)
+    - [[Topics/Prayer#All-night Prayer|All-night Prayer]] (27)
+    - [[Topics/Prayer#Answered Prayer|Answered Prayer]] (5)
+    - [[Topics/Prayer#Intercession|Intercession]] (41)
+    - [[Topics/Prayer#Praying in Tongues|Praying in Tongues]] (112)
+- **[[Topics/Fasting|Fasting]]** (19)
+- **[[Topics/Wealth and Finances|Wealth and Finances]]** (1747)
+    - [[Topics/Wealth and Finances#Prosperity and Poverty|Prosperity and Poverty]] (445)
+    - [[Topics/Wealth and Finances#Tithing and Giving|Tithing and Giving]] (1321)
+- **[[Topics/Marriage and Family|Marriage and Family]]** (701)
+    - [[Topics/Marriage and Family#Children and Parenting|Children and Parenting]] (66)
+    - [[Topics/Marriage and Family#Husbands and Wives|Husbands and Wives]] (173)
+    - [[Topics/Marriage and Family#Sexuality and Purity|Sexuality and Purity]] (425)
+- **[[Topics/Leadership|Leadership]]** (294)
+    - [[Topics/Leadership#Art of Leadership|Art of Leadership]] (63)
+    - [[Topics/Leadership#Generals and History Makers|Generals and History Makers]] (92)
+- **[[Topics/Soul Winning and Evangelism|Soul Winning and Evangelism]]** (889)
+    - [[Topics/Soul Winning and Evangelism#Anagkazo and Compelling|Anagkazo and Compelling]] (22)
+    - [[Topics/Soul Winning and Evangelism#Crusades|Crusades]] (491)
+    - [[Topics/Soul Winning and Evangelism#Witnessing|Witnessing]] (133)
+- **[[Topics/Salvation|Salvation]]** (458)
+    - [[Topics/Salvation#Backsliding|Backsliding]] (43)
+    - [[Topics/Salvation#Repentance|Repentance]] (52)
+    - [[Topics/Salvation#The New Birth|The New Birth]] (180)
+- **[[Topics/The Holy Spirit|The Holy Spirit]]** (509)
+    - [[Topics/The Holy Spirit#Baptism of the Spirit|Baptism of the Spirit]] (8)
+    - [[Topics/The Holy Spirit#Gifts of the Spirit|Gifts of the Spirit]] (255)
+- **[[Topics/The Call of God|The Call of God]]** (132)
+    - [[Topics/The Call of God#Responding to the Call|Responding to the Call]] (63)
+- **[[Topics/Ministry and Pastoring|Ministry and Pastoring]]** (1376)
+    - [[Topics/Ministry and Pastoring#Lay Ministry|Lay Ministry]] (108)
+    - [[Topics/Ministry and Pastoring#Ministerial Ethics|Ministerial Ethics]] (1)
+    - [[Topics/Ministry and Pastoring#Shepherding and Pastoral Care|Shepherding and Pastoral Care]] (856)
+- **[[Topics/Wisdom|Wisdom]]** (268)
+- **[[Topics/Faith|Faith]]** (215)
+- **[[Topics/Spiritual Warfare|Spiritual Warfare]]** (1584)
+    - [[Topics/Spiritual Warfare#Curses|Curses]] (264)
+    - [[Topics/Spiritual Warfare#Deliverance|Deliverance]] (73)
+    - [[Topics/Spiritual Warfare#Demonology|Demonology]] (727)
+    - [[Topics/Spiritual Warfare#Satan and His Devices|Satan and His Devices]] (772)
+    - [[Topics/Spiritual Warfare#Witchcraft and Jezebel|Witchcraft and Jezebel]] (112)
+- **[[Topics/Heaven, Hell and Eternity|Heaven, Hell and Eternity]]** (1096)
+    - [[Topics/Heaven, Hell and Eternity#Heaven|Heaven]] (831)
+    - [[Topics/Heaven, Hell and Eternity#Hell|Hell]] (465)
+    - [[Topics/Heaven, Hell and Eternity#Judgment|Judgment]] (20)
+- **[[Topics/The Word and Books|The Word and Books]]** (92)
+    - [[Topics/The Word and Books#Bible Study|Bible Study]] (72)
+    - [[Topics/The Word and Books#Books and Reading|Books and Reading]] (4)
+- **[[Topics/Work and Diligence|Work and Diligence]]** (60)
+    - [[Topics/Work and Diligence#Laziness|Laziness]] (50)
+- **[[Topics/Missions|Missions]]** (101)
+    - [[Topics/Missions#The Nations|The Nations]] (46)
+- **[[Topics/Vision and Direction|Vision and Direction]]** (232)
+    - [[Topics/Vision and Direction#Hearing God|Hearing God]] (77)
+    - [[Topics/Vision and Direction#The Will of God|The Will of God]] (82)

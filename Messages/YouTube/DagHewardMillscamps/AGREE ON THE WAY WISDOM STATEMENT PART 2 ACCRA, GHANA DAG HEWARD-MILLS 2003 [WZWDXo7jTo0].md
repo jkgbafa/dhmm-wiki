@@ -9,6 +9,8 @@ duration_min: 77
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/AGREE ON THE WAY WISDOM STATEMENT PART 2  ACCRA, GHANA  DAG HEWARD-MILLS  2003 [WZWDXo7jTo0]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wisdom"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wisdom"]
 ---
 
 There is no remembrance of former things, neither is there any remembrance of things that are to come or things that shall be done after. Verse 12. Let's all read it together. Ready, go. And I gave my heart to seek, set out by wisdom, all things that are done under heaven.

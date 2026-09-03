@@ -9,6 +9,8 @@ duration_min: 12
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/The Anointing Of Rebecca  Mampong, Ghana  Dag Heward-Mills  2025 [7WpGF3w95OI]]]"
+topics: ["Anointing", "Anointing/Kinds and Waves of the Anointing"]
+tags: ["topic/anointing", "topic/anointing/kinds-and-waves-of-the-anointing"]
 ---
 
 Amen. Now, finally, the anointing of Rebecca. The anointing of Rebecca. And then we are going to take a break. Yes.

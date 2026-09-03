@@ -8,6 +8,8 @@ duration_min: 185
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/HOW TO BE GREAT LIKE ABRAHAM FIRST LOVE SERVICES 0117 DAG HEWARD-MILLS [mvBaxByGXK4]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah amen wow now we are going to pray our next prayer we're going to ask God to show us more love and help us to love hallelujah how many of you know that it's not easy to love it's sometimes so difficult to love someone but the Bible says that the Holy Spirit has shared the love of God in our heart that which can make us love people and love God and love God's servants it only comes from the Holy Spirit Hallelujah are you here with me would you want God to influence Your Love Yes and

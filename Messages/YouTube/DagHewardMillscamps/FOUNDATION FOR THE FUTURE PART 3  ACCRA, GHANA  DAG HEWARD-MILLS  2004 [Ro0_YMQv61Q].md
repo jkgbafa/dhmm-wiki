@@ -8,6 +8,8 @@ year: 2004
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Vision and Direction", "Vision and Direction/Hearing God", "Vision and Direction/The Will of God"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 W so you have some butter for your living bread great now foundations how many foundations do you have number one is what a mind to do what to sacrifice number two is what a mind for Eternal things number three is what a mind to do the will of God then and the next one is what Foundation of scripture now when it comes to doing the will of God um you must have the perfect will of God all right now to have the perfect will of God there are several things that you need to I just

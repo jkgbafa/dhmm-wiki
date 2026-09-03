@@ -8,6 +8,8 @@ year: 2023
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 father thank you for the great blessing you give to us today in Jesus name amen amen you may be seated now today we want to look at how to respond to the call to come to cedonia how Paul responded and we are going to learn from Apostle Paul what Apostle Paul did when he had a vision how many want to know exactly what Apostle Paul did and what happened because we haven't actually seen what he did when he had a vision come over to Macedonia and help us so do you want to know what Paul

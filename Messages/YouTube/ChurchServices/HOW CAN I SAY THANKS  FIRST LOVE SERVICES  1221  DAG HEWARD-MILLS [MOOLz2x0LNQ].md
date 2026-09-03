@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MOOLz2x0LNQ"
 duration_min: 149
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 why don't you lift up your hands to Worship the Lord father you said where two or three people are gathered in your name there you are this morning we just want to lift up our worship to you sweet incense I just want you to lift up your hands and Worship the Lord in this place thank you Jesus oh we love you Jesus we are so grateful Lord thank you Jesus We Appreciate You Jesus but why don't you lift up your voice to the Lord tell him something this morning thank you Jesus every time that we

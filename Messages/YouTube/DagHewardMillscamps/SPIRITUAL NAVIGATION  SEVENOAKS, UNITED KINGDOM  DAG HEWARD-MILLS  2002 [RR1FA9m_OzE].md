@@ -8,6 +8,8 @@ year: 2002
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 welcome to track number 24 of all out are you ready for Spiritual navigation right as you go along in your life and in the ministry you are going to need to navigate to be able to get there amen amen so I want you to choose today 10 places where you're going to need to navigate and then we'll talk about it what do you think have you got your Bibles look at Luke chap 10 verse 3 it says go your ways behold I send you forth as Lambs among Wes so that's it you've been sent as

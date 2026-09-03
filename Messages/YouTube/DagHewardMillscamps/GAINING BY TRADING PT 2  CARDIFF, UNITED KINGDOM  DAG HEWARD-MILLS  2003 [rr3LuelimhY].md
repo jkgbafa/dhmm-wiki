@@ -8,6 +8,8 @@ year: 2003
 duration_min: 59
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 we had a service on Sunday you know they travel the distances they travel to come to church no from Connecticut this I even on the when we had oh there's no need for them to come for oh they are coming I was in Connecticut in the morning and that is what how many hours away you know and then Maryland and far they they travel they came for the service after midnight they were all there you know and in one said well one of the things that the tipes are more in the system the time people

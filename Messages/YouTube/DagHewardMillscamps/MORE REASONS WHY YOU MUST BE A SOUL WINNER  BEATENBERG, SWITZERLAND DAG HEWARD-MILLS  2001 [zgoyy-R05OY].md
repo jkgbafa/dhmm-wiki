@@ -8,6 +8,8 @@ year: 2001
 duration_min: 24
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Soul Winning and Evangelism"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/soul-winning-and-evangelism"]
 ---
 
 well welcome to track number four of victory in pegamos glory to God word to God now how many reasons do you have for being so winners 24 huh fact when you go you tell the people that Char I have more reasons than you okay the next reason why you should be a s winner after the so reasons I'll give you more before we leave but just let me give you three three of chge to add to the 24 before we continue the next reason why we must be so witness is so that we do not

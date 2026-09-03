@@ -8,6 +8,8 @@ year: 2001
 duration_min: 15
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number one of Victorian Pegamos. I was a total broke man. I was so broke that I visited people at lunchtime so that they would accidentally serve me with lunch. And I I had to buy my bus pass for 12 pounds 80 so that I could move around in London. 12 pounds, 20 minus 12 pounds is how much 120.

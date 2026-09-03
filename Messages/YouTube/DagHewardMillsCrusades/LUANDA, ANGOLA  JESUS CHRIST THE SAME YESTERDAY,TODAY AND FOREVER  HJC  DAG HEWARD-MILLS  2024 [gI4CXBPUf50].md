@@ -8,6 +8,8 @@ year: 2024
 duration_min: 102
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 to s to be you you you do oh I see l i see jus oh do keep to me he me me our G to ATI s re be St let J and andang andit and me trumpet trumpet me J hallelujah amen hallelujah amen amen amen well while still standing tonight it's my joy again to welcome the chairman of the Board of Trustees this great campaign please help me welcome Apostle elas Pedro good Anga I want to thank Angola in the name of the angolan church again the fathers of the church everybody who is a

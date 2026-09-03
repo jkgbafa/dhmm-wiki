@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=b__PTnWWk7g"
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 right are you there back to poycolos and we were at second corinthians right chapter number one now another important test for you are you there is the test of fear fear where if i put the in remembrance that i'll stir up the gift of god which is indeed by the pulling of my hands but god has not given us the spirit of fear but of power and love and the sound mind there are many frightening things about the ministry you get it and you're gonna have to overcome them to do well in the ministry god

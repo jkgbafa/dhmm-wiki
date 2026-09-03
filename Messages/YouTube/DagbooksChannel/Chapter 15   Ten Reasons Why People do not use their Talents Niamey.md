@@ -3,6 +3,8 @@ title: "Chapter 15   Ten Reasons Why People do not use their Talents Niamey"
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Prayer", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/prayer", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 I continue and I speak of the peace of God. I would like to share with you chapter 15. The reasons why people do not use their talents or why they do not answer the call. Matthew 25. He delivered unto them his goods and he gave two 10 talents and the one who received five traded with them. The one who received two did nothing gained other two. He that one into the ground and hit his money after long. So Matthew 25:14-19. For the kingdom of heaven is like a man traveling to a distant country, who called

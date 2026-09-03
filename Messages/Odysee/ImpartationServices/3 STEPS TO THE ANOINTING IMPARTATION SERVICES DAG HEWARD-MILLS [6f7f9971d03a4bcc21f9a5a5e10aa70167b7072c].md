@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/3-steps-to-the-ano
 duration_min: 76
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 may be seated today we are going to look at a much shorter message normally i give you seven steps to the anointing but today i'm going to give you only three hallelujah how many are ready for three steps to the anointing even out of these three one of them is not really a step it's a false step hallelujah how many want to be anointed some of us don't really know the power and the importance of the anointing if you did you would um be so desirous of the anointing amen and you would seek for it

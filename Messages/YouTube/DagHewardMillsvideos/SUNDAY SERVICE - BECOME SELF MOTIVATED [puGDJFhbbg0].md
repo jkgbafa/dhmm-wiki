@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=puGDJFhbbg0"
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 let's make your command don't make me pure make my heart beat full and so when you look at me it's alright rescue me take me on the floor the only where northern Aussie way it make me it's only by your blood if only by your plan so three Omaha Rifai agree that I might need they're wonderful ah ha ha ha it's all right magic may not make me John Fante look at me it's all right let me not make be done so when you looked at me it's alright the best you feel up not say

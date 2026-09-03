@@ -9,6 +9,8 @@ duration_min: 50
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Stir Up The Gift By Laying On of Hands Lenk, Switzerland Dag Heward-Mills 2025 [IzdGxJtJ6fs]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Second Timothy chapter 1, we are reading Verse seven. Are you listening to me? God has not given us the spirit of fear, but of power, of a love, and of a sound mind. I want everybody to listen to me now, please. I beg you because I beg you because you are in Switzerland. Are you there? When he says God has not given you a spirit of fear, he's also speaking. No, you guys stand over there. He's also telling you God has not given you a mental problem. Yeah, mental illness is called in in the medical

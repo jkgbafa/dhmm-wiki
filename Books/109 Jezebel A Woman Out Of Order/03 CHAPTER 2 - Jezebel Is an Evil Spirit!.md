@@ -4,6 +4,8 @@ book: "Jezebel A Woman Out Of Order"
 book_number: "109"
 chapter_number: 3
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 ### CHAPTER 2\

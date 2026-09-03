@@ -8,6 +8,8 @@ year: 2014
 duration_min: 278
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 woo Hallelujah come on come on last come on last come on last all right all right I will show you one last song It's a simple song but un condition that you get some of the older people to dance some some of the Pastors in front I want you to let them dance you know what David said David David said that I I will be undignified space tell somebody I will be undignified wait wait wait wait wait hold on hold on are you ready to be undignified are you ready to lose your dignity yeah I

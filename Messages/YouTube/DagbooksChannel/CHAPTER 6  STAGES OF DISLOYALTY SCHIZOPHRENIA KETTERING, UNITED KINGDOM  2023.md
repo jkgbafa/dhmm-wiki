@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 Amen. You may be seated. Now the stages of this we are moving into some of the things I want you to see the symptoms of madness in some behavior patterns. Amen. So we are starting with the stages of disloyalty. What are the stages of disloyalty? Number one, I cannot hear you. Independent spirit. Number two, offense. Number three, passivity. Number four, critical stage. Number five, political. And number six, deception. And then number seven, open rebellion. Oh yes. And then the last one is what? Execution. Execution. Now when people are going becoming disloyal, we have been teaching

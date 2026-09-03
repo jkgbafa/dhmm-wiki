@@ -9,6 +9,8 @@ duration_min: 92
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/DECEPTIONS OF DISLOYALTY RECAP    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2010 [9gIbjkozEqg]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number nine of advancing in Pegamos eight o'clock in the 45 minutes time, and then we have to check out of the hotel, check out of the rooms and everything, and then when we come back, we're going to come back at 10 o'clock, and then from 10 o'clock, we'll be here till about 12, 1, 2 o'clock, and later, and then we're out of here. Amen. Now, let's quickly move on to just for 30 minutes that we have before we break. The further deceptions of disloyalty. Amen.

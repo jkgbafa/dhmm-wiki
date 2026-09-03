@@ -8,6 +8,8 @@ year: 2023
 duration_min: 214
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Hallelujah father thank you for this opportunity in the mighty name of Jesus thank you Lord amen amen you may be seated now AOS without blemish amen and um one of the blemishes that is strong in Christians is that Christians are Christians but are not strong Christians so it is important to develop strength Ephesians 6:10 says finally my brethren be strong in the Lord amen amen be strong in the Lord and in the power of His might all right now um why is that you find out that now the church is weak because of a lack

@@ -3,6 +3,8 @@ title: "CHAPTER 2  HOW TO BE SUCCESSFUL IN THE ART OF FOLLOWING  BEITBRIDGE, ZIM
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 Chapter two, I'm I'm I'm just using this book here. CHAPTER TWO, HOW TO BE A SUCCESSFUL FOLLOWER OR how to be successful in when you are following somebody. Like when you are actually following, how to be successful when you actually following the person because you can follow somebody you are not successful in following the person. You don't following very well. Number one, the first master key in following somebody is always to make sure you are following God. Paul said, "Be followers of God as their children and walk in love." You cannot follow somebody unless you

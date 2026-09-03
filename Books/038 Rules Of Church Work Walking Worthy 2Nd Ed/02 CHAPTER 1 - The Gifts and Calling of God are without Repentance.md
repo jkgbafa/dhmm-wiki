@@ -4,6 +4,8 @@ book: "Rules Of Church Work Walking Worthy 2Nd Ed"
 book_number: "038"
 chapter_number: 2
 type: book
+topics: ["Ministry and Pastoring", "Salvation", "Salvation/Repentance", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/ministry-and-pastoring", "topic/salvation", "topic/salvation/repentance", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 ### CHAPTER 1\

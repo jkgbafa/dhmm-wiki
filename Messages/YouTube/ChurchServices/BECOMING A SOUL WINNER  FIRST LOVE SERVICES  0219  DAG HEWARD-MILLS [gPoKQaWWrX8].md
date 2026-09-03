@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=gPoKQaWWrX8"
 duration_min: 221
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 oh all glory Oh Glory all power all power to you Lord can we give glory to the name all all glory glory oh power to you to you Lord sing it again oh Oh Glory all power to you Lord Jesus Oh Oh Glory all power to you Lord to you sing it again oh Oh Glory all the power belongs to you all the power Belong To You Lord all honor all glory all power sing Holy Father Holy Father We Worship You Precious Jesus precious Jes our saor Holy Spirit we wait on you we wa Holy

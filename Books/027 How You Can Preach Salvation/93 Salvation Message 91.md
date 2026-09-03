@@ -4,6 +4,8 @@ book: "How You Can Preach Salvation"
 book_number: "027"
 chapter_number: 93
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Salvation"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/salvation"]
 ---
 
 ### Salvation Message 91: 

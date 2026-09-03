@@ -8,6 +8,8 @@ year: 2018
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 right attempt great things for God now what is the first thing you must attempt attempt to do what huh I can't hear you great propy great prophecy very good number two to love God attempt to love God Amen which is a great commandment isn't it yes change it to attempt to fulfill to obey the great Commandments attempt to obey the great Commandments the next next one attempt to show compassion to many people good next one what did you Sayer for the Lord attempt to have a great supper for the Lord amen the next one to

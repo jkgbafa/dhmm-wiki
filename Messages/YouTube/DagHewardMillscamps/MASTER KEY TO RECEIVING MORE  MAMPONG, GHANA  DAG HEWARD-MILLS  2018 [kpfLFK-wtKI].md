@@ -8,6 +8,8 @@ year: 2018
 duration_min: 202
 source: "autocaption"
 match: "exact"
+topics: ["The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 who's ready to give God a dance who's ready to give God some praise in here is that the best you can give to our wonderful God our amazing God our loving God our merciful god who knows that he's worthy to be praised and want to lift up his name in here exalt him on high who's ready to lift him up give the Lord a shout of praise tell your neighbor are you ready are you ready to give the Lord are you ready some praise in here I said some Praise In Here Amen to lift him

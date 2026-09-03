@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=mJoEnO6rjds"
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah Syd you're handsome as well to speak to you tonight father thank you for your pleasure thank you very much thank you for your help all that we do we ask you to lead us by your spirit to all that is true all that is your will Thank You Heavenly Father in Jesus name tonight I am sharing with you about what I call can you hear me and you hear me at the back can you hear me other back from mirror then all right I am sharing with you about what I saw kibou kibou now

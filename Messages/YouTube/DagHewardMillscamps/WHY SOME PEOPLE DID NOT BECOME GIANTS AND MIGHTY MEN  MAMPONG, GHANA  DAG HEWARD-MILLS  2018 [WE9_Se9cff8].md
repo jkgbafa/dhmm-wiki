@@ -8,6 +8,8 @@ year: 2018
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/faith", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 how many of you know our God is greater our God is stronger and there is no one like our God lift your hands with me this evening we want to enter into the presence of the Lord as we about to enter into the session and we want to sing a song to glorify the name of the Lord amen our God is greater our God is stronger higher than God is awesome in power awesome in power God oh God sing our God is greater our God is greater and our God is stronger our God is stronger

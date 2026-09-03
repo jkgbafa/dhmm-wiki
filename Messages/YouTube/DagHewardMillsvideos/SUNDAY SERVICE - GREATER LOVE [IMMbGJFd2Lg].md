@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IMMbGJFd2Lg"
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you know very so I do you for you you don't know there is no Judy Belden Oh we are homeless Lord willing I have it was I believed your Holy Name shooty Peleliu oh we are currently Lord will live I have been worship I will live your Holy Name for you are beautiful very Oh how come you are rora fight you agree you don't owe ya Bhanumati being deceptive the Sabbath washed it man the white and what's in there they can't forgive him glory even flow in his glory his honor the dominant power authority belongs

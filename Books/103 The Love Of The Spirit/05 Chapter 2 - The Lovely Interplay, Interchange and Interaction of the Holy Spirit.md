@@ -4,6 +4,8 @@ book: "The Love Of The Spirit"
 book_number: "103"
 chapter_number: 5
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Holy Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-holy-spirit"]
 ---
 
 Chapter 2

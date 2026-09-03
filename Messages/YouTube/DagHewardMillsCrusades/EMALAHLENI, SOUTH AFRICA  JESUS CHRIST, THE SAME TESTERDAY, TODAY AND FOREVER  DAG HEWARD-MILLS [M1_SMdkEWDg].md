@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=M1_SMdkEWDg"
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah glory to Jesus glory to Jesus Hallelujah we Jesus we H keep Jesus no oh no be give you we we oh hallelu Hallelujah Jesus forus tonight on this final night please stand if you can we have a reason to worship God this campaign we've had this week is a historic campaign you can live for 100 years in this city and not see what God has done this week as we live our lives as Believers we experience God in many ways every day we experience God but once sometimes God comes to visit us in unusual

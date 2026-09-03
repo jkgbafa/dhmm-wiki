@@ -4,6 +4,8 @@ book: "Name It Claim It Take It"
 book_number: "110"
 chapter_number: 15
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Chapter 12\

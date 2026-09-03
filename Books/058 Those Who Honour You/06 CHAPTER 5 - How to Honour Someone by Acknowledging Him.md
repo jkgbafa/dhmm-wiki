@@ -4,6 +4,8 @@ book: "Those Who Honour You"
 book_number: "058"
 chapter_number: 6
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 ###  CHAPTER 5\

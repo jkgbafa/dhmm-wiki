@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2012
 source: "autocaption"
+topics: ["Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 Father, thanks for this great blessing in Jesus name. Guide us by your spirit. Let your will be done. In Jesus name. Amen. Are you glad to be here today. Great. Now we want to continue on what I'm calling the foundations of ministry. ministry work. Amen. We are not talking about prosperity. We are not talking about abundance. Abundance. We are not talking about being successful. We are talking about working for God. Do you want to work for God? Do you want to build churches? Do you want to preach the gospel? Hallelujah. Hallelujah. Now just as there

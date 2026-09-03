@@ -4,6 +4,8 @@ book: "1000 Micro Churches"
 book_number: "066"
 chapter_number: 15
 type: book
+topics: ["Anointing", "Anointing/Kinds and Waves of the Anointing", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/kinds-and-waves-of-the-anointing", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/the-holy-spirit"]
 ---
 
 ### CHAPTER 14\

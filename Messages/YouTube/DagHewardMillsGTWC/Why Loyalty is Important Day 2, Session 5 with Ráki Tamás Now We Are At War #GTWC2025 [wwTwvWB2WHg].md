@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wwTwvWB2WHg"
 duration_min: 26
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 Now we we started from Brazil. We came to Africa. We want to go to Eastern Europe. Coming all the way from Hungary. A very anointed gift of God.

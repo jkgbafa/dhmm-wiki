@@ -8,6 +8,8 @@ year: 2025
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances"]
+tags: ["topic/church-growth", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances"]
 ---
 
 We want to show I want to show them the nine books that have to do with church growth. Somebody has unplugged the video. Uh-huh. Beautiful. Now we want to see the nine books for church growth. It is not easy. Do the things that are hard and difficult. Tell yourself, I'm going to focus on making this church grow to grow. The first book is the mega church. Of all my books on church growth, I feel this is the most anointed. Wow. It is the first book that I I wrote about church growth, the mega church. This

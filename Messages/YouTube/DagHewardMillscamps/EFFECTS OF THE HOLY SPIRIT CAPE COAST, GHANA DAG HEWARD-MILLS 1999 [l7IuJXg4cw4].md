@@ -9,6 +9,8 @@ duration_min: 23
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EFFECTS OF THE HOLY SPIRIT  CAPE COAST, GHANA  DAG HEWARD-MILLS  1999 [l7IuJXg4cw4]]]"
+topics: ["Anointing", "Anointing/Kinds and Waves of the Anointing", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/kinds-and-waves-of-the-anointing", "topic/the-holy-spirit"]
 ---
 
 Welcome to track number five of love and the mega church. Amen. So with me to Galatians chapter 5. And the first trend that we are going to look at under the long term effect of the Holy Spirit. It's in Galatians chapter 5, verse 22.

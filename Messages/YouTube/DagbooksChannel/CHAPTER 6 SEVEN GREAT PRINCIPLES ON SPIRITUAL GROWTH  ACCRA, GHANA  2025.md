@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Hallelujah. Amen. Let us pray. Father, thank you for your great guidance, the guidance of your spirit. lead us and help us to serve you well. We are grateful for all that you are doing in our lives. Strengthen us by the Holy Spirit in the name of Jesus. Amen. Amen. You may be seated. Wow. Now I believe God is blessing us in the love first church. How many How many of you are members of love first church? Oh, I can't see your hands. Well, beautiful. Now, you must know that your church is on Saturday nights. Amen.

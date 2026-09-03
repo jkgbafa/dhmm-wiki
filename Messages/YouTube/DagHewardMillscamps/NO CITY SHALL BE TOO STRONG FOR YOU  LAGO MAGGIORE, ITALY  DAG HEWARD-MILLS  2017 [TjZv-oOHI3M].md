@@ -8,6 +8,8 @@ year: 2017
 duration_min: 131
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 I am waiting yes I am waiting Lord I B in me I pray in me I pray and yes Lord here I am longing Lord oh I am for you come on let's lift our voice and sing Lord oh hide Me In Your Love hide me in your bring me to my knees bring me to my knees yes Lord may I know Jesus may I know Jesus more and more come on why don't you lift it up and tell him Lord come breathe come leave and come bring come leave in me come bring all my

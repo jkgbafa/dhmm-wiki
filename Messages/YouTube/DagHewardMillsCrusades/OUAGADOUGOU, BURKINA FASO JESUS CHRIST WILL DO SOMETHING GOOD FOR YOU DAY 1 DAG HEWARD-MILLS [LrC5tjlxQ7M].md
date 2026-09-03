@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=LrC5tjlxQ7M"
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Jésus est ici en sa maman Oh Jésus Il est ici en ce moment Oh répond à mon besoin Poul libéré les captifs Oh Jésus Il est ici un servant Personne ne s'intéresse à toi Et ta vie est dans des hommes Et tu les trouve la paix en toi Oh Jésus d'étend Vous enlevez Bou Sus Oh Jésus Oui Oh j'aime quoi Père Seigneur Est ici un Seigneur Oh il est ici pour répondre à mon besoin Pour y bé Capit Oh Jésus Est ici mon mort Le Seigneur est ici Oh il est ici Pour l'Ibé Capit Oh vous Il est ici mon mort Alléluia Soulement qui est Amour de Jésus Amour Quel amour Amour de Jésus Amour spécien Alors Et donne Sa vie Sa vie sur la gloire Pour nous sauver Amour Amour de Jésus Amou Space Oh Alors elle donne sa vie Sa vie sur la gloire Pour nous sauver Amon Oh quel amour Amour de Jésus Amou Spacial Alors Et donne sa vie Sa vie sur la gloire Pour nous sauver Hallelujah Put your hands for Lady Pastor Bivaldi Voyons Hallelujah Alléluia Tonight is the first night of this campaign Ce soir c'est la première soirée de cette campagne And we have waited for many months to be here tonight Et nous avons attendu avec impatience que cette nuit arrive I believe God has something great for us tonight Je crois que Dieu a quelque chose de grand pour nous At this moment the servant of God is ready à nos actuellement l'homme de Dieu est vrai The Lord has used him all over the nations of the world.

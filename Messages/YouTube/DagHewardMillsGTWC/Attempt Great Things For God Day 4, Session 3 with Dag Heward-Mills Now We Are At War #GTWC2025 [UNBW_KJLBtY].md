@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=UNBW_KJLBtY"
 duration_min: 225
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 God, you are welcome to this last short session. Now in this last session, I want to share with you what I call attempt great things. Dans ce dernier session, il faut if you're the grand chose poor without making a shipwreck. Amen. Amen.

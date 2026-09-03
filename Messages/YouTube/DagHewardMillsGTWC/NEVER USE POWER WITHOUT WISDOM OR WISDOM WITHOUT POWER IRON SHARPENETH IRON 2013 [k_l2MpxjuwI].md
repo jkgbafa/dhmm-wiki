@@ -8,6 +8,8 @@ year: 2013
 duration_min: 73
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Oh Baba Oh Baba We have the words on the screen, let's sing it. Baba we are in your presence let it rain your rain let it fall on me wearing your presence let it rain come on your rain let it fall can you put your hands in and say wearing your presence oh let it rain oh your rain let it fall on me oh where in your presence oh let it rain your rain let how many expecting the rain of food in the flood gates come on in abundance oh and cause your way to fall

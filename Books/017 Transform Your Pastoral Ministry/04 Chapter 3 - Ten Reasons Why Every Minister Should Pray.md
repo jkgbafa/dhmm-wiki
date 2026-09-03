@@ -4,6 +4,8 @@ book: "Transform Your Pastoral Ministry"
 book_number: "017"
 chapter_number: 4
 type: book
+topics: ["Faith", "Ministry and Pastoring", "Prayer", "Prayer/Intercession", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/faith", "topic/ministry-and-pastoring", "topic/prayer", "topic/prayer/intercession", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ## Chapter 3

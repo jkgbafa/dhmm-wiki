@@ -9,6 +9,8 @@ duration_min: 65
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/REASONS WHY JUDAS CAME INTO THE WORLD PT 2   MAASAI MARA, KENYA DAG HEWARD-MILLS  2010 [E8XSch1Tyow]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 From Austria, his father is from Ghana. I've gone horse riding with him, I've played with him, I bathed with him, I've slept in the same house. You come to my house and oh, my friends were point five. When God called me, welcome to track number 18 of the privilege. Don't be angry.

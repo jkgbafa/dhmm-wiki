@@ -8,6 +8,8 @@ year: 2001
 duration_min: 24
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 welcome to track number 14 of the message of sacrifice pagamos just a part of that all right now pegamos is the place where Satan lives amen now I was talking um okay pagamos right we we read from the Bible and this is going to be very fast so that we can move on Amen can can the baby be taken out when the babies have very Troublesome they can go out when they cool down then they can come back all right if possible maybe goes out for a short while and then comes back all right now

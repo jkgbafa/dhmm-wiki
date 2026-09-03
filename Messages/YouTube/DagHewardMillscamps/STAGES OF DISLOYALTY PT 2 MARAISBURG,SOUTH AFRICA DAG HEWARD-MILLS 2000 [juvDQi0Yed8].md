@@ -8,6 +8,8 @@ year: 2000
 duration_min: 34
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 The work of the ministry. Solomon was hurt. That's the offense stage. And he said nothing for two years. That is a passive stage.

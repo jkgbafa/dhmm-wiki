@@ -9,6 +9,8 @@ duration_min: 146
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/ODUMASAE KROBO, GHANA  POWERFUL JESUS  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2022 [GaF9Gj5A198]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 Oh the massive God they got the God daywa then go away by the day Hallelujah Lift up your hands say oh come up for Jesus come up for Jesus say or come up for Jesus come up for Jesus or come up for Jesus or Dima for Jesus pay the defeated Let's go come on for Jesus Oh man for Jesus Jesus oh D man for Jesus oh be a new one yet never to me to me to say come on for Jesus Oh one way Jesus oh be a battery to me change to me say you both dinner I'm talking say you both dinner everybody not to call so one no one oh how good to oh Jesus to be changed to me say what sa be said what yeah so we want no how good to woe Jan and off somebody say no to me chant to me to me Jesus Jesus to me change to me well hey say you both dinner a time for say you both dinner and we bought you not to go so we're one good to woe Jesus mouse that to say Jesus come on let's go oh sira o sa yeah he must have this oh You ain't catch a veneer, you have catch a bro.

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Prayer/Praying in Tongues", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 What happened, Mom? For a year, for a year I couldn't eat properly , you know? Ali, faria tinha um lumpo aqui bem grande aqui, aqui sobre sobre lado aqui, passar para cor. And the Bible says, one day it happened that the poor evangelist man, this man suffered from thrombosis. He couldn't lift this side either; his legs were stiff. Just tonight, look at your arm. Jesus, a big shout of amen . Amen. Hmm. Shout, shout. Hey, hey, what a shock, shock, shock, shock, shock , shock, shock, shock, shock, to the Lord. I praise Jesus. It jumped

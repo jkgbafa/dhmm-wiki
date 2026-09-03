@@ -9,6 +9,8 @@ duration_min: 69
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HOW TO BRIGHTEN YOUR FIRE  ELMINA, GHANA  DAG HEWARD-MILLS  2008 [aBzVUf0_v2E]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Welcome to track number three of four fakes. Hallelujah. Lift your hands and thank God for tonight. Father, thank you for your blessing. Thank you for speaking to us already, Lord.

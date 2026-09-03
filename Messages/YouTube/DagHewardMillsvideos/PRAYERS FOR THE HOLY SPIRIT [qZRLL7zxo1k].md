@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=qZRLL7zxo1k"
 duration_min: 133
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "The Holy Spirit", "Wisdom"]
+tags: ["topic/prayer", "topic/the-holy-spirit", "topic/wisdom"]
 ---
 
 hallelujah father we are grateful for the opportunity that we have in you in Jesus name Amen you may be seated now we continue on the prayers everything by prayer now I believe that you are going to have breakthroughs in your life when you go back to wherever you came from and the breakthroughs are going to be directly linked to the prayers that you are going to be praying now prayer as we are sharing is not possible until you find the real pattern that suits you in prayer you know you have to discover for yourself what

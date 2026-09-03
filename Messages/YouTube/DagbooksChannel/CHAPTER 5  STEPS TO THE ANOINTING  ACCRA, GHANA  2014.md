@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2014
 source: "autocaption"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Anointing/Impartation and Mantles", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/anointing/impartation-and-mantles", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 During the last session, I believe that there was a prophecy about God is going to give you some steps that are going to take you out of a certain level. Amen. And these are the steps that I believe God is going to use to take you out. Number one, the principle or the step of vessel change. Amen. The step of vessel change. Amen. For God to use you in a certain way, you must have a change of the vessel. The vessel must be changed. What do we mean by the vessel must be changed? You the

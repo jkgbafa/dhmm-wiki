@@ -8,6 +8,8 @@ year: 2012
 duration_min: 101
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "The Holy Spirit", "The Holy Spirit/Baptism of the Spirit"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/the-holy-spirit", "topic/the-holy-spirit/baptism-of-the-spirit"]
 ---
 
 most people are loveless what a shock did you know that how many know that most people are Godless H that's why you don't disagree first John 4:7 says beloved let us love one another for love is of God love is of God and he that loveth is born of God and knoweth God hey and how many agree that most people are Godless so if they are Godless then they are lovess what a bomber what a bomber I say what a bomber a so you see now most of us are disappointed about the love that we've

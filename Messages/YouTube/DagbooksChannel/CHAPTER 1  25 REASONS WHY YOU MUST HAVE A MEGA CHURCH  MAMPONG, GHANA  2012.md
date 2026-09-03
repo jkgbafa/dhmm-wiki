@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2012
 source: "autocaption"
+topics: ["Church Growth", "Church Growth/Mega Church", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Why we must have a mega church in the first love church. Okay. Thousand members thousand. Number one is because that's the most appropriate vision for a church. Amen. That is the most appropriate vision for a church. What other vision should we have? We want to be the most colorful church. We want to outdo others. No, these are not good visions. Your vision must be is because it's the most appropriate vision. Amen. Amen. Then number two, it is because the first love church must be huge because when we going to have a mega church, all right,

@@ -9,6 +9,8 @@ duration_min: 62
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HOW TO SURVIVE IN EPHESUS 2  SYDNEY , AUSTRALIA DAG HEWARD-MILLS  2003 [5rkntXJhdNU]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Who comes to the Lord? Or when you are laid off. They say if there's anything for me to do in the house or Lord, then I'll do it. When you are laid off, you are being inside the thing and we are bringing it to God. Corrupted and spoiled.

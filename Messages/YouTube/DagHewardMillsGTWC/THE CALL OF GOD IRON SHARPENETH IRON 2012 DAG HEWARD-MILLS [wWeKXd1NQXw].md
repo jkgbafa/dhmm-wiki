@@ -8,6 +8,8 @@ year: 2012
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Call of God"]
+tags: ["topic/ministry-and-pastoring", "topic/the-call-of-god"]
 ---
 
 Alright. Hallelujah. Now we are continuing. We shall take the first foundation. And I have seven of them.

@@ -8,6 +8,8 @@ year: 2023
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/the-holy-spirit"]
 ---
 
 From the African continent we welcome Pastor Dark Hards for Ecclesiastes 2023, the year of the God of promises. God bless you. Alleluia. It's a blessing to be here tonight. Let's pray. Heavenly Father, thank you for this night. We ask you to guide us to God's promises, the promises of the Holy Spirit. Thank you for this great church. Thank you to Pastor Alvarez and the great work he has done in this city. Thank you, Lord. Please raise your hands with me and ask the Lord to give you the Holy Spirit tonight. Thank you, Father, for the

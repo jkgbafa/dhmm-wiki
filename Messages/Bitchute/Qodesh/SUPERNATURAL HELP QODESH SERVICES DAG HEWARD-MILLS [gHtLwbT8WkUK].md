@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/gHtLwbT8WkUK/"
 duration_min: 50
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 Are you glad to be in church? Very good. Turn with me to 1 Corinthians chapter 14. Now, this morning I want to share with you, as I shared with the earlier service, about supernatural help from God. Amen.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=nr8ZCSJNb34"
 duration_min: 282
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 come on let's lift our hands and sing this song it's a beautiful song Light of the World you step down into dark you opened my eyes come on let's build it beauty that makes my Lord and oh spend with you why don't you lift your voice and sing Light of the World you step down into this world full of Darkness she opened my eyes you let me see this and with you one more time sing Light of the World you step down into darkness foreign here I am here I am together one more time light

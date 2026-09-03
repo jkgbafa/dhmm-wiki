@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2018
 source: "autocaption"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 When a woman is unable to have children, as a doctor, you are always happy when you can find the reason, the reason why she is unable to conceive. because there are several things that need to work together for a child to be born. When a person is young and trying to have a child, sometimes it comes so easily that you don't realize how many things contributed to the arrival of that child. So many things are at work. But when there are no children coming, you start to see that you are looking for several things. Yes.

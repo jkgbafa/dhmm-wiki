@@ -8,6 +8,8 @@ year: 2018
 duration_min: 151
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 father we thank you and We Praise You In Jesus Name come on lift your hands with me to heaven and close your eyes can you do it better for the Lord lifting your hands higher Hallelujah I I come into your presence pass the Gate of Praise into to your Sanctuary till we stand in face to face raise your voice and sing it on your countenance yes I see the fullness of your gra I can only bow I can only bow down and save and let's sing from the top as I come into your presence as

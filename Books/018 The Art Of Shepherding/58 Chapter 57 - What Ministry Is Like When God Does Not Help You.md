@@ -4,6 +4,8 @@ book: "The Art Of Shepherding"
 book_number: "018"
 chapter_number: 58
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ## Chapter 57

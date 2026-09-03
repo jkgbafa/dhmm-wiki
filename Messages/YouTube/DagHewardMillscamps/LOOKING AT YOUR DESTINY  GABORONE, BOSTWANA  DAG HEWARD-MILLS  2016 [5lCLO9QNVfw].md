@@ -8,6 +8,8 @@ year: 2016
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 are you in the presence of the Lord is it not fantastic fantastic H and it shall come to pass you shall be increased in the land verse 17 and at that time they shall call Jerusalem the Throne of the Lord you see we've come to the Heavenly Jerusalem and they shall come out together of the land of the North to the land that I've given for an inheritance to your fathers God has given you 100 plots and Parcels of land in this nation it's for you go and take the inherit door I want Joshua and

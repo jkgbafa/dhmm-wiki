@@ -8,6 +8,8 @@ year: 2020
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Pray one of the requirements concernant that every minister should have the requirements of faithfulness that it is too insignificant to pray about anything to pray concerns. So you want to call on God asking for the spirit of faithfulness. Between you and God and Dieu. You want to say, Lord, make me faithful in the next five years. Make me faithful.

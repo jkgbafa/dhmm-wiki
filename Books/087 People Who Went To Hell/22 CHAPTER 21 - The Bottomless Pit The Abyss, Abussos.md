@@ -4,6 +4,8 @@ book: "People Who Went To Hell"
 book_number: "087"
 chapter_number: 22
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ### CHAPTER 21\

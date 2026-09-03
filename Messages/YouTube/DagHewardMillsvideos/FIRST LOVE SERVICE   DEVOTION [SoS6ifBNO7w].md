@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SoS6ifBNO7w"
 duration_min: 159
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah Oh hallelujah are you happy to be in the house of God today then give the Lord a shout in this place amen welcome your neighbors or anybody's good to see you again are you ready for today's service did you come with an expectation then that's welcome the dancers God can a young a one hour yeah oh damn it would mean yummy old a mess with me a video it would be a real dummy with me not me Oh all your men with me Yahiro don't mess with me got me Oh Oh yummy with Minami

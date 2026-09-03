@@ -8,6 +8,8 @@ year: 2009
 duration_min: 140
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 10 people who did not finish number one deas um he did not finish his work as a missionary let's read um Colossians chapter 4 verse six let your speech always be seasoned with Grace seasoned with salt that you may know how you ought to answer every man all my state sh taus declare unto you who is a beloved brother and a faithful Minister and fellow servant the Lord whom I have sent unto you for that he might know your estate and comfort your hearts verse n with onesimus a faithful brother amen amen my fellow prisoners

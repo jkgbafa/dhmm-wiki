@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tvm1t/"
 duration_min: 46
 source: "whisper"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 Fight the good fight of faith. Amen. Lay hold on eternal life. Whereunto thou are also called and has professed a good profession. Before many witnesses.

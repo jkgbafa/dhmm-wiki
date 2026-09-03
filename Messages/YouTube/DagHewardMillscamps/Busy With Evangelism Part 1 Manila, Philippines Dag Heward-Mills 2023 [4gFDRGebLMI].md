@@ -8,6 +8,8 @@ year: 2023
 duration_min: 146
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah amen Father which are in heaven thank you for the opportunity that we have in you to serve you to love you we pray that you guide us by the Holy Spirit we thank you Lord in the mighty name of Jesus thank you Jesus amen amen you may seated now we have evangelism and I want us to look at second Timothy chapter 4timothy four from verse one mul verse one I charge you therefore before God and before the Lord Jesus Christ that you preach the word amen amen be instant in season and out of season

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=iLiEctra4bU"
 duration_min: 204
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Missions", "Missions/The Nations", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/missions", "topic/missions/the-nations", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 with all precious things mm-hmm so you may have the wisdom to build it okay but to fill it with members to fill the church with a thousand members so your church has become a mega church it takes knowledge this is Bible it's not it's not a personal revelation is a Bible this is the wisdom builds a church glorious gospel International Ministries incorporated Church of Christ as an object so our bill today but to feel the change the Bible says you need knowledge so until a certain knowledge comes you will not be able to fill it

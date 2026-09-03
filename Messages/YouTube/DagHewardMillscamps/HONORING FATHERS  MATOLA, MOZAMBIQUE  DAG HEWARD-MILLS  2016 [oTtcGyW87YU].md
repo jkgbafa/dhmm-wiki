@@ -8,6 +8,8 @@ year: 2016
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting"]
 ---
 
 so I believe this is a very special moment it is a very special season and I want you to prepare yourself and be determined to participate in what the Lord has prepared for you hallelujah amen God has prepared something very special for you you will never leave here the same I said you will never leave here the same this church will never be the same again because we are about to experience a visitation we are about to experence exp erience a special visitation hallelujah amen let me share with you tonight from Psalm 65 Psalm 65

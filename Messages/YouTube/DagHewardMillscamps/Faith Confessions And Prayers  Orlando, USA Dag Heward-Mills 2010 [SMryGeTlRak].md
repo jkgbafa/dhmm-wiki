@@ -8,6 +8,8 @@ year: 2010
 duration_min: 159
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/faith", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 so I want you to turn with me to Mark 11 23 22 23 and 24 now what I want you to do is to know these two methods for using faith in the work of God amen amen the first thing for you to use faith is confessions proclamations statements that you make amen and the second way to use faith in the ministry is prayers prayers with faith amen prayers that have faith in them Hallelujah am so there are two ways to use faith faith is a kind of power amen amen are you listening name so

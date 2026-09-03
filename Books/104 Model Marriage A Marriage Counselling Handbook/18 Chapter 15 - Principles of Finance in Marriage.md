@@ -4,6 +4,8 @@ book: "Model Marriage A Marriage Counselling Handbook"
 book_number: "104"
 chapter_number: 18
 type: book
+topics: ["Marriage and Family", "Wealth and Finances"]
+tags: ["topic/marriage-and-family", "topic/wealth-and-finances"]
 ---
 
 ## Chapter 15

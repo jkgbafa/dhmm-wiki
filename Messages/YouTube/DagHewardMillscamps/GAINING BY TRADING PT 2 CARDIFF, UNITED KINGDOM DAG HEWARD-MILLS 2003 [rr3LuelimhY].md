@@ -9,6 +9,8 @@ duration_min: 59
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/GAINING BY TRADING PT 2  CARDIFF, UNITED KINGDOM  DAG HEWARD-MILLS  2003 [rr3LuelimhY]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 We had a service on Sunday. You know, they travel and the distances they travel to come to church. No, from Connecticut. This I even on the when we had the cars, oh, there's no need for them to come for they are coming. I was in Connecticut in the morning, and that is what?

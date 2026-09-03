@@ -8,6 +8,8 @@ year: 2002
 duration_min: 101
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 welcome to track number three of the mysteries of God you will um be able to work with him are you there so when you don't understand a mystery um it's difficult so there are many mysterious things that I don't know how many we can go through but we'll just go through as many as we can and then um we'll be done but let's look at Ephesians 1 again verse 8 uh wherefore he bounded towards us in all wisdom and Prudence verse 9 having made known unto us the mystery of his will amen now what I

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wQTdaoeYdIQ"
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Thank you, Father, for this day. Thank you for the opportunity to be here. We are grateful for your power, grateful for your presence. Thank you, Holy Spirit. Bless each person here today. Bless us online. Thank you for your power. In the mighty name of Jesus, we pray with thanksgiving. [ Applause] Amen. I want to thank the apostle for this great opportunity to be here, to meet him, to be his friend, and to be part of this great family. We hope to see you soon. Today I want to share a short message about one of my

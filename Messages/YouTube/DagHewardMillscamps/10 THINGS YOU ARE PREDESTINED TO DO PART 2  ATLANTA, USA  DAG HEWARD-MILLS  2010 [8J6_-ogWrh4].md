@@ -8,6 +8,8 @@ year: 2010
 duration_min: 175
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we are going to have a session till breakfast which I hear is in about an hour or two from now 9:00 huh and then we're going to have breakfast then it's today Sunday then we are going to come for Sunday service and the Sunday service is from 10: to 12: okay hello can I yeah sunay said is from 10: to 12 and um at the service we are going to receive our tithes and offerings normal tithes and offerings that we normally receive in church amen because the church depends on people paying their tithes because we

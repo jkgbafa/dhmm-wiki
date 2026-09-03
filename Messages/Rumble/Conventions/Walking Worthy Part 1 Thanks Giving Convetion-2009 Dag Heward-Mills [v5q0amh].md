@@ -8,6 +8,8 @@ year: 2009
 duration_min: 111
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah. Father, thank you for this great blessing and opportunity to be here tonight in Jesus' name. Amen. You may be seated. How many of you did not get the book yesterday?

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2AwcIzes9SI"
 duration_min: 13
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Prayer"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/prayer"]
 ---
 
 While standing, that great man of God. Very, very anointed. He is a builder and a pastor and a father. He is pastor for many years. Alright, every year he comes from give yourself Holy Ghost.

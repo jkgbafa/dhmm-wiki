@@ -9,6 +9,8 @@ duration_min: 190
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE MYSTERY OF IMPARTATION  ISI SOWETO  DAG HEWARD-MILLS  2015 [tPlNYj8TG3A]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh Lord, I will accept your perfect will for my life today. You hold my destiny. You have a purpose for me. Yes, and you have a plan for me. I want to follow your will.

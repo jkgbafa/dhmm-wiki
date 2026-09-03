@@ -8,6 +8,8 @@ year: 2017
 duration_min: 131
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Vision and Direction"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/vision-and-direction"]
 ---
 
 In a large house, there are many vessels. Tell me what kind of vessel are you if you want to carry the anointing, then you must change your vessel and become a vessel of without the anointing you cannot do very much for it's by the anointing. You can build a mega church, you can preach, you can teach and gather crowds. That's why I love the anointing. As I listened to the word the anointing fell on me.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=k266QeTIMz0"
 duration_min: 211
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah this afternoon like eagles oh is don't be afraid he goes foreign oh is is they should be i see foreign and our trust is in the name of the lord hallelujah though we are many we are one body in christ we oh jesus christ oh we me oh one word we are so we are oh us we are amen our god is mighty amen worthy i'll never give my heart away is my father myself we give you love foreign only a god like you could be worthy only a god like you could be worthy

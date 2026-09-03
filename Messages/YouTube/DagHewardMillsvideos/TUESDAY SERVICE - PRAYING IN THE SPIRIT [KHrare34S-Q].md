@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=KHrare34S-Q"
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you are let's forget it mean you are holy oh you are - Allah Muhammad amoeba I know as we've come to the presence of the Lord we know what we are supposed to do we know what we are supposed to hear but many times when we had the presence of the Lord things distract us you nobody want to fix our eyes on the Lord this evening hallelujah you want to fix our eyes on Jesus what is time that we will fix our eyes on him tonight then no matter what it is easy you may even

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=S9kvDAOeTTY"
 duration_min: 291
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 come on repeat these words so he the solid rock on which I stand Solid Rock on which I stand you are the Christ the Ron lamb father the Christ the r lamb the lamb will sits upon the throne the lamb will sits upon the throne with Tender Mercies for his own with Tender Mercies for his own I praise you now oh I praise you now I Stand Rock on I stand come on give the Lord a Dan As we sing again you're the solid rock which I stand Solid Rock I stand you are the Christ

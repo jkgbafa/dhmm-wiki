@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u84ub/"
 duration_min: 50
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Salvation", "Salvation/Backsliding", "Salvation/The New Birth"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/salvation", "topic/salvation/backsliding", "topic/salvation/the-new-birth"]
 ---
 
 Shall we pray? Heavenly Father, thank you for this morning. Thank you for the opportunity we have, Lord, in your presence. Lord, we ask that you speak to our hearts. We ask that you guide us.

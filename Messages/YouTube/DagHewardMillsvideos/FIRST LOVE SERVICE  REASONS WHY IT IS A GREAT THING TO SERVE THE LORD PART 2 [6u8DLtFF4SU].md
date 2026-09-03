@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6u8DLtFF4SU"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you without faith it's impossible to believe the Lord to believe the Lord without me it's just impossible to believe the Lord I believe Lord Hey and then confirm agency Oh many that's Bisley without is impossible ah Oh without failing it's just impossible to please the Lord to believe so without me you know it's impossible the law that believe a person without it is impossible to the law I need go Oh me I need face not the Dow not just a flee to the Lord because without it it's impossible ah without it I can be your

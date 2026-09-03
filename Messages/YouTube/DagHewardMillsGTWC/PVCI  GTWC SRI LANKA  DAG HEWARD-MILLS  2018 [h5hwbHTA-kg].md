@@ -8,6 +8,8 @@ year: 2018
 duration_min: 124
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 The Nallavara people who have been killed in Karagala Patira Neere Jesus Indifferent Patira Neere Ye Indifferent Ummai pound Very beautiful. Hummy po Beach Melancholy Jesus Jesus You Unlucky It is coming. Jesus You are a fool. You are separated. There is no other God. There is no one besides you. There is no God who separates you. There is no one like you. Patiri Hello Ye In the street Half Your Oh Jesus Pavey Passed Your foot Hallelujah Helluva Hello Helluva Jesus Hall Helaya Helluva Hey Hello Hello Heylu Temple Hello Helluva That Hallelujah! Jesus This is Jesus. Yes,

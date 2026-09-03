@@ -8,6 +8,8 @@ year: 1999
 duration_min: 39
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 great change belie my song it's been a great chase before oh great a great change and i'ma go he played a pretty pretty big diamond hey hey hey hey let go it's been a great change the thing I used to do I do there no more things I used to think oh no I fell down no more before I used to think oh my lord I feel great I don't know about you but I know it'd be too brave break oh happy day Maduro oh yeah the dream I used to bring pull or I bring

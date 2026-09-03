@@ -8,6 +8,8 @@ year: 1999
 duration_min: 23
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 amen let's pray father thank you for this morning we ask you for the inspiration of your spirit lead us and let your will be done in Jesus name Amen hallelujah you may be seated in the presence of the Lord hallelujah how many are glad to be in church wonderful we thank the Lord for what he is doing amen we just came back from the Shepherd's camp how many ways were there how many of you here were there wonderful today we want to continue on on our subject which is divided into many sub subjects if you

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 Now, chapter nine, a good general and the maintenance of morale. Oh yes. Hey. Hey. Now when you look at what is the morale, it's like the happiness and the flow of the people. Oh yes. A church of living people, not a church of monuments. Hey, some of us when the pastor preaches and you see your face is immediately discouraged. Yes. The morale of human beings reduces as time passes. Yes. That is why a church with young people has a higher morale. Check the meaning of the word morale. The dictionary people you see when you hear

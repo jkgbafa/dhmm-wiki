@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2002
 source: "autocaption"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 I am sharing with you about the art of hearing. Amen. I want to recommend the book to you. The art of hearing. Tell somebody you got to have a copy of that book. Amen. Now let's turn to Deuteronomy chapter 28. Deuteronomy chapter 28. and verse one. Why is it important to hear the voice of God? Because in Deuteronomy 28:1, the Bible says, "It shall come to pass that if thou shalt diligently hearken to the voice of the Lord thy God, to observe and to do all his commandments, which I command thee this day, that the

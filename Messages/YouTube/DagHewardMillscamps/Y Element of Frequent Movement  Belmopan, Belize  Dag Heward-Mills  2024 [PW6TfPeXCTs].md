@@ -8,6 +8,8 @@ year: 2024
 duration_min: 24
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 El y element number five frequent movement frequent what movement movement amazing amazing movement huh movement is different from walking yes yes they are two different things now Mark chapter 1 verse Mark chapter 1 verse 38 and he said unto them let us go into the next town to the next what to town towns that I may preach there also for therefore came I forth let us go to the next towns Jesus was a young man let's go to this town and let's go to this is he churches don't grow because you will not see the

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6tZTAka4VxE"
 duration_min: 5
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 hi my name is Mavis and I'm a missionary wife in first Life Church Guru in the beautiful country of Uganda I want to share a testimony of how God delivered me from sudden death through the prayers of our Prophet during the flow priorities so last year June 2021 Prophet led us to pray against sudden death death come out of the view as of a sudden and that day I had prepared some dough to bake and spread out of it and so I had prepared the dough molded it and whatever into my pan ready to be

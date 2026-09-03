@@ -8,6 +8,8 @@ duration_min: 56
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/Reason Why You Must Have A Mega Church First Love Church Dag Heward-Mills [t9aMXOBkVsM]]]"
+topics: ["Church Growth", "Church Growth/Mega Church", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Vision and Direction"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/vision-and-direction"]
 ---
 
 And you see there's no other vision that is good for a church than a vision to grow and to be to have more and to become a mega church. That is the that is the good vision. You must know that any vision you have, it will lead you on a journey and you will be on a real road because of the vision that is in your heart. And that is why we have a vision for to build a mega church. Now that vision will lead us, what will it lead us to do? It will make

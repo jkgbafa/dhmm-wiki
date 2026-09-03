@@ -9,6 +9,8 @@ duration_min: 34
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SONG MINISTRATION  MAASAI MARA, KENYA DAG HEWARD-MILLS  2010 [e5uiDiABmZI]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number five of the privilege. Like the sparrow up above, I am invalid in his love, and I trust him like those little ones he feels well. For the gospel, though our love each passing day just leaves to grow. As I told her when we went, I'd surely rather be found dead than to love her more than the one who saves my soul. I'm your child, and I wanna be in your family forever.

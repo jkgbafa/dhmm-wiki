@@ -8,6 +8,8 @@ year: 2013
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Welcome to draft number 10. The principles of war. I heard some people outside. Hallelujah. Great.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=LRnijc-wD-g"
 duration_min: 125
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 all right you're starting to see me fire do have any disease I can't let us now hear the word of the Lord Oh hallelujah you know this is out of this world I tell you you know it's like when the mistress played anointing came upon Elijah feel the noise of what has come already but as I sat down I first something side of me that I should have two more girls and add them to my three boys somebody receiving the name of the Lord hallelujah I really really won't you let your child to be doing

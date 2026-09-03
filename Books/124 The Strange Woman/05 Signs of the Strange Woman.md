@@ -4,6 +4,8 @@ book: "The Strange Woman"
 book_number: "124"
 chapter_number: 5
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 ## Signs of the Strange Woman

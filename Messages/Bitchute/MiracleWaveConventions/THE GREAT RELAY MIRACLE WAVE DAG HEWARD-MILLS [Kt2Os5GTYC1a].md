@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/Kt2Os5GTYC1a/"
 duration_min: 103
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Deliverance"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance"]
 ---
 
 I want you to turn with me if you have your Bibles. Those of you who are Christians and wrote your Bibles. Chapter 12. Matthew chapter 26. Thank you, Holy Ghost.

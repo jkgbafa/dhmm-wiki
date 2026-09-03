@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u57sf/"
 duration_min: 47
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Well, thank God there's a bishop in the house. I said there's a bishop in the house. Hallelujah. Well, for the for a couple of Sundays, um, I think for about six months. We haven't seen him, um, you know, but um we're happy to have him back.

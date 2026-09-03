@@ -8,6 +8,8 @@ year: 2024
 duration_min: 123
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Hallelujah. How many are excited already? What a blessing. What an atmosphere. Once again, I want to welcome all of you to day three of our homecoming convention.

@@ -8,6 +8,8 @@ year: 2022
 duration_min: 187
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 when it comes to the pattern of God's presence the pattern of the Tabernacle of God's presence it is important for you and I to um understand the environment in which God dwells now Exodus 26 verse one Exodus 26 and verse one moreover Thou shalt make the Tabernacle white the make the Tabernacle with 10 curtains of fine twined linen and blue and purple and Scarlet all right now this linen was white linen and it is the environment in which God dwells white linen speaks of righteousness and holiness okay so the whole outside of the Tabernacle I'm

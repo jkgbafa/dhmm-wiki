@@ -4,6 +4,8 @@ book: "He That Hath To Him Shall Be Given And He That Hath Not From Him Shall Be
 book_number: "037"
 chapter_number: 12
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 ## Chapter 11

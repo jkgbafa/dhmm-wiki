@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-fno-kaKA3Q"
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Tonight is your night of miracles. Cette nuit est un nuit de miracle. Young can you faux bumpan de young God is going to visit us powerfully. Dieu va nous visiter plus sa main. When I'm not caratondo ni panga.

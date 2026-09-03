@@ -8,6 +8,8 @@ year: 2010
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/the-call-of-god", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 hallelujah hallelujah the first reason is fear fear the Bible says that this man said I was afraid I was afraid and I hid myself in Matthew chapter 25 and verse 25 it says I was afraid and I went and I hid my talent fear is the first greatest reason why many people do not fulfill the call of God on their lives when the Lord spoke to me to start a church in Ghana GH I was afraid and my assistant pastor was more afraid he suggested to me that we should start the church outside the city

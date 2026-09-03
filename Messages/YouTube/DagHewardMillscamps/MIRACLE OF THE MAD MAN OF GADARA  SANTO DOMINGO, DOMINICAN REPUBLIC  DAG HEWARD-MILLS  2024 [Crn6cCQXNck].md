@@ -9,6 +9,8 @@ duration_min: 96
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MIRACLE OF THE MAD MAN OF GADARA SANTO DOMINGO, DOMINICAN REPUBLIC DAG HEWARD-MILLS 2024 [Crn6cCQXNck]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Father, thank you for this great opportunity. In the name of Jesus, you may sit down. Dominican Republic sit down. Where are you from? Colombia. the people behind. Where are you from? Trinidad. Those who haven't stood up here. Belize. Okay. Jamaica. Wow. Guatemala. Beautiful. Now let's continue with the miracles. Amen. Each of Jesus' miracles gives us a great blessing. Are you ready for the miracles? Chapter 5. Dominican Republic. Spanish. Dominican Spanish. Yes, yes, it. Yesterday we had. Colombian Spanish. Let's begin with the miracle of the demon-possessed man of Gadara. Mark chapter 5 verse 1. We can

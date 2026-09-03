@@ -8,6 +8,8 @@ duration_min: 184
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/SPIRITUAL POWERS THAT RELEASE FINANCIAL WEALTH FIRST LOVE SERVICES 1017 DAG HEWARD-MILLS [DdLxflaQ_Qo]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Demonology", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances"]
 ---
 
 Hallelujah you may be seated for a moment praise the Lord hallelujah how many believe that God is with us hallelujah and I believe that God is helping us amen amen amen turn with me to Matthew 18 and we are looking at Verse 18 it says whatsoever you shall bind on Earth shall be bound in heaven can you tell us some of the bright lights which we don't need please we don't need all the lights all right now the word bind is the word fasten with chains or throw into chains Hallelujah so we are going to

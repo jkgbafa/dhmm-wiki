@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=WnU3DkpQLvA"
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 God doesn't like anybody anybody who comes between him and God if you want to be anointed you have to find Elijah and minister to him power enters into you as soon as my hand touches you power goes into your life power belongs to God thanks this group are for double portion receive a double portion in anything you do that is spiritual that works is because of them the presence of the Lord has walked into this place Hallelujah well I am excited to be here as a son when your father visits you he comes it comes

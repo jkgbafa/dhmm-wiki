@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xdU02OTRZFQ"
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Father thank you for this morning for an opportunity to receive your word we pray Lord for humility for guidance for openness of your spirit to your spirit Lord and we thank you in Jesus name for your blessings on our life in Jesus name Amen you may be seated I have been sharing with you this in this first month of the year about a few things that I believe we need to have in our lives for the year amen we need to remember and we need to make a part of our Christian life amen and today

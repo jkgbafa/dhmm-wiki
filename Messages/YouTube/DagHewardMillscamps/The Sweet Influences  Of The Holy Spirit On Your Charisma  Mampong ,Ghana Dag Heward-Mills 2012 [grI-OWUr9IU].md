@@ -8,6 +8,8 @@ year: 2012
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 for our God so the world that he gave his only and that whoever beli not per but have eternal life for so love the world that he gave his only son and that whoever believes in him should not perish but have eternal life for God did not send his son into the world to condemn the world but to save the world world through him Jesus died to wash away our sins for God so love the world that he gave his only son and that whoever believes in him sh not perish but have eternal life for

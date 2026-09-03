@@ -8,6 +8,8 @@ year: 2018
 duration_min: 204
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 your words this morning the salon said I will magnify the Lord with my song Mal give God thanks for yesterday what you had the seed that has been swn inside you give him thanks praise Him exalt him and magnify the name of the Living God let us exalt the name of the Living God let us Magnify Him let us thank him Mal 10 seconds everybody give God thks give him THS give him THS give him thums give him thums give him thbs we thank you and We Praise You In The Name of Jesus lift your

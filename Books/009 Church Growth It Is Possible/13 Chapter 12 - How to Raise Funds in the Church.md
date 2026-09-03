@@ -4,6 +4,8 @@ book: "Church Growth It Is Possible"
 book_number: "009"
 chapter_number: 13
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ## Chapter 12

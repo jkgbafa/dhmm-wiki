@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=NlUD0tHQdic"
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Alléluia Amen. Tu le m'en cries. Criant pour Jésus. Quand je vois, c'est que tu as fait. J'ai la paix.

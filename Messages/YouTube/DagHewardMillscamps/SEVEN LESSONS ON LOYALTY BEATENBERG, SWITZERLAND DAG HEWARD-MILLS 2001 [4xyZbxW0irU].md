@@ -9,6 +9,8 @@ duration_min: 87
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SEVEN LESSONS ON LOYALTY  BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2001 [4xyZbxW0irU]]]"
+topics: ["Loyalty and Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number six of Victory in Pegamos. Hallelujah. Amen. Hallelujah. Hallelujah.

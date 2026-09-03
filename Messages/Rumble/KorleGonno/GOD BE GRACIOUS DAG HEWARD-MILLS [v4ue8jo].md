@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ue8jo/"
 duration_min: 35
 source: "whisper"
 match: "exact"
+topics: ["Missions", "Missions/The Nations", "Salvation"]
+tags: ["topic/missions", "topic/missions/the-nations", "topic/salvation"]
 ---
 
 I want you to ask God to speak to you this morning as we come before his holy word. Father, we are thankful for the opportunity that we have. Lord, we ask that you be gracious and bless us today. Thank you for this opportunity. Thank you for this chance.

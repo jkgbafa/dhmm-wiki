@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=KSbER2hsSWA"
 duration_min: 69
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 hallelujah father thank you so much for this morning in Jesus name we ask you to guide us by a Holy Spirit in Jesus name Amen you may be seated great thank God for another morning amen I'm just going to share from Ecclesiastes chapter 3 we are looking at Solomon's wisdom and remembering always as we look at it that there is something greater than Solomon with us amen so if we can get to Solomon's level we can get to Solomon's level and go further I think it would be great now it says to everything there is

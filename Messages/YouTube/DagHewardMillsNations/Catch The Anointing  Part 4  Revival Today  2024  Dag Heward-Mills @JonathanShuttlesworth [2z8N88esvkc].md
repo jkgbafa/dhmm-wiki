@@ -8,6 +8,8 @@ year: 2024
 duration_min: 186
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Hallelujah huah let us pray father thank you for today thank you for the great opportunity to love you to serve you thank you for Gathering us here and thank you for your spirit that is moving in America thank you you said I will build my church and the Gates of Hell will not prevail that means Lord the Gates of Hell will not win L it will not Prevail they will not succeed to prevent your church from being built and thank you that that that applies in America today and all over the world you will build

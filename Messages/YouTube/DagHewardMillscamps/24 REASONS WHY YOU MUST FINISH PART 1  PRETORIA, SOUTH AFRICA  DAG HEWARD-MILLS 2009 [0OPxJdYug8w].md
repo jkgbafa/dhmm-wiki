@@ -8,6 +8,8 @@ year: 2009
 duration_min: 179
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 great now at this Camp our theme of the for the camp is to finish what you started all right I believe that God has already started some good things in southern Africa he started some good things in South Africa itself he started some good things in all these countries that I mentioned and it's important for us to finish amen amen do you believe that God wants us to finish huh yes so whatever we' started uh it it's important to finish one time I went to pray I was the Lord and I came to pray about

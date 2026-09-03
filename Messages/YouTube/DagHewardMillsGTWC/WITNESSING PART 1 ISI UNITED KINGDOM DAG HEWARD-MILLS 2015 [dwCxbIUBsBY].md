@@ -9,6 +9,8 @@ duration_min: 76
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/WITNESSING PART 1  ISI UNITED KINGDOM  DAG HEWARD-MILLS  2015 [dwCxbIUBsBY]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 I'm here in this view every Sunday and Wednesday I've staying with many. I've given you years of my service. I've always given my best. And Lord, I don't ask you for anything much. So I serve this week where Africa.

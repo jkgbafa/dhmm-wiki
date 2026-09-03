@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=DXd3KI8QLMY"
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Jesus we worship and we praise your name we lift our voices Jesus we worship and we praise your name ha ha boy you are worthy don't do love worthy leave us we wash nifty raise your stay whoa Jesus we were said and we prayed all day will lift our voices cleanest be worship and we pray that you are worthy you are worthy Jesus we worship as we praise your name oh Jesus Steve I said and we pray in your face almond inner voices Jesus and we do you are worried - holy jesus be worship please

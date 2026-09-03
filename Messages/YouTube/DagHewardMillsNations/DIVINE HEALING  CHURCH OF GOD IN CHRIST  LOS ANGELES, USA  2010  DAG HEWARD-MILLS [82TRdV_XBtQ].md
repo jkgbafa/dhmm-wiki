@@ -8,6 +8,8 @@ year: 2010
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Missions", "Missions/The Nations", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/missions", "topic/missions/the-nations", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 my soul love Jesus bless his name my soul loves Jesus my soul love Jesus my soul love Jesus bless his name he's a Wonder In My Soul he's a Wonder In My Soul he's a Wonder In My Soul bless his name he's a Wonder In My Soul he's a Wonder In My Soul he's a Wonder In My Soul bless his name come on let's thank him thank you Jesus thank you Jesus thank you Jesus thank you Lord thank you for your goodness let your anointing be in this place father have your way tonight God let

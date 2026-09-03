@@ -8,6 +8,8 @@ year: 2015
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 let's hallu amen I see some seats a little bit tell everybody outside are we going things for the Lord everybody so let's stick to uh two or three people tell us what you've been so far the do can you please go and ensure that everybody in the do is here now pleas should be up w people telling us what you have le so far and then there so you want to tell us you want me to call you tell us the name and good night learn in come come to the good night I'm from Olympic

@@ -8,6 +8,8 @@ year: 2016
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I want to continue sharing about the ministry work. And what I want to share with you about for and I believe we have 20 minutes is the art of ministry which is the art of shephering. what it means to become a shepherd and what it means the art of shephering and the art of ministry. Okay. Now 130 countries. How many of us believe that we we are going to go everybody must aim 130 is a bit much. Maybe let's aim for 100. I feel it's going to make us more and more humble. And I have

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=h-8uNe2l1JQ"
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 let's welcome to knife alpha corolla to bless our foot with a phone almost emit a song to see hallelujah i thinkin are you ready - are you ready the Lord is not you something beautiful tonight in your life Alleluia how many of you are ready to receive what the Lord has for you aha no no no oh hey Elliot nom nom yeah so bundai-sama hates the Lord and say he all the air a phenom Oh Thanks baolian Yaya somebody shout hallelujah clap your hands for Corolla let's welcome Ida to bless out to the phone keep

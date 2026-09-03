@@ -8,6 +8,8 @@ year: 2025
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Oh hallelujah. Hallelujah. Give Jesus a shout of praise. For Jesus. Hallelujah. Hallelujah. Well, tonight Jesus is here. This Jesus day. And so I want you to prepare yourself for a miracle tonight. For God in miracle this night. Tonight you will experience signs and wonders. Because the presence of Jesus is here because Jesus presence he sent his servant and he don't send an anointed man of faith and power the way God get him power and faith with anointing and I know your life will never be the same and I know say your life never will be

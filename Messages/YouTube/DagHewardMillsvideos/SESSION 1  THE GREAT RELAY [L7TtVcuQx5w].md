@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=L7TtVcuQx5w"
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 I want you to turn with me if you have your Bibles those of you who are Christians and Roger Bibles chapter 12 and Matthew chapter 26 Thank You Holy Ghost now the first day of the feast of unleavened bread the disciples came to Jesus saying unto Him where will thou that we prepare for thee to eat the Passover and he said go into the city to such a man and say unto Him the master saith my time is at hand I will keep the Passover at the house with my disciples and the disciples did as

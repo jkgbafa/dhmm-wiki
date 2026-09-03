@@ -8,6 +8,8 @@ year: 2023
 duration_min: 213
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Hallelujah that shout was not good at all Hallelujah put your hands together for Jesus Wow have you experienced anything like this in your life before I'm telling you that you will never be the same again please be seated because I'm sure you have a seat on behalf of Bishop Obie I want to welcome you to this fantastic experience now listen listen I want to tell you some few things you should expect you should expect the anointing of course and you should also expect the anointing to be transferred to you and from the feelings I'm getting

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t4pjr/"
 duration_min: 111
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer"]
 ---
 
 You have for me. Thank you, Lord. In Jesus' name. And everyone said amen. You may be seated.

@@ -9,6 +9,8 @@ duration_min: 49
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/KEYS TO DEVELOPING YOUR FEEDING MINISTRY PART 2  ACCRA, GHANA  DAG HEWARD-MILLS  1997 [1nHK1qWjf-s]]]"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Welcome to track number eight of loyalty and the mega church. You don't have to be annoyed. We are rather trying to help you. Some of us, our voices are so. But you must learn to shout and give the Lord a clap of praying.

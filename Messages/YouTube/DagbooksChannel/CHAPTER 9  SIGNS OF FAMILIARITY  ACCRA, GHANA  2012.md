@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2012
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 Familiarity is seen when somebody attempts to correct his leader. Number two, number three, familiarity is seen and you see in the in the marriage situation, you seen when the somebody who was your sheep will never say anything before you married a person. Now that you've married the person, somebody who was your sheep 12 years younger than you, She is now correcting you and telling you correction upwards is rebellion. Number four. Number three, I'm I'm just mentioning a few. When someone uses privileges without asking anymore, you don't even ask. You start just using come and sit

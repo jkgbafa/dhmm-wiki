@@ -8,6 +8,8 @@ duration_min: 110
 source: "autocaption"
 match: "fuzzy"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/35 QUALITIES OF BECOMING A SHEPHERD   MAASAI MARA, KENYA DAG HEWARD-MILLS  2010 [AYsmBq84xh0]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number 10 of the privilege Vigilant you must be vigilant Timothy the Bible says there must be husband of one wife blameless Vigilant amen the next one is sober now to be vigilant means drinking no wine now how many of you have a problem with drinking alcohol beer Guinness huh you you need tasa what is tasa Tusa oh okay in Ghana tasa is a cigarette tuska for men cigarette without a filter so try not to have any alcohol or anything that influences you amen that you need you always need it like pornography or

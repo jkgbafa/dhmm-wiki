@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MIUurreYSdA"
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 when the spirits moving get the call and with the enemy kill the holy war the good Lord is watching it we understand there is no one more than appointed if we add like a we have heard you gotta beat the cold rather you gotta hit the post system everybody wanted the poor you gotta hit the pole Rodham you gotta beat the core system everybody wanted no heat the cold and the faces behold you keep the call we must follow right Jeremy no other reason it all the someone watching over every more today and to someone

@@ -8,6 +8,8 @@ year: 2017
 duration_min: 47
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Call of God"]
+tags: ["topic/ministry-and-pastoring", "topic/the-call-of-god"]
 ---
 
 Father, thank you for the blessing. You have given to us that you don't in Jesus' name. Amen. You may be seated. Now we have heard so much about the mega church.

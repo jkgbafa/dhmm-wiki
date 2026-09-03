@@ -8,6 +8,8 @@ year: 2024
 duration_min: 162
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Salvation", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Soul Winning and Evangelism/Witnessing", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/salvation", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/soul-winning-and-evangelism/witnessing", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 father we thank you for the opportunity we have today to serve you we're grateful we ask you to lead us thank you for this amazing camp meeting as we are in your presence bless heal and deliver touch every life we give you thanks we give you praise we know oh God sh oh yes oh yes we thank you oh yes thank you Father thank you for this meeting here in Ana we ask that your spiritual courage us speak to us bless every Life In Jesus Name by the Holy Spirit we pray in Jesus name amen

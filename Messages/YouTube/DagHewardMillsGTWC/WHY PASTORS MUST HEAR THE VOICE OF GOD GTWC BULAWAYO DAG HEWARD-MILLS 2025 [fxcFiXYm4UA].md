@@ -9,6 +9,8 @@ duration_min: 93
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/WHY PASTORS MUST HEAR THE VOICE OF GOD   GTWC BULAWAYO   DAG HEWARD-MILLS  2025 [fxcFiXYm4UA]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Curses", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 Well, having introduced the fathers, we have a great man in our miss. Some people are called generals, but they are not yet generals. Here in our midst with a general, a proper one. Okay, he stands in the five-fold ministry. You mentioned the apostolic, he is gifted.

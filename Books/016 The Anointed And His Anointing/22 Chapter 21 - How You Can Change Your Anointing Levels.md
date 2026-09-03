@@ -4,6 +4,8 @@ book: "The Anointed And His Anointing"
 book_number: "016"
 chapter_number: 22
 type: book
+topics: ["Anointing", "Salvation", "Salvation/Repentance"]
+tags: ["topic/anointing", "topic/salvation", "topic/salvation/repentance"]
 ---
 
 Chapter 21\

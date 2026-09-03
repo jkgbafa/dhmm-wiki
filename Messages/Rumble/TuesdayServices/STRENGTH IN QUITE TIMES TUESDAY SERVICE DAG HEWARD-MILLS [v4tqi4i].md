@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqi4i/"
 duration_min: 68
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Salvation/Repentance"]
+tags: ["topic/salvation", "topic/salvation/repentance"]
 ---
 
 Let us pray. Father, thank you. You came through for us. You're going to come through for us. Thank you for the opportunity, Lord.

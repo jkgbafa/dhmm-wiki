@@ -8,6 +8,8 @@ year: 2023
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology"]
 ---
 
 Alleluia. What a blessing. Let us pray. Father in heaven, thank you for today, for your power and your presence. In the name of Jesus, may all who are here be set free today by the power of the Holy Spirit and the power of God. In the mighty name of Jesus, we give thanks to you, Lord Jesus. Put your hand on your heart right now . Father, I pray for everyone. for health, freedom from any demonic oppression. Thank God that today is the end of all torment, all evil, the darkness of the enemy. In the name

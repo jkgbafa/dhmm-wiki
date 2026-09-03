@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=3-R3rAYnKH4"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 This morning we have wonderful testimonies. Please help me welcome Nancy to share her testimony with us. Hello everyone. My name is Nancy the owner and I'm from the Greater Love Choir. My testimony is about how that is prayers and the communion here with my mom and my grandma.

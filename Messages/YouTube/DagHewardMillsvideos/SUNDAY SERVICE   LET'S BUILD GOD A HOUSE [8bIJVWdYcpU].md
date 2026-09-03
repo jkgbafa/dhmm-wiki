@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8bIJVWdYcpU"
 duration_min: 45
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 yeah welcome to church it's good to be here this morning and it's good to see all of you we just came back from fondue in the Vorta region we had a very powerful crusade and the Lord blessed us mightily amen right this morning I want to share with you from Luke chapter 7 a little passage from the life of Jesus Christ how many know that Jesus Christ is our Savior he is our Lord he's everything to us and so we must follow him amen right Luke chapter 7 verse number 1 says now when he had

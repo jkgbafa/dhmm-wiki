@@ -8,6 +8,8 @@ year: 2015
 duration_min: 44
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 I want your car. Please , I want to stay at your house. Please , I want your money because you are a prophet. Rich said please I want your wife today I want to ask you a question what are your eyes fixed on your eyes should be fixed on the anointing not on anything else. I was with B several times. Once it was just the two of us, we ate together and just talked, the two of us . There are many things you can notice. Many things. There are many things I didn't know before I

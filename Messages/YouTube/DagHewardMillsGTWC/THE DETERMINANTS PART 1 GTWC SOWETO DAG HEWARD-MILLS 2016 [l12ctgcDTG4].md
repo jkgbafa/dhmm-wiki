@@ -9,6 +9,8 @@ duration_min: 216
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE DETERMINANTS PART 1  GTWC SOWETO  DAG HEWARD-MILLS  2016 [l12ctgcDTG4]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, we're so happy to be here. Please, guys, hallelujah. Be here in your house. Thank you. In Jesus' name.

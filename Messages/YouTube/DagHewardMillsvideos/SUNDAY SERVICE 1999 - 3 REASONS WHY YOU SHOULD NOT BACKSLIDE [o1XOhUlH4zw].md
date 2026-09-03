@@ -8,6 +8,8 @@ year: 1999
 duration_min: 18
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/Backsliding"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/backsliding"]
 ---
 
 praise the Lord gives a lot a clap offering I want to share with you three reasons why you should not backslide first reason so that you do not lose your place in heaven amen now we've been teaching about backsliding and if you don't have the book you have any books finish okay the books are finished but those are how many but your copy give me your hand up the second service I've been preaching about it and now they are finished but make sure you get a copy I don't know finish now I don't know where

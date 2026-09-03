@@ -8,6 +8,8 @@ year: 2011
 duration_min: 190
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 I want to be even more like you, oh my Jesus, I want to be even more like you, oh my Jesus, I want to be a useful instrument for you, I want to be even more like you, Jesus, you are even more like you, oh Jesus, I want to be even more like you, oh my Jesus, I want to be a useful instrument for you, I want to be even stronger. Hallelujah, ten steps, how a spiritual son, I give you 22, it's in the book I gave you already, but you didn't know it was in

@@ -8,6 +8,8 @@ year: 2024
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Father which art in heaven, thank you for the great opportunity that is given to us today. Lead us by the might of the Holy Spirit. Thanks a million for all that you do for us. In the mighty name of Jesus, we give you praise. We give you thanks in Jesus' name.

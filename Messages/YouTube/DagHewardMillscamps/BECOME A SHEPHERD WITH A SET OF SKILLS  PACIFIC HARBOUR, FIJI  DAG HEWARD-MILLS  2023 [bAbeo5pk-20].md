@@ -8,6 +8,8 @@ year: 2023
 duration_min: 32
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 now we started by saying that faith is a triangle amen but I think it's more of a quadrant and it may even increase Faith obedience which is love and humility yes obeying God is an act of humility that's why all those that don't obey they actually not humble that is why they will not obey I told one Pastor I said I want you to move from this town and go to another country then he said then I resign yeah he said then I resign and that was the end yeah I mean you can see a

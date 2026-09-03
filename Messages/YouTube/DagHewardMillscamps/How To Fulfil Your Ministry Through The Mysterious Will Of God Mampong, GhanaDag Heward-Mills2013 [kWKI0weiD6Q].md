@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=kWKI0weiD6Q"
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 what a blessing now so I was explaining to you that how you can fulfill your ministry okay it is basically 10 things that show you your ministry and that guide you in your ministry and also make you fulfill your ministry and one is the mercy and the love that you receive and that you respond to the second thing out of the 10 is your separation I gave you the points isn't it what was the first one the mercy the second one is what separation the separation now a person who is appointed by God to work

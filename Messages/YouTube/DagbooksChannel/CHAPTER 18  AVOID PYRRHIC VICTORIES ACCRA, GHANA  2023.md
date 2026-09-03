@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 Chapter 18. Avoid pirick victories. Who is pirick? What is pirick? Victory is a victory which comes at a cost that is too high. Yes. Now, King Pyus of Epirus. He fought with Romans and he fought with them twice actually. But the number of his people who died, this is a war in uh in history between Greeks and Romans. And when he fought with them uh in 279 BC BC before Christ, even though they won, the the cost was so high that he once said, "If we are victorious In one more battle with the Romans, we

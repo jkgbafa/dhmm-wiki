@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t47z8/"
 duration_min: 134
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Don't let any body distract you because sometimes a point at which you need a way to bring a breakthrough somebody whisper something to your ears and take your attention off when somebody starts to talk to you in the English tell him to get behind me, Satan. Are you with me? Powerful. Right. I believe that tonight is going to be something else.

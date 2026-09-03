@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wBu9Ru5Wmb0"
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 Jesus is here right now. Jesus is here right now. He is here to meet your need to set the captives free. Oh, Jesus is here right now. Jesus is here right now. I know that Jesus is here right now. He is here to meet your need. and to set the captives free. Oh Jesus, he's here right now. If you feel all hope is lost and the battle is already lost and depression drains your very soul. Jesus reach into your life. You take the dark clouds away. Oh, Jesus is here right now. I believe and I

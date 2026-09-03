@@ -8,6 +8,8 @@ year: 2024
 duration_min: 102
 source: "autocaption"
 match: "exact"
+topics: ["Missions", "Missions/The Nations", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/missions", "topic/missions/the-nations", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 how many of us want to support this camp meeting because uh how we realize that we cannot finish what we are doing you get it we cannot finish so since we cannot finish we have to shedule for part two we we we we we we we we sit down sit down and we want to give a good enough offering today this is one of the last offering we are taking be able to even buy a ticket you understand so I want us to some of us have to give a, B dollars amen is it possible

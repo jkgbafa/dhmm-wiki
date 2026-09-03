@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uct30/"
 duration_min: 85
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Come on, your hands together, come on, your hands together, come on. I see that you now mean it. I see that you have me. I still would you see that to me I stayed with you I stay there with you as that would you I see that me to be a one I did what Yama I was me to make a Missy Ba mambo I would have me to make a man I be where he'll be for shadow I be I wanna me for shadow I oh I be my for shadow I've ever you ever

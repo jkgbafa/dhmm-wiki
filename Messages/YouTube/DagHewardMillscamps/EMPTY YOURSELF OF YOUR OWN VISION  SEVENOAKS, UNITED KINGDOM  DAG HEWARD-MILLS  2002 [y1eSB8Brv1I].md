@@ -8,6 +8,8 @@ year: 2002
 duration_min: 34
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 welcome to track number five of all out now look notice 1 Corinthians chapter 2 but as it is written verse 9 I have not seen nor ear heard neither have entered into the heart of man the things which God has prepared for them that love him but God has revealed it unto them by his spirit amen amen are you there yes God has revealed it to them by his spirit amen amen now the Bible is telling us here that we've never seen and we've never heard and not only that have we not seen or it

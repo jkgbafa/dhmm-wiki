@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t90vf/"
 duration_min: 169
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 As we gather me, glorify your name, knowing well that us our heart speak to worship. We'll be blessed because we came. We'll be blessed because we came. We'll be blessed because we came. Everybody, as we gather tonight.

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 44
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now I want to show you something on the YouTube. Can I Can I Can we do the YouTube? How many know YouTube? YouTube. Now I want to show you when you type French We are we this one is in French. If you type D, what do you type? Dwood Mills. What? What are you writing in Fr? And Frances. Uhhuh. Wow. And then you see the round. Do you see the round? How many see the round? Please, I need you to help me because I I want to know that is it. So the round is what

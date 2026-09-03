@@ -4,6 +4,8 @@ book: "Enlargement Secrets"
 book_number: "075"
 chapter_number: 4
 type: book
+topics: ["The Word and Books", "The Word and Books/Bible Study", "Wisdom"]
+tags: ["topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wisdom"]
 ---
 
 ### CHAPTER 3\

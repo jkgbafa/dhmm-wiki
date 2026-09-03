@@ -8,6 +8,8 @@ year: 2010
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 thank you Bishop Oliver it is a great blessing always for us to be here and um we thank the Lord for His blessings today I'm continuing on my subject the mega church amen amen amen yesterday I started sharing 25 reasons why we should have a mega church amen and the reason why I shared why you should have a mega church is because when when I give you the reasons I can stir up in you your desire when I stir up in you your desire for it then it becomes a burning vision in you now yongo

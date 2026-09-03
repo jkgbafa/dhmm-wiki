@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=kmAhAb6I718"
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism"]
 ---
 
 in Jesus name do it with feet in Jesus name a lot of shadow play come on come on come on come on come on come on come on come on we've got a base to me we are victorious singing with Gaddafi to leave we are victorious come on we've gotta pay to leave we are victorious we are we Harbury no matter the situation which is us we all become is with us we are Victoria we yourself oh Jesus yes do something don't lie Jesus man you said my shop I did we've got a baby to

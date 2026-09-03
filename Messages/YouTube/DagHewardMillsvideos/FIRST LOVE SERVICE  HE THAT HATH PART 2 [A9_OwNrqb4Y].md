@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=A9_OwNrqb4Y"
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Lord our V that trouble me many are they that rise up against me many the be which say of my soul there is no help for him and God but thou oh Lord are a shield from me my glory you lift my head but thou oh Lord art a shield from me my glory the lifter up of my head I Cried unto the Lord with my voice and he heard me out of his holy I laid me down down and I slept I wait for the Lord sustain me oh Lord sheld Glory lift my but

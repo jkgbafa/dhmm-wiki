@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ulkrLuRdMPM"
 duration_min: 146
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Father, we want to thank you for your love today. Want to thank you for your goodness. Want to thank you for the church right here in Dominica. Thank you for your kindness. Thank you for the Holy Spirit.

@@ -8,6 +8,8 @@ year: 2011
 duration_min: 158
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 Romans Romans 13:1 and that knowing that knowing the time that now it is high time to awake out of sleep amen so now is our Salvation yeara that when We Believe amen are you listening to me to the night is far spent and the day is at hand that's right Hallelujah are you listening to me now we have talking about the what did I tell you I was giv you what it means to be awake number one it means to come out of darkness and out of sin in it in it or in it number

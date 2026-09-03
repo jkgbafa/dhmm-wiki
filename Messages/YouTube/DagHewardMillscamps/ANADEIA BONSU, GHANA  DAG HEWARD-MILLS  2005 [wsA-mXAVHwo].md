@@ -8,6 +8,8 @@ year: 2005
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number seven of baliz amen amen hallelujah amen maybe SE that we are we are going to come before the Lord's table for breakfast amen do you know that communion is food it's a meal so we are going to come before the Lord's table for breakfast amen and everything you eat affects you they say you are what you eat did you know that your stomach is made up of what you have eaten your skin your hair is made up of what you have eaten amen amen so we are going to come before the

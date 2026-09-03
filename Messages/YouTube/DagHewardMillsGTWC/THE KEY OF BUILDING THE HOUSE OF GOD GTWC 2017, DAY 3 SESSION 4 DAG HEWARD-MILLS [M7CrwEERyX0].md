@@ -8,6 +8,8 @@ year: 2017
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 He saved you, He saved me. What are we doing for others? Do you believe in treats? The Holy Spirit's trees, thousands of men running down the street. They didn't know that the road was leading to us deep and deadly and into the lake of fire.

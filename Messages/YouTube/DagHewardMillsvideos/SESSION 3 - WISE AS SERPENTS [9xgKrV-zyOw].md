@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9xgKrV-zyOw"
 duration_min: 162
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Wisdom"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/wisdom"]
 ---
 
 hahaha when a young man like you okay so beautiful when a young man a warm and a boy or girl Oh when I'm not muffled or he doesn't want to miss the quiet time he doesn't want to miss his time alone with the law and he doesn't wanna miss the preyere he doesn't want to miss the fan of he doesn't wanna me a word from God he will do anything for the Lord he'll go anywhere for the long oh he doesn't wanna miss the mission oh he doesn't wanna miss his calling day he doesn't wanna

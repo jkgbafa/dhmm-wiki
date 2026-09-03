@@ -4,6 +4,8 @@ book: "How You Can Preach Salvation"
 book_number: "027"
 chapter_number: 22
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Judgment", "Salvation", "Salvation/Repentance"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/judgment", "topic/salvation", "topic/salvation/repentance"]
 ---
 
 ### Salvation Message 20:\

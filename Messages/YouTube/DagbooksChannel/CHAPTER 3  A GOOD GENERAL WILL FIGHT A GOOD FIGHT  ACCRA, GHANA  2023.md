@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Leadership", "Leadership/Generals and History Makers", "Prayer", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/prayer", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Now chapter 3, we are moving very fast. A good general will fight a good fight. Let me give you 18 good fights. Number one, fight to be a strong Christian. Fight. Amen. Amen. It's a good fight. Amen. Amen. Struggle to be strong in the realm of the spirit. You can be stronger than you are. Fight for it. Amen. Amen. You see people who work in churches, many of them are not strong. YOU SEE on every big ship there are many people. Even in an army there are soldiers but some of the soldiers are not strong.

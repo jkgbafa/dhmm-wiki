@@ -8,6 +8,8 @@ year: 2018
 duration_min: 153
 source: "autocaption"
 match: "exact"
+topics: ["The Word and Books", "The Word and Books/Bible Study", "Wisdom"]
+tags: ["topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wisdom"]
 ---
 
 Now, how to increase wisdom number three quite on sagesse. Meditation. Troisième, la meditation. Amen. First Timothy 4, 14.

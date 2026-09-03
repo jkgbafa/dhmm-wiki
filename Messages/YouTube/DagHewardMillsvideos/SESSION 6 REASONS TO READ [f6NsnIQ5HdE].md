@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=f6NsnIQ5HdE"
 duration_min: 192
 source: "autocaption"
 match: "exact"
+topics: ["Missions", "Missions/The Nations", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/missions", "topic/missions/the-nations", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 can you sing with me draw me close to you draw me close to you never let me go never let me go i lay it all down again to hear you say that i'm your friend you are my desire nothing else could take your else place take your place just to feel the warmth of your embrace oh lord help me find a way bring me back to your you're lift your hands lift your voice and tell him lord let it be your prayer tonight lord draw me close to you draw me close draw me close

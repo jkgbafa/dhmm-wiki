@@ -9,6 +9,8 @@ duration_min: 79
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE WORLDLY VERSION AND THE GODLY VERSION  MAMPONG, GHANA  DAG HEWARD-MILLS  2014 [z6CvDEw73gs]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Wisdom"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/wisdom"]
 ---
 
 Alright. How to relate with the world. Chapter 9. The worldly version and the godly version. Of almost everything.

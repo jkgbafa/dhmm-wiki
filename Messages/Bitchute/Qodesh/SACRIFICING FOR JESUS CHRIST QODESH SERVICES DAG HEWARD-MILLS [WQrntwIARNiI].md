@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/WQrntwIARNiI/"
 duration_min: 47
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Heavenly Father, we thank you for your blessing. Thank you for bringing us together today to share your holy word. We are asking that you guide us and lead us into all of your truth and all of your word. We thank you, Father, in Jesus' name. Amen.

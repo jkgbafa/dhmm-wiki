@@ -8,6 +8,8 @@ year: 2025
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Jesus is the answer for the world today. Above him there's no other. Jesus is the way. Jesus is the answer for the world today. Above him there's no other. Jesus is the way. If you have some questions in the corners of your mind and traces of discouragements and peace you cannot find. Reflections of the old past. They seem to face you every day. But there's one thing I know for sure that Jesus is the way. Yeah. Jesus is the answer for the world today. Above him there's no other. Jesus is the way. Jesus is the

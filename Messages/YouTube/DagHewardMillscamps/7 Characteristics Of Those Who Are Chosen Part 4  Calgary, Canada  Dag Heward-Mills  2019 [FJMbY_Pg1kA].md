@@ -8,6 +8,8 @@ year: 2019
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Who are those whom God chooses and uses? Number one, those who believe. Number two, those who are virgins. Number three, those who flow. Number four, those who are young. Number five, those who are appreciative. Number six, do you have those who are joyful? Those who are humble. Six. Was that five? Six. So number seven, those who are joyful. Amen. My soul doth magnify the Lord. Amen. Amen. Joyful. Mary was happy and she started to praise the Lord. So joyfulness. And then number eight, those whom God will provide for Now Mary after being chosen by God

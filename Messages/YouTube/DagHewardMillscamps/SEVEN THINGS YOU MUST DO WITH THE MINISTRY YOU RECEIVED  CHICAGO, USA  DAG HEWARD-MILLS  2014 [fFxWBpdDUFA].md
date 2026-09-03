@@ -8,6 +8,8 @@ year: 2014
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring"]
 ---
 
 there must be missions tell your neighbor there must be missions and then tell your neighbor there will be missions yeah tell your neighbor look at me look at me I am telling you that as long as I am here and as far as I am concerned there will be missions that's right hallelujah it's very powerful amen I think we are being blessed amen God has been great and good to us and we're just going to continue who has Ida's microphone please it's here right are you enjoying Ida wow put your hands together for this powerful

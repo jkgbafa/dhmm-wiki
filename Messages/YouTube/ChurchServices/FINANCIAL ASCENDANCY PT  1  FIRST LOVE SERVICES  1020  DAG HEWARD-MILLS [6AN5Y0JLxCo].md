@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6AN5Y0JLxCo"
 duration_min: 214
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah God bless you all for joining us on um our Flo Sunday service it's such a great blessing that you are part of us we want to spend some time this morning or some time right now to come before God and um present our Thanksgiving to him Hallelujah are you here with me Psalm 103:1 and verse2 says bless the Lord oh my soul and all that is with Within Me bless His holy name verse two bless the Lord oh my soul and forget not all his benefits Hallelujah so we want to say thank you to

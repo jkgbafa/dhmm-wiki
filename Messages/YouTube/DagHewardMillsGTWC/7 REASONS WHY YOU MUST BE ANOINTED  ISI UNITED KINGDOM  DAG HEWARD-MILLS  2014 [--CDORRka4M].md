@@ -8,6 +8,8 @@ year: 2014
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "The Holy Spirit", "Wealth and Finances"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/the-holy-spirit", "topic/wealth-and-finances"]
 ---
 
 Praise the Lord. I'm not surprised. I don't believe I'm going to go Tomorrow I will be there again. Go with me and I am here. Those are the people calling me. If only those are only People told us Facebook for the sake What an opportunity. Take my massage. Come on, somebody put your hands together and let's appreciate that. It is very humbling to see such a great man. Ladies and gentlemen, I bring on the podium the man of God, a simple man of God, a miracle man. Of all the miracles, one really depressed me. If

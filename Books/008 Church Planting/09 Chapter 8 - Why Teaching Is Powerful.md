@@ -4,6 +4,8 @@ book: "Church Planting"
 book_number: "008"
 chapter_number: 9
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Chapter 8\

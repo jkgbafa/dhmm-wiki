@@ -8,6 +8,8 @@ year: 1999
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 Break Me Lord just s gently gently oh me and S me for the last night sing me Lord me me and use me me on me sing be be me and use me Lord and use Alles on me you want to just thank the Lord for everything for everything thank him for everything hallelu we give you thanks for a double missionary we give you thanks we give you thanks you've been so good to us you have been so good to me m i I just want to take a little time to say thank you before

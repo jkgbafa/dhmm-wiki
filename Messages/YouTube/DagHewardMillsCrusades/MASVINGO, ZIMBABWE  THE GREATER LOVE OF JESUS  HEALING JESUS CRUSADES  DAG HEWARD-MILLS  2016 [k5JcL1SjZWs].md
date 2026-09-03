@@ -8,6 +8,8 @@ year: 2016
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah Clap Your Hands for Jesus tonight it's my joy to Welcome to the pulpit the chairman of the Board of Trustees of the healing Jesus campaign in our city here to bring us his welcome remarks yes I want to take this opportunity to welcome the men of God it's really an honor and a privilege have one of God's Generals in the kingdom of God coming into our city so evangelist we welcome into our city this is a very important city in fact the name of the country is derived from this city from the Great Zimbabwe

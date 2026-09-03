@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/TMeae3v80t2V/"
 duration_min: 90
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Just a closer walk with thee. Me, Jesus is my plea walking close to thee. Let it be just let it be just a closer walk with thee. Jesus is my plea walking close to thee. Lord, let it be weak, but thou give me Jesus for morrow.

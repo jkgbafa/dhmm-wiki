@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2006
 source: "autocaption"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 I want us to look at the next chapter uh loyalty of the father. Okay. Now this this will apply okay especially to those of you who are in leadership roles okay in the ministry. Are you there? Are you there? Listen. And again when you are in a leadership role because you may not be in one but then you may come into one. So all general overseers, all pastors of churches, all administrators, whatever area you are in, you'll always find some kind of what do you call it? uh opportunity to practice because when we say the

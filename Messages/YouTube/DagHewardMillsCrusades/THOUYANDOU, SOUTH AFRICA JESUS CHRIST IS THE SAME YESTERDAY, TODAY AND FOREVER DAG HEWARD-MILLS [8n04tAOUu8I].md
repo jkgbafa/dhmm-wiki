@@ -8,6 +8,8 @@ duration_min: 145
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/THOUYANDOU, SOUTH AFRICA  JESUS CHRIST IS THE SAME YESTERDAY, TODAY AND FOREVER  DAG HEWARD-MILLS [8n04tAOUu8I]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Salvation", "Salvation/The New Birth", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/salvation", "topic/salvation/the-new-birth", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Somebody shall do music in South Africa. Clap your hands for Jesus tonight. And you may be seated if you have a seat. Hallelujah. Hallelujah.

@@ -8,6 +8,8 @@ year: 2002
 duration_min: 15
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 welcome to track number five of life in the church all right you may take your seat let's go to the next one the next step to uh the next step to uh what do you call it don't enjoy it after so what's the first step anyway you do what huh I am interested in you step number two is what celebrate the formalities okay the next step is what huh reality and nakedness huh and the next one is what humil humility after you've been humble activity isn't it you have to have sex be moving sweating on

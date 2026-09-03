@@ -8,6 +8,8 @@ year: 2017
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses", "The Holy Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/the-holy-spirit"]
 ---
 
 father we are grateful for your great blessing and help in our lives in jesus' name amen amen you may be seated glory to God now we are advancing steadily labor to be blessed are you being blessed lay pastors did we watch the film yet um make sure tonight you remind me at we can watch the beginning at least up to a point I'm sure about 15 20 minutes of the film it can give you a good feeling of what I'm talking about so in the evening remind me okay all right Mark 7 now well has

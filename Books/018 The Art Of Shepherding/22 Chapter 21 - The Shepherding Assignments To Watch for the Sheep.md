@@ -4,6 +4,8 @@ book: "The Art Of Shepherding"
 book_number: "018"
 chapter_number: 22
 type: book
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 ## Chapter 21

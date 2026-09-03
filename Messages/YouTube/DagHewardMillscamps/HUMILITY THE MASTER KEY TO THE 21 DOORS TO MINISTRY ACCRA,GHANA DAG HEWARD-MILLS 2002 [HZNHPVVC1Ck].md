@@ -8,6 +8,8 @@ year: 2002
 duration_min: 115
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Prayer", "Prayer/Praying in Tongues", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Welcome to track number 15 of Socral. It is called the key, master key of humility. Matthew chapter 18. I said, Zogrio is working now. Now we are inside Jericho.

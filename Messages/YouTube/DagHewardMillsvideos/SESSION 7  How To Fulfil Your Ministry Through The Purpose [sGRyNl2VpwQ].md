@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=sGRyNl2VpwQ"
 duration_min: 47
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 Pepper's ha after peppers will come to the mission missions that purpose either can come before now after you have been love God and separated and what you are prayed for the mysterious will evolved and you have had the call of God the next thing to find is the purpose of God the next thing is also the mission they are virtually together but what is purpose what is purpose of course is the reason for the things that are being done you see most of us do not understand God and understand his will for our lives we

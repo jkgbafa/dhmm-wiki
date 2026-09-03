@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/splagchnizomai-imp
 duration_min: 91
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Today I'm going to be sharing about splanchnon. Splanchnon. Everybody say splanchnon. The biologists will know splanchnic nerves or vessels. Last week we were talking about feelings.

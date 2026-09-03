@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t3xl2/"
 duration_min: 237
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 He rose again, he rose again. Oh, yeah. And I believe. I believe that this standing in our beauty. He went to power.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Ng3-uLPbqqM"
 duration_min: 47
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 hallelujah hallelujah let's pray father thank you for your blessing thank you for your word thank you for your spirit thank you Lord that you give us the strength every day thank you for your increase Lord in all that we do bless us Lord as we come before your holy word we thank you in the name of Jesus and everyone said amen you may be seated well I want us to tend to some 73 tonight I just want to share some with you yeah and I believe you'll be blessed with a sound Jesus coated from the

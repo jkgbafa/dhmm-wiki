@@ -8,6 +8,8 @@ year: 2005
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number 12 of baliz now we are going to talk about developing loyal Bassel members now turn to Genesis I tell you God has done a great work in your life verse 38 31 chapter 31: 38 and Jacob was rough and chowed with laan and Jacob answered and said to Laban what is my trespass and what is my sin that thou Hast so hotly pursued after me amen amen verse 38 this 20 years have I been with thee thy ews and thy she goats have not cast their young and the Rams of thy

@@ -9,6 +9,8 @@ duration_min: 61
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE ART OF FOLLOWING GTWC BRAZZAVILLE DAG HEWARD-MILLS 2017 [6kXtlk05WGg]]]"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 I would like to share with you the art of following. When you see something big and you have a big vision, the next thing you have to do is complete it. say complete, accomplish, uh, take it in hand, take something in hand. You must repeat, please, take something in hand. God wants you to be able to take something in hand. Why do you think Dr. Hogo is always sharing about megachurches, church planting, or winning souls ? Because that's the vision of a good minister. Amen. What is it? You don't have any other missions. Jesus said,

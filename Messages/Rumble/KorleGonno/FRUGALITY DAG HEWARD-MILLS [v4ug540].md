@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ug540/"
 duration_min: 69
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 I love you with the love of the Lord. I love you, Lord. I love you with the love of the Lord. I can see, I can see the glory of the glory of I love you, I love you, I love you. Sing it again, sing it again, sing I love you with the love, I love you with the love of the Lord.

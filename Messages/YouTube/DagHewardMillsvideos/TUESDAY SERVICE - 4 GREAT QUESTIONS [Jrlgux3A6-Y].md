@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Jrlgux3A6-Y"
 duration_min: 32
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 father we thank you for this evening we ask that you guide your guided by your spirit and so all that is truthful thank you for your great blessings in Jesus name Amen all right my topic is salvation and this evening I want to share with you four questions you must lead people to four great questions you must lead people to you must lead them to come to this place of asking these questions Acts chapter 16 verse 2:22 for great questions in the Bible and the multitude rose up together against them amen and the magistrates rent

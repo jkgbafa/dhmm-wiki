@@ -8,6 +8,8 @@ year: 2022
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 there is an aspect of this Camp which I mean if I follow can take us a very long time but it's also important and it's called haki which means when Jesus was in the temple he was hearing and asking questions yes so in this camp meeting this come meeting I'm going to allow you to I'm going to allow you to ask questions we're going to have some sessions but I hope not so long but about anything you want to ask anything about anything so so that's a blessing can ask anything about anything and um we

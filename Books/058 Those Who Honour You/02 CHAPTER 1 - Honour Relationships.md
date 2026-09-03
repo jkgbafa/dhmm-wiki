@@ -4,6 +4,8 @@ book: "Those Who Honour You"
 book_number: "058"
 chapter_number: 2
 type: book
+topics: ["Anointing", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/the-holy-spirit"]
 ---
 
 ### CHAPTER 1\

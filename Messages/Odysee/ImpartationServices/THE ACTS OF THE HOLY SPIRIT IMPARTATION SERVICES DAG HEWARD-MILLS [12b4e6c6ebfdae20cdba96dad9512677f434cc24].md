@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/the-acts-of-the-ho
 duration_min: 115
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit"]
 ---
 
 Father, as we come before your holy table, Lord, we ask that you minister to our lives, your life. Bless us, Lord, in Jesus' name. Amen. You may be seated. Those on the front row, come around.

@@ -9,6 +9,8 @@ duration_min: 80
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/Greater And Better  Tsalach Night  Dag Heward-Mills [jmfYUu7Hkrk]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 God found a problem with his own Arrangement that he made his own Covenant he found a f you know something what I did I originally this what I did but I think I've see a problem in it25 2025 2025 great better lift your hands and thank God I want everybody to thank God God who has allowed you to be alive God who has blessed you God has made you free God has made you to see lift your hand and your be filled with Thanksgiving to God tell your neighbor happy New Year oh yes happy New

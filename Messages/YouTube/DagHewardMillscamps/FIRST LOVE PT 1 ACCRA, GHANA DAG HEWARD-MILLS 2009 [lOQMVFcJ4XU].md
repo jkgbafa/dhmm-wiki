@@ -9,6 +9,8 @@ duration_min: 110
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/FIRST LOVE PT 1  ACCRA, GHANA DAG HEWARD-MILLS  2009 [lOQMVFcJ4XU]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Welcome to track number eleven of my first love. Going past the introduction. Now I believe that. One of the very important things that you need to really decide. Okay.

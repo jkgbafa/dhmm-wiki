@@ -9,6 +9,8 @@ duration_min: 58
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/OBEDIENCE AND OTHERS  SEVENOAKS, UK DAG HEWARD-MILLS  2005 [wd3whzV10qI]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Welcome to track number eight of obedience unto death. Blessed are they who do his commandments that they may have a right to the tree of life, they may enter in through the gates into the city, for without our dogs, sorcerers. So if you go to hell, you are going to hell with magicians, with dogs, prostitutes, murderers, idolaters. One of the frightening things about hell is the uh a prison, is the people you are with. When you asked them, what did you do?

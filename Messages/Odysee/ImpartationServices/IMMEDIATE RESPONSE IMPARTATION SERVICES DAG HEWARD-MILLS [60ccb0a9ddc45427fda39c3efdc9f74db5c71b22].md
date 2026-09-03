@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/immediate-response
 duration_min: 98
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer"]
 ---
 
 Let me just make a point concerning funerals. Alright. Can I make a point? Yeah, it's just a side point but it's very important to help you. Do not follow the traditional Ghanaian behavior about funerals.

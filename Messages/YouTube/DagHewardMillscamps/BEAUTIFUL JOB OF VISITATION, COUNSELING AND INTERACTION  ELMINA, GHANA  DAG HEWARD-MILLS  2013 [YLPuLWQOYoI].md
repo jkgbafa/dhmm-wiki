@@ -8,6 +8,8 @@ year: 2013
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 I I feel like going on oh oh I feel like shouting for Joy I don't know about you oh oh oh I I feel like shouting for Joy oh oh I feel like sh for Joy I feel like sh for joy I feel like sh for Joy oh oh I I feel like going on oh oh I I feel like going on I feel like going on I feel like going on I feel like going on oh I feel like going I feel like going I feel like going I feel like going on you said

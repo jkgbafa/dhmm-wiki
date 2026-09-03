@@ -8,6 +8,8 @@ year: 2013
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Alléluia Tous les mois crié ma c'est ta qui est fort qui est fort qui est fort qui est pour Jésus quand je vois ce que tu as fait la paix la paix dans mon cœur quand je vois ce que tu as fait je veux te louer à l'homme pour Jésus au monde c'est de tout mon cœur je te bénis mon sauveur dans l'affection dans la souffrance tout me délivrer qui m'aime autant comme toi Dieu c'est de tout mon cœur je te bénis mon sauveur dans l'affection dans la souffrance tout me délivrer qui m'a autant comme toi quand je vois ce que tu as fait chantant y est la paix la paix dans mon cœur quand je vois ce que tu as fait je t'adore je veux te louer ma soeur ta chant quand je vois ce que tu as fait la paix la paix dans mon cœur quand je vois ce que tu as fait je t'adore je veux te louer tout le monde qui est genou fléchira tout est long confessé acquérir tu es seigneur tout m'a mon retour m'a tué mon pour moi tout genou fléchir tout est long confesse laquelle tu es seigneur tu m'aimes mon râte où me tu es mon pour moi quand je vois c'est que tu en fais la paix la paix dans mon cœur quand je vois c'est que tu as fait je t'adore je veux te louer quand je vois quand je vois c'est que tu en fais oh j'ai la paix la paix dans mon cœur quand je vois ce que tu en as fait je t'adore je veux te louer toi.

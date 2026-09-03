@@ -8,6 +8,8 @@ year: 2023
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Hallelujah Hallelujah Hallelujah Hallelujah Let's pray Heavenly Father Thank you for this opportunity We ask that you speak to our hearts and guide us in the great work Thank you for your mighty power that is working today May all who are in this place be filled with the Holy Spirit in the name of Jesus and the revelation of your word in the name of Jesus And everyone say Amen You may be seated please Today I want to share many things with you but unfortunately I don't have much time So I'm going to try to speak with

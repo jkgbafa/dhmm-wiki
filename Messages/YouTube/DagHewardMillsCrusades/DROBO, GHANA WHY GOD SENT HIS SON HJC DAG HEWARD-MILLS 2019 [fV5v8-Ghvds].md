@@ -8,6 +8,8 @@ year: 2019
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Tonight is a special night. And I do I just God has come to visit us here. And these three nights will change you forever. Whoever you are tonight. Expect attached from God.

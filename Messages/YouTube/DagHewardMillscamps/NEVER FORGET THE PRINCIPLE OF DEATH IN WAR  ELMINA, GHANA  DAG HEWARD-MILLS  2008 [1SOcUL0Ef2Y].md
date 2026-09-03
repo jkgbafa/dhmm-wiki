@@ -8,6 +8,8 @@ year: 2008
 duration_min: 16
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 fact number 14 of warfare Keys what's the next Point Key number 27 War Warfare Keys never forget the principle of death in war principle a good General bears in mind the death principles of War death principles what are the death principles number one a good General knows that those who are intent on living can be captured those who really want to live can be captured you get it h these are death principles number two a good General knows that those who give themselves to death can be killed easily these are the death principles and then

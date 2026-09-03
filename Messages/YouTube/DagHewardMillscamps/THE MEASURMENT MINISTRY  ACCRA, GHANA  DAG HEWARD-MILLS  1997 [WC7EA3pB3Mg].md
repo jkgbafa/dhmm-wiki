@@ -8,6 +8,8 @@ year: 1997
 duration_min: 16
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number four of loyalty and the mega church oh then he will do and the W and every time the pastor the leader will say this what wear she will be Memory saying this and then they will sort of do themselves like that then they won't wear it and she said she was because now she was also a leader and she will also tell them tomorrow we are going to wear this to tell people that no we can't wear it we every day we are tired we are tired of all these things are

@@ -8,6 +8,8 @@ year: 2009
 duration_min: 53
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "Vision and Direction", "Vision and Direction/Hearing God", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 leaders Christian leaders in Africa today amen hallelujah Bishop dag you at Mills amen hallelujah lift your hands let's thank god father what a blessing it is this morning to follow you guide us by your spirit in the name of Jesus Amen you may be SE Deuteronomy chapter 28 Deuteronomy chapter 28 I'm sharing this morning uh on Prosperity amen and um Prosperity that comes from following the holy spirit so my subject is the art of hearing from God and I have a little book called The Art of hearing hearing it will be a blessing to you

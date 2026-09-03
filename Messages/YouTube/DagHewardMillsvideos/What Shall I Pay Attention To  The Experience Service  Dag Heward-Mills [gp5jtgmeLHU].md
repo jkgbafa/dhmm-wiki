@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=gp5jtgmeLHU"
 duration_min: 259
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 God is good and all the time I needed to put a smile on someone's face look at someone whose face doesn't look so smiling and put a smile on that person's face say hey we are in church forget about your issues your money's gone missing don't worry your phone got crashed don't don't worry your car had flat tire don't worry we are in the presence of the Lord where there must be fullness of joy Hallelujah amen wow church is an interesting place because it is one of the places that you can have joy amen we'll

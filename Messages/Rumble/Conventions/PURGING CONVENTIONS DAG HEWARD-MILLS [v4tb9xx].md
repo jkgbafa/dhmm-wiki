@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tb9xx/"
 duration_min: 163
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 And I will worship him. We lift you high, lift you high above the earth. We exalted, oh Lord. We worship you, Lord. And I will worship you.

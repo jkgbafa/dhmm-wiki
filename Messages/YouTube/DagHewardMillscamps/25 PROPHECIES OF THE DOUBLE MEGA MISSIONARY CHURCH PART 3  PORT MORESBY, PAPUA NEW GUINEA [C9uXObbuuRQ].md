@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=C9uXObbuuRQ"
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Missions", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/missions", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 father thank you for the blessing thank you for the guidance thank you that in the last days the mountain of the Lord's house shall be exalted far above Lord thank you Lord oh yes we are grateful Holy Spirit for the mountain of the Lord's House thank you in the name of Jesus amen amen you may be seated now number one the mountain of the Lord's House as sister Leo was explaining shall be exalted in the mountains that's the first prophecy what's the second prophecy there shall be many people and strong Nations Zechariah 3 isn't it

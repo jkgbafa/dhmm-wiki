@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hctETBsJVnQ"
 duration_min: 168
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Hallelujah. Let us pray. Father, thank you for the blessing of your holy word. Thank you for guiding us by your spirit in the mighty name of Jesus. We are grateful for all that you give us and all that you do for us in the mighty name of Jesus.

@@ -8,6 +8,8 @@ year: 2017
 duration_min: 125
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Pap we want to be more like Jesus I want to I need to be more like Jesus I want to I need to be more like Jesus I want to I need to be more like K I want to I want to be more like Jes I want to I need to I need to be more like Jesus I want to I need to be more like himing remember there's no greater love than to lay down his life for a friend for a friend I want to be more like Jesus I want to I need

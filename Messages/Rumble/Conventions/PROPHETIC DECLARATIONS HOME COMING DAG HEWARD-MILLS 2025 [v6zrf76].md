@@ -8,6 +8,8 @@ year: 2025
 duration_min: 30
 source: "whisper"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Hallelujah. Hallelujah. I said Hallelujah. Are we excited? Excited.

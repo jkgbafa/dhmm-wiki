@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=yMvkmhPjBSw"
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 we very power read our way what we can spend your power thank you for maybe knowing Wahab Raima and will help you help you always be holy spirit o spirit we wearing what you that's the let y'all holy Oh Oh Oh Oh anyway hallelujah hallelujah amen well this is a song that was composed by a young man some time ago it's one of the songs on the Bee Gees album which has never been released by the we intend to do that pretty soon is a key song it talks about the power of God being the

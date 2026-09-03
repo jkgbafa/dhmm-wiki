@@ -8,6 +8,8 @@ year: 2008
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 I can't keep it to myself I've got to go out and tell somebody I can't keep it to myself cuz somebody's lost somebody's dying I can't keep it to myself I've got to tell somebody else for they've got to know Jesus loves them so please don't keep it to yourself you need to go out and tell somebody don't keep it to yourself cuz somebody's L somebody is dying don't keep it to yourself tell somebody else for they've got to know Jesus loves them so we all have friends cry and cry cuz they don't even know

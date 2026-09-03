@@ -8,6 +8,8 @@ year: 2012
 duration_min: 171
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 go through till you become forgiven weed the demon of unfor a man without patience coming into your heart to off be a patient person a man of understanding is a patient person univ instant reaping instant as you pour the hot water on the oat ready to be eaten all those food allow toow allow them to learn what they didn't know before be a patient person very patient person Hallelujah number two is what WI and number three is what and then number four is nrow minded man and then number five an ungrateful man if you realize

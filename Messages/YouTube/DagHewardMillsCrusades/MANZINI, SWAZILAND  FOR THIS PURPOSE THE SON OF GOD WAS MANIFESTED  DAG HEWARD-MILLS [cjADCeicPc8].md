@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=cjADCeicPc8"
 duration_min: 149
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 God good I pass somebody scream somebody give a praise say good good go somebody scream Hallelujah hallelujah hallelujah to me yes Hallelujah you you somebody aha aha hallelujah hallelujah hallelujah hallelujah ch ah hallelujah hallelujah Jesus jesuses Jesus Jesus Jesus Jesus Jesus Jesus Jesus Jesus Jesus Jesus Jesus jesuses Jesus Jesus hallelujah hallelujah hallelujah hallelujah somebody give God a shout hallelujah hallelujah somebody give God a wave somebody give God a wave tonight Hallelujah oh oh oh come on come on come on somebody give a s come on come on come on come on somebody shout hey hey

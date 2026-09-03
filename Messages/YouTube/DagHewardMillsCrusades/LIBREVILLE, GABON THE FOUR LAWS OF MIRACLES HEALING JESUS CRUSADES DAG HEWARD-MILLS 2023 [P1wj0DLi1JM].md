@@ -8,6 +8,8 @@ year: 2023
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 I believe that all of us are ready to receive this great man of God. And I want you to put the hand clock. And I saw let's welcome the Lord. If I tell us God, you are not worried. I expect the miracles.

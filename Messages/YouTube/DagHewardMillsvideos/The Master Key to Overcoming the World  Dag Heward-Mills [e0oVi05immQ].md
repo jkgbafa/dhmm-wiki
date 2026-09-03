@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=e0oVi05immQ"
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 something that was not possible like not that it's not possible but you even think that it's not possible but God has shown me that what was impossible what was impossible what was impossible the master key to overcoming in this world and in the world is to Amen. Father, thank you that everything is possible with you. We are grateful and thankful for your mighty power. Let possible, something possible, something great, something impossible happen. Let something impossible become possible. I pray for it and I thank you in Jesus name. Amen. God bless you. Now you may be

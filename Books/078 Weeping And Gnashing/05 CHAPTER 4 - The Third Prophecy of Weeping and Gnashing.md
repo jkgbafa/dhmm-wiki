@@ -4,6 +4,8 @@ book: "Weeping And Gnashing"
 book_number: "078"
 chapter_number: 5
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wisdom"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wisdom"]
 ---
 
 ### CHAPTER 4\

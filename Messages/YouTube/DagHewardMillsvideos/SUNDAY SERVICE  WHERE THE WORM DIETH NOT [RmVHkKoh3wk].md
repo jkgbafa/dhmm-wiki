@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=RmVHkKoh3wk"
 duration_min: 21
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 mark chapter nine verse we're gonna read from verse 43 I'm gonna share a bit then we will just changing the format a little better the same church service amen and implied hand offend thee cut it off amen or it is better for thee to enter into life maimed than having two hands to go into hell into the fire that never shall be quenched amen where their worm dieth not and the fire is not quenched and if I foot offend thee cut it off it is better for thee to enter halt into life than having two

@@ -8,6 +8,8 @@ year: 2001
 duration_min: 47
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number nine of what is your life I have had people who have come to me some of my different P you know this guy he's like this you can't even talk like that to me for one moment it won't work at from from what I've seen in the Bible and from experience that anybody who Rebels against the pastor that I have put there is actually rebelling against me it's only that I have not exposed myself to that person one day I I had a pastor who was rebelling against his uh the pastor

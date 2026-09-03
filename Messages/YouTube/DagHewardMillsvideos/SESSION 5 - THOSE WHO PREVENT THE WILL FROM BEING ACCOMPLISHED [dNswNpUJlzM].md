@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=dNswNpUJlzM"
 duration_min: 230
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 doesn't know Oh I live for Oh to start with yeah Oh I'm gonna stop we're for the Lord if you plan to be here you Oh I wanna be water not all men go we wanna think thereby little staycation everywhere the powerful and uh we wanna pee before the page we wanna die the FISA Court oh is away jeez everyoneís EG v i before the stakes before the face - move little by little we pitch down the pot with water Oh and God down it thank God we wanna take we're gonna take everyone which is

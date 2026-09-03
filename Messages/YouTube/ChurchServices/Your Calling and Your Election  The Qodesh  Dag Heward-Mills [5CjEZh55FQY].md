@@ -8,6 +8,8 @@ duration_min: 68
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/Your Calling and Your Election The Qodesh Dag Heward-Mills [5CjEZh55FQY]]]"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 Father, thank you for the great blessing. Oh yeah. We have at this time in the name of Jesus. Amen. You may be seated. Take out your special offering. take out your special offering and let us pray over it. Father, as part of our beautiful worship, we have this offering to give. And I want everybody to give. Even if you've already given an offering today, doesn't matter. I want you to give the Lord something. Father, we are grateful in this moment at this time in Jesus name. We thank you for the great blessing you have given

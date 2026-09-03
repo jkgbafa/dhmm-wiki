@@ -4,6 +4,8 @@ book: "Amplify Your Ministry"
 book_number: "011"
 chapter_number: 18
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting"]
 ---
 
 ## Chapter 17

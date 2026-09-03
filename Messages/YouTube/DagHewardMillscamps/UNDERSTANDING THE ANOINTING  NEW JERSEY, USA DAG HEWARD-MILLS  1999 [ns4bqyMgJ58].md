@@ -8,6 +8,8 @@ year: 1999
 duration_min: 89
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 welcome to track number eight of going deeper and doing more here father we thank you in Jesus name for this time thank you for what you have done what you are doing what you will do oh it's wonderful it's beautiful we worship you we receive it we walk in it in Jesus mighty mighty name and everybody said amen amen amen amen hallelujah we starting at 6:30 tomorrow morning amen we are having a short we we know that Prosperity is a good thing but we don't understand prosperity and how Prosperity comes into a nation so we

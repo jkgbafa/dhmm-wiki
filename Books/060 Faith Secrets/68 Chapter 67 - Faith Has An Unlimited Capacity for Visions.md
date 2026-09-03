@@ -4,6 +4,8 @@ book: "Faith Secrets"
 book_number: "060"
 chapter_number: 68
 type: book
+topics: ["Faith", "Vision and Direction"]
+tags: ["topic/faith", "topic/vision-and-direction"]
 ---
 
 ### Chapter 67\

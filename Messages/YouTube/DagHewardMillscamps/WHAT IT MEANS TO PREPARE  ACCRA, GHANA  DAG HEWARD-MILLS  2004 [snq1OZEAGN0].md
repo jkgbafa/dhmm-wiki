@@ -8,6 +8,8 @@ year: 2004
 duration_min: 115
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 amen lift your hands father thank you for today thank you for your word thank you for your presence Lord as we come before you and become before your word Lord we ask that you open our hearts minister to us let your will be done Lord we thank you in Jesus name amen amen you may be seated Ephesians 6 verse 11 put on the whole armor of God that you may be able to stand against the Ws of the devil for we wrestle not against flesh and blood but against principalities against Powers against the rulers of

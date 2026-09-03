@@ -8,6 +8,8 @@ year: 2025
 duration_min: 47
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 Now let me give you the supreme code of pastoral work. Okay. The supreme code for pastoral work. Pastoral work is P V CI. All right. P for prayer. All right. V for visitation, C for counseling and I for interaction. Give me the code. If you have the code, write it out. Yeah. Now these are the four things. So in this book, are you with me? This book here uh transform your pastoral ministry is has four sections. When I became a pastor, I was asking myself what are the things I must do on Mondays, on Tuesdays,

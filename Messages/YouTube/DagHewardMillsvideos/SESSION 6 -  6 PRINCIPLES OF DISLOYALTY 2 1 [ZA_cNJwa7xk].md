@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ZA_cNJwa7xk"
 duration_min: 131
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 among those who are ignorant citizen in your home three causes of disloyalty what cause then ideal why you see three causes of the I was talking about sixth principle of this letter just after for a mile up don't I can't hit may not eat waffles those who are ignorant the circus on in your heart now three causes one and erratic personality from here shortage in personality and crazy people there are some people they are they just want to mix up in changes yeah the junk people should say the shush mouth to death do you have

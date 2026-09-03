@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/kfJLEDKVvt63/"
 duration_min: 104
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 The louder your shout, the greater your breakthrough. Come on, give it a lot. Sit on top of your enemies. These are all phrases that I borrowed from Bishop VAT Saki. But it's a blessing to share fellowship with you this morning.

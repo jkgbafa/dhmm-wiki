@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqu13/"
 duration_min: 79
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Jesus Christ the Literath from heaven who is God and Lord and his holy lived on saving to earth from who is God and God of all to God and his credit was told with Jesus Christ the lead with the lovely Heavenly Father, thank you so much for today. Thank you for your blessing. Thank you for your guidance, bringing us to your house. In Jesus' name, Amen. Right.

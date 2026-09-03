@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=qwqJHWHmN0s"
 duration_min: 166
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 arolea to lavake a gr pa-pa-pa-la-pah circle to a fan jalapa laughs a double girl gosh my serger - yeah ah yes ah ha wander said that you woke up Jaidev any once over the lovely song the last two front humor delirious to litter Universal key man was all come to our home on sure said that you mark our shelter Benny once over Darla flicks you're the last to fall to me daily rare jewel it our universe or Kiba what uncle Oh shall I fan laughing love all good cause my serger do the bad ha ha

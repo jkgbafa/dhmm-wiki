@@ -8,6 +8,8 @@ duration_min: 136
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/KLERKSDORP, SOUTH AFRICA  WHO HAS BELIEVED OUR REPORT  HEALING JESUS CRUSADES  DAG HEWARD-MILLS [ckSXMhwbQzk]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 We want to teach you a song quickly. Says, I will set my face to seek the Lord. Do you believe that? That He is a wonderful God. Are you ready?

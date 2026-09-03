@@ -8,6 +8,8 @@ year: 2025
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Amen. Well, Daddy's in the house. I have missed my father. I don't know about you, but I have missed my father. Just put your hands behind that.

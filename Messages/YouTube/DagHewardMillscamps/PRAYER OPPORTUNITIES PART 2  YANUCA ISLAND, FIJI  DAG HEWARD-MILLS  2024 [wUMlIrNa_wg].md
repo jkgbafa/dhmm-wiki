@@ -8,6 +8,8 @@ year: 2024
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Prayer"]
+tags: ["topic/faith", "topic/prayer"]
 ---
 
 prayer opportunity number three prayer opportunity number one is to turn things around I know this shall turn Philippians 1:19 I know this shall turn prayer opportunity number two is an opportunity to be connected to be close to Fellowship isn't it yeah that's why the disciples said teach us to pray yeah teach us to pray number three prayer is an opportunity to walk by faith wow prayer is an opportunity to do what to walk by faith now turn with me to Luke chapter 18 Luke chapter 18 what does it say in verse one then Jesus told

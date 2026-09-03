@@ -8,6 +8,8 @@ year: 2016
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 God has blessed us greatly in kuruman and tonight on this final night our lives will not be the same again Clap Your Hands for Jesus as we receive evangelist that tonight Hallelujah keep Clapping Your Hands keep Clapping Your Hands hallelujah hallelujah you may please be seated God bless you you go down take your seats father we thank you for the offerings we've given in Jesus name Amen on the final nights here in kuruman we thank God for the work the pastors have done so far and we want to welcome once again the chairman of the

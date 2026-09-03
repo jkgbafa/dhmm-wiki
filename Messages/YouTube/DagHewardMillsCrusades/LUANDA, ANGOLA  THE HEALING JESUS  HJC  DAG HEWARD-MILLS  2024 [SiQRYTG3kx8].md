@@ -8,6 +8,8 @@ year: 2024
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 continues clapping that's how we welcome the great messenger raises hands shouts to the Lord shouts when I see what you did for me I have peace peace in my heart when I see what you did for me you I adore you I praise you Luanda pastors Oh God of my heart I adore you my lord stop in the suppression you deliver me if you are Lord You are healer I praise you and I oh your if you are healer I praise you when I see when I see what you did for me I have peace

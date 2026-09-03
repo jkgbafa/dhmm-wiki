@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xl43-qxlkcU"
 duration_min: 125
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 wherever you are to my break out I'm offering Koshka morning young man Fiorella - upon someone a hello how wherever you are tonight hot your modern gentleman develop here is your body look into your pocket pick up about where home everywhere how horsey everywhere poor see we are giving to the Lord little on the henna room with him everywhere horse they're modeling 10 month we are giving to the Lord is on Nicola Conte Koyo I give in to the Lord Susanoo get up onto all of those in the fans pick out an offering birthday but

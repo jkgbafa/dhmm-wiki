@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Pf4NGE2gyLg"
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 so many people they never ever heard from you Lord so many problems they have they think they can go through with all you can do the same for them just like you did for me Lord I know you need somebody I know you need somebody you've got to have somebody Lord you can depend on me oh yes so you can depend on me Jesus you can depend on me Jesus I know you need somebody I know you need somebody you've got to have some somebody Lord you can depend on me the Harvest is Right Lord

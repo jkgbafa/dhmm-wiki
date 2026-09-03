@@ -8,6 +8,8 @@ year: 2023
 duration_min: 136
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Thank you, Lord Jesus, for a brand new Sunday you've given us. Thank you for your kindness towards us, Lord Jesus. Wherever you are watching from right now. I want us to enter into a moment of thanksgiving. Let's thank God for what He's done for us all through this week.

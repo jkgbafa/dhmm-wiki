@@ -8,6 +8,8 @@ year: 2023
 duration_min: 75
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Missions"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/missions"]
 ---
 
 amen am just be seated for a moment beautiful beautiful now how many missions do you have only 12 wow wow a mission there's an English word re which reveals that a mission has been commissioned and that word is the word sent yes once you see the word sent yes or send amen now how many do you have 12 now Elijah the next one is a mission to hide the word of the Lord came unto him saying get thee and hide thyself by the Brook cherish that is before Jordan so you can be on a mission

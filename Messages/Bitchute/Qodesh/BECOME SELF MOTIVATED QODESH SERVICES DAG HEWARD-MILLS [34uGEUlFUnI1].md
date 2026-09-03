@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/34uGEUlFUnI1/"
 duration_min: 76
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Lord make me pure in heart. Lord, make me pure in heart. Make my heart faithful and true. So when you look at me, it's your righteousness you see. Lord, make me pure.

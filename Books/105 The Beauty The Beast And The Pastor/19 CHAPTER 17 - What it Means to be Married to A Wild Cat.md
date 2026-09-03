@@ -4,6 +4,8 @@ book: "The Beauty The Beast And The Pastor"
 book_number: "105"
 chapter_number: 19
 type: book
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 CHAPTER 17\

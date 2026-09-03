@@ -8,6 +8,8 @@ year: 2002
 duration_min: 52
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 welcome to track number 13 of life in the church that God is helping me to go to poor places amen and I know that God is going to bless you as you help us to go to the poorer places I've always that's how come I became friends with Reverend Sak because he also love to preach and want to do the work of God and to preach in every village and town and all the poor places that we can and I'm glad that years have gone by you see faithfulness means that you are the same and

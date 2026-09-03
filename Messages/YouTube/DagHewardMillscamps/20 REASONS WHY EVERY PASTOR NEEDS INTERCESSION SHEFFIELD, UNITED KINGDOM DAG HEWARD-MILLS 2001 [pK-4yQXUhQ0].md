@@ -9,6 +9,8 @@ duration_min: 26
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/20 REASONS WHY EVERY PASTOR NEEDS INTERCESSION  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001 [pK-4yQXUhQ0]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Prayer", "Prayer/Intercession"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/prayer", "topic/prayer/intercession"]
 ---
 
 Welcome to track number eight pastors of thousands. Twenty reasons why every pastor needs intercession. Or you could make it twenty reasons why Lady Pastor Rebecca needed prayer for herself. Somebody needed to pray for her so that she could have a breakthrough. Is that not so?

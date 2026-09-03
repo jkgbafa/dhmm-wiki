@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=36Wt36PvLI0"
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Can't nobody do me Do me like the way you do Jesus, you're the lover The lover of my soul Come on, everybody, help me say Nobody, nobody can do me Nobody can do me He's the King of kings and Lord of lords King of kings and Lord of lords Jesus, you're the lover The lover of my soul The lover of my soul Can't nobody do me Yeah, yeah, yeah Nobody has done to me Nobody has done for me Jesus, you're the lover Jesus, you're the lover You're the lover of my soul You're the lover of

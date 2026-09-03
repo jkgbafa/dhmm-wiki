@@ -7,6 +7,8 @@ url: "https://rumble.com/v4szjjo/"
 duration_min: 109
 source: "whisper"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Oh, they go on after Robin Voss again and said organizers have launched a second recall effort against Ronald Wisconsin assembly speaker Robin Voss sighting his tiles to the Chinese Communist Party in opposition to measures that will secure elections in Wisconsin. Robin Voss did nothing about the massive 2020 election fraud as Speaker of the Assembly. And he has fought vigorously to keep corrupt Wisconsin Election Commission administrator Megan Wolfe in office. Recommended charges against five members of the WEC for committing voter fraud in Wisconsin nursing homes by casting voters for incapacitated or mentally incompetent patients who otherwise wouldn't have voted lawfully while special voting deputies tasked with helping nursing home patients votes were deemed non-essential under the COVID guidelines and barred from nursing homes to do the job of securing voting rights and preventing the elder abuse.

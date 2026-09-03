@@ -8,6 +8,8 @@ year: 2014
 duration_min: 216
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 in preparing for the Lord is preaching second thing is repentance changing third thing is the kingdom of God we go by the kingdom of God which is a kingdom of seed sewing and Seed planting and we are going to sew seeds into our lives and we are going to swow seeds into the world seeds of churches missionaries people amen books CDs we're going to S them give a book to somebody don't give make it your policy in our church we don't give cards we give books the card cost as much as the book so just

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2015
 source: "autocaption"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now today I want to share with you about um wealth creation or tithing. Let me let me stick to the word tithing. I had a dream one day the Lord asked me to write a book on tithing. So I'm preaching for my book tithing. Why non-tiving Christians become poor and how tithing Christians can become rich. Now, somebody said to me that, you know, you are against riches. To me, I'm I'm against riches and I'm against prosperity and all that. And I said, I'm I'm not against it at all. I cannot be against it. But I

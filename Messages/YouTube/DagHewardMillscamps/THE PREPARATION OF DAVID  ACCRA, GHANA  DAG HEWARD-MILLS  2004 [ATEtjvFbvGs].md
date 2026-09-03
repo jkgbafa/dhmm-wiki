@@ -8,6 +8,8 @@ year: 2004
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 1 Samuel 16 we are talking about the preparation of the gospel and we have we have been diverted into David's life amen amen and I'm sharing with you about what King David went through and what he experienced as he be came and followed the calling amen well it says but the Lord said unto Samuel look not on his countenance or on the height of his stature because I have refused him I told you that because God has refused A whole lot of other people that's why you are here today are you are you glad about

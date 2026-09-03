@@ -4,6 +4,8 @@ book: "1000 Micro Churches"
 book_number: "066"
 chapter_number: 14
 type: book
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 ### CHAPTER 13\

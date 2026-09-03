@@ -8,6 +8,8 @@ year: 2016
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Hallelujah Give the Lord a shout so leave it re all it wave your hands up to Jesus hallelu Hallelujah r come on to Lord a loud hand clap clap your hands for Jesus and let's receive Ida tonight to bless us with a song please be seated here now Jesus is here right now to set the captives free Jesus is and the battle is already lost and depression your very Soul Jesus will reach into your you take the dark clouds away oh Jesus he is here right I believe that Jesus is here right now oh he's

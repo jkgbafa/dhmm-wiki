@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=NbC62iOrdqA"
 duration_min: 199
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 i stand amazed in the presence i stand amazed in the presence of jesus and i wonder how he could love me and i wonder how he could not have me oh is oh is oh oh ugly i stand amazed in the presence and i wonder how wonderful oh is oh oh is oh tonight you want to pray for the spirit of wisdom the spirit of revelation in the knowledge of him you want to pray that lord may the eyes of my understanding be enlightened because somebody lift his voice and pray that father of god as

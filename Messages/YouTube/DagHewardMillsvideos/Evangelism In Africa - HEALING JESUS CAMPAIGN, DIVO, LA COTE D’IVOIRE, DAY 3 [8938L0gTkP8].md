@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8938L0gTkP8"
 duration_min: 164
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 help cre for cre for cre for cre for and M in my li Affliction need the sh J you Oh Come tonight tonight tonight tonight tday tday tday take s did on Dan F Dan oh oh hey what to Problem Problem are h hallelujah hallelujah hallelujah I want you to keep standing on this third night of this campaign we are going to enjoy a feast of the Lord we've seen God do great things these past two nights he has used his servant tremendously and tonight on this final night God has great things in store for

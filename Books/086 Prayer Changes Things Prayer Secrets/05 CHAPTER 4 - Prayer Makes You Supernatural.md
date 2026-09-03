@@ -4,6 +4,8 @@ book: "Prayer Changes Things Prayer Secrets"
 book_number: "086"
 chapter_number: 5
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer"]
 ---
 
 ### CHAPTER 4\

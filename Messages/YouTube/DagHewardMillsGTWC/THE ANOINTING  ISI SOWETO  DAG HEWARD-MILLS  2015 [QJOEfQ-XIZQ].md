@@ -8,6 +8,8 @@ year: 2015
 duration_min: 250
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Come closer to me. Closer to me. I want to heal you and I want to touch you. All those doubts and all those fears that you've had on through the years. I want to heal you. says the Lord. Come closer to me. Closer to me. I want to heal you and I want to touch you. All those doubts and all those fears that you've had on through the years. I want to heal you, says the Lord. You tried so hard to hide all the pain you feel inside. You hope nobody sees through your disguise. Still

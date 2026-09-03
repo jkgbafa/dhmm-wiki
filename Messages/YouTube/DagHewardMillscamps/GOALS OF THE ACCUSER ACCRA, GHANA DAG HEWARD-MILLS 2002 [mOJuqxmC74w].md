@@ -9,6 +9,8 @@ duration_min: 66
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/GOALS OF THE ACCUSER  ACCRA, GHANA  DAG HEWARD-MILLS  2002 [mOJuqxmC74w]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to track number 15 of a loss. The goals of the accuser. What's that? You never had career counseling. How many are chosen to do the ministry from early?

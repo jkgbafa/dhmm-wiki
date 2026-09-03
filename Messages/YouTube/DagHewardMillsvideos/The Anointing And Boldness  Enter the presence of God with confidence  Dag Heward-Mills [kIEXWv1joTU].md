@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=kIEXWv1joTU"
 duration_min: 33
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 e up for spe and took knowledge of them that they had been with Jesus you need boldness to preach Jesus why few people preach Jesus now pastors cannot preach the gospel how to preach salvation yeah you know when you see poverty and you see the needs of people it takes boldness to preach Jesus yes this book is called how to preach salvation every night at The Crusade I preach from this book salvation that's why pastors preach mostly about Prosperity do you know why pastors preach most about prosperity and marriage it is because when you look

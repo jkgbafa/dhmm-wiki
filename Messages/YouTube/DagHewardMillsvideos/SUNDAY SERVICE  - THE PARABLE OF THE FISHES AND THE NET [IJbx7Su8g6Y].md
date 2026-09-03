@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IJbx7Su8g6Y"
 duration_min: 34
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Matthew 13 and we are going to read from verse 15 for this people's heart is waxed gross and their ears are dull of hearing their eyes are closed that's at any time they should see with your eyes hear with their ears and should understand with their heart and should be converted and I should heal them but blessed are your eyes for the see and your ears for they hear Amen now verse 17 take note of verse 17 it says verily I say unto you there are many prophets and righteous men that have desired to see

@@ -9,6 +9,8 @@ duration_min: 61
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/ATTEMPT NEW THINGS   GTWC LUSAKA  DAG HEWARD-MILLS  2025 [29fMomfqRiM]]]"
+topics: ["Anointing", "Ministry and Pastoring", "Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 Now, let me just give you one or two keys to doing attempting new things. First, I gave you attempt great things for God. Then I said, attempt greater works. Greater works than the works that Jesus did. Now I'm saying attempt new things.

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Let's give the apostle a round of applause. Hallelujah. Alleluia. Let's pray. Thank you for today. Thank you for guiding us through your Holy Spirit. We pray, Lord Jesus, that you speak to our hearts and guide us. Thank you to all the pastors who are here. Thank you for all the ministries; you will use them to do your will. Thank you God for your great blessing in the name of Jesus. And everyone says, "Amen." God bless you. They can sit down. It is a blessing to be here today. What a privilege to be a friend of

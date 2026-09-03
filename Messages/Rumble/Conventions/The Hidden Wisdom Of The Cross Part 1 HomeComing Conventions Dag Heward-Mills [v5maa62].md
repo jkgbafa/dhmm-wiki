@@ -7,6 +7,8 @@ url: "https://rumble.com/v5maa62/"
 duration_min: 158
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 Shall we pray? Father, thank you so much for the this evening and the opportunity that we have to be here in your house. We thank you, we love you, we we praise you, Lord. We ask you to fill our hearts and speak to us in a special way tonight. Thank you for what you have in store for us in this homecoming season, this time.

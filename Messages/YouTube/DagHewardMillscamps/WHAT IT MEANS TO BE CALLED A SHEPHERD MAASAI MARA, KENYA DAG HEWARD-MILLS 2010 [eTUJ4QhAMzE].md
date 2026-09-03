@@ -9,6 +9,8 @@ duration_min: 7
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHAT IT MEANS TO BE CALLED A SHEPHERD   MAASAI MARA, KENYA DAG HEWARD-MILLS  2010 [eTUJ4QhAMzE]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number three of the privilege. I'm going to give you a break in a few minutes to we or do whatever you want to do. So just relax. Receive an office. Now, to be called by God means to you receive an office.

@@ -3,6 +3,8 @@ title: "CAMP OVERVIEW  NEW YORK, USA  DAG HEWARD-MILLS  2017_Mg19kXBhSE4"
 channel: "DagHewardMillscamps"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 father we thank you Father we are grateful to you in Jesus name we pray amen am we have escaped you may please be seated so modern Christians ask are you a modern Christian modern Christians must have a proper respect for curses I think this Camp is to help us not to complicate our already complex lives on Earth it's already complex you don't need to complicate it any further rather our efforts must be to you know unravel the Mysteries that exist but not to add on to not to add on to so so it is very

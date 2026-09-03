@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=FkIYLCvLD8E"
 duration_min: 43
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 let's sing this song and the reason why I like this song because it makes us think about God because we are nothing we are nothing from beginning to end my life and your life amount to nothing we are useless and empty and powerless and nothing because as dust he calls us vapor for what is your life it is a vapor that appears for awhile and vanishes away burdens of a defined you and I so let's think about our God our Savior and our king then one who came he came up everything let's think about the

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3lwi/"
 duration_min: 34
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Matthew 13. Um, and we are going to read from verse 15. For these people's hearts is waxed gross, and their ears are dull of hearing, their eyes have closed. Lest at any time they should see with their eyes, hear with their ears, and should understand with their heart and should be converted, and I should heal them. But blessed are your eyes for they see, and your ears for they hear.

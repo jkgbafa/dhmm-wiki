@@ -8,6 +8,8 @@ year: 2024
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 wow what a blessing to be here in Vanuatu at last let us pray Father which are in heaven we are thanking you for this amazing time we are grateful and we pray for the Holy Spirit to lead us in the name of Jesus Christ guide us by your Mighty spirit and Lord thank you that vanatu shall be saved vanatu shall be saved in the name of Jesus Christ amen we pray with Thanksgiving amen am you may be seated turn with me to Ephesians chapter 6 now this is a prayer seminar it's a camp meeting but

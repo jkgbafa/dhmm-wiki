@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=RL4hCPkaTI8"
 duration_min: 22
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 But which of these four will you choose as having the presence? How how do you how we want to know how we can choose? Which of these four I'm sure you want to know. The Bible says Samson whisp not that God the presence of God had left him because the gifting of God is without repentance. It never changes but you can have the gift but the presence is not there.

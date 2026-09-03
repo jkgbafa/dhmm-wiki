@@ -8,6 +8,8 @@ year: 2010
 duration_min: 185
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 father we thank you for your blessing today thank you for the kindness you've shown us to bring us together to receive your holy word Lord we ask that you guide us and lead us into all truth we thank you in the name of Jesus lead us holy spirit into all that is your will for us thank you for victory over darkness and over the devil in Jesus name amen amen all right all right all right all right Psalm 126 when the Lord um Turned brought back the captive ones of Zion we were like those who

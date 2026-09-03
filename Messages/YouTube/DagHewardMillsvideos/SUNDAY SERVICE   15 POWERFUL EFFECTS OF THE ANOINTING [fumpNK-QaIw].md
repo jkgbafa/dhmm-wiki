@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=fumpNK-QaIw"
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Heavenly Father we thank you we bless you we thank you for your presence Holy Spirit we write comments we thank you amen hallelujah give the Lord a shot amen we just want to move around and walk on my selves into the service say hello to somebody shake someone hug someone let the passive at home Wow is the best place to be on a Sunday morning amen and we thank God god bless you may be seated in the presence of the law Wow that was powerful present worship time and I believe that our hearts are prepared

@@ -9,6 +9,8 @@ duration_min: 56
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MASTER KEYS  WHAT YOU SEE YOUR FATHER DO   GENEVA, SWITZERLAND DAG HEWARD-MILLS  2016 [eIXZck6pml0]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number six of Sturrita Nobody can heal's disease nobody nobody nobody nobody's nobody nobody like Jesus no not for one no not one nobody can heal my souls diseases no no no no not one no not one no no no no no no no no no no no no not one no no not one no no not one there's nobody nobody like Jesus no no not one no no not one nobody can hear I'm so diseases no not one no no no not one oh no not one no no not one no no not I've been around the world and I I I I can't find nobody like him nobody like him if you just try him and see find that he's all that you need no not one no not one oh no no no no no not one no no not one see there's nobody nobody like my Jesus no no not a one no not a one nobody can heal all our souls all our souls easy no no not one no not one no no no no no no no no no no no no not one no no not one no no not one see there's nobody nobody like Jesus no not one no not away not one nobody can heal so whose no not one no not a one no said I've been around the world and I I I can't find nobody like him nobody like him if you just try him and see you will find that he's all that you need.

@@ -8,6 +8,8 @@ year: 1999
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 welcome to track number two of love and the mega church now the theme for our camp this year is the Holy Spirit and the mega church we will be sharing for just about 30 minutes and then we'll go and sleep so that we can start early tomorrow morning amen so this is just an introductory what do you call it and then where will begin uh we'll continue tomorrow now I just want to talk about two things one is the name of our church Lighthouse Chapel International many years ago our church began um in kibu teaching

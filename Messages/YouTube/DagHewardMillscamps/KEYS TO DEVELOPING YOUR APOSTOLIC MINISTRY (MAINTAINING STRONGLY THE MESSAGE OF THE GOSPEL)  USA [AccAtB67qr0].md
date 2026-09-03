@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=AccAtB67qr0"
 duration_min: 21
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/ministry-and-pastoring", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 now if the next the next thing for the Apostle Apostolic work and that's why an apostle easily transitions into other Ministries is because an apostle right maintains and this is so so this is you when I say an apostle I mean you no when I say an apostle I mean simple it's simple enough for you yes it's you who's not going to compare you is choosing your territory you is using your one Talent start your ministry with one with two with five with 10 11 that's what I mean preaching to me now the Apostle all

@@ -8,6 +8,8 @@ year: 2023
 duration_min: 170
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 yeah sing praises to our God and king sing praises to the Lord of L sing praises to our God and king sing his Praises for God is the king of all the Earth sing praises with understanding ooh sing praises to our God and king sing his praises and now shall my head be lifted up above my enemies therefore will I offer in his Tabernacle sacrifices of Joy sing praises to our God and king sing praises to the Lord Lord of lords sing praises to our God and king sing his prais oh and now shall my

@@ -8,6 +8,8 @@ duration_min: 105
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/MONSTERS PART 3 Dag Heward-Mills First Love Church #latestmessage [b3v0ukS9W3w]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 it's time for the word of God now stand to your feet everybody how many of you have been blessed by the teaching of monsters I can't hear you I can't see you monster how many of you don't want to become a monster yes you know sometimes the word of God is Not only to bless you or encourage you sometimes it's to warn you amen David said in Psalm 19:1 that by by Your Word your servants are warned amen oh I can't he I don't feel your amen so very good moreover by them is thy servant

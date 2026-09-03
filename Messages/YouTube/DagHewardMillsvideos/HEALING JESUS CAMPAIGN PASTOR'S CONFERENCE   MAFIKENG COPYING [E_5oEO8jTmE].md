@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=E_5oEO8jTmE"
 duration_min: 188
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Vision and Direction", "Vision and Direction/Hearing God", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 hello hallelujah let us pray father thanks a million for this time what a blessing we have in your presence guide us by your mighty Holy Spirit in Jesus name Amen you may be seated how many are already blessed and full yea megachurches church growth amen now one of the reasons why we are sharing about having a mega church like dr. who was sharing mega church church planting and church growth is because God wants you to have a great vision and that great vision is a great vision that past test must have and when you don't

@@ -8,6 +8,8 @@ year: 2013
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 you have only a limited time to do things you know you cannot take forever now the wisdom of serpents number one they are masters of inner power isn't it are you a master of inner power huh number two they are the masters of they are Masters at overcoming personal handicaps snakes are the most severely handicapped animals on this Earth because they have no legs or arms they have no legs they have no arms and in spite of this severe handicap they are the most successful of all predators a predator is an animal that Huns another

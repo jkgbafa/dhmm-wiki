@@ -9,6 +9,8 @@ duration_min: 97
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/TYPES OF RECEIVERS BY BISHOP RICHARD MUNICH,GERMANY DAG HEWARD-MILLS 2016 [rBIi7GGQxoo]]]"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Let us pray for today to sit at your feet, Lord, to listen to your word, to receive your word, to receive the constant service of your word. Let us pray, Lord, that you may affect our souls, that our spirits may be changed, heal us, Lord, bless us, Lord, and guide us. Lord Father, I give praise and all thanks for the rain of your Holy Spirit. Thank you for this wonderful opportunity to be in your presence, to listen to your word and share your holy word. Lord, we thank you, Father, because this camp will be different.

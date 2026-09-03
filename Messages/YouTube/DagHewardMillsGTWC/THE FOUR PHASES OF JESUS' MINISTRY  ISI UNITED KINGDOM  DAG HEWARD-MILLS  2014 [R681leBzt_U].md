@@ -8,6 +8,8 @@ year: 2014
 duration_min: 144
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Come on. Jesus. always Come on. Come on. Foreign Your love is all I need. I have water. Shadow Jesus treasure. Jesus. I want to see your presence. Shadow Lord. Shadow. One more time. I love Sing so I love sing. Thank you. I sing the Lord. Come on. Just vegetable. Someone Follow me. Fire. Hallelujah. in Jesus name. Evangelist Doug Herwood Mills and the Healing Jesus campaign embarked on a historic visit to the Republic of Bkina Faso, preaching the gospel of Jesus Christ to the wonderful people of the country. A visit that would ultimately impact the nation

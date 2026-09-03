@@ -8,6 +8,8 @@ year: 1999
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 give the Lord a big hand clap give the Lord everyone clap I said give the Lord a big man clap and South upper hallelujah I said hallelujah I said hallelujah and you glad you are in the house of the Lord are you glad you are in the church amen are you excited to be praising the Lord this morning I'm also excited we want to say that for the Lord is good so anytime his gates with Thanksgiving and into his courts with praise I meant I said I meant the Bible didn't say and I was complaining

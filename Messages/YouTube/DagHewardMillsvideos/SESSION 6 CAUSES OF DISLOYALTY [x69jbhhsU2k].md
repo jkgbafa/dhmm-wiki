@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=x69jbhhsU2k"
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 draw me closer to you rivey he creeped us design and tear me up until the gift in me is your hello where's everybody going please do not collect it now we are having a session person type of please ensure that they close down that thing please we are having a session after you can do that all right close down all those deaths and all those things for me draw me closer to you reveal secret ha still on and tear me up until the gift in me y'all I'm talkin to me ha you always told me

@@ -8,6 +8,8 @@ year: 2024
 duration_min: 19
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 number number 21 personal witnessing personal witnessing young elements give themselves to personal witnessing Acts 26 verse 22 having therefore obtained the help of God Acts 26 verse 22 having therefore obtain the help of God I continue unto this day you see people stop but Paul said I continue until this day witnessing because it will be at the beginning of a Christian's life you will witness that's right but when the young elements are gone the witnessing is gone witnessing is at the beginning when people are young they witness they I want to tell you about Jesus

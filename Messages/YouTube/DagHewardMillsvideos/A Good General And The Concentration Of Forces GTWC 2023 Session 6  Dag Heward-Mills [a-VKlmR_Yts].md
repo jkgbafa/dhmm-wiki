@@ -8,6 +8,8 @@ year: 2023
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers", "Wealth and Finances"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/wealth-and-finances"]
 ---
 
 father thank you for your blessing in Jesus name amen you may be seated now we are in this conference looking at what it means to be a good General how many are becoming good generals General yes good generals God is blessing you to be a good General a good General and concentration of forces chapter 15. I'm so sorry that we are going so slowly we should have been far Advanced by now no but we are only on chapter 15. they have 76 chapters to go because Philippians chapter 3 verse 13 Philippians this we are just

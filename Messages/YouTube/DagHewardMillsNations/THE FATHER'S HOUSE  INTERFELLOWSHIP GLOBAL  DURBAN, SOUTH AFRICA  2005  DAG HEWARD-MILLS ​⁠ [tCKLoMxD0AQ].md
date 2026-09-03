@@ -8,6 +8,8 @@ year: 2005
 duration_min: 36
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hagi chapter 1 verse three it says is it time for you oh ye to dwell in your sealed houses and this house lie waste huh now therefore thus sayith the Lord of hosts consider your ways amen you have swn much and bring in little Mercy that means you go to work a lot but you don't have much how many realize that you go to work a lot and you still don't have much give me a wave offering oh then you are very rich I I'm very happy to see you all today please is it difficult

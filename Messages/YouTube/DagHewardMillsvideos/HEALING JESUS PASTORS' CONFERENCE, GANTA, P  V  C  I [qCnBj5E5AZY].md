@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=qCnBj5E5AZY"
 duration_min: 59
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 hallelujah how many believe that your ministry can be transformed amen now it is necessary for your ministry to be transformed hallelujah so that you you transform it into what God intends for your ministry amen how many of you want your ministry to be transformed to be changed all right the ministry can change into a certain level of ministry amen and so to do that you need to develop the skills of a good pasta amen so to be a good pasta that is what we call the act of shepherding all right and I had a book

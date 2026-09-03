@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=lc-1dRsKfeE"
 duration_min: 4
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 hello everyone we are in Passa finally when we were on the way here we shared with you the situation and um difficulties we're having on the road but thanks be to God we are finally in Pasa we just finished the second night of our Pasa healing Jesus campaign and uh we really thank God for what he's doing here we experiencing large crowds coming to hear about Jesus and also we're experiencing many Fantastic Miracles Miracles which which enthral the whole crowd everyone is so excited uh seeing the blind having their sight restored and see the death

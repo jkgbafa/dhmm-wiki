@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=lM1SKqe5z6Y"
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "The Call of God"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/the-call-of-god"]
 ---
 
 I told you oh break the name his name forever for for we will s oh Lord Oh Lord give his the testimony the bigest testimony sing the Bigg testimony for today are you excited get that on the show the biggest testimony one more time give he wow what a blessing you may be seated in the presence of the Lord wow you may be seated well I'm excited to be here this morning I was in Diego in Madagascar so if did you see me in Diego Madagascar oh really oh yes so I've been flying we started

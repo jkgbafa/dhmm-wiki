@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Wg2u6ryxt_E"
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 ladies and gentlemen it is now time for our offering hallelujah all those who are threatened to my extreme left and right wherever you are tonight the offering Yogi's will bring a blessing into your life please look into your bag your pocket your wallet bring out and well be afraid take out your office tonight somebody is bringing out ten thousand runs five thousand run 1000 run who hands bed run fifty run take out and offer it tonight assess you are going to go everywhere to pick the offering if you're offering out tonight please lift it towards

@@ -8,6 +8,8 @@ year: 2016
 duration_min: 171
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 now gold is your aim gold tried in the fire is your aim no more sand and hay h a track full of hay and two track FS articulator 16 wheeler f with wood cannot compare with my one bar of gold including the track itself I'll buy the track also so you are walking around looking very impressive with your huge tracks and I just have my small piece of gold I have more than you have so don't try to impress people try to impress God don't try to have something that is impressive to to men try

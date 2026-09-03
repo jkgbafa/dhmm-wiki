@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/9hzZv2lmAtbM/"
 duration_min: 62
 source: "whisper"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 How many want to be a priest? Huh? You want to be priests? Are you sure? Yes.

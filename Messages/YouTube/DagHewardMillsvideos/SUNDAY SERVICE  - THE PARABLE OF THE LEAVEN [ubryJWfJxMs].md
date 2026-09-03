@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ubryJWfJxMs"
 duration_min: 43
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 turn with me to Matthew chapter 13 we thank God for the day that he marched through into Jerusalem into just a week before he was crucified is that not so I have been sharing about the parables of Jesus and I believe that these parables are very very important for us amen how many have been coming to church on Tuesdays Tuesdays alright and I've been continuing what I've been preaching here on Tuesdays actually sometimes I just preach as the spirit leads me so on Tuesdays I have been sharing a bit about about these parables now today

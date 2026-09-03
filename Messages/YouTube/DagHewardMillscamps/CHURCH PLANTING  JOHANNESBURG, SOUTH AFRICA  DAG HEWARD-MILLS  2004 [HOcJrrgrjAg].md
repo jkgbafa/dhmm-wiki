@@ -8,6 +8,8 @@ year: 2004
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number two of church planting we ask that you guide us by your spirit in Jesus name amen you may be seated hallelujah hallelujah all right now this uh morning I will be sharing with you I mean today I'm going to be sharing with you uh more things about uh what we started talking about yesterday now um yesterday I I was sharing with you about what uh John Wesley had said to uh M John in the vision that he had and um I believe that that is very powerful now I want us to

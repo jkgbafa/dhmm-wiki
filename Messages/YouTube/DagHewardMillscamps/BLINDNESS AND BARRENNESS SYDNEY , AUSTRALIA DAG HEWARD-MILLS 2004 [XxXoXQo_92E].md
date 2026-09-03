@@ -9,6 +9,8 @@ duration_min: 30
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/BLINDNESS AND BARRENNESS  SYDNEY , AUSTRALIA DAG HEWARD-MILLS  2004 [XxXoXQo_92E]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Oh yes, oh yes, oh yes, oh the library, the lingros, the literal age, then no good. Oh yes, oh yes, God, oh yes. Oh yes, God, oh yes, so thank you. Thank you. Thank you for your blessing.

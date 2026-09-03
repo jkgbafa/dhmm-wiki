@@ -8,6 +8,8 @@ year: 1999
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit"]
 ---
 
 welcome to track number eight of love and the mega church see some of these things otherwise I question the tongues you are speaking amen if you claim to be anointed after 3 months after 6 months after a year if I do not see the long-term effect I question whether you are really a person filled with the Holy Spirit or not I remember once when we first had a a dog in our house I was waiting for the dog to develop and to start backing a year past there was no back I remember when I traveled

@@ -4,6 +4,8 @@ book: "How You Can Preach Salvation"
 book_number: "027"
 chapter_number: 6
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Salvation"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/salvation"]
 ---
 
 ### Salvation Message 4: 

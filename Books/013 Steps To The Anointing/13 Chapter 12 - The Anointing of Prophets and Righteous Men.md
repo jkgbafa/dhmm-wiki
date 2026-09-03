@@ -4,6 +4,8 @@ book: "Steps To The Anointing"
 book_number: "013"
 chapter_number: 13
 type: book
+topics: ["Anointing", "Anointing/Kinds and Waves of the Anointing"]
+tags: ["topic/anointing", "topic/anointing/kinds-and-waves-of-the-anointing"]
 ---
 
 ## Chapter 12

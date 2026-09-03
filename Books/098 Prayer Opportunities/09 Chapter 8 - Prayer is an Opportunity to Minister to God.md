@@ -4,6 +4,8 @@ book: "Prayer Opportunities"
 book_number: "098"
 chapter_number: 9
 type: book
+topics: ["Ministry and Pastoring", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer"]
 ---
 
 ### Chapter 8\

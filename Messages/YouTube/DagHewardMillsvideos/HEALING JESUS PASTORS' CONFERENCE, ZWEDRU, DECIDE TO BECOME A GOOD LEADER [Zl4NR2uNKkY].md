@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Zl4NR2uNKkY"
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 before we receive the servant of God to fill our hungry hearts and to give direction to our lives and our ministries I want us to receive the value once again to bless us with a song to prepare our hearts to receive God's amongst us we got us may your spirit dwell within us we gather may we Chloe by your name no we well done I know how begin to worship we won't be blessed because we came we won't be blessed because we can't we gotta be a spirit what we did nah we gotta marry Chloe

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=1lmN1oFwH3I"
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 you may be seated now I I was telling you that humility is by a formula either the formula of being a child or the formula of of being a servant so always ask yourself does a child do this or does a servant do this then it will help not you see I'm not preaching to you I'm preaching to us I part of this preaching it's not like I am humble and I'm telling you to be humble no no humil humility is not something you can say that that you are it's something you have to rather

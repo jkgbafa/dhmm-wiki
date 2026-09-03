@@ -9,6 +9,8 @@ duration_min: 101
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/KWEKWE, ZIMBABWE  THE POWER IN THE BLOOD OF JESUS  HEALING JESUS CRUSADE  DAG HEWARD-MILLS  2016 [AbF7_YaHl54]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Why don't you lift up your sink? Hallelujah. Oh, we're so everybody lift up your right hand and sing Jesus Laussita Musita sous it's a Jesuit Music so it's a Jesuit Musita sousita Why don't you lift up your sink when I symbolota enough so good and I'll die so cool to matter so cool so good and I'm cool so good Are you ready? With your hands together my wakouna Jesus Nemo No Kuna Mata Lucy Mountain Notawana Canditi Sabani say the Kawana Shama Canditi Oh Fuga Jouna Matkawanawana Canditi Are you ready better cuna testo bag we better better kunach soya and the potato Are you here?

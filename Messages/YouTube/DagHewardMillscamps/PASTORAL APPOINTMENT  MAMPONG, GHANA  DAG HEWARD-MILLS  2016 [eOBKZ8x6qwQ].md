@@ -8,6 +8,8 @@ year: 2016
 duration_min: 38
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 praise the Lord hallu praise the Lord hallelujah you may please be seated are you excited to be in the house of the Lord oh I said are you excited to be here this evening ask your neighbor are you enjoying the camp are you catching the anointing are you joining the Army of hard followers what are they saying powerful wow we want to go through some of the things that Bishop has been sharing with us very quickly we have looked at um I believe that the last thing that um Reverend Le took us through was the

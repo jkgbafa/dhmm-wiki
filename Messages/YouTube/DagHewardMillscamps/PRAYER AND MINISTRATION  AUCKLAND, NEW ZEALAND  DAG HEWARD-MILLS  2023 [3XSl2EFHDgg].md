@@ -8,6 +8,8 @@ year: 2023
 duration_min: 46
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Jesus thank you receive the power of God and the grace of God experience your Mighty presence with me every Power of the enemy is broken receive in the name of Jesus receive in the name of Jesus than for your thank you thank you it's finished it's finished oh yes increase the volume of your music a little please in the name of Jesus power of God is breaking Every Chain Jesus name father thank you for the Lord th God in the midst of thee he is a mighty God he will save he will rejoice over the

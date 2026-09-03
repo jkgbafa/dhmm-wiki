@@ -8,6 +8,8 @@ year: 2024
 duration_min: 22
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Oh, clap your hands together for Jesus. Amen. Can we take our seats, please? Are you enjoying yourself? Are you catching an anointing?

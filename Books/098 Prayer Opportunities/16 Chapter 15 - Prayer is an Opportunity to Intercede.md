@@ -4,6 +4,8 @@ book: "Prayer Opportunities"
 book_number: "098"
 chapter_number: 16
 type: book
+topics: ["Prayer", "Prayer/Intercession"]
+tags: ["topic/prayer", "topic/prayer/intercession"]
 ---
 
 ### Chapter 15\

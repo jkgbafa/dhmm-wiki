@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2024
 source: "autocaption"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 So Ecclesiastes chapter 9 vers 11. I love it. Beautiful. Now I returned and I saw under the sun that the race. Okay, let's everybody. Today is a very important day for you. If you are here, today is a very important day. Because today God is going to show you something but it's going to now depend on whether you are wise enough to apply it in your life. Yes. Whether you can apply it cuz a lot of people cannot apply it. Did you understand what I was saying that people know things but they cannot apply it?

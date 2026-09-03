@@ -8,6 +8,8 @@ year: 2025
 duration_min: 69
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Good morning, good morning, good morning, and welcome, welcome, welcome once again to a flow Sunday service with Bishop Dag Hewitt Mills. Once again, it's a blessing to have you with us. Uh, we want to hear from you, so make sure you like, like the video, and comment. Make sure you're liking and your commenting. Comment, tell us that you're here, tell us where you're flowing from, tell us even which which country you're in, what time it is, where you are, whatever the time of day it is, it's a blessing to have you with us.

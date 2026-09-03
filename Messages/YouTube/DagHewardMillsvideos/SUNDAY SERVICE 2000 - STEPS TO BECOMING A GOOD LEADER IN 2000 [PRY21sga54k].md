@@ -8,6 +8,8 @@ year: 2000
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 father we give you thanks for this morning you are worthy of our praise we your people gather in this place and say thank you may your name be honoured and exalted in Jesus name Amen give the Lord a hand clap wherever you are amen and shake about five people and welcome them into the house of the Lord welcome them may may I may I may I mean how many love to be in the house of the Lord I said how many love to be in the house of the Lord all right okay I love to

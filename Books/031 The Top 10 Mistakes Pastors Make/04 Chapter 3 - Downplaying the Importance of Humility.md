@@ -4,6 +4,8 @@ book: "The Top 10 Mistakes Pastors Make"
 book_number: "031"
 chapter_number: 4
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ### Chapter 3\

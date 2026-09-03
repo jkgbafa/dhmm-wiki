@@ -8,6 +8,8 @@ year: 2023
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Father, thank you for the great blessing of this morning. We ask you to fill us with the mighty holy spirit, guide us into your perfect will. Thank you for the spirit of revelation. Lift your hands and ask God for the spirit of revelation, Jesus, to fill you with the spirit of revelation and wisdom, understanding, and thank you, God. The spirit of revelation Let every soul be in. Every soul should come in. Don't hold anybody there. No one like that the spirit of revelation, Lord, the spirit of revelation, Lord, in the knowledge of Him, in the

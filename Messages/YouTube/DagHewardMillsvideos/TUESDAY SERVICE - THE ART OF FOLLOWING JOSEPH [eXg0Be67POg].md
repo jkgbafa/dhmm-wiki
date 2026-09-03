@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=eXg0Be67POg"
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 well I catch my head when we ran off charlie rather we found there and I love him for that one say sighs OH I wanna be your family forever and some on a follow you no matter whatever the cause I'm gonna count on there's no well I send my child to heaven water gun oh she ready to stand for I will see her to resign her live her painful breathing wide and full of the one who bore the nails and ground up and I wanna be forever and now not a father you no matter whatever

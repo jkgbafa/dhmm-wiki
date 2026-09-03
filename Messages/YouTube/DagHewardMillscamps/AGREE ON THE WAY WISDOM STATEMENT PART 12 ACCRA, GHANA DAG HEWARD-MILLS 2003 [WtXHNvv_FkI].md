@@ -9,6 +9,8 @@ duration_min: 83
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/AGREE ON THE WAY WISDOM STATEMENT PART 12  ACCRA, GHANA  DAG HEWARD-MILLS  2003 [WtXHNvv_FkI]]]"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Welcome to track number 12 of Agree on the way. Chapter number one. Chapter 9. Okay, verse 7. Holy Spirit, we ask you to lead us to the end of this camp in Jesus' name, Lord.

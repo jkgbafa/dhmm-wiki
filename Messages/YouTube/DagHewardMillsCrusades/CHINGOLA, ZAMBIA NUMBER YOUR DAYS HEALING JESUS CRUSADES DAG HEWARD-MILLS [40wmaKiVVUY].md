@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=40wmaKiVVUY"
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Do you believe Jesus is here tonight? Lift up your left hand. Do you believe Jesus will touch you? Lift up your right hand. And put your hands together for Jesus.

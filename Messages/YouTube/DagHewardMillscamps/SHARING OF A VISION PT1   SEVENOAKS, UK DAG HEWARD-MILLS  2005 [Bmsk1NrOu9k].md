@@ -8,6 +8,8 @@ year: 2005
 duration_min: 6
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 welcome to track number four of birthday Kwa um basically I I dream that um there are some workmen who had just come to the house I mean I had finish it so they came to nail the small sign post to say Dr Dr you are studying what now um environmental science environmental science in what aspect of environmental science you are doing PhD yeah you've done Masters already in what environmental science you are doing PhD in what aspect of Waste Management waste management doctor of waste management doctor of where to put your toilet doctor off rubbish

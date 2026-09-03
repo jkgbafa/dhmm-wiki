@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=uATxjXd46cc"
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 indeed he's our Lord and His presence is the very edge and we breathe I don't know without his present oh where you speak I don't know where I was being would have been lost by now the CRA Persei you're holy forever living in me living this is my daily bread this is why Billy brighten my day so very words everywhere for sense to me I'm not good Ally ha I ah Oh we Heather I've read Lestat once more Lee odden Opry your holy presence you're holding press there leaving and me this is my daily bread

@@ -8,6 +8,8 @@ year: 2001
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 welcome to track number 12 of pasts of thousands now we are moving on to the next topic lady Pastor Sarah lady Pastor Sarah lady Pastor Sarah was one of the mega church pastors and she was promised a mega church I just want to give you three keys that took lady Pastor Sarah out of um Four Keys amen three or four Genesis chapter 11 11 verse 13 read it what does it say but Sarai was Barren she had three children she had what no child amen what time is supper 6:00 shop Genesis chapter 16 verse number

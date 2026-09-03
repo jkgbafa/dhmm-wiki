@@ -8,6 +8,8 @@ year: 2010
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 now um I want to move on to another um subject still on predestination and that is the predestination of Jesus Christ unlike other religious figures like you or me we were not predicted to come do you understand but Jesus Christ was predetermined I mean I believe we were also predetermined but our our importance is far less than Christ it's not written but the predetermination that Christ would come to save you and me is there amen and you see I'm just going through this is just the background I'm trying to give you a certain background for

@@ -9,6 +9,8 @@ duration_min: 139
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/THOUYANDOU, SOUTH AFRICA  WHO WILL GO TO HELL  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2014 [wv7jBnjvfUM]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Are you ready? Today is the last day. Give the Lord the best shout of friend. Paris says, give the Lord a shout. Sweet one.

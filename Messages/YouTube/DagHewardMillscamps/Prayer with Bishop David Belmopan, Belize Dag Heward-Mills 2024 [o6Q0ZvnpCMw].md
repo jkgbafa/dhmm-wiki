@@ -8,6 +8,8 @@ year: 2024
 duration_min: 11
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah. Amen. Amen. Are we praying? Yes.

@@ -9,6 +9,8 @@ duration_min: 30
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/MUSIC INTERLUDE  GTWC KAMPALA  DAG HEWARD-MILLS  2025 [cllp3kw8nYc]]]"
+topics: ["Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 Turn to Galatians chapter five verse seven He saved you He saved me He saved us for all time What about others He saved you He saved me What are we doing for others Do you believe in trees The Holy Spirit trees Thousands of men Running down the street They didn't know that the road was leading to a steep and death deeply And down into the fire Oh He saved you He saved me Oh yeah He saved us for all time What about others Oh He saved you and He saved me But what are we doing for others Multitudes Multitudes are waiting in the valley of decision Oh yeah They're waiting They're hoping to hear the gospel They don't know Jesus Christ They are lost and dying so yeah He saved you and He saved me Oh He saved us for all time But what about others What about others?

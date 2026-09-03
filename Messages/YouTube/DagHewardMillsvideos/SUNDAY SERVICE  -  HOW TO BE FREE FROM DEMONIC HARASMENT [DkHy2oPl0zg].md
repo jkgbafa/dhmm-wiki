@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=DkHy2oPl0zg"
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 why would they call to me Oh okay I Oh Oh it's all the handsome and Oh will Oh Oh good your head Oh well when I the wish when I tell ha Oh ha okay we want to continue poison the loyal we are often the sacrifice of myth grill hallelujah you're giving God in this grill and I believe here lastly I believe please please look good on you so you want to take out your hand catcher if you want to put on your dancing shoes it is video she is going to be a problem including

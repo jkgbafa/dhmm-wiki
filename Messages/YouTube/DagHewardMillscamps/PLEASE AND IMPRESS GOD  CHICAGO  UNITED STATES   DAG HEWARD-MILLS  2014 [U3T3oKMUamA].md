@@ -8,6 +8,8 @@ year: 2014
 duration_min: 136
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Hallelujah hello I bless the day I found you I want to stay around you serving in your house Lord do when your will I don't want to be with those who leave you those who forget about you those who accuse you those who pretend each time I pray Lord each time I meditate upon your kindness in calling me I want to serve you Jesus I want to do your will and I want to love you forever more I bless the day you called me I bless the day you chose me the day you anointed me

@@ -8,6 +8,8 @@ year: 2016
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 number one is love that gives you a great vision number two is Faith Hebrews 11 verse1 now Faith is the substance of things hoped for and the evidence of Things Not Seen for by it the elders obtained a good report now through faith we can have a good report in heaven that means is that by believing things believing things and believing in things you can have a good report in heaven the kingdom we have come into is a kingdom that gives reports my report is being written now as I'm speaking wow and your report is

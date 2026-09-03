@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 1999
 source: "autocaption"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Turn with me to James chapter 5 and uh we will continue. I just mentioned something there and then we jump into what we are uh going to study today. Now the word of God is very important and uh as we come before the word you must be humble so that God can speak to you. Amen. Amen. James chapter 5 um verse 16. We we we are studying the book of James. We've been studying the book of James for some years. So verse 16 says, "Confess your faults one to another. Pray for one another that you

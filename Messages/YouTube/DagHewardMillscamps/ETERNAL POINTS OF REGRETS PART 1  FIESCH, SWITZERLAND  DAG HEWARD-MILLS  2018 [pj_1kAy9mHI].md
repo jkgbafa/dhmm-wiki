@@ -8,6 +8,8 @@ year: 2018
 duration_min: 157
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Hallelujah, hallelujah, Father, we are very grateful for this time in the name of Jesus, amen, amen. Magnificent, sit down, we are going to have some very powerful things, and I believe you will receive something. No crying, no GR, ple and gr of one Jesus, different asion, these are prophets of regret, grinding, grinding teeth, especially in rage, in pain, V D, with rage, with, with, that's what it means to cry and grind teeth. If you say that someone grinds their teeth, it means that they are angry or frustrated about something, and crying and grinding your teeth

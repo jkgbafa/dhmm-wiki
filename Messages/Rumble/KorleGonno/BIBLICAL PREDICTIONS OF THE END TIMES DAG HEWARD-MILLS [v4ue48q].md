@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ue48q/"
 duration_min: 48
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Now, the Bible is telling us here that in the last days, the latter uh days, there will be certain characteristics of people, people are going to behave in a particular way. Now, somebody would say, have people not always behaved in that way? You know, well, people have always behaved in in a certain uh evil way, but in the last days, and we are in the last hours of the last days, these behavior patterns are going to be accentuated, if you like, they are going to be aggravated, they are going to become more acute, more noticeable, they will characterize people's behavior, will characterize their lives.

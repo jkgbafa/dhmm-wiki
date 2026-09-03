@@ -8,6 +8,8 @@ year: 2001
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number six of Victory pegamos hallelujah amen amen amen hallelujah amen hallelujah hallelujah amen hallelujah hallelujah amen amen all right okay now we are listen to me when you understand something okay Billy you get it when you understand something it's easier to handle it when you next time go to the zoo remember what I'm saying now when you go to the zoo you may walk by a little Road like a little a small path like this and you see a little wer and then you see a very dangerous animal just here you can

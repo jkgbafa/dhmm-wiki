@@ -8,6 +8,8 @@ year: 2009
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances"]
 ---
 
 And that's why I wrote this book, Take Up Your Cross. God didn't send his son into this world to give us more money, so that we would be more and more and more. No, that's not the Gospel of the Lord Jesus Christ. The Bible says that God sent his son into the world so that whoever believes in him will not perish, will not go to hell, but will have eternal life. That's why God sent his son. Now, when you hear pastors preaching, including me, sometimes you wonder if we're in a bank or a seminary or

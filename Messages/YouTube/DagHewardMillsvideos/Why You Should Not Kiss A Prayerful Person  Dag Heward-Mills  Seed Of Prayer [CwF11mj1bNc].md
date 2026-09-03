@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=CwF11mj1bNc"
 duration_min: 3
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 judas came to kiss himself i didn't know he was kissing a prayerful man the man you are kissing his prayed for three hours before you kiss him he started to die as soon as he kissed him that was it was he was dead he started to die he died a few hours within 24 hours he was dead he died before jesus was crucified jesus was crucified just a few hours later judas died started died he was alive he was alive he was alive the bible says and he went and passed down the pieces of silver

@@ -8,6 +8,8 @@ year: 2012
 duration_min: 228
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 what it does not mean to be faithful unto death what it does not mean what it does not mean number one it does not mean to be faithful until you finish University many people have a verse a different verse from this verse in their heart faithful until you finish University have you noticed have you noticed our young people are very zealous very happy very flowing but some people seem to have a different Bible which is saying be the same be constant be unchanging until you finish univers yeah and that is why when they finish University

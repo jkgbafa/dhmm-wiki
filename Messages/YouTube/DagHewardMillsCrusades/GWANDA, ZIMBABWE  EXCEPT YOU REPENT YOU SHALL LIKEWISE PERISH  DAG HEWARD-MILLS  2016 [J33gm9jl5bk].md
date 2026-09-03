@@ -8,6 +8,8 @@ year: 2016
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Repentance"]
+tags: ["topic/salvation", "topic/salvation/repentance"]
 ---
 
 Hallelujah Gua Hallelujah give Jesus the best shout of Praise Hallelujah give you could do me hallelujah oh put your hands together oh oh come on let sing with me good to me oh I'm everybody lift up your right hand and say could do could way everybody sing why don't you give Jesus a shout come on give Jesus a shout oh away amand everybody say Amen j amand i lift up your voice and sing J everybody sing J oh yeah la la la oh la hey am lift up your right hand and sing J we love

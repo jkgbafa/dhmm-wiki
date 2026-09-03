@@ -9,6 +9,8 @@ duration_min: 98
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MASVINGO, ZIMBABWE  THE GREATER LOVE OF JESUS  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2016 [k5JcL1SjZWs]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah. Clap your hands for Jesus. Tonight. It's my joy to welcome to the pulpit. The chairman of the board of trustees of the Healing Jesus campaign in our city here to bring us his welcome remarks.

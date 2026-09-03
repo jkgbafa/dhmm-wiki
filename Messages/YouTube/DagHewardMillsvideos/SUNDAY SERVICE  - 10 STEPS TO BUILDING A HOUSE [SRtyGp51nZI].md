@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SRtyGp51nZI"
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 I've been to a lot of places and nothing millions of very easy but there were times that affair so all alone but in my lonely hours yes those precious resolutely our mama mama Jesus listen doll I wasn't over that's the reason nothing daddy oh yeah I've learned to me ah kind of moving on a planet rustic believe and I'm left or trust it done yes I have yes I have so what thank God for the mountains and I sent him for the bye and I think here for the storms is brought my food Kevin never

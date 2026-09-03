@@ -8,6 +8,8 @@ year: 2009
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 all right I also want to say thank you to Pastor Oliver for the invitations he's always so gracious treats me so well I feel so blessed to be here and um honestly um when you go somewhere you you you would there are places that I've been I remember one church I went to when I got into the car I said in myself I will never come back here yeah I will not when when invite me I would say that um my schedule does not allow I have another invitation that I hey so but um it's

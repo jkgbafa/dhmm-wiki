@@ -9,6 +9,8 @@ duration_min: 41
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/STEPS TO RECEIVING THE HOLY GHOST  MARAISBURG, SOUTH AFRICA  DAG HEWARD-MILLS  2002 [75NQ51bYTJU]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Holy Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-holy-spirit"]
 ---
 
 Welcome to track and faith of grace and peace. Okay. The next step to receiving the Holy Ghost is found in the next verse. And when he had spoken, Acts chapter one. What's the first step?

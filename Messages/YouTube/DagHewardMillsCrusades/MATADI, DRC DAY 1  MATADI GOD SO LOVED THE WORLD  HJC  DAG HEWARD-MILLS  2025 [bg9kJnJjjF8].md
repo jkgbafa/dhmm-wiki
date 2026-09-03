@@ -8,6 +8,8 @@ year: 2025
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit"]
 ---
 
 I Better. Oh yes. Salut. Oh, my daddy. Look around. Glor. Oh sh. on your soul. That's your Love me. Love me. Rather glorio. Oh, I heaven. Oh, I glory. Oh, hallelujah. Hallelujah. Hallelujah. Hallelujah. I can hear you. Hallelujah. The time has come for your blessing. God has sent his anointed servant. He has traveled the whole world and wherever he goes confirms his word with signs and wonders. Tonight is the turn of my party. Your miracle is on the way. Deliverance are powerful. Let us smile. Oh my god. Hallelujah. Hallelujah. Lift up your hands. Every lifting

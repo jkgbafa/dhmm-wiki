@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Brl0d4xNF60"
 duration_min: 73
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah what is the first reason why you must read a book oh number one number one is what the information in a book will make the difference in your life it will change your life amen did you have that do you understand what I'm preaching how many understand what I'm preaching you can understand it so what is the first reason why you must read a book it will change your life number two is what direct what contact you get direct contact amen number three you get experience experience through the person book that is written you

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 We are going to be ending. But before we end chapter 11, initiative initiative which means you started it. Yes. You started it initiative initiative. Yes. Wow. Wow, you guys look wild. Yes. If you read the story of Gideon, Gideon initiated the action. Many pastors we sit in our offices and other people initiate the activity for you. you don't have the initiative. You see when you are a pastor you can become like uh you just be receiving visitor. Oh this one wants to see you. This one wants to see you. This one. So your work is

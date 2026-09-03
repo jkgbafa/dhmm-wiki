@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hHEes9-Y2Xs"
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Hallelujah, glory to God and let's welcome sister vivalab shout to the Lord Hallelujah clap clap for Jesus if I have all the things of this world and lose Jesus I lose everything if I have Jesus if I have Jesus if I have Jesus I have everything it is more precious than everything so rise rise and dance to the Lord if I have all the things of this world and lose Jesus of everything if I have Jesus I have everything it is more precious than if I have Jesus rise up I have Jesus if I have

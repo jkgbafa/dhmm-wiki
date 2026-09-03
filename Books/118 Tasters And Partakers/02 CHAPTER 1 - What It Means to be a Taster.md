@@ -4,6 +4,8 @@ book: "Tasters And Partakers"
 book_number: "118"
 chapter_number: 2
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ### CHAPTER 1\

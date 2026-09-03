@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=BiWc2EQH0Ik"
 duration_min: 146
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 now that I know there's only one God in all of beer you're my only God and I want you to know my love for you I'll never let go cuz I loved you Oh all I want if I live my life again how fun for you I love you and there so once I love you coz you gave us you gave your doll and you took my life or doorbell do cage or die just and me if we serve you for the rest of my day Oh Oh my lord and my god I can't believe

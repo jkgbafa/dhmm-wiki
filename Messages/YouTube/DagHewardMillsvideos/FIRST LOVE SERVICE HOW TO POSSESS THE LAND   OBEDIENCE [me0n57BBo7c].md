@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=me0n57BBo7c"
 duration_min: 84
 source: "autocaption"
 match: "exact"
+topics: ["The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you just keep on typing you just keep you just keep on I think but the sweetest victory thank you hunger season handle s yeah how are you waving Oh we are at the end of make sure you have a yellow hallelujah are you glad to be here this morning let us pray father thank you for today thank you for the great blessing that you've given to us we love you we thank you we praise you we ask you to fill us with your Holy Spirit and qaida let your will be done in Jesus name Amen

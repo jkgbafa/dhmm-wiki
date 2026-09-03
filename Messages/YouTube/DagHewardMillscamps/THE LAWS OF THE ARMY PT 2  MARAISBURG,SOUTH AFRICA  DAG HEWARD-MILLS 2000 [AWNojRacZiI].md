@@ -8,6 +8,8 @@ year: 2000
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 welcome to track number eight of the work of the ministry it was early so people have not yet come to the uh OPD what do you call OPD here OPD people have not yet come to the OPD are not come I waited and waited and waited and in the end a lot of people came and I still had to Bath and change and I said this delay is now bringing disgrace so delay sometimes bring disgrace mercy so I said that instead of committing fornication let me commit love and some of you are disgracing yourselves there

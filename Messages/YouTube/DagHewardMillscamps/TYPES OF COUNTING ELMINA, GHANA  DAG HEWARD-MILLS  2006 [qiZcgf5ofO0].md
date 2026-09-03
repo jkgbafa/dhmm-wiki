@@ -8,6 +8,8 @@ year: 2006
 duration_min: 133
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 right all right it is it is important to count now in this book we have the different types of counting type one is counting the number of human beings physically present type two total number of people on the church registered type three on page 28 the number of people over total number of days so like if there are 80 of us here and we are here for 3 days we say 40 people were in attendance all right are you there that's how some people count another one is the total capacity like this room oh we

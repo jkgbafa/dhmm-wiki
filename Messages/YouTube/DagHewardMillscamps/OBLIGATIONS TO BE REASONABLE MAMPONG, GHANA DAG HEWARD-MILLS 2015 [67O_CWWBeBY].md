@@ -9,6 +9,8 @@ duration_min: 89
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/OBLIGATIONS TO BE REASONABLE  MAMPONG, GHANA  DAG HEWARD-MILLS  2015 [67O_CWWBeBY]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 I'll be thinking of you thinking of you and though we far apart you're in my heart and there you always think till we meet again someday I'll be thinking of you I'll be praying for you I'll be praying for you praying all your hopes and dreams that they will come true and should there be some rain I know the sun will shine again because I'll be praying for you and if you have some problems don't let them ever get you down just remember just remember God's faith is always all right and I hope you tomorrow

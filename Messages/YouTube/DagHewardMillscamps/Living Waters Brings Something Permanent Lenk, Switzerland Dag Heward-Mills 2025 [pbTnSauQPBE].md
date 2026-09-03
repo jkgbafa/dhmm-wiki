@@ -8,6 +8,8 @@ year: 2025
 duration_min: 67
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Father we are grateful guide us in Jesus name. Amen. Amen. Now some people are saying that the Italianos are not yet here. So we should wait till we do outreach in Italy before we do the translation.

@@ -8,6 +8,8 @@ year: 2020
 duration_min: 188
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 We want to spend some time to pray and prepare our hearts for what seed God has for us in this wonderful conference. Can I have an Amen? And I know it's going to be a blessing. Hallelujah. We want to pray to God for grace and um I believe that God is going to bless us once again.

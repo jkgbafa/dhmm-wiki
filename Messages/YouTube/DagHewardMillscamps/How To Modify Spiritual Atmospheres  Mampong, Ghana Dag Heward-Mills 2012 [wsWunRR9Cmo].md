@@ -8,6 +8,8 @@ year: 2012
 duration_min: 138
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 now spiritual atmospheres how to modify your spiritual atmospheres wow wow are you ready you sure you're ready number one actively change your friends I thank we must clap our hands for what is going on here it's powerful amen I'm eating the camp powerfully can you can you see things changing in your life how many of you can see some buness leing you something is moving away hey and I think you have to accept these things amen amen don't fight the the the idea that you are an African you are an African I am an African

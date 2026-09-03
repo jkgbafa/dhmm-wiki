@@ -8,6 +8,8 @@ year: 2018
 duration_min: 84
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Work and Diligence"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/work-and-diligence"]
 ---
 
 put your hands together and let's welcome our prophets Bishop dark heward Mills Hallelujah wow we're excited to be here amen let us pray father thank you for today and for the blessing that we have to be in your presence we pray that you guide us lead us into all of your perfect will thank you Lord in Jesus name amen amen you may be seated well we bring you greetings from Milan just we're just coming from h a camp meeting in Italy yeah just for the Italian church and um they are doing very well they are

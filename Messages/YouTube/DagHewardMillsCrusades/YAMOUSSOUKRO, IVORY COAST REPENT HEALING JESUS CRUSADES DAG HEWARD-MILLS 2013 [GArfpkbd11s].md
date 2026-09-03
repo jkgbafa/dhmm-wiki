@@ -8,6 +8,8 @@ year: 2013
 duration_min: 166
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Repentance", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/salvation", "topic/salvation/repentance", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Le roi de roi Alléluia Christ puissant Alléluia Allé magnifique et ma difiant son nom son nom son nom et ma fion son nom Alléluia Alléluia touché ma toucher du ma touché qui m'a touché ma touché ma touché ma touché ma touche sans mon miracle sans mon mira sans mon mira Alléluia Alléluia Alléluia Alléluia Alléluia Alléluia Alléluia Jésus va toucher qui m'a touché ma touché qui m'a touché ma toucher qui va toucher ma toucher qui m'a touché ma toucher qui m'a touché Jésus m'a béni ma vie Jésus m'a béni qui m'a belle Jésus ma touche qui

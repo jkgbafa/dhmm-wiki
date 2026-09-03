@@ -8,6 +8,8 @@ year: 2016
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 tonight the campaign we are enjoying is a result of the hard work of our Pastors in this city and we want to welcome the chairman of the central Planet Committee of this campaign to come and also bring us his opening remarks let's welcome our chairman blise the Lord Hallelujah taste and see that the Lord is good taste and see that the Lord is good tonight you are going to see the goodness of the Lord hallelujah without any waste of time our honorable guest from abroad you are welcome I greet you in the wonderful name of

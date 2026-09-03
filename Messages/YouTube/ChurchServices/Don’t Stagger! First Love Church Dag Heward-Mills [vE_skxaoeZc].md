@@ -8,6 +8,8 @@ duration_min: 123
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/Don’t Stagger!  First Love Church  Dag Heward-Mills [vE_skxaoeZc]]]"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 One day you'll be preaching. There's somebody here. You'll be preaching and you'll give a testimony. People will fall out of their chairs. They'll say, you, you've done this before.

@@ -8,6 +8,8 @@ year: 2007
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 praise the Lord hallelujah amen you all Welcome to our very first world missions conference put your hands together for the Lord amen and this is a meeting about missions for mission-minded people amen and I believe that our whole church our entire church is becoming more and more involved with missions and mission-minded say amen and I believe some of you will become missionaries from this church do you believe it powerful amen well without wasting any time let's welcome our father the bishop D hward Mills shall we pray thank you Jesus just speak in tongues for a

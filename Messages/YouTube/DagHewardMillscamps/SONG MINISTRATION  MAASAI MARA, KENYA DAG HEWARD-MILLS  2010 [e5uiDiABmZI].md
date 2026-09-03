@@ -8,6 +8,8 @@ year: 2010
 duration_min: 34
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 St a PR welcome to track number five of the privilege Sparrow up above I am invalid in his love and I trust him like those little ones he feed when I pledge my wife to heaven for the goel though our love each pass and day just seems to grow as I told her when we went out surely rather be found dead than to love love him more than the one who saves my soul I'm your child and I want to be in your family forever I'm your child and I'm going to follow you no matter

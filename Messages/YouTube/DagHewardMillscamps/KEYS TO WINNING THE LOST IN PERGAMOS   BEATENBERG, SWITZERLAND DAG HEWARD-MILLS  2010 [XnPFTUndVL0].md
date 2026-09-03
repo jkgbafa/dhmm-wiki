@@ -8,6 +8,8 @@ year: 2010
 duration_min: 28
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism"]
 ---
 
 welcome to track number six of advancing imp pegamos all right keys to successfully winning the lost at any cost amen page 72 two keys to winning the lost at any cost number one massive organized evangelism amen massive organized evangelism involves organizing the whole church amen are you with me listen to me especially the pastors God wants us to organize and everybody and move out as an army I want to give you a small Duty for the next three months let us take out our churches every month every week on Saturdays and on Sundays and go

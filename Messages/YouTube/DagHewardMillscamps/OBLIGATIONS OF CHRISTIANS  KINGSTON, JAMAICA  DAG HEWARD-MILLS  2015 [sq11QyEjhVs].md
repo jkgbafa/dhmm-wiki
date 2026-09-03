@@ -8,6 +8,8 @@ year: 2015
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 obligations of Christians it's now our turn amen amen I want to give you about 10 scriptures that you need to keep in your heart if you are going to really do your part amen 1 John 3:16 so now we have finished the attempt of Jesus the attempt of the Apostles and the attempt of these hero Visionaries now it's your turn what are you going to do keep these verses in your heart and you will be able to do number one John 3:16 God so loved the whole world that he gave his only begotten son that

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=KiwetWVGY80"
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 tell me to look 15 I was teaching the other service a song I don't know if we have a time now maybe we can see at once that one who controls the screens should see me after service please the one who controls the screen see me after that there are coast road this one and that one please all right let's think about our God our Savior and Oh have you gone through it already I Savior in our King the one who gave it all he came up everything let's think about the man who shared his

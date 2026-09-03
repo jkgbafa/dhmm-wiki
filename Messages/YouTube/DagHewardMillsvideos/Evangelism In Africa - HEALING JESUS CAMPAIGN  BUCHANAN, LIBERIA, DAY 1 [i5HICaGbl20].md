@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=i5HICaGbl20"
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah tonight it's a great first night hallelujah and with us yet tonight to declare tonight's campaign officially open it's the mayor of this wonderful city and county shall we put our hands together and welcome our mayor as tonight to take the microphone please put your hands together let's welcome our mirrors tonight praise the name of Jesus praise the name of Jesus when a seconded are you ready to welcome its Angelus meal are we all ready to welcome you into our pizza day let us give you a hand of applause thank you thank you thank you

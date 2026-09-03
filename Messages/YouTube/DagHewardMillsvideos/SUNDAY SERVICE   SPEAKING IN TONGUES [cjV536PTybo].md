@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=cjV536PTybo"
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 father we thank you for this morning thank you for your blessing thank you for bringing us together to service this morning we ask you for your grace help us Lord to do what is right to receive your word open our hearts let the words of this book not be sealed up before us this morning but let our hearts be open to receive of you we thank you for your blessing today in Jesus name Amen you may be seated how many how many I enjoying the helmet on it's a blessing it's supernatural air conditioner alright when

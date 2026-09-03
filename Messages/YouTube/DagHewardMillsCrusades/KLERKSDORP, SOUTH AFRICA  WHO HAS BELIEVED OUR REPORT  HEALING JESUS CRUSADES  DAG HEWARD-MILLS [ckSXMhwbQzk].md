@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ckSXMhwbQzk"
 duration_min: 136
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 we want to teach you a song quickly says I will set my face to seek the Lord do you believe that that he is a wonderful God are you ready so all you're going to sing is wonderful God wonderful God it goes like this and I will set my face to seek the Lord I will set my face to seek the Lord give my full attention to my God I will for voice I list for come here sing it out and I will set my face to seek the Lord I will set my face to

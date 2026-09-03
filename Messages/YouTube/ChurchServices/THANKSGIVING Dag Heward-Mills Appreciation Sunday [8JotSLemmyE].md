@@ -8,6 +8,8 @@ duration_min: 46
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/THANKSGIVING  Dag Heward-Mills  Appreciation Sunday [8JotSLemmyE]]]"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting"]
 ---
 
 I've been a Christian for so many years, serving the Lord and working in the church. Of the Lord being thankful reveals foolishness. The God who made the sun, the moon and the stars. We are not grateful to him. We are rather grateful to your uncle who sent you $50.

@@ -9,6 +9,8 @@ duration_min: 16
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Obedience and Church Planting  Mampong, Ghana  Dag Heward-Mills  2025 [KYtIKRJZrXU]]]"
+topics: ["Church Growth", "Church Growth/Church Planting"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting"]
 ---
 
 Number one. Why obedience is better? It is better to obey. I'm going to give you a number of reasons. It is better, it is greater to obey fully without understanding.

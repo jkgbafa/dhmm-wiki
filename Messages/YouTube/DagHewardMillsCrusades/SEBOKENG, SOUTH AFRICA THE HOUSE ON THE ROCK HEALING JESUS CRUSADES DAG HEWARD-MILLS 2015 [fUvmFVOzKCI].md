@@ -9,6 +9,8 @@ duration_min: 105
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/SEBOKENG, SOUTH AFRICA  THE HOUSE ON THE ROCK  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2015 [fUvmFVOzKCI]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Let's appreciate the choir with a hand clap tonight. I get an highly sumo. Tonight is the first night of this campaign. I believe that the great blessings lie ahead of us. I see some people walking through where people are seated.

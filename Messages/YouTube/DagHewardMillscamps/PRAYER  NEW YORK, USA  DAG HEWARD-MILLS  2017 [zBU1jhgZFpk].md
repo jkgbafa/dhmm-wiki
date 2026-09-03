@@ -8,6 +8,8 @@ year: 2017
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wisdom"]
+tags: ["topic/prayer", "topic/wisdom"]
 ---
 
 everybody be in prayer most of us haven't prayed this morning so be praying this a chance pray for wisdom everybody pray don't look at anybody and be praying Lord give me the spirit of wisdom Spirit of understanding the spirit of wisdom that Daniel had Shadrach and Mish andigo give me the wisdom for High light is come and the glory of the Lord is risen upon you behold the darkness shall cover the Earth and cross Darkness cover the people but the Lord shall arise eyes upon thee and His glory shall be seen upon thee but the

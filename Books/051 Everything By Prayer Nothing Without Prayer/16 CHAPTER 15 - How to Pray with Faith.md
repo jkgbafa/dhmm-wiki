@@ -4,6 +4,8 @@ book: "Everything By Prayer Nothing Without Prayer"
 book_number: "051"
 chapter_number: 16
 type: book
+topics: ["Faith", "Prayer"]
+tags: ["topic/faith", "topic/prayer"]
 ---
 
 ### CHAPTER 15\

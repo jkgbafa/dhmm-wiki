@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=CPFj8b3uz64"
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 do you love God Eskimos immature I said do you love doing Eskimos images are you sure you love down let's hear the word damages Wow God is going to change our entire ministries are going to change by this one thing loving God not Minister artificial Jesus but it shows the damages I love God centered God is the one I love education and the good way for you to see that you love God is to ensure that these other labs are nothing musashi recover the major if ok with us with I assume because they don't short

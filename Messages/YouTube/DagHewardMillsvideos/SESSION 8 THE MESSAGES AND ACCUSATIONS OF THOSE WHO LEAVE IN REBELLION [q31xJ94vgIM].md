@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=q31xJ94vgIM"
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 This morning at the very beginning I was sharing about war and how it is necessary for the idea of war to enter your mind when you are building a church. Everybody say the idea of war must be in your mind. Unless you have the idea of war, which is what? War is compelling the opponent to submit to your will and to fulfill your will. That is it right there on the screen. Number two, is striving by force compel our opponent to submit to our will not volunte. Amen. Amen. Now as you fight to build the

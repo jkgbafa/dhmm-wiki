@@ -8,6 +8,8 @@ year: 2011
 duration_min: 41
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Wealth and Finances"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/wealth-and-finances"]
 ---
 
 these are the five evils that are going to grow number one if orinary lay people do not get involved in the ministry the principle of Christian sacrifice will be removed from the church to die in the church amen and it is very important that the principle of lay people aen in the church all right are you listening to me we need sacri sacrifice in the church so you as a late person one of the things the reason why you as a l person are being encouraged to work is so so that you will practice one

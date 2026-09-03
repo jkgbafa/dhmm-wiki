@@ -9,6 +9,8 @@ duration_min: 24
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHY DID YOU KNOW SO MUCH  CARDIFF, UNITED KINGDOM  DAG HEWARD-MILLS  2003 [Go43MQ4nU-A]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Welcome to track number 22 of Fima. And this is the last question for our camp meeting. We are ending with this. Luke chapter 12. This is a question of knowing what the right thing is and not doing it.

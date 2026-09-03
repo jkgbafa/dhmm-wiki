@@ -8,6 +8,8 @@ year: 2004
 duration_min: 53
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 how to perfect the full-time helps Ministry now we all know about the ministry of helps is that not so and when it comes to the ministry of helps we are speaking about the people who help any kind of help is help thank God he didn't say financial help spiritual help caral help whatever it helps once it helps it's in the ministry of helps it's in the department of helps are you there all right now it is one of the most important Ministries and must never be underestimated and must never been must never be reduced in

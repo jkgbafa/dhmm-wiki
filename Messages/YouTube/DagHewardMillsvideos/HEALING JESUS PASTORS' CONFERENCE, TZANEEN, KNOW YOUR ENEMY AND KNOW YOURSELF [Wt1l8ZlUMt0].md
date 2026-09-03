@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Wt1l8ZlUMt0"
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Lester Jesus you are my areolas it is your perfect that draws us to you you are my first star there is no it is your sister it is your ferpa can't talk to you now there's no that we desire there's no ransom that people dare there is no and it is your birthday now there's no that we see if I yeah there's no greater love that we could ever Oh laughs ELISA you are my first there is no flaw that can come hallelujah this morning I want us to I want to share with you what

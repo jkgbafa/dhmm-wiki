@@ -4,6 +4,8 @@ book: "Now We Are At War"
 book_number: "089"
 chapter_number: 30
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 ### Chapter 27\

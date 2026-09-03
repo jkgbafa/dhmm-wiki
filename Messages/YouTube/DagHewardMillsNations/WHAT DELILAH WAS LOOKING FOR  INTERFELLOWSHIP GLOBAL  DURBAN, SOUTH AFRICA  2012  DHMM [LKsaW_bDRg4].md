@@ -8,6 +8,8 @@ year: 2012
 duration_min: 124
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 unending but always on time unfailing but never un unmerited favor is mine undeserving oh God I receive your grace Lord Your Grace oh I need it I receive it I'm amazed so amazed when I see it I am speechless you take my bre away You Take My Breath Away wo I'm ending but always on time I'm failing but never I I'm merited favor is mine I'm deserving oh oh but I receive the I receive your grace Lord Your Grace oh I need it I receive it I'm amaz so amazed when I see it I am

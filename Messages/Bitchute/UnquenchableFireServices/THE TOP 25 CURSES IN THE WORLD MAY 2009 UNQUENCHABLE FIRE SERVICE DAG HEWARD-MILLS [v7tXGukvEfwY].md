@@ -8,6 +8,8 @@ year: 2009
 duration_min: 83
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Well done, well done, good and faithful servants, well done. When I see his precious face, what I wanna hear him say is well done. Oh, well done, well done, good and faithful servants, well done when I see his precious face, what I wanna hear you say is well done. Oh, so well done, well done, good and faithful servants, well done when I see his precious face, what I wanna hear him say is well done. Oh so well done, well done, good and faithful servants, well done when I see his precious face, what I wanna hear him say, it's well done.

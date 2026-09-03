@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6CHv-RUDwqY"
 duration_min: 6
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 hello everybody we bring you greetings much love from the sub sugu tottaly highway what a blessing to be on this highway this morning it's Sunday morning and we know that we've not yet arrived in tottaly but we are on our way and we're planning to preach tonight you know whenever we on the crew say we don't know what day is Monday or Tuesday or Wednesday we sort of get messages from people like every day Sunday for outreach every day these are some of the people that are with us today what a blessing and I'm sure

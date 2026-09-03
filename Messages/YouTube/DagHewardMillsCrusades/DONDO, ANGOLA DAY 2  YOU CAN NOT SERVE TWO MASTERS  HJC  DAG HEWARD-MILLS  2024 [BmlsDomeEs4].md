@@ -8,6 +8,8 @@ year: 2024
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Prayer/Praying in Tongues", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Amazing love, Jesus died for me. He took my sins upon himself on that cross. Jesus, Lord, your blood gave us the victory. All my life I will serve you, Lord. "Father, cry out to the Lord like this." That 's true. And truth. I love you, your immense and profound love. Vedi, suffer for me in my sins. And to die like the sky upon the earth. My God, you have separated me from my sins. His precious blood is kept in another sea. I myself must purify myself before God. That's how I'll worship you. I will praise

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=pVzDMQU3s3w"
 duration_min: 178
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 No Oh Oh Oh I wanna gaze upon your beauty to stick you in this holy face way to fix on the top again come on my face I've been assigned everything every way everything that holds all my bed is down let there's a gentleman world no fade away this one can I speak beauty oh come on all the days of my life I wanna catch up on all the line I want you think of so much I wanna be more like I wanna be wanna be a vessel you went to ah what a demonic you

@@ -9,6 +9,8 @@ duration_min: 15
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/ESCAPE FROM PHAROAH STAGE 2   SEVENOAKS, UK DAG HEWARD-MILLS  2003 [TbU02fv0l1s]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to try number two of the present this stage two when Pharaoh would hardly let us go. How many have been advised to cool down? Don't go too far with this church thing. Don't go too far with this church thing. How many have heard that advice before?

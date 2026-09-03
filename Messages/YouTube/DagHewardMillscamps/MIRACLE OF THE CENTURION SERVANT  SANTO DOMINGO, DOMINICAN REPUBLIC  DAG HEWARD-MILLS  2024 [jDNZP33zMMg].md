@@ -8,6 +8,8 @@ year: 2024
 duration_min: 73
 source: "autocaption"
 match: "exact"
+topics: ["Missions"]
+tags: ["topic/missions"]
 ---
 
 Let's observe them. Let's observe the miracle of the centurion's servant in Luke chapter 14. When he had finished all his teachings, he went into a cabin, and the body of a certain centurion approached him and said that he was sick and about to die. So it is possible that you have a servant who becomes like your son. And that happens when you are a person who can guide others. So different human beings have different spirits. Some are family-oriented guides, and others are solitary. Even in the animal kingdom, lions are family animals, hyenas are also family

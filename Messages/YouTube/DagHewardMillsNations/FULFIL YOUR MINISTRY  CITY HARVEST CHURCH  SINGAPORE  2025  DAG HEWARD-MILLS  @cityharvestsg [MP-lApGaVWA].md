@@ -8,6 +8,8 @@ year: 2025
 duration_min: 140
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 hallelujah what a blessing thank you Hallelujah let's pray father thank you for today thank you for the great blessing and opportunity that we have thank you for this chance to be here in your presence we pray that you guide that you lead us by the spirit let everything be done and said by your spirit touch every life here Jesus thank you that we will do your will and we will finish what you've called us to do thank you for City Harvest Church thank you for a blessed Church a growing Church an increasing Church a Ministry

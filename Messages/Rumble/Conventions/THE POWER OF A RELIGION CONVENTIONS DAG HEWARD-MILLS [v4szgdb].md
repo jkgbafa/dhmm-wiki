@@ -7,6 +7,8 @@ url: "https://rumble.com/v4szgdb/"
 duration_min: 103
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 I want you to turn with me if you have your Bibles. Those of you who are Christians and wrote your Bibles. Chapter 12. Matthew chapter 26. Thank you, Holy Ghost.

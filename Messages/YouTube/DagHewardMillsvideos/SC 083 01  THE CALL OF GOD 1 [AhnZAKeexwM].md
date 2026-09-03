@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=AhnZAKeexwM"
 duration_min: 91
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "The Call of God"]
+tags: ["topic/marriage-and-family", "topic/the-call-of-god"]
 ---
 
 to save you he saved me he saved us for all time what about others he saved you he saved me what are we doing for others do you believe in trees the holy spirit's dreams thousands of men running down the street they didn't know that the road was leading to a steep and deadly cliff and down into the fire whoa he saved you he saved me saved us for all the time what about others he saved you he saved me but what are we doing for other multitudes multitudes multitudes are waiting in the valley of

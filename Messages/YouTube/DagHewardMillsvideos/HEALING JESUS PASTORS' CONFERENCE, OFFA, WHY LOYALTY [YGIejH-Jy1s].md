@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=YGIejH-Jy1s"
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 this morning I'm preaching about loyalty and disloyalty what is loyalty everybody say loyalty and disloyalty and I have two important books loyalty and disloyalty leaders and loyalty and then another one called know your men your also loyalty so why is loyalty important loyalty is important number one because loyalty is the principal qualification for every Pastor First Corinthians chapter 4 verse two it says it is required in stewards that a man be found faithful faithful the word Faithful is the same word loyalty faithfulness it means to be the same you are the same you don't change

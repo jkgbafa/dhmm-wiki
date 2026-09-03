@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t9nub/"
 duration_min: 108
 source: "whisper"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 Let us pray. Father, thank you for tonight. Thank you for your word, your blessing in our lives. We are most grateful, Lord, for all that you have given to us. Thank you, Jesus, for your mercies, your kindness that allows us to be standing here today.

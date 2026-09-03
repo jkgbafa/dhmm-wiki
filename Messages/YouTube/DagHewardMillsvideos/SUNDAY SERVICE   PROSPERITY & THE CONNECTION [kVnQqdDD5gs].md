@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=kVnQqdDD5gs"
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 let's look at first Kings chapter two I just want to read a verse to you that will make him like the Bible and my god amen and like Jesus and believe that Jesus wants to bless him and prosper you Prospero Prospero excelente esta noche esta noche all right first Kings chapter 2 verse 3 guidance man the rebels are heated about guidance man I applaud that lighthouse is reaching to all those places is there not a wonderful thing you would think that they they are enough Souls everywhere you know but guidance man need guidance respect man

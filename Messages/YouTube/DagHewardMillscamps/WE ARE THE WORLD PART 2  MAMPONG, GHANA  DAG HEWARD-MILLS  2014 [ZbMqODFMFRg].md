@@ -8,6 +8,8 @@ year: 2014
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 wow I think we can start from chapter one or chapter three which one is exciting all okay so chapter one so what is the world the world is what no what are the three things that we used to describe the world it's a wild Place wild people and wild systems isn't it so we we remember we Bishop shared with us that they find it have to to actually overcome to actually overcome means that it's like there's a battle and you need to identify the enemy if you can't identify the enemy you can't fight so said

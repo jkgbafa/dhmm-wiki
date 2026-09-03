@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sz340/"
 duration_min: 169
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wisdom"]
 ---
 
 I must go away. I must go away for my work down here on earth is done. But I will be building you a place. Then I'm coming again to take you back to live with me. Why must you leave us?

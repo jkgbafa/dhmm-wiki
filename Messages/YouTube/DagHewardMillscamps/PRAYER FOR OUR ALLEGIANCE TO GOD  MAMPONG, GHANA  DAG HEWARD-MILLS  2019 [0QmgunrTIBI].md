@@ -8,6 +8,8 @@ year: 2019
 duration_min: 237
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 thank you Lord Jesus thank you Lord Jesus thank you Lord Jesus thank you Lord Jesus thank you for your holy spirit thank you for the blessed time we have in your presence thank you for your guidance and teachings thank you for being with us Lord we appreciate you we bless your Holy Name we adore you we thank you we magnify your Holy Name you alone are worthy to receive all the praise and receive all the glory receive all the honor receive all the Adoration we magnify your name in this holy Place Lord blessed be your

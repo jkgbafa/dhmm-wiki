@@ -4,6 +4,8 @@ book: "Seeing And Hearing"
 book_number: "081"
 chapter_number: 29
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ### CHAPTER 28\

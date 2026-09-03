@@ -8,6 +8,8 @@ year: 2016
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 hallelujah hallelujah if you believe Jesus is here canly lift up your left hand and if you believe Jesus will touch you today lift up the right one and put your hands together for Jesus Hallelujah let's take it again go lift up your right hand lift up right give Jesus a shout do it like this come on when I say are you here oh I are you ready are you ready are you here are you ready are you ready what condition hallelujah oh why don't you s hey everybody shout Jesus Jesus come on shout Jesus Jesus

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=W9bxvMruygo"
 duration_min: 212
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 yah yah yah yah yah bah bah Celia Celia silly under sorry Rockabye another day we are collarbone rock Kalevala long journey a kolobok kolobok kolobok kolobok zoria zoria dony yarmulke on the level one day Bella Bella Bella Bella sorry yonder a variant of a sari and lmf a rock all about Cherlapally under way Chile Chile Chile Chile luckily of us and all of all of all yeah bar-abba cava Zaria chilla Valley Zonta Kabbalah Yama Yama Yama Yama Yama just leave rentikonta right we are progressing steadily there's 24 this my son was dead and he's alive

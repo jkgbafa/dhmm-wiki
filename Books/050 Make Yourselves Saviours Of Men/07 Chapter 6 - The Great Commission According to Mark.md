@@ -4,6 +4,8 @@ book: "Make Yourselves Saviours Of Men"
 book_number: "050"
 chapter_number: 7
 type: book
+topics: ["Prayer", "Prayer/Praying in Tongues", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 ### Chapter 6\

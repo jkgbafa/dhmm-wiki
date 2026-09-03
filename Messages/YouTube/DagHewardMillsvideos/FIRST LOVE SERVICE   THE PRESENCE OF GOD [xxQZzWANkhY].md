@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xxQZzWANkhY"
 duration_min: 160
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah how many of you are becoming wiser through the testimonies and I believe this morning God is going to make you a better person as you listen to the testimonies please help me welcome Rhoda forgive us hair testimony put hands together as we welcome Rhoda to give us a testimony hi everyone my name is Rita home from legal I'm an opossum my testimony is about how and godis processes told me to get a visa to travel for very long sciences yes my parents have been trying to help me get the visa to travel outside by

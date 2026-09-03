@@ -8,6 +8,8 @@ year: 2013
 duration_min: 91
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 I believe that tonight God is going to touch our lives. Je crois que Dieu va nous toucher ce soir. Are you expecting your miracle tonight? Est-ce que vous attendiez un miracle ce soir? Are you expecting God to touch your life tonight?

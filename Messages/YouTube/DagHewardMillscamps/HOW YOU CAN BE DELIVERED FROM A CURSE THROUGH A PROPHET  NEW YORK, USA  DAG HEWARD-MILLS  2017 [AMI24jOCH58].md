@@ -8,6 +8,8 @@ year: 2017
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 now chapter 28 how you can be delivered from a curse through a prophet and by a prophet the Lord brought Israel out of Egypt hosiah 12:13 hoseah 1213 the ministry of a prophet is an amazing agency through which you can be delivered from many curses Israel was locked up in Egypt suffering under the curse of slavery God's power appeared to them through the ministry of the Prophet Moses and through the ministry of the Prophet the political power of Egypt was unraveled the military might of Egypt was neutralized the curse of bondage struggle and molestation by

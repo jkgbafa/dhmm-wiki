@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2009
 source: "autocaption"
+topics: ["The Holy Spirit", "Vision and Direction", "Vision and Direction/Hearing God", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/the-holy-spirit", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 It's very important for you to learn the art how to hear. Now why do I call it an art and why is it important? Because there is a verse I want you to turn to. First Corinthians chapter number 14 verse number 10. What does it say? There are it may be so many 1 Corinthians chapter 14:10. There are it may be so many kinds of voices in the world and none of them is without signification. That's an old word means significance. There are many voices. Amen. In the world there are many things that are trying

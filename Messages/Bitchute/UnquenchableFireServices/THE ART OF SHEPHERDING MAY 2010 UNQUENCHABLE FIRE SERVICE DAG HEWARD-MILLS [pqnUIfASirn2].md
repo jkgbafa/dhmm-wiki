@@ -8,6 +8,8 @@ year: 2010
 duration_min: 58
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Like a father feeds his children, like a shepherd leads his flood, the Lord will always guide us and show us where to walk, and in times when we have plenty, in times when we have none, he's our provider, and his mercy never starts, like a shepherd, he leads us, and like a father, he feeds us from the morning to the evening till the sun arise again, like a shepherd, he leads us, like a father, he feeds us. And feeds us from his body, we are seated at his table, partakers of his blood, children of his kingdom, purchase by his blood, like a shepherd, he leads us, and like a father, repeats us, from the morning to the evening, till the sun arise again, like a shepherd leads us, and like a father, he feeds us.

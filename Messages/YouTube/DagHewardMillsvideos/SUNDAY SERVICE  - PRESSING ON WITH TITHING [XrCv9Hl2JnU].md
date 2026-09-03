@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=XrCv9Hl2JnU"
 duration_min: 52
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 please turn with me to Philippians chapter 3 hallelujah Philippians chapter 3 and we are looking at the same general theme of forgetting the things that are behind I'm moving on to the things that are before Philippians 3 let's read our foundational scripture for this series the 13 it says brethren I count on myself to have apprehended but this one thing I do forgetting those things which are behind and reaching forth unto those things which are before amen what am i doing forgetting the things that are behind and reaching forth unto the things that lie ahead

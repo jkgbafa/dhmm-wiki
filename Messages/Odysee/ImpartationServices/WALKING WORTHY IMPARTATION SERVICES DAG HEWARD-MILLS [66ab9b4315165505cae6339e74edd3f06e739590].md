@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/walking-worthy-imp
 duration_min: 50
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 For this reason also, since the day we heard of it, we have not ceased to pray for you and to ask that you may be filled with the knowledge of his will. Amen. With all spiritual wisdom and understanding, and that he will walk in a manner worthy of the Lord. To please him in all respects. Bearing fruit in every good work.

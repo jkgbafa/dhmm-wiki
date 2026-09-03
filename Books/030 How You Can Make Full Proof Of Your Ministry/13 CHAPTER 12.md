@@ -4,6 +4,8 @@ book: "How You Can Make Full Proof Of Your Ministry"
 book_number: "030"
 chapter_number: 13
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring"]
 ---
 
 CHAPTER 12 \

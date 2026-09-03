@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JfY1IBlt0tk"
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/leadership", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 thank you Jesus for the blessing messages you put said benedictions name you know does she see a man may be seated 20 plus you now the next master key what is the first master key towards prosperity of pastors kalila premier claim it has very la Poste very today pastor number one is what he may who are supernatural provision la posición Marcio not your head receive it persevere now what is number two Nia what do tithing PL a team simply put tithing PL a team senemo number three mmm wha an acausal not cousin basil and idea

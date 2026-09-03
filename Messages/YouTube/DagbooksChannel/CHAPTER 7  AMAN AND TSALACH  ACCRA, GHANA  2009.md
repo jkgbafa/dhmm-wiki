@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2009
 source: "autocaption"
+topics: ["Anointing", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now I want to share about what I call aman and chalak in 2 chronicles chapter 20 verse 20 it says and they rose up early in the morning and went forth into the wilderness of taqua and as they went forth Jehoshaphat stood and said, Jehoshaphat, me, oh Judah, you inhabitants of Jerusalem, believe in the Lord your God, and so shall you be established. believe his prophets and so shall you prosper. Amen. This is a favorite verse for fundraising. When a pastor wants the congregation to give a lot of money, it is a good verse that

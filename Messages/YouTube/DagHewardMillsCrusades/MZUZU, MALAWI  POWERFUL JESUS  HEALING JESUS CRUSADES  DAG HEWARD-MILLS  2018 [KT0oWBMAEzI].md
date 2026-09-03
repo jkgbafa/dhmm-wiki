@@ -8,6 +8,8 @@ year: 2018
 duration_min: 157
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 give Jesus your L shout W yes yes oh yes yes yes oh yes oh yes yes yes oh yes oh yes oh yes yes give Jesus a shout Al Al oh oh yes oh yes oh yes are you here all yes oh where I'm by M veteran laar you pet forar angel all Comm p where I'm AB abrah to in the land it for wow what a blessing please take your seats quiet and now let's invite the anointed ID I found it I found it new life in Jesus Christ of love and peace I have

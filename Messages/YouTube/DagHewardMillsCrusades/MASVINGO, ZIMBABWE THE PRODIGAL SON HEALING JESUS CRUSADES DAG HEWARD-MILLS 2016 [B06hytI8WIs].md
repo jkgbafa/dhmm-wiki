@@ -9,6 +9,8 @@ duration_min: 103
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MASVINGO, ZIMBABWE  THE PRODIGAL SON  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2016 [B06hytI8WIs]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah, my single hallelujah. If you believe Jesus is here, kindly lift up your left hand, and if you believe Jesus will touch you this evening, lift up the right one, and put your hands together for Jesus Hallelujah, Jesus lift up your right hand, give Jesus away sizuba sifu nesqua lift up your right hand and say amen to squa musita musita so far Jesusqua Musita Satan Jesus Lift up your hands and sing Jesus come on and sing Jesus La La Musita Jesusqua Musita sura mesqua Musica soon Satanio Jesus come on and say Jesus Everybody must go lift up your hands and see Jesus come on and see Jesus so cuna jesu to cool everybody sing Tokuta night Tokuna matai Jesu to die Tokutae Tokuna matai Jesu Tokou tenai Tokuta nine toi tenai Tokuta Are you ready my single give Jesus your best no good so bits I shaken my candy No raida Jon the Bonusqua This is the life I used to live Nae Shushika Ne Kushumi Mitsimo Jesus Banda Kawana Jesus Are you here?

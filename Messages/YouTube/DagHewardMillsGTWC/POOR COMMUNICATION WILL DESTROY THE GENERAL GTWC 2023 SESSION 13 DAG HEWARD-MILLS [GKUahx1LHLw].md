@@ -8,6 +8,8 @@ year: 2023
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 Father, thank you for the blessing. In Jesus' name. You may be seated. Now how many were here last night when we were singing this song? Now when um our worship leader give me the art of following.

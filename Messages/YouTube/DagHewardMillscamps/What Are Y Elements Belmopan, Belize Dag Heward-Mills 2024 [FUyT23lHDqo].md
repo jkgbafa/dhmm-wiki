@@ -9,6 +9,8 @@ duration_min: 20
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/What Are Y Elements  Belmopan, Belize  Dag Heward-Mills  2024 [FUyT23lHDqo]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Amen. Let's raise up onto our feet. Let's praise up the feet. Father, thank you for this opportunity. In Jesus' name.

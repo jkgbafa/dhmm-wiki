@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=doAS8OMjMuo"
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 And I say I will son the same Miner Senior Namo show me crying sua dinina or so boss in our dinner more dinner or so not to some more dining or so tennis one more sue yes what it's on it so much and an a hen and I'm don't so both in an amendono in a hen and our men don't so for me don't so for some boy so me so yeah are you ready for tonight Woweluya I think we want more music laugh but I want to inform you my demo that there is something more important we are about to hear the word of God This is the word of God which will change your life forever Jackie One God has sent his servant to the land of crowd Mount close upano and it is because of you it is because of you and your family so don't miss this opportunity I want you to open your heart prepare yourself for salvation prepare yourself for deliverance prepare yourself for miracles yesterday there were so many miracles.

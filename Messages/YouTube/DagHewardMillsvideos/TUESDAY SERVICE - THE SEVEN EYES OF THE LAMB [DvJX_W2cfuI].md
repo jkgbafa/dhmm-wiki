@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=DvJX_W2cfuI"
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Vision and Direction", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/vision-and-direction", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh No we hold the dark day huh give me my TV is far from the people Sean very deeply display we've been thinking surmise the mall but the back of the me hurt my from the Watterson leaf has me now they say bye MA clothes in danger visitor zhukava Jesus come see in this day he will lift you by his hand out of the every way he's the mother of the CD and bill that will obey he a savior wants to see be safe no one loved look at me you gotta give us the kingdom

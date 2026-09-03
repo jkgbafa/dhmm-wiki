@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7dhDTkFau-g"
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah amen how many loves Jesus Jesus you're the sweetest name of all oh Jesus you always hear me when I call Gina thing with me about Jesus the young each time I'm home you're the Sweden Swedish name I want you to sing to Jesus Jesus is a sweet and Gina you're the sweetest a Baba ji you always hear thee when I call G you lift me up lift me up each time on your the food we dance we today and you sing it again to Jesus gee you're the sweet hey mama come on sing it

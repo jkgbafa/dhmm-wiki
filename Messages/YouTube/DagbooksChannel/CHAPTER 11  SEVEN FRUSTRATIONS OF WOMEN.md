@@ -3,6 +3,8 @@ title: "CHAPTER 11  SEVEN FRUSTRATIONS OF WOMEN"
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 of Satan is towards women. The hatred of the devil is towards women in particular because notice that so Satan or devils or demons in particular dislike women because he says I will put enmity between thee and the woman. Even though everybody had got problems and had done certain things wrong, there was a specific curse in which the serpent was going to hate the woman and the woman was going to hate the serpent for whatever reason. So now, how many can understand why the devil has attacked women in the way he does? Because God declared a

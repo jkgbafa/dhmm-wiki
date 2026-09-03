@@ -8,6 +8,8 @@ year: 2016
 duration_min: 59
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number two of where is the flock that was given thee wow your conscience is getting stronger H Now quickly our last little session how brother from today you are joining the church how a spiritual son develops into a Shepherd First Corinthians 4:17 I have sent you Timothy who is my beloved Son and faithful in the Lord who shall bring you into remebrance of my ways which be in Christ Jesus so Paul said I'm sending to you my son amen now a son is the person who can really develop into a shepherd amen

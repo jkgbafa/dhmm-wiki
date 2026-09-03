@@ -9,6 +9,8 @@ duration_min: 90
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/VICTORIA FALLS, ZIMBABWE  THE GREAT FEAST  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2016 [tk5kU5uqlfI]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Victoria force Hallelujah. Why don't you give Jesus the best shout of praise? Come on, give the Lord a shout now. Could you lay my gibona? Oh yeah, cotama say put your hands together for Jesus.

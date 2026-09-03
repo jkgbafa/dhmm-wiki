@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t9lg9/"
 duration_min: 101
 source: "whisper"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 We thank you. We praise you for your great blessing to us in these days of leading ourselves by your grace to something better, something higher. We thank you, Lord, for your great blessing in Jesus' name. Amen. You may be seated.

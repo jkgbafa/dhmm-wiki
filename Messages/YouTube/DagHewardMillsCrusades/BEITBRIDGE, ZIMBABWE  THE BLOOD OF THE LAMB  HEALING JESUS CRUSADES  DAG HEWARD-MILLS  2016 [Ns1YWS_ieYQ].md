@@ -8,6 +8,8 @@ year: 2016
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Jesus loves me this I know for the Bible tells me so Lal on to him belong they are weak but he is strong yes Jesus Loves Me Oh yes Jesus Loves Me Oh yes Jesus loves me before the Bible tells me so oh yeah Jesus loves me he would di Heaven gates to wide thou H has bled and thou Hast died so I will ever live for thee Oh yes Jesus Loves Me Oh Oh yes Jesus Loves Me Oh Oh yes Jesus loves me for the Bible tells me for the Bible the Bible tells me

@@ -8,6 +8,8 @@ year: 2004
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 welcome to track number two of others General boo of the Salvation Army one day he had a meeting of his officers and um in this meeting of his offices he was supposed to be there but he could not be there so he sent them a telegram you understand as as a message for the meeting that they were going to have you understand yes so when the telegram came all the officers gathered around to read the message that General boo sent I told you it was related to General boo Salvation Army so all the officers gathered

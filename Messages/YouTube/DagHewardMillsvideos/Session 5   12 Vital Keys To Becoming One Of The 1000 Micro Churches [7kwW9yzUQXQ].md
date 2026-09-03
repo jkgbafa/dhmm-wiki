@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7kwW9yzUQXQ"
 duration_min: 148
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 I feeling tired all right if you have any time I'm gonna fill it fresh oh then it's on all night when you're tired tell me and I pray before you say it I gave you how many reasons why you must you can become a church you can become a church huh nine what is the reason number one oh Jesus referred to himself as a seed is that not so who was about to personally dissolve in the earth number two the second example two nations in a womb is an also they refer to those two little

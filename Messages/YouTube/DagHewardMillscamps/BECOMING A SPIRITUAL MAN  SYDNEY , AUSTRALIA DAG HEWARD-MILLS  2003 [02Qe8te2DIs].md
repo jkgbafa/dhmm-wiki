@@ -8,6 +8,8 @@ year: 2003
 duration_min: 36
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 welcome to track number 15 of how to survive in Ephesus first Timothy Chapter 2 I exal therefore that first of all supplications prayers inter sessions giving of thanks be made for all men amen for kings and for all that are in Authority that we may lead a quiet and Peaceable life in all godliness and honesty amen what are the what kind of Life are you going to lead in Sydney what are the four characteristics of part two of of your life quiet Godly honesty is it a good idea how many are glad that dishonesty is

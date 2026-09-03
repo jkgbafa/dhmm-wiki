@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Sn8CGCxRmOM"
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 the Lord is my light and my salvation Whom Shall I feel he's the strength of my life day and night no need to be afraid I have a SE secret place where I see God's face he gives me peace for my TRN mind he carries me over mountains he comforts me through the valley when I'm going through a storm I'm protected in his arms oh my father loves me that's why I say the Lord is my life is my salvation so Whom Shall I be oh no no he's the strength of my life day and

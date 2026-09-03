@@ -8,6 +8,8 @@ year: 1997
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number six of loyalty and the mega church now. Let's look at Ephesians chapter four. The topic is ministry is work. Amen. Ephesians chapter 4.

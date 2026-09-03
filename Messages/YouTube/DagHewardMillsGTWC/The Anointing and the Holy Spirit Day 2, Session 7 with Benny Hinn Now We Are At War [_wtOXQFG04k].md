@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_wtOXQFG04k"
 duration_min: 149
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 These are times times of the anoint. Go in deep and do it more. Oh, how I love you and I delight in you. You're my special treasure. My treasure.

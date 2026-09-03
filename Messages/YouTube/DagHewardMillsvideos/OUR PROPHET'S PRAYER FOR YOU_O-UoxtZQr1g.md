@@ -3,6 +3,8 @@ title: "OUR PROPHET'S PRAYER FOR YOU_O-UoxtZQr1g"
 channel: "DagHewardMillsvideos"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 be the blessing found in the body and the blood of Jesus be given to you what am i sick in you is healed today sickness of your soul sickness of your temperament sickness of your behavior all forms of stubbornness bonds of difficulty of hearing tones of hotness of hats also bad attitudes all types of pride all spiritual sicknesses are declared repeal today in Jesus name and you are now receiving healing from all kinds of illness Who am I is a beautiful girl here but has a bad character unmarriageable nature you are healed of that unmarriageable

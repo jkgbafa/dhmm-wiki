@@ -8,6 +8,8 @@ year: 2024
 duration_min: 31
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Repentance"]
+tags: ["topic/salvation", "topic/salvation/repentance"]
 ---
 
 Peter's mother-in-law also performed a miracle there. Matthew chapter 1: When Jesus entered the house, he saw his mother-in-law lying with a fever. He touched her hand, and the fever left her, and she got up and began to serve him. Hebrews chapter 1: The foundation of repentance from dead works and of the doctrine of baptism. Verse 1 says: Therefore, leaving the elementary teachings about Christ the Messiah, let us press on to maturity and perfection, not laying again the foundation of repentance from dead works and of faith in God, instruction about washings, the laying on of hands,

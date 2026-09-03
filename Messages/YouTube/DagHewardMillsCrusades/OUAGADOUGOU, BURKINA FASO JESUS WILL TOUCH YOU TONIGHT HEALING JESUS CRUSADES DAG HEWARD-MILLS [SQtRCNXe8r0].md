@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SQtRCNXe8r0"
 duration_min: 153
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 L'amour de Dieu, est si merveilleux, l'amour de Dieu, est si merveilleux, l'amour de Dieu, est si merveilleux, oh quelque chose, l'amour de Dieu, l'amour de Dieu, est si merveilleux, l'amour de Dieu, est si merveilleux, l'amour de Dieu, est si merveilleux, oh tel âme, chantons l'amour de Dieu, l'amour de Dieu, oh oui, ainsi veille, où est l'amour de Dieu, est si merveilleux, l'amour de Dieu, est si merveilleux, oh quel amour, il est si grand, il est si grand, qu'on ne peut le surmonter, si profond, qu'on ne peut me sonder, il est si vaste, qu'on ne peut le contourner, oh tel âme, oh oui, il est si grand, oh oui, que le surmonter si profond, qu'on ne peut me sonder, il est si basse, qu'on ne peut le contourner, oh tel âme, chantons l'amour de Dieu, l'amour de Dieu, oh oui, est si merveilleux, l'amour de Dieu, est si merveilleux, l'amour de Dieu, est si merveilleux, oh tel âme, chantons l'amour de Dieu, de Dieu, et oui, est si merveilleux, pour ton Dieu de Dieu, est si merveilleux, l'amour de Dieu, est si merveilleux, oh quel âge, oh oui, il est si grand, oh peut le surmonter, il est chimé son oui, il est si vaste, on ne peut le contourner, oh tel âme, l'amour il est si grand, il est si grand, on ne peut le surmonter, si mon fond, qu'on ne peut le sonder, il est si vaste, on ne peut le s'entourer, oh tel amour, Alléluia, père comme le Seigneur des Seigneurs, tu ne peux pas contourner son amour ce soir, parce qu'il t'a aimé, il t'a appelé, il te touche soi au nom de Jésus.

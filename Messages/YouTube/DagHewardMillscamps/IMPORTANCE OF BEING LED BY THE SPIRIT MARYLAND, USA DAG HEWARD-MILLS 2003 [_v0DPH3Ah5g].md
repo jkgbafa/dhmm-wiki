@@ -9,6 +9,8 @@ duration_min: 58
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/IMPORTANCE OF BEING LED BY THE SPIRIT  MARYLAND, USA  DAG HEWARD-MILLS  2003 [_v0DPH3Ah5g]]]"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 You to be led by the Spirit of God, Amen. Now Elijah said, if I be a man of God, are you are you with me? If I be a man of God, if I be a man of God, you see, I think that question to entitle your message this morning, or if I be a pastor, you see, there are some things that if you are a pastor or a pastor in training, you get it, we should see about you, amen. Otherwise, it's it's it's not a good thing, amen. So that's why Elijah said, if I be a man of God, let fire come down from heaven.

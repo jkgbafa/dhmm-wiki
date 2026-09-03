@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_UHJswskVX8"
 duration_min: 39
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer"]
 ---
 
 hallelujah let us pray I want you to ask God to speak to you I have this morning ask him to speak to you have this morning thank you Jesus for your word today what a blessing it is to know you to serve you thank you for your great blessing we are thanking you we are honoring you oh thank you for this opportunity in the name of Jesus Christ amen you may be seated hallelujah well I'm here again and this morning I'm going to be preaching about why you must not perish in the lake of fire

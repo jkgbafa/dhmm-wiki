@@ -8,6 +8,8 @@ year: 2010
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number 15 of the privilege hallelujah hallelujah Hallelujah wow wow wow wow wow w wow all right all right all right you may be seated hey the resident leopard will be afraid when he sees the Praises of the Lord the privilege of being a Shepherd amen now what did I say I was going to tell you 29 keys to good preaching amen amen how many want to be a good preacher so that you can really be a good feeder of the Sheep amen amen now 29 keys to being a good preacher a Good

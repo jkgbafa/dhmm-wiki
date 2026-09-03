@@ -8,6 +8,8 @@ year: 2007
 duration_min: 38
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 okay 1 Corinthians chapter 7 have you found it verse 26 I think then that this is good in view of the present distress that it is good for a man to remain as he is are you bound to a wife do not seek to be released Are You released from a wife do not seek a wife but if you marry you have not sinned amen and if a virgin marries she has not sinned yet such will have trouble in this life and I am trying to spare you amen now this scripture is saying that when

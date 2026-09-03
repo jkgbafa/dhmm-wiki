@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=cDU8eY-XcCw"
 duration_min: 38
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 today we want to look at the act of following Joseph there are different people we can follow example that we can follow as people that have inherited the promises and number one Joseph in the Bible is somebody we can follow amen all right now Joseph the first thing that we learned from Joseph is that the art of following Jesus Joseph is the art of not being easily provoked amen the Bible says Joseph dreamed the dream Genesis 37 verse 5 and he told his brethren and they hated him yet the more amen and he continued to

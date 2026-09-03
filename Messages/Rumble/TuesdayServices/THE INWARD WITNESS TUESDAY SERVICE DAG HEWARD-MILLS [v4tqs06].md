@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqs06/"
 duration_min: 39
 source: "whisper"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Let's pray. Father, thank you so much for today. Thank you for the great blessing we have to serve you, Lord. We ask for your guidance, guidance of your spirit and your blessing. Thank you for the spirit of wisdom, understanding, counsel, spirit of might, spirit of the fear of the Lord, spirit of knowledge, and the spirit of the Lord released into our lives in Jesus' name.

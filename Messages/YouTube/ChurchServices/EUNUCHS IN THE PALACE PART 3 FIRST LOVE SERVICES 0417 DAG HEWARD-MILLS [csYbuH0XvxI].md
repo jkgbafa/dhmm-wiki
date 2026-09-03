@@ -8,6 +8,8 @@ duration_min: 139
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/EUNUCHS IN THE PALACE PART 3  FIRST LOVE SERVICES  0417  DAG HEWARD-MILLS [csYbuH0XvxI]]]"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 . . . . .

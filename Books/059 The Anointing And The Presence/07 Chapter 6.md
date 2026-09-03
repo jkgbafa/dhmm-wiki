@@ -4,6 +4,8 @@ book: "The Anointing And The Presence"
 book_number: "059"
 chapter_number: 7
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 ### Chapter 6\

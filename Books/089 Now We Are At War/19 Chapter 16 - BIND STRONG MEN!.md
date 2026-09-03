@@ -4,6 +4,8 @@ book: "Now We Are At War"
 book_number: "089"
 chapter_number: 19
 type: book
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Deliverance"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance"]
 ---
 
 ### Chapter 16\

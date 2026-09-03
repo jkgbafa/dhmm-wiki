@@ -9,6 +9,8 @@ duration_min: 62
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/YOUR STRENGTH IN PRAYER WARWICK LE LAGON, VANUATU DAG HEWARD-MILLS 2024 [PugAgBx0HlE]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 I want to talk about the strength your strength in prayer amen now Judges chapter 16 and it came to pass verse four that Samson loved a woman in the valley of Sorak whose name was Delilah and the Lords of the Philistines came up unto her and said said entice him and see wherein his great strength lith and by what means we may prevail against him that we may bind him to afflict him and we will give thee every one of us 1100 pieces of silver and Delilah said to Samson tell me I pray thee huh

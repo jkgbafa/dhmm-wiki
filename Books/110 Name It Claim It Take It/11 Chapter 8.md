@@ -4,6 +4,8 @@ book: "Name It Claim It Take It"
 book_number: "110"
 chapter_number: 11
 type: book
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Chapter 8\

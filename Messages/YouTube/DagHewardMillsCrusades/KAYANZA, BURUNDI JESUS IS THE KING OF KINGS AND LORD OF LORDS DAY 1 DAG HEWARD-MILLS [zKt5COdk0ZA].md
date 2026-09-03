@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zKt5COdk0ZA"
 duration_min: 115
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah! My God is good! I see a game! Tonight you must make up your mind not to move around at all. Determined to receive from God on the first day of this campaign.

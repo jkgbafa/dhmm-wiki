@@ -8,6 +8,8 @@ year: 2025
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Prayer/Praying in Tongues", "Spiritual Warfare", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/spiritual-warfare", "topic/the-holy-spirit"]
 ---
 
 Hallelujah. Amen. Is the beach ready? We are prepared to receive what God has in store for us tonight and to begin a great experience. God is already sending this servant to minister the word. and also to be able, through that salvation, to have aim, to have deliverance and blessing from God. We already believe by night, night, we evangelists. Nothing is possible for those who create. The word of God is the same. And I hope a miracle will work with God. Nothing is possible. It's not impossible impossible, because with God every promise will come true. Because

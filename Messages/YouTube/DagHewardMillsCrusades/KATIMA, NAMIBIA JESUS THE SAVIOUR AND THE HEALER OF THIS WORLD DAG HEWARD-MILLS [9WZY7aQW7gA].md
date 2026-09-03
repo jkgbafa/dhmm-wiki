@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9WZY7aQW7gA"
 duration_min: 137
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Yes, I like your shout. Hallelujah. Let it be louder. Hallelujah. Your hands for Jesus tonight.

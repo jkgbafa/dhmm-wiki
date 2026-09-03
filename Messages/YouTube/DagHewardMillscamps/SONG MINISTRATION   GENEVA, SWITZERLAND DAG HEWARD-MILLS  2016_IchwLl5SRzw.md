@@ -3,6 +3,8 @@ title: "SONG MINISTRATION   GENEVA, SWITZERLAND DAG HEWARD-MILLS  2016_IchwLl5SR
 channel: "DagHewardMillscamps"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 welcome to track number four of stir up go into all the world and preach the gospel until your life is done if you love me obey the Great Commission yeah build churches everywhere in every town every Province every to see you Ro shall be saved but tell me how long is it going to take for you to oby me I have a feeling that I'm Waiting in Vain for you to do my will oh I have a feeling that I'm waiting for you to do my will that's why I'm asking am I going to wait

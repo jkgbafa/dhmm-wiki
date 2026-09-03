@@ -4,6 +4,8 @@ book: "The Anointing And The Presence"
 book_number: "059"
 chapter_number: 5
 type: book
+topics: ["Anointing", "Anointing/Kinds and Waves of the Anointing"]
+tags: ["topic/anointing", "topic/anointing/kinds-and-waves-of-the-anointing"]
 ---
 
 ### Chapter 4\

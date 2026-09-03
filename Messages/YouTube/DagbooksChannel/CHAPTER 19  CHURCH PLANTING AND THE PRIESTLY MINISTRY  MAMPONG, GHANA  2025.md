@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Church Growth", "Church Growth/Church Planting", "Ministry and Pastoring", "Prayer", "Prayer/Intercession"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/ministry-and-pastoring", "topic/prayer", "topic/prayer/intercession"]
 ---
 
 Seven things that every church planter should know about priestly ministry. Number one, we are priests unto Lord unto the Lord. Number two, the prayers we offer are incense to the Lord. Psalm 141:2, let my prayer be set forth before thee. as incense. Let my prayer be set forth before thee as incense. You see, even prophetically, David saw that prayers were like incense. Every church planter, your prayer is like incense before the Lord. Prayers are like incense before the Lord. Amen. Your prayers are like what? Incense. Psalm 141:2 says, "Let my prayers be as the incense

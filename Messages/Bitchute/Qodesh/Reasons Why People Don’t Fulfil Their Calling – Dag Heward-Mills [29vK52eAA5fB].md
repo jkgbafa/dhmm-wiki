@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/29vK52eAA5fB/"
 duration_min: 61
 source: "whisper"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 Okay, I think I better preach before I don't, but this is preaching. This is not preaching. Now, I've been talking about the importance of the call. And today I just want to say one reason why people do not fulfill their call is because they make light of their calling. Right.

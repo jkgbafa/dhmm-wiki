@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=0pJeotxxHN4"
 duration_min: 140
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 I stand by the the water so my soul long I oh come on let me hear some desperate people singing onto the Lord at my heart come on desire and to worship you tell the Lord I stand for the word so much long tell him she Lord my heart desire desire and I love you you want to sing again oh come on tell the Lord tonight tell you Lord desire desire and I love you we want to sing to the Lord my you Lord you my Lord let my spirit Lord desire desire and Lord come

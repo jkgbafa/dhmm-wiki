@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=3xc74zeCp6E"
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wisdom"]
+tags: ["topic/prayer", "topic/wisdom"]
 ---
 
 everybody being prayer most of us have been praying this morning to be praying this is chance pray for wisdom everybody prays don't look at anybody and be pray Lord give me the spirit of wisdom theories of understanding the spirit of wisdom as Daniel haha Shadrach and Meshach and Abednego give me the wisdom for thy line and the door we have below it's raise it up all you behold the darkness house comedy and Rockman come on people but the Lord shall arise upon thee and the glory shall be upon thee shall arise and implode we shall

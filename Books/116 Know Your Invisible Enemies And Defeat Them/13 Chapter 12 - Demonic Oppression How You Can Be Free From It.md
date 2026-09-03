@@ -4,6 +4,8 @@ book: "Know Your Invisible Enemies And Defeat Them"
 book_number: "116"
 chapter_number: 13
 type: book
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology"]
 ---
 
 Chapter 12\

@@ -4,6 +4,8 @@ book: "Now We Are At War"
 book_number: "089"
 chapter_number: 14
 type: book
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 ### Chapter 11\

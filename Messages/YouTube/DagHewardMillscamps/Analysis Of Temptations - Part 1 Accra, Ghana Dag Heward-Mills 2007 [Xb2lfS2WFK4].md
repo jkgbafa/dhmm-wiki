@@ -8,6 +8,8 @@ year: 2007
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 the difference between a Temptation and a test is what tests come from God Amen am all right now it comes from the will of God I should say and I'm going to show you that from the Bible in first Thessalonians chapter 3:3 it says that no man should be moved by these afflictions for you yourselves know that we were appointed there unto I mean it's it's God's will you understand the pulos testings are God's will amen amen and then in Genesis 4 you have all these verses already I don't know what you are writing about

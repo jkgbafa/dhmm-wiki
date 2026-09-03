@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t8of2/"
 duration_min: 94
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 When evil try to destroy me, try to make me fall. He put me up on the rock out of the reach of the mornings try to help me. I don't have to worry. I'm in his care, not just here, but everywhere. I'll go to my hearty place, and I'll seek his face.

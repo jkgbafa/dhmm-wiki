@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9GgTG34yvxU"
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Do you believe Jesus is here? Lift up your right hand. Do you believe Jesus will touch you? Lift up the left one. And put your hands together for Jesus.

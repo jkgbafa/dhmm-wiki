@@ -8,6 +8,8 @@ year: 2006
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 so my my my subject or my theme is do the work of an evangelist all right I believe that the um the the um the way forward for us as a church in um in America is for us to do the work of an evangelist amen amen are you with me yes and I believe that as we do the work of an evangelist we are going to be blessed amen amen amen Now by evangelism I am sort of zeroing in on um winning souls for the Lord George huh I'm zeroing in on willing Souls I

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=5PwcypB0wm4"
 duration_min: 181
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Vision and Direction", "Vision and Direction/Hearing God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 do you know it's a blessing to be in the house of the Lord do you know it's just a blessing to dwell in the house of the Lord now we want to sing that blessed be the name of the Lord we want to sing it back to him because what it's a blessing to be in the house of the Lord amen blessed be the name of the Lord blessed be the name of the Lord blessed be the name of the Lord blessed be the name of the Lord blessed be the name of the Lord most

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=d27IXHMAVLw"
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 before we take our lunch break I'm on the pond la pause judicially I want to say something Joe video shows about leadership concern on the leadership either that laughs now leadership the leadership always to you cause with conquering internal enemies but to show avec la can catch the enemy and tell a man I'm always to you you can never leave peacefully wound approve a passive impaired in this life passively Madan said Australian you can never lead peacefully wound approve a sham a delicious piece of lemon in the sense that you were always believing triumphantly but

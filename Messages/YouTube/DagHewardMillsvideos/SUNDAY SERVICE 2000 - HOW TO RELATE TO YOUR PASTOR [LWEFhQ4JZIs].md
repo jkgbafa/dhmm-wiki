@@ -8,6 +8,8 @@ year: 2000
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 this one I believe that our father in fact without hallelujah but he's really here with us to speak into our lives and he shared from his heart to our hearts and I trust that as we open our heart God is going to speak to us directors and bless our lives if you excited this morning turns your feet please and let's put a heart together as you welcome our Father the bishop to many such wise hallelujah praise the Lord shall we pray father we thank you for this morning we ask you to guide us to lead

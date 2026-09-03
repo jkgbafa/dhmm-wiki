@@ -9,6 +9,8 @@ duration_min: 28
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/KEYS TO WINNING THE LOST IN PERGAMOS   BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2010 [XnPFTUndVL0]]]"
+topics: ["Prayer", "Soul Winning and Evangelism"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism"]
 ---
 
 Welcome to track number three of advancing in Pegamos. Alright. Keys to successfully winning the lost at any cost. Amen. Page 72.

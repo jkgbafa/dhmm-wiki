@@ -3,6 +3,8 @@ title: "CHAPTER 27  THE SWEET INFLUENCES OF THE HOLY SPIRIT ON YOUR LEVEL OF HON
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Now when it comes to the Holy Spirit, you must be very very careful because the Holy Spirit is has many names. Okay? And one of his names is the spirit of truth. Yeah. John chapter 14 verse 17. John chapter 14. all through John 14:15 and 16 calls the Holy Spirit. Does not call the Holy Spirit. The Holy Spirit. The Holy Spirit. He doesn't call the Holy Spirit the Holy Spirit. He calls the Holy Spirit the spirit of truth. Is it amazing? Do you see John 14:17? Even the Spirit of truth whom the world cannot receive

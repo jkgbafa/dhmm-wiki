@@ -8,6 +8,8 @@ year: 2023
 duration_min: 161
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 happy happy is the man that finds wisdom and the man that get understanding oh wisdom more precious than rues Length of days is in her right hand and in her left hand a riches and honor all her has our peace her ways are ways of pleasantness and all the things thou can't desire are not to be compared to her wisdom is the principle thing wisdom is the principal thing wisdom is the principal things so get wisdom wisdom is the principal thing wisdom M principal wisdom M principal things wi wo w exalt wisdom and she shall

@@ -4,6 +4,8 @@ book: "A Good General The Science Of Leadership"
 book_number: "023"
 chapter_number: 37
 type: book
+topics: ["Leadership", "Leadership/Generals and History Makers", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances"]
 ---
 
 ### Chapter 36\

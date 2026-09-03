@@ -8,6 +8,8 @@ year: 2003
 duration_min: 41
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 welcome to track number four of how to survive in Ephesus First Timothy timotheus are you there well we started and uh we didn't get Beyond uh verse two Paul and Apostle of Jesus Christ by the will of God according to the promise of life which is in Christ Jesus to Timothy my colleague to Timothy my friend to Timothy my schoolmate to Timothy my old to Timothy my what my son my beloved Son amen Holy Spirit welcome you in Jesus name amen now now he says my beloved Son there are two types of sons two types

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=j6o3feSYHpw"
 duration_min: 125
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 - me sir Giacomo policy I'm true our path is the mann-whitney our practice tomography selecting healing I have never eaten to me Hey very our return to the Yahoo to meet our tester Yahoo okay Yahoo colossally tutorial arena center Yahoo to meet our schedule Yahoo booka booka vertically a keyboard and a Papa no body eternity Kimmo are recently love your hand for Jesus let opposite about clip-clop in a few welcome DVR me Oh yeah oh yeah Oh Oh oh yeah clap your hands let's welcome I got to bless us with a song I'm here nothing

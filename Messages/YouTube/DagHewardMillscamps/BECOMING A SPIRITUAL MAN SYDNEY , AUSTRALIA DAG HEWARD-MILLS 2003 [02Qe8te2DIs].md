@@ -9,6 +9,8 @@ duration_min: 36
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/BECOMING A SPIRITUAL MAN  SYDNEY , AUSTRALIA DAG HEWARD-MILLS  2003 [02Qe8te2DIs]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Welcome to track number 15 of how to survive in Ephesus First Timothy chapter 2. I exhort therefore that first of all supplications, prayers, intercessions, giving of thanks be made for all men, amen. For kings and for all that are in authority, that we may lead a quiet and peaceable life in all godliness and honesty. Amen. What kind of life are you going to lead in Sydney?

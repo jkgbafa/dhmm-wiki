@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=idgWWt_Y3js"
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 F y'all want you to labour F y'all want it so we lend the less Fiancé Fuka it's also ni moi soi t'amois yes moi l'intermoi l'alécha Fio moi chitilla Dino Mou tene Muten sing with me Gana l'Olesha F y'a moi chitilla N'a mis soulesha Olesha Fio chitilla Dino M'Tende M'Tende Bontima Nami Sumbo Ni Maka Niuca Notre Matama Nago te Fionce Moncha Ilola Lufia sofia fiance Dina yesou Dina fiancée all'infaire fiancée Dina yes soyez now fiance Oh yes la yes, let's I sue Ali Wama Sing with me deny us deny so yes let's I wanna above

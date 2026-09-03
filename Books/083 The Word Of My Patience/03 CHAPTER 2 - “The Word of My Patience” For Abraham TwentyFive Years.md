@@ -4,6 +4,8 @@ book: "The Word Of My Patience"
 book_number: "083"
 chapter_number: 3
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 ### CHAPTER 2\

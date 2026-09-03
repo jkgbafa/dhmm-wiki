@@ -4,6 +4,8 @@ book: "How To Be Born Again And Avoid Hell"
 book_number: "044"
 chapter_number: 3
 type: book
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Chapter 2\

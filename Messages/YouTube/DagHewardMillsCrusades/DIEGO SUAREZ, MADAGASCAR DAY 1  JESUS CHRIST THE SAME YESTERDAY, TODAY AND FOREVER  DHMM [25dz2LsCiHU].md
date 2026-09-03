@@ -8,6 +8,8 @@ duration_min: 161
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/DIEGO SUAREZ, MADAGASCAR DAY 1 JESUS CHRIST THE SAME YESTERDAY, TODAY AND FOREVER DHMM [25dz2LsCiHU]]]"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 lift your hands lift your hands lift your hands your hands thank you Jesus come on oh hey hey he on hey hey hey sing again come on hey hey hey oh Jesus you are here you know everyone by name and tonight you are here here because you love your children with LIF hands LIF her hands every hands lifted to Jesus open your mouth and be to talk to him tell him Jesus I'm here Jesus I'm here for can we here because of you we're here because of you we're here because of you we're here because

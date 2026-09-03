@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ewhK0336-r4"
 duration_min: 153
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Shepherd of my soul I give you full control wherever you may be I will I have made a choice to listen for your I will go Shepherd of my soul I give you full control wherever you may be I will I have made a choice to listen for your voice you may need I will be in the quiet past or by a gentle stream my should I Oh wherever you may be I have made a joy to listen bro your ever you maybe I will go Oh my channel stream by should I bathe my or

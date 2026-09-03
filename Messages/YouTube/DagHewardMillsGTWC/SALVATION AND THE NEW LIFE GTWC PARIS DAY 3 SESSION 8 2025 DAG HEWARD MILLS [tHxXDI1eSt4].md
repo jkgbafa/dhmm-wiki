@@ -8,6 +8,8 @@ year: 2025
 duration_min: 6
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 Section number section number seven section eight salvation and the new life numero seven I have a new life I have a new life the new creation creation I am a new creation creation no more in condemnation of God I stand you don't know the song I am a new creation who knows how to sing it are you a singer I am a new creation no more in condemnation hearing the grace of God I stand I'm a new creation when a man is in Christ he's a new creation all things are passed away and all things

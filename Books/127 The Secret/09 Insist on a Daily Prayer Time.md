@@ -4,6 +4,8 @@ book: "The Secret"
 book_number: "127"
 chapter_number: 9
 type: book
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 ## Insist on a Daily Prayer Time

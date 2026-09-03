@@ -4,6 +4,8 @@ channel: "DhmmInternationalMinistry"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Father, thank you for the opportunity to be here to share your word. We are praying Lord Jesus that everyone here will be touched by your spirit to do your will to please you. We thank you. We are grateful in Jesus name. Amen.

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2011
 source: "autocaption"
+topics: ["Prayer", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/prayer", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 Right. We have been discussing the perfect and the imperfect will of God. Amen. Amen. What is the perfect will of God? What is the perfect will of God? The perfect will of God is God's wish for you. Amen. Amen. where you are perfectly positioned as far as God is concerned, where you are doing what he wants, where you are doing what he created you to do, where you fulfill all the reasons for which he made you who you are. Amen. Amen. and where you are doing what he wants you to do in the time and

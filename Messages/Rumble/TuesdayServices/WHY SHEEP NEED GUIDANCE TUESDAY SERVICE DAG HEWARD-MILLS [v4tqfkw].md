@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqfkw/"
 duration_min: 61
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 The Lord is my shepherd, and I shall not want. He makes me to lie down in green pastures and he leadeth me beside the still waters. He restoreth my soul, and he leadeth me in the paths of righteousness for his name's sake. Now, you will notice how many times this appears, he leadeth me, he leadeth me, he leadeth me. Amen.

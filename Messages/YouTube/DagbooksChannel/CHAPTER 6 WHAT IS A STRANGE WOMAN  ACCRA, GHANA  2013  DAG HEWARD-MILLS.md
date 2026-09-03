@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2013
 source: "autocaption"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Jump DS. Hallelujah. Father, thanks for this opportunity today in Jesus name. Amen. You may be seated. Wow. Are you excited to be here today? My message is Boys in Danger. When men began to increase in number on the earth, and daughters were born to them, the sons of God saw that the daughters of men were beautiful, and they married any of them they chose. And then the Lord said, "My spirit will not contend with man forever, for he is mortal. His days will be 120 years. And the Nephilim were on the earth in those days."

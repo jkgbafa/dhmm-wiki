@@ -8,6 +8,8 @@ year: 1999
 duration_min: 53
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/faith", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 in a world where there is that amended to the things we hold the pressure and you know time when evil men are getting worse and we're forget I the time offending behaviour for me and all you I know I can't be bad and you are you are and it's all mine turning on and on you I know I can be bad I my god you are you are my friend come on you are my friend you are my friend and it's all my okay and calm I agree aha yeah just give away offering on to

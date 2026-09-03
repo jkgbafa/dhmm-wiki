@@ -8,6 +8,8 @@ year: 2013
 duration_min: 22
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Three reasons why you must relate with the poor reasons for thequel Jesus Christ was called to the poor he said the spirit of the Lord is upon me, he has anointed me to preach the gospel to the poor Amen. Number two, most people in the world are poor. And number three, the sign of a higher anointing is that you are ministering to the poor. Because when Jesus John the Baptist asked Jesus, why are you when John the Baptist asked Jesus, are you the one who is to come are you the Messiah? Are you the Messiah?

@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/7-steps-to-the-ano
 duration_min: 96
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Anointing/Impartation and Mantles", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/anointing/impartation-and-mantles", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Let my heart be the temple of your spirit And let my spirit feel the warmth of your embrace Let me be a holy habitation When your spirit is pleased to dwell Let my heart be the temple of your spirit And let my spirit feel the warmth of your embrace Let me be a holy habitation Where your spirit is pleased to dwell Oh Lord, I want to know your glory I want to offer a sacrifice of faith Fill this temple, Lord With your spirit once again Oh Lord, I want to know your glory I want to offer the sacrifice of praise Fill this temple, Lord With your spirit once again Oh Lord, I want to know your glory I want to know your glory Lord, fill this temple, Lord, with your spirit once again.

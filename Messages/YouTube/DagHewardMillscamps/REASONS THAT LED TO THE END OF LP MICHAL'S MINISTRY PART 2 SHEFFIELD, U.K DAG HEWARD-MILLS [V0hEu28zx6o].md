@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=V0hEu28zx6o"
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number twenty-one of pastors of thousands. Hallelujah. Weakness is taken away. Bakness is taken away. You are the next person to do well in the ministry.

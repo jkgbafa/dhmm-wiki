@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=k1ZoangthAk"
 duration_min: 162
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I'll be sure of that so much I even estrellas over our lives because I don't know about you but when he prayed for us at the Good Friday service I took it very personal amen I really personalized the prayers on Wednesday evening I was I was going to work hours on night you see amen and in the evening usually I used psycho I passed a code to reach um it was it was drizzling when I start off for work but when I got on a psychopath the ring became very serious by the grace of God

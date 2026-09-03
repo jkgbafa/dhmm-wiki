@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/wiX9dry24spS/"
 duration_min: 57
 source: "whisper"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Praise the Lord Church. Hallelujah. Hallelujah. Are you excited for Christmas? Are you the redeemed of the Lord?

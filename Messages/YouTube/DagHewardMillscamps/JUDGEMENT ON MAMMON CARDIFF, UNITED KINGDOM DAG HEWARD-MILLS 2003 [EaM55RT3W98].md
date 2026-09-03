@@ -9,6 +9,8 @@ duration_min: 29
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/JUDGEMENT ON MAMMON  CARDIFF, UNITED KINGDOM  DAG HEWARD-MILLS  2003 [EaM55RT3W98]]]"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 Amen. Pastor Paul, keep yourself from idols. You know these verses we think they don't apply to us. Little children, keep yourselves from idols. Do you have any idols in your house?

@@ -8,6 +8,8 @@ year: 2019
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Amen. Beautiful. Lift your hands, let's pray for a moment. Father, we thank you for your goodness in gathering us in this time. Lead us into your perfect will.

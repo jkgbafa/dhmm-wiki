@@ -4,6 +4,8 @@ book: "Those Who Are Dangerous Sons"
 book_number: "003"
 chapter_number: 12
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 ### Chapter 11\

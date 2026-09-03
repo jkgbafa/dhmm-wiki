@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=LU18usyEKXE"
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 in please be seated are you ready with a video provided in - please be seated wanna watch a short clip for seven minutes the volume indicator video Valentia no me neither listen hello I don't cut then - God has blessed us to have Crusades and I just want to show you a short clip maybe enhance after I let you know Ellie Maharashtrian Pavan and a kitty video become dependent Quran Tianna that shows the power of God that has been working live en mahou tsukai balaclava curvy a mechanic a pendant Quran t anima and I know

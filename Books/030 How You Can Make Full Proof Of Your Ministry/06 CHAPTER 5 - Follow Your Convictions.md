@@ -4,6 +4,8 @@ book: "How You Can Make Full Proof Of Your Ministry"
 book_number: "030"
 chapter_number: 6
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 CHAPTER 5 \

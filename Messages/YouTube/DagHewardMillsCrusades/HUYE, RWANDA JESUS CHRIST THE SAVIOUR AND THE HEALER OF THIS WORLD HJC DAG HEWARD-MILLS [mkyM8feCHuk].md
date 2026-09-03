@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=mkyM8feCHuk"
 duration_min: 183
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 You are here. Your presence is here. And we will love you. We welcome you. We welcome you.

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ue4bn/"
 duration_min: 53
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/faith", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 In a world where there is such an ending friends to the things we hold so precious and so deal men are getting worse and worse and your hearts are friendly for fear you are my fortress you are my strength and on you I know I can depend you are my fortress you are my strength and it's all by your grace it's by your grace in a time when science are turning on the fathers who yeah and the mothers cry for justice and behind the world where the future seek so answer through that seeking I'll give

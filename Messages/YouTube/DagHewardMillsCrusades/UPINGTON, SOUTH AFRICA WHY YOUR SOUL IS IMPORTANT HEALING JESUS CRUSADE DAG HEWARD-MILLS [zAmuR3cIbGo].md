@@ -8,6 +8,8 @@ duration_min: 104
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/UPINGTON, SOUTH AFRICA  WHY YOUR SOUL IS IMPORTANT  HEALING JESUS CRUSADE  DAG HEWARD-MILLS [zAmuR3cIbGo]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Let's welcome tonight our sister corolla to bless us with a song. Hallelujah. I think are you ready? I say I've been saying are you ready? The Lord is gonna do something beautiful tonight in your life, hallelujah.

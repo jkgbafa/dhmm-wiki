@@ -8,6 +8,8 @@ year: 2019
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing"]
 ---
 
 Steps to the anointing. Number one is vessel change. Tell somebody my vessel is changing. I'm becoming an international vessel. I'm no more a local player.

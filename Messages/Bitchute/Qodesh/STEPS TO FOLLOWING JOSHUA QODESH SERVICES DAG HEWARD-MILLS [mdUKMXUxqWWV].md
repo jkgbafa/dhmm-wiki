@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/mdUKMXUxqWWV/"
 duration_min: 82
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah. One of the covenant names of God is Jehovah Jirah. That is the God who is our provider. Hallelujah. Shout to the Lord and say, The Lord is my provider.

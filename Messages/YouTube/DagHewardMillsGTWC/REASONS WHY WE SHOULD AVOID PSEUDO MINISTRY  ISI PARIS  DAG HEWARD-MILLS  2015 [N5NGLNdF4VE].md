@@ -8,6 +8,8 @@ year: 2015
 duration_min: 119
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 sit down. This morning, God is leading us further in ministry. Transformation is the key word I would like you to remember. Amen. Transformation. You must ask yourself the question: what will I be transformed into? And the first thing you will be transformed into is becoming a real minister. Amen. If you read Exodus, you will see that God had a clear example of the tabernacle and God has the same clear plan for us to build the church. Amen. Amen. We must follow God's plan. 2 Chronicles chapter 2 12 2 Chronicles 12 verse 1am had strengthened himself

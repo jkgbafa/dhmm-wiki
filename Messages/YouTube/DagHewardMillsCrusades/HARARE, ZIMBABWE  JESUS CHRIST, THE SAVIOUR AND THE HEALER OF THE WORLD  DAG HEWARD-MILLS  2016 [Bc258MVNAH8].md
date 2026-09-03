@@ -8,6 +8,8 @@ year: 2016
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 hallelujah hallelujah har Hallelujah if you believe Jesus is here tonight lift up your left hand please and if you believe Jesus will touch you kindly lift up the right one and put your hands together for Jesus are you here are you here the Hallelujah put your hands together oh ohaba everybody lift up your right hand and say the say Harari lift up your right hand and say Hallelujah can Hallelujah J J theight the say oh ch is give a shout unto the Lord tonight wow what a blessing please be seated we are gradually coming to

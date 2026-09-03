@@ -4,6 +4,8 @@ book: "Why Loyalty"
 book_number: "091"
 chapter_number: 5
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring"]
 ---
 
 ### Chapter 3\

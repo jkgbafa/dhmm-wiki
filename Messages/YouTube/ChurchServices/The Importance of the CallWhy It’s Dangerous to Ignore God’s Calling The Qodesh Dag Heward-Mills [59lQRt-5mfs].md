@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=59lQRt-5mfs"
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 Now, if God has called you, alright, it is dangerous to not follow the call. Very dangerous for your life. Everything about your life is connected to the call. As for what God is doing, he will do it. Whether he uses a monkey or a donkey.

@@ -4,6 +4,8 @@ book: "Blood Power The Blood Of Jesus"
 book_number: "106"
 chapter_number: 5
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation"]
 ---
 
 Chapter 4\

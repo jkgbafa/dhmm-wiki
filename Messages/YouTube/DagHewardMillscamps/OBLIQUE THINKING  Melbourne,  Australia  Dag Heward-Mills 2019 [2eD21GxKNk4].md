@@ -8,6 +8,8 @@ year: 2019
 duration_min: 206
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 come oh oh oh oh oh oh you oh if thou will let us make here three Tabernacles one for thee one for Moses one for Eliah while he yet spake Behold a bright Cloud overshadowed them and behold a voice out of the cloud who said this is my Bel this is my beloved Son in whom I am well pleased hear ye him amen hear ye him and when the disciples heard it they fell on their face and were very afraid amen you see this scripture shows us how blessed we are that what God our what

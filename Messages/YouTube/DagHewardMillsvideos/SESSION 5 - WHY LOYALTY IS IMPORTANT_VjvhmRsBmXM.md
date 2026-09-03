@@ -3,6 +3,8 @@ title: "SESSION 5 - WHY LOYALTY IS IMPORTANT_VjvhmRsBmXM"
 channel: "DagHewardMillsvideos"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Leadership", "Leadership/Generals and History Makers", "Loyalty and Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/loyalty-and-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 what it means to be as wise as a serpent saqib oh dear esposa sashka sample servants are wise because they are masters at overcoming demons this episode - mosquito net done one of the great wisdom of a serpent is that it eats certain in suggesters deposits kill monsters they sell for Wow in this book what it means to be as wise as a serpent for those of you who like pictures pull Turkey Emily photo Danny leave Cobra the King Cobra it's foolishness you walk on em Marsha Samadhi temple every pasta here must be good at

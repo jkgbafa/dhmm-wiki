@@ -4,6 +4,8 @@ book: "Stir It Up"
 book_number: "080"
 chapter_number: 24
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ### CHAPTER 23\

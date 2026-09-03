@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2011
 source: "autocaption"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 last chapter. Why some people never catch the anointing. Just allow me a few minutes. I'm ending. Why some people never become anointed. Matthew chapter 8 verse1 17. Matthew chapter 8 verse 17. Hey, that it might be fulfilled which was spoken by Isaiah the prophet, saying, "Himself took our infirmities and bear our sicknesses. Amen. Hallelujah. Himself took what? What did Jesus take upon himself? What did he take upon himself? Our infirmities, weaknesses, and sicknesses. Amen. Turn with me to Philippians chapter 2 quickly, please. Philippians chapter 2. Amen. Honestly, I don't want you to believe anything unless

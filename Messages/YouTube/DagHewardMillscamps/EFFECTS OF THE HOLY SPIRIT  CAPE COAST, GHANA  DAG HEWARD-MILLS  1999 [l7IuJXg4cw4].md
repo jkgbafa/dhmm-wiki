@@ -8,6 +8,8 @@ year: 1999
 duration_min: 23
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/the-holy-spirit"]
 ---
 
 welcome to track number five of love and the mega church amen so turn with me to Galatians chapter 5 and the first Trend that we are going to look at in under the longterm effect of the holy spirit is in Galatians CH 5 verse 22 it says but the fruit of the spirit fruit is the product of the spirit is love joy peace longsuffering gentleness goodness Faith meekness Temperance against such there is no law amen have you got it what does it say let's all look at it together about the fruit of the what the

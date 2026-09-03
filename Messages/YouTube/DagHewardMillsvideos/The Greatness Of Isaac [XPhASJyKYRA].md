@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=XPhASJyKYRA"
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 let's ask ourself why did God send his son into this world why why come to Jesus tonight you Jesus tonight this is the way Jesus Christ he said I am the way the truth and the life nobody no one on this Earth can come to the father except he's coming through me hey if it is true if this thing is true I said if it is true and it is true a great door is open unto you but there are many ad try in the courage rise up to and take your journey you must pass

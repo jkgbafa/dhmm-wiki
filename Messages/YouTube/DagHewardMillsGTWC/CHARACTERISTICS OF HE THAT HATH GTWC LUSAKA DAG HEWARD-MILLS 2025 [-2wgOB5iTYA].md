@@ -8,6 +8,8 @@ year: 2025
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 So, this is just, I'm just introducing you to these six books that are critical for your shepherderial work. What are they? The art of shepherding. What it means to become a shepherd. The art of shepherding.

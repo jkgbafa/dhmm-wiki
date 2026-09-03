@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/rn4tYAxsJwZb/"
 duration_min: 110
 source: "whisper"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 That's number one. And number two, we are saying that this is your house. This house we're talking about is you yourself. You are the temple of the living God. And you are telling the Lord that this is your house.

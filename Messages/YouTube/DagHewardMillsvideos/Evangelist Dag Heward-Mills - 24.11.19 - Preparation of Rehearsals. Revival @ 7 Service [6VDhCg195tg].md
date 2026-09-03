@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6VDhCg195tg"
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism"]
 ---
 
 right now I know and thank God because that's mine in a presence of the Lord there is nothing about a food has some joy we want to stay a presence fellowship become relax immediate presence we want to be Oh days other days holidays Oh God that's up to him wah Jesus I see Jesus rose I simple it is here with us tonight the walls that are playing a smooth I'll sing and also sing there is a longing there is a longer everybody see sunrises sunrise drop by the Holy Spirit father thank you for this blessing

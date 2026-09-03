@@ -8,6 +8,8 @@ year: 2016
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 welcome to track number 10 of where is the flock that was given theeen put your hands together for LP go into all the world and preach the gospel until your life is done yeah if you love me obey the Great Commission yeah build churches everywhere in every town every Province every city now maybe I shall be saved but tell me how long is it going to say for you to open me I have a feeling that I'm waiting in pain for you to do my will yeah see I have a feeling that I'm waiting oh

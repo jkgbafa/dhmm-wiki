@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Qc7hBDtRB8k"
 duration_min: 161
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Alléluia Hallelujah, Data Kouvango Sakusa Hallelujah, Hallelujah, Muristade, Baguruké, tu fatañas Una kaosia monimana Kitchai Kuneva Hirenge Nendawe Zu insuye na serafi parimperati unakalia yatan Yesia bonimana hirengé uso insuye à la keré Bafuka Néha Mébansekaba tue la batoue pasu na battua tue batouera battue battue sibuti mana batunera tue battue battue battue battue sou me ti mala batimera tue souhai data ki kayosé data kiosse kiosé data ki malé data ki ka dotosé ki kadosé ma chiede Thank you, Bishop Doug for choosing Hui.

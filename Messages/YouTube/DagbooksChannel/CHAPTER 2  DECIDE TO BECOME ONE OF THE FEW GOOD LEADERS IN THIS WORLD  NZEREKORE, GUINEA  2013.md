@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2013
 source: "autocaption"
+topics: ["Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 Now I want to share about what I call the art of leadership. Number one, I'm giving you three points. Number one, decide to be one of the few good leaders in this world. Hallelujah. Hallelujah. How many want to be one of the good leaders? Now, where do we have a lot of bad leaders in the world? Who Yeah, we in Africa have a lot of bad leaders. The best place to learn how to be a bad leader is in Africa. Is Africa poor? Is Africa poor? No. Africa is not poor. But Africa has a lot

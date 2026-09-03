@@ -8,6 +8,8 @@ year: 2008
 duration_min: 162
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Tonight we are just staring at the fire. Hallelujah. The Bible says that the fire must be kept burning. It must be burning continually. It must not go out.

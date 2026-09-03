@@ -4,6 +4,8 @@ book: "Am I Good For Nothing"
 book_number: "113"
 chapter_number: 12
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 ### CHAPTER 11\

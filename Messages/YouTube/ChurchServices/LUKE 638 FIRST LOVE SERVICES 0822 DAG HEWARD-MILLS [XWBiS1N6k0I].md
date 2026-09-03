@@ -8,6 +8,8 @@ duration_min: 161
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/LUKE 638   FIRST LOVE SERVICES  0822  DAG HEWARD-MILLS [XWBiS1N6k0I]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Let's take it from the top, Lord. You are good. Lord, you were good and your mercy. Enjoy it forever. God, you were good, sir.

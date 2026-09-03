@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=kI2HtL4RQ4Y"
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism"]
 ---
 
 let your hand Club be louder tonight Sarika so exciti porn alleluia alleluia and we also want to invite our honorable executive mayor to come and also bring us away please let's put our hands together and welcome our honorable executive mayor of our city I guess Shalom a away from the special idol openly to Cyrus Port Loko no sir I left I'm Boka Scotty I thank you very much for this wonderful opportunity very much to the team thank you very much to the Evangelist for choosing our beautiful stick welcome to potato there from today onwards will

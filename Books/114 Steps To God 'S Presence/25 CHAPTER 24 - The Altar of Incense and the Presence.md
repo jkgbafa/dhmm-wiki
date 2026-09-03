@@ -4,6 +4,8 @@ book: "Steps To God 'S Presence"
 book_number: "114"
 chapter_number: 25
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ### CHAPTER 24\

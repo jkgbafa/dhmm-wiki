@@ -8,6 +8,8 @@ year: 2014
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Jesus Lover of My Soul let me to thy B fly while the near Waters roll and while the Tempest still is is high hide Me Oh My Savior hide till the storm of life is pass oh safe into thy Haven guide oh receive my soul L last of the rest Refuge Have I None H my helpless soul on thee please don't leave me all alone still support and comfort me oh my help on the take and all my trust from the I bring oh I bring cover my defense with the shadow of thy Wings plant

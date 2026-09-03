@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uh4re/"
 duration_min: 80
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Oh and I will never be the same. Lift up your hands and say there are higher heights, there are higher heights, there are deeper. Whatever you need to do, whatever you need, Lord, do it in me. Lord do it. The glory, the glory of God.

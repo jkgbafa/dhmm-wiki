@@ -8,6 +8,8 @@ duration_min: 123
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/Don’t Stagger!  First Love Church  Dag Heward-Mills [vE_skxaoeZc]]]"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 one day you'll be preaching there's somebody here you'll be preaching and you give a testimony people will fall out of their chairs they'll say you you've done this before listen Sarah was an old lady do you know any old person like very old like really old no don't look at me and say I'm old I mean old old old old like ' 80s 90s have you noticed that when people get old to a certain point they start to become small I prophesy plenty plenty of corn plenty of wine father thank you for today a great

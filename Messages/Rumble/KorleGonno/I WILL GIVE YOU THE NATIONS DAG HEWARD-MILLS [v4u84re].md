@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u84re/"
 duration_min: 33
 source: "whisper"
 match: "exact"
+topics: ["Missions", "Missions/The Nations"]
+tags: ["topic/missions", "topic/missions/the-nations"]
 ---
 
 International Sunday, as we have it, is to uh make us aware of the nations of the world and of our responsibility towards these nations. Amen. One of the greatest ailments and plagues which came upon the human race when we uh fell. That is, we fell in the Garden of Eden. Adam fell.

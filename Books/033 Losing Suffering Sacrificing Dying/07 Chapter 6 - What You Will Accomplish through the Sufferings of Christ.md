@@ -4,6 +4,8 @@ book: "Losing Suffering Sacrificing Dying"
 book_number: "033"
 chapter_number: 7
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring"]
 ---
 
 # Chapter 6

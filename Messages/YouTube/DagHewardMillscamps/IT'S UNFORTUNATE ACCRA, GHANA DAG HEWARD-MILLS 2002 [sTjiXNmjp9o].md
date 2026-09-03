@@ -9,6 +9,8 @@ duration_min: 47
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/IT'S UNFORTUNATE  ACCRA, GHANA  DAG HEWARD-MILLS  2002 [sTjiXNmjp9o]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 Welcome to track number one of Hello. Hallelujah. Lift your hands. I wanna be more like you. Jesus.

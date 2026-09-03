@@ -8,6 +8,8 @@ year: 2014
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 how to relate with the world a it do not be conformed isn't it tell your neighbor I'm a non-conformist a nonconformist as far as the world is concerned as far as number 13 do not love the world wow do we have a song about loving the world how does that song go what song is that and I want you here with me but you've been keeping at the company you can't sit still it's plain to see you love the world and you're avoiding me you love the world avoiding me my words sit there upon your

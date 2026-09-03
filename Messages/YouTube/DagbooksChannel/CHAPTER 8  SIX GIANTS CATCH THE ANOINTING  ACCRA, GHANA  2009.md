@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2009
 source: "autocaption"
+topics: ["Anointing", "Anointing/Catching the Anointing"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing"]
 ---
 
 I share about six giants who have caught the anointing. The first person is Bonkey. He himself describes that's why I said anybody who is doing great thing look for the mystery and find the solution. This person where is he from? Solve it. How did he how did he become? And when you listen to the story, you see that Bonnke had somebody through whom he was pushed forward into the ministry. Whether he tells you or not, it is real. Amen. And in that story, was going home after going to Bible school. He had gone to Bible

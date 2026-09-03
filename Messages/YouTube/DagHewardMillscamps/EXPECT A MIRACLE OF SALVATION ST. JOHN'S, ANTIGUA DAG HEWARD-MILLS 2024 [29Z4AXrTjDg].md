@@ -9,6 +9,8 @@ duration_min: 162
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EXPECT A MIRACLE OF SALVATION  ST. JOHN'S, ANTIGUA  DAG HEWARD-MILLS  2024 [29Z4AXrTjDg]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Salvation", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/salvation", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Father, we thank you for the opportunity we have today to serve you. We're grateful. We ask you to lead us. Thank you for this amazing camp meeting. As we are in your presence, bless, heal and deliver, touch every life.

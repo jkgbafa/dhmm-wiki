@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/7LE2yOZlEP2I/"
 duration_min: 62
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I will, yes, I will bless the Lord at all times. I will, yes, I will, bless the Lord at all times, and his praises shall continually be in my mouth. I will bless the Lord, bless the Lord all the time. Oh I will, yes, I will bless the Lord at all times. I will, yes, I will bless the Lord at all times, and his praises shall continually be in my mouth.

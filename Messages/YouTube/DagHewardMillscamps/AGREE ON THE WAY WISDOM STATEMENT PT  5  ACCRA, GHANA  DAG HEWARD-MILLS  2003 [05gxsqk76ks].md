@@ -8,6 +8,8 @@ year: 2003
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wisdom"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wisdom"]
 ---
 
 welcome to track number six of agree on the way us to read the final quest you see when R Joiner he saws a man in on a very high throne in heaven and he as who is this man it's a beggar and he said oh but you've seen this man many times I said you've even passed a comment about him before me this High thr this man I've not seen him before he said he's a beggar a beggar that was there and he said you pass a comment he said that this guy they are rather

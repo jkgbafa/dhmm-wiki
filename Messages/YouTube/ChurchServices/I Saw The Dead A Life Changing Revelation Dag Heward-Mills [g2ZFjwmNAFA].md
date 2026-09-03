@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=g2ZFjwmNAFA"
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I saw the dead. When people die, we don't see them anymore. So for somebody to say, I saw the dead, I mean, this is one of the most fantastic revelations that John had on the Isle of Patmos. The last time you saw the dead, they were lying down. They were lying down in the hospital.

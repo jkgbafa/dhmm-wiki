@@ -8,6 +8,8 @@ year: 2011
 duration_min: 163
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Salvation", "Salvation/Backsliding", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/salvation", "topic/salvation/backsliding", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 The art of leadership. Once again. Une fois de plus. Did you get your art of shepherding? Est-ce que vous avez reçu le livre?

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=1N9TLnvGhbs"
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wisdom"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wisdom"]
 ---
 
 father thanks a million for the great blessing pair Mexico Cooper said company secure lay your hand on your head receive the wisdom of God that's why I suggest the church in Jesus name don't know this amen I mean you may be seated baby that's fun now I'm about to reveal to you the greatest wisdom that this S has ever known syphilis planter who live in a massive monster jet color blue Montana Connie Wow Wow are you ready to receive the greatest wisdom ask him take care of this one Corinthians chapter 2 Elko hey scarcity certain

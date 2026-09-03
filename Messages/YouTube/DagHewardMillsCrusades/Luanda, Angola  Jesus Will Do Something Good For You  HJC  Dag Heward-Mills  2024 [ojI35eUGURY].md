@@ -8,6 +8,8 @@ year: 2024
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 GR for Senor I stand up if I have all the things of this world and ask Jesus I ask for everything if I have Jesus if I have Jesus if I have everything if I have everything it is more precious than everything sign like this hey if I have all the things in the world and I have Jesus I ask for everything if I have Jesus if I have everything it is more precious than everything if I have Jesus if I have Jesus if I have Jesus if I have Jesus I have everything oh Jesus

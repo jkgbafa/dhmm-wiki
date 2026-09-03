@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xPl-FwoeRm0"
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 oh god Kanna oh there's no mountain too huh he cannot there was no song to talk God there is no sorrow too deep you gotta I'm just Harry boy I know my brother that he can carry and then carries away I wanna show I know my finger can carry and I will no problem oh yes I know the piano there's no darou duty Oh yes remember when you say joy you felt inside remember you were born again you when fell down building everyone do you remember happy in church its presence all day at all do

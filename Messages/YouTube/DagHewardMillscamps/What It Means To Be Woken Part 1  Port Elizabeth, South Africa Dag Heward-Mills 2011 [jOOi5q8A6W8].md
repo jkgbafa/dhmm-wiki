@@ -8,6 +8,8 @@ year: 2011
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 father we are so blessed and grateful for the Deliverance that has been given to us in the name of Jesus we thank you Lord for the blessing for the blessing the healing that is coming into our lives oh hallelujah hallelujah amen in the name of Jesus amen amen you may be seated now what it means to be woking up from sleep number one how many are going to recognize a strange human from today when you don't know about her you say please you are strange so any lady you meet you don't know her you are

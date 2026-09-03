@@ -8,6 +8,8 @@ year: 2023
 duration_min: 135
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 he hey hey hey he wake I watch where up I want every Ione I know praise him prise him praise him praise him in where hey worship Hallelujah amen amen amen hallelujah let's let's let's pray over the offering father we ask that you bless the offerings we've given pray that the heavens will be open above us tonight in Jesus name we pray please station hallelujah hallelujah he hey he it it woo look for hey hey he hey hey hey hey hey hey hey ch wo he s fire fire fire fire fire fire fire fire fire

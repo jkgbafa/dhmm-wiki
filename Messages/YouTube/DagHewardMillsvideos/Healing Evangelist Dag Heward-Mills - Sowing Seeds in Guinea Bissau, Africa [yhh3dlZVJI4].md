@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=yhh3dlZVJI4"
 duration_min: 29
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Benindu A Republica Guinib Bisau. Welcome to the Republic of Guinea Bisau, where the healing Jesus team will be making its maiden entry into Portuguese-speaking territory. A small country on the west coast of Africa, the Republic of Guinea Bisau is endowed with beautiful landscapes and breathtaking scenery. From the Rio Grandandy Deuba to the Saltino rapids of Shangael Singala Unfortunately, several decades of political instability have had an adverse effect on the country, leaving it one of the poorest in the world. One thing any visitor to the country will immediately notice is the total lack of electricity in

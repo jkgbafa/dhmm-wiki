@@ -9,6 +9,8 @@ duration_min: 147
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/VRYBURG, SOUTH AFRICA  GOD'S HAND IS NOT SHORTENED  DAG HEWARD-MILLS  2016 [SudMEYgUaho]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 If you believe it, shout hallelujah, sing again, say, Jesus, it's so re soul, yes, one yeah, be so left out launches, it's a little bit song lache on lashes, leave it some lashes, you have a chess, so libis alleluia to name some la chest my way on my lip son lashes on la chest Living some law Satani woman so Jesus Yao tu we saw Yao Rennau to be sad Yao to me saw to me out to me saw to me saut to me so we saw Yao Renault Yao tu visa Oh to me so we saw Yao to visit me so we saw Yao to me out to me so we saw somebody shout Hallelujah Shout Hallelujah to the Lord Hallelujah, Murena Okay, listen Naked so lay sween yeah one sound now much way so banana so go banalize so I'm fair to love you know what you're to me sah just so yeah so what's up and so I would say just around Sapphire so I saw just around to me just so we're okay just so I'm sorry just allow to me just a book I was up in this somebody shout Jesus somebody shout Jesus somebody shout Jesus somebody shout Jesus somebody shout Jesus somebody shout Jesus at the mention of the name Jesus every knee must bow and every tongue must confess that my Jesus that your Jesus that our Jesus is law not say under it is on our say under it is on our son heck you want that say under is it son let's go on I say under it's in Sona Hecky wanna say under a thing so now somebody shout hallelujah Do you feel what I feel tonight?

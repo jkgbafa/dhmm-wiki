@@ -8,6 +8,8 @@ year: 2014
 duration_min: 164
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Missions", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/missions", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 where I'm coming from is hot very hot but I can see that you are freezing but I I believe you are not freezing in your heart your hearts are on fire for the Lord amen am so this this camp that we are having is not a healing Jesus um what do we call it the last time healing Jesus conference this one is a camp okay so that there's a difference the aim of the meeting is different when I came here the last time the aim was to help to raise support for healing Jesus campaign this

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Jy4T0CBD3rU"
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 When a church is large, it's a big family, there are many things that support you to make you to fulfill your calling. That people don't realize you also need. When the prodigal son separated himself from his father, right, and his father gave him half of his living, half. A mature man who has worked for many years. And when he finished working for years, he divided everything into two and gave it to the son.

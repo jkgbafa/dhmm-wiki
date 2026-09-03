@@ -4,6 +4,8 @@ book: "One Of You Is A Devil"
 book_number: "007"
 chapter_number: 15
 type: book
+topics: ["Missions", "Missions/The Nations", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/missions", "topic/missions/the-nations", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Chapter 14\

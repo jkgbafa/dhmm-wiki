@@ -8,6 +8,8 @@ year: 2011
 duration_min: 183
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I have never seen the Lord Jesus. No, no, no, no, since I was born. I have never seen the Lord Jesus. Brothers, have you said? No, no, no, no, since I was born.

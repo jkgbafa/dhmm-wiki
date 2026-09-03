@@ -8,6 +8,8 @@ year: 2001
 duration_min: 69
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number 18 of what is your life let's turn again to Hebrews chapter 11 verse 32 and what shall I more say for the time would fail me to tell of Gideon and of Barak and of Samson and of Jeffy amen of David also and Samuel and other prophets now time itself would fail us if we want to see all the great things are great example sets did when they were around but there are one or two people that we need to watch carefully and I want us to look at a gentleman called

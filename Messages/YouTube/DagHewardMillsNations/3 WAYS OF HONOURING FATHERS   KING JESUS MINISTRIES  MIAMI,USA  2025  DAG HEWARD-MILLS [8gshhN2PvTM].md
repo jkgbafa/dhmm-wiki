@@ -8,6 +8,8 @@ year: 2025
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Alleluia. Hello, hallelujah. Let us pray. Father, thank you for the gift of God. Thank you for your power, for your spirit. We pray that you will guide us and speak to our hearts today. We love you, Father. Thank you for everything you have done for us. Raise your hands and ask God to speak to you through your spirit this morning. Jesus, guide each one. Lead us in your service, in your ministry. Thank you for the blessing, the blessing that is here today. Raise your hands and ask for the spirit of revelation. Spirit of revelation. Revelation.

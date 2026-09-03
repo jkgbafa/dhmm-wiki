@@ -9,6 +9,8 @@ duration_min: 18
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/HOW TO UNDERSTAND THE ANOINTING GTWC LUSAKA DAG HEWARD-MILLS 2025 [vnoYwoSJJtA]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Now I told you I was going to share with you three things. So by the grace of God I've already shared with you one. The first thing I told you I was going to share with you was how you can receive the anointing. Isn't it? And you have seven ways you can receive the anointing. Number one was what? Terminated anointing transfer. Number two was what? Living living transfer. Isn't it? And number three was what? Anointing sharing. Anointing sharing like Moses and the 70 elders. Number four was what? Modified anointing transfer like Moses to Joshua. It

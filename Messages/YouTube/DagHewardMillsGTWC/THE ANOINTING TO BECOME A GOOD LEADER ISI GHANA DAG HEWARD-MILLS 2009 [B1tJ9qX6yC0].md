@@ -8,6 +8,8 @@ year: 2009
 duration_min: 142
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/anointing", "topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 Turn to Titus chapter one. Turn at Tit chapitre. Verse 5. Verse 5. For this reason I left you in crate.

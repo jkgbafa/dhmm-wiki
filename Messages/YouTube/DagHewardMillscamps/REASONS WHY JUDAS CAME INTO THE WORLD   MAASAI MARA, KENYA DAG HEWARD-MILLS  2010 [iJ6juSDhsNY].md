@@ -8,6 +8,8 @@ year: 2010
 duration_min: 39
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 welcome to track number 17 of the privilege Hallelujah now sit down for a moment tell somebody it's a privilege it's a priv I said it's a privilege amen now I'm going to um we're going to go through something very quickly the last part of the camp but before we do that I want us to um how many are going to become good preachers Wow Wow in fact we are enjoying the camp in Kenya more than South Africa this caruse hey now I want to give you 12 12 reasons why you must take shepherding to the

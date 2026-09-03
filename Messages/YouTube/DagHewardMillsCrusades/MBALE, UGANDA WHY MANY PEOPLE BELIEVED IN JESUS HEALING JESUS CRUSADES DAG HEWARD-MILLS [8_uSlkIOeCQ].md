@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8_uSlkIOeCQ"
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Are you sure you are ready? Wonderful past me. Are you sure you are ready? Yes. Lift up your two hands.

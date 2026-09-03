@@ -8,6 +8,8 @@ year: 2016
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 e welcome to track number three of expect great things Hallelujah wow are you enjoying Ida's music do you want more all right okay sit down sit down now expect great things from God Jonah chapter 1 Jonah expect great results from a life of preaching the word of God Amen I want everybody to know that the word of God is very powerful and so you must expect great things from a life of preaching the word of God Jonah chapter 1 now the word of the Lord came unto Jonah the son of amii saying arise and go

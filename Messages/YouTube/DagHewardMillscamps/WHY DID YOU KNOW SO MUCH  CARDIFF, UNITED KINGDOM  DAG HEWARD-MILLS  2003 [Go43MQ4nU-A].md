@@ -8,6 +8,8 @@ year: 2003
 duration_min: 24
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 welcome to track number 22 of Bea and this is the last question for our camp meeting we are ending with this Luke chap 12 this is a question of knowing what the right thing is and not doing it why did you know so much amen why did you know so much and do so little why did you know so much and do nothing amen notice all these are stories that Jesus told of what the Kingdom of Heaven is like one day it will all happen Luke 12:42 and the Lord said who then is that faithful

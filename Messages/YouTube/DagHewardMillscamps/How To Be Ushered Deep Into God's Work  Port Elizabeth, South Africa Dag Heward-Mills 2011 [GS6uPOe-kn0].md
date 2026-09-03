@@ -8,6 +8,8 @@ year: 2011
 duration_min: 119
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 he who began a good work in you he who began a good work in you he'll be faithful to complete it he'll be faithful to complete it he will start will be fiful to complete it in you oh yes he who be a good work in you he who got a good work in you he he got a good work in you we'll be thanful to he'll be fiful to come it he will start never for be thanful the confed in you you so we the strugle you facing is slowly replacing your home with this

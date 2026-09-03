@@ -8,6 +8,8 @@ year: 2015
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 obligations of Christians to use means for the conversion of the Heathen amen that is our topic Acts 1:8 what does it say you shall receive power after the Holy Spirit comes upon you and you shall be Witnesses and to me both in Jerusalem Judea Samaria and to the uttermost parts of the earth amen what was the last witnessing message I gave you will you be in outer Darkness amen amen will you be in outer Darkness so we must remember how Jesus spoke about outer Darkness h casty the unprofitable servants into outer Darkness your witnessing must

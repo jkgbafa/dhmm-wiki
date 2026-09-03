@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2015
 source: "autocaption"
+topics: ["The Holy Spirit", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/the-holy-spirit", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 Mali, Ethiopia, ANY OTHER FOUR GUYS UNDER THE influence of the MIGHTY MIGHTY HOLY SPIRIT BE LED BY THE SPIRIT. You are you have forgotten how the Holy Spirit lead. YOU CAN JUST HOLD SOMEBODY'S SHOE NOT on the side. HAVE THE WORK OF GOD. ARE THERE ANY MEN OF GOD HERE WHO ARE BEING LED BY THE SPIRIT? Mighty leadings. I need more mighty leadings. Everybody's left to America. Come. I DON'T if I have THREE MORE MIGHTY MEN OF GOD RECEIVE THE ANOINTING. TAKE IT. Do the work of God. Do the work of God. Wow. You said

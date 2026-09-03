@@ -8,6 +8,8 @@ year: 2022
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Hallelujah. Father, thank you for how I came to be anointed. In the name of Jesus Christ, we pray. Amen. Amen.

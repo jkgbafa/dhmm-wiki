@@ -8,6 +8,8 @@ year: 2016
 duration_min: 198
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 right now the next thing is that young people who serve the Lord must stay around and see wonderful things and they must therefore be hard followers amen hard what followers hard Psalm 63 verse 8 my soul followeth hard after thee hard I want you to decide as a young person to be a hard follower now what is a hard follower a hard follower is somebody you can't get rid of like you can't get rid of him like he's there for everything always around you are a hard follower my soul followeth hard after thee hard there

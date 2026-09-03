@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=YopfWYIwBS4"
 duration_min: 235
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Oh Oh halleluyah halleluyah make me labour in green pastures leave me beside us or peace be with us all it is me the path of righteousness for gather I want to this is a people below Lord is my suspect I saw know what it'd make me nicer if we pasta Ramirez others provoke them he respond my hostel you need be precise well practices for his Nessie he were ever to the Royal tunnel health care people for now are you feeling Iraq although my mama and nothing Cody why we're all here uncle Ricky why Naomi pasta

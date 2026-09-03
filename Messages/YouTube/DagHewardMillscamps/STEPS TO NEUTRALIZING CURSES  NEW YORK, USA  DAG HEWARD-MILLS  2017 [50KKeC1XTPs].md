@@ -8,6 +8,8 @@ year: 2017
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/demonology"]
 ---
 
 let us pray let us pray father thank you for this evening thank you for this time we ask you to guide us thank you for bringing us at this time together thank you for the prophetic direction for our lives we are grateful for the opportunity that we have lead us by your Mighty Spirit we pray in Jesus name and everyone said amen am Hallelujah you may be seated Hallelujah well it's a it's a joy to see all of you again and um I want us to get straight into our business of neutralizing cures all right

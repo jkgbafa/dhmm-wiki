@@ -8,6 +8,8 @@ year: 2016
 duration_min: 178
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 father thanks a million for this opportunity in Jesus name amen please be seated shabby shepherding must go s stands for state of the flock campaign state of the flock Proverbs 27 now Shepherds and pastors must be con about the state of the flock Proverbs 27: 23 be thou diligent to know the state of the flocks the state of thy flocks and look well to thy heads for riches are not forever and that the crown endure to every generation so one of the main um works of a Shepherd from now is to know the state of

@@ -8,6 +8,8 @@ year: 2006
 duration_min: 181
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/anointing", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 father we thank you for the blessing of your word in Jesus name amen amen you may be seated all right uh number how many points do you have number four anoint said people once you become the Lord's anointed he makes you to meet certain people amen amen and with good people hallelujah now and the reason why I'm sharing this with you is because I want you to be begin to see the hand of God in all the things you do I want you to see the hand of God is it possible to give a some

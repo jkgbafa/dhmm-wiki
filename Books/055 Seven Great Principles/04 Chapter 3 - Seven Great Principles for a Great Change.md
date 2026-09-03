@@ -4,6 +4,8 @@ book: "Seven Great Principles"
 book_number: "055"
 chapter_number: 4
 type: book
+topics: ["Prayer", "Prayer/Praying in Tongues", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 ###  Chapter 3

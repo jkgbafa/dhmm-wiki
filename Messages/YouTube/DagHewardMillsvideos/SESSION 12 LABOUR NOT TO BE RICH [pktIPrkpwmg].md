@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=pktIPrkpwmg"
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 they're messy hula Benedict shows who safe on the Mafia but force pissant country no Donna no decision amen jacuzzi Denise sank claim a teaspoon of prosperity the pastor chapter 10 and verse 21 Jeremy this venture for the pastor's have become brutish calibers isn't it is stupid and have not sought the Lord in a partial eternal therefore they shall not prosper in a saucepan now what is the first powerful master key for Prosperity kalila premier claim a Hezbollah prosperity supernatural provision of is Yoshio nurturing what is the second master key vision tithing lil Adam and amazingly

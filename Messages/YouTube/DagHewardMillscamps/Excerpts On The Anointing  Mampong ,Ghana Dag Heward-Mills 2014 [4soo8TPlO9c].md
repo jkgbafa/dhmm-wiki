@@ -8,6 +8,8 @@ year: 2014
 duration_min: 172
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/anointing", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 speak in tongues for a while pray in the spirit pray in the spirit pray in the spirit how thirsty are you for the anointing can you pray that God will grant you a certain kind of thirst that would always belonging and Desiring the anointing and that you may not be fool at a point yes yes yes pray in the spirit and pray those secret things speak the Mysteries unto God speak the Mysteries unto God speak the Mysteries unto God it is a personal thing you shall be anointed personally yeah you shall be anointed personally you

@@ -8,6 +8,8 @@ year: 2000
 duration_min: 43
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 last week we looked at becoming more involved in the Word of God is that also is that also and today we want to continue we actually began a series on women doing the will of the Lord hallelujah and I believe we'll just continue from there and I want you to turn with me to Genesis I want to give you a good background to - to that Genesis chapter 3 hallelujah Genesis chapter 3 and we want to read verse number 12 and learn something very quickly Genesis chapter 3 verse 12 downward shall we all read together

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MSaIedQ9npI"
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 to me let me hand and you said I will follow I will supply all your need I said I know but tomorrow tomorrow I'll keep Milan tomorrow I'm Dora today I promise tomorrow better Jesus and Rajasthan I will Walter he's insane I don't so fly for your I know but haha all a part of my day so much nothing tomorrow and he broke in your face hanging another would you be gone don't you tomorrow can be well ah ah Oh yes always and it's avila Paiva lust in our eyes were to the Lord doing and

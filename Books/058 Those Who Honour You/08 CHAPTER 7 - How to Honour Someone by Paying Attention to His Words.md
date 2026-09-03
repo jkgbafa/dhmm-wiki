@@ -4,6 +4,8 @@ book: "Those Who Honour You"
 book_number: "058"
 chapter_number: 8
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting"]
 ---
 
 ### CHAPTER 7\

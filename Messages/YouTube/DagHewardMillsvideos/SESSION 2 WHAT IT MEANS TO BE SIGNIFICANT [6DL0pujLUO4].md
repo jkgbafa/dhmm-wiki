@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6DL0pujLUO4"
 duration_min: 185
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "The Word and Books", "The Word and Books/Bible Study", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 means to be large or important enough to have an effect to be large or important enough to have an effect now there are many ministers who exist is that not so and who are in the ministry but I'm not large enough or important enough to have an effect how many want to be large enough and important enough to have an effect I believe we all want that is that also and we need to rise out of insignificance in the ministry the next one is to be large enough or important enough to be noticed that's another

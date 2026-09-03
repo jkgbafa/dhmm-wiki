@@ -4,6 +4,8 @@ book: "The Anointing And The Presence"
 book_number: "059"
 chapter_number: 20
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ### Chapter 19\

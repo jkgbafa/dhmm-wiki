@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=iKB2wt-UOQ4"
 duration_min: 275
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "Salvation", "Salvation/The New Birth", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/salvation", "topic/salvation/the-new-birth", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 let Joy to the word come on S Joy to the word the Lord is come the Lord is let her receive a king let receive receive her King her King you got to young people let every prare him room prepare him room heaven and sing heaven and S and heaven and nature and heaven and nature sing come on and sing it and come on sh 1 2 1 2 3 he hey hey Hallelujah you got to jum and give God a shout of Praise come on second best judge to the world Jud to the world

@@ -9,6 +9,8 @@ duration_min: 110
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/35 QUALITIES OF BECOMING A SHEPHERD   MAASAI MARA, KENYA DAG HEWARD-MILLS  2010 [AYsmBq84xh0]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number 10 of the privilege. Vigilant. You must be vigilant. Timothy. The Bible says they must be husband of one wife.

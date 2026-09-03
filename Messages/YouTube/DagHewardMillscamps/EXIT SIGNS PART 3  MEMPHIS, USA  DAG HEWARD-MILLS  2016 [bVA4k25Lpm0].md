@@ -8,6 +8,8 @@ year: 2016
 duration_min: 198
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 our instrumentalists have retired that song but upon two people we will singing come on do you have your handkerchiefs do you have your cover cloths do you have your t-shirts come on come on come on come on come on come on come on let me see you with your your hand come on come on come on come on come on come on come on come on there's no one come on there's no one no one like Jesus there's no one there's no one like him no one like no one there no one like Jesus there

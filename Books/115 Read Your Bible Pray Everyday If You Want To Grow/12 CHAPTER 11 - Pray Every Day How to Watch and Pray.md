@@ -4,6 +4,8 @@ book: "Read Your Bible Pray Everyday If You Want To Grow"
 book_number: "115"
 chapter_number: 12
 type: book
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 CHAPTER 11\

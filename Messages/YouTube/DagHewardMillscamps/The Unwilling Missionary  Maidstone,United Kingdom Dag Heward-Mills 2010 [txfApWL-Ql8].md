@@ -8,6 +8,8 @@ year: 2010
 duration_min: 178
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Missions"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/missions"]
 ---
 
 don't forget his faithful he promised every word to us is guaranteed he only asked you to believe just believe he came through for me I know he come through for you he has never been less than faithful no he cannot be untrue cuz even when life storms are ring he's the one he never changes yes he will he'll come through cuz he came through for me he came through for me he'll come through for you yes he will he came through for me he came through for me yes he will just believe he came through

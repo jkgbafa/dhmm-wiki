@@ -8,6 +8,8 @@ year: 2011
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 say I expect a miracle Hallelujah I expect a miracle today for nothing is impossible to those who believe and say and I believe God's word is still the same and I expect the miracle today oh I expect a mirales today for nothing is impossible to those who believe and say and I believe God's word is still the same oh yeah yeah yes and I expect a miracle today the little woman with the issue of blood said to herself if I can touch but his clothes I know I will be whole she pressed through the crowd

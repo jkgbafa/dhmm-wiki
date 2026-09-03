@@ -9,6 +9,8 @@ duration_min: 12
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/DIFFERENT WAYS THE ANOINTING IS RELEASED   GTWC LUSAKA  DAG HEWARD-MILLS  2025 [O5HJJAcAt9E]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Hallelujah. So today you are receiving seeds, oh. You are receiving mustard seed. You see, what we are doing in this conference is just a mustard seed. It's a small thing.

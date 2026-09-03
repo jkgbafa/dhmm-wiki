@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=0ik_QUsaRUU"
 duration_min: 24
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 hello ladies and gentlemen and all my viewers i'm so delighted to be sharing your precious time with you this precious moment well have you heard of how i came to the anointed conference with bishop daguard mills who is the convener he used to be give thyself holy conference if you have not heard i have good news for you this precious moment with me here in the studios is none other but one of god's generals in this country ghana a very good friend of the convener and the brainchild of this wonderful conference with me here is

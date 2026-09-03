@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2lBGuTATPKw"
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 My life if you pay and assure you above all sought violent before the Orient clues half but no I will share with you on loyalty and disloyalty Facebook indulge their hypotheses were imported to Facebook you must have this book and hand to but not in the savannah books Arabic English to this city that I have on loyalty one s of baby care of view favor singles in the West Indies fathers and loyalty which would perhaps be those who claim 1 in this short book I write you leave those who leave the churches a strong speech

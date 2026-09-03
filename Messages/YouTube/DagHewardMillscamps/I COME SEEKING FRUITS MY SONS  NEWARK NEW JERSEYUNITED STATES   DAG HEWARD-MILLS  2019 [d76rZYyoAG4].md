@@ -8,6 +8,8 @@ year: 2019
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 thank you Jesus thank you Jesus father we thank you for the blessing that you give to us in this time thank you for guiding Us by your Mighty spirit in Jesus name amen amen God bless you you may be seated number one the numbers are there so we are going to The Numbers God is seeking fruit from the Earth amen amen Hebrews 6:7 it say for the Earth which drinketh in the rain that cometh down often upon it and bringeth forth Habs meat for them by whom it is dressed receiveth blessing from God amen amen

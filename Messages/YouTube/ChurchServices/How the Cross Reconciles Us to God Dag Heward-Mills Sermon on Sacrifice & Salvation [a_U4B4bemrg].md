@@ -8,6 +8,8 @@ duration_min: 93
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/How the Cross Reconciles Us to God  Dag Heward-Mills Sermon on Sacrifice & Salvation [a_U4B4bemrg]]]"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 This is my first time coming here. First at ready at 20. They sent out the Voyager expedition from America in 1977. And then a year later, they got to Saturn. They took pictures.

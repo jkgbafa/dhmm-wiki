@@ -4,6 +4,8 @@ book: "He That Hath To Him Shall Be Given And He That Hath Not From Him Shall Be
 book_number: "037"
 chapter_number: 5
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 ## Chapter 4

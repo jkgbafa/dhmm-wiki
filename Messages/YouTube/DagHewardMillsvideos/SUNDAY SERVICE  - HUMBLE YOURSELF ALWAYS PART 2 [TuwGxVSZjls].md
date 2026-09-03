@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=TuwGxVSZjls"
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 model pray for the president nahdi want to pray for the vice president want to pray for the Minister of Finance elected or appointed they need God's help Lord can you not see is anybody here consider our president needs the help of God not only to win an election but you know as we're praying the Holy Spirit as we spread into my ears and deaths for a few seconds the most of us don't pray for our leaders most of us analyze them we analyze them more than we pray for them the Bible is the analyzer of

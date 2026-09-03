@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=sbqe_onnQBE"
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 it's good to be with you again here as you can see there's a theme and powers of across the reason why it's not a part of the cross is because it's your cross that is also powerful it's not only one cross but is your cross which is powerful he does that pick up your cross and follow me so a cross is a very powerful thing and that is why Jesus said you should pick it up and follow me can I have an amen so I believe that we are going to be blessed now this is

@@ -4,6 +4,8 @@ book: "Many Are Called"
 book_number: "029"
 chapter_number: 7
 type: book
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 ## Chapter 6

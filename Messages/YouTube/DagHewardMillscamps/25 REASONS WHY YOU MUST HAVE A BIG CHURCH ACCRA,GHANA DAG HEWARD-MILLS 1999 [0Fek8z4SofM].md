@@ -8,6 +8,8 @@ year: 1999
 duration_min: 45
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Welcome to track number two of the dream church. Number one, twenty five reasons why we must have a big church. Number one, because it is the will of God. Hallelujah. It is the will of God.

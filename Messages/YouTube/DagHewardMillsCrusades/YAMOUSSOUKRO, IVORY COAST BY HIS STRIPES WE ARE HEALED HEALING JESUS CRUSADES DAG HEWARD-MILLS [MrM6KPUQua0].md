@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MrM6KPUQua0"
 duration_min: 134
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Acclamez pour Jésus. Acclamez bien. Alléluia. Ainsi j'ai dit de louage. Je l'adorerai.

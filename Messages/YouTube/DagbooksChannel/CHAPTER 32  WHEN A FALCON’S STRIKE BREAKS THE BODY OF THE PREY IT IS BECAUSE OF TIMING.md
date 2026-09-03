@@ -3,6 +3,8 @@ title: "CHAPTER 32  WHEN A FALCON\u2019S STRIKE BREAKS THE BODY OF THE PREY IT I
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 Chapter 32. When a falcon strike breaks the body of the prey, it is because of timing. When the falcon's strike breaks the body of the prey. It is because of timing. Amen. The falcons strike when it breaks the body of the prey. It is because of timing. Now the falcon is the bed and the American planes F7, F14, F4, they all named after this bed. It's a very fast moving bed like an eagle, but it's sleeker and it's more poss. Is it because of timing? It's a bit like playing golf. If you swing Yeah. That's

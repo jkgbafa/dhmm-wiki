@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2007
 source: "autocaption"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 How many been blessed with the seminar? Amen. Are you ready to receive the most uh complex one of all, but it'll be taught simply. Amen. Uh let's put our hands together and welcome Bishop Daguard Mills. Amen. Hallelujah. Let's pray. Father, thank you so much for this morning, Lord. Thank you for the opportunity we have in you to come at this time to receive your holy word. We ask for your blessing to lead us, to guide us. We are grateful, oh Lord, for the fact that we can come to church, to your house, to be blessed,

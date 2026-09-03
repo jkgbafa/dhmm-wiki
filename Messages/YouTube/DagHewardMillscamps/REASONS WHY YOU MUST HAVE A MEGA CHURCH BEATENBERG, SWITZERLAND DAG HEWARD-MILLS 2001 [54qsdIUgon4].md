@@ -9,6 +9,8 @@ duration_min: 84
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/REASONS WHY YOU MUST HAVE A MEGA CHURCH  BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2001 [54qsdIUgon4]]]"
+topics: ["Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number two of Victorine Pegamo. 20 reasons why we must be soul winners. Now this is going to be under, I mean, it's it's under I'm giving that to you because the first deception of Pegamos is what? That the bodies and so on are more important than the soul. Is that not so?

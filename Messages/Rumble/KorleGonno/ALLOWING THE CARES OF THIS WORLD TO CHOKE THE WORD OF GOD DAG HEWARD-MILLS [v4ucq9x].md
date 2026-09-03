@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ucq9x/"
 duration_min: 20
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "The Word and Books"]
+tags: ["topic/marriage-and-family", "topic/the-word-and-books"]
 ---
 
 Hallelujah. Now the symptom, I want to call it a symptom, you can call it so many things. It's still the word of God, but I want to call it a symptom of backsliding. It's allowing the cares of the world to choke the word of God. Allowing the cares of this world.

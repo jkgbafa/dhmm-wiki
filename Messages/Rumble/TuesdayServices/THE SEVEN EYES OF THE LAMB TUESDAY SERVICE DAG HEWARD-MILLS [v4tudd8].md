@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tudd8/"
 duration_min: 105
 source: "whisper"
 match: "exact"
+topics: ["Vision and Direction", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/vision-and-direction", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 The Lord is my shelter. I shall not want every knee. Though I walk through the valley, he restores my soul, and will let no before me. Shall follow me all the days of my life. I will dwell in the house of the Lord forever in that city where there comes no I will feel no evil, though dark days may come, for I know he walked by my side.

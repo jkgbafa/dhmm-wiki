@@ -8,6 +8,8 @@ duration_min: 68
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsvideos/The 4 Battles for a Double Portion Anointing Dag Heward-Mills [l6Amxkd3GQM]]]"
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 No. Where is your supernatural that aspect? Yeah. Currently, currently that on the way to the anointing, there are some painful things that God is going to cut off from your life. Very painful. Sometimes it may be a sin. Yes. If you cannot stop certain sins that will cost you. Yes. It will be painful to you. painful to you. Second Kings chapter 2 verse 9. All of you young children who are coming up, you're going to need more anointing than we had. The evils that are mounting up, huh? Pray about it. Serious. 2 Kings 2:9. He

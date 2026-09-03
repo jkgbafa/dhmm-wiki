@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2-Q28EuG0zM"
 duration_min: 14
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 in the vast tapestry of global Ministry there exists a gathering unlike any other a convergence of hearts and Minds seeking Divine wisdom and renewal for two decades the give thyself holy conference birthed under the Visionary leadership of dark hued Mills has stood as a beacon of spiritual rejuvenation for pastors church leaders and ministers from every corner of the globe nestled within the sprawling anazo Bible and Ministry training Center this annual assembly transcends mere congregation it becomes a sacred Nexus of God's presence where the Thirsty come to drink deeply from The Well of divine truth under

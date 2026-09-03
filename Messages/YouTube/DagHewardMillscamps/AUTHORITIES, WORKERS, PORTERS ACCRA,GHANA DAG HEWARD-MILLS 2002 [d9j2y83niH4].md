@@ -9,6 +9,8 @@ duration_min: 57
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/AUTHORITIES, WORKERS, PORTERS  ACCRA,GHANA DAG HEWARD-MILLS 2002 [d9j2y83niH4]]]"
+topics: ["Prayer", "Prayer/All-night Prayer"]
+tags: ["topic/prayer", "topic/prayer/all-night-prayer"]
 ---
 
 Welcome to track number five. Secrets. The Father knows something that he hasn't told the son. Because you know. We teach that it's just something that you can think about.

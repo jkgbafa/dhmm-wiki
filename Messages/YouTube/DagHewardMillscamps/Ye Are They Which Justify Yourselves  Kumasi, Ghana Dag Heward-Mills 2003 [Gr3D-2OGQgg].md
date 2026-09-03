@@ -8,6 +8,8 @@ year: 2003
 duration_min: 142
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 have to justify and argue justify ourselves that is the basis of almost every argument justifying yourself justifying yourself expl explaining I once saw a picture of h a suspect in court you know who had gone to court and they were going to defend him the lawyers were there the jury the judge and everything and then when he came he just said everything and the whole Court was in confusion because they were not expect they wanted him to say he's not guilty so that they can defend oh all this I've done this I've done this I've

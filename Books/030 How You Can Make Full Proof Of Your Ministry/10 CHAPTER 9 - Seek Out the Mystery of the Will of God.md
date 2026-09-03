@@ -4,6 +4,8 @@ book: "How You Can Make Full Proof Of Your Ministry"
 book_number: "030"
 chapter_number: 10
 type: book
+topics: ["Prayer", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/prayer", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 CHAPTER 9\

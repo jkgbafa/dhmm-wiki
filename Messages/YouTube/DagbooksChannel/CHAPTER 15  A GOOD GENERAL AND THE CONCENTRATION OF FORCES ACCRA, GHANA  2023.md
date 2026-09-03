@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Leadership", "Leadership/Generals and History Makers", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Father, thank you for your blessing in Jesus name. Amen. Amen. You may be seated. Now we are in this conference looking at what it means to be a good general. How many are becoming good generals? Yes. Good generals. God is blessing you to be a good general. A good general and concentration of forces. Chapter 15. I'm so sorry that we are going so slowly. We should have been far advanced by now. But we are only on chapter 15. We have 76 chapters to go. Philippians chapter 3:E3. This we are just having a short session and

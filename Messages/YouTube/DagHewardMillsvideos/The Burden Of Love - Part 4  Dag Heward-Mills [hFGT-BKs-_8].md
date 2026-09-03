@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hFGT-BKs-_8"
 duration_min: 257
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 lord i fast for you lift your voice and i long too in your prayers my soul will wait for you father draw me nearer draw me nearer to the beauty of your and i long to be hallelujah and i long to be lord lift your hands and say my soul in this service i don't want to be fired hallelujah with one voice with lifted hands let's tell him i will wait for you i will pray almighty it's so beautiful this morning if you are not tired i want us to sing that past one more time

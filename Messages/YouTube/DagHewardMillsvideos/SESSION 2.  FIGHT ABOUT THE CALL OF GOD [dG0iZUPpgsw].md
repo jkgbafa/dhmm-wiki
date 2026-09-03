@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=dG0iZUPpgsw"
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-call-of-god", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 then chapter 2 verse 1 apiece Dicky Iike it says eternity neva we are his workmanship appear once again a crea y7 once related in Christ Jesus Christus wanted to llama wahoo and one good wax was a commentary about save you the Sun which God has before ordained in one same illegitimate a room gotta walk in them a p8 Oregon II matulak a man can open ISA Amen - Amen - 10 a piece decayed dire to verse 10 decade I a piece of decade the higher a man a man so we are his workmanship you once

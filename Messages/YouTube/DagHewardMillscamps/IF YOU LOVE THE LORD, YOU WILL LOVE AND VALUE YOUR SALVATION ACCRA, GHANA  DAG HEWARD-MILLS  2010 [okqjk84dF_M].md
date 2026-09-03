@@ -8,6 +8,8 @@ year: 2010
 duration_min: 184
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 so if you really love the Lord you will love and value the Salvation more than anything else and to me your love for the Lord is shown by your interest and your love for your salvation I found out that the more people love the Lord the more they are amazed that they are saved they're shocked that they are saved they are surprised that they are saved they look around and they realize that I could easily not be saved easily easily easily just look around you and see people that are just like you and you realize

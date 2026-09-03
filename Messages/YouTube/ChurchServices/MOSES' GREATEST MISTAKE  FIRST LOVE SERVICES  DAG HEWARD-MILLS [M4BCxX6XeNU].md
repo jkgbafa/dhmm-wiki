@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=M4BCxX6XeNU"
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 come closer to me closer to me I want to heal you I want to touch you all those S and all SE that you have through the years I want to he you the Lord you try so have to hide all the pain you feel inside you hope my body through your the still you wish somebody knew what was reallying you but you to so let them see you cry when hard to try your heart for today you will here Theos I toal I to heal you I to well I want you to know there

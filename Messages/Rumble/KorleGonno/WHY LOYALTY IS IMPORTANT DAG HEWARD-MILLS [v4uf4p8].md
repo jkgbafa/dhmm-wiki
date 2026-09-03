@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uf4p8/"
 duration_min: 39
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 Amen. We thank the Lord for this morning. I believe this morning God has a word in the season for us to give us direction and give us wisdom to apply in our everyday situation. We have a man of God whom we love to hear and to receive his ministry because his ministry was power and wisdom. Amen.

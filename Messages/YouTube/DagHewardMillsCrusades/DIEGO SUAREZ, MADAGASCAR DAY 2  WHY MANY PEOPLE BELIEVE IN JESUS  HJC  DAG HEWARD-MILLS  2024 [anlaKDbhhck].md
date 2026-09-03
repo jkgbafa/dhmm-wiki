@@ -9,6 +9,8 @@ duration_min: 65
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/DIEGO SUAREZ, MADAGASCAR DAY 2 WHY MANY PEOPLE BELIEVE IN JESUS HJC DAG HEWARD-MILLS 2024 [anlaKDbhhck]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 how many love Jesus yes if you were the door or you were the way you should have said it earlier amen amen Jesus is Alive number two reason why a lot of people believe in Jesus is because of his miracles hey Jesus did fantastic Miracles everybody say fantastic he healed lepers Le leprosy was cancer of those days yes in in those days if you have leprosy is finished Jesus healed lepers people were afraid people were afraid to touch lepers Jesus will just heal 10 lepers in one minute wow wow Jesus would heal the blind yes

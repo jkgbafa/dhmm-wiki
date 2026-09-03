@@ -4,6 +4,8 @@ book: "How You Can Preach Salvation"
 book_number: "027"
 chapter_number: 39
 type: book
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 ### Salvation Message 37: 

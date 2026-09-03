@@ -9,6 +9,8 @@ duration_min: 100
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/TSALACH NIGHT 2025 YEAR OF BLESSING AND NO CURSE FIRST LOVE CHURCH DAG HEWARD-MILLS 2025 [ql_alN5Fr2s]]]"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 You are my rose of Shon. You're my lily of the night. You're my lily among the my daughter. You are a nice choir to conduct. You are my rose of sh. You're my lily of the valley. You're my lily up among the love. Ah, you are beautiful choir. God bless you. Oh, I love to be in God's house. Now we've already crossed over, dealt with curses, magical actions, ill wishes, malevolent adiano. You know, you don't even have to understand when you see the word, it's not a good thing. You get me? But um God has

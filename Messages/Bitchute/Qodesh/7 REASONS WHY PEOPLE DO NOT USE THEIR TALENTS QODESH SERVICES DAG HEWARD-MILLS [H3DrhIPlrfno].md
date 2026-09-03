@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/H3DrhIPlrfno/"
 duration_min: 45
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Let us pray, Father. We thank you so much for today for the opportunity we have to come to you to receive your word to hear what your spirit is saying. Thank you, Lord. We are grateful for the opportunity. Grateful for the chance.

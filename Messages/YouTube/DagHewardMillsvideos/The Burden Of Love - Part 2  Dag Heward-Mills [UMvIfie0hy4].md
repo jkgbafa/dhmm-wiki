@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=UMvIfie0hy4"
 duration_min: 154
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Prayer/Praying in Tongues", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 god has given us victory he has taken away our fears move us dance my life is full of glory life foreign oh oh is god god has given us we oh everybody he has taken away we have the victory mix oh come on put your hands together for jesus oh i don't feel your excitement put your hands together for jesus amen well the bible teaches us that the word of god is the power of god apostle paul said that i'm not ashamed of the gospel because it's the power of god unto salvation amen and today

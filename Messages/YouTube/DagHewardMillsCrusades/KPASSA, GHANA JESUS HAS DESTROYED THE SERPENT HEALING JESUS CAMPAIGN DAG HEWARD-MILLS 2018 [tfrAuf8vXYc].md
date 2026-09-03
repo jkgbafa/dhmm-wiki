@@ -8,6 +8,8 @@ year: 2018
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Messi, yes you don't know and unkoutoni odopa Passa foi pautino Yes you don't die on the men to stop the paut Yes you do pautoy Mouse Odapa Opa Bodobi O Tobi Oto Besouye Mamento me caso dumbies um yesou Ni doy oh yeah Nanito Once none once I was ya see you soon go as you know what see ya now Was soy bonnie Yen I soon de Wan Soucha Yeah Now my set O Dopa Oto Besou India Mon Sunday Oh Dope Oh Tobi Yes What you do so I said Oh Worry Ba O'Reilly John Ya China N'Ense Offia Who Sweet Ya Route Sweet What Yesu Dia Ori Bano What's Yano What's Yuan Yesou Dope Oh Dope Woman Yes Oto Bah O Dobi Yes Diaba O'E Sur Run and S Yami Give it up for I for Vivaldi.

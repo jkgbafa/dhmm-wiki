@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7E7ZxYdyT1k"
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Intercession", "Prayer/Praying in Tongues", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/prayer/intercession", "topic/prayer/praying-in-tongues", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 when you feel down if you like cut the power button that you are faced with circumstances but you cannot in the room but now it me a Paris Norway out you're going under just moving tries time again haha call me in half you are fruity he on the bed search har your heart you I just thought if you run away you ah again jungbaek Oh oh wow haha hallelujah let us pray father thank you for this morning and thank you for your holy word thank you for bringing us to church this morning we pray that

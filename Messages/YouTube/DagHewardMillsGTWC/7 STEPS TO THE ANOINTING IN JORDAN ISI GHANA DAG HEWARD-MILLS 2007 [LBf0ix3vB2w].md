@@ -8,6 +8,8 @@ year: 2007
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Prayer"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/prayer"]
 ---
 
 I just want to be where you are. Dwelling daily. I don't want to worship from my eye. I just want to be with you. I just want to be where you are.

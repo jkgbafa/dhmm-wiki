@@ -8,6 +8,8 @@ year: 2023
 duration_min: 47
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 now John chapter 10 I'm going to share something just very brief and then we are going to take a break for come early in the morning amen now I want to say something maybe you have not heard that way before but the way Jesus subdued the kingdoms of this world the way God subdued the kingdom of this world was to send a Shepherd so in John chapter 10 Jesus said are you there I am the Good Shepherd amen and then he goes on to say in he says I am the Good Shepherd the Good Shepherd

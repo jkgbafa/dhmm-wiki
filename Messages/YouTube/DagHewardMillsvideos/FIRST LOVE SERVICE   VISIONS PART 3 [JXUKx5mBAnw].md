@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JXUKx5mBAnw"
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 the path Adobe your wall yes good idea you're the path do you Hoppa to be your wore yesterday yeah you're Japan you yes mommy - metaphor no never who you gonna be it's a boy yes soon you'll be na yo yo yo yo nanny doughy Europa ha ha ha Yahoo oh hey Yahoo oh na na na na once in a Nagini my wife in anonymously but sunny but that's it's all oger random was the way over where take the way open ah money IAEA will mommy mommy ah - ah me bunny Masuda was bestowed on

@@ -8,6 +8,8 @@ year: 2005
 duration_min: 52
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer"]
 ---
 
 an in Hallelujah for me brother me amigo Emmanuel Sak inter Pedro rera hallu Hallelujah gra Jes Gra hallelujah hallelujah can we all stand please let us pray heavenly father thank you for today thank you for this opportunity to preach your word Lord we ask that you would heal the sick tonight that you would heal our lives tonight that you would do your will thank you for your blessing thank you for miracles thank you for healing we love you everybody lift your hand me son be he Mak H be be for the last time every lift

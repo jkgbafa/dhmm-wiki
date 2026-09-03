@@ -8,6 +8,8 @@ year: 2008
 duration_min: 102
 source: "whisper"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 I will arise Lord I will arise I will arise today Lord I will arise Lord I will arise I will arise to day in the days of Damia He was a prophet He was a prophet of God when he heard of the broken walls of Jerusalem The Bible says that he has dead and he prayed to the God of heaven Oh stay and he prayed it traveled to the God to the God of heaven Oh then the king agree that the walls of Jerusalem should be built to the glory of the Lord then it be

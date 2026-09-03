@@ -8,6 +8,8 @@ year: 2015
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 Clap Your Hands for Jesus and um keep clapping keep clapping let's receive our daddy fantastic lift your hand and receive the shepherding anointing thank you Jesus for another dose of your anointing we worship you Lord for your power your grace in our lives in Jesus name we pray amen amen you may be seated now shepherding shepherding shepherding mega church pastors I've shared with you some things that I believe are necessary for you to become a shepher a good a pastor this your career amen and now I want to share with you another uh thing that

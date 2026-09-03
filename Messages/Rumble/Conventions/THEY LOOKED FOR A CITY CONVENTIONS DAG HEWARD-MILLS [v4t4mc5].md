@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t4mc5/"
 duration_min: 72
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Just touch from your love is said and I want all that I want when all is said. Come on. Lift your hands to him. Lord, your Lord. You are really come on.

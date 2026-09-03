@@ -8,6 +8,8 @@ year: 2011
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Prayer"]
+tags: ["topic/marriage-and-family", "topic/prayer"]
 ---
 
 As for those you suffer, it pleases Him that you suffer because it pleases Him. 5:10 He has the wounded one to the Lord. He pleases God that you suffer—how wicked he seems—and He has the Lord to break him. And He has put suffering to suffering. Are you listening to me? Hallelujah, hallelujah! God is happy when you experience certain sufferings that are difficult to bear, but it's true. When I was at boarding school, I knew all about suffering. I suffered at school. I was happy to suffer because I always said that I didn't know they were

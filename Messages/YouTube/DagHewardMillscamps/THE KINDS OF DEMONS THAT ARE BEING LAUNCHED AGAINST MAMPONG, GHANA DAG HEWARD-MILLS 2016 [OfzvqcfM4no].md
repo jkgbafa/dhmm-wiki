@@ -8,6 +8,8 @@ year: 2016
 duration_min: 164
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Welcome to trap number seven of Le Pou Petit de Vendra million. Let's welcome Ida to bless us. I'm not happy with your shout at all. Enter the narrow way the way of life that leads to life so many few on this road, but it is the way that leads to life. There is the broad way that leads to death and hell and the grave.

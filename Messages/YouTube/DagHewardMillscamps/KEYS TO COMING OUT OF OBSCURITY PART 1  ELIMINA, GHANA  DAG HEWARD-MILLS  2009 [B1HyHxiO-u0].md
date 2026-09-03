@@ -8,6 +8,8 @@ year: 2009
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to megaw a life-changing encounter with the word of God from Bishop dward Mills dward Mills a medical doctor by profession is the founder and Bishop of the lious Chapel International he pastors the lighthouse Cathedral a thriving church with several thousand members in arra Ghana and the network of over 400 churches worldwide operating in more than 30 countries in Africa Europe North America South America and Australia Bishop dagood Mills who has a red teaching gift has traveled extensively and ministers powerfully under the anointing with more than 20 years experience in the ministry the impact of

@@ -8,6 +8,8 @@ year: 2014
 duration_min: 124
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Prayer", "Prayer/Intercession"]
+tags: ["topic/anointing", "topic/prayer", "topic/prayer/intercession"]
 ---
 
 yes that you'll be an intelligent Pastor that you'll be open up to a lot of things that you be open up to a lot of things yes that we may not be narrow minded but our minds will be broadened our minds will be broadened our minds will be broadened that the Holy Spirit shall influence US influence our knowledge of the Lord influence our understanding of the Lord influence our counsel that we may give good advice that we may even receive instruction and receive good advice from pastors and from our leaders lift your voice and ask

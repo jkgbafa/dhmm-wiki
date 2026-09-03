@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ue7rk/"
 duration_min: 39
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer"]
 ---
 
 Hallelujah. Let us pray. I want you to ask God to speak to your heart this morning. Ask him to speak to your heart this morning. Thank you, Jesus, for your word today.

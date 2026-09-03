@@ -3,6 +3,8 @@ title: "Recap with Bishop David  Belmopan, Belize  Dag Heward-Mills  2024_10hLlB
 channel: "DagHewardMillscamps"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 amen hallelujah oh clap your hands together for Jesus amen can we take our seats please Hallelujah are you enjoying yourself are you catching an anointing are you experiencing some wi elements in your life all right so we just want to do a short recap before Prophet comes so we can all take our notes and just go through it quickly all right have you been blessed so far have you been blessed Hallelujah let's clap our hands together for the anointing and the power that's upon our Prophet very quickly hallelujah amen all right so um first John

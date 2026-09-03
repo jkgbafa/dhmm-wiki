@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=n9uJJVyAP18"
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I just wanna thank you I just wanna thank you I just wanna thank you I just wanna thank you I just wanna thank you I just wanna thank you I just wanna bang I wanna wear 10 man in the Bible they have been sick for so very long but when oh that disease will feel that sanity and to know what it is they always thought they went on their merry merry way and don't be one returns insane I've got something I'd like baby take a little time right now when we're back for all he's done

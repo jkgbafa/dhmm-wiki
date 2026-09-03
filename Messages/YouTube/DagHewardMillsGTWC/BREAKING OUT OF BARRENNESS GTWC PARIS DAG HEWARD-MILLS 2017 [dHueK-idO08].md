@@ -8,6 +8,8 @@ year: 2017
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-holy-spirit"]
 ---
 
 We are going to pray a very important prayer as they sing the song. That the spirit of supplication will come upon us. We learned the last session. That what we are dealing with in the ministry. There are roadblocks.

@@ -8,6 +8,8 @@ year: 2010
 duration_min: 188
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 number one um The Mystery of the seeds The Mystery of the bag of seeds since you want some point number one seeds are a Divine have you got your lists who are those who how many would prefer to go to Africa rather than the Caribbean can I see your hand if you prefer Africa to the Caribbean raise your hand let me see n are you going to go this time have you finished your PhD look Pastor Richard look at their hands those who will prefer you prefer afri write write these names write it called prefer

@@ -8,6 +8,8 @@ year: 2018
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 Now the Lord spoke to Moses saying this is what pertains to the ministry from twenty-five years old and above they shall serve in the tabernacle of the Lord But at the age of fifty they shall step back from the priest they will assist their brothers in the service of the Lord Younger people will take up the ministry This is your time to work from twenty-five to fifty This is your season twenty-five to fifty it is the best time of your life to work for the Lord twenty-five to fifty twenty-five to fifty twenty-five to fifty twenty-five to fifty it is good for a man that he bear the yoke in his youth, you must understand that you don't have forever, you cannot postpone the time of your sacrifice.

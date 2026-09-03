@@ -8,6 +8,8 @@ year: 2018
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 early in the morning as the new days Dawn in I love to listen to your talk to me and I want to talk to you early in the morning ask the new days da I love to listen to you talk to me and I want to talk to you see early in the morning when I awake it feels so good to give you prise prise tell you how I love you what you mean to me I want to talk to you and it's so easy to make mistakes when I try to do things my own

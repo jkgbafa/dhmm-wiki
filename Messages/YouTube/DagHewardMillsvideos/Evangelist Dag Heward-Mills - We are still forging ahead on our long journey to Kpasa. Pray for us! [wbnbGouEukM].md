@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wbnbGouEukM"
 duration_min: 4
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism"]
 ---
 
 here will join me again we are on our way from Jesus campaign what happen is the man get three trailers out of the man so when we finally got them out of the mud then we started exchanging and we just arrived at this bridge which crosses the OT River we up in the north of Ghana so you can see the River Bridge we are very high up in the air and we have the ot River flowing across it's really beautiful what do you think it's actually quite beautiful you wouldn't hear about this mo proper this

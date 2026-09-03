@@ -8,6 +8,8 @@ year: 2009
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Matthew chapter 23: 23 what does it say what to you scribes and Pharisees what do you scribes and Pharisees for you tithe mint and Dale and cumin and have neglected the weightier provisions of the law Justice or the King James says judgment I'm reading reading from The New American Bible Justice or judgment the King James says Mercy or love or loving kindness and faithfulness amen faithfulness this is these are the weightier matters but these these are the things you should have done without neglecting the others amen so brothers and sisters it is important for us

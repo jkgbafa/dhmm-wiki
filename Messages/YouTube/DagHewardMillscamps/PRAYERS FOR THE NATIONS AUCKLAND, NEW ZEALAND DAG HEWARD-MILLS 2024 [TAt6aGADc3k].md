@@ -9,6 +9,8 @@ duration_min: 80
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PRAYERS FOR THE NATIONS  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024 [TAt6aGADc3k]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Missions", "Missions/The Nations", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/missions", "topic/missions/the-nations", "topic/prayer"]
 ---
 
 Psalm 2. Verse 1. Why do the heathen rage? Change diversion to the Americano. We are ending, and we are praying as we end.

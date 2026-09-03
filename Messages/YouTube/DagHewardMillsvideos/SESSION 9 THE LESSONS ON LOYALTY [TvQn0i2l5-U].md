@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=TvQn0i2l5-U"
 duration_min: 102
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 but you God the God my god dealers clothes come on this is a so what do i clap my hands and what was that Muffy what it was cream solo I know lunatic I'm not but I think I've never dated to the one who'll save me I am every day nothing's agreeing with me I know yes ah whoa Oh morning no matter what can't be made up my mind middle of the line every day what let us pray father thank you so much for this great opportunity that we have in your presence Lord hear your

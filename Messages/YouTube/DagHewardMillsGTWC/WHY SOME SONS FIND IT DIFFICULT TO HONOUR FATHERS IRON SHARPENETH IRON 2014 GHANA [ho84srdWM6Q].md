@@ -8,6 +8,8 @@ year: 2014
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 The what I am sharing about to transform your ministry is only applicable to spiritual people. If you are not spiritual, you will not understand how this affects your ministry. So I am sharing on loyalty and disloyalty. And the Pacific area is those who are dangerous sons. Also loyalty and disloyalty, those who accuse you.

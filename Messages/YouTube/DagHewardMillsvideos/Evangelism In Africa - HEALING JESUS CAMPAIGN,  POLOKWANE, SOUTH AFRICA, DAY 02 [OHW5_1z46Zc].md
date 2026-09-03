@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=OHW5_1z46Zc"
 duration_min: 131
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 are you ready to repeat welcome without thee to bless after the course are you ready Missy ha ha to be sober anna gabov Oh Lucy haha I'm Monty someone watching garlicky look Louie listen Cuba kids when you're done give a kiss for Cola keep honorable sangoma keep on up BB love yaha Felicia Sissel Yahoo - Misha disorder awfully hard to be shot yes I will retire you let that old bubbly Netanyahu Boresha come on Yahoo Misha Gloria war attack Rosalie Oh your hands tonight well equality are you ready to repeat what God has for you

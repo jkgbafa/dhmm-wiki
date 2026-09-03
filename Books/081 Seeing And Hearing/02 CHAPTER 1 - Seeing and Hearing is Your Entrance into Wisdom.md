@@ -4,6 +4,8 @@ book: "Seeing And Hearing"
 book_number: "081"
 chapter_number: 2
 type: book
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 ### CHAPTER 1\

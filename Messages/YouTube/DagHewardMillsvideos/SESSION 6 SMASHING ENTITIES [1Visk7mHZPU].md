@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=1Visk7mHZPU"
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 when people try to destroy me try to make before we put me up on the last out of the retail demo but my enemy try to hurt me I don't have to worry how many tears not just here but everywhere I'll go too and I'll teach you pain by the be like level nine he carried me over here Oh what is my heart is from day to day you know what I'm you know that you with my night Hey my life come on put your hands together for the Lord amen now if you are outside

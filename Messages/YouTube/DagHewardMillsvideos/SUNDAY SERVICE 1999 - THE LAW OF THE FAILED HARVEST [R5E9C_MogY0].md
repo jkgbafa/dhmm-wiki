@@ -8,6 +8,8 @@ year: 1999
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 Mexico they glory to the name of the Lord you don't know movie pass both pass laws and go back through the name of a a glory than a one Chloe Nugent in the name of the name what is the name of the Lord what is the name of the Lord I say here what is the name of the Lord and so what is the name of the Lord somebody say Jehovah Jireh somebody say Tahoma Rafa somebody says dominici somebody start season what is the name of the Lord come on mátalo oh they wanted their money

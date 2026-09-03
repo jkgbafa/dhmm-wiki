@@ -8,6 +8,8 @@ year: 2025
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Marriage and Family", "Marriage and Family/Children and Parenting", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Wow. Please stand to your feet. I want us to give a warm appreciation to our mother, the first lady. I want to thank you for your very kind and welcoming words. for me into your great pulpit in this very beautiful church building. Amen. and appreciate all that you said and about offense. And the need for us to also be givers. Amen. Amen. And what our mother was saying is that in Africa we are used to receiving. But the time has come that we must also be givers. No one ever prospers by receiving. You have to

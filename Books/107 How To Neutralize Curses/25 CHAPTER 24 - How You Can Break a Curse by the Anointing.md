@@ -4,6 +4,8 @@ book: "How To Neutralize Curses"
 book_number: "107"
 chapter_number: 25
 type: book
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Curses", "The Holy Spirit", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/the-holy-spirit", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 #### CHAPTER 24\

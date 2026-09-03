@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=q-xCTVE8hrM"
 duration_min: 140
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 what a blessing it is to have you join us with flow church this morning it's a good time for us to come before the Lord with Thanksgiving it is a good time for us to come before the Lord with appreciation just lift your voice wherever you find yourself in come before the Lord with all your Thanksgiving be thankful unto the Lord praisins bless him for yet another opportunity to serve him with all gladness oh Jesus we praise you this morning we bless you this morning we appreciate you this morning good to ask Jesus and we

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=QM89wh5G18E"
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Salvation", "Salvation/The New Birth", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/salvation", "topic/salvation/the-new-birth", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 with a round of applause we want to welcome the Trinity FSE drummer group and everything that good that comes to it by in my time you made a lot of mistakes H daddy look at this one no let's go back yes this no this one this one isn't that aunti ama oh yes that was anti wow that's when she was in school she was beautiful she was the hottest chick on campus she was very prayerful until one day he met one guy hello hello hello my name is James Bond AKA Ricky Ricky Z Rick hey

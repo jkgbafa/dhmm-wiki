@@ -8,6 +8,8 @@ year: 2024
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 now when you pray for Laborers When you pray for Laborers this is what you are praying for John chap 10:1 from today when we pray for Laborers this is a prayer topic I'm just giving you a prayer topic When you pray for Laborers this is what you are praying for verily I say unto you he that entereth not by the door into the Sheepfold but climbeth up some other way the same is a thief and a robber these are the people that are going to disturb us thieves and Robber all orus can be categorized as

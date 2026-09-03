@@ -4,6 +4,8 @@ book: "Seeing And Hearing"
 book_number: "081"
 chapter_number: 7
 type: book
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 ### CHAPTER 6\

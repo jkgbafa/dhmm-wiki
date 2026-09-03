@@ -9,6 +9,8 @@ duration_min: 124
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/TAKE DECISIONS   ELMINA, GHANA DAG HEWARD-MILLS  2005 [XOawplHyDwo]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Children and Parenting", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 We have in Jesus' name, amen. You may be seated. Now the next um thing that we want to talk about. I believe we are blessed this morning. Amen.

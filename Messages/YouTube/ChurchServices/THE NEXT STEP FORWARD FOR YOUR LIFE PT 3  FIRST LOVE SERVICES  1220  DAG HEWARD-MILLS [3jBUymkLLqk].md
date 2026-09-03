@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=3jBUymkLLqk"
 duration_min: 226
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Salvation", "Salvation/The New Birth", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/salvation", "topic/salvation/the-new-birth", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we just want to be thankful to God this morning amen it's the last but one Sunday of the year and we just want to worship and bow down amen amen David said in Psalms come let us worship and bow down amen amen hallelujah thank you Jesus for an opportunity to worship you we were created for his pleasure thank you Jesus how many worshippers do we have in here sing come let us come let us worship and bow down let us kneel before let us kneel before the Lord Our God our maker come let us worship

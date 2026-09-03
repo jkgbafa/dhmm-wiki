@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2006
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 Disobedient people often have a rebellious streak. Now, how many know that our obedience is in levels? Obedience is something that you can use to um test somebody's loyalty to you. And actually, it's actually something that you you you do. When I say loyal, the extent of the person's faithfulness and the extent of the person's commitment. Are you with me? Are you there? You've gone home. Now, what can you get somebody to do? Right? For instance, many of you are you we can get you to go and announce everybody's pay is going to be increased. It

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u6fhc/"
 duration_min: 43
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 2 Corinthians chapter 9 verse 1. For us touching ministering to the saints, it is superfluo to ride unto you. For I know the forwardness of your mind, which I boast of you to them in Macedonia. Alright. And that Achia was ready a year ago, and your zeal has provoked many.

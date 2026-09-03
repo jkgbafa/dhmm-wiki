@@ -9,6 +9,8 @@ duration_min: 19
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/SALVATION JUDGEMENT AND HELL GTWC PARIS DAY 3 SESSION 4 2025 DAG HEWARD MILLS [f6ChcVeFN0w]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation"]
 ---
 
 Next comes salvation, judgment, and hell. H Show us some messages there. All of you are going to go out into Europe. You are going to France. You are going to Germany. You going to tell them John 3:16, the blood of Jesus wash away whatever you know you are powerful holding the glorious gospel. From today onwards, everyone will be released to preach this glorious message. Whether in France or in Germany, I tell you, all of Europe will open its heart to this magnificent message which is the glorious gospel. The judgment, what are you going to preach

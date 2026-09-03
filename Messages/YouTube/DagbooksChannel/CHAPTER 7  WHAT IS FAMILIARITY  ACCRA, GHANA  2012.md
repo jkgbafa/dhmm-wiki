@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2012
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 defining familiarity. Familiarity means to know someone or something. To know someone so well and in such a way as to cause you to lose your admiration, your respect, and your sense of awe. All right. Shall I say it again? Familiarity is means to know somebody so well or even if you don't know the person so well to know a person in such a way as to lose your respect or your admiration or your sense of awe. All right. Are you with me? Yes, sir. And I'm going to say it again because familiarity is a very

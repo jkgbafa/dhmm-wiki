@@ -8,6 +8,8 @@ year: 2009
 duration_min: 78
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 I will have to find And will be battles that I will have to find But victory It's up to me to sign But how can I expect to win if I never try just can't give up I've come too far from where I still Nobody told me the road would be easy and I told me his promise is not to leave me never said there will be trials He never said I won't walk He never said that everything go the way I want it to go But when my back is against the wall When I

@@ -8,6 +8,8 @@ year: 2014
 duration_min: 125
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 this song is about a young boy or a young man who his name is Johnny and we all trying not to be like Johnny amen Johnny oh Johnny Johnny joh used to go to church when he had no money in his pocket Johnny was always faithful in his work whenever the door was open he was at church joh pray was Lord bless me and need a job I'm on my face where you're coming from and where your life would have been bless viory you John remember where you're coming from and where your life would bless

@@ -4,6 +4,8 @@ book: "Going Deeper And Doing More"
 book_number: "077"
 chapter_number: 11
 type: book
+topics: ["Prayer", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/prayer", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 ### CHAPTER 10\

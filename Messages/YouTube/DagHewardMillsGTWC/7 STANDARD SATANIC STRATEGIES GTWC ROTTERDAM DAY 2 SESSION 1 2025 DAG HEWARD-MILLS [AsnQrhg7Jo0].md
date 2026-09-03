@@ -8,6 +8,8 @@ year: 2025
 duration_min: 35
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 Now how many know what is SSS? S you don't know SSS? SSS stands for Standard Satanic Strategy. Standard Satanic Strategy. Standard satanic strategy.

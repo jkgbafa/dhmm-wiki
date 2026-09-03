@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=olKeIfndX0M"
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 So you see the point that I'm trying to explain is that just as you can't know that you have a liver and you don't know that you have a spleen or a kidney you also don't know that you have a spirit in you. So when you are saved you your spirit is what is changed. Your spirit is changed. Body of the man in three let us make him to be like us. You get it? So when you are saved, it is the the spirit that is saved. But as for the computer, the mind, the soul

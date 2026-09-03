@@ -8,6 +8,8 @@ year: 2024
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 and as you clap your hands we are welcoming Vivaldi to bless us with a song Jesus on on and your to me Jesus hey Hallelujah your ah the of Jesus Christ Hallelujah me say weor Jesus War now Jesus Jesus Jesus oh sister yes yes Jesus Jesus are yes aw awesome awesome a aw awesome Hallelujah let's clap our hands for theity are you being blessed tonight then let's receive Maya tonight Jesus is the answer for the world today above him there's no other Jesus is the way Jesus is the answer for the world today above him

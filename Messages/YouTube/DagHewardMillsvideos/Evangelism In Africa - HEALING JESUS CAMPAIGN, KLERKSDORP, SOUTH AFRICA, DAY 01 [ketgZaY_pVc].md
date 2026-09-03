@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ketgZaY_pVc"
 duration_min: 136
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 oh ye you know I do now it right i 2r do yeah love your hand he was left in the oven Jameer Angeles Gargamel organized haha Wow Wow oh wow what a night Chewbacca at 900 libellous in places you may please be seated let's go to lhamo party what a fantastic week we are enjoying here in pleasure keeper km o naughty haka tongue irritable semana klepto our lives will never be the same again macula Erina KK - wanna happy tonight the table set the Felipe kilo soon Boone and before we proceed pillory Filippelli it is

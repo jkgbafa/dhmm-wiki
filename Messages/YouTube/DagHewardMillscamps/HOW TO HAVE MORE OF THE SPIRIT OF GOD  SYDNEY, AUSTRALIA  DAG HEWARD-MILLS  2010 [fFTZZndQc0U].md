@@ -8,6 +8,8 @@ year: 2010
 duration_min: 200
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 father thank you for the blessing of your word in Jesus name amen amen you may be seated are you alive yes all right I've been waiting for you that's right right turn to John chapter 1 now what do we need to have have more than a thousand members in the church 1,000 members in Australia you can call this Camp Australia 1,000 wow okay 1,000 members in Australia now one of the things that we really need is the anointing amen now many of us are not anointed do you understand and because we are not anointed because

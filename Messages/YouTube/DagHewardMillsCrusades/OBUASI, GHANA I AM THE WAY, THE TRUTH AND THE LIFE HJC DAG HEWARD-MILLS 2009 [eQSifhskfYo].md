@@ -8,6 +8,8 @@ year: 2009
 duration_min: 158
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 One Sanu you might one sanity I will be outside on me on me so my case hallelujah to say oh Yamen o'clock Yesy Rao Yesano you may wanna say oh Yamia worship the Lord Yesira woo she might say oh fat you sorry oh my cat baby I won't be more so my name oh my cataluya oh Yamia O Fat I San You may one baby I will be out the best of you are coming on so you know what it means you might say no cafe hallelujah oh Yamia O Tiashira wound a sorrow in a mean or just just just worship the Lord whatever you are just worship him in the name of Jesus In the name of Jesus in the name of Jesus just worship him let that let the let the egg here and let every tree here and let all that is within us and let all that is in our boise here our praise and our worship unto Jesus in the name of Jesus In the name of Jesus in the name of Jesus Father we worship you we are for you there is none like you among the gods who is like unto you you are glorious in holiness.

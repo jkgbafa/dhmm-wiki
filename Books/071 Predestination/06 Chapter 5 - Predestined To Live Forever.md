@@ -4,6 +4,8 @@ book: "Predestination"
 book_number: "071"
 chapter_number: 6
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Wealth and Finances"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/wealth-and-finances"]
 ---
 
 ### Chapter 5\

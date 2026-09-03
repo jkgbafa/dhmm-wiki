@@ -8,6 +8,8 @@ year: 2018
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/leadership", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Ladies and gentlemen, we are really blessed tonight. Now tell the person sitting next to you, if you misbehave, I'll walk you out of this service myself. I'll walk you out myself. Let us welcome Pastor David Samura all the way for the world. Well, I must tell you.

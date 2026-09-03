@@ -8,6 +8,8 @@ year: 2016
 duration_min: 91
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 and I see a few chairs at the back if you just came you can occupy one of them and be comfortable Tonight Tonight is a final night of our campaign healing Jesus campaign here in K and it's my joy to welcome the chairman of the Board of Trustees of healing Jesus campaign here in kadoma to bring us his final remarks and also introduce our mayor and our Member of Parliament who are also with us once again I want to welcome you to the second blessed day of the Lord tonight I believe Kad will never be

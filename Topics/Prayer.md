@@ -1,39 +1,330 @@
 # Prayer
 
-## Books
-- [[Books/041 100 Answered Prayer 2Nd Ed/01 Front Matter|100 Answered Prayer 2Nd Ed]] (7 chapters)
-- [[Books/051 Everything By Prayer Nothing Without Prayer/01 Front Matter|Everything By Prayer Nothing Without Prayer]] (23 chapters)
-- [[Books/086 Prayer Changes Things Prayer Secrets/01 Front Matter|Prayer Changes Things Prayer Secrets]] (11 chapters)
-- [[Books/098 Prayer Opportunities/01 Front Matter|Prayer Opportunities]] (18 chapters)
-- [[Books/111 How To Pray/01 Front Matter|How To Pray]] (11 chapters)
-- [[Books/115 Read Your Bible Pray Everyday If You Want To Grow/01 Front Matter|Read Your Bible Pray Everyday If You Want To Grow]] (16 chapters)
+Tagged by content: `topic/prayer`
 
-## Book chapters
-- [[Books/008 Church Planting/15 Chapter 14 - Intercession The Way out of Barrenness|15 Chapter 14 - Intercession The Way out of Barrenness]] — *Church Planting*
-- [[Books/017 Transform Your Pastoral Ministry/04 Chapter 3 - Ten Reasons Why Every Minister Should Pray|04 Chapter 3 - Ten Reasons Why Every Minister Should Pray]] — *Transform Your Pastoral Ministry*
-- [[Books/017 Transform Your Pastoral Ministry/07 Chapter 6 - Five Ways for Pastors to Pray Effectively|07 Chapter 6 - Five Ways for Pastors to Pray Effectively]] — *Transform Your Pastoral Ministry*
-- [[Books/017 Transform Your Pastoral Ministry/08 Chapter 7 - Six Reasons for Praying Strategic Bible Prayers|08 Chapter 7 - Six Reasons for Praying Strategic Bible Prayers]] — *Transform Your Pastoral Ministry*
-- [[Books/017 Transform Your Pastoral Ministry/09 Chapter 8 - Seven Examples of Praying Fervently|09 Chapter 8 - Seven Examples of Praying Fervently]] — *Transform Your Pastoral Ministry*
-- [[Books/017 Transform Your Pastoral Ministry/10 Chapter 9 - Seven Signs of Fervent Prayer|10 Chapter 9 - Seven Signs of Fervent Prayer]] — *Transform Your Pastoral Ministry*
-- [[Books/017 Transform Your Pastoral Ministry/11 Chapter 10 - Nine Steps to Praying for a Long Time|11 Chapter 10 - Nine Steps to Praying for a Long Time]] — *Transform Your Pastoral Ministry*
-- [[Books/017 Transform Your Pastoral Ministry/12 Chapter 11 - Two Steps to Understanding Intercession|12 Chapter 11 - Two Steps to Understanding Intercession]] — *Transform Your Pastoral Ministry*
-- [[Books/017 Transform Your Pastoral Ministry/13 Chapter 12 - Twenty Reasons Why Every Pastor Needs an Intercessor|13 Chapter 12 - Twenty Reasons Why Every Pastor Needs an Intercessor]] — *Transform Your Pastoral Ministry*
-- [[Books/017 Transform Your Pastoral Ministry/27 Chapter 26 - Thirtytwo Reasons Why I Pray in Tongues|27 Chapter 26 - Thirtytwo Reasons Why I Pray in Tongues]] — *Transform Your Pastoral Ministry*
-- [[Books/025 Others/15 Chapter 14 - Job Was Healed Because He Prayed for “OTHERS”|15 Chapter 14 - Job Was Healed Because He Prayed for “OTHERS”]] — *Others*
-- [[Books/026 Tell Them 120 Reasons Why You Should Be A Soul Winner/08 Chapter 6 - A Prayer and a Prophecy|08 Chapter 6 - A Prayer and a Prophecy]] — *Tell Them 120 Reasons Why You Should Be A Soul Winner*
-- [[Books/042 Forgiveness Made Easy 3Rd Ed/03 CHAPTER 2 - The Lord’s Prayer Test|03 CHAPTER 2 - The Lord’s Prayer Test]] — *Forgiveness Made Easy 3Rd Ed*
-- [[Books/046 How You Can Have An Effective Quiet Time With God Every Day/09 CHAPTER 8 - The Quiet Time – Your Chance for Daily Prayer|09 CHAPTER 8 - The Quiet Time – Your Chance for Daily Prayer]] — *How You Can Have An Effective Quiet Time With God Every Day*
-- [[Books/060 Faith Secrets/28 Chapter 27 - Faith Is Prayer and Prayer Is Faith|28 Chapter 27 - Faith Is Prayer and Prayer Is Faith]] — *Faith Secrets*
-- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/27 CHAPTER 26 - Wisdom Increases through Prayer|27 CHAPTER 26 - Wisdom Increases through Prayer]] — *Wisdom Is The Principal Thing For Your Ministry*
-- [[Books/081 Seeing And Hearing/08 CHAPTER 7 - Seeing and Hearing Improves Prayer|08 CHAPTER 7 - Seeing and Hearing Improves Prayer]] — *Seeing And Hearing*
-- [[Books/110 Name It Claim It Take It/29 Chapter 27 - Confessions for Improving Yourself in Prayer|29 Chapter 27 - Confessions for Improving Yourself in Prayer]] — *Name It Claim It Take It*
-- [[Books/126 Key Facts For New Believers/10 CHAPTER 9 - Grow in Your New Life by Praying Regularly|10 CHAPTER 9 - Grow in Your New Life by Praying Regularly]] — *Key Facts For New Believers*
-- [[Books/127 The Secret/09 Insist on a Daily Prayer Time|09 Insist on a Daily Prayer Time]] — *The Secret*
 
-## Messages (204)
+## All-night Prayer (27)
 
-### Messages / Bitchute / Qodesh
+#### Messages / Bitchute / UnquenchableFireServices
+- [[Messages/Bitchute/UnquenchableFireServices/FERVENT PRAYER NOVEMBER 2009 UNQUENCHABLE FIRE SERVICE DAG HEWARD-MILLS [BsKWO7UJefyw]|FERVENT PRAYER NOVEMBER 2009 UNQUENCHABLE FIRE SERVICE DAG HEWARD-MILLS]]
+
+#### Messages / Rumble / Conventions
+- [[Messages/Rumble/Conventions/Loving Our Maker By Perfecting Your Love for God HOMECOMING Dag Heward-Mills 2024 [v5kf1hh]|Loving Our Maker By Perfecting Your Love for God HOMECOMING Dag Heward-Mills 2024]]
+
+#### Messages / Rumble / WisdomImpartationServices
+- [[Messages/Rumble/WisdomImpartationServices/BE FILLED WITH THE HOLY SPIRIT WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS [v4syp3f]|BE FILLED WITH THE HOLY SPIRIT WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Rumble/WisdomImpartationServices/WISDOM OF KINGS MALAK WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS [v4svskk]|WISDOM OF KINGS MALAK WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS]]
+
+#### Messages / YouTube / DagHewardMillsGTWC
+- [[Messages/YouTube/DagHewardMillsGTWC/Enlarge Suddenly and Enlarge Against Hard Hearts Day 4, Session 2 with Dag Heward-Mills #gtwc2024 [jOsgCyhI1Eg]|Enlarge Suddenly and Enlarge Against Hard Hearts Day 4, Session 2 with Dag Heward-Mills #gtwc2024]]
+
+#### Messages / YouTube / DagHewardMillscamps
+- [[Messages/YouTube/DagHewardMillscamps/25 REASONS WHY YOU MUST HAVE A MEGA CHURCH  MAMPONG, GHANA  DAG HEWARD-MILLS  2019 [MgRMCqgA8-M]|25 REASONS WHY YOU MUST HAVE A MEGA CHURCH  MAMPONG, GHANA  DAG HEWARD-MILLS  2019]]
+- [[Messages/YouTube/DagHewardMillscamps/AUTHORITIES, WORKERS, PORTERS  ACCRA,GHANA DAG HEWARD-MILLS 2002 [d9j2y83niH4]|AUTHORITIES, WORKERS, PORTERS  ACCRA,GHANA DAG HEWARD-MILLS 2002]]
+- [[Messages/YouTube/DagHewardMillscamps/AUTHORITIES, WORKERS, PORTERS ACCRA,GHANA DAG HEWARD-MILLS 2002 [d9j2y83niH4]|AUTHORITIES, WORKERS, PORTERS ACCRA,GHANA DAG HEWARD-MILLS 2002]]
+- [[Messages/YouTube/DagHewardMillscamps/MANIFESTATION OF LOVE PT 3  ACCRA, GHANA DAG HEWARD-MILLS  2009 [yN9T7LvahzE]|MANIFESTATION OF LOVE PT 3  ACCRA, GHANA DAG HEWARD-MILLS  2009]]
+- [[Messages/YouTube/DagHewardMillscamps/MANIFESTATION OF LOVE PT 3 ACCRA, GHANA DAG HEWARD-MILLS 2009 [yN9T7LvahzE]|MANIFESTATION OF LOVE PT 3 ACCRA, GHANA DAG HEWARD-MILLS 2009]]
+- [[Messages/YouTube/DagHewardMillscamps/MANIFESTATIONS OF LOVE PT2  ACCRA, GHANA  DAG HEWARD-MILLS  2009 [cSAjb_zgbRE]|MANIFESTATIONS OF LOVE PT2  ACCRA, GHANA  DAG HEWARD-MILLS  2009]]
+- [[Messages/YouTube/DagHewardMillscamps/MANIFESTATIONS OF LOVE PT2 ACCRA, GHANA DAG HEWARD-MILLS 2009 [cSAjb_zgbRE]|MANIFESTATIONS OF LOVE PT2 ACCRA, GHANA DAG HEWARD-MILLS 2009]]
+- [[Messages/YouTube/DagHewardMillscamps/MEGA CHURCH  BONSU, GHANA  DAG HEWARD-MILLS  2005 [ZzeFRKHciq8]|MEGA CHURCH  BONSU, GHANA  DAG HEWARD-MILLS  2005]]
+- [[Messages/YouTube/DagHewardMillscamps/MEGA CHURCH BONSU, GHANA DAG HEWARD-MILLS 2005 [ZzeFRKHciq8]|MEGA CHURCH BONSU, GHANA DAG HEWARD-MILLS 2005]]
+- [[Messages/YouTube/DagHewardMillscamps/ONE THING THOU LACKEST; THE RETURN OF THE CROSS   BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002 [XacDYJ_Wp8M]|ONE THING THOU LACKEST; THE RETURN OF THE CROSS   BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002]]
+- [[Messages/YouTube/DagHewardMillscamps/ONE THING THOU LACKEST; THE RETURN OF THE CROSS BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2002 [XacDYJ_Wp8M]|ONE THING THOU LACKEST; THE RETURN OF THE CROSS BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2002]]
+- [[Messages/YouTube/DagHewardMillscamps/P.V.C.I.R.T  Bunso,Ghana Dag Heward-Mills 2009 [Di9pe0Qn7Os]|P.V.C.I.R.T  Bunso,Ghana Dag Heward-Mills 2009]]
+- [[Messages/YouTube/DagHewardMillscamps/PRAYER, THE KEY TO BE EFFECTIVE IN PERGAMOS  BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2001 [RP5Zn2QxH0s]|PRAYER, THE KEY TO BE EFFECTIVE IN PERGAMOS  BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2001]]
+- [[Messages/YouTube/DagHewardMillscamps/PRAYER, THE KEY TO BE EFFECTIVE IN PERGAMOS BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2001 [RP5Zn2QxH0s]|PRAYER, THE KEY TO BE EFFECTIVE IN PERGAMOS BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2001]]
+- [[Messages/YouTube/DagHewardMillscamps/REASONS WHY YOU MUST BE A MISSIONARY PART 1  BOURNEMOUTH, UNITED KINGDOM  DAG HEWARD-MILLS  2010 [9AbXJos2Wgc]|REASONS WHY YOU MUST BE A MISSIONARY PART 1  BOURNEMOUTH, UNITED KINGDOM  DAG HEWARD-MILLS  2010]]
+- [[Messages/YouTube/DagHewardMillscamps/THE SUFFERINGS OF PRAYER  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024 [Uo78CO-Q3x4]|THE SUFFERINGS OF PRAYER  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillscamps/THE SUFFERINGS OF PRAYER AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024 [Uo78CO-Q3x4]|THE SUFFERINGS OF PRAYER AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024]]
+
+#### Messages / YouTube / DagHewardMillsvideos
+- [[Messages/YouTube/DagHewardMillsvideos/Avoiding Laziness In Ministry  Dag Heward-Mills [tiV-j3OTLKo]|Avoiding Laziness In Ministry  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/SC 085 02   25 REASONS WHY YOU MUST HAVE A MEGA CHURCH [F1I_QKEUtBI]|SC 085 02   25 REASONS WHY YOU MUST HAVE A MEGA CHURCH]]
+- [[Messages/YouTube/DagHewardMillsvideos/UNQUENCHABLE FIRE SERVICE -  FERVANT PRAYER [0bEurLkCiTo]|UNQUENCHABLE FIRE SERVICE -  FERVANT PRAYER]]
+
+#### Books — 051 Everything By Prayer Nothing Without Prayer
+- [[Books/051 Everything By Prayer Nothing Without Prayer/15 CHAPTER 14 - How to Pray in the Night|15 CHAPTER 14 - How to Pray in the Night]]
+
+#### Books — 075 Enlargement Secrets
+- [[Books/075 Enlargement Secrets/24 CHAPTER 23 - Enlarge With All Night Work|24 CHAPTER 23 - Enlarge With All Night Work]]
+
+## Answered Prayer (5)
+
+#### Messages / YouTube / DagbooksChannel
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 9  TWELVE STEPS TO 100 PERCENT ANSWERED PRAYERS  ACCRA, GHANA  2014|CHAPTER 9  TWELVE STEPS TO 100 PERCENT ANSWERED PRAYERS  ACCRA, GHANA  2014]]
+
+#### Books — 041 100 Answered Prayer 2Nd Ed
+- [[Books/041 100 Answered Prayer 2Nd Ed/02 CHAPTER 1 - You Can Have 100 % Answered Prayer|02 CHAPTER 1 - You Can Have 100 % Answered Prayer]]
+- [[Books/041 100 Answered Prayer 2Nd Ed/04 CHAPTER 3 - Abiding, Obeying and Bearing Fruit|04 CHAPTER 3 - Abiding, Obeying and Bearing Fruit]]
+- [[Books/041 100 Answered Prayer 2Nd Ed/05 CHAPTER 4 - The FailureProof Keys Faith and Persistence|05 CHAPTER 4 - The FailureProof Keys Faith and Persistence]]
+
+#### Books — 111 How To Pray
+- [[Books/111 How To Pray/10 Chapter 9 - Twelve Steps to 100% Answered Prayer|10 Chapter 9 - Twelve Steps to 100% Answered Prayer]]
+
+## Intercession (41)
+
+#### Messages / Bitchute / Qodesh
+- [[Messages/Bitchute/Qodesh/THE MYSTERY OF PRAYER QODESH SERVICES DAG HEWARD-MILLS [LQIM3RIgoQvC]|THE MYSTERY OF PRAYER QODESH SERVICES DAG HEWARD-MILLS]]
+
+#### Messages / Rumble / KorleGonno
+- [[Messages/Rumble/KorleGonno/PRAYER OF INTERCESSION DAG HEWARD-MILLS [v4uf2in]|PRAYER OF INTERCESSION DAG HEWARD-MILLS]]
+
+#### Messages / YouTube / ChurchServices
+- [[Messages/YouTube/ChurchServices/WHAT IT MEANS TO BECOME A SHEPHERD PT 2  FIRST LOVE SERVICES  0620  DAG HEWARD-MILLS [8_M3ox8F590]|WHAT IT MEANS TO BECOME A SHEPHERD PT 2  FIRST LOVE SERVICES  0620  DAG HEWARD-MILLS]]
+
+#### Messages / YouTube / DagHewardMillscamps
+- [[Messages/YouTube/DagHewardMillscamps/20 REASONS WHY EVERY PASTOR NEEDS INTERCESSION  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001 [pK-4yQXUhQ0]|20 REASONS WHY EVERY PASTOR NEEDS INTERCESSION  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001]]
+- [[Messages/YouTube/DagHewardMillscamps/20 REASONS WHY EVERY PASTOR NEEDS INTERCESSION SHEFFIELD, UNITED KINGDOM DAG HEWARD-MILLS 2001 [pK-4yQXUhQ0]|20 REASONS WHY EVERY PASTOR NEEDS INTERCESSION SHEFFIELD, UNITED KINGDOM DAG HEWARD-MILLS 2001]]
+- [[Messages/YouTube/DagHewardMillscamps/Church Planting and the Priestly Ministry  Mampong, Ghana  Dag Heward-Mills  2025 [V7h1BGl0ohI]|Church Planting and the Priestly Ministry  Mampong, Ghana  Dag Heward-Mills  2025]]
+- [[Messages/YouTube/DagHewardMillscamps/Church Planting and the Priestly Ministry Mampong, Ghana Dag Heward-Mills 2025 [V7h1BGl0ohI]|Church Planting and the Priestly Ministry Mampong, Ghana Dag Heward-Mills 2025]]
+- [[Messages/YouTube/DagHewardMillscamps/HOW TO START A CHURCH PART 1  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001 [wK_Csk1tGLM]|HOW TO START A CHURCH PART 1  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001]]
+- [[Messages/YouTube/DagHewardMillscamps/KEYS TO FULFILLING THE MEGA CHURCH VISION  MAMPONG, GHANA  DAG HEWARD-MILLS  2015 [RJlAnn-uW2s]|KEYS TO FULFILLING THE MEGA CHURCH VISION  MAMPONG, GHANA  DAG HEWARD-MILLS  2015]]
+- [[Messages/YouTube/DagHewardMillscamps/ONE THING THOU LACKEST; THE RETURN OF THE CROSS   BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002 [XacDYJ_Wp8M]|ONE THING THOU LACKEST; THE RETURN OF THE CROSS   BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002]]
+- [[Messages/YouTube/DagHewardMillscamps/ONE THING THOU LACKEST; THE RETURN OF THE CROSS BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2002 [XacDYJ_Wp8M]|ONE THING THOU LACKEST; THE RETURN OF THE CROSS BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2002]]
+- [[Messages/YouTube/DagHewardMillscamps/PRAYER OPPORTUNITIES PART 5  YANUCA ISLAND, FIJI  DAG HEWARD-MILLS  2024 [SvfOtXKjoiY]|PRAYER OPPORTUNITIES PART 5  YANUCA ISLAND, FIJI  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillscamps/PRAYERS OF INTERCESSION LABOURERS  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024 [kaugk3lR0Rc]|PRAYERS OF INTERCESSION LABOURERS  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillscamps/PRAYERS OF INTERCESSION LABOURERS AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024 [kaugk3lR0Rc]|PRAYERS OF INTERCESSION LABOURERS AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024]]
+- [[Messages/YouTube/DagHewardMillscamps/THE LAWS OF PRAYER  WINNEBA, GHANA  DAG HEWARD-MILLS  1998 [Xc_zI-MtAeg]|THE LAWS OF PRAYER  WINNEBA, GHANA  DAG HEWARD-MILLS  1998]]
+- [[Messages/YouTube/DagHewardMillscamps/THE MASTER KEY TO CHANGING A DESERT - A PRIEST  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001 [buObhTSObak]|THE MASTER KEY TO CHANGING A DESERT - A PRIEST  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001]]
+- [[Messages/YouTube/DagHewardMillscamps/THE MASTER KEY TO CHANGING A DESERT - A PRIEST SHEFFIELD, UNITED KINGDOM DAG HEWARD-MILLS 2001 [buObhTSObak]|THE MASTER KEY TO CHANGING A DESERT - A PRIEST SHEFFIELD, UNITED KINGDOM DAG HEWARD-MILLS 2001]]
+- [[Messages/YouTube/DagHewardMillscamps/THE PRAYERS OF JESUS  MAMPONG, GHANA  DAG HEWARD-MILLS  2017 [5OgVksGiiO4]|THE PRAYERS OF JESUS  MAMPONG, GHANA  DAG HEWARD-MILLS  2017]]
+- [[Messages/YouTube/DagHewardMillscamps/THE TERRITORY TAKING MINISTRY  ACCRA, GHANA  DAG HEWARD-MILLS  1997 [B_0FAAK5dQs]|THE TERRITORY TAKING MINISTRY  ACCRA, GHANA  DAG HEWARD-MILLS  1997]]
+- [[Messages/YouTube/DagHewardMillscamps/TRAVAILING PRAYER AND PREACHING BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2001 [JywUY-pJYjs]|TRAVAILING PRAYER AND PREACHING BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2001]]
+- [[Messages/YouTube/DagHewardMillscamps/The Anointing Is the Gift Of Love  Mampong ,Ghana Dag Heward-Mills 2014 [eYq-KbG4wag]|The Anointing Is the Gift Of Love  Mampong ,Ghana Dag Heward-Mills 2014]]
+- [[Messages/YouTube/DagHewardMillscamps/Wisdom and Intercession   Mampong, Ghana Dag Heward-Mills 2013 [49OjHUm0frc]|Wisdom and Intercession   Mampong, Ghana Dag Heward-Mills 2013]]
+
+#### Messages / YouTube / DagHewardMillsvideos
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  - THE MYSTERY OF PRAYER 06 01 13  INSPIRATION SERV [7E7ZxYdyT1k]|SUNDAY SERVICE  - THE MYSTERY OF PRAYER 06 01 13  INSPIRATION SERV]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE 2000 - PRAYER OF INTERCESSION [5lnevWhImbU]|SUNDAY SERVICE 2000 - PRAYER OF INTERCESSION]]
+
+#### Messages / YouTube / DagbooksChannel
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 11  THE SEVEN MINISTRIES OF POIMEN  ACCRA, GHANA  2020|CHAPTER 11  THE SEVEN MINISTRIES OF POIMEN  ACCRA, GHANA  2020]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 19  CHURCH PLANTING AND THE PRIESTLY MINISTRY  MAMPONG, GHANA  2025|CHAPTER 19  CHURCH PLANTING AND THE PRIESTLY MINISTRY  MAMPONG, GHANA  2025]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 20  HOW TO PRAY PRAYERS OF INTERCESSION  MAMPONG, ACCRA  2017|CHAPTER 20  HOW TO PRAY PRAYERS OF INTERCESSION  MAMPONG, ACCRA  2017]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 4  HOW TO TALK TO A GREAT PERSON  ACCRA, GHANA  2014|CHAPTER 4  HOW TO TALK TO A GREAT PERSON  ACCRA, GHANA  2014]]
+
+#### Books — 008 Church Planting
+- [[Books/008 Church Planting/15 Chapter 14 - Intercession The Way out of Barrenness|15 Chapter 14 - Intercession The Way out of Barrenness]]
+
+#### Books — 017 Transform Your Pastoral Ministry
+- [[Books/017 Transform Your Pastoral Ministry/04 Chapter 3 - Ten Reasons Why Every Minister Should Pray|04 Chapter 3 - Ten Reasons Why Every Minister Should Pray]]
+- [[Books/017 Transform Your Pastoral Ministry/12 Chapter 11 - Two Steps to Understanding Intercession|12 Chapter 11 - Two Steps to Understanding Intercession]]
+- [[Books/017 Transform Your Pastoral Ministry/13 Chapter 12 - Twenty Reasons Why Every Pastor Needs an Intercessor|13 Chapter 12 - Twenty Reasons Why Every Pastor Needs an Intercessor]]
+- [[Books/017 Transform Your Pastoral Ministry/14 Chapter 13 - How to Intercede against the Law of Degeneration|14 Chapter 13 - How to Intercede against the Law of Degeneration]]
+- [[Books/017 Transform Your Pastoral Ministry/16 Chapter 15 - How to Intercede against the Law of the Flesh|16 Chapter 15 - How to Intercede against the Law of the Flesh]]
+- [[Books/017 Transform Your Pastoral Ministry/18 Chapter 17 - How to Intercede against the Law of Humanity|18 Chapter 17 - How to Intercede against the Law of Humanity]]
+- [[Books/017 Transform Your Pastoral Ministry/26 Chapter 25|26 Chapter 25]]
+
+#### Books — 019 What It Means To Become A Shepherd
+- [[Books/019 What It Means To Become A Shepherd/12 Chapter 11 - Seven Ministries of Poimen|12 Chapter 11 - Seven Ministries of Poimen]]
+
+#### Books — 051 Everything By Prayer Nothing Without Prayer
+- [[Books/051 Everything By Prayer Nothing Without Prayer/21 CHAPTER 20 - How to Pray Prayers of Intercession|21 CHAPTER 20 - How to Pray Prayers of Intercession]]
+
+#### Books — 072 Ministerial Barrenness
+- [[Books/072 Ministerial Barrenness/15 CHAPTER 14 - Mysterious Barrenness|15 CHAPTER 14 - Mysterious Barrenness]]
+
+#### Books — 098 Prayer Opportunities
+- [[Books/098 Prayer Opportunities/11 Chapter 10 - Prayer is an Opportunity to Give Birth to Something|11 Chapter 10 - Prayer is an Opportunity to Give Birth to Something]]
+- [[Books/098 Prayer Opportunities/16 Chapter 15 - Prayer is an Opportunity to Intercede|16 Chapter 15 - Prayer is an Opportunity to Intercede]]
+
+## Praying in Tongues (112)
+
+#### Messages / Bitchute / MiracleWaveConventions
+- [[Messages/Bitchute/MiracleWaveConventions/THE SEED MUST DIE MIRACLE WAVE DAG HEWARD-MILLS [clqukfk0mL8g]|THE SEED MUST DIE MIRACLE WAVE DAG HEWARD-MILLS]]
+
+#### Messages / Bitchute / Qodesh
+- [[Messages/Bitchute/Qodesh/2 KEYS TO BECOMING SPIRITUAL QODESH SERVICES DAG HEWARD-MILLS [1yrq3dRqnoaC]|2 KEYS TO BECOMING SPIRITUAL QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/BE STRONG IN THE LORD QODESH SERVICES DAG HEWARD-MILLS [gIahEcCr8Ccj]|BE STRONG IN THE LORD QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/HOW TO BE SPIRITUAL QODESH SERVICES DAG HEWARD-MILLS [qXmPLtzZ2Z9h]|HOW TO BE SPIRITUAL QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/REPENT AND BE BAPTISED QODESH SERVICES DAG HEWARD-MILLS [5RG9msbQlYoI]|REPENT AND BE BAPTISED QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/SUPERNATURAL HELP QODESH SERVICES DAG HEWARD-MILLS [gHtLwbT8WkUK]|SUPERNATURAL HELP QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/THE MYSTERY OF PRAYER QODESH SERVICES DAG HEWARD-MILLS [LQIM3RIgoQvC]|THE MYSTERY OF PRAYER QODESH SERVICES DAG HEWARD-MILLS]]
+
+#### Messages / Bitchute / UnquenchableFireServices
+- [[Messages/Bitchute/UnquenchableFireServices/FERVENT PRAYER NOVEMBER 2009 UNQUENCHABLE FIRE SERVICE DAG HEWARD-MILLS [BsKWO7UJefyw]|FERVENT PRAYER NOVEMBER 2009 UNQUENCHABLE FIRE SERVICE DAG HEWARD-MILLS]]
+
+#### Messages / Odysee / ImpartationServices
+- [[Messages/Odysee/ImpartationServices/THE PRESENCE OF THE HOLY SPIRIT IMPARTATION SERVICES DAG HEWARD-MILLS [29a3152d0d20b7481ab4525c79dd195ed6d0e03e]|THE PRESENCE OF THE HOLY SPIRIT IMPARTATION SERVICES DAG HEWARD-MILLS]]
+
+#### Messages / Rumble / Conventions
+- [[Messages/Rumble/Conventions/THE SEED MUST DIE CONVENTIONS DAG HEWARD-MILLS [v4szhyn]|THE SEED MUST DIE CONVENTIONS DAG HEWARD-MILLS]]
+
+#### Messages / Rumble / KorleGonno
+- [[Messages/Rumble/KorleGonno/BE STRONG IN THE LORD DAG HEWARD-MILLS [v4uekzl]|BE STRONG IN THE LORD DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/IT IS POSSIBLE DAG HEWARD-MILLS [v4ue8du]|IT IS POSSIBLE DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/REPENT AND BE BAPTIZED DAG HEWARD-MILLS [v4uekpe]|REPENT AND BE BAPTIZED DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/SHALLOWNESS DAG HEWARD-MILLS [v4u84ub]|SHALLOWNESS DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/SPEAKING IN TONGUES DAG HEWARD-MILLS [v4uekg2]|SPEAKING IN TONGUES DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/SUPERNATURAL HELP DAG HEWARD-MILLS [v4uekhq]|SUPERNATURAL HELP DAG HEWARD-MILLS]]
+
+#### Messages / Rumble / TuesdayServices
+- [[Messages/Rumble/TuesdayServices/THE HOLY SPIRIT TUESDAY SERVICE DAG HEWARD-MILLS [v4tpefk]|THE HOLY SPIRIT TUESDAY SERVICE DAG HEWARD-MILLS]]
+
+#### Messages / Rumble / WisdomImpartationServices
+- [[Messages/Rumble/WisdomImpartationServices/SPIRIT OF KNOWLEDGE WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS [v4syo6x]|SPIRIT OF KNOWLEDGE WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Rumble/WisdomImpartationServices/WISDOM OF KINGS (MALAK) PART 3 WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS [v4sx24x]|WISDOM OF KINGS (MALAK) PART 3 WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Rumble/WisdomImpartationServices/WISDOM OF KINGS MALAK WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS [v4svskk]|WISDOM OF KINGS MALAK WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS]]
+
+#### Messages / YouTube / ChurchServices
+- [[Messages/YouTube/ChurchServices/A GREAT DOOR PT 8  FIRST LOVE SERVICES  0321  DAG HEWARD-MILLS [6O_lTvkFFIg]|A GREAT DOOR PT 8  FIRST LOVE SERVICES  0321  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/ENTRY POINTS TO EXCITING SUPERNATURAL ADVENTURES IN GOD P2  FIRST LOVE SERVICES  DAG HEWARD-MILLS [EgLL-LOvxgk]|ENTRY POINTS TO EXCITING SUPERNATURAL ADVENTURES IN GOD P2  FIRST LOVE SERVICES  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/ENTRY POINTS TO EXCITING SUPERNATURAL ADVENTURES IN GOD P2 FIRST LOVE SERVICES DAG HEWARD-MILLS [EgLL-LOvxgk]|ENTRY POINTS TO EXCITING SUPERNATURAL ADVENTURES IN GOD P2 FIRST LOVE SERVICES DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/EUNUCHS IN THE PALACE PART 3 FIRST LOVE SERVICES 0417 DAG HEWARD-MILLS [csYbuH0XvxI]|EUNUCHS IN THE PALACE PART 3 FIRST LOVE SERVICES 0417 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/HOLY SPIRIT POWER FOR YOUR DESTINY  FIRST LOVE SERVICES  DAG HEWARD-MILLS [twGkjFMwtH0]|HOLY SPIRIT POWER FOR YOUR DESTINY  FIRST LOVE SERVICES  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/REASONS PART 2  FIRST LOVE SERVICES  DAG HEWARD-MILLS [yiWhCX216DI]|REASONS PART 2  FIRST LOVE SERVICES  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/Speaking in Tongues  First Love Church  Dag Heward-Mills [iXjZEstYbOU]|Speaking in Tongues  First Love Church  Dag Heward-Mills]]
+- [[Messages/YouTube/ChurchServices/Speaking in Tongues First Love Church Dag Heward-Mills [iXjZEstYbOU]|Speaking in Tongues First Love Church Dag Heward-Mills]]
+- [[Messages/YouTube/ChurchServices/THE BURDEN OF LOVE PT 2   FIRST LOVE SERVICES  0921  DAG HEWARD-MILLS [9SjAb-a8pM8]|THE BURDEN OF LOVE PT 2   FIRST LOVE SERVICES  0921  DAG HEWARD-MILLS]]
+
+#### Messages / YouTube / DagHewardMillsCrusades
+- [[Messages/YouTube/DagHewardMillsCrusades/Adama, Ethiopia Day 1 Build Your Life On A Rock HJC Dag Heward-Mills 2024 [BBKtrOVc6z8]|Adama, Ethiopia Day 1 Build Your Life On A Rock HJC Dag Heward-Mills 2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/DONDO, ANGOLA DAY 2  YOU CAN NOT SERVE TWO MASTERS  HJC  DAG HEWARD-MILLS  2024 [BmlsDomeEs4]|DONDO, ANGOLA DAY 2  YOU CAN NOT SERVE TWO MASTERS  HJC  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/Fianaratsoa, Madagascar  The Good Samaritan  HJC   Dag Heward-Mills  2024 [FoawrNg-PLc]|Fianaratsoa, Madagascar  The Good Samaritan  HJC   Dag Heward-Mills  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/Honiara, Solomon Islands Day 5  Why Your Soul Is Important  HJC  Dag Heward-Mills  2024 [GCqZ1_5nztg]|Honiara, Solomon Islands Day 5  Why Your Soul Is Important  HJC  Dag Heward-Mills  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/LUBANGO, ANGOLA  JESUS AND JARIUS' DAUGHTER  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2024 [TwiCBoYRARc]|LUBANGO, ANGOLA  JESUS AND JARIUS' DAUGHTER  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MALANJE, ANGOLA DAY 1  THE WORKS THAT I DO PART 1   HJC  DAG HEWARD-MILLS  2024 [VRbV1ZImU5U]|MALANJE, ANGOLA DAY 1  THE WORKS THAT I DO PART 1   HJC  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MALANJE, ANGOLA DAY 2  THE WORKS OF JESUS  HJC  DAG HEWARD-MILLS  2024 [DEsAgB7iW6o]|MALANJE, ANGOLA DAY 2  THE WORKS OF JESUS  HJC  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/NKAYI, REPUBLIC OF THE CONGO DAY 1  JESUS THE SAME YESTERDAY TODAY AND FOREVER  HJC  DHMM  2024 [ZN43cXkXTdM]|NKAYI, REPUBLIC OF THE CONGO DAY 1  JESUS THE SAME YESTERDAY TODAY AND FOREVER  HJC  DHMM  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/N’DALATANDO ANGOLA DAY 3  JESUS HEALS AND SAVES  HJC  DAG HEWARD-MILLS  2024 [pg4H9fwES1U]|N’DALATANDO ANGOLA DAY 3  JESUS HEALS AND SAVES  HJC  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/PRAIA, CABO VERDE DAY 3  GREATER LOVE  HJC  DAG HEWARD-MILLS  2025 [kU3i_dgXHbE]|PRAIA, CABO VERDE DAY 3  GREATER LOVE  HJC  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/PRAIA, CABO VERDE DAY 4  LAZARAUS AND ZACCHAEUS  HJC  DAG HEWARD-MILLS  2025 [ZQfcBnxpDaE]|PRAIA, CABO VERDE DAY 4  LAZARAUS AND ZACCHAEUS  HJC  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/PRAIA, CAPE VERDE DAY 1  ANOINTED JESUS  HJC  DAG HEWARD-MILLS  2025 [ONCQXwyTs2s]|PRAIA, CAPE VERDE DAY 1  ANOINTED JESUS  HJC  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/PRAIA, CAPE VERDE DAY 2  JESUS THE SAVIOR AND THE HEALER HJC  DAG HEWARD-MILLS  2025 [yIXcnaup4YU]|PRAIA, CAPE VERDE DAY 2  JESUS THE SAVIOR AND THE HEALER HJC  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/SÃO TOMÉ & PRÍNCIPE - DAY 2  THE PRODIGAL SON  HJC  DAG HEWARD-MILLS  2025 [XNopFEBnync]|SÃO TOMÉ & PRÍNCIPE - DAY 2  THE PRODIGAL SON  HJC  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/SÃO TOMÉ & PRÍNCIPE - DAY 4  WILL THOUGH BE MADE WHOLE  HJC  DAG HEWARD-MILLS  2025 [5u6VmuvuRoA]|SÃO TOMÉ & PRÍNCIPE - DAY 4  WILL THOUGH BE MADE WHOLE  HJC  DAG HEWARD-MILLS  2025]]
+
+#### Messages / YouTube / DagHewardMillsGTWC
+- [[Messages/YouTube/DagHewardMillsGTWC/A GOOD GENERAL FIGHTS TO WIN BUT KNOWS THAT HE WILL HAVE SOME LOSSES GTWC 2023 SESSION 11 [aebhjzXFpno]|A GOOD GENERAL FIGHTS TO WIN BUT KNOWS THAT HE WILL HAVE SOME LOSSES GTWC 2023 SESSION 11]]
+- [[Messages/YouTube/DagHewardMillsGTWC/ATTEMPT NEW THINGS GTWC LUSAKA DAG HEWARD-MILLS 2025 [29fMomfqRiM]|ATTEMPT NEW THINGS GTWC LUSAKA DAG HEWARD-MILLS 2025]]
+- [[Messages/YouTube/DagHewardMillsGTWC/Enlarge By Victory Over The Five Demonic Kings Day 2, Session 3 with Dag Heward-Mills #GTWC2024 [nd-kpU_2yWg]|Enlarge By Victory Over The Five Demonic Kings Day 2, Session 3 with Dag Heward-Mills #GTWC2024]]
+- [[Messages/YouTube/DagHewardMillsGTWC/HOW TO BUILD A CHURCH  GTWC SRI LANKA  DAG HEWARD-MILLS  2018 [qJmkPO5x0UA]|HOW TO BUILD A CHURCH  GTWC SRI LANKA  DAG HEWARD-MILLS  2018]]
+- [[Messages/YouTube/DagHewardMillsGTWC/LOVING GOD PART 2 GTWC 2017 CAPE TOWN DAG HEWARD-MILLS [XMtchV4AtF0]|LOVING GOD PART 2 GTWC 2017 CAPE TOWN DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE LEADERSHIP ANOINTING PART 3 GTWC 2019, DAY 3 SESSION 3 DAG HEWARD-MILLS [C9xwIC2X9jo]|THE LEADERSHIP ANOINTING PART 3 GTWC 2019, DAY 3 SESSION 3 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THOSE WHO FORGET GTWC LONDON DAG HEWARD-MILLS 2016 [qE8HsVki6ZM]|THOSE WHO FORGET GTWC LONDON DAG HEWARD-MILLS 2016]]
+
+#### Messages / YouTube / DagHewardMillscamps
+- [[Messages/YouTube/DagHewardMillscamps/10 Prayers Benefits Of Tongues  Port Elizabeth, South Africa Dag Heward-Mills 2011 [WKjki8ov0S0]|10 Prayers Benefits Of Tongues  Port Elizabeth, South Africa Dag Heward-Mills 2011]]
+- [[Messages/YouTube/DagHewardMillscamps/22 Steps To Inexorability In Your Mission Part 3  Accra, Ghana  Dag Heward-Mills 2011 [hG17C5mp96g]|22 Steps To Inexorability In Your Mission Part 3  Accra, Ghana  Dag Heward-Mills 2011]]
+- [[Messages/YouTube/DagHewardMillscamps/ATTEMPT GREAT FIGHT FOR GOD  SYDNEY, AUSTRALIA  DAG HEWARD-MILLS  2018 [HweSSoNujfY]|ATTEMPT GREAT FIGHT FOR GOD  SYDNEY, AUSTRALIA  DAG HEWARD-MILLS  2018]]
+- [[Messages/YouTube/DagHewardMillscamps/ATTEMPT TO STIR UP GREAT THINGS  SYDNEY, AUSTRALIA  DAG HEWARD-MILLS  2018 [duGA72GDj1Q]|ATTEMPT TO STIR UP GREAT THINGS  SYDNEY, AUSTRALIA  DAG HEWARD-MILLS  2018]]
+- [[Messages/YouTube/DagHewardMillscamps/Formula 2,8,9,10,19  Port Elizabeth, South Africa Dag Heward-Mills 2011 [CgAvL10uuUo]|Formula 2,8,9,10,19  Port Elizabeth, South Africa Dag Heward-Mills 2011]]
+- [[Messages/YouTube/DagHewardMillscamps/GOD HAS COME SEEKING FRUITSNEWARK NEW JERSEYUNITED STATES DAG HEWARD-MILLS 2019 [klnKVpL6JY0]|GOD HAS COME SEEKING FRUITSNEWARK NEW JERSEYUNITED STATES DAG HEWARD-MILLS 2019]]
+- [[Messages/YouTube/DagHewardMillscamps/HOW TO START A CHURCH PT 2 BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2001 [_3xE71CdM9E]|HOW TO START A CHURCH PT 2 BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2001]]
+- [[Messages/YouTube/DagHewardMillscamps/HUMILITY THE MASTER KEY TO THE 21 DOORS TO MINISTRY ACCRA,GHANA DAG HEWARD-MILLS 2002 [HZNHPVVC1Ck]|HUMILITY THE MASTER KEY TO THE 21 DOORS TO MINISTRY ACCRA,GHANA DAG HEWARD-MILLS 2002]]
+- [[Messages/YouTube/DagHewardMillscamps/How To Modify Spiritual Atmospheres Mampong, Ghana Dag Heward-Mills 2012 [wsWunRR9Cmo]|How To Modify Spiritual Atmospheres Mampong, Ghana Dag Heward-Mills 2012]]
+- [[Messages/YouTube/DagHewardMillscamps/PRAYER AND RECAP BY BISHOP OGOE  MAMPONG, GHANA  DAG HEWARD-MILLS  2018 [FA9dtmJ4RKU]|PRAYER AND RECAP BY BISHOP OGOE  MAMPONG, GHANA  DAG HEWARD-MILLS  2018]]
+- [[Messages/YouTube/DagHewardMillscamps/PRAYER EXPLOITS - PART 2 (PRAYING ABOUT EVERYTHING AND SPEAKING TO A SPIRIT) 2024 [U7ZyYWsxUm4]|PRAYER EXPLOITS - PART 2 (PRAYING ABOUT EVERYTHING AND SPEAKING TO A SPIRIT) 2024]]
+- [[Messages/YouTube/DagHewardMillscamps/PRAYER WITH BISHOP OGOE  PITTSBURGH, U.S.A  DAG HEWARD-MILLS  2022_vpGbAQFrTmM [OS3E6IrMcH4]|PRAYER WITH BISHOP OGOE  PITTSBURGH, U.S.A  DAG HEWARD-MILLS  2022_vpGbAQFrTmM]]
+- [[Messages/YouTube/DagHewardMillscamps/PRAYER, THE KEY TO BE EFFECTIVE IN PERGAMOS  BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2001 [RP5Zn2QxH0s]|PRAYER, THE KEY TO BE EFFECTIVE IN PERGAMOS  BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2001]]
+- [[Messages/YouTube/DagHewardMillscamps/PRAYER, THE KEY TO BE EFFECTIVE IN PERGAMOS BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2001 [RP5Zn2QxH0s]|PRAYER, THE KEY TO BE EFFECTIVE IN PERGAMOS BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2001]]
+- [[Messages/YouTube/DagHewardMillscamps/PRAYING IN THE SPIRIT  HONIARA, SOLOMON ISLANDS  DAG HEWARD-MILLS  2024 [ZPZMlbwJQWo]|PRAYING IN THE SPIRIT  HONIARA, SOLOMON ISLANDS  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillscamps/PRAYING IN THE SPIRIT HONIARA, SOLOMON ISLANDS DAG HEWARD-MILLS 2024 [ZPZMlbwJQWo]|PRAYING IN THE SPIRIT HONIARA, SOLOMON ISLANDS DAG HEWARD-MILLS 2024]]
+- [[Messages/YouTube/DagHewardMillscamps/SONG MINISTRATION   GENEVA, SWITZERLAND DAG HEWARD-MILLS  2016_IchwLl5SRzw|SONG MINISTRATION   GENEVA, SWITZERLAND DAG HEWARD-MILLS  2016_IchwLl5SRzw]]
+- [[Messages/YouTube/DagHewardMillscamps/SONG MINISTRATION GENEVA, SWITZERLAND DAG HEWARD-MILLS 2016 [dfIvyq8OWcU]|SONG MINISTRATION GENEVA, SWITZERLAND DAG HEWARD-MILLS 2016]]
+- [[Messages/YouTube/DagHewardMillscamps/Spiritual Discernment  Kumasi, Ghana Dag Heward-Mills 2003 [7A52TI3ssQk]|Spiritual Discernment  Kumasi, Ghana Dag Heward-Mills 2003]]
+- [[Messages/YouTube/DagHewardMillscamps/TYPES OF PRAYER PART 2 (PRAYER FOR STRENGTH) WARWICK LE LAGON, VANUATU DAG HEWARD-MILLS 2024 [IGVqSjTvWzU]|TYPES OF PRAYER PART 2 (PRAYER FOR STRENGTH) WARWICK LE LAGON, VANUATU DAG HEWARD-MILLS 2024]]
+- [[Messages/YouTube/DagHewardMillscamps/YOU ARE SUPERNATURAL GENEVA, SWITZERLAND DAG HEWARD-MILLS 2016 [fMV093Fd8jc]|YOU ARE SUPERNATURAL GENEVA, SWITZERLAND DAG HEWARD-MILLS 2016]]
+
+#### Messages / YouTube / DagHewardMillsvideos
+- [[Messages/YouTube/DagHewardMillsvideos/Dreams, Visions & the Vision That Changes a Ministry Dag Heward-Mills [wp7m2F0pGBc]|Dreams, Visions & the Vision That Changes a Ministry Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/Exciting Supernatural Adventures in God - Part 2  Dag Heward-Mills [2FU9RFsp8GU]|Exciting Supernatural Adventures in God - Part 2  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/FIRST LOVE SERVICE   REASONS   PART 2 [T5txUr2m4wI]|FIRST LOVE SERVICE   REASONS   PART 2]]
+- [[Messages/YouTube/DagHewardMillsvideos/Following God  FLOW Church  Dag Heward-Mills [MH7Yek6iug0]|Following God  FLOW Church  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/HEALING JESUS CAMPAIGN PASTOR'S CONFERENCE   WHAT IS A MANIFESTATION OF THE HOLY SPIRIT [w50MC9rakxc]|HEALING JESUS CAMPAIGN PASTOR'S CONFERENCE   WHAT IS A MANIFESTATION OF THE HOLY SPIRIT]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 2  Loving God   Part 2 [UQrL9sn6gwY]|SESSION 2  Loving God   Part 2]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 4   THE HIGHLIGHTS OF THE GREAT COMMISSION PART 2 [MMxO0D6fTao]|SESSION 4   THE HIGHLIGHTS OF THE GREAT COMMISSION PART 2]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 6 - THE ANOINTING [x0f4m98bXlE]|SESSION 6 - THE ANOINTING]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE   2 KEYS TO BECOMING SPIRITUAL [VBLqqmQs34I]|SUNDAY SERVICE   2 KEYS TO BECOMING SPIRITUAL]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE   BE STRONG IN THE LORD [AvFYUC21fTg]|SUNDAY SERVICE   BE STRONG IN THE LORD]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE   HOW TO BE SPIRITUAL [6WCt_z6XQx8]|SUNDAY SERVICE   HOW TO BE SPIRITUAL]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE   IT IS POSSIBLE [fMaCLVYl2hc]|SUNDAY SERVICE   IT IS POSSIBLE]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE   REPENT AND BE BAPTIZED [RP0TJhcv4_g]|SUNDAY SERVICE   REPENT AND BE BAPTIZED]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE   SPEAKING IN TONGUES [cjV536PTybo]|SUNDAY SERVICE   SPEAKING IN TONGUES]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  - THE MYSTERY OF PRAYER 06 01 13  INSPIRATION SERV [7E7ZxYdyT1k]|SUNDAY SERVICE  - THE MYSTERY OF PRAYER 06 01 13  INSPIRATION SERV]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  SHALLOWNESS [S3bKH5tNI8g]|SUNDAY SERVICE  SHALLOWNESS]]
+- [[Messages/YouTube/DagHewardMillsvideos/THE PROPHETIC ENCOUNTER SERVICE 01042018 - 7 GREAT EASTER PERSONALITIES [4Xx6eUG9CjE]|THE PROPHETIC ENCOUNTER SERVICE 01042018 - 7 GREAT EASTER PERSONALITIES]]
+- [[Messages/YouTube/DagHewardMillsvideos/TUESDAY SERVICE - PRAYING IN THE SPIRIT [KHrare34S-Q]|TUESDAY SERVICE - PRAYING IN THE SPIRIT]]
+- [[Messages/YouTube/DagHewardMillsvideos/TUESDAY SERVICE - PRAYING IN TONGUES [kK63xcoInA8]|TUESDAY SERVICE - PRAYING IN TONGUES]]
+- [[Messages/YouTube/DagHewardMillsvideos/The Burden Of Love - Part 2  Dag Heward-Mills [UMvIfie0hy4]|The Burden Of Love - Part 2  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/The Burden Of Love - Part 6  Try Love  Dag Heward-Mills [8BH4NPpc9ms]|The Burden Of Love - Part 6  Try Love  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/Why You Must Speak in Tongues The Power of the Holy Spirit  Dag Heward-Mills [CWF8qnuYdT0]|Why You Must Speak in Tongues The Power of the Holy Spirit  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/Why You’re Powerless Without Speaking in Tongues  Dag Heward-Mills [9Y0ZF89vwIY]|Why You’re Powerless Without Speaking in Tongues  Dag Heward-Mills]]
+
+#### Messages / YouTube / DagbooksChannel
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 5  HOW YOU CAN BE HELPED BY PRAYING IN TOUNGES  ACCRA, GHANA  2013|CHAPTER 5  HOW YOU CAN BE HELPED BY PRAYING IN TOUNGES  ACCRA, GHANA  2013]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 6  DEVELOP YOURSELF BY SPEAKING IN TOUNGES  ACCRA, GHANA  2013|CHAPTER 6  DEVELOP YOURSELF BY SPEAKING IN TOUNGES  ACCRA, GHANA  2013]]
+
+#### Books — 011 Amplify Your Ministry
+- [[Books/011 Amplify Your Ministry/12 Chapter 11 - The New Testament List of Manifestations|12 Chapter 11 - The New Testament List of Manifestations]]
+
+#### Books — 014 Sweet Influences Of The Anointing
+- [[Books/014 Sweet Influences Of The Anointing/05 Chapter 4|05 Chapter 4]]
+
+#### Books — 017 Transform Your Pastoral Ministry
+- [[Books/017 Transform Your Pastoral Ministry/07 Chapter 6 - Five Ways for Pastors to Pray Effectively|07 Chapter 6 - Five Ways for Pastors to Pray Effectively]]
+- [[Books/017 Transform Your Pastoral Ministry/27 Chapter 26 - Thirtytwo Reasons Why I Pray in Tongues|27 Chapter 26 - Thirtytwo Reasons Why I Pray in Tongues]]
+
+#### Books — 032 Victory Secrets
+- [[Books/032 Victory Secrets/06 Victory Secret No.5|06 Victory Secret No.5]]
+
+#### Books — 041 100 Answered Prayer 2Nd Ed
+- [[Books/041 100 Answered Prayer 2Nd Ed/07 CHAPTER 6 - Pray With All Kinds of Prayer|07 CHAPTER 6 - Pray With All Kinds of Prayer]]
+
+#### Books — 045 How You Can Become A Strong Christian
+- [[Books/045 How You Can Become A Strong Christian/03 Chapter 2 - How to Have a Deeper Christian Life|03 Chapter 2 - How to Have a Deeper Christian Life]]
+
+#### Books — 047 Backsliding Develop Your Staying Power
+- [[Books/047 Backsliding Develop Your Staying Power/04 Chapter 3 - Principal Causes of Backsliding|04 Chapter 3 - Principal Causes of Backsliding]]
+
+#### Books — 050 Make Yourselves Saviours Of Men
+- [[Books/050 Make Yourselves Saviours Of Men/07 Chapter 6 - The Great Commission According to Mark|07 Chapter 6 - The Great Commission According to Mark]]
+
+#### Books — 055 Seven Great Principles
+- [[Books/055 Seven Great Principles/04 Chapter 3 - Seven Great Principles for a Great Change|04 Chapter 3 - Seven Great Principles for a Great Change]]
+
+#### Books — 089 Now We Are At War
+- [[Books/089 Now We Are At War/23 Chapter 20 - USE ENCRYPTED CODES|23 Chapter 20 - USE ENCRYPTED CODES]]
+
+#### Books — 111 How To Pray
+- [[Books/111 How To Pray/06 Chapter 5 - How You Can Be Helped by Praying in Tongues|06 Chapter 5 - How You Can Be Helped by Praying in Tongues]]
+- [[Books/111 How To Pray/08 Chapter 7 - How to Pray With All Kinds of Prayer|08 Chapter 7 - How to Pray With All Kinds of Prayer]]
+
+#### Books — 126 Key Facts For New Believers
+- [[Books/126 Key Facts For New Believers/06 CHAPTER 5 - The Baptism of the Holy Ghost|06 CHAPTER 5 - The Baptism of the Holy Ghost]]
+- [[Books/126 Key Facts For New Believers/07 CHAPTER 6 - Develop Yourself by Speaking in Tongues|07 CHAPTER 6 - Develop Yourself by Speaking in Tongues]]
+
+## General (909)
+
+#### Messages / Bitchute / IronSharpenethIron
+- [[Messages/Bitchute/IronSharpenethIron/25 REASONS WHY YOU MUST HAVE A MEGA CHURCH IRON SHARPENETH IRON 2011 DAG HEWARD-MILLS [ux3u6Pfm9byM]|25 REASONS WHY YOU MUST HAVE A MEGA CHURCH IRON SHARPENETH IRON 2011 DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/IronSharpenethIron/7 STEPS TO THE ANOINTING IN JORDAN IRON SHARPENETH IRON 2007 GHANA DAG HEWARD-MILLS [Pbf3je02NYOk]|7 STEPS TO THE ANOINTING IN JORDAN IRON SHARPENETH IRON 2007 GHANA DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/IronSharpenethIron/7 STEPS TO THE ANOINTING IN THE HOUSE OF CORNELIUS IRON SHARPENETH IRON 2007 DAG HEWARD-MILLS [Ud8bPES404sz]|7 STEPS TO THE ANOINTING IN THE HOUSE OF CORNELIUS IRON SHARPENETH IRON 2007 DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/IronSharpenethIron/7 STEPS TO THE ANOINTING IN YOUR OWN COMPANY IRON SHARPENETH IRON 2009 DAG HEWARD-MILLS [9h79n2cGECdX]|7 STEPS TO THE ANOINTING IN YOUR OWN COMPANY IRON SHARPENETH IRON 2009 DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/IronSharpenethIron/AMPLIFY YOUR MINISTRY IRON SHARPENETH IRON 2014 GHANA DAG HEWARD-MILLS [FmTIwE9y9XrY]|AMPLIFY YOUR MINISTRY IRON SHARPENETH IRON 2014 GHANA DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/IronSharpenethIron/CHURCH GROWTH THROUGH RELATIONSHIPS AND GETHSEMANE IRON SHARPENETH IRON 2011 DAG HEWARD-MILLS [QbWrX1OKlPFp]|CHURCH GROWTH THROUGH RELATIONSHIPS AND GETHSEMANE IRON SHARPENETH IRON 2011 DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/IronSharpenethIron/DOING THE WORKS OF JESUS IRON SHARPENETH IRON 2010 DAG HEWARD-MILLS [VgFrehuXvw9k]|DOING THE WORKS OF JESUS IRON SHARPENETH IRON 2010 DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/IronSharpenethIron/METHODS OF GUIDANCE IRON SHARPENETH IRON 2005 DAG HEWARD-MILLS [qcEE7s8C6xfC]|METHODS OF GUIDANCE IRON SHARPENETH IRON 2005 DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/IronSharpenethIron/MYSTERY OF IMPARTATION IRON SHARPENETH IRON 2015 SOWETO DAG HEWARD-MILLS [x3FW8uMyHavi]|MYSTERY OF IMPARTATION IRON SHARPENETH IRON 2015 SOWETO DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/IronSharpenethIron/REASONS WHY WE MUST AVOID PSEUDO MINISTRY IRON SHARPENETH IRON 2015 PARIS DAG HEWARD-MILLS [GmG0Ged9y9ed]|REASONS WHY WE MUST AVOID PSEUDO MINISTRY IRON SHARPENETH IRON 2015 PARIS DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/IronSharpenethIron/THE ART OF SHEPHERDING AND BEING A GOOD PASTOR IRON SHARPENETH IRON 2011 DAG HEWARD-MILLS [OKyDtochCzlU]|THE ART OF SHEPHERDING AND BEING A GOOD PASTOR IRON SHARPENETH IRON 2011 DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/IronSharpenethIron/THE DIFFERENT ROLES OF A SHEPHERD IRON SHARPENETH IRON 2013 DAG HEWARD-MILLS [5dXE2MQAkexT]|THE DIFFERENT ROLES OF A SHEPHERD IRON SHARPENETH IRON 2013 DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/IronSharpenethIron/TRANSFORM YOUR PASTORAL MINISTRY IRON SHARPENETH IRON 2014 GHANA DAG HEWARD-MILLS [EYRjf17psOJn]|TRANSFORM YOUR PASTORAL MINISTRY IRON SHARPENETH IRON 2014 GHANA DAG HEWARD-MILLS]]
+
+#### Messages / Bitchute / OvercomersServices
+- [[Messages/Bitchute/OvercomersServices/WOMEN IN JESUS' MINISTRY OVERCOMERS SERVICE DAG HEWARD-MILLS [YYkbdOWw7yjH]|WOMEN IN JESUS' MINISTRY OVERCOMERS SERVICE DAG HEWARD-MILLS]]
+
+#### Messages / Bitchute / Qodesh
+- [[Messages/Bitchute/Qodesh/3 THINGS THE NEW CREATION MUST DO QODESH SERVICES DAG HEWARD-MILLS [x1fxxWfxFevJ]|3 THINGS THE NEW CREATION MUST DO QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/7 REASONS WHY YOU MUST NOT BE SURPRISED TO BE BORN AGAIN QODESH SERVICES DAG HEWARD-MILLS [hYZh0n58r0vR]|7 REASONS WHY YOU MUST NOT BE SURPRISED TO BE BORN AGAIN QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/DO NOT DESPISE PROPHESYINGS QODESH SERVICES DAG HEWARD-MILLS [5tDfrSaAqrux]|DO NOT DESPISE PROPHESYINGS QODESH SERVICES DAG HEWARD-MILLS]]
 - [[Messages/Bitchute/Qodesh/FOUR PRACTICAL REASONS FOR WATCHING AND PRAYING QODESH SERVICES DAG HEWARD-MILLS [qOuxyEhOFeLV]|FOUR PRACTICAL REASONS FOR WATCHING AND PRAYING QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/HE THAT HATH AND HE THAT HATH NOT QODESH SERVICES DAG HEWARD-MILLS [VFOWbI28EKT8]|HE THAT HATH AND HE THAT HATH NOT QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/HOW TO OVERCOME MOUNTAINS IN YOUR LIFE QODESH SERVICES DAG HEWARD-MILLS [WW11VwZ4krUk]|HOW TO OVERCOME MOUNTAINS IN YOUR LIFE QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/HOW YOUR FAITH WORKS QODESH SERVICES DAG HEWARD-MILLS [O5m3tMejRFCR]|HOW YOUR FAITH WORKS QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/HUMBLE YOURSELF ALWAYS PART 2 QODESH SERVICES DAG HEWARD-MILLS [aOLiJUwVm8jo]|HUMBLE YOURSELF ALWAYS PART 2 QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/How Faith Works QODESH SERVICES DAG HEWARD-MILLS [sgmN3SlS2n1Q]|How Faith Works QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/JESUS CHRIST THE SAME YESTERDAY, TODAY AND FOREVER QODESH SERVICES DAG HEWARD-MILLS [ZiRXQozqMft3]|JESUS CHRIST THE SAME YESTERDAY, TODAY AND FOREVER QODESH SERVICES DAG HEWARD-MILLS]]
 - [[Messages/Bitchute/Qodesh/MISTAKES THAT WE MAKE IN PRAYER PART 2 QODESH SERVICES DAG HEWARD-MILLS [w6OrHCLabBsW]|MISTAKES THAT WE MAKE IN PRAYER PART 2 QODESH SERVICES DAG HEWARD-MILLS]]
 - [[Messages/Bitchute/Qodesh/MISTAKES THAT WE MAKE IN PRAYER PART2 QODESH SERVICES DAG HEWARD-MILLS [1vtSF2XpoTge]|MISTAKES THAT WE MAKE IN PRAYER PART2 QODESH SERVICES DAG HEWARD-MILLS]]
 - [[Messages/Bitchute/Qodesh/MISTAKES THAT WE MAKE IN PRAYER QODESH SERVICES DAG HEWARD-MILLS [I99SGAITc7o0]|MISTAKES THAT WE MAKE IN PRAYER QODESH SERVICES DAG HEWARD-MILLS]]
@@ -42,59 +333,464 @@
 - [[Messages/Bitchute/Qodesh/PRAYER PROMISES OF JESUS CHRIST PART 1 QODESH SERVICES DAG HEWARD-MILLS [F6HTlpb6offd]|PRAYER PROMISES OF JESUS CHRIST PART 1 QODESH SERVICES DAG HEWARD-MILLS]]
 - [[Messages/Bitchute/Qodesh/PRAYER PROMISES PART 2 QODESH SERVICES DAG HEWARD-MILLS [kfJLEDKVvt63]|PRAYER PROMISES PART 2 QODESH SERVICES DAG HEWARD-MILLS]]
 - [[Messages/Bitchute/Qodesh/PRAYER PROMISES PART 3 QODESH SERVICES DAG HEWARD-MILLS [PJrLqRZkKC9A]|PRAYER PROMISES PART 3 QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/PREDICT THE FUTURE IN A GENERAL WAY QODESH SERVICES DAG HEWARD-MILLS [63f5qqgESUjP]|PREDICT THE FUTURE IN A GENERAL WAY QODESH SERVICES DAG HEWARD-MILLS]]
 - [[Messages/Bitchute/Qodesh/QUALITIES NEEDED FOR WATCHING AND PRAYING QODESH SERVICES DAG HEWARD-MILLS [4yFMF6r2ftly]|QUALITIES NEEDED FOR WATCHING AND PRAYING QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/SACRIFICING FOR JESUS CHRIST QODESH SERVICES DAG HEWARD-MILLS [WQrntwIARNiI]|SACRIFICING FOR JESUS CHRIST QODESH SERVICES DAG HEWARD-MILLS]]
 - [[Messages/Bitchute/Qodesh/SOME PRAYER MISTAKES QODESH SERVICES DAG HEWARD-MILLS [K7xuzthIp0lt]|SOME PRAYER MISTAKES QODESH SERVICES DAG HEWARD-MILLS]]
-- [[Messages/Bitchute/Qodesh/THE MYSTERY OF PRAYER QODESH SERVICES DAG HEWARD-MILLS [LQIM3RIgoQvC]|THE MYSTERY OF PRAYER QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/SPIRITUAL ATTACKS QODESH SERVICES DAG HEWARD-MILLS [KjsKPFcMqtgN]|SPIRITUAL ATTACKS QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/THE CALL DAG HEWARD-MILLS [OcAu9Wrm495H]|THE CALL DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/THE IMPORTANCE OF FAITH QODESH SERVICES DAG HEWARD-MILLS [7LE2yOZlEP2I]|THE IMPORTANCE OF FAITH QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/THE NEW CREATION QODESH SERVICES DAG HEWARD-MILLS [zM9BplNbFes9]|THE NEW CREATION QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/THE RESURRECTION QODESH SERVICES DAG HEWARD-MILLS [EXFc7J0WSthP]|THE RESURRECTION QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/THE WORK OF THE HOLY SPIRIT QODESH SERVICES DAG HEWARD-MILLS [dP6h4Tl4YXHl]|THE WORK OF THE HOLY SPIRIT QODESH SERVICES DAG HEWARD-MILLS]]
 - [[Messages/Bitchute/Qodesh/WATCH AND PRAY ALWAYS QODESH SERVICES DAG HEWARD-MILLS [OBllt9j80FaF]|WATCH AND PRAY ALWAYS QODESH SERVICES DAG HEWARD-MILLS]]
 - [[Messages/Bitchute/Qodesh/WATCH AND PRAY QODESH SERVICES DAG HEWARD-MILLS [mHApkUfv1Rqg]|WATCH AND PRAY QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/WHY YOU SHOULD NOT PERISH IN THE LAKE OF FIRE QODESH SERVICES DAG HEWARD-MILLS [uYXnlyQz2dXk]|WHY YOU SHOULD NOT PERISH IN THE LAKE OF FIRE QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/YOU CAN NOT BE A CHRISTIAN WITHOUT THE HOLY SPIRIT QODESH SERVICES DAG HEWARD-MILLS [ODpSY02Sjsxv]|YOU CAN NOT BE A CHRISTIAN WITHOUT THE HOLY SPIRIT QODESH SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/Qodesh/YOU NEED THE HOLY SPIRIT TO BE A GOOD CHRISTIAN QODESH SERVICES DAG HEWARD-MILLS [EnY1wUXwhv3K]|YOU NEED THE HOLY SPIRIT TO BE A GOOD CHRISTIAN QODESH SERVICES DAG HEWARD-MILLS]]
 
-### Messages / Bitchute / UnquenchableFireServices
-- [[Messages/Bitchute/UnquenchableFireServices/FERVENT PRAYER NOVEMBER 2009 UNQUENCHABLE FIRE SERVICE DAG HEWARD-MILLS [BsKWO7UJefyw]|FERVENT PRAYER NOVEMBER 2009 UNQUENCHABLE FIRE SERVICE DAG HEWARD-MILLS]]
+#### Messages / Bitchute / UnquenchableFireServices
+- [[Messages/Bitchute/UnquenchableFireServices/PROTON APRIL 2010 UNQUENCHABLE FIRE SERVICE DAG HEWARD-MILLS [HC6OKqwqkxa7]|PROTON APRIL 2010 UNQUENCHABLE FIRE SERVICE DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/UnquenchableFireServices/PSALM 139 JUNE 2009 UNQUENCHABLE FIRE SERVICE DAG HEWARD-MILLS [HMsqG8TiVATG]|PSALM 139 JUNE 2009 UNQUENCHABLE FIRE SERVICE DAG HEWARD-MILLS]]
+- [[Messages/Bitchute/UnquenchableFireServices/THE NEW CREATION SEPTEMBER 2009 UNQUENCHABLE FIRE SERVICE DAG HEWARD-MILLS [siLI2tvta8Og]|THE NEW CREATION SEPTEMBER 2009 UNQUENCHABLE FIRE SERVICE DAG HEWARD-MILLS]]
 
-### Messages / Rumble / Conventions
+#### Messages / Odysee / ImpartationServices
+- [[Messages/Odysee/ImpartationServices/IMMEDIATE RESPONSE IMPARTATION SERVICES DAG HEWARD-MILLS [60ccb0a9ddc45427fda39c3efdc9f74db5c71b22]|IMMEDIATE RESPONSE IMPARTATION SERVICES DAG HEWARD-MILLS]]
+
+#### Messages / Rumble / Conventions
+- [[Messages/Rumble/Conventions/BUILDING THE GREAT KINGDOM CONVENTIONS DAG HEWARD-MILLS [v4t4owu]|BUILDING THE GREAT KINGDOM CONVENTIONS DAG HEWARD-MILLS]]
+- [[Messages/Rumble/Conventions/HOW PEOPLE ENTER INTO THE IMPERFECT WILL OF GOD CONVENTIONS DAG HEWARD-MILLS [v4taoke]|HOW PEOPLE ENTER INTO THE IMPERFECT WILL OF GOD CONVENTIONS DAG HEWARD-MILLS]]
+- [[Messages/Rumble/Conventions/SMASHING ENTITIES CONVENTIONS DAG HEWARD-MILLS [v4t8of2]|SMASHING ENTITIES CONVENTIONS DAG HEWARD-MILLS]]
+- [[Messages/Rumble/Conventions/Shepherd The People HOMECOMING Dag Heward-Mills 2024 [v5m9js2]|Shepherd The People HOMECOMING Dag Heward-Mills 2024]]
 - [[Messages/Rumble/Conventions/Solomon's Secrets Prayer HomeComing Conventions-2005 Dag Heward-Mills [v5n0oxz]|Solomon's Secrets Prayer HomeComing Conventions-2005 Dag Heward-Mills]]
+- [[Messages/Rumble/Conventions/THE KINGDOM IS LIKE A SEED CONVENTIONS DAG HEWARD-MILLS [v4t4pjr]|THE KINGDOM IS LIKE A SEED CONVENTIONS DAG HEWARD-MILLS]]
+- [[Messages/Rumble/Conventions/THE KINGDOM IS LIKE LEAVEN CONVENTIONS DAG HEWARD-MILLS [v4t90vf]|THE KINGDOM IS LIKE LEAVEN CONVENTIONS DAG HEWARD-MILLS]]
+- [[Messages/Rumble/Conventions/What It Means To Love The Lord HOMECOMING Dag Heward-Mills 2024 [v5l62e2]|What It Means To Love The Lord HOMECOMING Dag Heward-Mills 2024]]
+- [[Messages/Rumble/Conventions/Why Your Soul Is Important Avenor Day 1 HomeComing Conventions-2014 Dag Heward-Mills [v5myp7w]|Why Your Soul Is Important Avenor Day 1 HomeComing Conventions-2014 Dag Heward-Mills]]
 
-### Messages / Rumble / KorleGonno
+#### Messages / Rumble / KorleGonno
+- [[Messages/Rumble/KorleGonno/9 DIFFERENT WAYS JESUS MINISTERED DAG HEWARD-MILLS [v4ucu20]|9 DIFFERENT WAYS JESUS MINISTERED DAG HEWARD-MILLS]]
 - [[Messages/Rumble/KorleGonno/A PRAYER OF FAITH DAG HEWARD-MILLS [v4uf289]|A PRAYER OF FAITH DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/BEING A PERPETUAL VISITOR TO THE CHURCH DAG HEWARD-MILLS [v4ub7xi]|BEING A PERPETUAL VISITOR TO THE CHURCH DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/DAUGTHER WHILE YOU WAIT DAG HEWARD-MILLS [v4uc24e]|DAUGTHER WHILE YOU WAIT DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/EUSEBEO DAG HEWARD-MILLS [v4u57sf]|EUSEBEO DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/HOW TO ABOUND DAG HEWARD-MILLS [v4u7svo]|HOW TO ABOUND DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/HOW TO BE FREE FROM DEMONIC HARASSEMENT DAG HEWARD-MILLS [v4u3mr3]|HOW TO BE FREE FROM DEMONIC HARASSEMENT DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/HOW TO LIVE THE LIFE OF FAITH DAG HEWARD-MILLS [v4u5qml]|HOW TO LIVE THE LIFE OF FAITH DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/HOW TO OVERCOME IMPOSSIBLE SITUATIONS DAG HEWARD-MILLS [v4ufmqr]|HOW TO OVERCOME IMPOSSIBLE SITUATIONS DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/HUMBLE YOURSELF DAG HEWARD-MILLS [v4u3mon]|HUMBLE YOURSELF DAG HEWARD-MILLS]]
 - [[Messages/Rumble/KorleGonno/HUMBLING OURSELVES IN PRAYER DAG HEWARD-MILLS [v4u5pxe]|HUMBLING OURSELVES IN PRAYER DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/I WILL DWELL IN THE HOUSE OF THE LORD DAG HEWARD-MILLS [v4u3mao]|I WILL DWELL IN THE HOUSE OF THE LORD DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/INVASION, COMPATIBILITY AND INFLUENCE DAG HEWARD-MILLS [v4u3l5t]|INVASION, COMPATIBILITY AND INFLUENCE DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/MAN IS A SPIRIT, HAS A SOUL AND LIVES IN A BODY DAG HEWARD-MILLS [v4uh34n]|MAN IS A SPIRIT, HAS A SOUL AND LIVES IN A BODY DAG HEWARD-MILLS]]
 - [[Messages/Rumble/KorleGonno/NTRODUCTION TO PRAYER DAG HEWARD-MILLS [v4u3maw]|NTRODUCTION TO PRAYER DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/P.U.S.H DAG HEWARD-MILLS [v4u3lze]|P.U.S.H DAG HEWARD-MILLS]]
 - [[Messages/Rumble/KorleGonno/PRAYER OF CONSECRATION DAG HEWARD-MILLS [v4uf2qk]|PRAYER OF CONSECRATION DAG HEWARD-MILLS]]
-- [[Messages/Rumble/KorleGonno/PRAYER OF INTERCESSION DAG HEWARD-MILLS [v4uf2in]|PRAYER OF INTERCESSION DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/PRINCIPLES FOR CHRISTIAN MERRY MAKING DAG HEWARD-MILLS [v4udgff]|PRINCIPLES FOR CHRISTIAN MERRY MAKING DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/PUT ON THE ARMOUR OF GOD DAG HEWARD-MILLS [v4ue40e]|PUT ON THE ARMOUR OF GOD DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/REDEEMING THE TIME DAG HEWARD-MILLS [v4ugpqq]|REDEEMING THE TIME DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/RELATING WITH YOUR PASTOR DAG HEWARD-MILLS [v4ufg90]|RELATING WITH YOUR PASTOR DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/THE GOOD AND THE EVIL OF THE LAND DAG HEWARD-MILLS [v4u3mnc]|THE GOOD AND THE EVIL OF THE LAND DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/THE GREATEST BARRIER TO RECEIVING FROM THE SUPERNATURAL DAG HEWARD-MILLS [v4ug4m3]|THE GREATEST BARRIER TO RECEIVING FROM THE SUPERNATURAL DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/THE PARABLE OF THE WIDOW AND THE UNJUST MAN DAG HEWARD-MILLS [v4u3lk8]|THE PARABLE OF THE WIDOW AND THE UNJUST MAN DAG HEWARD-MILLS]]
 - [[Messages/Rumble/KorleGonno/THE PRAYER OF THE HUMBLE DAG HEWARD-MILLS [v4u5qa2]|THE PRAYER OF THE HUMBLE DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/THE TEST OF EASTER DAG HEWARD-MILLS [v4u365f]|THE TEST OF EASTER DAG HEWARD-MILLS]]
 - [[Messages/Rumble/KorleGonno/THE WIDOW'S PRAYER DAG HEWARD-MILLS [v4u3m3e]|THE WIDOW'S PRAYER DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/THOU ANOINTEST MY HEAD WITH OIL DAG HEWARD-MILLS [v4u3l2i]|THOU ANOINTEST MY HEAD WITH OIL DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/THREE KEYS TO GOD'S DIVINE PROMOTION DAG HEWARD-MILLS [v4u2x3z]|THREE KEYS TO GOD'S DIVINE PROMOTION DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/TO LIVE IS CHRIST DAG HEWARD-MILLS [v4u3mcx]|TO LIVE IS CHRIST DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/TOTAL COMMITMENT DAG HEWARD-MILLS [v4ue943]|TOTAL COMMITMENT DAG HEWARD-MILLS]]
+- [[Messages/Rumble/KorleGonno/WHY YOU SHOULD NOT PERISH IN THE LAKE OF FIRE DAG HEWARD-MILLS [v4ue7rk]|WHY YOU SHOULD NOT PERISH IN THE LAKE OF FIRE DAG HEWARD-MILLS]]
 
-### Messages / Rumble / TuesdayServices
+#### Messages / Rumble / ShepherdsServices
+- [[Messages/Rumble/ShepherdsServices/The Visitor Shepherds' Service Dag Heward-Mills [v4na225]|The Visitor Shepherds' Service Dag Heward-Mills]]
+
+#### Messages / Rumble / TuesdayServices
+- [[Messages/Rumble/TuesdayServices/CHRIST AS A MAN OF ANOINTING AND MIRACLES TUESDAY SERVICE DAG HEWARD-MILLS [v4tvn9i]|CHRIST AS A MAN OF ANOINTING AND MIRACLES TUESDAY SERVICE DAG HEWARD-MILLS]]
+- [[Messages/Rumble/TuesdayServices/CHRIST AS THE MAN WHO CONFRONTED DEMONS TUESDAY SERVICE DAG HEWARD-MILLS [v4tude9]|CHRIST AS THE MAN WHO CONFRONTED DEMONS TUESDAY SERVICE DAG HEWARD-MILLS]]
+- [[Messages/Rumble/TuesdayServices/LESSONS FROM LUKE 5 TUESDAY SERVICE DAG HEWARD-MILLS [v4tqphk]|LESSONS FROM LUKE 5 TUESDAY SERVICE DAG HEWARD-MILLS]]
 - [[Messages/Rumble/TuesdayServices/PRAYING FOR KINGS TUESDAY SERVICE DAG HEWARD-MILLS [v4txqw8]|PRAYING FOR KINGS TUESDAY SERVICE DAG HEWARD-MILLS]]
 - [[Messages/Rumble/TuesdayServices/PRAYING FOR SINNERS TUESDAY SERVICE DAG HEWARD-MILLS [v4tykal]|PRAYING FOR SINNERS TUESDAY SERVICE DAG HEWARD-MILLS]]
+- [[Messages/Rumble/TuesdayServices/PROTON AND OFFENCE TUESDAY SERVICE DAG HEWARD-MILLS [v4tucvz]|PROTON AND OFFENCE TUESDAY SERVICE DAG HEWARD-MILLS]]
+- [[Messages/Rumble/TuesdayServices/SIGNS OF AN EVIL CONGREGATION TUESDAY SERVICE DAG HEWARD-MILLS [v4tu0pt]|SIGNS OF AN EVIL CONGREGATION TUESDAY SERVICE DAG HEWARD-MILLS]]
+- [[Messages/Rumble/TuesdayServices/THE TWO BLIND MEN TUESDAY SERVICE DAG HEWARD-MILLS [v4tp3eh]|THE TWO BLIND MEN TUESDAY SERVICE DAG HEWARD-MILLS]]
+- [[Messages/Rumble/TuesdayServices/WHY GOD DOES NOT BOTHER TO HEAL EVERYONE TUESDAY SERVICE DAG HEWARD-MILLS [v4tqoet]|WHY GOD DOES NOT BOTHER TO HEAL EVERYONE TUESDAY SERVICE DAG HEWARD-MILLS]]
 
-### Messages / YouTube / ChurchServices
+#### Messages / Rumble / WisdomImpartationServices
+- [[Messages/Rumble/WisdomImpartationServices/GREATER THAN SOLOMON PART 2 WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS [v4sxiy5]|GREATER THAN SOLOMON PART 2 WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS]]
+- [[Messages/Rumble/WisdomImpartationServices/WISDOM 5 WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS [v4sypht]|WISDOM 5 WISDOM IMPARTATION SERVICES DAG HEWARD-MILLS]]
+
+#### Messages / YouTube / ChurchServices
+- [[Messages/YouTube/ChurchServices/7 Great Principles  First Love Church  Dag Heward-Mills [olKeIfndX0M]|7 Great Principles  First Love Church  Dag Heward-Mills]]
+- [[Messages/YouTube/ChurchServices/7 Great Principles First Love Church Dag Heward-Mills [olKeIfndX0M]|7 Great Principles First Love Church Dag Heward-Mills]]
+- [[Messages/YouTube/ChurchServices/7 Great Principles For Spiritual Growth Love First Service Dag Heward-Mills [RwggCk-k9zA]|7 Great Principles For Spiritual Growth Love First Service Dag Heward-Mills]]
+- [[Messages/YouTube/ChurchServices/ATTEMPT GREAT THINGS BY BEING THANKFUL  FIRST LOVE SERVICES  0123  DAG HEWARD-MILLS [wJC5ZcMRzy8]|ATTEMPT GREAT THINGS BY BEING THANKFUL  FIRST LOVE SERVICES  0123  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/Are You Known In Hell   First Love, Koinonia Center  Dag Heward-Mills [7PSD0fC1IhQ]|Are You Known In Hell   First Love, Koinonia Center  Dag Heward-Mills]]
+- [[Messages/YouTube/ChurchServices/Are You Known In Hell First Love, Koinonia Center Dag Heward-Mills [7PSD0fC1IhQ]|Are You Known In Hell First Love, Koinonia Center Dag Heward-Mills]]
+- [[Messages/YouTube/ChurchServices/Defence Against Wolves  Attempt Great Things Service  Dag Heward-Mills @firstlovecenter [YHiG8b8f_D0]|Defence Against Wolves  Attempt Great Things Service  Dag Heward-Mills @firstlovecenter]]
+- [[Messages/YouTube/ChurchServices/FOUR TYPES OF SONS  FIRST LOVE SERVICES  0120  DAG HEWARD-MILLS [EsdvWSCFaW0]|FOUR TYPES OF SONS  FIRST LOVE SERVICES  0120  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/Faith For Unstoppable Things  First Love Church  Dag Heward-Mills [a046HDEwn8A]|Faith For Unstoppable Things  First Love Church  Dag Heward-Mills]]
+- [[Messages/YouTube/ChurchServices/Faith For Unstoppable Things First Love Church Dag Heward-Mills [a046HDEwn8A]|Faith For Unstoppable Things First Love Church Dag Heward-Mills]]
+- [[Messages/YouTube/ChurchServices/GOING DEEPER AND DOING MORE PT 4  FIRST LOVE SERVICES  0421  DAG HEWARD-MILLS [U1ODGxHThEg]|GOING DEEPER AND DOING MORE PT 4  FIRST LOVE SERVICES  0421  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/Greater And Better  Tsalach Night  Dag Heward-Mills [jmfYUu7Hkrk]|Greater And Better  Tsalach Night  Dag Heward-Mills]]
+- [[Messages/YouTube/ChurchServices/Greater And Better Tsalach Night Dag Heward-Mills [jmfYUu7Hkrk]|Greater And Better Tsalach Night Dag Heward-Mills]]
+- [[Messages/YouTube/ChurchServices/HOW TO ATTEMPT NEW THINGS FOR GOD  FIRST LOVE SERVICES  0124  DAG HEWARD-MILLS [CSkqoBmXY_I]|HOW TO ATTEMPT NEW THINGS FOR GOD  FIRST LOVE SERVICES  0124  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/HOW TO ATTEMPT NEW THINGS FOR GOD FIRST LOVE SERVICES 0124 DAG HEWARD-MILLS [CSkqoBmXY_I]|HOW TO ATTEMPT NEW THINGS FOR GOD FIRST LOVE SERVICES 0124 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/HOW TO DEFEND YOURSELF PT 6  FIRST LOVE SERVICES  1020  DAG HEWARD-MILLS [smHk592ecxQ]|HOW TO DEFEND YOURSELF PT 6  FIRST LOVE SERVICES  1020  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/HOW TO OPERATE IN FAITH  FIRST LOVE SERVICES  DAG HEWARD-MILLS [xgP8cZhSQoo]|HOW TO OPERATE IN FAITH  FIRST LOVE SERVICES  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/HOW TO POSSESS THE LAND PART 3  FIRST LOVE SERVICES  DAG HEWARD-MILLS [UXawk8UmP5Y]|HOW TO POSSESS THE LAND PART 3  FIRST LOVE SERVICES  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/IF YOU LOVE THE LORD PT 7  FIRST LOVE SERVICES  0620  DAG HEWARD-MILLS [nILrzvH1iOM]|IF YOU LOVE THE LORD PT 7  FIRST LOVE SERVICES  0620  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/LAY PEOPLE AND THE MINISTRY LAIKOS  LAIKOS  FIRST LOVE SERVICES  0721  DAG HEWARD-MILLS [DGLU8OibsyU]|LAY PEOPLE AND THE MINISTRY LAIKOS  LAIKOS  FIRST LOVE SERVICES  0721  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/LIKELY TO BE RICH, LIKELY TO BE POOR PT 3   FIRST LOVE SERVICES  1221  DAG HEWARD-MILLS [9qzIUhWjuVs]|LIKELY TO BE RICH, LIKELY TO BE POOR PT 3   FIRST LOVE SERVICES  1221  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/MY FIRST HOUR IN THE PROMISE LAND  FIRST LOVE SERVICES  DAG HEWARD-MILLS [QM89wh5G18E]|MY FIRST HOUR IN THE PROMISE LAND  FIRST LOVE SERVICES  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/Ministry Has Seasons What You Must Do Before 50  The Qodesh  Dag Heward-Mills [uRkX_v87Mp8]|Ministry Has Seasons What You Must Do Before 50  The Qodesh  Dag Heward-Mills]]
+- [[Messages/YouTube/ChurchServices/Ministry Has Seasons What You Must Do Before 50 The Qodesh Dag Heward-Mills [uRkX_v87Mp8]|Ministry Has Seasons What You Must Do Before 50 The Qodesh Dag Heward-Mills]]
+- [[Messages/YouTube/ChurchServices/NUMBER 75   FIRST LOVE SERVICES  0323  DAG HEWARD-MILLS [1_FDTDaoT4k]|NUMBER 75   FIRST LOVE SERVICES  0323  DAG HEWARD-MILLS]]
 - [[Messages/YouTube/ChurchServices/SEED TIME AND HARVEST PT 7  THE SEED OF PRAYER  FIRST LOVE SERVICES  0222  DAG HEWARD-MILLS [dvwQLvj3dgM]|SEED TIME AND HARVEST PT 7  THE SEED OF PRAYER  FIRST LOVE SERVICES  0222  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/TASTE OF RESURRECTION  FIRST LOVE SERVICES  0423  DAG HEWARD-MILLS [ynxW19guWU8]|TASTE OF RESURRECTION  FIRST LOVE SERVICES  0423  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/TESTS TO YOUR LONG AWAITED PROMOTION PART 2  FIRST LOVE SERVICES  0717  DAG HEWARD-MILLS [tg_xg2qv0A8]|TESTS TO YOUR LONG AWAITED PROMOTION PART 2  FIRST LOVE SERVICES  0717  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/TESTS TO YOUR LONG AWAITED PROMOTION PART 2 FIRST LOVE SERVICES 0717 DAG HEWARD-MILLS [tg_xg2qv0A8]|TESTS TO YOUR LONG AWAITED PROMOTION PART 2 FIRST LOVE SERVICES 0717 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/THE BLESSINGS OF FRUITFULNESS (KNOWING PEOPLE BY THEIR ACTIONS) DAG HEWARD-MILLS [ThDUiSmVaE8]|THE BLESSINGS OF FRUITFULNESS (KNOWING PEOPLE BY THEIR ACTIONS) DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/THE DAYS OF NOAH AND THE DAYS OF LOT  FIRST LOVE SERVICES  1218  DAG HEWARD-MILLS [iKB2wt-UOQ4]|THE DAYS OF NOAH AND THE DAYS OF LOT  FIRST LOVE SERVICES  1218  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/THE MYSTERY OF GOD  FIRST LOVE SERVICES  DAG HEWARD-MILLS [9PtrKJoivO0]|THE MYSTERY OF GOD  FIRST LOVE SERVICES  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/THE PRODIGAL SON  FIRST LOVE SERVICES  DAG HEWARD-MILLS [riy2kYjdCFM]|THE PRODIGAL SON  FIRST LOVE SERVICES  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/THE SECOND HARVEST OF THE SERPENT SEED  FIRST LOVE SERVICES  0420  DAG HEWARD-MILLS [YAeGHznm1nI]|THE SECOND HARVEST OF THE SERPENT SEED  FIRST LOVE SERVICES  0420  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/THE SECOND HARVEST OF THE SERPENT SEED FIRST LOVE SERVICES 0420 DAG HEWARD-MILLS [YAeGHznm1nI]|THE SECOND HARVEST OF THE SERPENT SEED FIRST LOVE SERVICES 0420 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/THE TARGETS OF SATAN  FIRST LOVE SERVICES  0320   DAG HEWARD-MILLS [V6bagSWghiw]|THE TARGETS OF SATAN  FIRST LOVE SERVICES  0320   DAG HEWARD-MILLS]]
+- [[Messages/YouTube/ChurchServices/TSALACH NIGHT 2025 YEAR OF BLESSING AND NO CURSE  FIRST LOVE CHURCH  DAG HEWARD-MILLS  2025 [ql_alN5Fr2s]|TSALACH NIGHT 2025 YEAR OF BLESSING AND NO CURSE  FIRST LOVE CHURCH  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/ChurchServices/TSALACH NIGHT 2025 YEAR OF BLESSING AND NO CURSE FIRST LOVE CHURCH DAG HEWARD-MILLS 2025 [ql_alN5Fr2s]|TSALACH NIGHT 2025 YEAR OF BLESSING AND NO CURSE FIRST LOVE CHURCH DAG HEWARD-MILLS 2025]]
 
-### Messages / YouTube / DagHewardMillsGTWC
+#### Messages / YouTube / DagHewardMillsCrusades
+- [[Messages/YouTube/DagHewardMillsCrusades/ABOBO, IVORY COAST JESUS AND HIS MIRACLES HEALING JESUS CRUSADES DAG HEWARD-MILLS 2013 [gZND3XA5tk4]|ABOBO, IVORY COAST JESUS AND HIS MIRACLES HEALING JESUS CRUSADES DAG HEWARD-MILLS 2013]]
+- [[Messages/YouTube/DagHewardMillsCrusades/ABOBO, IVORY COAST MIRACLES HEALING JESUS CRUSADES DAG HEWARD-MILLS 2013 [kOGNz3RdraY]|ABOBO, IVORY COAST MIRACLES HEALING JESUS CRUSADES DAG HEWARD-MILLS 2013]]
+- [[Messages/YouTube/DagHewardMillsCrusades/ABOMEY-CALAVI, BENIN JESUS CHRIST AND THE WOMAN WITH THE ISSUE OF BLOOD DAY 2 DAG HEWARD-MILLS [a0t6H__IcsM]|ABOMEY-CALAVI, BENIN JESUS CHRIST AND THE WOMAN WITH THE ISSUE OF BLOOD DAY 2 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/ABOMEY-CALAVI, BENIN THE BLOOD OF JESUS DAY 3 DAG HEWARD-MILLS [mF_xKlYlRtY]|ABOMEY-CALAVI, BENIN THE BLOOD OF JESUS DAY 3 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/ABONGBANG, GHANA DAY 2 JESUS HJC DAG HEWARD-MILLS [51Td1u2apqY]|ABONGBANG, GHANA DAY 2 JESUS HJC DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/ANTANANARIVO, MADAGASCAR  JESUS IS STANDING AT THE DOOR OF YOUR HEART  DAG HEWARD-MILLS  2023 [EmXIokk97AI]|ANTANANARIVO, MADAGASCAR  JESUS IS STANDING AT THE DOOR OF YOUR HEART  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/ANTANANARIVO, MADAGASCAR DAY 4  THE DIMENSIONS OF DIVINE HEALING  HJC  DAG HEWARD-MILLS  2023 [fZluZJPEp0Q]|ANTANANARIVO, MADAGASCAR DAY 4  THE DIMENSIONS OF DIVINE HEALING  HJC  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/ANTANANARIVO, MADAGASCAR DAY 4 THE DIMENSIONS OF DIVINE HEALING HJC DAG HEWARD-MILLS 2023 [fZluZJPEp0Q]|ANTANANARIVO, MADAGASCAR DAY 4 THE DIMENSIONS OF DIVINE HEALING HJC DAG HEWARD-MILLS 2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/ANTANANARIVO, MADAGASCAR DAY2  THE MIRACLE OF THE CENTURION SERVANT  HJC  DAG HEWARD-MILLS  2023 [4EFWxmrjt9A]|ANTANANARIVO, MADAGASCAR DAY2  THE MIRACLE OF THE CENTURION SERVANT  HJC  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/ANTANANARIVO, MADAGASCAR DAY2 THE MIRACLE OF THE CENTURION SERVANT HJC DAG HEWARD-MILLS 2023 [4EFWxmrjt9A]|ANTANANARIVO, MADAGASCAR DAY2 THE MIRACLE OF THE CENTURION SERVANT HJC DAG HEWARD-MILLS 2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/ASAWINSO, GHANA HE THAT HAS THE SON HAS LIFE HEALING JESUS CAMPAIGN DAG HEWARD-MILLS 2019 [iUKAPTTRrno]|ASAWINSO, GHANA HE THAT HAS THE SON HAS LIFE HEALING JESUS CAMPAIGN DAG HEWARD-MILLS 2019]]
+- [[Messages/YouTube/DagHewardMillsCrusades/Adama, Ethiopia Day 1  Build Your Life On A Rock  HJC  Dag Heward-Mills  2024 [BBKtrOVc6z8]|Adama, Ethiopia Day 1  Build Your Life On A Rock  HJC  Dag Heward-Mills  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/Adama, Ethiopia Day 2  Seek First the Kingdom of God  HJC  Dag Heward-Mills  2024 [1qu8CwTiyIE]|Adama, Ethiopia Day 2  Seek First the Kingdom of God  HJC  Dag Heward-Mills  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/Adama, Ethiopia Day 3  The Power of Miracles  HJC  Dag Heward-Mills  2024 [Uae0jRXj8oc]|Adama, Ethiopia Day 3  The Power of Miracles  HJC  Dag Heward-Mills  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/Adama, Ethiopia Day 3 The Power of Miracles HJC Dag Heward-Mills 2024 [Uae0jRXj8oc]|Adama, Ethiopia Day 3 The Power of Miracles HJC Dag Heward-Mills 2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/Antsirabe, Madagascar  Unto us a Child Is Born  HJC  Dag Heward-Mills  2024 [xKFFlCyVjs0]|Antsirabe, Madagascar  Unto us a Child Is Born  HJC  Dag Heward-Mills  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BAFATA, GUINEA-BISSAU  ARE YOU A SINNER  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2012 [qTkBok99PCI]|BAFATA, GUINEA-BISSAU  ARE YOU A SINNER  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2012]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BAFATA, GUINEA-BISSAU  JESUS WILL FREE YOU FROM DEMONS  HEALING JESUS CRUSADE  DAG HEWARD-MILLS [-28XE5wR_SA]|BAFATA, GUINEA-BISSAU  JESUS WILL FREE YOU FROM DEMONS  HEALING JESUS CRUSADE  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BAFATA, GUINEA-BISSAU ARE YOU A SINNER HEALING JESUS CRUSADES DAG HEWARD-MILLS 2012 [qTkBok99PCI]|BAFATA, GUINEA-BISSAU ARE YOU A SINNER HEALING JESUS CRUSADES DAG HEWARD-MILLS 2012]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BAFATA, GUINEA-BISSAU JESUS WILL FREE YOU FROM DEMONS HEALING JESUS CRUSADE DAG HEWARD-MILLS [-28XE5wR_SA]|BAFATA, GUINEA-BISSAU JESUS WILL FREE YOU FROM DEMONS HEALING JESUS CRUSADE DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BAFOUSSAM, CAMEROON  WHO WILL GO TO HELL  HEALING JESUS CAMPAIGN  DAG HEWARD-MILLS  2022 [uURwEmiTK60]|BAFOUSSAM, CAMEROON  WHO WILL GO TO HELL  HEALING JESUS CAMPAIGN  DAG HEWARD-MILLS  2022]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BANGUI, CENTRAL AFRICA REPUBLIC  JESUS THE SAVIOUR AND THE HEALER  DAG HEWARD-MILLS  2022 [ZY74EQMassc]|BANGUI, CENTRAL AFRICA REPUBLIC  JESUS THE SAVIOUR AND THE HEALER  DAG HEWARD-MILLS  2022]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BANGUI, CENTRAL AFRICA REPUBLIC  JESUS WILL DO YOU GOOD   DAG HEWARD-MILLS  2022 [cboppyuALow]|BANGUI, CENTRAL AFRICA REPUBLIC  JESUS WILL DO YOU GOOD   DAG HEWARD-MILLS  2022]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BANGUI, CENTRAL AFRICA REPUBLIC JESUS THE SAVIOUR AND THE HEALER DAG HEWARD-MILLS 2022 [ZY74EQMassc]|BANGUI, CENTRAL AFRICA REPUBLIC JESUS THE SAVIOUR AND THE HEALER DAG HEWARD-MILLS 2022]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BANJUL, GAMBIA  CHOOSE  DAG HEWARD-MILLS [y-p9xIjrUoA]|BANJUL, GAMBIA  CHOOSE  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BINDURA, ZIMBABWE  RESURRECTION POWER  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2016 [Alycsoh9U5Y]|BINDURA, ZIMBABWE  RESURRECTION POWER  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2016]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BINDURA, ZIMBABWE RESURRECTION POWER HEALING JESUS CRUSADES DAG HEWARD-MILLS 2016 [Alycsoh9U5Y]|BINDURA, ZIMBABWE RESURRECTION POWER HEALING JESUS CRUSADES DAG HEWARD-MILLS 2016]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BOBO DIOULASO, BURKINA FASO  THE BLOOD OF JESUS  HEALING JESUS CRUSADES  DAG HEWARD-MILLS [dI6uc2rnEY8]|BOBO DIOULASO, BURKINA FASO  THE BLOOD OF JESUS  HEALING JESUS CRUSADES  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BOHICON, BENIN THE RICH MAN AND LAZARUS DAY 3 DAG HEWARD-MILLS [G10nwIAXg04]|BOHICON, BENIN THE RICH MAN AND LAZARUS DAY 3 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BOMA, DRC DAY 1  I'M NOT ASHAMED OF THE GOSPEL  HJC  DAG HEWARD-MILLS  2025 [wGoPgJLmn2w]|BOMA, DRC DAY 1  I'M NOT ASHAMED OF THE GOSPEL  HJC  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BOMA, DRC DAY 2  JESUS CHRIST IS A HEALING JESUS  HJC  DAG HEWARD-MILLS  2025 [n5iECWqM0Lw]|BOMA, DRC DAY 2  JESUS CHRIST IS A HEALING JESUS  HJC  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BOMA, DRC DAY 3  A HEALING JESUS  HJC  DAG HEWARD-MILLS  2025 [d4cfuz2A2e8]|BOMA, DRC DAY 3  A HEALING JESUS  HJC  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BRAZZAVILLE, REPUBLIC OF THE CONGO  BY HIS STRIPES WE ARE HEALED  HEALING JESUS CRUSADES  2025 [3Tfo2pt1H8M]|BRAZZAVILLE, REPUBLIC OF THE CONGO  BY HIS STRIPES WE ARE HEALED  HEALING JESUS CRUSADES  2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BRAZZAVILLE, REPUBLIC OF THE CONGO  CHRIST IN YOU THE HOPE OF GLORY HEALING JESUS CRUSADES  2025 [KPLrsEix-1s]|BRAZZAVILLE, REPUBLIC OF THE CONGO  CHRIST IN YOU THE HOPE OF GLORY HEALING JESUS CRUSADES  2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BUBA, GUINEA-BISSAU JESUS CHRIST THE HEALER HEALING JESUS CRUSADES DAG HEWARD-MILLS 2012 [kE3WdN5YFpk]|BUBA, GUINEA-BISSAU JESUS CHRIST THE HEALER HEALING JESUS CRUSADES DAG HEWARD-MILLS 2012]]
+- [[Messages/YouTube/DagHewardMillsCrusades/BUBA, GUINEA-BISSAU WILL YOU BETRAY JESUS CHRIST DAG HEWARD-MILLS [gIjnfAMCwVg]|BUBA, GUINEA-BISSAU WILL YOU BETRAY JESUS CHRIST DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/CABINDA, ANGOLA  JOHN 316  HEALING JESUS CRUSADES  DAG HEWARD-MILLS [CLIbaE8JmjY]|CABINDA, ANGOLA  JOHN 316  HEALING JESUS CRUSADES  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/CABINDA, ANGOLA  WHY PEOPLE BELIEVE IN JESUS CHRIST  HEALING JESUS CRUSADES  DAG HEWARD-MILLS [hHEes9-Y2Xs]|CABINDA, ANGOLA  WHY PEOPLE BELIEVE IN JESUS CHRIST  HEALING JESUS CRUSADES  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/CAXITO, ANGOLA  THE BLOOD OF JESUS  HJC  DAG HEWARD-MILLS  2024 [wZU8dHJ4ZOs]|CAXITO, ANGOLA  THE BLOOD OF JESUS  HJC  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/CHILILABOMBWE , ZAMBIA JESUS THE SAVIOUR AND THE HEALER DAG HEWARD-MILLS [WWkqBtN1arg]|CHILILABOMBWE , ZAMBIA JESUS THE SAVIOUR AND THE HEALER DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/CHINGOLA, ZAMBIA NUMBER YOUR DAYS HEALING JESUS CRUSADES DAG HEWARD-MILLS [40wmaKiVVUY]|CHINGOLA, ZAMBIA NUMBER YOUR DAYS HEALING JESUS CRUSADES DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/CHITUNGWIZA, ZIMBABWE  IT IS APPOINTED UNTO MAN ONCE TO DIE, BUT AFTER THIS, THE JUDGEMENT  2016 [tn_ieUxP71E]|CHITUNGWIZA, ZIMBABWE  IT IS APPOINTED UNTO MAN ONCE TO DIE, BUT AFTER THIS, THE JUDGEMENT  2016]]
+- [[Messages/YouTube/DagHewardMillsCrusades/CHOKWE, MOZAMBIQUE 15 THINGS THAT HAPPENED TO JESUS CHRIST JUST BECAUSE OF YOU DAG HEWARD-MILLS [VRnHqKpGlSY]|CHOKWE, MOZAMBIQUE 15 THINGS THAT HAPPENED TO JESUS CHRIST JUST BECAUSE OF YOU DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/DAR ES SALAAM, TANZANIA  CHRIST JESUS THE JUDGE  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2018 [0DioPaqOrIk]|DAR ES SALAAM, TANZANIA  CHRIST JESUS THE JUDGE  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2018]]
+- [[Messages/YouTube/DagHewardMillsCrusades/DAR ES SALAAM, TANZANIA  JESUS CHRIST THE SAVIOUR AND HEALER OF THIS WORLD  DAG HEWARD-MILLS [N7OgXXLWvz8]|DAR ES SALAAM, TANZANIA  JESUS CHRIST THE SAVIOUR AND HEALER OF THIS WORLD  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/DAR ES SALAAM, TANZANIA CHRIST JESUS THE JUDGE HEALING JESUS CRUSADES DAG HEWARD-MILLS 2018 [0DioPaqOrIk]|DAR ES SALAAM, TANZANIA CHRIST JESUS THE JUDGE HEALING JESUS CRUSADES DAG HEWARD-MILLS 2018]]
+- [[Messages/YouTube/DagHewardMillsCrusades/DAR ES SALAAM, TANZANIA JESUS CHRIST THE SAVIOUR AND HEALER OF THIS WORLD DAG HEWARD-MILLS [N7OgXXLWvz8]|DAR ES SALAAM, TANZANIA JESUS CHRIST THE SAVIOUR AND HEALER OF THIS WORLD DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/DIEGO SUAREZ, MADAGASCAR DAY 1  JESUS CHRIST THE SAME YESTERDAY, TODAY AND FOREVER  DHMM [25dz2LsCiHU]|DIEGO SUAREZ, MADAGASCAR DAY 1  JESUS CHRIST THE SAME YESTERDAY, TODAY AND FOREVER  DHMM]]
+- [[Messages/YouTube/DagHewardMillsCrusades/DIEGO SUAREZ, MADAGASCAR DAY 1 JESUS CHRIST THE SAME YESTERDAY, TODAY AND FOREVER DHMM [25dz2LsCiHU]|DIEGO SUAREZ, MADAGASCAR DAY 1 JESUS CHRIST THE SAME YESTERDAY, TODAY AND FOREVER DHMM]]
+- [[Messages/YouTube/DagHewardMillsCrusades/DIEGO SUAREZ, MADAGASCAR DAY 2  WHY MANY PEOPLE BELIEVE IN JESUS  HJC  DAG HEWARD-MILLS  2024 [anlaKDbhhck]|DIEGO SUAREZ, MADAGASCAR DAY 2  WHY MANY PEOPLE BELIEVE IN JESUS  HJC  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/DIEGO SUAREZ, MADAGASCAR DAY 2 WHY MANY PEOPLE BELIEVE IN JESUS HJC DAG HEWARD-MILLS 2024 [anlaKDbhhck]|DIEGO SUAREZ, MADAGASCAR DAY 2 WHY MANY PEOPLE BELIEVE IN JESUS HJC DAG HEWARD-MILLS 2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/DONDO, ANGOLA DAY 1   JESUS WILL DO TWO THINGS  DAG HEWARD-MILLS  2024 [vPIMJab66qg]|DONDO, ANGOLA DAY 1   JESUS WILL DO TWO THINGS  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/DROBO, GHANA JESUS WILL DO YOU GOOD DAG HEWARD-MILLS 2019 [Z9iyhk70Q_U]|DROBO, GHANA JESUS WILL DO YOU GOOD DAG HEWARD-MILLS 2019]]
+- [[Messages/YouTube/DagHewardMillsCrusades/DROBO, GHANA WHY GOD SENT HIS SON HJC DAG HEWARD-MILLS 2019 [fV5v8-Ghvds]|DROBO, GHANA WHY GOD SENT HIS SON HJC DAG HEWARD-MILLS 2019]]
+- [[Messages/YouTube/DagHewardMillsCrusades/EAST LONDON, SOUTH AFRICA  JESUS CHRIST AND THE WOMAN WHO WAS BENT OVER  DAG HEWARD-MILLS  2015 [fC5KPjyvqp4]|EAST LONDON, SOUTH AFRICA  JESUS CHRIST AND THE WOMAN WHO WAS BENT OVER  DAG HEWARD-MILLS  2015]]
+- [[Messages/YouTube/DagHewardMillsCrusades/EBOLOWA, CAMEROON DAY 1 REPENTANCE HJC DAG HEWARD-MILLS [KaNwtiioqEg]|EBOLOWA, CAMEROON DAY 1 REPENTANCE HJC DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/EBOLOWA, CAMEROON DAY 2 THE KINGDOM OF HEAVEN IS LIKE A MUSTARD SEED HJC DAG HEWARD-MILLS [AymlQbZl6qM]|EBOLOWA, CAMEROON DAY 2 THE KINGDOM OF HEAVEN IS LIKE A MUSTARD SEED HJC DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/EBOLOWA, CAMEROON JOHN 316 DAY 3 DAG HEWARD-MILLS [HlwwiGvoFIA]|EBOLOWA, CAMEROON JOHN 316 DAY 3 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/FREETOWN, SIERRA LEONE DAY 1  JESUS THE SAVIOR AND HEALER  HJC  DAG HEWARD-MILLS 2025 [m9fMh2n4SrM]|FREETOWN, SIERRA LEONE DAY 1  JESUS THE SAVIOR AND HEALER  HJC  DAG HEWARD-MILLS 2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/FREETOWN, SIERRA LEONE DAY 2  JESUS THE SAVIOR AND HEALER  HJC  DAG HEWARD-MILLS 2025 [i9Lha2EOjLM]|FREETOWN, SIERRA LEONE DAY 2  JESUS THE SAVIOR AND HEALER  HJC  DAG HEWARD-MILLS 2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/FREETOWN, SIERRA LEONE DAY 4  JESUS THE SAVIOR AND HEALER  HJC  DAG HEWARD-MILLS 2025 [7uYlmTY_msU]|FREETOWN, SIERRA LEONE DAY 4  JESUS THE SAVIOR AND HEALER  HJC  DAG HEWARD-MILLS 2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/FREETOWN, SIERRA LEONE DAY 5  JESUS THE SAVIOR AND HEALER  HJC  DAG HEWARD-MILLS 2025 [YpvM0LY1rIM]|FREETOWN, SIERRA LEONE DAY 5  JESUS THE SAVIOR AND HEALER  HJC  DAG HEWARD-MILLS 2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/Fianarantsoa, Madagascar  Who Is Jesus- John 146  HJC  Dag Heward-Mills  2024 [bA31fHXrios]|Fianarantsoa, Madagascar  Who Is Jesus- John 146  HJC  Dag Heward-Mills  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/Fianaratsoa, Madagascar Day 1  What Shall It Profit A Man  HJC  Dag Heward-Mills  2024 [FdvdWrO-OZM]|Fianaratsoa, Madagascar Day 1  What Shall It Profit A Man  HJC  Dag Heward-Mills  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/GABU, GUINEA-BISSAU THE LOVE THAT JESUS CHRIST HAS FOR YOU HJC DAG HEWARD-MILLS 2012 [ATuILNbThOs]|GABU, GUINEA-BISSAU THE LOVE THAT JESUS CHRIST HAS FOR YOU HJC DAG HEWARD-MILLS 2012]]
+- [[Messages/YouTube/DagHewardMillsCrusades/GABU, GUINEA-BISSAU WHOSE FAULT IS IT HEALING JESUS CRUSADES DAG HEWARD-MILLS 2012 [kjo9YC71fE4]|GABU, GUINEA-BISSAU WHOSE FAULT IS IT HEALING JESUS CRUSADES DAG HEWARD-MILLS 2012]]
+- [[Messages/YouTube/DagHewardMillsCrusades/GUECKEDOU, GUINEA THE BLOOD OF JESUS CHRIST HEALING JESUS CRUSADES DAG HEWARD-MILLS 2013 [dIxSTbGOlAw]|GUECKEDOU, GUINEA THE BLOOD OF JESUS CHRIST HEALING JESUS CRUSADES DAG HEWARD-MILLS 2013]]
+- [[Messages/YouTube/DagHewardMillsCrusades/GULU, UGANDA WHAT WILL HAPPEN WHEN YOU DIE HEALING JESUS CRUSADES DAG HEWARD-MILLS [9ndUKQG5l7o]|GULU, UGANDA WHAT WILL HAPPEN WHEN YOU DIE HEALING JESUS CRUSADES DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/GUSHEGU, GHANA JESUS CHRIST WILL DO YOU GOOD HJC DAG HEWARD MILLS [ezqXbsXGygk]|GUSHEGU, GHANA JESUS CHRIST WILL DO YOU GOOD HJC DAG HEWARD MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/HARARE, ZIMBABWE  SEEK YE FIRST THE KINGDOM OF GOD  HEALING JESUS CRUSADES  DAG HEWARD-MILLS [-GxIqi5MDBk]|HARARE, ZIMBABWE  SEEK YE FIRST THE KINGDOM OF GOD  HEALING JESUS CRUSADES  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/HARARE, ZIMBABWE SEEK YE FIRST THE KINGDOM OF GOD HEALING JESUS CRUSADES DAG HEWARD-MILLS [-GxIqi5MDBk]|HARARE, ZIMBABWE SEEK YE FIRST THE KINGDOM OF GOD HEALING JESUS CRUSADES DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/HUYE, RWANDA JESUS CHRIST THE SAVIOUR AND THE HEALER OF THIS WORLD HJC DAG HEWARD-MILLS [mkyM8feCHuk]|HUYE, RWANDA JESUS CHRIST THE SAVIOUR AND THE HEALER OF THIS WORLD HJC DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/Honiara, Solomon Islands Day 4  Build Your House On A Rock  HJC  Dag Heward-Mills  2024 [KxlZWtilXNE]|Honiara, Solomon Islands Day 4  Build Your House On A Rock  HJC  Dag Heward-Mills  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/Ihosy, Madagascar Day 1  Divine Intervention The Power of Miracles  HJC  Dag Heward-Mills  2024 [Kz0HXEYJdLo]|Ihosy, Madagascar Day 1  Divine Intervention The Power of Miracles  HJC  Dag Heward-Mills  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/JIRAPA, GHANA  COME UNTO ME ALL WHO LABOUR AND ARE HEAVY LADEN  HJC  DAG HEWARD-MILLS  2024 [vr7l5KMh9IQ]|JIRAPA, GHANA  COME UNTO ME ALL WHO LABOUR AND ARE HEAVY LADEN  HJC  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/KABWE, ZAMBIA NOT EVERYONE THAT SAITH LORD LORD HEALING JESUS CRUSADES DAG HEWARD-MILLS 2017 [tJ37eZ6vWGM]|KABWE, ZAMBIA NOT EVERYONE THAT SAITH LORD LORD HEALING JESUS CRUSADES DAG HEWARD-MILLS 2017]]
+- [[Messages/YouTube/DagHewardMillsCrusades/KASUNGU, MALAWI JESUS CHRIST THE LAMB OF GOD HEALING JESUS CRUSADES DAG HEWARD-MILLS 2018 [ZGZBkbWMTTQ]|KASUNGU, MALAWI JESUS CHRIST THE LAMB OF GOD HEALING JESUS CRUSADES DAG HEWARD-MILLS 2018]]
+- [[Messages/YouTube/DagHewardMillsCrusades/KASUNGU, MALAWI WHY IS YOUR SOUL IMPORTANT HEALING JESUS CRUSADES DAG HEWARD-MILLS [lrxaBQ4BAxs]|KASUNGU, MALAWI WHY IS YOUR SOUL IMPORTANT HEALING JESUS CRUSADES DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/KAYANZA, BURUNDI DAY 2 JESUS THE SAVIOUR AND THE HEALER HJC DAG HEWARD-MILLS [PLJXxRpR8IM]|KAYANZA, BURUNDI DAY 2 JESUS THE SAVIOUR AND THE HEALER HJC DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/KAYANZA, BURUNDI WHY IS YOUR SOUL IMPORTANT DAG HEWARD-MILLS [jiPwu6fbcmY]|KAYANZA, BURUNDI WHY IS YOUR SOUL IMPORTANT DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/KPANDAI, GHANA THE CROSS OF JESUS HEALING JESUS CAMPAIGN DAG HEWARD-MILLS 2018 [jnEOd7YmQmk]|KPANDAI, GHANA THE CROSS OF JESUS HEALING JESUS CAMPAIGN DAG HEWARD-MILLS 2018]]
+- [[Messages/YouTube/DagHewardMillsCrusades/KWAME DANSO, GHANA THE POWER OF THE BLOOD OF JESUS HJC DAG HEWARD-MILLS 2018 [noDoz5Z82zc]|KWAME DANSO, GHANA THE POWER OF THE BLOOD OF JESUS HJC DAG HEWARD-MILLS 2018]]
+- [[Messages/YouTube/DagHewardMillsCrusades/LAWRA, GHANA  JESUS THE SAME YESTERDAY, TODAY AND FOREVER  HJC  DAG HEWARD-MILLS  2024 [51FazkN5Ib0]|LAWRA, GHANA  JESUS THE SAME YESTERDAY, TODAY AND FOREVER  HJC  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/LIBREVILLE, GABON  THE FOUR LAWS OF MIRACLES  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2023 [P1wj0DLi1JM]|LIBREVILLE, GABON  THE FOUR LAWS OF MIRACLES  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/LIBREVILLE, GABON DAY 1  THE MIRACLE OF BLIND BARTIMAEUS  HJC  DAG HEWARD-MILLS  2023 [YXShZ_OODzc]|LIBREVILLE, GABON DAY 1  THE MIRACLE OF BLIND BARTIMAEUS  HJC  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/LIBREVILLE, GABON DAY 2  JESUS THE SAVIOUR AND THE HEALER OF THIS WORLD  HJC  DHMM  2023 [1QoAbPusvVE]|LIBREVILLE, GABON DAY 2  JESUS THE SAVIOUR AND THE HEALER OF THIS WORLD  HJC  DHMM  2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/LIBREVILLE, GABON THE FOUR LAWS OF MIRACLES HEALING JESUS CRUSADES DAG HEWARD-MILLS 2023 [P1wj0DLi1JM]|LIBREVILLE, GABON THE FOUR LAWS OF MIRACLES HEALING JESUS CRUSADES DAG HEWARD-MILLS 2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/LIVINGSTONE, ZAMBIA JESUS CHRIST THE SAME YESTERDAY, TODAY AND FOREVER DAY 1 DAG HEWARD-MILLS [0x9fi5F3B4Q]|LIVINGSTONE, ZAMBIA JESUS CHRIST THE SAME YESTERDAY, TODAY AND FOREVER DAY 1 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/LUANDA, ANGOLA  JESUS CHRIST THE SAME YESTERDAY,TODAY AND FOREVER  HJC  DAG HEWARD-MILLS  2024 [gI4CXBPUf50]|LUANDA, ANGOLA  JESUS CHRIST THE SAME YESTERDAY,TODAY AND FOREVER  HJC  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/LUANDA, ANGOLA  THE HEALING JESUS  HJC  DAG HEWARD-MILLS  2024 [SiQRYTG3kx8]|LUANDA, ANGOLA  THE HEALING JESUS  HJC  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/LUANSHYA, ZAMBIA FEAR NOT ONLY BELIEVE DAG HEWARD-MILLS [Un1bkdK2S44]|LUANSHYA, ZAMBIA FEAR NOT ONLY BELIEVE DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/LUBANGO, ANGOLA  THE LAKE OF FIRE  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2024 [rSqMGCetgxg]|LUBANGO, ANGOLA  THE LAKE OF FIRE  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/Luanda, Angola  All Things Are Possible for You  Healing Jesus Campaign  Dag Heward-Mills  2024 [ak4F8ozFh9k]|Luanda, Angola  All Things Are Possible for You  Healing Jesus Campaign  Dag Heward-Mills  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/Luanda, Angola  Jesus The Saviour and The Healer  Healing Jesus Campaign  Dag Heward Mills  2024 [UkhkdF1P3EQ]|Luanda, Angola  Jesus The Saviour and The Healer  Healing Jesus Campaign  Dag Heward Mills  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MAHAJANGA, MADAGASCAR DAY 1  THE GOOD SAMARITAN  HJC  DAG HEWARD-MILLS  2023 [bXeyvkiLvOo]|MAHAJANGA, MADAGASCAR DAY 1  THE GOOD SAMARITAN  HJC  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MAHAJANGA, MADAGASCAR DAY 1 THE GOOD SAMARITAN HJC DAG HEWARD-MILLS 2023 [bXeyvkiLvOo]|MAHAJANGA, MADAGASCAR DAY 1 THE GOOD SAMARITAN HJC DAG HEWARD-MILLS 2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MAHAJANGA, MADAGASCAR DAY 2  THE MIRACLE OF THE WITHERED HAND  HJC  DAG HEWARD-MILLS  2023 [D7PZ5Babgb0]|MAHAJANGA, MADAGASCAR DAY 2  THE MIRACLE OF THE WITHERED HAND  HJC  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MAHAJANGA, MADAGASCAR DAY 2 THE MIRACLE OF THE WITHERED HAND HJC DAG HEWARD-MILLS 2023 [D7PZ5Babgb0]|MAHAJANGA, MADAGASCAR DAY 2 THE MIRACLE OF THE WITHERED HAND HJC DAG HEWARD-MILLS 2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MAHAJANGA, MADAGASCAR DAY 3 RESURRECTION POWER HJC DAG HEWARD-MILLS 2023 [J8eVk-QTNgE]|MAHAJANGA, MADAGASCAR DAY 3 RESURRECTION POWER HJC DAG HEWARD-MILLS 2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MALANGE, ANGOLA DAY 3  THE WORKS OF JESUS CHRIST  HJC  DAG HEWARD-MILLS  2024 [7HBAzZSyHy0]|MALANGE, ANGOLA DAY 3  THE WORKS OF JESUS CHRIST  HJC  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MAPUTO, MOZAMBIQUE THE SORROWS OF HELL HEALING JESUS CRUSADES DAG HEWARD-MILLS [g92RCcEM6l0]|MAPUTO, MOZAMBIQUE THE SORROWS OF HELL HEALING JESUS CRUSADES DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MAPUTO, MOZAMBIQUE WHAT JESUS CHRIST DID FOR YOU HEALING JESUS CRUSADES DAG HEWARD-MILLS [wcXGsoPe-Gk]|MAPUTO, MOZAMBIQUE WHAT JESUS CHRIST DID FOR YOU HEALING JESUS CRUSADES DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MAPUTSOE, LESOTHO  JESUS, THE SAVIOUR AND HEALER  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2016 [tqKKdzcG3Jg]|MAPUTSOE, LESOTHO  JESUS, THE SAVIOUR AND HEALER  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2016]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MAPUTSOE, LESOTHO JESUS, THE SAVIOUR AND HEALER HEALING JESUS CRUSADES DAG HEWARD-MILLS 2016 [tqKKdzcG3Jg]|MAPUTSOE, LESOTHO JESUS, THE SAVIOUR AND HEALER HEALING JESUS CRUSADES DAG HEWARD-MILLS 2016]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MARONDERA, ZIMBABWE GOOD NEWS AND BAD NEWS HEALING JESUS CRUSADES DAG HEWARD-MILLS 2016 [Vx8JT2LeH9I]|MARONDERA, ZIMBABWE GOOD NEWS AND BAD NEWS HEALING JESUS CRUSADES DAG HEWARD-MILLS 2016]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MASAKA, UGANDA DAY 1 JESUS CAME TO REDEEM US HJC DAG HEWARD-MILLS [aZCdGjkR4vk]|MASAKA, UGANDA DAY 1 JESUS CAME TO REDEEM US HJC DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MASAKA, UGANDA THE NARROW WAY AND THE BROAD WAY DAY 3 DAG HEWARD-MILLS [om1we_Sc6sg]|MASAKA, UGANDA THE NARROW WAY AND THE BROAD WAY DAY 3 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MATADI, DRC DAY 1  MATADI GOD SO LOVED THE WORLD  HJC  DAG HEWARD-MILLS  2025 [bg9kJnJjjF8]|MATADI, DRC DAY 1  MATADI GOD SO LOVED THE WORLD  HJC  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MATADI, DRC DAY 3 JESUS THE SAME YESTERDAY,TODAY AND FOREVER  HJC  DAG HEWARD-MILLS  2025 [qFdZO5WEHDk]|MATADI, DRC DAY 3 JESUS THE SAME YESTERDAY,TODAY AND FOREVER  HJC  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MATOLA , MOZAMBIQUE TEN VIRGINS DAY 1 DAG HEWARD-MILLS [7yWeq3EFx-0]|MATOLA , MOZAMBIQUE TEN VIRGINS DAY 1 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MATOLA , MOZAMBIQUE WHO WILL GO TO HELL DAY 2 DAG HEWARD-MILLS [WfmcYkz-RlU]|MATOLA , MOZAMBIQUE WHO WILL GO TO HELL DAY 2 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MAZABUKA, ZAMBIA COME UNTO ME DAG HEWARD-MILLS [PrW1-_HtX2s]|MAZABUKA, ZAMBIA COME UNTO ME DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MBALE, UGANDA JOHN 316 HEALING JESUS CRUSADES DAG HEWARD-MILLS [3abwfXAa0QE]|MBALE, UGANDA JOHN 316 HEALING JESUS CRUSADES DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MBALE, UGANDA THE GREAT FEAST HEALING JESUS CRUSADES DAG HEWARD-MILLS [JT9pVhU_2tE]|MBALE, UGANDA THE GREAT FEAST HEALING JESUS CRUSADES DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MBARARA, UGANDA DAY 1 HE SENT HIS WORD AND HEAL HJC DAG HEWARD-MILLS [9GgTG34yvxU]|MBARARA, UGANDA DAY 1 HE SENT HIS WORD AND HEAL HJC DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MBARARA, UGANDA HE SENT HIS WORD AND HEALED THEM DAY 2 DAG HEWARD-MILLS [4LLHPpv_QNM]|MBARARA, UGANDA HE SENT HIS WORD AND HEALED THEM DAY 2 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MOKOPANE, SOUTH AFRICA  JESUS CHRIST IS THE SAME YESTERDAY, TODAY AND FOREVER  DAG HEWARD-MILLS [4opPNKlIQIY]|MOKOPANE, SOUTH AFRICA  JESUS CHRIST IS THE SAME YESTERDAY, TODAY AND FOREVER  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MOKOPANE, SOUTH AFRICA JESUS CHRIST IS THE SAME YESTERDAY, TODAY AND FOREVER DAG HEWARD-MILLS [4opPNKlIQIY]|MOKOPANE, SOUTH AFRICA JESUS CHRIST IS THE SAME YESTERDAY, TODAY AND FOREVER DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MONROVIA, LIBERIA DAY 1 THE GOOD SAMARITAN HEALING JESUS CRUSADES DAG HEWARD-MILLS 2024 [Wv9nC2OHpMQ]|MONROVIA, LIBERIA DAY 1 THE GOOD SAMARITAN HEALING JESUS CRUSADES DAG HEWARD-MILLS 2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MONROVIA, LIBERIA DAY 2 THE BLOOD OF JESUS HEALING JESUS CRUSADES DAG HEWARD-MILLS 2024 [6q_FcPw_Oc8]|MONROVIA, LIBERIA DAY 2 THE BLOOD OF JESUS HEALING JESUS CRUSADES DAG HEWARD-MILLS 2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MONROVIA, LIBERIA DAY 3  THE BLOOD OF THE LAMB  HEALING JESUS CAMPAIGN  DAG HEWARD-MILLS  2024 [iLRlO2U6Pl4]|MONROVIA, LIBERIA DAY 3  THE BLOOD OF THE LAMB  HEALING JESUS CAMPAIGN  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MUANDA, DRC DAY 1   THE BLESSING OF JESUS CHRIST  HJC  DAG HEWARD-MILLS  2025 [HTtDKThuyKw]|MUANDA, DRC DAY 1   THE BLESSING OF JESUS CHRIST  HJC  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MUANDA, DRC DAY 3   ALL DEAD PEOPLE ARE STILL ALIVE  HJC  DAG HEWARD-MILLS  2025 [rTTC7lpVx_o]|MUANDA, DRC DAY 3   ALL DEAD PEOPLE ARE STILL ALIVE  HJC  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MUSANZE, RWANDA JESUS IS THE MASTER OF THE DEVIL HEALING JESUS CRUSADES DAG HEWARD-MILLS [88yDNoVoYQc]|MUSANZE, RWANDA JESUS IS THE MASTER OF THE DEVIL HEALING JESUS CRUSADES DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MUSANZE, RWANDA SOMETHING GOOD WILL HAPPEN TO YOU HEALING JESUS CRUSADES DAG HEWARD-MILLS [fv0e6tJfF20]|MUSANZE, RWANDA SOMETHING GOOD WILL HAPPEN TO YOU HEALING JESUS CRUSADES DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MUYINGA, BURUNDI IT IS APPOINTED UNTO MEN ONCE TO DIE, AFTER THIS THE JUDGEMENT DAG HEWARD-MILLS [MELqh7DcMRo]|MUYINGA, BURUNDI IT IS APPOINTED UNTO MEN ONCE TO DIE, AFTER THIS THE JUDGEMENT DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MUYINGA, BURUNDI JESUS THE SAME YESTERDAY, TODAY AND FOREVER DAG HEWARD-MILLS [gRSVJ5rsxvs]|MUYINGA, BURUNDI JESUS THE SAME YESTERDAY, TODAY AND FOREVER DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MUYINGA, BURUNDI THE STORY OF THE CROSS OF JESUS CHRIST HEALING JESUS CRUSADE DAG HEWARD-MILLS [SEpMwRXU6lQ]|MUYINGA, BURUNDI THE STORY OF THE CROSS OF JESUS CHRIST HEALING JESUS CRUSADE DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MZUZU, MALAWI  BELIEVE IN JESUS AND YOU WILL BE SAVED  HEALING JESUS CRUSADES  DAG HEWARD-MILLS [5vVc2oQ5NOk]|MZUZU, MALAWI  BELIEVE IN JESUS AND YOU WILL BE SAVED  HEALING JESUS CRUSADES  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/MZUZU, MALAWI BELIEVE IN JESUS AND YOU WILL BE SAVED HEALING JESUS CRUSADES DAG HEWARD-MILLS [5vVc2oQ5NOk]|MZUZU, MALAWI BELIEVE IN JESUS AND YOU WILL BE SAVED HEALING JESUS CRUSADES DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/NAKURU, KENYA DAY 2 JESUS IS THE ANSWER HEALING JESUS CRUSADES DAG HEWARD-MILLS 2023 [ezLApLWmqPk]|NAKURU, KENYA DAY 2 JESUS IS THE ANSWER HEALING JESUS CRUSADES DAG HEWARD-MILLS 2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/NAKURU, KENYA DAY 3  JESUS AND THE MAN WHO WAS FULL OF LEPROSY  HJC  DAG HEWARD-MILLS  2023 [iOxX7MMBA88]|NAKURU, KENYA DAY 3  JESUS AND THE MAN WHO WAS FULL OF LEPROSY  HJC  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/NAKURU, KENYA DAY 3 JESUS AND THE MAN WHO WAS FULL OF LEPROSY HJC DAG HEWARD-MILLS 2023 [iOxX7MMBA88]|NAKURU, KENYA DAY 3 JESUS AND THE MAN WHO WAS FULL OF LEPROSY HJC DAG HEWARD-MILLS 2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/NANKANDURI, GHANA DAY 1 JOHN 316 HEALING JESUS CAMPAIGN DAG HEWARD-MILLS [-JKKHm0T5Lg]|NANKANDURI, GHANA DAY 1 JOHN 316 HEALING JESUS CAMPAIGN DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/NAROK, KENYA  THE BLOOD OF JESUS  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2022 [45F7Y8QeR6I]|NAROK, KENYA  THE BLOOD OF JESUS  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2022]]
+- [[Messages/YouTube/DagHewardMillsCrusades/NDOLA, ZAMBIA GREAT INVITATION HEALING JESUS CRUSADES DAG HEWARD-MILLS 2017 [5xbqzyIMr4E]|NDOLA, ZAMBIA GREAT INVITATION HEALING JESUS CRUSADES DAG HEWARD-MILLS 2017]]
+- [[Messages/YouTube/DagHewardMillsCrusades/NIAMEY, NIGER  COME UNTO ME  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2011 [ZCXDbw1nUEo]|NIAMEY, NIGER  COME UNTO ME  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2011]]
+- [[Messages/YouTube/DagHewardMillsCrusades/N’DALATANDO  DAY 2  EXCERPT A MAN IS BORN AGAIN  HJC   DAG HEWARD-MILLS  2024 [4zC22arKNbM]|N’DALATANDO  DAY 2  EXCERPT A MAN IS BORN AGAIN  HJC   DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/N’DALATANDO ANGOLA DAY 1  JESUS THE SAME YESTEDAY TODAY AND FOREVER  HJC  DAG HEWARD-MILLS  2024 [7wQG-twRjPw]|N’DALATANDO ANGOLA DAY 1  JESUS THE SAME YESTEDAY TODAY AND FOREVER  HJC  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/PARAKOU, BENIN  COME UNTO ME  DAG HEWARD-MILLS [SSMfM0PTqXQ]|PARAKOU, BENIN  COME UNTO ME  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/PARAKOU, BENIN COME UNTO ME DAG HEWARD-MILLS [SSMfM0PTqXQ]|PARAKOU, BENIN COME UNTO ME DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/POINTE-NOIRE, REPUBLIC OF THE CONGO  LAZARUS & THE RICH MAN  HJC  DAG HEWARD-MILLS  2023 [Gwy7kzmTrDE]|POINTE-NOIRE, REPUBLIC OF THE CONGO  LAZARUS & THE RICH MAN  HJC  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/POINTE-NOIRE, REPUBLIC OF THE CONGO  THE BLOOD OF JESUS  HJC  DAG HEWARD-MILLS  2023 [1vskZFRs3po]|POINTE-NOIRE, REPUBLIC OF THE CONGO  THE BLOOD OF JESUS  HJC  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillsCrusades/POINTE-NOIRE, REPUBLIC OF THE CONGO  THE BLOOD OF JESUS  HJC  DAG HEWARD-MILLS  2023_8TZeVQDdfWw|POINTE-NOIRE, REPUBLIC OF THE CONGO  THE BLOOD OF JESUS  HJC  DAG HEWARD-MILLS  2023_8TZeVQDdfWw]]
+- [[Messages/YouTube/DagHewardMillsCrusades/POLOKWANE, SOUTH AFRICA JESUS WILL DO YOU GOOD HEALING JESUS CRUSADES DAG HEWARD-MILLS 2014 [IWfsTN3Noa0]|POLOKWANE, SOUTH AFRICA JESUS WILL DO YOU GOOD HEALING JESUS CRUSADES DAG HEWARD-MILLS 2014]]
+- [[Messages/YouTube/DagHewardMillsCrusades/RUNDU, NAMIBIA THE BLOOD OF JESUS HEALING JESUS CRUSADES DAG HEWARD-MILLS [_mpRwFVhzmQ]|RUNDU, NAMIBIA THE BLOOD OF JESUS HEALING JESUS CRUSADES DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/SEBOKENG, SOUTH AFRICA THE NARROW WAY OR THE BROADWAY DAG HEWARD-MILLS 2015 [mooXFUyVsIw]|SEBOKENG, SOUTH AFRICA THE NARROW WAY OR THE BROADWAY DAG HEWARD-MILLS 2015]]
+- [[Messages/YouTube/DagHewardMillsCrusades/SOKODE, TOGO JESUS CHRIST THE SAME YESTERDAY TODAY AND FOREVER DAG HEWARD-MILLS [OIb_PjsKy7c]|SOKODE, TOGO JESUS CHRIST THE SAME YESTERDAY TODAY AND FOREVER DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/SOROTI, UGANDA JESUS CHRIST AND BLIND BARTIMEAUS HEALING JESUS CRUSADES DAG HEWARD-MILLS [oWNt1HOyEIM]|SOROTI, UGANDA JESUS CHRIST AND BLIND BARTIMEAUS HEALING JESUS CRUSADES DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/SUHUM, GHANA JESUS CHRIST THE SAVIOUR AND HEALER OF OUR LIVES HJC DAG HEWARD-MILLS 2021 [n6eAGJ9EsuI]|SUHUM, GHANA JESUS CHRIST THE SAVIOUR AND HEALER OF OUR LIVES HJC DAG HEWARD-MILLS 2021]]
+- [[Messages/YouTube/DagHewardMillsCrusades/SUHUM, GHANA JESUS WILL DO YOU GOOD HEALING JESUS CAMPAIGN DAG HEWARD-MILLS 2021 [aNUOHHIUh3g]|SUHUM, GHANA JESUS WILL DO YOU GOOD HEALING JESUS CAMPAIGN DAG HEWARD-MILLS 2021]]
+- [[Messages/YouTube/DagHewardMillsCrusades/SÃO TOMÉ & PRÍNCIPE - DAY 1  WHAT IT MEANS TO BE BORN AGAIN  HJC  DAG HEWARD-MILLS  2025 [KfC8n2Lssmk]|SÃO TOMÉ & PRÍNCIPE - DAY 1  WHAT IT MEANS TO BE BORN AGAIN  HJC  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/SÃO TOMÉ & PRÍNCIPE - DAY 3  THE STORY OF JESUS  HJC  DAG HEWARD-MILLS  2025 [ip5Ah7-COrE]|SÃO TOMÉ & PRÍNCIPE - DAY 3  THE STORY OF JESUS  HJC  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsCrusades/TEPA, GHANA BABY JESUS HEALING JESUS CAMPAIGN DAG HEWARD-MILLS 2019 [n4kpm9YfQPw]|TEPA, GHANA BABY JESUS HEALING JESUS CAMPAIGN DAG HEWARD-MILLS 2019]]
+- [[Messages/YouTube/DagHewardMillsCrusades/TEPA, GHANA JOHN 316 HEALING JESUS CAMPAIGN DAG HEWARD-MILLS 2019 [G9Ymb3Tgi7A]|TEPA, GHANA JOHN 316 HEALING JESUS CAMPAIGN DAG HEWARD-MILLS 2019]]
+- [[Messages/YouTube/DagHewardMillsCrusades/THE BLOOD OF JESUS CHRIST  DAY 4  BOBO DIOULASO  DAG HEWARD-MILLS [XruYESK_RPo]|THE BLOOD OF JESUS CHRIST  DAY 4  BOBO DIOULASO  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/THE GREATER LOVE OF JESUS  DAY 2  BOBO DIOULASO  DAG HEWARD-MILLS [0DJE-gE-J10]|THE GREATER LOVE OF JESUS  DAY 2  BOBO DIOULASO  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/THE GREATER LOVE OF JESUS DAY 2 BOBO DIOULASO DAG HEWARD-MILLS [0DJE-gE-J10]|THE GREATER LOVE OF JESUS DAY 2 BOBO DIOULASO DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/THOUYANDOU, SOUTH AFRICA  JESUS CHRIST IS THE SAME YESTERDAY, TODAY AND FOREVER  DAG HEWARD-MILLS [8n04tAOUu8I]|THOUYANDOU, SOUTH AFRICA  JESUS CHRIST IS THE SAME YESTERDAY, TODAY AND FOREVER  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/THOUYANDOU, SOUTH AFRICA JESUS CHRIST IS THE SAME YESTERDAY, TODAY AND FOREVER DAG HEWARD-MILLS [8n04tAOUu8I]|THOUYANDOU, SOUTH AFRICA JESUS CHRIST IS THE SAME YESTERDAY, TODAY AND FOREVER DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsCrusades/TUMU, GHANA  THE STORY OF JESUS  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2024 [UL7pXdJ1O0Q]|TUMU, GHANA  THE STORY OF JESUS  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/TWIFO PRASO, GHANA DAY 1  THE BLOOD OF JESUS CHRIST  HJC  DAG HEWARD- MILLS  2014 [B2ZzCi7it0w]|TWIFO PRASO, GHANA DAY 1  THE BLOOD OF JESUS CHRIST  HJC  DAG HEWARD- MILLS  2014]]
+- [[Messages/YouTube/DagHewardMillsCrusades/TWIFO PRASO, GHANA DAY 1 THE BLOOD OF JESUS CHRIST HJC DAG HEWARD- MILLS 2014 [B2ZzCi7it0w]|TWIFO PRASO, GHANA DAY 1 THE BLOOD OF JESUS CHRIST HJC DAG HEWARD- MILLS 2014]]
+- [[Messages/YouTube/DagHewardMillsCrusades/TZANEEN, SOUTH AFRICA  GREATER LOVE  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2014 [Ag9KV4fgHJE]|TZANEEN, SOUTH AFRICA  GREATER LOVE  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2014]]
+- [[Messages/YouTube/DagHewardMillsCrusades/TZANEEN, SOUTH AFRICA GREATER LOVE HEALING JESUS CRUSADES DAG HEWARD-MILLS 2014 [Ag9KV4fgHJE]|TZANEEN, SOUTH AFRICA GREATER LOVE HEALING JESUS CRUSADES DAG HEWARD-MILLS 2014]]
+- [[Messages/YouTube/DagHewardMillsCrusades/WA, GHANA  JESUS THE SAVIOUR AND THE HEALER OF THE WORLD  HJC  DAG HEWARD-MILLS  2024 [4I1u0Mgm4S8]|WA, GHANA  JESUS THE SAVIOUR AND THE HEALER OF THE WORLD  HJC  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/WA, GHANA  THE BLOOD OF JESUS  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2024 [pB-oZrfbA5s]|WA, GHANA  THE BLOOD OF JESUS  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillsCrusades/YAMOUSSOUKRO, IVORY COAST THE NARROW WAY AND THE BROAD WAY HJC DAG HEWARD-MILLS 2013 [EXadBYaw6lA]|YAMOUSSOUKRO, IVORY COAST THE NARROW WAY AND THE BROAD WAY HJC DAG HEWARD-MILLS 2013]]
+
+#### Messages / YouTube / DagHewardMillsGTWC
+- [[Messages/YouTube/DagHewardMillsGTWC/25 REASONS WHY YOU MUST HAVE A MEGA CHURCH ISI GHANA DAG HEWARD-MILLS 2011 [JOD62bqr-fI]|25 REASONS WHY YOU MUST HAVE A MEGA CHURCH ISI GHANA DAG HEWARD-MILLS 2011]]
+- [[Messages/YouTube/DagHewardMillsGTWC/6 BOOKS ON HOW TO BE A GOOD PASTOR  GTWC BUJUMBURA  DAG HEWARD-MILLS  2025 [TymloBHv1Bc]|6 BOOKS ON HOW TO BE A GOOD PASTOR  GTWC BUJUMBURA  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsGTWC/6 BOOKS ON HOW TO BE A GOOD PASTOR GTWC BUJUMBURA DAG HEWARD-MILLS 2025 [TymloBHv1Bc]|6 BOOKS ON HOW TO BE A GOOD PASTOR GTWC BUJUMBURA DAG HEWARD-MILLS 2025]]
+- [[Messages/YouTube/DagHewardMillsGTWC/7 KEYS TO BECOMING A TRUE SON  GTWC PARIS  DAY 3 SESSION 12  2025  DAG HEWARD MILLS [pSbVpO0PF_4]|7 KEYS TO BECOMING A TRUE SON  GTWC PARIS  DAY 3 SESSION 12  2025  DAG HEWARD MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/7 STEPS TO THE ANOINTING IN JORDAN ISI GHANA DAG HEWARD-MILLS 2007 [LBf0ix3vB2w]|7 STEPS TO THE ANOINTING IN JORDAN ISI GHANA DAG HEWARD-MILLS 2007]]
+- [[Messages/YouTube/DagHewardMillsGTWC/7 STEPS TO THE ANOINTING IN THE HOUSE OF CORNELIUS ISI GHANA DAG HEWARD-MILLS 2007 [NcMeLSJ8Jnk]|7 STEPS TO THE ANOINTING IN THE HOUSE OF CORNELIUS ISI GHANA DAG HEWARD-MILLS 2007]]
+- [[Messages/YouTube/DagHewardMillsGTWC/7 STEPS TO THE ANOINTING IN YOUR OWN COMPANY ISI GHANA DAG HEWARD-MILLS 2009 [OR4F8tEWQQ0]|7 STEPS TO THE ANOINTING IN YOUR OWN COMPANY ISI GHANA DAG HEWARD-MILLS 2009]]
+- [[Messages/YouTube/DagHewardMillsGTWC/A GOOD GENERAL KNOWS HOW TO OVERCOME SUPERIOR ENEMIES AND STALEMATES GTWC 2023 SESSION 7 [eHMrVJF9WGA]|A GOOD GENERAL KNOWS HOW TO OVERCOME SUPERIOR ENEMIES AND STALEMATES GTWC 2023 SESSION 7]]
+- [[Messages/YouTube/DagHewardMillsGTWC/A Victorious Christian Life The Power of Spiritual Thinking and Confession with Dr Younghoon Lee [HRDt_Cr5tYU]|A Victorious Christian Life The Power of Spiritual Thinking and Confession with Dr Younghoon Lee]]
+- [[Messages/YouTube/DagHewardMillsGTWC/AMPLIFY YOUR MINISTRY IRON SHARPENETH IRON 2014 GHANA DAG HEWARD-MILLS [lfOrde8pnGk]|AMPLIFY YOUR MINISTRY IRON SHARPENETH IRON 2014 GHANA DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/ANOINTED AND CONSECRATED GTWC PARIS DAY 1 SESSION 1 2025 DAG HEWARD-MILLS [fyq90soY-Nc]|ANOINTED AND CONSECRATED GTWC PARIS DAY 1 SESSION 1 2025 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/Attempt Great Things For God Day 4, Session 3 with Dag Heward-Mills Now We Are At War #GTWC2025 [UNBW_KJLBtY]|Attempt Great Things For God Day 4, Session 3 with Dag Heward-Mills Now We Are At War #GTWC2025]]
+- [[Messages/YouTube/DagHewardMillsGTWC/BARRENNESS AND CHURCH PLANTING GTWC PARIS DAG HEWARD-MILLS 2017 [qx-jAhpJIYg]|BARRENNESS AND CHURCH PLANTING GTWC PARIS DAG HEWARD-MILLS 2017]]
+- [[Messages/YouTube/DagHewardMillsGTWC/BREAKING OUT OF BARRENNESS GTWC PARIS DAG HEWARD-MILLS 2017 [dHueK-idO08]|BREAKING OUT OF BARRENNESS GTWC PARIS DAG HEWARD-MILLS 2017]]
+- [[Messages/YouTube/DagHewardMillsGTWC/CHURCH GROWTH THROUGH RELATIONSHIPS AND GETHSEMANE ISI GHANA DAG HEWARD-MILLS 2011 [h7K566axuZ4]|CHURCH GROWTH THROUGH RELATIONSHIPS AND GETHSEMANE ISI GHANA DAG HEWARD-MILLS 2011]]
+- [[Messages/YouTube/DagHewardMillsGTWC/DOING THE WORKS OF JESUS ISI GHANA DAG HEWARD-MILLS 2010 [Md2jZywn8_0]|DOING THE WORKS OF JESUS ISI GHANA DAG HEWARD-MILLS 2010]]
+- [[Messages/YouTube/DagHewardMillsGTWC/Five Signs That Follow Believers With Apostle Guillermo Maldonado Day 4 Enlargement #GTWC2024 [XgDgjAipz9k]|Five Signs That Follow Believers With Apostle Guillermo Maldonado Day 4 Enlargement #GTWC2024]]
+- [[Messages/YouTube/DagHewardMillsGTWC/HOW TO ACTIVATE THE ANOINTING  GTWC CAPE TOWN  DAG HEWARD-MILLS  2017 [twCHQetapSw]|HOW TO ACTIVATE THE ANOINTING  GTWC CAPE TOWN  DAG HEWARD-MILLS  2017]]
+- [[Messages/YouTube/DagHewardMillsGTWC/HOW TO ACTIVATE THE ANOINTING GTWC CAPE TOWN DAG HEWARD-MILLS 2017 [twCHQetapSw]|HOW TO ACTIVATE THE ANOINTING GTWC CAPE TOWN DAG HEWARD-MILLS 2017]]
+- [[Messages/YouTube/DagHewardMillsGTWC/HOW TO BUILD A CHURCH GTWC SRI LANKA DAG HEWARD-MILLS 2018 [qJmkPO5x0UA]|HOW TO BUILD A CHURCH GTWC SRI LANKA DAG HEWARD-MILLS 2018]]
+- [[Messages/YouTube/DagHewardMillsGTWC/INTRODUCTION OF BOOKS GTWC 2017, DAY 2 SESSION 3 DAG HEWARD-MILLS [mUZmt2ONkY4]|INTRODUCTION OF BOOKS GTWC 2017, DAY 2 SESSION 3 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/INTRODUCTION TO THE YOUTUBE CHANNELS  GTWC BUJUMBURA  DAG HEWARD-MILLS  2025 [WwZFrKigZAk]|INTRODUCTION TO THE YOUTUBE CHANNELS  GTWC BUJUMBURA  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsGTWC/INTRODUCTION TO THE YOUTUBE CHANNELS GTWC BUJUMBURA DAG HEWARD-MILLS 2025 [WwZFrKigZAk]|INTRODUCTION TO THE YOUTUBE CHANNELS GTWC BUJUMBURA DAG HEWARD-MILLS 2025]]
+- [[Messages/YouTube/DagHewardMillsGTWC/MASTER KEYS TO PROSPERITY GTWC 2017, DAY 4 SESSION 2 DAG HEWARD-MILLS [EdMqV72efI4]|MASTER KEYS TO PROSPERITY GTWC 2017, DAY 4 SESSION 2 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/MASTER KEYS TO THE PRESENCE OF GOD GTWC 2020 DAY 4, SESSION 3 DAG HEWARD-MILLS [aUA3RwLHxio]|MASTER KEYS TO THE PRESENCE OF GOD GTWC 2020 DAY 4, SESSION 3 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/METHODS OF GUIDANCE IRON SHARPENETH IRON 2005 DAG HEWARD-MILLS [C63dFc9HaLI]|METHODS OF GUIDANCE IRON SHARPENETH IRON 2005 DAG HEWARD-MILLS]]
 - [[Messages/YouTube/DagHewardMillsGTWC/PRAYER BY BISHOP COLIN NYATHI GTWC 2018 GHANA DAG HEWARD-MILLS [bnBNyCvH_us]|PRAYER BY BISHOP COLIN NYATHI GTWC 2018 GHANA DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/PRODIGAL MINISTRIES GTWC 2020 DAY 1, SESSION 1 DAG HEWARD-MILLS [iO92B2GfI7E]|PRODIGAL MINISTRIES GTWC 2020 DAY 1, SESSION 1 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/PVCI   GTWC LUSAKA  DAG HEWARD-MILLS  2025 [iBHLcQWd9rU]|PVCI   GTWC LUSAKA  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsGTWC/PVCI  GTWC SRI LANKA  DAG HEWARD-MILLS  2018 [h5hwbHTA-kg]|PVCI  GTWC SRI LANKA  DAG HEWARD-MILLS  2018]]
+- [[Messages/YouTube/DagHewardMillsGTWC/PVCI GTWC LUSAKA DAG HEWARD-MILLS 2025 [iBHLcQWd9rU]|PVCI GTWC LUSAKA DAG HEWARD-MILLS 2025]]
+- [[Messages/YouTube/DagHewardMillsGTWC/PVCI GTWC SRI LANKA DAG HEWARD-MILLS 2018 [h5hwbHTA-kg]|PVCI GTWC SRI LANKA DAG HEWARD-MILLS 2018]]
+- [[Messages/YouTube/DagHewardMillsGTWC/REASONS WHY WE SHOULD AVOID PSEUDO MINISTRY  ISI PARIS  DAG HEWARD-MILLS  2015 [N5NGLNdF4VE]|REASONS WHY WE SHOULD AVOID PSEUDO MINISTRY  ISI PARIS  DAG HEWARD-MILLS  2015]]
+- [[Messages/YouTube/DagHewardMillsGTWC/REASONS WHY WE SHOULD AVOID PSEUDO MINISTRY ISI PARIS DAG HEWARD-MILLS 2015 [N5NGLNdF4VE]|REASONS WHY WE SHOULD AVOID PSEUDO MINISTRY ISI PARIS DAG HEWARD-MILLS 2015]]
+- [[Messages/YouTube/DagHewardMillsGTWC/RECAP WITH BISHOP EDWIN OGOE  GTWC BUJUMBURA  DAG HEWARD-MILLS  2025 [hE--hpiyZMk]|RECAP WITH BISHOP EDWIN OGOE  GTWC BUJUMBURA  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsGTWC/RECAP WITH BISHOP EDWIN OGOE GTWC BUJUMBURA DAG HEWARD-MILLS 2025 [hE--hpiyZMk]|RECAP WITH BISHOP EDWIN OGOE GTWC BUJUMBURA DAG HEWARD-MILLS 2025]]
+- [[Messages/YouTube/DagHewardMillsGTWC/SALVATION AND MIRACLES  GTWC PARIS  DAY 3 SESSION 10  2025  DAG HEWARD MILLS [zOmMK-MrAGE]|SALVATION AND MIRACLES  GTWC PARIS  DAY 3 SESSION 10  2025  DAG HEWARD MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/SALVATION AND MIRACLES GTWC PARIS DAY 3 SESSION 10 2025 DAG HEWARD MILLS [zOmMK-MrAGE]|SALVATION AND MIRACLES GTWC PARIS DAY 3 SESSION 10 2025 DAG HEWARD MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/SEVEN VISIONS OF PAUL  GTWC BULAWAYO   DAG HEWARD-MILLS  2025 [Vr5fDiCyTyE]|SEVEN VISIONS OF PAUL  GTWC BULAWAYO   DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsGTWC/SEVEN VISIONS OF PAUL GTWC BULAWAYO DAG HEWARD-MILLS 2025 [Vr5fDiCyTyE]|SEVEN VISIONS OF PAUL GTWC BULAWAYO DAG HEWARD-MILLS 2025]]
+- [[Messages/YouTube/DagHewardMillsGTWC/STEPS TO THE ANOINTING IN THE WILDERNESS  GTWC PARIS  DAY 2 SESSION 6  2025  DAG HEWARD MILLS [hxFWHNASoYA]|STEPS TO THE ANOINTING IN THE WILDERNESS  GTWC PARIS  DAY 2 SESSION 6  2025  DAG HEWARD MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/STEPS TO THE ANOINTING IN THE WILDERNESS GTWC PARIS DAY 2 SESSION 6 2025 DAG HEWARD MILLS [hxFWHNASoYA]|STEPS TO THE ANOINTING IN THE WILDERNESS GTWC PARIS DAY 2 SESSION 6 2025 DAG HEWARD MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/TEN LAWS OF LOYALTY IRON SHARPENETH IRON 2014 GHANA DAG HEWARD-MILLS [kv5o1cnUDHk]|TEN LAWS OF LOYALTY IRON SHARPENETH IRON 2014 GHANA DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE ANOINTING OF THE HOLY SPIRT  GTWC CAPE TOWN  DAG HEWARD-MILLS  2017 [M1aaPUWJiFE]|THE ANOINTING OF THE HOLY SPIRT  GTWC CAPE TOWN  DAG HEWARD-MILLS  2017]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE ANOINTING OF THE HOLY SPIRT GTWC 2017 CAPE TOWN DAG HEWARD-MILLS [lWTEwWxSyPA]|THE ANOINTING OF THE HOLY SPIRT GTWC 2017 CAPE TOWN DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE ANOINTING OF THE HOLY SPIRT GTWC CAPE TOWN DAG HEWARD-MILLS 2017 [M1aaPUWJiFE]|THE ANOINTING OF THE HOLY SPIRT GTWC CAPE TOWN DAG HEWARD-MILLS 2017]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE ART OF SHEPHERDING AND BEING A GOOD PASTOR ISI GHANA DAG HEWARD-MILLS 2011 [Fw4AmHk4Sok]|THE ART OF SHEPHERDING AND BEING A GOOD PASTOR ISI GHANA DAG HEWARD-MILLS 2011]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE ART OF SHEPHERDING BY BISHOP SACKEY GTWC 2018 GHANA DAG HEWARD-MILLS [su4ey5FPhT0]|THE ART OF SHEPHERDING BY BISHOP SACKEY GTWC 2018 GHANA DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE DIFFERENT ROLES OF A SHEPHERD IRON SHARPENETH IRON 2013 DAG HEWARD-MILLS [-IDF0g8eieg]|THE DIFFERENT ROLES OF A SHEPHERD IRON SHARPENETH IRON 2013 DAG HEWARD-MILLS]]
 - [[Messages/YouTube/DagHewardMillsGTWC/THE GREAT EFFECTS OF YOUR PRAYER  GTWC CAPE TOWN  DAG HEWARD-MILLS  2017 [q2kBK4WempY]|THE GREAT EFFECTS OF YOUR PRAYER  GTWC CAPE TOWN  DAG HEWARD-MILLS  2017]]
 - [[Messages/YouTube/DagHewardMillsGTWC/THE GREAT EFFECTS OF YOUR PRAYER GTWC 2017 CAPE TOWN DAG HEWARD-MILLS [D9rX09XdhPA]|THE GREAT EFFECTS OF YOUR PRAYER GTWC 2017 CAPE TOWN DAG HEWARD-MILLS]]
 - [[Messages/YouTube/DagHewardMillsGTWC/THE GREAT EFFECTS OF YOUR PRAYER GTWC CAPE TOWN DAG HEWARD-MILLS 2017 [q2kBK4WempY]|THE GREAT EFFECTS OF YOUR PRAYER GTWC CAPE TOWN DAG HEWARD-MILLS 2017]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE IMPORTANCE OF BEING LED BY GOD ISI PARIS DAG HEWARD-MILLS 2015 [YvAaTBK9Us4]|THE IMPORTANCE OF BEING LED BY GOD ISI PARIS DAG HEWARD-MILLS 2015]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE MASTER KEY TO YOUR NEXT LEVEL IS HUMILITY  GTWC ADDIS ABABA  DAG HEWARD-MILLS  2025 [RN5ZjyHMkEw]|THE MASTER KEY TO YOUR NEXT LEVEL IS HUMILITY  GTWC ADDIS ABABA  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE MASTER KEY TO YOUR NEXT LEVEL IS HUMILITY GTWC ADDIS ABABA DAG HEWARD-MILLS 2025 [RN5ZjyHMkEw]|THE MASTER KEY TO YOUR NEXT LEVEL IS HUMILITY GTWC ADDIS ABABA DAG HEWARD-MILLS 2025]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE MYSTERY OF IMPARTATION  ISI SOWETO  DAG HEWARD-MILLS  2015 [tPlNYj8TG3A]|THE MYSTERY OF IMPARTATION  ISI SOWETO  DAG HEWARD-MILLS  2015]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE MYSTERY OF IMPARTATION ISI SOWETO DAG HEWARD-MILLS 2015 [tPlNYj8TG3A]|THE MYSTERY OF IMPARTATION ISI SOWETO DAG HEWARD-MILLS 2015]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE SPIRIT ENTERED INTO ME  GTWC BLANTYRE  DAG HEWARD-MILLS  2025 [qjKNNqgHlyg]|THE SPIRIT ENTERED INTO ME  GTWC BLANTYRE  DAG HEWARD-MILLS  2025]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE SPIRIT ENTERED INTO ME GTWC BLANTYRE DAG HEWARD-MILLS 2025 [qjKNNqgHlyg]|THE SPIRIT ENTERED INTO ME GTWC BLANTYRE DAG HEWARD-MILLS 2025]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE VISION OF GOD  GTWC ADDIS ADADA  DAG HEWARD-MILLS  2017 [S4MyTrzlXVE]|THE VISION OF GOD  GTWC ADDIS ADADA  DAG HEWARD-MILLS  2017]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE VISION OF GOD GTWC ADDIS ADADA DAG HEWARD-MILLS 2017 [S4MyTrzlXVE]|THE VISION OF GOD GTWC ADDIS ADADA DAG HEWARD-MILLS 2017]]
+- [[Messages/YouTube/DagHewardMillsGTWC/THE WISDOM OF THE CROSS SESSION 6 GTWC GHANA 2016 DAG HEWARD-MILLS [t6bEBXrpkZY]|THE WISDOM OF THE CROSS SESSION 6 GTWC GHANA 2016 DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/TRANSFORM YOUR PASTORAL MINISTRY IRON SHARPENETH IRON 2014 GHANA DAG HEWARD-MILLS [pACvpZ3sGfI]|TRANSFORM YOUR PASTORAL MINISTRY IRON SHARPENETH IRON 2014 GHANA DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsGTWC/Tactics of Warfare Day 2, Session 1 with Dag Heward-Mills Now We Are At War #GTWC2025 [FIPQ4xqAahU]|Tactics of Warfare Day 2, Session 1 with Dag Heward-Mills Now We Are At War #GTWC2025]]
+- [[Messages/YouTube/DagHewardMillsGTWC/The Power of Faith Day 1, Session 8 with Kong Hee Now We Are At War #GTWC2025 [3C_FHsykrDs]|The Power of Faith Day 1, Session 8 with Kong Hee Now We Are At War #GTWC2025]]
 - [[Messages/YouTube/DagHewardMillsGTWC/The Power of Prayer Day 1, Session 4 with Oliver Kpaan Now We Are At War #GTWC2025 [2AwcIzes9SI]|The Power of Prayer Day 1, Session 4 with Oliver Kpaan Now We Are At War #GTWC2025]]
 
-### Messages / YouTube / DagHewardMillscamps
-- [[Messages/YouTube/DagHewardMillscamps/10 Prayers Benefits Of Tongues  Port Elizabeth, South Africa Dag Heward-Mills 2011 [WKjki8ov0S0]|10 Prayers Benefits Of Tongues  Port Elizabeth, South Africa Dag Heward-Mills 2011]]
-- [[Messages/YouTube/DagHewardMillscamps/20 REASONS WHY EVERY PASTOR NEEDS INTERCESSION  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001 [pK-4yQXUhQ0]|20 REASONS WHY EVERY PASTOR NEEDS INTERCESSION  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001]]
-- [[Messages/YouTube/DagHewardMillscamps/20 REASONS WHY EVERY PASTOR NEEDS INTERCESSION SHEFFIELD, UNITED KINGDOM DAG HEWARD-MILLS 2001 [pK-4yQXUhQ0]|20 REASONS WHY EVERY PASTOR NEEDS INTERCESSION SHEFFIELD, UNITED KINGDOM DAG HEWARD-MILLS 2001]]
+#### Messages / YouTube / DagHewardMillsNations
+- [[Messages/YouTube/DagHewardMillsNations/10 REASONS WHY PEOPLE DO NOT USE THEIR TALENTS INTERFELLOWSHIP GLOBAL DURBAN, SOUTH AFRICA2010 ​⁠ [WVxNWHL4bso]|10 REASONS WHY PEOPLE DO NOT USE THEIR TALENTS INTERFELLOWSHIP GLOBAL DURBAN, SOUTH AFRICA2010 ​⁠]]
+- [[Messages/YouTube/DagHewardMillsNations/FULFIL YOUR MINISTRY  CITY HARVEST CHURCH  SINGAPORE  2025  DAG HEWARD-MILLS  @cityharvestsg [MP-lApGaVWA]|FULFIL YOUR MINISTRY  CITY HARVEST CHURCH  SINGAPORE  2025  DAG HEWARD-MILLS  @cityharvestsg]]
+- [[Messages/YouTube/DagHewardMillsNations/JESUS, THE SON OF RIGHTEOUSNESS  COMUNIDAD CRISTIANA BET-EL  VERAGUAS, PANAMA  2005  DHMM [iqUVwwSuvXM]|JESUS, THE SON OF RIGHTEOUSNESS  COMUNIDAD CRISTIANA BET-EL  VERAGUAS, PANAMA  2005  DHMM]]
+- [[Messages/YouTube/DagHewardMillsNations/LAZARUS AND THE RICH MAN  HOSANNA APOSTOLIC COMMUNITY  PANAMA CITY, PANAMA  2010  DHMM [HLCJR3GqfYI]|LAZARUS AND THE RICH MAN  HOSANNA APOSTOLIC COMMUNITY  PANAMA CITY, PANAMA  2010  DHMM]]
+- [[Messages/YouTube/DagHewardMillsNations/MANY ARE CALLED   CALVARY CHURCH MALAYSIA, KUALA LUMPUR 2025  DAG HEWARD-MILLS [q5BMgCsXpjE]|MANY ARE CALLED   CALVARY CHURCH MALAYSIA, KUALA LUMPUR 2025  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsNations/REASONS WHY YOU SHOULD HAVE A MEGA CHURCH  CHURCH OF THE RISEN CHRIST  VINNITSA, UKRAINE  2012 [BrFNnL0VunM]|REASONS WHY YOU SHOULD HAVE A MEGA CHURCH  CHURCH OF THE RISEN CHRIST  VINNITSA, UKRAINE  2012]]
+- [[Messages/YouTube/DagHewardMillsNations/RETENTION EVANGELISM  INTERFELLOWSHIP GLOBLA  DURBAN, SOUTH AFRICA  2010  DAG HEWARD-MILLS​⁠ ​⁠ [0PqfXsgBVxg]|RETENTION EVANGELISM  INTERFELLOWSHIP GLOBLA  DURBAN, SOUTH AFRICA  2010  DAG HEWARD-MILLS​⁠ ​⁠]]
+- [[Messages/YouTube/DagHewardMillsNations/SIGNS OF DEMONIC ACTIVITY DAY 5  EKKLESIA 2023  PANAMA  2023  DAG HEWARD-MILLS [HoR6kkebpfA]|SIGNS OF DEMONIC ACTIVITY DAY 5  EKKLESIA 2023  PANAMA  2023  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsNations/THE APPOINTED TIMES OF YOUR SPIRITUAL LIFE  INTERFELLOWSHIP GLOBAL  DURBAN, SOUTH AFRICA  2010 [U328Jg60Z0U]|THE APPOINTED TIMES OF YOUR SPIRITUAL LIFE  INTERFELLOWSHIP GLOBAL  DURBAN, SOUTH AFRICA  2010]]
+- [[Messages/YouTube/DagHewardMillsNations/THE MYSTERY OF GODS WILL  CHURCH OF THE RISEN CHRIST  VINNITSA, UKRAINE  2012  DAG HEWARD-MILLS [0Tajuk85LAw]|THE MYSTERY OF GODS WILL  CHURCH OF THE RISEN CHRIST  VINNITSA, UKRAINE  2012  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsNations/THE WORK OF A PASTOR  NEW GENERATION  KHARKOV, UKRAINE  2010  DAG HEWARD-MILLS [ebtn6VfKBlg]|THE WORK OF A PASTOR  NEW GENERATION  KHARKOV, UKRAINE  2010  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsNations/The Anointing  Part 2  Revival Today  2024  Dag Heward-Mills @JonathanShuttlesworth [yrN4YuItU-k]|The Anointing  Part 2  Revival Today  2024  Dag Heward-Mills @JonathanShuttlesworth]]
+- [[Messages/YouTube/DagHewardMillsNations/The Call To Fulfil Your Ministry  Harvest House  Zimbabwe  2024  Dag Heward-Mills [5NRm5wfmZHs]|The Call To Fulfil Your Ministry  Harvest House  Zimbabwe  2024  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsNations/WHY LOYALTY  HOSANNA APOSTOLIC COMMUNITY  PANAMA CITY, PANAMA  2009  DAG HEWARD-MILLS [M3glXWgGeaY]|WHY LOYALTY  HOSANNA APOSTOLIC COMMUNITY  PANAMA CITY, PANAMA  2009  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsNations/WHY YOU ARE STILL ALIVE  NEW GENERATION  KHARKOV, UKRAINE  2010  DAG HEWARD-MILLS [_hWl8BKJZsM]|WHY YOU ARE STILL ALIVE  NEW GENERATION  KHARKOV, UKRAINE  2010  DAG HEWARD-MILLS]]
+
+#### Messages / YouTube / DagHewardMillscamps
+- [[Messages/YouTube/DagHewardMillscamps/10 Things That Guide You To Fulfilling Your Ministry Part 1 Mampong, Ghana Dag Heward-Mills2013 [L4rlMminXUE]|10 Things That Guide You To Fulfilling Your Ministry Part 1 Mampong, Ghana Dag Heward-Mills2013]]
+- [[Messages/YouTube/DagHewardMillscamps/25 REASONS TO KEEP YOUR SENSE OF URGENCY PART 2  COVENTRY, UNITED KINGDOM  DAG HEWARD-MILLS  2023 [rHOisMowEKc]|25 REASONS TO KEEP YOUR SENSE OF URGENCY PART 2  COVENTRY, UNITED KINGDOM  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillscamps/25 REASONS WHY WE MUST HAVE A LARGER CHURCH  ACCRA, GHANA  DAG HEWARD-MILLS  2010 [GYl1ARcrpKU]|25 REASONS WHY WE MUST HAVE A LARGER CHURCH  ACCRA, GHANA  DAG HEWARD-MILLS  2010]]
+- [[Messages/YouTube/DagHewardMillscamps/25 REASONS WHY WE MUST HAVE A MEGA CHURCH BISHOP ARYEE  VICTORIA, ZAMBIE  DAG HEWARD-MILLS  2014 [Fy99xGrKeoE]|25 REASONS WHY WE MUST HAVE A MEGA CHURCH BISHOP ARYEE  VICTORIA, ZAMBIE  DAG HEWARD-MILLS  2014]]
+- [[Messages/YouTube/DagHewardMillscamps/25 REASONS WHY YOU MUST HAVE A BIG CHURCH ACCRA,GHANA DAG HEWARD-MILLS 1999 [0Fek8z4SofM]|25 REASONS WHY YOU MUST HAVE A BIG CHURCH ACCRA,GHANA DAG HEWARD-MILLS 1999]]
+- [[Messages/YouTube/DagHewardMillscamps/25 THINGS THAT HAPPEN WHEN YOU DO THE WILL OF GOD PART 1  ACCRA, GHANA  DAG HEWARD-MILLS  2010 [Mdcl-sWMoxQ]|25 THINGS THAT HAPPEN WHEN YOU DO THE WILL OF GOD PART 1  ACCRA, GHANA  DAG HEWARD-MILLS  2010]]
+- [[Messages/YouTube/DagHewardMillscamps/25 THINGS THAT WE ARE NOT ASHAMED BECAUSE WE ARE NOT ASHAMED OF THE GOSPEL PT.3  DAG HEWARD-MILLS [MRaWwqwIeUc]|25 THINGS THAT WE ARE NOT ASHAMED BECAUSE WE ARE NOT ASHAMED OF THE GOSPEL PT.3  DAG HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillscamps/ANTI BRUTISH CAMPAIGN  MAMPONG, GHANA  DAG HEWARD-MILLS  2023 [bi65YZpaZpg]|ANTI BRUTISH CAMPAIGN  MAMPONG, GHANA  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillscamps/AVOID THE CURSE OF A HYPOCRITE  MAMPONG, GHANA  DAG HEWARD-MILLS  2017 [2BdbV2RapzI]|AVOID THE CURSE OF A HYPOCRITE  MAMPONG, GHANA  DAG HEWARD-MILLS  2017]]
+- [[Messages/YouTube/DagHewardMillscamps/BEARING FRUITS PT 2  ACCRA, GHANA  DAG HEWARD-MILLS  2002 [nfuFNSykWFI]|BEARING FRUITS PT 2  ACCRA, GHANA  DAG HEWARD-MILLS  2002]]
+- [[Messages/YouTube/DagHewardMillscamps/BEAUTIFUL FEET    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002 [IdIrSyX8hBU]|BEAUTIFUL FEET    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002]]
+- [[Messages/YouTube/DagHewardMillscamps/BEAUTIFUL FEET BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2002 [IdIrSyX8hBU]|BEAUTIFUL FEET BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2002]]
+- [[Messages/YouTube/DagHewardMillscamps/BECOME A SHEPHERD WITH A SET OF SKILLS  PACIFIC HARBOUR, FIJI  DAG HEWARD-MILLS  2023 [bAbeo5pk-20]|BECOME A SHEPHERD WITH A SET OF SKILLS  PACIFIC HARBOUR, FIJI  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillscamps/BECOMING A COMPANY SYDNEY , AUSTRALIA DAG HEWARD-MILLS 2004 [cS9Ju4I6YbA]|BECOMING A COMPANY SYDNEY , AUSTRALIA DAG HEWARD-MILLS 2004]]
+- [[Messages/YouTube/DagHewardMillscamps/BECOMING A SPIRITUAL MAN  SYDNEY , AUSTRALIA DAG HEWARD-MILLS  2003 [02Qe8te2DIs]|BECOMING A SPIRITUAL MAN  SYDNEY , AUSTRALIA DAG HEWARD-MILLS  2003]]
+- [[Messages/YouTube/DagHewardMillscamps/BECOMING A SPIRITUAL MAN SYDNEY , AUSTRALIA DAG HEWARD-MILLS 2003 [02Qe8te2DIs]|BECOMING A SPIRITUAL MAN SYDNEY , AUSTRALIA DAG HEWARD-MILLS 2003]]
+- [[Messages/YouTube/DagHewardMillscamps/BIRDS OF THE AIR  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2023 [iUbi5GjdpoM]|BIRDS OF THE AIR  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillscamps/Busy With Building  Manila, Philippines Dag Heward-Mills 2023 [AvdiCfjXj44]|Busy With Building  Manila, Philippines Dag Heward-Mills 2023]]
+- [[Messages/YouTube/DagHewardMillscamps/CAMP OVERVIEW  MAMPONG, GHANA  DAG HEWARD-MILLS  2017 [NF5oG7DStrc]|CAMP OVERVIEW  MAMPONG, GHANA  DAG HEWARD-MILLS  2017]]
+- [[Messages/YouTube/DagHewardMillscamps/CHURCH GROWTH IS A SPIRITUAL BATTLE  MAMPONG, GHANA  DAG HEWARD-MILLS  2023 [K7YHUS5XA60]|CHURCH GROWTH IS A SPIRITUAL BATTLE  MAMPONG, GHANA  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillscamps/COVERT THE BEST GIFTS  MAMPONG, GHANA  DAG HEWARD-MILLS  2019 [EM-QzVlWlEI]|COVERT THE BEST GIFTS  MAMPONG, GHANA  DAG HEWARD-MILLS  2019]]
+- [[Messages/YouTube/DagHewardMillscamps/DEMONIC ACTIVITIES AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024 [RbQa8yBoTyM]|DEMONIC ACTIVITIES AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024]]
+- [[Messages/YouTube/DagHewardMillscamps/DON'T BE FIXATED TO YOUR PROFESSION  SEVENOAKS, UNITED KINGDOM  DAG HEWARD-MILLS  2002 [HVk_PjaGX5U]|DON'T BE FIXATED TO YOUR PROFESSION  SEVENOAKS, UNITED KINGDOM  DAG HEWARD-MILLS  2002]]
+- [[Messages/YouTube/DagHewardMillscamps/DON'T BE FIXATED TO YOUR PROFESSION SEVENOAKS, UNITED KINGDOM DAG HEWARD-MILLS 2002 [HVk_PjaGX5U]|DON'T BE FIXATED TO YOUR PROFESSION SEVENOAKS, UNITED KINGDOM DAG HEWARD-MILLS 2002]]
+- [[Messages/YouTube/DagHewardMillscamps/Different Spiritual Atmospheres Part 2  Mampong, Ghana  Dag Heward-Mills  2012 [xDt16pSrqko]|Different Spiritual Atmospheres Part 2  Mampong, Ghana  Dag Heward-Mills  2012]]
+- [[Messages/YouTube/DagHewardMillscamps/Different Spiritual Atmospheres Part 2 Mampong, Ghana Dag Heward-Mills 2012 [xDt16pSrqko]|Different Spiritual Atmospheres Part 2 Mampong, Ghana Dag Heward-Mills 2012]]
 - [[Messages/YouTube/DagHewardMillscamps/EFFECTS OF THE HOLY SPIRIT  FERVENT PRAYER  CAPE COAST, GHANA  DAG HEWARD-MILLS  1999 [nzj4jyH_T3o]|EFFECTS OF THE HOLY SPIRIT  FERVENT PRAYER  CAPE COAST, GHANA  DAG HEWARD-MILLS  1999]]
 - [[Messages/YouTube/DagHewardMillscamps/EFFECTS OF THE HOLY SPIRIT FERVENT PRAYER CAPE COAST, GHANA DAG HEWARD-MILLS 1999 [nzj4jyH_T3o]|EFFECTS OF THE HOLY SPIRIT FERVENT PRAYER CAPE COAST, GHANA DAG HEWARD-MILLS 1999]]
+- [[Messages/YouTube/DagHewardMillscamps/ETERNAL POINTS OF REGRETS PART 2  FIESCH, SWITZERLAND  DAG HEWARD-MILLS  2018 [BpdMl3SdSHA]|ETERNAL POINTS OF REGRETS PART 2  FIESCH, SWITZERLAND  DAG HEWARD-MILLS  2018]]
+- [[Messages/YouTube/DagHewardMillscamps/EXHORTATION  MAMPONG, GHANA  DAG HEWARD-MILLS  2018 [gwn7kaohL1M]|EXHORTATION  MAMPONG, GHANA  DAG HEWARD-MILLS  2018]]
+- [[Messages/YouTube/DagHewardMillscamps/EXHORTATION  Mampong, Ghana Dag Heward-Mills 2019 [cuCvLbGbBbo]|EXHORTATION  Mampong, Ghana Dag Heward-Mills 2019]]
+- [[Messages/YouTube/DagHewardMillscamps/EXPECT A MIRACLE OF HEALING SIGNS AND WONDERS ST. JOHN'S, ANTIGUA DAG HEWARD-MILLS 2024 [H9qkZyPKr3g]|EXPECT A MIRACLE OF HEALING SIGNS AND WONDERS ST. JOHN'S, ANTIGUA DAG HEWARD-MILLS 2024]]
+- [[Messages/YouTube/DagHewardMillscamps/EXPLOITS  MAMPONG, GHANA  DAG HEWARD-MILLS  2017 [ucPsIK85r6o]|EXPLOITS  MAMPONG, GHANA  DAG HEWARD-MILLS  2017]]
 - [[Messages/YouTube/DagHewardMillscamps/EXPLOITS THROUGH PRAYERS  MAMPONG, GHANA  DAG HEWARD-MILLS  2017 [sy5chdsnkrY]|EXPLOITS THROUGH PRAYERS  MAMPONG, GHANA  DAG HEWARD-MILLS  2017]]
 - [[Messages/YouTube/DagHewardMillscamps/EXPLOITS THROUGH PRAYERS PART 2  MAMPONG, GHANA  DAG HEWARD-MILLS  2017 [zEGfzFasoL0]|EXPLOITS THROUGH PRAYERS PART 2  MAMPONG, GHANA  DAG HEWARD-MILLS  2017]]
+- [[Messages/YouTube/DagHewardMillscamps/Effects Of Too Much Sleep  Port Elizabeth, South Africa Dag Heward-Mills 2011 [cM5UED9EsmM]|Effects Of Too Much Sleep  Port Elizabeth, South Africa Dag Heward-Mills 2011]]
+- [[Messages/YouTube/DagHewardMillscamps/FOUNDATION FOR THE FUTURE PART 3  ACCRA, GHANA  DAG HEWARD-MILLS  2004 [Ro0_YMQv61Q]|FOUNDATION FOR THE FUTURE PART 3  ACCRA, GHANA  DAG HEWARD-MILLS  2004]]
 - [[Messages/YouTube/DagHewardMillscamps/Faith Confessions And Prayers  Orlando, USA Dag Heward-Mills 2010 [SMryGeTlRak]|Faith Confessions And Prayers  Orlando, USA Dag Heward-Mills 2010]]
+- [[Messages/YouTube/DagHewardMillscamps/GOD WANTS TO LIFT YOU UP... [eZ10bQChsh4]|GOD WANTS TO LIFT YOU UP...]]
+- [[Messages/YouTube/DagHewardMillscamps/GRACE  MARYLAND, USA  DAG HEWARD-MILLS  2003 [Ncpk6Hcj71A]|GRACE  MARYLAND, USA  DAG HEWARD-MILLS  2003]]
+- [[Messages/YouTube/DagHewardMillscamps/GRACE AND PEACE  MARAISBURG, SOUTH AFRICA  DAG HEWARD-MILLS  2002 [Pe_3LmsaB3E]|GRACE AND PEACE  MARAISBURG, SOUTH AFRICA  DAG HEWARD-MILLS  2002]]
+- [[Messages/YouTube/DagHewardMillscamps/GRACE AND PEACE MARAISBURG, SOUTH AFRICA DAG HEWARD-MILLS 2002 [Pe_3LmsaB3E]|GRACE AND PEACE MARAISBURG, SOUTH AFRICA DAG HEWARD-MILLS 2002]]
+- [[Messages/YouTube/DagHewardMillscamps/HOW TO BRIGHTEN YOUR FIRE  ELMINA, GHANA  DAG HEWARD-MILLS  2008 [aBzVUf0_v2E]|HOW TO BRIGHTEN YOUR FIRE  ELMINA, GHANA  DAG HEWARD-MILLS  2008]]
+- [[Messages/YouTube/DagHewardMillscamps/HOW TO BRIGHTEN YOUR FIRE ELMINA, GHANA DAG HEWARD-MILLS 2008 [aBzVUf0_v2E]|HOW TO BRIGHTEN YOUR FIRE ELMINA, GHANA DAG HEWARD-MILLS 2008]]
+- [[Messages/YouTube/DagHewardMillscamps/HOW TO PREPARE FOR ETERNITY WHAT TYPE OF WORKS MARYLAND, USA DAG HEWARD-MILLS 2001 [_9MX65iUU7c]|HOW TO PREPARE FOR ETERNITY WHAT TYPE OF WORKS MARYLAND, USA DAG HEWARD-MILLS 2001]]
+- [[Messages/YouTube/DagHewardMillscamps/HOW TO SAY THANK YOU  GABORONE, BOTSWANA  DAG HEWARD-MILLS  2014 [QVqcIY5Iwv4]|HOW TO SAY THANK YOU  GABORONE, BOTSWANA  DAG HEWARD-MILLS  2014]]
+- [[Messages/YouTube/DagHewardMillscamps/HOW TO WAIT ON GOD  MAMPONG, GHANA  DAG HEWARD-MILLS  2019 [ocrBlQtogjw]|HOW TO WAIT ON GOD  MAMPONG, GHANA  DAG HEWARD-MILLS  2019]]
+- [[Messages/YouTube/DagHewardMillscamps/I Believe In All 19 Miracles Of Jesus  Castries,St Lucia  Dag Heward-Mills  2024 [jjKifTNhl0M]|I Believe In All 19 Miracles Of Jesus  Castries,St Lucia  Dag Heward-Mills  2024]]
+- [[Messages/YouTube/DagHewardMillscamps/I Believe In All 19 Miracles Of Jesus Castries,St Lucia Dag Heward-Mills 2024 [jjKifTNhl0M]|I Believe In All 19 Miracles Of Jesus Castries,St Lucia Dag Heward-Mills 2024]]
+- [[Messages/YouTube/DagHewardMillscamps/INSTRUCTIONS FROM FATHER TO SON  MARYLAND, USA  DAG HEWARD-MILLS  2003 [zKyPJjMrMe8]|INSTRUCTIONS FROM FATHER TO SON  MARYLAND, USA  DAG HEWARD-MILLS  2003]]
+- [[Messages/YouTube/DagHewardMillscamps/INSTRUCTIONS FROM FATHER TO SON MARYLAND, USA DAG HEWARD-MILLS 2003 [zKyPJjMrMe8]|INSTRUCTIONS FROM FATHER TO SON MARYLAND, USA DAG HEWARD-MILLS 2003]]
+- [[Messages/YouTube/DagHewardMillscamps/KEYS TO DEVELOPING YOUR APOSTOLIC MINISTRY (HARD WORK)  PITTSBURGH, U.S.A  DAG HEWARD-MILLS  2022 [7CmZbNSGf-Q]|KEYS TO DEVELOPING YOUR APOSTOLIC MINISTRY (HARD WORK)  PITTSBURGH, U.S.A  DAG HEWARD-MILLS  2022]]
+- [[Messages/YouTube/DagHewardMillscamps/KEYS TO DEVELOPING YOUR EVANGELISTIC MINISTRY  PITTSBURGH, U.S.A  DAG HEWARD-MILLS  2022 [I0BPs-GedA4]|KEYS TO DEVELOPING YOUR EVANGELISTIC MINISTRY  PITTSBURGH, U.S.A  DAG HEWARD-MILLS  2022]]
+- [[Messages/YouTube/DagHewardMillscamps/KEYS TO WINNING THE LOST IN PERGAMOS   BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2010 [XnPFTUndVL0]|KEYS TO WINNING THE LOST IN PERGAMOS   BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2010]]
+- [[Messages/YouTube/DagHewardMillscamps/KEYS TO WINNING THE LOST IN PERGAMOS BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2010 [XnPFTUndVL0]|KEYS TO WINNING THE LOST IN PERGAMOS BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2010]]
+- [[Messages/YouTube/DagHewardMillscamps/LABOUR TO BE BLESSED  MAMPONG, GHANA  DAG HEWARD-MILLS  2017 [imwIBdQmMZw]|LABOUR TO BE BLESSED  MAMPONG, GHANA  DAG HEWARD-MILLS  2017]]
+- [[Messages/YouTube/DagHewardMillscamps/MASTER BELIEVE IN GOD  GENEVA, SWITZERLAND  DAG HEWARD-MILLS  2016 [NyryK4jA1XY]|MASTER BELIEVE IN GOD  GENEVA, SWITZERLAND  DAG HEWARD-MILLS  2016]]
+- [[Messages/YouTube/DagHewardMillscamps/MASTER BELIEVE IN GOD GENEVA, SWITZERLAND DAG HEWARD-MILLS 2016 [NyryK4jA1XY]|MASTER BELIEVE IN GOD GENEVA, SWITZERLAND DAG HEWARD-MILLS 2016]]
+- [[Messages/YouTube/DagHewardMillscamps/MASTER KEYS  GREAT HUMILITY PROVOKES GREAT MIRACLES  GENEVA, SWITZERLAND DAG HEWARD-MILLS  2016 [pGq7Qx1qn-c]|MASTER KEYS  GREAT HUMILITY PROVOKES GREAT MIRACLES  GENEVA, SWITZERLAND DAG HEWARD-MILLS  2016]]
+- [[Messages/YouTube/DagHewardMillscamps/MASTERS KEYS TO BECOME SPOKEN WORD SENSITIVE GENEVA, SWITZERLAND DAG HEWARD-MILLS 2016 [ekzSrp5fccM]|MASTERS KEYS TO BECOME SPOKEN WORD SENSITIVE GENEVA, SWITZERLAND DAG HEWARD-MILLS 2016]]
+- [[Messages/YouTube/DagHewardMillscamps/MINISTRATION    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002 [zHomYGo8ogI]|MINISTRATION    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002]]
+- [[Messages/YouTube/DagHewardMillscamps/MINISTRATION BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2002 [zHomYGo8ogI]|MINISTRATION BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2002]]
+- [[Messages/YouTube/DagHewardMillscamps/MORE THINGS ABOUT SACRIFICE 1  TORONTO, CANADA DAG HEWARD-MILLS  2002 [t4OViq5ZreA]|MORE THINGS ABOUT SACRIFICE 1  TORONTO, CANADA DAG HEWARD-MILLS  2002]]
+- [[Messages/YouTube/DagHewardMillscamps/MORE THINGS ABOUT SACRIFICE 1 TORONTO, CANADA DAG HEWARD-MILLS 2002 [t4OViq5ZreA]|MORE THINGS ABOUT SACRIFICE 1 TORONTO, CANADA DAG HEWARD-MILLS 2002]]
+- [[Messages/YouTube/DagHewardMillscamps/OPERATING IN THE FOURTH DIMENSION  SYDNEY, AUSTRALIA  DAG HEWARD-MILLS  2009 [n6tig8LHxB8]|OPERATING IN THE FOURTH DIMENSION  SYDNEY, AUSTRALIA  DAG HEWARD-MILLS  2009]]
 - [[Messages/YouTube/DagHewardMillscamps/Opening Prayer With Bishop OB  Lenk, Switzerland  Dag Heward-Mills  2025 [BqGtQae1pJ0]|Opening Prayer With Bishop OB  Lenk, Switzerland  Dag Heward-Mills  2025]]
 - [[Messages/YouTube/DagHewardMillscamps/Opening Prayer With Bishop OB Lenk, Switzerland Dag Heward-Mills 2025 [BqGtQae1pJ0]|Opening Prayer With Bishop OB Lenk, Switzerland Dag Heward-Mills 2025]]
+- [[Messages/YouTube/DagHewardMillscamps/PAST QUESTIONS PT2  CARDIFF, UNITED KINGDOM  DAG HEWARD-MILLS  2003 [zQq92AUH8Qg]|PAST QUESTIONS PT2  CARDIFF, UNITED KINGDOM  DAG HEWARD-MILLS  2003]]
+- [[Messages/YouTube/DagHewardMillscamps/PAST QUESTIONS PT2 CARDIFF, UNITED KINGDOM DAG HEWARD-MILLS 2003 [zQq92AUH8Qg]|PAST QUESTIONS PT2 CARDIFF, UNITED KINGDOM DAG HEWARD-MILLS 2003]]
 - [[Messages/YouTube/DagHewardMillscamps/PERSISTENT PRAYER BRINGS RESISTANCE ARCH BISHOP DUNCAN  MAMPONG, GHANA  DAG HEWARD-MILLS  2015 [uidPVWzGxrw]|PERSISTENT PRAYER BRINGS RESISTANCE ARCH BISHOP DUNCAN  MAMPONG, GHANA  DAG HEWARD-MILLS  2015]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER  HAZYVIEW, SOUTH AFRICA  DAG HEWARD-MILLS  2014 [SYpOj9fO40U]|PRAYER  HAZYVIEW, SOUTH AFRICA  DAG HEWARD-MILLS  2014]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER  NEW YORK, USA  DAG HEWARD-MILLS  2017 [zBU1jhgZFpk]|PRAYER  NEW YORK, USA  DAG HEWARD-MILLS  2017]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER AND MINISTRATION  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2023 [3XSl2EFHDgg]|PRAYER AND MINISTRATION  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2023]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER AND MINISTRATION  PITTSBURGH, U.S.A  DAG HEWARD-MILLS  2022 [zKAAV1oYlR4]|PRAYER AND MINISTRATION  PITTSBURGH, U.S.A  DAG HEWARD-MILLS  2022]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER AND MINISTRATION MARYLAND,USA DAG HEWARD-MILLS 2001 [Hy-LQl_a10M]|PRAYER AND MINISTRATION MARYLAND,USA DAG HEWARD-MILLS 2001]]
-- [[Messages/YouTube/DagHewardMillscamps/PRAYER AND RECAP BY BISHOP OGOE  MAMPONG, GHANA  DAG HEWARD-MILLS  2018 [FA9dtmJ4RKU]|PRAYER AND RECAP BY BISHOP OGOE  MAMPONG, GHANA  DAG HEWARD-MILLS  2018]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER AND THE WORK OF THE LORD  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024 [t7QrnGK2cik]|PRAYER AND THE WORK OF THE LORD  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER AND THE WORK OF THE LORD AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024 [t7QrnGK2cik]|PRAYER AND THE WORK OF THE LORD AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER BOMBS  SEVENOAKS, UK DAG HEWARD-MILLS  2005 [19CP_NtpKtY]|PRAYER BOMBS  SEVENOAKS, UK DAG HEWARD-MILLS  2005]]
@@ -104,7 +800,6 @@
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER EXPLOITS  PART 7 (IMITATING GOD)  HONIARA, SOLOMON ISLANDS  DAG HEWARD-MILLS  2024 [jq0eZDNykwM]|PRAYER EXPLOITS  PART 7 (IMITATING GOD)  HONIARA, SOLOMON ISLANDS  DAG HEWARD-MILLS  2024]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER EXPLOITS  PT 6 (ATTAINMENT OF HUMILITY)  HONIARA, SOLOMON ISLANDS  DAG HEWARD-MILLS  2024 [rD8oCpGoBsw]|PRAYER EXPLOITS  PT 6 (ATTAINMENT OF HUMILITY)  HONIARA, SOLOMON ISLANDS  DAG HEWARD-MILLS  2024]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER EXPLOITS - PART 1 (STRIKING DEEDS THAT ARE ACCOMPLISHED IN AND THROUGH PRAYER) 2024 [hG7cShQC1yM]|PRAYER EXPLOITS - PART 1 (STRIKING DEEDS THAT ARE ACCOMPLISHED IN AND THROUGH PRAYER) 2024]]
-- [[Messages/YouTube/DagHewardMillscamps/PRAYER EXPLOITS - PART 2 (PRAYING ABOUT EVERYTHING AND SPEAKING TO A SPIRIT) 2024 [U7ZyYWsxUm4]|PRAYER EXPLOITS - PART 2 (PRAYING ABOUT EVERYTHING AND SPEAKING TO A SPIRIT) 2024]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER EXPLOITS - PART 3 (NOTABLE PRAYER ACHIEVEMENTS AND RESPONDS TO ATTACKS) 2024 [d9yJgSfLOsc]|PRAYER EXPLOITS - PART 3 (NOTABLE PRAYER ACHIEVEMENTS AND RESPONDS TO ATTACKS) 2024]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER EXPLOITS - PART 4 (OPPORTUNITY TO GAIN PUBLIC REWARDS) DAG HEWARD-MILLS 2024 [5aHXPQ4NVwI]|PRAYER EXPLOITS - PART 4 (OPPORTUNITY TO GAIN PUBLIC REWARDS) DAG HEWARD-MILLS 2024]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER EXPLOITS - PART 5 (PRAYER AS AN ACT OF FAITH) DAG HEWARD-MILLS 2024 [6dEN3HIZ9Ug]|PRAYER EXPLOITS - PART 5 (PRAYER AS AN ACT OF FAITH) DAG HEWARD-MILLS 2024]]
@@ -121,23 +816,17 @@
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER OPPORTUNITIES PART 3  YANUCA ISLAND, FIJI  DAG HEWARD-MILLS  2024 [dcUO7FSoORQ]|PRAYER OPPORTUNITIES PART 3  YANUCA ISLAND, FIJI  DAG HEWARD-MILLS  2024]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER OPPORTUNITIES PART 3 YANUCA ISLAND, FIJI DAG HEWARD-MILLS 2024 [dcUO7FSoORQ]|PRAYER OPPORTUNITIES PART 3 YANUCA ISLAND, FIJI DAG HEWARD-MILLS 2024]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER OPPORTUNITIES PART 4  YANUCA ISLAND, FIJI  DAG HEWARD-MILLS  2024 [ie6awp67JD8]|PRAYER OPPORTUNITIES PART 4  YANUCA ISLAND, FIJI  DAG HEWARD-MILLS  2024]]
-- [[Messages/YouTube/DagHewardMillscamps/PRAYER OPPORTUNITIES PART 5  YANUCA ISLAND, FIJI  DAG HEWARD-MILLS  2024 [SvfOtXKjoiY]|PRAYER OPPORTUNITIES PART 5  YANUCA ISLAND, FIJI  DAG HEWARD-MILLS  2024]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER SEESION WITH BISHOP OGOE MAMPONG,GHANA DAG HEWARD-MILLS 2013 [gfsjFl7bScE]|PRAYER SEESION WITH BISHOP OGOE MAMPONG,GHANA DAG HEWARD-MILLS 2013]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER SESSION  BONSU, GHANA  DAG HEWARD-MILLS  2005 [m93L-FR4_Vc]|PRAYER SESSION  BONSU, GHANA  DAG HEWARD-MILLS  2005]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER SESSION BONSU, GHANA DAG HEWARD-MILLS 2005 [m93L-FR4_Vc]|PRAYER SESSION BONSU, GHANA DAG HEWARD-MILLS 2005]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER TIME WITH BISHOP DAG HEWARD-MILLS  KETTERING, UNITED KINGDOM  DAG HEWARD-MILLS  2023 [JqNg442qdF4]|PRAYER TIME WITH BISHOP DAG HEWARD-MILLS  KETTERING, UNITED KINGDOM  DAG HEWARD-MILLS  2023]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER TIME WITH PROPHET  KETTERING, UNITED KINGDOM  DAG HEWARD-MILLS  2023 [Xm_6NUvV2mE]|PRAYER TIME WITH PROPHET  KETTERING, UNITED KINGDOM  DAG HEWARD-MILLS  2023]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER WITH BISHOP OGOE  PITTSBURGH, U.S.A  DAG HEWARD-MILLS  2022 [OS3E6IrMcH4]|PRAYER WITH BISHOP OGOE  PITTSBURGH, U.S.A  DAG HEWARD-MILLS  2022]]
-- [[Messages/YouTube/DagHewardMillscamps/PRAYER WITH BISHOP OGOE  PITTSBURGH, U.S.A  DAG HEWARD-MILLS  2022_vpGbAQFrTmM [OS3E6IrMcH4]|PRAYER WITH BISHOP OGOE  PITTSBURGH, U.S.A  DAG HEWARD-MILLS  2022_vpGbAQFrTmM]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYER WITH FASTING  MAMPONG, GHANA  DAG HEWARD-MILLS  2017 [rmIRpgPTcaM]|PRAYER WITH FASTING  MAMPONG, GHANA  DAG HEWARD-MILLS  2017]]
-- [[Messages/YouTube/DagHewardMillscamps/PRAYER, THE KEY TO BE EFFECTIVE IN PERGAMOS  BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2001 [RP5Zn2QxH0s]|PRAYER, THE KEY TO BE EFFECTIVE IN PERGAMOS  BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2001]]
-- [[Messages/YouTube/DagHewardMillscamps/PRAYER, THE KEY TO BE EFFECTIVE IN PERGAMOS BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2001 [RP5Zn2QxH0s]|PRAYER, THE KEY TO BE EFFECTIVE IN PERGAMOS BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2001]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYERS FOR THE HOLY SPIRIT  MAMPONG, GHANA  DAG HEWARD-MILLS  2017 [5i2aHwVRKZ4]|PRAYERS FOR THE HOLY SPIRIT  MAMPONG, GHANA  DAG HEWARD-MILLS  2017]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYERS FOR THE NATIONS  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024 [TAt6aGADc3k]|PRAYERS FOR THE NATIONS  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYERS FOR THE NATIONS AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024 [TAt6aGADc3k]|PRAYERS FOR THE NATIONS AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYERS OF DIFFERENT LENGTHS  MAMPONG, GHANA  DAG HEWARD-MILLS  2017 [wqs4OtmI4BY]|PRAYERS OF DIFFERENT LENGTHS  MAMPONG, GHANA  DAG HEWARD-MILLS  2017]]
-- [[Messages/YouTube/DagHewardMillscamps/PRAYERS OF INTERCESSION LABOURERS  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024 [kaugk3lR0Rc]|PRAYERS OF INTERCESSION LABOURERS  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024]]
-- [[Messages/YouTube/DagHewardMillscamps/PRAYERS OF INTERCESSION LABOURERS AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024 [kaugk3lR0Rc]|PRAYERS OF INTERCESSION LABOURERS AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYERS OF THANKSGIVING  MAMPONG, GHANA  DAG HEWARD-MILLS  2017 [5_a1sTECeCg]|PRAYERS OF THANKSGIVING  MAMPONG, GHANA  DAG HEWARD-MILLS  2017]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYERS WITH FORGIVENESS  MAMPONG, GHANA  DAG HEWARD-MILLS  2017 [RzyyQnrfjpc]|PRAYERS WITH FORGIVENESS  MAMPONG, GHANA  DAG HEWARD-MILLS  2017]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYING FOR LABOURERS  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024 [_RjLV2xr4pE]|PRAYING FOR LABOURERS  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024]]
@@ -145,54 +834,146 @@
 - [[Messages/YouTube/DagHewardMillscamps/PRAYING FOR LABOURERS PART 2  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024 [M-DChpBCU6c]|PRAYING FOR LABOURERS PART 2  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYING FOR LABOURERS PART 2 AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024 [M-DChpBCU6c]|PRAYING FOR LABOURERS PART 2 AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024]]
 - [[Messages/YouTube/DagHewardMillscamps/PRAYING FOR THE SPIRIT OF WISDOM  MAMPONG, GHANA  DAG HEWARD-MILLS  2015 [kXa2BNtqulw]|PRAYING FOR THE SPIRIT OF WISDOM  MAMPONG, GHANA  DAG HEWARD-MILLS  2015]]
-- [[Messages/YouTube/DagHewardMillscamps/PRAYING IN THE SPIRIT  HONIARA, SOLOMON ISLANDS  DAG HEWARD-MILLS  2024 [ZPZMlbwJQWo]|PRAYING IN THE SPIRIT  HONIARA, SOLOMON ISLANDS  DAG HEWARD-MILLS  2024]]
-- [[Messages/YouTube/DagHewardMillscamps/PRAYING IN THE SPIRIT HONIARA, SOLOMON ISLANDS DAG HEWARD-MILLS 2024 [ZPZMlbwJQWo]|PRAYING IN THE SPIRIT HONIARA, SOLOMON ISLANDS DAG HEWARD-MILLS 2024]]
 - [[Messages/YouTube/DagHewardMillscamps/PREACHING TEACHING AND PRAYERS    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002 [qcfp_h97rQ0]|PREACHING TEACHING AND PRAYERS    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002]]
 - [[Messages/YouTube/DagHewardMillscamps/PREACHING TEACHING AND PRAYERS BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2002 [qcfp_h97rQ0]|PREACHING TEACHING AND PRAYERS BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2002]]
+- [[Messages/YouTube/DagHewardMillscamps/PREPAREDNESS MAMPONG,GHANA DAG HEWARD-MILLS 2013 [SCDBCwCc6bY]|PREPAREDNESS MAMPONG,GHANA DAG HEWARD-MILLS 2013]]
+- [[Messages/YouTube/DagHewardMillscamps/PRINCIPLES FOR A SUPER MEGA CHURCH  MATOLA, MOZAMBIQUE  DAG HEWARD-MILLS  2016 [8EQsL7MikPY]|PRINCIPLES FOR A SUPER MEGA CHURCH  MATOLA, MOZAMBIQUE  DAG HEWARD-MILLS  2016]]
+- [[Messages/YouTube/DagHewardMillscamps/PRINCIPLES OF WAR PART 3  MAMPONG, GHANA  DAG HEWARD-MILLS  2013 [uW-nlXHJF2I]|PRINCIPLES OF WAR PART 3  MAMPONG, GHANA  DAG HEWARD-MILLS  2013]]
 - [[Messages/YouTube/DagHewardMillscamps/Prayer and Impartation  Lenk, Switzerland  Dag Heward-Mills  2025 [ekioNH6UVnk]|Prayer and Impartation  Lenk, Switzerland  Dag Heward-Mills  2025]]
 - [[Messages/YouTube/DagHewardMillscamps/Prayer and Impartation Lenk, Switzerland Dag Heward-Mills 2025 [ekioNH6UVnk]|Prayer and Impartation Lenk, Switzerland Dag Heward-Mills 2025]]
 - [[Messages/YouTube/DagHewardMillscamps/Prayer with Bishop David  Belmopan, Belize  Dag Heward-Mills  2024 [o6Q0ZvnpCMw]|Prayer with Bishop David  Belmopan, Belize  Dag Heward-Mills  2024]]
 - [[Messages/YouTube/DagHewardMillscamps/Prayer with Bishop David Belmopan, Belize Dag Heward-Mills 2024 [o6Q0ZvnpCMw]|Prayer with Bishop David Belmopan, Belize Dag Heward-Mills 2024]]
+- [[Messages/YouTube/DagHewardMillscamps/READY AT 20  TO SERVE  STEVENAGE, UNITED KINGDOM  DAG HEWARD-MILLS  2016 [sUZCbGLrVpA]|READY AT 20  TO SERVE  STEVENAGE, UNITED KINGDOM  DAG HEWARD-MILLS  2016]]
+- [[Messages/YouTube/DagHewardMillscamps/REASONS WHY GOD WANTS YOU TO SUFFER  AKROPONG, GHANA  DAG HEWARD-MILLS  2011 [MnE0dh6nRJ4]|REASONS WHY GOD WANTS YOU TO SUFFER  AKROPONG, GHANA  DAG HEWARD-MILLS  2011]]
+- [[Messages/YouTube/DagHewardMillscamps/RECAP  MARYLAND,USA  DAG HEWARD-MILLS 2001 [TNBqpOF2n3A]|RECAP  MARYLAND,USA  DAG HEWARD-MILLS 2001]]
+- [[Messages/YouTube/DagHewardMillscamps/RECAP BISHOP KWEKU  LAGO MAGGIORE, ITALY  DAG HEWARD-MILLS  2017 [IyDIamJS6PE]|RECAP BISHOP KWEKU  LAGO MAGGIORE, ITALY  DAG HEWARD-MILLS  2017]]
+- [[Messages/YouTube/DagHewardMillscamps/RECAP BY BISHOP RICHARD ARYEE   Mumbai,India Dag Heward-Mills 2016 [Gh0rlagSnM4]|RECAP BY BISHOP RICHARD ARYEE   Mumbai,India Dag Heward-Mills 2016]]
+- [[Messages/YouTube/DagHewardMillscamps/RECAP MARYLAND,USA DAG HEWARD-MILLS 2001 [TNBqpOF2n3A]|RECAP MARYLAND,USA DAG HEWARD-MILLS 2001]]
+- [[Messages/YouTube/DagHewardMillscamps/RENAMING THE ROADS BY SATAN PT 2  MARYLAND, USA  DAG HEWARD-MILLS  2003 [Dc55Kpoznb0]|RENAMING THE ROADS BY SATAN PT 2  MARYLAND, USA  DAG HEWARD-MILLS  2003]]
+- [[Messages/YouTube/DagHewardMillscamps/RENAMING THE ROADS BY SATAN PT 2 MARYLAND, USA DAG HEWARD-MILLS 2003 [Dc55Kpoznb0]|RENAMING THE ROADS BY SATAN PT 2 MARYLAND, USA DAG HEWARD-MILLS 2003]]
+- [[Messages/YouTube/DagHewardMillscamps/Recap with Bishop Henry Oti Frimpong  Mampong, Ghana  Dag Heward-Mills  2025 [1ffZYTJcU4g]|Recap with Bishop Henry Oti Frimpong  Mampong, Ghana  Dag Heward-Mills  2025]]
+- [[Messages/YouTube/DagHewardMillscamps/Recap with Bishop Henry Oti Frimpong Mampong, Ghana Dag Heward-Mills 2025 [1ffZYTJcU4g]|Recap with Bishop Henry Oti Frimpong Mampong, Ghana Dag Heward-Mills 2025]]
+- [[Messages/YouTube/DagHewardMillscamps/SEVEN STEPS TO BEARING FRUITS; INTIMACY    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002 [HddVVyC_h0o]|SEVEN STEPS TO BEARING FRUITS; INTIMACY    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002]]
+- [[Messages/YouTube/DagHewardMillscamps/SEVEN STEPS TO BEARING FRUITS; INTIMACY BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2002 [HddVVyC_h0o]|SEVEN STEPS TO BEARING FRUITS; INTIMACY BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2002]]
+- [[Messages/YouTube/DagHewardMillscamps/SHINE  HELSINKI, FINLAND  DAG HEWARD-MILLS  2023 [qtEVVx8Id-Y]|SHINE  HELSINKI, FINLAND  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillscamps/SHINE HELSINKI, FINLAND DAG HEWARD-MILLS 2023 [qtEVVx8Id-Y]|SHINE HELSINKI, FINLAND DAG HEWARD-MILLS 2023]]
+- [[Messages/YouTube/DagHewardMillscamps/SOURCES OF STRENGTH  MAMPONG, GHANA  DAG HEWARD-MILLS  2017 [3O6H7ReCqik]|SOURCES OF STRENGTH  MAMPONG, GHANA  DAG HEWARD-MILLS  2017]]
 - [[Messages/YouTube/DagHewardMillscamps/SPECIAL PRAYER AND MINISTRATION  SEVENOAKS, UNITED KINGDOM  DAG HEWARD-MILLS  2002 [WRJWbXfLYV8]|SPECIAL PRAYER AND MINISTRATION  SEVENOAKS, UNITED KINGDOM  DAG HEWARD-MILLS  2002]]
 - [[Messages/YouTube/DagHewardMillscamps/SPECIAL PRAYER AND MINISTRATION SEVENOAKS, UNITED KINGDOM DAG HEWARD-MILLS 2002 [WRJWbXfLYV8]|SPECIAL PRAYER AND MINISTRATION SEVENOAKS, UNITED KINGDOM DAG HEWARD-MILLS 2002]]
+- [[Messages/YouTube/DagHewardMillscamps/SPIRITUAL THINGS THAT LEAD TO RICHES  MAMPONG, GHANA  DAG HEWARD-MILLS  2017 [91fAa3-M3q0]|SPIRITUAL THINGS THAT LEAD TO RICHES  MAMPONG, GHANA  DAG HEWARD-MILLS  2017]]
+- [[Messages/YouTube/DagHewardMillscamps/SPIRITUAL TORPEDO  BONSU, GHANA  DAG HEWARD-MILLS  2005 [gy2ZERl_nak]|SPIRITUAL TORPEDO  BONSU, GHANA  DAG HEWARD-MILLS  2005]]
+- [[Messages/YouTube/DagHewardMillscamps/SPIRITUAL TORPEDO BONSU, GHANA DAG HEWARD-MILLS 2005 [gy2ZERl_nak]|SPIRITUAL TORPEDO BONSU, GHANA DAG HEWARD-MILLS 2005]]
 - [[Messages/YouTube/DagHewardMillscamps/STEPS TO PRAYING FOR A LONG TIME  PORT MORESBY, PAPUA NEW GUINEA  DAG HEWARD-MILLS  2023 [RzlrlVNQ8J4]|STEPS TO PRAYING FOR A LONG TIME  PORT MORESBY, PAPUA NEW GUINEA  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillscamps/STOP LOOKING BACK  HAZYVIEW, SOUTH AFRICA  DAG HEWARD-MILLS  2014 [Fim-WSUiHz0]|STOP LOOKING BACK  HAZYVIEW, SOUTH AFRICA  DAG HEWARD-MILLS  2014]]
+- [[Messages/YouTube/DagHewardMillscamps/SUBDUE NATIONS BY BECOMING A SHEPHERD   PACIFIC HARBOUR, FIJI  DAG HEWARD-MILLS  2023 [cLtzv0v45L4]|SUBDUE NATIONS BY BECOMING A SHEPHERD   PACIFIC HARBOUR, FIJI  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillscamps/Spiritual Warfare  Kumasi, Ghana Dag Heward-Mills 2000 [RR_2hPzSymY]|Spiritual Warfare  Kumasi, Ghana Dag Heward-Mills 2000]]
+- [[Messages/YouTube/DagHewardMillscamps/Succes Keys For The Lay Missionary  MaryLand, USADag Heward-Mills 2011 [U85Tc1iLV4c]|Succes Keys For The Lay Missionary  MaryLand, USADag Heward-Mills 2011]]
 - [[Messages/YouTube/DagHewardMillscamps/TEN WAYS PRAYER MAKES YOU SPIRITUAL  PORT MORESBY, PAPUA NEW GUINEA  DAG HEWARD-MILLS  2023 [oC7C5R4dw1E]|TEN WAYS PRAYER MAKES YOU SPIRITUAL  PORT MORESBY, PAPUA NEW GUINEA  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillscamps/THE BATTLE FOR THE ANOINTING OF YOUR DAY JOHANNESBURG ,SOUTH AFRICA DAG HEWARD-MILLS 2006 [4vo03wLvblE]|THE BATTLE FOR THE ANOINTING OF YOUR DAY JOHANNESBURG ,SOUTH AFRICA DAG HEWARD-MILLS 2006]]
+- [[Messages/YouTube/DagHewardMillscamps/THE CROSS    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002 [6TdrXkEw2Co]|THE CROSS    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002]]
+- [[Messages/YouTube/DagHewardMillscamps/THE CROSS BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2002 [6TdrXkEw2Co]|THE CROSS BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2002]]
+- [[Messages/YouTube/DagHewardMillscamps/THE CURSE  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024 [x6ks6MUQk14]|THE CURSE  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillscamps/THE CURSE AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024 [x6ks6MUQk14]|THE CURSE AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024]]
 - [[Messages/YouTube/DagHewardMillscamps/THE DUTY OF PRAYER  WARWICK LE LAGON, VANUATU  DAG HEWARD-MILLS  2024 [o2sWKi9CL7o]|THE DUTY OF PRAYER  WARWICK LE LAGON, VANUATU  DAG HEWARD-MILLS  2024]]
 - [[Messages/YouTube/DagHewardMillscamps/THE DUTY OF PRAYER WARWICK LE LAGON, VANUATU DAG HEWARD-MILLS 2024 [o2sWKi9CL7o]|THE DUTY OF PRAYER WARWICK LE LAGON, VANUATU DAG HEWARD-MILLS 2024]]
-- [[Messages/YouTube/DagHewardMillscamps/THE LAWS OF PRAYER  WINNEBA, GHANA  DAG HEWARD-MILLS  1998 [Xc_zI-MtAeg]|THE LAWS OF PRAYER  WINNEBA, GHANA  DAG HEWARD-MILLS  1998]]
+- [[Messages/YouTube/DagHewardMillscamps/THE FALL OF LUCIFER  MAMPONG, GHANA  DAG HEWARD-MILLS  2019 [_lkXnOWyREY]|THE FALL OF LUCIFER  MAMPONG, GHANA  DAG HEWARD-MILLS  2019]]
+- [[Messages/YouTube/DagHewardMillscamps/THE GATE OF THE HONOUR OF MAN  MARYLAND, USA  DAG HEWARD-MILLS  2003 [6_JhSI50MD0]|THE GATE OF THE HONOUR OF MAN  MARYLAND, USA  DAG HEWARD-MILLS  2003]]
+- [[Messages/YouTube/DagHewardMillscamps/THE GLORIOUS CHURCH  MAMPONG, GHANA  DAG HEWARD-MILLS  2023 [R4n-qTbaEiY]|THE GLORIOUS CHURCH  MAMPONG, GHANA  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillscamps/THE ISSUE OF YOUR JOB, MONEY, PROPERTY AND FAMILY CARDIFF, UNITED KINGDOM DAG HEWARD-MILLS 2003 [yQSujmolRXI]|THE ISSUE OF YOUR JOB, MONEY, PROPERTY AND FAMILY CARDIFF, UNITED KINGDOM DAG HEWARD-MILLS 2003]]
+- [[Messages/YouTube/DagHewardMillscamps/THE LAW OF FRUITNESS NEWARK NEW JERSEYUNITED STATES DAG HEWARD-MILLS 2019 [oJJdPZuE_WY]|THE LAW OF FRUITNESS NEWARK NEW JERSEYUNITED STATES DAG HEWARD-MILLS 2019]]
+- [[Messages/YouTube/DagHewardMillscamps/THE LAWS OF A SHEPHERD  WINNEBA, GHANA  DAG HEWARD-MILLS  1998 [Y1sjDJu9E68]|THE LAWS OF A SHEPHERD  WINNEBA, GHANA  DAG HEWARD-MILLS  1998]]
+- [[Messages/YouTube/DagHewardMillscamps/THE MINISTRY OF JESUS  MAMPONG, GHANA  DAG HEWARD-MILLS  2023 [GukLU3o2IFw]|THE MINISTRY OF JESUS  MAMPONG, GHANA  DAG HEWARD-MILLS  2023]]
 - [[Messages/YouTube/DagHewardMillscamps/THE MUSTARD SEED OF PRAYER  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2023 [LRXSy6qFK5E]|THE MUSTARD SEED OF PRAYER  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2023]]
-- [[Messages/YouTube/DagHewardMillscamps/THE PRAYERS OF JESUS  MAMPONG, GHANA  DAG HEWARD-MILLS  2017 [5OgVksGiiO4]|THE PRAYERS OF JESUS  MAMPONG, GHANA  DAG HEWARD-MILLS  2017]]
-- [[Messages/YouTube/DagHewardMillscamps/THE SUFFERINGS OF PRAYER  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024 [Uo78CO-Q3x4]|THE SUFFERINGS OF PRAYER  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024]]
-- [[Messages/YouTube/DagHewardMillscamps/THE SUFFERINGS OF PRAYER AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024 [Uo78CO-Q3x4]|THE SUFFERINGS OF PRAYER AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024]]
+- [[Messages/YouTube/DagHewardMillscamps/THE MYSTERY OF POWER TO PREACH TO MANY PEOPLE  KINGSTON, JAMAICA  DAG HEWARD-MILLS  2015 [Fcu-vOVQJKg]|THE MYSTERY OF POWER TO PREACH TO MANY PEOPLE  KINGSTON, JAMAICA  DAG HEWARD-MILLS  2015]]
+- [[Messages/YouTube/DagHewardMillscamps/THE PHENOMENON OF OPEN DOORS  PART 1  MARYLAND, USA  DAG HEWARD-MILLS  2006 [Q_vgKciflvI]|THE PHENOMENON OF OPEN DOORS  PART 1  MARYLAND, USA  DAG HEWARD-MILLS  2006]]
+- [[Messages/YouTube/DagHewardMillscamps/THE PHENOMENON OF OPEN DOORS PART 2  MARYLAND, USA  DAG HEWARD-MILLS  2006 [xfSGKcSLnUw]|THE PHENOMENON OF OPEN DOORS PART 2  MARYLAND, USA  DAG HEWARD-MILLS  2006]]
+- [[Messages/YouTube/DagHewardMillscamps/THE SUFFERINGS OF CHRIST PART 1  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024 [4voP6fH-1hE]|THE SUFFERINGS OF CHRIST PART 1  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024]]
+- [[Messages/YouTube/DagHewardMillscamps/THE SUFFERINGS OF CHRIST PART 1 AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024 [4voP6fH-1hE]|THE SUFFERINGS OF CHRIST PART 1 AUCKLAND, NEW ZEALAND DAG HEWARD-MILLS 2024]]
 - [[Messages/YouTube/DagHewardMillscamps/THE SUPREME CODE (PRAYER)  ARUSHA, TANZANIA  DAG HEWARD-MILLS  2023 [n5v1Z65Y3JI]|THE SUPREME CODE (PRAYER)  ARUSHA, TANZANIA  DAG HEWARD-MILLS  2023]]
-- [[Messages/YouTube/DagHewardMillscamps/TRAVAILING PRAYER AND PREACHING BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2001 [JywUY-pJYjs]|TRAVAILING PRAYER AND PREACHING BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2001]]
+- [[Messages/YouTube/DagHewardMillscamps/THE TERRITORY TAKING MINISTRY ACCRA, GHANA DAG HEWARD-MILLS 1997 [B_0FAAK5dQs]|THE TERRITORY TAKING MINISTRY ACCRA, GHANA DAG HEWARD-MILLS 1997]]
+- [[Messages/YouTube/DagHewardMillscamps/THE WORK OF THE MINISTRY MARAISBURG,SOUTH AFRICA DAG HEWARD-MILLS 2000 [Z99TxolbFQE]|THE WORK OF THE MINISTRY MARAISBURG,SOUTH AFRICA DAG HEWARD-MILLS 2000]]
+- [[Messages/YouTube/DagHewardMillscamps/THINGS YOU NEED TO INTERCEDE AGAINST PART 2  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001 [Yn_spJBZT3c]|THINGS YOU NEED TO INTERCEDE AGAINST PART 2  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001]]
+- [[Messages/YouTube/DagHewardMillscamps/THINGS YOU NEED TO INTERCEDE AGAINST PART 2 SHEFFIELD, UNITED KINGDOM DAG HEWARD-MILLS 2001 [Yn_spJBZT3c]|THINGS YOU NEED TO INTERCEDE AGAINST PART 2 SHEFFIELD, UNITED KINGDOM DAG HEWARD-MILLS 2001]]
+- [[Messages/YouTube/DagHewardMillscamps/TRANSFORMATION OF YOUR NAME  KAMPALA, UGANDA  DAG HEWARD-MILLS  2023 [tEsYEG7Xzn0]|TRANSFORMATION OF YOUR NAME  KAMPALA, UGANDA  DAG HEWARD-MILLS  2023]]
+- [[Messages/YouTube/DagHewardMillscamps/TRANSFORMATION OF YOUR PASTORAL MINISTRY  KAMPALA, UGANDA  DAG HEWARD-MILLS  2023 [DfBPzO9yTOA]|TRANSFORMATION OF YOUR PASTORAL MINISTRY  KAMPALA, UGANDA  DAG HEWARD-MILLS  2023]]
 - [[Messages/YouTube/DagHewardMillscamps/TYPES OF PRAYER  WARWICK LE LAGON, VANUATU  DAG HEWARD-MILLS  2024 [xOaAmIGz2UA]|TYPES OF PRAYER  WARWICK LE LAGON, VANUATU  DAG HEWARD-MILLS  2024]]
 - [[Messages/YouTube/DagHewardMillscamps/TYPES OF PRAYER PART 2 (PRAYER FOR STRENGTH)  WARWICK LE LAGON, VANUATU  DAG HEWARD-MILLS  2024 [IGVqSjTvWzU]|TYPES OF PRAYER PART 2 (PRAYER FOR STRENGTH)  WARWICK LE LAGON, VANUATU  DAG HEWARD-MILLS  2024]]
-- [[Messages/YouTube/DagHewardMillscamps/TYPES OF PRAYER PART 2 (PRAYER FOR STRENGTH) WARWICK LE LAGON, VANUATU DAG HEWARD-MILLS 2024 [IGVqSjTvWzU]|TYPES OF PRAYER PART 2 (PRAYER FOR STRENGTH) WARWICK LE LAGON, VANUATU DAG HEWARD-MILLS 2024]]
 - [[Messages/YouTube/DagHewardMillscamps/TYPES OF PRAYERS  MAMPONG, GHANA  DAG HEWARD-MILLS  2017 [J6g8PO0Gdvg]|TYPES OF PRAYERS  MAMPONG, GHANA  DAG HEWARD-MILLS  2017]]
+- [[Messages/YouTube/DagHewardMillscamps/The Call Of God Is Permanent  Lenk, Switzerland  Dag Heward-Mills  2025 [1n9_biCJHGM]|The Call Of God Is Permanent  Lenk, Switzerland  Dag Heward-Mills  2025]]
+- [[Messages/YouTube/DagHewardMillscamps/The Call Of God Is Permanent Lenk, Switzerland Dag Heward-Mills 2025 [1n9_biCJHGM]|The Call Of God Is Permanent Lenk, Switzerland Dag Heward-Mills 2025]]
+- [[Messages/YouTube/DagHewardMillscamps/The Characteristics Of The Content Of The Bag of Seeds  Maidstone,UK Dag Heward-Mills2010 [xYGYwrIkgGE]|The Characteristics Of The Content Of The Bag of Seeds  Maidstone,UK Dag Heward-Mills2010]]
+- [[Messages/YouTube/DagHewardMillscamps/The Love Of The Good Samaritan  Ducos, Martinique Dag Heward-Mills  2024 [ae8gVH1QQDY]|The Love Of The Good Samaritan  Ducos, Martinique Dag Heward-Mills  2024]]
+- [[Messages/YouTube/DagHewardMillscamps/The Love Of The Good Samaritan Ducos, Martinique Dag Heward-Mills 2024 [ae8gVH1QQDY]|The Love Of The Good Samaritan Ducos, Martinique Dag Heward-Mills 2024]]
+- [[Messages/YouTube/DagHewardMillscamps/The Power Of A Mustard Seed Commendable Love  Ducos, Martinique Dag Heward-Mills  2024 [eWZgsXtlOmM]|The Power Of A Mustard Seed Commendable Love  Ducos, Martinique Dag Heward-Mills  2024]]
+- [[Messages/YouTube/DagHewardMillscamps/The Power Of A Mustard Seed Commendable Love Ducos, Martinique Dag Heward-Mills 2024 [eWZgsXtlOmM]|The Power Of A Mustard Seed Commendable Love Ducos, Martinique Dag Heward-Mills 2024]]
+- [[Messages/YouTube/DagHewardMillscamps/The Sweet Influence Of The Holy Spirit Pt 5  Mampong ,Ghana Dag Heward-Mills 2012 [oCjmKmhgjSw]|The Sweet Influence Of The Holy Spirit Pt 5  Mampong ,Ghana Dag Heward-Mills 2012]]
+- [[Messages/YouTube/DagHewardMillscamps/Types Of Suffering Part 2  Swanwick, United Kingdom  Dag Heward-Mills 2008 [dQm7nmu3uMU]|Types Of Suffering Part 2  Swanwick, United Kingdom  Dag Heward-Mills 2008]]
+- [[Messages/YouTube/DagHewardMillscamps/Vessels of Anointing  Mampong ,Ghana Dag Heward-Mills 2014 [KNol3yL2Nv8]|Vessels of Anointing  Mampong ,Ghana Dag Heward-Mills 2014]]
 - [[Messages/YouTube/DagHewardMillscamps/WHAT JESUS SAID IN RELATION TO PRAYER PART 1  WARWICK LE LAGON, VANUATU  DAG HEWARD-MILLS  2024 [V29Xs3Q9OEY]|WHAT JESUS SAID IN RELATION TO PRAYER PART 1  WARWICK LE LAGON, VANUATU  DAG HEWARD-MILLS  2024]]
 - [[Messages/YouTube/DagHewardMillscamps/WHAT JESUS SAID IN RELATION TO PRAYER PART 1 WARWICK LE LAGON, VANUATU DAG HEWARD-MILLS 2024 [V29Xs3Q9OEY]|WHAT JESUS SAID IN RELATION TO PRAYER PART 1 WARWICK LE LAGON, VANUATU DAG HEWARD-MILLS 2024]]
 - [[Messages/YouTube/DagHewardMillscamps/WHAT JESUS SAID IN RELATION TO PRAYER PART 2  WARWICK LE LAGON, VANUATU  DAG HEWARD-MILLS  2024 [sCglhx9KBgg]|WHAT JESUS SAID IN RELATION TO PRAYER PART 2  WARWICK LE LAGON, VANUATU  DAG HEWARD-MILLS  2024]]
 - [[Messages/YouTube/DagHewardMillscamps/WHAT JESUS SAID IN RELATION TO PRAYER PART 2 WARWICK LE LAGON, VANUATU DAG HEWARD-MILLS 2024 [sCglhx9KBgg]|WHAT JESUS SAID IN RELATION TO PRAYER PART 2 WARWICK LE LAGON, VANUATU DAG HEWARD-MILLS 2024]]
+- [[Messages/YouTube/DagHewardMillscamps/WHAT YOUNG PEOPLE MUST DO TO DEVELOP CONFIDENCE  AKROPONG, GHANA  DAG HEWARD-MILLS  2011 [Bi73sUiPv6M]|WHAT YOUNG PEOPLE MUST DO TO DEVELOP CONFIDENCE  AKROPONG, GHANA  DAG HEWARD-MILLS  2011]]
+- [[Messages/YouTube/DagHewardMillscamps/WHO IS JESUS  PART 6   Mampong, Ghana Dag Heward-Mills 2019 [-aDIcrsTNiI]|WHO IS JESUS  PART 6   Mampong, Ghana Dag Heward-Mills 2019]]
+- [[Messages/YouTube/DagHewardMillscamps/WHO IS THE MAN WHO RECEIVES THE BLESSINGS OF ABRAHAM 1  SYDNEY, AUSTRALIA  DAG HEWARD-MILLS  2009 [3DUB302IhiE]|WHO IS THE MAN WHO RECEIVES THE BLESSINGS OF ABRAHAM 1  SYDNEY, AUSTRALIA  DAG HEWARD-MILLS  2009]]
+- [[Messages/YouTube/DagHewardMillscamps/WHY DID YOU KNOW SO MUCH  CARDIFF, UNITED KINGDOM  DAG HEWARD-MILLS  2003 [Go43MQ4nU-A]|WHY DID YOU KNOW SO MUCH  CARDIFF, UNITED KINGDOM  DAG HEWARD-MILLS  2003]]
+- [[Messages/YouTube/DagHewardMillscamps/WHY DID YOU KNOW SO MUCH CARDIFF, UNITED KINGDOM DAG HEWARD-MILLS 2003 [Go43MQ4nU-A]|WHY DID YOU KNOW SO MUCH CARDIFF, UNITED KINGDOM DAG HEWARD-MILLS 2003]]
+- [[Messages/YouTube/DagHewardMillscamps/WHY DOES JESUS CHOOSE A YOUNG PERSON  MAMPONG, GHANA  DAG HEWARD-MILLS  2023 [z4_msJSz29I]|WHY DOES JESUS CHOOSE A YOUNG PERSON  MAMPONG, GHANA  DAG HEWARD-MILLS  2023]]
 - [[Messages/YouTube/DagHewardMillscamps/WHY PRAYER IS IMPORTANT FOR MINISTRY MARAISBURG,SOUTH AFRICA DAG HEWARD-MILLS 2000 [myy58z_p5vw]|WHY PRAYER IS IMPORTANT FOR MINISTRY MARAISBURG,SOUTH AFRICA DAG HEWARD-MILLS 2000]]
 - [[Messages/YouTube/DagHewardMillscamps/WHY PRAYER IS IMPORTANT FOR MINISTRYMARAISBURG,SOUTH AFRICA DAG HEWARD-MILLS 2000 [5m4IHqnsLvU]|WHY PRAYER IS IMPORTANT FOR MINISTRYMARAISBURG,SOUTH AFRICA DAG HEWARD-MILLS 2000]]
 - [[Messages/YouTube/DagHewardMillscamps/WHY PRAYER IS IMPORTANT FOR THE MINISTRY  MARAISBURG,SOUTH AFRICA  DAG HEWARD-MILLS  2000 [LRAsW_NLtqY]|WHY PRAYER IS IMPORTANT FOR THE MINISTRY  MARAISBURG,SOUTH AFRICA  DAG HEWARD-MILLS  2000]]
 - [[Messages/YouTube/DagHewardMillscamps/WHY PRAYER IS IMPORTANT FOR THE MINISTRY MARAISBURG,SOUTH AFRICA DAG HEWARD-MILLS 2000 [LRAsW_NLtqY]|WHY PRAYER IS IMPORTANT FOR THE MINISTRY MARAISBURG,SOUTH AFRICA DAG HEWARD-MILLS 2000]]
 - [[Messages/YouTube/DagHewardMillscamps/WHY PRAYER IS IMPORTANT FOR THE MINISTRY PT 2  MARAISBURG,SOUTH AFRICA  DAG HEWARD-MILLS  2000 [IY9UzqRDoKM]|WHY PRAYER IS IMPORTANT FOR THE MINISTRY PT 2  MARAISBURG,SOUTH AFRICA  DAG HEWARD-MILLS  2000]]
 - [[Messages/YouTube/DagHewardMillscamps/WHY PRAYER IS IMPORTANT FOR THE MINISTRY PT 2 MARAISBURG,SOUTH AFRICA DAG HEWARD-MILLS 2000 [IY9UzqRDoKM]|WHY PRAYER IS IMPORTANT FOR THE MINISTRY PT 2 MARAISBURG,SOUTH AFRICA DAG HEWARD-MILLS 2000]]
-- [[Messages/YouTube/DagHewardMillscamps/Wisdom and Intercession   Mampong, Ghana Dag Heward-Mills 2013 [49OjHUm0frc]|Wisdom and Intercession   Mampong, Ghana Dag Heward-Mills 2013]]
+- [[Messages/YouTube/DagHewardMillscamps/WHY WE MUST HAVE 1000 MEMBERS IN AUSTRALIA  SYDNEY, AUSTRALIA  DAG HEWARD-MILLS  2010 [LbsMUs6GB2s]|WHY WE MUST HAVE 1000 MEMBERS IN AUSTRALIA  SYDNEY, AUSTRALIA  DAG HEWARD-MILLS  2010]]
+- [[Messages/YouTube/DagHewardMillscamps/What It Means To Be Woken Part 1  Port Elizabeth, South Africa Dag Heward-Mills 2011 [jOOi5q8A6W8]|What It Means To Be Woken Part 1  Port Elizabeth, South Africa Dag Heward-Mills 2011]]
+- [[Messages/YouTube/DagHewardMillscamps/What is An Atmosphere  Mampong, Ghana Dag Heward-Mills 2012 [M8SJ3MxO7vQ]|What is An Atmosphere  Mampong, Ghana Dag Heward-Mills 2012]]
+- [[Messages/YouTube/DagHewardMillscamps/YOU SHALL COMPASS THE CITY  MAMPONG, GHANA  DAG HEWARD-MILLS  2019 [geBycVjO-B4]|YOU SHALL COMPASS THE CITY  MAMPONG, GHANA  DAG HEWARD-MILLS  2019]]
 - [[Messages/YouTube/DagHewardMillscamps/YOUR STRENGTH IN PRAYER  WARWICK LE LAGON, VANUATU  DAG HEWARD-MILLS  2024 [PugAgBx0HlE]|YOUR STRENGTH IN PRAYER  WARWICK LE LAGON, VANUATU  DAG HEWARD-MILLS  2024]]
 - [[Messages/YouTube/DagHewardMillscamps/YOUR STRENGTH IN PRAYER WARWICK LE LAGON, VANUATU DAG HEWARD-MILLS 2024 [PugAgBx0HlE]|YOUR STRENGTH IN PRAYER WARWICK LE LAGON, VANUATU DAG HEWARD-MILLS 2024]]
 
-### Messages / YouTube / DagHewardMillsvideos
+#### Messages / YouTube / DagHewardMillsvideos
+- [[Messages/YouTube/DagHewardMillsvideos/1000 Micro Churches The Power of the Assembly  Dag Heward-Mills [XXHt02yFX7Q]|1000 Micro Churches The Power of the Assembly  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/2025 Your Year of Greater and Better  Dag Heward-Mills @firstlovecenter [WV69LrLU4aA]|2025 Your Year of Greater and Better  Dag Heward-Mills @firstlovecenter]]
 - [[Messages/YouTube/DagHewardMillsvideos/23. Prayer And Ministration  Dag Heward-Mills [NmkMzexP_4k]|23. Prayer And Ministration  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/A Good General Knows How To Overcome Superior Enemies  And Stalemates   GTWC 2023 Session 7 [1AZMiSZG2q0]|A Good General Knows How To Overcome Superior Enemies  And Stalemates   GTWC 2023 Session 7]]
+- [[Messages/YouTube/DagHewardMillsvideos/A Great Door Beware of Yourself (Part 7)   Dag Heward-Mills [l7JumZ5oXjk]|A Great Door Beware of Yourself (Part 7)   Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/A Year Of Work  Part 3  Tsalach Night Experience  Dag Heward-Mills [jWoURZuoDUA]|A Year Of Work  Part 3  Tsalach Night Experience  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/Are You Known in Hell Why Demons Recognise Some Christians Dag Heward-Mills [gpYH6zX6b3g]|Are You Known in Hell Why Demons Recognise Some Christians Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/Attempt Great Things By Being Thankful  Dag Heward-Mills [TubRtTfvCYs]|Attempt Great Things By Being Thankful  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/Being A Servant  The Experience Service  Dag Heward-Mills [r1nJjs5ixW8]|Being A Servant  The Experience Service  Dag Heward-Mills]]
 - [[Messages/YouTube/DagHewardMillsvideos/Bishop Dag Heward-Mills prayer for you today!!! [2bbnVMR7PRM]|Bishop Dag Heward-Mills prayer for you today!!!]]
+- [[Messages/YouTube/DagHewardMillsvideos/CONTINUE — The Apostolic Warning Every Christian Must Hear Dag Heward-Mills [lTOpGQ71ltc]|CONTINUE — The Apostolic Warning Every Christian Must Hear Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/DAY 12 BETWEEN THE PORCH AND ALTAR - PART 3 [W9bxvMruygo]|DAY 12 BETWEEN THE PORCH AND ALTAR - PART 3]]
 - [[Messages/YouTube/DagHewardMillsvideos/DEMONS GO WILD AS DAG HEWARD-MILLS PRAYS [6a-K8WxMTKg]|DEMONS GO WILD AS DAG HEWARD-MILLS PRAYS]]
 - [[Messages/YouTube/DagHewardMillsvideos/Dag Heward-Mills releases Prophetic Prayers Over Ethiopia, Mighty Anointing in Addis Ababa [HdWkObkLBFI]|Dag Heward-Mills releases Prophetic Prayers Over Ethiopia, Mighty Anointing in Addis Ababa]]
+- [[Messages/YouTube/DagHewardMillsvideos/Defence Against Wolves  Attempt Great Things Service  Dag Heward-Mills [6r-Qih-c5dI]|Defence Against Wolves  Attempt Great Things Service  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/Evangelism In Africa - HEALING JESUS CAMPAIGN,   TZANEEN, SOUTH AFRICA, DAY 01 [6YkVWkVengE]|Evangelism In Africa - HEALING JESUS CAMPAIGN,   TZANEEN, SOUTH AFRICA, DAY 01]]
+- [[Messages/YouTube/DagHewardMillsvideos/Evangelism In Africa - HEALING JESUS CAMPAIGN,  EAST LONDON, SOUTH AFRICA, DAY 03 [ScHwWBup5B0]|Evangelism In Africa - HEALING JESUS CAMPAIGN,  EAST LONDON, SOUTH AFRICA, DAY 03]]
+- [[Messages/YouTube/DagHewardMillsvideos/Evangelism In Africa - HEALING JESUS CAMPAIGN, ABOBO, LA COTE D'VOIRE, DAY 1 [V7TlgG4DvbY]|Evangelism In Africa - HEALING JESUS CAMPAIGN, ABOBO, LA COTE D'VOIRE, DAY 1]]
+- [[Messages/YouTube/DagHewardMillsvideos/Evangelism In Africa - HEALING JESUS CAMPAIGN, BANJUL - GAMBIA, DAY 2 [FgxaX82ypPQ]|Evangelism In Africa - HEALING JESUS CAMPAIGN, BANJUL - GAMBIA, DAY 2]]
+- [[Messages/YouTube/DagHewardMillsvideos/Evangelism In Africa - HEALING JESUS CAMPAIGN, YAMOUSSOUKRO, LA COTE D'IVOIRE, DAY 3 [GOJE-l704TA]|Evangelism In Africa - HEALING JESUS CAMPAIGN, YAMOUSSOUKRO, LA COTE D'IVOIRE, DAY 3]]
 - [[Messages/YouTube/DagHewardMillsvideos/Evangelist Dag Heward-Mills - We are still forging ahead on our long journey to Kpasa. Pray for us! [wbnbGouEukM]|Evangelist Dag Heward-Mills - We are still forging ahead on our long journey to Kpasa. Pray for us!]]
 - [[Messages/YouTube/DagHewardMillsvideos/Evangelist Dag Heward-Mills prays for the President of Ghana Nana Akuffo-Addo on his 78th birthday [5takN8g3WFo]|Evangelist Dag Heward-Mills prays for the President of Ghana Nana Akuffo-Addo on his 78th birthday]]
+- [[Messages/YouTube/DagHewardMillsvideos/FIRST LOVE SERVICE   THE MYSTERY OF GOD [tYyIoT_roIg]|FIRST LOVE SERVICE   THE MYSTERY OF GOD]]
+- [[Messages/YouTube/DagHewardMillsvideos/FIRST LOVE SERVICE  MY FIRST HOUR IN THE PROMISE LAND [-MzJ1TC3ydw]|FIRST LOVE SERVICE  MY FIRST HOUR IN THE PROMISE LAND]]
+- [[Messages/YouTube/DagHewardMillsvideos/FLOW SUNDAY SERVICE  THE TEST OF MANNA   DAG HEWARD MILLS [ZrtIW3GVuMQ]|FLOW SUNDAY SERVICE  THE TEST OF MANNA   DAG HEWARD MILLS]]
+- [[Messages/YouTube/DagHewardMillsvideos/GTWC 2020 - 12. Master Keys To The Presence Of God [OFE3Pv0VonE]|GTWC 2020 - 12. Master Keys To The Presence Of God]]
 - [[Messages/YouTube/DagHewardMillsvideos/Give Thyself Wholly Conference 24012017 - THE GREAT EFFECTS OF YOUR PRAYER [jnqUBifl_HY]|Give Thyself Wholly Conference 24012017 - THE GREAT EFFECTS OF YOUR PRAYER]]
+- [[Messages/YouTube/DagHewardMillsvideos/God Is Stirring You Up, Pushing You On And Blowing On You  Dag Heward-Mills [_eOyf5Aq2jg]|God Is Stirring You Up, Pushing You On And Blowing On You  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/Good Times And Season Part 4  FLOW Church  Dag Heward-Mills [HlkeBUoGGVI]|Good Times And Season Part 4  FLOW Church  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/HEALING JESUS PASTORS' CONFERENCE, BUCHANAN, 25 REASONS WHY YOU SHOULD HAVE A MEGA CHURCH [tXARa7IWxB4]|HEALING JESUS PASTORS' CONFERENCE, BUCHANAN, 25 REASONS WHY YOU SHOULD HAVE A MEGA CHURCH]]
+- [[Messages/YouTube/DagHewardMillsvideos/HEALING JESUS PASTORS' CONFERENCE, GANTA, P  V  C  I [qCnBj5E5AZY]|HEALING JESUS PASTORS' CONFERENCE, GANTA, P  V  C  I]]
+- [[Messages/YouTube/DagHewardMillsvideos/HEALING JESUS PASTORS' CONFERENCE, OFFA, REASONS WHY YOU MUST HAVE A MEGA CHURCH [A7axCfVMfKM]|HEALING JESUS PASTORS' CONFERENCE, OFFA, REASONS WHY YOU MUST HAVE A MEGA CHURCH]]
+- [[Messages/YouTube/DagHewardMillsvideos/How To Attempt New Things For God  Attempt Great Things Service  Dag Heward-Mills [dlQWuYD2YBw]|How To Attempt New Things For God  Attempt Great Things Service  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/How To Easily Hear Gods Voice  Dag Heward-Mills [C4vM1W6DWEc]|How To Easily Hear Gods Voice  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/How To Wait On God [_6uLyOhGZIA]|How To Wait On God]]
+- [[Messages/YouTube/DagHewardMillsvideos/How to move into Exciting, Adventurous and Wondrous Dimensions (Entry Points)  Dag Heward-Mills [TJ9XIcEWQHI]|How to move into Exciting, Adventurous and Wondrous Dimensions (Entry Points)  Dag Heward-Mills]]
 - [[Messages/YouTube/DagHewardMillsvideos/I PREFER TO PRAY Making Time for Connection with God  Dag Heward-Mills  #EverythingbyPrayer [9tSiq69v7RM]|I PREFER TO PRAY Making Time for Connection with God  Dag Heward-Mills  #EverythingbyPrayer]]
+- [[Messages/YouTube/DagHewardMillsvideos/ISI 04 09 L’ART D’IMBIBER LES MESSAGES [a3VwKjlhQU0]|ISI 04 09 L’ART D’IMBIBER LES MESSAGES]]
+- [[Messages/YouTube/DagHewardMillsvideos/Latest Message  The Truth About Fornication, Uncleanness & Greed  Dag Heward-Mills [hqUaDq1sjIQ]|Latest Message  The Truth About Fornication, Uncleanness & Greed  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/Likely To Be Rich or Likely To Be Poor - Part 3  Dag Heward-Mills [T2-t-OgupNI]|Likely To Be Rich or Likely To Be Poor - Part 3  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/Mavis's testimony [6tZTAka4VxE]|Mavis's testimony]]
 - [[Messages/YouTube/DagHewardMillsvideos/OUR PROPHET'S PRAYER FOR YOU  110218 [p0kOoDzLZYk]|OUR PROPHET'S PRAYER FOR YOU  110218]]
 - [[Messages/YouTube/DagHewardMillsvideos/OUR PROPHET'S PRAYER FOR YOU 220118 [cTdemczjAHU]|OUR PROPHET'S PRAYER FOR YOU 220118]]
 - [[Messages/YouTube/DagHewardMillsvideos/OUR PROPHET'S PRAYER FOR YOU [xxqraPpoMMQ]|OUR PROPHET'S PRAYER FOR YOU]]
@@ -209,49 +990,335 @@
 - [[Messages/YouTube/DagHewardMillsvideos/OUR PROPHET'S PRAYERS FOR YOU 250318 [R60mcQ5eRK8]|OUR PROPHET'S PRAYERS FOR YOU 250318]]
 - [[Messages/YouTube/DagHewardMillsvideos/OUR PROPHET'S PRAYERS FOR YOU 290418 [_FPw0FdoJes]|OUR PROPHET'S PRAYERS FOR YOU 290418]]
 - [[Messages/YouTube/DagHewardMillsvideos/PRAYERS FOR THE HOLY SPIRIT [qZRLL7zxo1k]|PRAYERS FOR THE HOLY SPIRIT]]
+- [[Messages/YouTube/DagHewardMillsvideos/Pass Your Test And Change Your Rank  Dag Heward-Mills [sm69TqFDQy8]|Pass Your Test And Change Your Rank  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/Permanence  FLOW Church  Dag Heward-Mills [JzUIRYCo0lw]|Permanence  FLOW Church  Dag Heward-Mills]]
 - [[Messages/YouTube/DagHewardMillsvideos/Powerful Prayer Manifestation for a Breakthrough 2026 Dag Heward-Mills [1BuYB5VXLuw]|Powerful Prayer Manifestation for a Breakthrough 2026 Dag Heward-Mills]]
 - [[Messages/YouTube/DagHewardMillsvideos/Prophet Dag's Anointed Prayer for Your Spiritual Breakthrough  FLOW CHURCH  Dag Heward-Mills [xtxU7LflPOI]|Prophet Dag's Anointed Prayer for Your Spiritual Breakthrough  FLOW CHURCH  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 1  BUILDING THE GREAT KINGDOM [IglM6Cz61XM]|SESSION 1  BUILDING THE GREAT KINGDOM]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 1 - TRANSFORM YOUR MINISTRY [GgLHtNoykxE]|SESSION 1 - TRANSFORM YOUR MINISTRY]]
 - [[Messages/YouTube/DagHewardMillsvideos/SESSION 18 - PRAYER MINISTRATION [3xc74zeCp6E]|SESSION 18 - PRAYER MINISTRATION]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 2 THE KINGDOM IS LIKE A SEED [k7dBis5ifRs]|SESSION 2 THE KINGDOM IS LIKE A SEED]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 3   SOURCES OF STRENGTH [9PFRonMOurI]|SESSION 3   SOURCES OF STRENGTH]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 3 7 STEPS TO THE ANOINTING IN JORDAN [VcYn-WEJvyk]|SESSION 3 7 STEPS TO THE ANOINTING IN JORDAN]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 3 HOW PEOPLE ENTER INTO THE IMPERFECT WILL OF GOD [D-_ctytwZVY]|SESSION 3 HOW PEOPLE ENTER INTO THE IMPERFECT WILL OF GOD]]
 - [[Messages/YouTube/DagHewardMillsvideos/SESSION 3 SOLOMON'S SECRET OF PRAYER [yU4PK8UUPXU]|SESSION 3 SOLOMON'S SECRET OF PRAYER]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 3 THE KINGDOM IS LIKE LEAVEN [3yvfSO5cnSs]|SESSION 3 THE KINGDOM IS LIKE LEAVEN]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 4. HOW TO BUILD A CHURCH [-spirliUbQU]|SESSION 4. HOW TO BUILD A CHURCH]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 5 HOW TO FULFIL YOUR MINISTRY THROUGH THE MYSTERIOUS WILL OF GOD [1yK5RW8rtxg]|SESSION 5 HOW TO FULFIL YOUR MINISTRY THROUGH THE MYSTERIOUS WILL OF GOD]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 5 METHODS OF GUIDANCE [gjl6K975hh0]|SESSION 5 METHODS OF GUIDANCE]]
+- [[Messages/YouTube/DagHewardMillsvideos/SESSION 6 SMASHING ENTITIES [1Visk7mHZPU]|SESSION 6 SMASHING ENTITIES]]
+- [[Messages/YouTube/DagHewardMillsvideos/SPIRITUAL THINGS THAT LEAD TO RICHES [a1kiUFLztU8]|SPIRITUAL THINGS THAT LEAD TO RICHES]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUDAY SERVICE  - THREE KEYS TO GOD'S DIVINE PROMOTION [78cg3HZLPB4]|SUDAY SERVICE  - THREE KEYS TO GOD'S DIVINE PROMOTION]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE   -  FOUR PRACTICAL REASONS FOR WATCHING AND PRAYING [_DwOqQx7TJ4]|SUNDAY SERVICE   -  FOUR PRACTICAL REASONS FOR WATCHING AND PRAYING]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE   -  HUMBLE YOURSELF [7oPKE6eyguc]|SUNDAY SERVICE   -  HUMBLE YOURSELF]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE   -  MISTAKES THAT WE MAKE IN PRAYER [UxMdpD0FelI]|SUNDAY SERVICE   -  MISTAKES THAT WE MAKE IN PRAYER]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE   -  QUALITIES NEEDED FOR WATCHING AND PRAYING [W-z0MDEAsvQ]|SUNDAY SERVICE   -  QUALITIES NEEDED FOR WATCHING AND PRAYING]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE   - PRAYER PROMISES OF JESUS CHRIST PART 1 [rTsPGHAnGcc]|SUNDAY SERVICE   - PRAYER PROMISES OF JESUS CHRIST PART 1]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE   - THE WIDOW'S PRAYER [-1I7WtzX-mE]|SUNDAY SERVICE   - THE WIDOW'S PRAYER]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE   15 POWERFUL EFFECTS OF THE ANOINTING [fumpNK-QaIw]|SUNDAY SERVICE   15 POWERFUL EFFECTS OF THE ANOINTING]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE   TOTAL COMMITMENT [s33tdQxVCXg]|SUNDAY SERVICE   TOTAL COMMITMENT]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE   WHY YOU SHOULD NOT PERISH IN THE LAKE OF FIRE [_UHJswskVX8]|SUNDAY SERVICE   WHY YOU SHOULD NOT PERISH IN THE LAKE OF FIRE]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  -  HUMBLING OURSELVES IN PRAYER [zbB6DotmESI]|SUNDAY SERVICE  -  HUMBLING OURSELVES IN PRAYER]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  -  INTRODUCTION TO PRAYER [yMvkmhPjBSw]|SUNDAY SERVICE  -  INTRODUCTION TO PRAYER]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  -  MISTAKES THAT WE MAKE IN PRAYER [KF7mSP3QLCc]|SUNDAY SERVICE  -  MISTAKES THAT WE MAKE IN PRAYER]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  -  PRAYER MISTAKES PART 2 190114 ENCOUNTER SERVICE [_N12fan9xBk]|SUNDAY SERVICE  -  PRAYER MISTAKES PART 2 190114 ENCOUNTER SERVICE]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  -  PRAYER PROMISES OF JESUS CHRIST PART 2 090214 IMPACT SERVICE [zqQgLwtllTE]|SUNDAY SERVICE  -  PRAYER PROMISES OF JESUS CHRIST PART 2 090214 IMPACT SERVICE]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  -  SOME PRAYER MISTAKES [w1KLT6BRBps]|SUNDAY SERVICE  -  SOME PRAYER MISTAKES]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  -  THE PARABLE OF THE WIDOW AND THE UNJUST MAN [H8IQrH4dZFM]|SUNDAY SERVICE  -  THE PARABLE OF THE WIDOW AND THE UNJUST MAN]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  -  THE TEST OF EASTER [27E3Dfip-7c]|SUNDAY SERVICE  -  THE TEST OF EASTER]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  -  WATCH AND PRAY [NQOssEDhI5Y]|SUNDAY SERVICE  -  WATCH AND PRAY]]
-- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  - THE MYSTERY OF PRAYER 06 01 13  INSPIRATION SERV [7E7ZxYdyT1k]|SUNDAY SERVICE  - THE MYSTERY OF PRAYER 06 01 13  INSPIRATION SERV]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  -  YOU CAN NOT BE A CHRISTIAN WITHOUT THE HOLY SPIRIT [sgb8MOLoNRw]|SUNDAY SERVICE  -  YOU CAN NOT BE A CHRISTIAN WITHOUT THE HOLY SPIRIT]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  - HUMBLE YOURSELF ALWAYS PART 2 [TuwGxVSZjls]|SUNDAY SERVICE  - HUMBLE YOURSELF ALWAYS PART 2]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  - THE HOLY SPIRIT CONVICTS YOU AND HELPS YOU TO BE A GOOD CHRISTIAN [t0NVxYsretU]|SUNDAY SERVICE  - THE HOLY SPIRIT CONVICTS YOU AND HELPS YOU TO BE A GOOD CHRISTIAN]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  - THE PRAYER OF THE HUMBLE [fTA9m3afUQA]|SUNDAY SERVICE  - THE PRAYER OF THE HUMBLE]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  - THE WORK OF THE HOLY SPIRIT [ydrPskWVjoc]|SUNDAY SERVICE  - THE WORK OF THE HOLY SPIRIT]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  - THOU ANOINTEST MY HEAD WITH OIL [8AF235gzj_o]|SUNDAY SERVICE  - THOU ANOINTEST MY HEAD WITH OIL]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  3 THINGS THE NEW CREATION MUST DO [8gXNoJqSDBM]|SUNDAY SERVICE  3 THINGS THE NEW CREATION MUST DO]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  SACRIFICING FOR JESUS CHRIST [y_68MeKB3Is]|SUNDAY SERVICE  SACRIFICING FOR JESUS CHRIST]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  SUPERNATURAL HELP [EQWn6bu9Cu4]|SUNDAY SERVICE  SUPERNATURAL HELP]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE  THE NEW CREATION [WPAaxWcpqYU]|SUNDAY SERVICE  THE NEW CREATION]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE -  PRAYER MISTAKES 120114 ENCOUNTER SERVICE 2 [iEbMWebReyk]|SUNDAY SERVICE -  PRAYER MISTAKES 120114 ENCOUNTER SERVICE 2]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE -  PRAYER PROMISES PART 3 090214 ENCOUNTER SERVICE [UeJLCaC-rWY]|SUNDAY SERVICE -  PRAYER PROMISES PART 3 090214 ENCOUNTER SERVICE]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE - 7 REASONS WHY YOU MUST NOT BE SURPRISED TO BE BORN AGAIN [wMTF7l-12SM]|SUNDAY SERVICE - 7 REASONS WHY YOU MUST NOT BE SURPRISED TO BE BORN AGAIN]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE - PRAYER PROMISES PART 2 [_NZPwS5B-ME]|SUNDAY SERVICE - PRAYER PROMISES PART 2]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE - PREDICT THE FUTURE IN A GENERAL WAY [NsDLx62FBi4]|SUNDAY SERVICE - PREDICT THE FUTURE IN A GENERAL WAY]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE - SPIRITUAL ATTACKS [5MHuTLdK5w8]|SUNDAY SERVICE - SPIRITUAL ATTACKS]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE - WATCH AND PRAY ALWAYS [8dDupmON1Uw]|SUNDAY SERVICE - WATCH AND PRAY ALWAYS]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE 1999 - 9 DIFFERENT WAYS JESUS MINISTERED [5qX4w9ChlVE]|SUNDAY SERVICE 1999 - 9 DIFFERENT WAYS JESUS MINISTERED]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE 1999 - BEING A PERPETUAL VISITOR TO THE CHURCH [lQrZA6wOU5E]|SUNDAY SERVICE 1999 - BEING A PERPETUAL VISITOR TO THE CHURCH]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE 1999 - DAUGHTER COUNT YOUR BLESSINGS [-QfXihLgmRM]|SUNDAY SERVICE 1999 - DAUGHTER COUNT YOUR BLESSINGS]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE 1999 - REASONS WHY GOD DOES NOT HEAL EVERYONE [_bs0UaQsnOE]|SUNDAY SERVICE 1999 - REASONS WHY GOD DOES NOT HEAL EVERYONE]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE 2000 - A PRAYER OF FAITH [9od0dqHkw1E]|SUNDAY SERVICE 2000 - A PRAYER OF FAITH]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE 2000 - HOW TO OVERCOME IMPOSSIBLE SITUATIONS [BnJv9LKkVVA]|SUNDAY SERVICE 2000 - HOW TO OVERCOME IMPOSSIBLE SITUATIONS]]
 - [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE 2000 - PRAYER OF CONSECRATION [qkN2atUv5KM]|SUNDAY SERVICE 2000 - PRAYER OF CONSECRATION]]
-- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE 2000 - PRAYER OF INTERCESSION [5lnevWhImbU]|SUNDAY SERVICE 2000 - PRAYER OF INTERCESSION]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE 2000 - REDEEMING THE TIME [inAIK8ycw6U]|SUNDAY SERVICE 2000 - REDEEMING THE TIME]]
+- [[Messages/YouTube/DagHewardMillsvideos/SUNDAY SERVICE 2000 - THE GREATEST BARRIER TO RECEIVING FROM THE SUPERNATURAL [XXBg07HqIrs]|SUNDAY SERVICE 2000 - THE GREATEST BARRIER TO RECEIVING FROM THE SUPERNATURAL]]
+- [[Messages/YouTube/DagHewardMillsvideos/Satan Wants to Destroy Your Faith – But THIS Is Why You Must Keep It! 🔥👀  Dag Heward-Mills [PlG-aCcrLnc]|Satan Wants to Destroy Your Faith – But THIS Is Why You Must Keep It! 🔥👀  Dag Heward-Mills]]
 - [[Messages/YouTube/DagHewardMillsvideos/Seed Time And Harvest - Part 7 Seed Of Prayer  Dag Heward-Mills [JY-R1rEryhc]|Seed Time And Harvest - Part 7 Seed Of Prayer  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/Seed Time and Harvest  Dag Heward-Mills [Ah510-mU8no]|Seed Time and Harvest  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/Steps Of Destiny  Dag Heward-Mills [_qmPNB6VN1A]|Steps Of Destiny  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/THE AGE FACTOR IN MINISTRY  THE QODESH CITY CHURCH  Dag HEWARD-MILLS [Ih_JFNlAQpQ]|THE AGE FACTOR IN MINISTRY  THE QODESH CITY CHURCH  Dag HEWARD-MILLS]]
+- [[Messages/YouTube/DagHewardMillsvideos/THE ANOINTING OF THE HOLY SPIRIT (RECEIVING THE WORD OF GOD)  DAG HEWARD-MILLS [jwuf9JLSQ-U]|THE ANOINTING OF THE HOLY SPIRIT (RECEIVING THE WORD OF GOD)  DAG HEWARD-MILLS]]
 - [[Messages/YouTube/DagHewardMillsvideos/TSALACH NIGHT - Your Prophetic Prayers for 2024 !! [X7K0Nm30eSA]|TSALACH NIGHT - Your Prophetic Prayers for 2024 !!]]
+- [[Messages/YouTube/DagHewardMillsvideos/TUESDAY SERVICE  - DUNAMIS ANOINTING [Ykhpp11y6N0]|TUESDAY SERVICE  - DUNAMIS ANOINTING]]
+- [[Messages/YouTube/DagHewardMillsvideos/TUESDAY SERVICE - A LION IN KANESHIE [BecrGoV3Gd8]|TUESDAY SERVICE - A LION IN KANESHIE]]
+- [[Messages/YouTube/DagHewardMillsvideos/TUESDAY SERVICE - CHRIST AS A MAN OF ANOINTING AND MIRACLES [WLVpF_ht0Tk]|TUESDAY SERVICE - CHRIST AS A MAN OF ANOINTING AND MIRACLES]]
+- [[Messages/YouTube/DagHewardMillsvideos/TUESDAY SERVICE - CHRIST AS A MAN WHO CONFRONTED DEMONS [AoX6fOIg70A]|TUESDAY SERVICE - CHRIST AS A MAN WHO CONFRONTED DEMONS]]
+- [[Messages/YouTube/DagHewardMillsvideos/TUESDAY SERVICE - DO IT YOURSELF [-lwfq2J07SE]|TUESDAY SERVICE - DO IT YOURSELF]]
+- [[Messages/YouTube/DagHewardMillsvideos/TUESDAY SERVICE - JOSEPH AS A MAN OF VISIONS [cYIHCdZjwTU]|TUESDAY SERVICE - JOSEPH AS A MAN OF VISIONS]]
 - [[Messages/YouTube/DagHewardMillsvideos/TUESDAY SERVICE - PRAYING FOR KINGS [_9EIlNTGOHk]|TUESDAY SERVICE - PRAYING FOR KINGS]]
 - [[Messages/YouTube/DagHewardMillsvideos/TUESDAY SERVICE - PRAYING FOR SINNERS [MCK9mbe6Tl4]|TUESDAY SERVICE - PRAYING FOR SINNERS]]
-- [[Messages/YouTube/DagHewardMillsvideos/TUESDAY SERVICE - PRAYING IN THE SPIRIT [KHrare34S-Q]|TUESDAY SERVICE - PRAYING IN THE SPIRIT]]
-- [[Messages/YouTube/DagHewardMillsvideos/TUESDAY SERVICE - PRAYING IN TONGUES [kK63xcoInA8]|TUESDAY SERVICE - PRAYING IN TONGUES]]
+- [[Messages/YouTube/DagHewardMillsvideos/TUESDAY SERVICE - PSALM 65 [sbYZnYLUh5w]|TUESDAY SERVICE - PSALM 65]]
+- [[Messages/YouTube/DagHewardMillsvideos/TUESDAY SERVICE - SIGNS OF AN EVIL CONGREGATION [ajnT3wfQrdM]|TUESDAY SERVICE - SIGNS OF AN EVIL CONGREGATION]]
+- [[Messages/YouTube/DagHewardMillsvideos/TUESDAY SERVICE - THE HOLY SPIRIT [kU-j6W6CVt0]|TUESDAY SERVICE - THE HOLY SPIRIT]]
 - [[Messages/YouTube/DagHewardMillsvideos/TYPES OF PRAYERS [TdQ-2TS1Grk]|TYPES OF PRAYERS]]
+- [[Messages/YouTube/DagHewardMillsvideos/Taste Of Resurrection Life  Resurrection Sunday  Dag Heward-Mills [KiACN84Pu5I]|Taste Of Resurrection Life  Resurrection Sunday  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/The 4 Keys to Building a Glorious Church  Dag Heward-Mills [GdP1W31_lSc]|The 4 Keys to Building a Glorious Church  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/The Anointing You’ll Never Receive Until You’re Corrected  Dag Heward-Mills [iyxWDFNW9ys]|The Anointing You’ll Never Receive Until You’re Corrected  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/The Burden Of Love - Part 3  Dag Heward-Mills [77wNrDhBruE]|The Burden Of Love - Part 3  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/The Hidden Man - Part 2 Principles Of The New Creation  The eXperience Service [b5NCryeD6hY]|The Hidden Man - Part 2 Principles Of The New Creation  The eXperience Service]]
+- [[Messages/YouTube/DagHewardMillsvideos/The Hidden Ways Satan Attacks Believers  Dag Heward-Mills [ZUIk9EO4ROY]|The Hidden Ways Satan Attacks Believers  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/The Kingly Anointing  Dag Heward-Mills [SSyH3NTsBcQ]|The Kingly Anointing  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/The Secret Of Fruitfulness  Dag Heward-Mills [hnJgik6xfM4]|The Secret Of Fruitfulness  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/The Story of The Cross   GOOD FRIDAY MIRACLE SERVICE 2025  DAG HEWARD-MILLS [eXhsQxs7-6E]|The Story of The Cross   GOOD FRIDAY MIRACLE SERVICE 2025  DAG HEWARD-MILLS]]
 - [[Messages/YouTube/DagHewardMillsvideos/This Prayer is Changing the Nation of Ghana  Dag Heward-Mills Full Prayer at National Day of Prayer [t5DQLR-1cMU]|This Prayer is Changing the Nation of Ghana  Dag Heward-Mills Full Prayer at National Day of Prayer]]
-- [[Messages/YouTube/DagHewardMillsvideos/UNQUENCHABLE FIRE SERVICE -  FERVANT PRAYER [0bEurLkCiTo]|UNQUENCHABLE FIRE SERVICE -  FERVANT PRAYER]]
+- [[Messages/YouTube/DagHewardMillsvideos/Those Who Forget  ​⁠​​⁠​@cityharvestsg  Singapore  Dag Heward-Mills [I8xXgYTNXEM]|Those Who Forget  ​⁠​​⁠​@cityharvestsg  Singapore  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/UNQUENCHABLE FIRE SERVICE - PROTON [rRKvO4CC5Mo]|UNQUENCHABLE FIRE SERVICE - PROTON]]
+- [[Messages/YouTube/DagHewardMillsvideos/UNQUENCHABLE FIRE SERVICE JUNE 2009 - PSALM 139 [sbr8mldzocA]|UNQUENCHABLE FIRE SERVICE JUNE 2009 - PSALM 139]]
+- [[Messages/YouTube/DagHewardMillsvideos/Understanding The Will Of God  FLOW Church  Dag Heward-Mills [Mn324XGh0ls]|Understanding The Will Of God  FLOW Church  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/What Comes Next After Receiving A Specific Anointing  FLOW Church  Dag Heward-Mills [jqK0XIL11vM]|What Comes Next After Receiving A Specific Anointing  FLOW Church  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/When I Sent You, Did You Lack Anything  Dag Heward-Mills [apxsI7sjC7M]|When I Sent You, Did You Lack Anything  Dag Heward-Mills]]
+- [[Messages/YouTube/DagHewardMillsvideos/Why The Church Concerns You  The Experience Service  Dag Heward-Mills [LSkhbj-vRH4]|Why The Church Concerns You  The Experience Service  Dag Heward-Mills]]
 - [[Messages/YouTube/DagHewardMillsvideos/Why You Should Not Kiss A Prayerful Person  Dag Heward-Mills  Seed Of Prayer [CwF11mj1bNc]|Why You Should Not Kiss A Prayerful Person  Dag Heward-Mills  Seed Of Prayer]]
+- [[Messages/YouTube/DagHewardMillsvideos/Wound Healing - Part 2  Dag Heward-Mills [-bMavbTrCqk]|Wound Healing - Part 2  Dag Heward-Mills]]
 - [[Messages/YouTube/DagHewardMillsvideos/YOU SHALL FIND IN 2023 Prayers for 2023 Dag Heward-Mills [mnH05UBOZ6o]|YOU SHALL FIND IN 2023 Prayers for 2023 Dag Heward-Mills]]
 
-### Messages / YouTube / DagbooksChannel
+#### Messages / YouTube / DagbooksChannel
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 08    WHAT IS A MANIFESTATION OF THE HOLY SPIRIT  ACCRA, GHANA  2017|CHAPTER 08    WHAT IS A MANIFESTATION OF THE HOLY SPIRIT  ACCRA, GHANA  2017]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 1  MINISTRIAL BARRENNESS  PARIS, FRANCE  2018|CHAPTER 1  MINISTRIAL BARRENNESS  PARIS, FRANCE  2018]]
 - [[Messages/YouTube/DagbooksChannel/CHAPTER 12  HOW TO PRAY WITH FASTING  MAMPONG, GHANA  2017|CHAPTER 12  HOW TO PRAY WITH FASTING  MAMPONG, GHANA  2017]]
-- [[Messages/YouTube/DagbooksChannel/CHAPTER 20  HOW TO PRAY PRAYERS OF INTERCESSION  MAMPONG, ACCRA  2017|CHAPTER 20  HOW TO PRAY PRAYERS OF INTERCESSION  MAMPONG, ACCRA  2017]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 12  THE QUALITIES YOU NEED  ACCRA, GHANA  2014|CHAPTER 12  THE QUALITIES YOU NEED  ACCRA, GHANA  2014]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 15  THE SWEET INFLUENCES OF THE HOLY SPIRIT ON YOUR WORDS  MAMPONG, GHANA  2012|CHAPTER 15  THE SWEET INFLUENCES OF THE HOLY SPIRIT ON YOUR WORDS  MAMPONG, GHANA  2012]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 16   WHY GOD HEALS PEOPLE TODAY  SOUL, KOREA  2011|CHAPTER 16   WHY GOD HEALS PEOPLE TODAY  SOUL, KOREA  2011]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 16  HELP THE PEOPLE AROUND YOU TO ACCOMPLISH GREAT THINGS WITH THEIR LIVES  ACCRA, GHANA|CHAPTER 16  HELP THE PEOPLE AROUND YOU TO ACCOMPLISH GREAT THINGS WITH THEIR LIVES  ACCRA, GHANA]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 2  HOW TO BE HUMBLE LIKE A CHILD  ETHOPIA , ADDIS ADADA  2025|CHAPTER 2  HOW TO BE HUMBLE LIKE A CHILD  ETHOPIA , ADDIS ADADA  2025]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 2  SIX REASONS WHY IT IS IMPORTANT TO REMEMBER  BO, SIERRA LEONE  2013|CHAPTER 2  SIX REASONS WHY IT IS IMPORTANT TO REMEMBER  BO, SIERRA LEONE  2013]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 22  10 REASONS WHY TITHING DOES NOT WORK FOR SOME PEOPLE  DURBAN, SOUTH AFRICA  2015|CHAPTER 22  10 REASONS WHY TITHING DOES NOT WORK FOR SOME PEOPLE  DURBAN, SOUTH AFRICA  2015]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 22 FEW ARE CHOSEN BECAUSE THEY ARE CHOKED  ACCRA, GHANA  2019|CHAPTER 22 FEW ARE CHOSEN BECAUSE THEY ARE CHOKED  ACCRA, GHANA  2019]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 25  THE SWEET INFLUENCES OF THE HOLY SPIRIT ON YOUR ACCOMPLISHMENTS  MAMPONG, GHANA  2012|CHAPTER 25  THE SWEET INFLUENCES OF THE HOLY SPIRIT ON YOUR ACCOMPLISHMENTS  MAMPONG, GHANA  2012]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 3  A GOOD GENERAL WILL FIGHT A GOOD FIGHT  ACCRA, GHANA  2023|CHAPTER 3  A GOOD GENERAL WILL FIGHT A GOOD FIGHT  ACCRA, GHANA  2023]]
 - [[Messages/YouTube/DagbooksChannel/CHAPTER 3  HOW TO PRAY FOR THE HOLY SPIRIT  MAMPONG, GHANA  2017|CHAPTER 3  HOW TO PRAY FOR THE HOLY SPIRIT  MAMPONG, GHANA  2017]]
-- [[Messages/YouTube/DagbooksChannel/CHAPTER 5  HOW YOU CAN BE HELPED BY PRAYING IN TOUNGES  ACCRA, GHANA  2013|CHAPTER 5  HOW YOU CAN BE HELPED BY PRAYING IN TOUNGES  ACCRA, GHANA  2013]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 3  THE ART OF SOAKING IN TAPES|CHAPTER 3  THE ART OF SOAKING IN TAPES]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 3  WHAT IT MEANS TO BE A NEW CREATION  ACCRA, GHANA  2008|CHAPTER 3  WHAT IT MEANS TO BE A NEW CREATION  ACCRA, GHANA  2008]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 3  WHY THERE ARE SO MANY PEOPLE IN THE IMPERFECT WILL OF GOD  LONDON, UK  2011|CHAPTER 3  WHY THERE ARE SO MANY PEOPLE IN THE IMPERFECT WILL OF GOD  LONDON, UK  2011]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 4  CLAIM IT!  ACCRA, GHANA  1999|CHAPTER 4  CLAIM IT!  ACCRA, GHANA  1999]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 5  CATCH AN ANOINTING  ACCRA, GHANA  2009|CHAPTER 5  CATCH AN ANOINTING  ACCRA, GHANA  2009]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 5  SEVEN STEPS TO THE ANOINTING IN THE WILDERNESS  PARIS, FRANCE  2025|CHAPTER 5  SEVEN STEPS TO THE ANOINTING IN THE WILDERNESS  PARIS, FRANCE  2025]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 51  IDENTIFY DANGEROUS ENEMIES AND DECLARE WAR ON THEM ACCRA, GHANA  2023|CHAPTER 51  IDENTIFY DANGEROUS ENEMIES AND DECLARE WAR ON THEM ACCRA, GHANA  2023]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 53  A GOOD GENERAL KNOWS HOW TO OVERCOME SUPERIOR ENEMIES AND STALEMATESACCRA, GHANA 2023|CHAPTER 53  A GOOD GENERAL KNOWS HOW TO OVERCOME SUPERIOR ENEMIES AND STALEMATESACCRA, GHANA 2023]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 6  THE RICH MAN IN HELL  BOHICON, BENIN  2014|CHAPTER 6  THE RICH MAN IN HELL  BOHICON, BENIN  2014]]
 - [[Messages/YouTube/DagbooksChannel/CHAPTER 6  THE THREE GREATEST PRAYER TOPICS  ACCRA, GHANA  2014|CHAPTER 6  THE THREE GREATEST PRAYER TOPICS  ACCRA, GHANA  2014]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 6 SEVEN GREAT PRINCIPLES ON SPIRITUAL GROWTH  ACCRA, GHANA  2025|CHAPTER 6 SEVEN GREAT PRINCIPLES ON SPIRITUAL GROWTH  ACCRA, GHANA  2025]]
 - [[Messages/YouTube/DagbooksChannel/CHAPTER 7  HOW TO PRAY WITH ALL KINDS OF PRAYER  ACCRA, GHANA  2000|CHAPTER 7  HOW TO PRAY WITH ALL KINDS OF PRAYER  ACCRA, GHANA  2000]]
+- [[Messages/YouTube/DagbooksChannel/CHAPTER 7  READY@20 TO SERVE  STEVENAGE, UNITED KINGDOM  2016|CHAPTER 7  READY@20 TO SERVE  STEVENAGE, UNITED KINGDOM  2016]]
 - [[Messages/YouTube/DagbooksChannel/CHAPTER 8  FOUR PRAYERS OF CONFESSION  ACCRA, GHANA  1999|CHAPTER 8  FOUR PRAYERS OF CONFESSION  ACCRA, GHANA  1999]]
-- [[Messages/YouTube/DagbooksChannel/CHAPTER 9  TWELVE STEPS TO 100 PERCENT ANSWERED PRAYERS  ACCRA, GHANA  2014|CHAPTER 9  TWELVE STEPS TO 100 PERCENT ANSWERED PRAYERS  ACCRA, GHANA  2014]]
+- [[Messages/YouTube/DagbooksChannel/Chapter 15   Ten Reasons Why People do not use their Talents Niamey|Chapter 15   Ten Reasons Why People do not use their Talents Niamey]]
+- [[Messages/YouTube/DagbooksChannel/SALVATION MESSAGE 21  CHRIST THE JUDGE  DA ER SALAAM, TANZANIA  2018|SALVATION MESSAGE 21  CHRIST THE JUDGE  DA ER SALAAM, TANZANIA  2018]]
+- [[Messages/YouTube/DagbooksChannel/SALVATION MESSAGE 6  WHY GOD SENT HIS SON  DROBO, GHANA  2019|SALVATION MESSAGE 6  WHY GOD SENT HIS SON  DROBO, GHANA  2019]]
+
+#### Messages / YouTube / DhmmInternationalMinistry
+- [[Messages/YouTube/DhmmInternationalMinistry/MANY ARE CALLED CALVARY CHURCH MALAYSIA, KUALA LUMPUR 2025 DAG HEWARD-MILLS|MANY ARE CALLED CALVARY CHURCH MALAYSIA, KUALA LUMPUR 2025 DAG HEWARD-MILLS]]
+
+#### FLOW / Church Services
+- [[FLOW/Church Services/GOOD TIMES AND SEASONS PART 2 FLOW SUNDAY SERVICE 2023 DAG HEWARD-MILLS [c43544269d6871419b10159d9d4e7ae57e0dcd7d]|GOOD TIMES AND SEASONS PART 2 FLOW SUNDAY SERVICE 2023 DAG HEWARD-MILLS]]
+- [[FLOW/Church Services/HOW TO PERFECT YOUR MINISTRY FLOW SUNDAY SERVICE 2025 DAG HEWARD-MILLS [a59fff9b17835ffe7ea9b5c020a067035cc8ae57]|HOW TO PERFECT YOUR MINISTRY FLOW SUNDAY SERVICE 2025 DAG HEWARD-MILLS]]
+- [[FLOW/Church Services/HOW YOU CAN ACHIEVE EXCELLENCE IN MINISTRY (P.V.C.I) FLOW SUNDAY SERVICE 2020 DAG HEWARD-MILLS [689c734da789cc0ca07e31a1338cbe213ecc63f2]|HOW YOU CAN ACHIEVE EXCELLENCE IN MINISTRY (P.V.C.I) FLOW SUNDAY SERVICE 2020 DAG HEWARD-MILLS]]
+- [[FLOW/Church Services/PATIENCE OF THE SAINTS FLOW SUNDAY SERVICE 2023 DAG HEWARD-MILLS [0430b5bd63a1444a10f04d81437fe2e3524d6dcf]|PATIENCE OF THE SAINTS FLOW SUNDAY SERVICE 2023 DAG HEWARD-MILLS]]
+- [[FLOW/Church Services/SAYING THANK YOU FLOW SUNDAY SERVICE SUNDAY 28 DECEMBER 2025 DAG HEWARD-MILLS [95a71b68290524afbea85e3e872eaf1243d1d955]|SAYING THANK YOU FLOW SUNDAY SERVICE SUNDAY 28 DECEMBER 2025 DAG HEWARD-MILLS]]
+- [[FLOW/Church Services/THE DARKNESS OF THE SEED FLOW SUNDAY SERVICE APRIL 2022 DAG HEWARD-MILLS [3892533bae0c0229c03f788271457f0823407217]|THE DARKNESS OF THE SEED FLOW SUNDAY SERVICE APRIL 2022 DAG HEWARD-MILLS]]
+- [[FLOW/Church Services/THE PRINCIPLE OF MAXIMIZED SUNDAY USAGE FLOW SUNDAY SERVICE 2023 DAG HEWARD-MILLS [99c707ede3576cb8a9f2bf0507196a3f1d7f5401]|THE PRINCIPLE OF MAXIMIZED SUNDAY USAGE FLOW SUNDAY SERVICE 2023 DAG HEWARD-MILLS]]
+- [[FLOW/Church Services/WOUND HEALING FLOW SUNDAY SERVICE 2022 DAG HEWARD-MILLS [7a219795c6f7b79c5544b622a478e505e0ce82b3]|WOUND HEALING FLOW SUNDAY SERVICE 2022 DAG HEWARD-MILLS]]
+
+#### Books — 005 Those Who Leave You
+- [[Books/005 Those Who Leave You/13 Chapter 12|13 Chapter 12]]
+
+#### Books — 008 Church Planting
+- [[Books/008 Church Planting/21 Chapter 20 - How to Plant a Church|21 Chapter 20 - How to Plant a Church]]
+
+#### Books — 009 Church Growth It Is Possible
+- [[Books/009 Church Growth It Is Possible/25 Chapter 24 - The Art of Waiting On God|25 Chapter 24 - The Art of Waiting On God]]
+
+#### Books — 010 The Megachurch 2Nd Ed
+- [[Books/010 The Megachurch 2Nd Ed/02 Chapter 1 - TwentyFive Reasons Why You Must Have a Mega Church|02 Chapter 1 - TwentyFive Reasons Why You Must Have a Mega Church]]
+- [[Books/010 The Megachurch 2Nd Ed/08 Chapter 7 - How to Start a Church|08 Chapter 7 - How to Start a Church]]
+- [[Books/010 The Megachurch 2Nd Ed/14 Chapter 13 - Principles for Church Growth|14 Chapter 13 - Principles for Church Growth]]
+
+#### Books — 011 Amplify Your Ministry
+- [[Books/011 Amplify Your Ministry/04 Chapter 3 - What Every Minister Should Know about Supernatural Things|04 Chapter 3 - What Every Minister Should Know about Supernatural Things]]
+- [[Books/011 Amplify Your Ministry/06 Chapter 5 - The Four Laws of Miracles and Manifestations|06 Chapter 5 - The Four Laws of Miracles and Manifestations]]
+- [[Books/011 Amplify Your Ministry/07 Chapter 6 - How You Can Be Anointed for Miracles and Manifestations|07 Chapter 6 - How You Can Be Anointed for Miracles and Manifestations]]
+- [[Books/011 Amplify Your Ministry/20 Chapter 19 - Seven Characteristics of the Healing Anointing|20 Chapter 19 - Seven Characteristics of the Healing Anointing]]
+
+#### Books — 013 Steps To The Anointing
+- [[Books/013 Steps To The Anointing/07 Chapter 6 - Steps to the Anointing in the House of Cornelius|07 Chapter 6 - Steps to the Anointing in the House of Cornelius]]
+- [[Books/013 Steps To The Anointing/10 Chapter 9 - Seven Steps to the Anointing in Your Own Company|10 Chapter 9 - Seven Steps to the Anointing in Your Own Company]]
+
+#### Books — 014 Sweet Influences Of The Anointing
+- [[Books/014 Sweet Influences Of The Anointing/32 Chapter 31|32 Chapter 31]]
+
+#### Books — 017 Transform Your Pastoral Ministry
+- [[Books/017 Transform Your Pastoral Ministry/08 Chapter 7 - Six Reasons for Praying Strategic Bible Prayers|08 Chapter 7 - Six Reasons for Praying Strategic Bible Prayers]]
+- [[Books/017 Transform Your Pastoral Ministry/09 Chapter 8 - Seven Examples of Praying Fervently|09 Chapter 8 - Seven Examples of Praying Fervently]]
+- [[Books/017 Transform Your Pastoral Ministry/10 Chapter 9 - Seven Signs of Fervent Prayer|10 Chapter 9 - Seven Signs of Fervent Prayer]]
+- [[Books/017 Transform Your Pastoral Ministry/11 Chapter 10 - Nine Steps to Praying for a Long Time|11 Chapter 10 - Nine Steps to Praying for a Long Time]]
+
+#### Books — 019 What It Means To Become A Shepherd
+- [[Books/019 What It Means To Become A Shepherd/11 Chapter 10 - The Ministry Work or Rest|11 Chapter 10 - The Ministry Work or Rest]]
+
+#### Books — 020 The Art Of Following
+- [[Books/020 The Art Of Following/16 CHAPTER 15 - The Art of Following Daniel|16 CHAPTER 15 - The Art of Following Daniel]]
+
+#### Books — 021 The Art Of Hearing How To Be In The Perfect Will Of God 2Nd Ed
+- [[Books/021 The Art Of Hearing How To Be In The Perfect Will Of God 2Nd Ed/06 Chapter 5 - Be Filled with the Knowledge of His Will|06 Chapter 5 - Be Filled with the Knowledge of His Will]]
+
+#### Books — 025 Others
+- [[Books/025 Others/15 Chapter 14 - Job Was Healed Because He Prayed for “OTHERS”|15 Chapter 14 - Job Was Healed Because He Prayed for “OTHERS”]]
+
+#### Books — 026 Tell Them 120 Reasons Why You Should Be A Soul Winner
+- [[Books/026 Tell Them 120 Reasons Why You Should Be A Soul Winner/08 Chapter 6 - A Prayer and a Prophecy|08 Chapter 6 - A Prayer and a Prophecy]]
+
+#### Books — 028 What It Means To Be As Wise As A Serpent
+- [[Books/028 What It Means To Be As Wise As A Serpent/21 Chapter 21 - Masters at Working Alone|21 Chapter 21 - Masters at Working Alone]]
+
+#### Books — 030 How You Can Make Full Proof Of Your Ministry
+- [[Books/030 How You Can Make Full Proof Of Your Ministry/10 CHAPTER 9 - Seek Out the Mystery of the Will of God|10 CHAPTER 9 - Seek Out the Mystery of the Will of God]]
+
+#### Books — 041 100 Answered Prayer 2Nd Ed
+- [[Books/041 100 Answered Prayer 2Nd Ed/03 CHAPTER 2 - Praying To The Father|03 CHAPTER 2 - Praying To The Father]]
+- [[Books/041 100 Answered Prayer 2Nd Ed/06 CHAPTER 5 - Praying Amiss|06 CHAPTER 5 - Praying Amiss]]
+
+#### Books — 042 Forgiveness Made Easy 3Rd Ed
+- [[Books/042 Forgiveness Made Easy 3Rd Ed/03 CHAPTER 2 - The Lord’s Prayer Test|03 CHAPTER 2 - The Lord’s Prayer Test]]
+
+#### Books — 045 How You Can Become A Strong Christian
+- [[Books/045 How You Can Become A Strong Christian/06 Chapter 5 - How to Be a Spiritual Christian|06 Chapter 5 - How to Be a Spiritual Christian]]
+- [[Books/045 How You Can Become A Strong Christian/08 Chapter 7 - How to Become a Mature Christian|08 Chapter 7 - How to Become a Mature Christian]]
+
+#### Books — 046 How You Can Have An Effective Quiet Time With God Every Day
+- [[Books/046 How You Can Have An Effective Quiet Time With God Every Day/07 CHAPTER 6 - The Quiet Time –Powerful Effects of a Quiet Time|07 CHAPTER 6 - The Quiet Time –Powerful Effects of a Quiet Time]]
+- [[Books/046 How You Can Have An Effective Quiet Time With God Every Day/09 CHAPTER 8 - The Quiet Time – Your Chance for Daily Prayer|09 CHAPTER 8 - The Quiet Time – Your Chance for Daily Prayer]]
+
+#### Books — 047 Backsliding Develop Your Staying Power
+- [[Books/047 Backsliding Develop Your Staying Power/08 Chapter 7 - Even More Symptoms|08 Chapter 7 - Even More Symptoms]]
+
+#### Books — 051 Everything By Prayer Nothing Without Prayer
+- [[Books/051 Everything By Prayer Nothing Without Prayer/02 CHAPTER 1 - Everything by Prayer|02 CHAPTER 1 - Everything by Prayer]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/03 CHAPTER 2 - How to Pray for the Will of God|03 CHAPTER 2 - How to Pray for the Will of God]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/04 CHAPTER 3 - How to Pray for the Holy Spirit|04 CHAPTER 3 - How to Pray for the Holy Spirit]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/05 CHAPTER 4 - How to Pray Thanksgiving Prayers|05 CHAPTER 4 - How to Pray Thanksgiving Prayers]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/06 CHAPTER 5 - How to Pray from Your Heart|06 CHAPTER 5 - How to Pray from Your Heart]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/07 CHAPTER 6 - How to Pray with Forgiveness|07 CHAPTER 6 - How to Pray with Forgiveness]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/08 CHAPTER 7 - How to Pray to Defeat Devils|08 CHAPTER 7 - How to Pray to Defeat Devils]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/09 CHAPTER 8 - How to Pray Prayers of Persistence|09 CHAPTER 8 - How to Pray Prayers of Persistence]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/10 CHAPTER 9 - How to Pray with the Promises in John|10 CHAPTER 9 - How to Pray with the Promises in John]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/11 CHAPTER 10 - How to Pray in the Closet|11 CHAPTER 10 - How to Pray in the Closet]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/12 CHAPTER 11 - How to Pray Agreement Prayers|12 CHAPTER 11 - How to Pray Agreement Prayers]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/13 CHAPTER 12 - How to Pray With Fasting|13 CHAPTER 12 - How to Pray With Fasting]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/14 CHAPTER 13 - How to Pray at Dawn|14 CHAPTER 13 - How to Pray at Dawn]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/16 CHAPTER 15 - How to Pray with Faith|16 CHAPTER 15 - How to Pray with Faith]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/17 CHAPTER 16 - How to Pray and Do Greater Works|17 CHAPTER 16 - How to Pray and Do Greater Works]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/18 CHAPTER 17 - How to Pray Short Prayers|18 CHAPTER 17 - How to Pray Short Prayers]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/19 CHAPTER 18 - How to Pray Long Prayers|19 CHAPTER 18 - How to Pray Long Prayers]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/20 CHAPTER 19 - How to Pray in Different Places|20 CHAPTER 19 - How to Pray in Different Places]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/22 CHAPTER 21 - How to Pray Like a Priest|22 CHAPTER 21 - How to Pray Like a Priest]]
+- [[Books/051 Everything By Prayer Nothing Without Prayer/23 CHAPTER 22 - How to Pray for Angels to Appear|23 CHAPTER 22 - How to Pray for Angels to Appear]]
+
+#### Books — 060 Faith Secrets
+- [[Books/060 Faith Secrets/28 Chapter 27 - Faith Is Prayer and Prayer Is Faith|28 Chapter 27 - Faith Is Prayer and Prayer Is Faith]]
+
+#### Books — 070 Wisdom Is The Principal Thing For Your Ministry
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/13 CHAPTER 12 - Wisdom Will Make You Ten Times Better than the Others|13 CHAPTER 12 - Wisdom Will Make You Ten Times Better than the Others]]
+- [[Books/070 Wisdom Is The Principal Thing For Your Ministry/27 CHAPTER 26 - Wisdom Increases through Prayer|27 CHAPTER 26 - Wisdom Increases through Prayer]]
+
+#### Books — 077 Going Deeper And Doing More
+- [[Books/077 Going Deeper And Doing More/11 CHAPTER 10 - Go Deeper by the Art of Repetition|11 CHAPTER 10 - Go Deeper by the Art of Repetition]]
+
+#### Books — 079 Not A Novice
+- [[Books/079 Not A Novice/07 CHAPTER 6 - The Requirements of a Novice|07 CHAPTER 6 - The Requirements of a Novice]]
+
+#### Books — 080 Stir It Up
+- [[Books/080 Stir It Up/17 CHAPTER 16 - Stir Up Manifestations|17 CHAPTER 16 - Stir Up Manifestations]]
+
+#### Books — 081 Seeing And Hearing
+- [[Books/081 Seeing And Hearing/08 CHAPTER 7 - Seeing and Hearing Improves Prayer|08 CHAPTER 7 - Seeing and Hearing Improves Prayer]]
+
+#### Books — 085 Awake O Sleeper
+- [[Books/085 Awake O Sleeper/04 CHAPTER 3 - Inappropriate Sleep|04 CHAPTER 3 - Inappropriate Sleep]]
+
+#### Books — 086 Prayer Changes Things Prayer Secrets
+- [[Books/086 Prayer Changes Things Prayer Secrets/02 CHAPTER 1 - Prayer Changes Things|02 CHAPTER 1 - Prayer Changes Things]]
+- [[Books/086 Prayer Changes Things Prayer Secrets/03 CHAPTER 2 - Prayer is Your Great Strength|03 CHAPTER 2 - Prayer is Your Great Strength]]
+- [[Books/086 Prayer Changes Things Prayer Secrets/04 CHAPTER 3 - Mountain Prayers|04 CHAPTER 3 - Mountain Prayers]]
+- [[Books/086 Prayer Changes Things Prayer Secrets/05 CHAPTER 4 - Prayer Makes You Supernatural|05 CHAPTER 4 - Prayer Makes You Supernatural]]
+- [[Books/086 Prayer Changes Things Prayer Secrets/07 CHAPTER 6 - Prayer Secures Angelic Intervention and Participation|07 CHAPTER 6 - Prayer Secures Angelic Intervention and Participation]]
+- [[Books/086 Prayer Changes Things Prayer Secrets/08 CHAPTER 7 - Pray for Forgiveness|08 CHAPTER 7 - Pray for Forgiveness]]
+- [[Books/086 Prayer Changes Things Prayer Secrets/09 CHAPTER 8 - Four Prayers of Confession|09 CHAPTER 8 - Four Prayers of Confession]]
+- [[Books/086 Prayer Changes Things Prayer Secrets/10 CHAPTER 9 - The Blessing of Confession of Sins|10 CHAPTER 9 - The Blessing of Confession of Sins]]
+- [[Books/086 Prayer Changes Things Prayer Secrets/11 CHAPTER 10 - Pray to a Father!|11 CHAPTER 10 - Pray to a Father!]]
+
+#### Books — 089 Now We Are At War
+- [[Books/089 Now We Are At War/19 Chapter 16 - BIND STRONG MEN!|19 Chapter 16 - BIND STRONG MEN!]]
+
+#### Books — 098 Prayer Opportunities
+- [[Books/098 Prayer Opportunities/02 Chapter 1 - Prayer is an Opportunity to Show an Interest in God|02 Chapter 1 - Prayer is an Opportunity to Show an Interest in God]]
+- [[Books/098 Prayer Opportunities/03 Chapter 2 - Prayer is an Opportunity to Call on God|03 Chapter 2 - Prayer is an Opportunity to Call on God]]
+- [[Books/098 Prayer Opportunities/04 Chapter 3 - Prayer is an Opportunity to Turn Things Around|04 Chapter 3 - Prayer is an Opportunity to Turn Things Around]]
+- [[Books/098 Prayer Opportunities/05 Chapter 4 - Prayer is an Opportunity to Connect with God|05 Chapter 4 - Prayer is an Opportunity to Connect with God]]
+- [[Books/098 Prayer Opportunities/06 Chapter 5 - Prayer is an Opportunity to Exercise Your Faith|06 Chapter 5 - Prayer is an Opportunity to Exercise Your Faith]]
+- [[Books/098 Prayer Opportunities/07 Chapter 6 - Prayer is an Opportunity to Please God Intensely|07 Chapter 6 - Prayer is an Opportunity to Please God Intensely]]
+- [[Books/098 Prayer Opportunities/08 Chapter 7 - Prayer is an Opportunity to Fight back|08 Chapter 7 - Prayer is an Opportunity to Fight back]]
+- [[Books/098 Prayer Opportunities/09 Chapter 8 - Prayer is an Opportunity to Minister to God|09 Chapter 8 - Prayer is an Opportunity to Minister to God]]
+- [[Books/098 Prayer Opportunities/10 Chapter 9 - Prayer is an Opportunity to Become Anointed|10 Chapter 9 - Prayer is an Opportunity to Become Anointed]]
+- [[Books/098 Prayer Opportunities/12 Chapter 11 - Prayer is an Opportunity to Dedicate Yourself to God|12 Chapter 11 - Prayer is an Opportunity to Dedicate Yourself to God]]
+- [[Books/098 Prayer Opportunities/13 Chapter 12 - Prayer is an Opportunity to Strengthen Yourself|13 Chapter 12 - Prayer is an Opportunity to Strengthen Yourself]]
+- [[Books/098 Prayer Opportunities/14 Chapter 13 - Prayer is an Opportunity to Work for God|14 Chapter 13 - Prayer is an Opportunity to Work for God]]
+- [[Books/098 Prayer Opportunities/15 Chapter 14 - Prayer is an Opportunity to become Strong|15 Chapter 14 - Prayer is an Opportunity to become Strong]]
+- [[Books/098 Prayer Opportunities/17 Chapter 16 - Prayer is an Opportunity to Make Requests|17 Chapter 16 - Prayer is an Opportunity to Make Requests]]
+- [[Books/098 Prayer Opportunities/18 Chapter 17 - Prayer is an Opportunity to Follow Jesus|18 Chapter 17 - Prayer is an Opportunity to Follow Jesus]]
+
+#### Books — 100 Spiritual Dangers
+- [[Books/100 Spiritual Dangers/06 Chapter 5 - Spiritual Keys to Avoiding Fornication|06 Chapter 5 - Spiritual Keys to Avoiding Fornication]]
+
+#### Books — 110 Name It Claim It Take It
+- [[Books/110 Name It Claim It Take It/29 Chapter 27 - Confessions for Improving Yourself in Prayer|29 Chapter 27 - Confessions for Improving Yourself in Prayer]]
+
+#### Books — 111 How To Pray
+- [[Books/111 How To Pray/02 Chapter 1|02 Chapter 1]]
+- [[Books/111 How To Pray/03 Chapter 2 - Why Prayer is Mysterious|03 Chapter 2 - Why Prayer is Mysterious]]
+- [[Books/111 How To Pray/04 Chapter 3 - What Happens When You Do Not Pray|04 Chapter 3 - What Happens When You Do Not Pray]]
+- [[Books/111 How To Pray/05 Chapter 4 - How to Talk to a Great Person|05 Chapter 4 - How to Talk to a Great Person]]
+- [[Books/111 How To Pray/07 Chapter 6 - The Three Greatest Prayer Topics|07 Chapter 6 - The Three Greatest Prayer Topics]]
+- [[Books/111 How To Pray/09 Chapter 8 - Does God Answer All Our Prayers|09 Chapter 8 - Does God Answer All Our Prayers]]
+
+#### Books — 115 Read Your Bible Pray Everyday If You Want To Grow
+- [[Books/115 Read Your Bible Pray Everyday If You Want To Grow/10 CHAPTER 9 - Pray Every Day Why People Do Not Pray Every Day|10 CHAPTER 9 - Pray Every Day Why People Do Not Pray Every Day]]
+- [[Books/115 Read Your Bible Pray Everyday If You Want To Grow/11 CHAPTER 10 - Pray Every Day The Key of Watching and Praying|11 CHAPTER 10 - Pray Every Day The Key of Watching and Praying]]
+- [[Books/115 Read Your Bible Pray Everyday If You Want To Grow/12 CHAPTER 11 - Pray Every Day How to Watch and Pray|12 CHAPTER 11 - Pray Every Day How to Watch and Pray]]
+- [[Books/115 Read Your Bible Pray Everyday If You Want To Grow/13 CHAPTER 12 - Pray Every Day The Qualities You Need|13 CHAPTER 12 - Pray Every Day The Qualities You Need]]
+- [[Books/115 Read Your Bible Pray Everyday If You Want To Grow/14 CHAPTER 13 - Pray Every Day In the Right Way|14 CHAPTER 13 - Pray Every Day In the Right Way]]
+- [[Books/115 Read Your Bible Pray Everyday If You Want To Grow/15 CHAPTER 14 - Pray Every Day Jesus Promised Great Things|15 CHAPTER 14 - Pray Every Day Jesus Promised Great Things]]
+
+#### Books — 116 Know Your Invisible Enemies And Defeat Them
+- [[Books/116 Know Your Invisible Enemies And Defeat Them/27 Chapter 26 - How to Avoid Becoming A Habitation of Devils|27 Chapter 26 - How to Avoid Becoming A Habitation of Devils]]
+
+#### Books — 117 The Gift Of Governments A Bishop 'S Governing Handbook
+- [[Books/117 The Gift Of Governments A Bishop 'S Governing Handbook/16 CHAPTER 14|16 CHAPTER 14]]
+
+#### Books — 125 All About Fornication
+- [[Books/125 All About Fornication/06 Spiritual Steps to Avoiding Fornication|06 Spiritual Steps to Avoiding Fornication]]
+
+#### Books — 126 Key Facts For New Believers
+- [[Books/126 Key Facts For New Believers/10 CHAPTER 9 - Grow in Your New Life by Praying Regularly|10 CHAPTER 9 - Grow in Your New Life by Praying Regularly]]
+
+#### Books — 127 The Secret
+- [[Books/127 The Secret/09 Insist on a Daily Prayer Time|09 Insist on a Daily Prayer Time]]

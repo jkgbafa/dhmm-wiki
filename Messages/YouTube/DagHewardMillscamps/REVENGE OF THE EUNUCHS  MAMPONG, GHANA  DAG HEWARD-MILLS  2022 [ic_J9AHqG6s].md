@@ -8,6 +8,8 @@ year: 2022
 duration_min: 135
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah so we want to be thankful how many of you were here on Tuesday we don't we don't want to ask those who came last night because they've not registered amen but from Tuesday all through Wednesday Thursday Friday and this morning God has been merciful and God has been gracious unto all of us and we want to just follow the direct command from the Lord which is whatsoever you do in word and In Deed do it giving thanks to God Amen so let us all lift our hands to Jesus this moment right now and let

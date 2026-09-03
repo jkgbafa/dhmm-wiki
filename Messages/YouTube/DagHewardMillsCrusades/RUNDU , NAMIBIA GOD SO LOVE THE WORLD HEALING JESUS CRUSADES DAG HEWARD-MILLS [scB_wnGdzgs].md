@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=scB_wnGdzgs"
 duration_min: 156
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 When I say, I think, I made it make it load like it, I don't know. Oh, yeah, that is like come on, come on, let's go. Not only the fire, come on, let's get you happy. Come on, please, come on, please, come on, please, I happy come on to set it. Come on, please, come on, please, we share fire fire fire, fire, fit, come on, come on, push up, come on, push it, and come on, please, come on, please, I can't see that come up, come on, please, come on, please, come on, please, that's the dungeon.

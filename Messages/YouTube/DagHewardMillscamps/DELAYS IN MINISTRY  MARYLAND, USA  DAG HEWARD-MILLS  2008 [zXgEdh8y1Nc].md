@@ -8,6 +8,8 @@ year: 2008
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Ephesians chapter 6 verse 10 finally be strong in the Lord and in the strength of his might put on the full armor of God that you'll be able to stand firm against um the Ws of the devil the schemes for our struggle is not against flesh and blood but against the rulers and against the powers and against the world forces of this darkness and against the spiritual forces of wickedness in the Heavenly place verse three therefore take up the full armor of God so that you will be able to resist in the evil day and

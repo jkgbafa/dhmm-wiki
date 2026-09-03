@@ -9,6 +9,8 @@ duration_min: 83
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/HOW YOU CAN BE IN THE PERFECT WILL OF GOD GTWC WINDHOEK DAG HEWARD-MILLS 2019 [AjBGU0voEtQ]]]"
+topics: ["Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 Now the Lord spoke to Moses saying this is what pertains to the ministry from 25 years old and above. They shall serve in the tabernacle of the Lord. But at the age of 50, they shall step from the priesthood. [singing and music] They will assist their brothers in the service of the Lord. and younger people will take up the ministry. This is your time to work. From 25 to 15, this is your season. about it is the first time I'm going to lie to the Lord. 25 to 50. It's from 25 to 50. It is

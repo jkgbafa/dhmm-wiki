@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=VKnr8HjiV1Y"
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 from the side you have a place in my heart a bit backed over nail to feel but then got spirit from working me I couldn't look away Oh Oh Meah come on come on come on now I have a reason now I have a reason amen it's time for the Word of God amen are you excited it's time for the Word of God last week our Father preached a very powerful yells in danger and today I don't know what's coming by believers and I'm not powerful and I'm going that way so with a standing ovation

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=R-0-QmJJhRk"
 duration_min: 1
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting"]
 ---
 
 One of the ways, one of the quotations you must have in your life, should I tell you the quotation is my father said. Wow. Yes. Or my mother said or my father told me and my mother told me. It should be a number of quotations.

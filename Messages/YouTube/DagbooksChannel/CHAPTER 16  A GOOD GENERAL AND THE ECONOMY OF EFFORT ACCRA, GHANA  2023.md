@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Leadership", "Leadership/Generals and History Makers", "Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 A good general and the economy of efforts. Oh yes, a good general. Chapter 16. The man is on vacation. Now economy of effort means the effort that you are putting in right and the money and all that you are investing right yes should be economized. So that it can you can carry on the ministry for a long time. Yes. So because wars are so expensive, a good general is always interested in reducing the cost of what he's doing. Yes. Now, the First World War cost $28 billion. thought went into debt. Yes, that is why the

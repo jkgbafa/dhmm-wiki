@@ -8,6 +8,8 @@ year: 2016
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 bindura Give the Lord the best shout of praise the far my de put your hands together for Jesus w OHA oh now lift up your hearts for your me lift up your hearts and say give the a shout are you ready no are you here the this was my life before Hallelujah what Miss your s s come on I say everybody shout Jesus come on shout Jesus come on shout Jesus Jesus come on Jesus come on Jesus come on Jesus Come On Jesus At The Mention Jesus of the name Jesus of jesuses every KNE Jesus

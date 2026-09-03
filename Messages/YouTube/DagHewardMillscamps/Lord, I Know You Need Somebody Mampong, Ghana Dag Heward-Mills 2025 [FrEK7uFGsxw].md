@@ -8,6 +8,8 @@ year: 2025
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Wow. You may be seated. Number one, I want you to take these notes. Number one, Lord, I know you need somebody who will go in between God and man. I know you need somebody who will go in between God and man.

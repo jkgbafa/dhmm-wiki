@@ -4,6 +4,8 @@ book: "Losing Suffering Sacrificing Dying"
 book_number: "033"
 chapter_number: 12
 type: book
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 # Chapter 11

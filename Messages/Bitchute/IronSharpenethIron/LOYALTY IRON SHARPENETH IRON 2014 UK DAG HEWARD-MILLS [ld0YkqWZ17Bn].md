@@ -8,6 +8,8 @@ year: 2014
 duration_min: 146
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 We don't think it's not very quite possible. But if it's not a five years, you want to go to find the work while it's possible to audience. I thought that was not really much more. Well, it's fine. We don't reject the extraordinary.

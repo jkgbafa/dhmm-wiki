@@ -8,6 +8,8 @@ year: 2010
 duration_min: 166
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 the purpose of shuffling is to get a better government than one man number three it is to provide a new testment pattern of leadership Amen in Acts chapter 15 Bible says in verse one certain men which came down from Judea taught the Brethren and said except you be circumcised after the manner of Moses you cannot be saved when therefore Paul and Barabas had no small dissension and disputation with them they determined that Paul and Barnabas and certain other of them should go up to Jerusalem unto the apostles and Elders about this question are you there

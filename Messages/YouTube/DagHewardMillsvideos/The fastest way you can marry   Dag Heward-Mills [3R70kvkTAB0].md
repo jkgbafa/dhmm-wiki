@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=3R70kvkTAB0"
 duration_min: 17
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 marriage and speed 1 Samuel 25 1 Samuel 25 marriage and speed is a determinant yes it's a determinant now verse two there was a man in MA whose possessions were in Caramel the man was very great he had 3,000 sheep 3,000 and a th000 goats had a th000 goats yeah goat meat is different from sheep meat and he was sharing his sheep in Caramel now the name of the man was nabal and the name of his wife was Abigail she was a woman of good understanding when you tell her do this or do this she

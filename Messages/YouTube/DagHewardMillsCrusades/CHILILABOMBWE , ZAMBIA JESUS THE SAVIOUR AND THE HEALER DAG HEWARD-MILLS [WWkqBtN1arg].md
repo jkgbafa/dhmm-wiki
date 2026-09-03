@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=WWkqBtN1arg"
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 If you want to love Notama Sumbola F your want to love the no ten day put under less sirma Ni Worwaka Everybody lift up your two answer sin we wake up Nimweb Na Goldama Hallelujah take your seats God bless you and now let's welcome Ida so love the whole world that he gave his only begotten son that who so ever believes in him he shall have a lasting life for God so love the whole world that he gave his only begotten son that who so ever in him he shall have a lasting life great love

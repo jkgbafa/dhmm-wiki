@@ -9,6 +9,8 @@ duration_min: 93
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/4 THINGS JESUS DID FOR OTHERS  UK  DAG HEWARD-MILLS  2004 [_jQcbfpMxlg]]]"
+topics: ["Missions", "Missions/The Nations"]
+tags: ["topic/missions", "topic/missions/the-nations"]
 ---
 
 Welcome to track number four of others. Okay. The next thing that I want us to come back to the selfishness thing, but I want us to just look at this. Three things that Jesus did. Jesus and others.

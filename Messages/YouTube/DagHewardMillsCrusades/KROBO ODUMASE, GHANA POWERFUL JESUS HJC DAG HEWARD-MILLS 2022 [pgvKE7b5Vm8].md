@@ -9,6 +9,8 @@ duration_min: 146
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/KROBO ODUMASE, GHANA  POWERFUL JESUS  HJC  DAG HEWARD-MILLS  2022 [pgvKE7b5Vm8]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 Lift up your hands. Say a comma for Jesus. Come on for Jesus. Say I come up for Jesus. Come on for Jesus.

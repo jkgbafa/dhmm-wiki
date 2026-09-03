@@ -8,6 +8,8 @@ year: 2009
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 now I want everybody here to decide to become like Elijah who shouted my father my father it is when you relate with a man of God until he becomes your father then something that is for him can come to you hey he a lot of people can call you Daddy papa papa D and what again father puy t means what Tata means daddy Tata in our country is a b now the fact that you call somebody daddy or Tata is it correct Tata T does not mean that the person is your tat it doesn't mean

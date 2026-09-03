@@ -8,6 +8,8 @@ duration_min: 131
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/DON’T TAKE AWAY MY SACRIFICE DAG HEWARD-MILLS FOUNDER’S DAY SERVICE [bSVpgecwZYM]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 there are some people who are against your sacrifice now what is your sacrifice is your opportunity to sacrifice or do something for the Lord if you don't want to sacrifice for God stay there I don't come and preach that nonsense to me I never like to say no to somebody who wants to be in the ministry yes because it's your life to my house you've not been able to tell me the genda of the child you've not told me how many months we have to do you've not told me e did and you are calling

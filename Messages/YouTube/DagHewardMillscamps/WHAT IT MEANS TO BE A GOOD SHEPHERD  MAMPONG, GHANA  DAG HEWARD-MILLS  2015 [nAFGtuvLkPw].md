@@ -8,6 +8,8 @@ year: 2015
 duration_min: 157
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 and you got a chance you shoot don't talk what it means to be a good shepherd we are going to need good Shepherds to have a mega church amen am father thank you for the good Shepherds that are being raised up at this time bless them bless us mightily in Jesus name amen you may be seated now a good Hospital needs a good doctor isn't it a good restaurant needs a good Chef isn't it and what else a mega church needs a good shepherd now once again people take it for granted said all right and

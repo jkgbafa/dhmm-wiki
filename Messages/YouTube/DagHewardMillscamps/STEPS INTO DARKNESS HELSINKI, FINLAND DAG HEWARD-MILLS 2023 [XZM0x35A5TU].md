@@ -8,6 +8,8 @@ year: 2023
 duration_min: 167
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Let us pray. Let us pray. Let us pray. Father, we are thanking you for today. Thanking you for this amazing opportunity right here in Helsinki.

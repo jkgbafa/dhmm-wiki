@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=l2wK8kS4jTA"
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 oh she's lovin this pandan this random dude a little EMF Allahu Allah we are going to have more powerful music in the next few minutes no pardon me male Orca syncamatic oh my Sultana I want to ask our Chairman to give out the opening prayer Tecopa Yamanaka Malaga Capello if you panic Walla Moreau let us all close our eyes of our mission Authority let us all lift up my hands don t believe it ology so one oscillator we want to adore you and worship your name and give all the glory unto you we are rather

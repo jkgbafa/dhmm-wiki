@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 Hallelujah. Father, thank you for the guidance of your spirit. Thank you for the leading of the Holy Spirit to do your will. We are grateful. Speak to our hearts and lead us we pray in the name of Jesus Christ. And everyone said, "Amen." Amen. You may be seated. Chapter 12. A good general and inexorability. Everybody say inexorable. What means inexorable? It means unyielding. and alterable. It means in not to be persuaded or moved. Amen. Inexorability in the mission. Yes. Wait now. It is important that you approach your ministry with a mind of inexorability. Amen. Because

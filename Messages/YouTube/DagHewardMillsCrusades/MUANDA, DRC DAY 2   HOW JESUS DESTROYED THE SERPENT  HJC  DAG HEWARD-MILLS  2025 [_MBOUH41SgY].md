@@ -8,6 +8,8 @@ year: 2025
 duration_min: 125
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare"]
+tags: ["topic/spiritual-warfare"]
 ---
 
 Greet. Hallelujah. So create create naz. in your soul. Nazana nazan to you. Oh to God. Tell them So sweet your soul to Oh yes. Oh yes. My paper as soon as I belister. Go to your soul. Oh yes. Hallelujah. Oh yes. Yes. to love. Below Iono milo Saute saute saute. I'll be kissing. Nazi Wonder. Hey, let's go 10. Nazi moto. Toy bank. Yes. Oh, bless. Tell him followers. Oh yes. Yes. below. Yeah. Jesus also. We know my daddy. Hey, I wonder I wonder I'm on so I call the Put on your daily. Wonder. Wow. Wow.

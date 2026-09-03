@@ -9,6 +9,8 @@ duration_min: 134
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/WHAT IS YOUR DESTINY  GTWC LONDON  DAG HEWARD-MILLS  2016 [Ut3MEJu_Wak]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Power, riches, you will be rich. Look, nobody who has ever served God in the Bible was poor. I mean, like I don't the prosperity preachers, what they are preaching, you see, is preaching to fire up an internal greed that is already there. You see, when Hitler came and started speaking and preaching about Jews, and you know, he's from 1933. He started giving speeches.

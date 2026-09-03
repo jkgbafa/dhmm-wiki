@@ -4,6 +4,8 @@ book: "How To Pray"
 book_number: "111"
 chapter_number: 5
 type: book
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 ## Chapter 4

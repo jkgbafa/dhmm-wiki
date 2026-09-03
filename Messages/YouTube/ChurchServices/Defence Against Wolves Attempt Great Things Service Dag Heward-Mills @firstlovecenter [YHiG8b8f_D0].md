@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=YHiG8b8f_D0"
 duration_min: 142
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 and that deception has failed so many people this is how they think there's nothing God is not there's no real God so most people don't go to church most people don't believe in God that's a big deception it is for the world one time I was walking at an airport residential area early in the morning and as I was walking through the streets I saw many many big houses and the spirit told me that you know there may be big and beautiful houses but whether there are happy people inside the house you get what I'm

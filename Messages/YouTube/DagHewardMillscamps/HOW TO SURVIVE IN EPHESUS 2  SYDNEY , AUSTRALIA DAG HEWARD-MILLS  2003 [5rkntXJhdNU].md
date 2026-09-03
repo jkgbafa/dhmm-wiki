@@ -8,6 +8,8 @@ year: 2003
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 who come to the Lord or when you you are laid off they say if there's anything for for me to do in the house of Lord then I'll do it when you are laid off viid inside the thing we are bringing it to God corrupted and SP I was expecting a nice thing and then look at what you are bringing no honestly I want to tell you something you know if you want to work for God and one of the things that must not be a problem with you even money money should not as soon

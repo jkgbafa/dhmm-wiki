@@ -8,6 +8,8 @@ year: 2010
 duration_min: 7
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number three of the privilege I'm going to give you a break in a few minutes to we we or do whatever you want to do so just relax right receive an office now to be called by God means to you receive an office it speaks of a position what greater privilege could you have a place an office is a place of work a responsibility a job a position a task a function amen may you receive your new and special office that God is giving you I mean I can't imagine God is calling

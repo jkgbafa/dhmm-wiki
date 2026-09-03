@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ypJCnTjcEyQ"
 duration_min: 125
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Amen. Amen. This song is about a young boy or young man who who never is spiritual. His name is Johnny. And we all try not to be like Johnny. Amen. Johnny. Oh, Johnny. Johnny Johnny used to go to church. When he had no money in his pocket, Johnny was always faithful in his word. Whenever the doors open, he was at church. Johnny's prayer was, "Lord, bless me. I need a job. I'm on my face. Remember where you're coming from and where your life would be. Now you have time for him. Remember where you're coming from

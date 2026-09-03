@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/K9Zjwb3WLvOs/"
 duration_min: 88
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Holy God shall run to thee. We sing holy, holy holy, holy hol. You are merciful and you are not in three verses. You are blessed and trinity. You want to sing only three.

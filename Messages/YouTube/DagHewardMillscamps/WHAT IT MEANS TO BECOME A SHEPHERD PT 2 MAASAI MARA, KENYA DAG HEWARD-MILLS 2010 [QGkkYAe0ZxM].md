@@ -9,6 +9,8 @@ duration_min: 78
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHAT IT MEANS TO BECOME A SHEPHERD PT 2   MAASAI MARA, KENYA DAG HEWARD-MILLS  2010 [QGkkYAe0ZxM]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number two of the privilege. Sit down, please. What it means to be called to be a shepherd. Number one. It means to be called out, to be summoned distinctly.

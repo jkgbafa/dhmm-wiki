@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9nMItraPBqU"
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 let's avoid beheading worshiping the king of kings and the Lord of lava baba baba you are worthy of you you were or he will be law you were worth more and the mister to people Lord we estate she will go we magnify your name oh girl we see that you reign in highest the God there is none like unto you will go you love you love you can you protect you provide you he will go well it's not like until you we give it woo we give you worship Lord Leicester need a lot of lords

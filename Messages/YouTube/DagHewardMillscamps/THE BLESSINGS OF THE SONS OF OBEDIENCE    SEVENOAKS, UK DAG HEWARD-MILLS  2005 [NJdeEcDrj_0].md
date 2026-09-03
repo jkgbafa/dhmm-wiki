@@ -8,6 +8,8 @@ year: 2005
 duration_min: 69
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 welcome to track number six of obedience unto death the blessings of the sons of obedience number one you will no more be far from the Lord when you read Ephesians where it talks about the sons of Disobedience the children of Disobedience it says even when we were dead in sins he has quickened us together with Christ and has raised us up made us sit together in Heavenly places hallelujah what do you think how many are glad to be raised up to sit together with your heavenly father amen now in Christ Jesus ye who were sometimes

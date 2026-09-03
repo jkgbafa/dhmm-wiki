@@ -8,6 +8,8 @@ year: 2025
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit"]
 ---
 
 Hallelujah, are you ready for what's in store for you tonight? On this 4th night, I am excited to introduce everyone to the person who carries the power and the word of God. Clap together and receive today. What I believe is oh I see that your word does not change I open you I love you with God with God it is impossible So fa I will all go by day, hand in hand, I am a miracle, I am a miracle, I will make your word not change. Father who art in heaven, touch every life tonight. May

@@ -9,6 +9,8 @@ duration_min: 60
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE LABOR FOR BLESSING OF CHURCHES  NEWARK NEW JERSEY  UNITED STATES   DAG HEWARD-MILLS  2019 [Q_NXiReiILA]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 And this is the first part, so that we can move quickly to the rally, summit, congress, and meeting. Please just squeeze in and let's settle down. You people said come at seven, and here it's almost 10 o'clock. People are still coming. Yeah.

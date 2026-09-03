@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=D-_ctytwZVY"
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/prayer", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 hallelujah praise the Lord we have coming how magnify the Lord lift up holy hands make a joyful noise holy spirit had your way let us be praised at the house today come on somebody put your hands together for Jesus come on raise your the house today we gonna get me thanks will you help coming to this house back before the Lord lift up holy hands like a joyful God holy Karen had class that'll be playing in the happy day I love saving saving love a praise of the house Oh Oh magnetar the wall with me

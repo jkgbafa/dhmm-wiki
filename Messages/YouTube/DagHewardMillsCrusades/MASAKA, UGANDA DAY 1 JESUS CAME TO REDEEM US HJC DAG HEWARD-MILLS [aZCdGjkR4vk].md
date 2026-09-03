@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=aZCdGjkR4vk"
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 You look so beautiful. I want you to stay there. Hallelujah. Amen. Amen.

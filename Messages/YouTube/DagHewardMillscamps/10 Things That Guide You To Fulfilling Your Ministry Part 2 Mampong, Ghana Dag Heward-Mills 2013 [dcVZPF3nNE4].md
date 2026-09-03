@@ -8,6 +8,8 @@ year: 2013
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 turn with me to to Revelations now how many are ready to respond to God with good love great love Revelations chapter number two to the angel of the church in Ephesus right the one who holds the Seven Stars in his right hand the one who walks among the seven golden candlesticks says this read it somebody should stand up and read it out for us right these things saith he that holdeth the Seven Stars in his right hand who walth in the midst of the seven candles golden candlesticks I Know Thy works and thy labor and

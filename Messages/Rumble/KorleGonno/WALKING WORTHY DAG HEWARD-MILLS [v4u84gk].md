@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u84gk/"
 duration_min: 31
 source: "whisper"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 Ephesians chapter 4. My message this morning is very brief. It's entitled Walk Worthy. Amen. I therefore the prisoner of the Lord, Ephesians chapter 4, verse 1.

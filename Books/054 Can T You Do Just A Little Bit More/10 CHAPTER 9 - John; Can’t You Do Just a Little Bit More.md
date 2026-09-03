@@ -4,6 +4,8 @@ book: "Can T You Do Just A Little Bit More"
 book_number: "054"
 chapter_number: 10
 type: book
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 ### CHAPTER 9\

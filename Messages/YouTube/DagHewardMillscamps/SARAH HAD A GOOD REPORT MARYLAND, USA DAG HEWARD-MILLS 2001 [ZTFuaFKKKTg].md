@@ -9,6 +9,8 @@ duration_min: 28
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SARAH HAD A GOOD REPORT   MARYLAND, USA  DAG HEWARD-MILLS  2001 [ZTFuaFKKKTg]]]"
+topics: ["Faith", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/faith", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Welcome to track number thirteen of what is your life through faith Sarah herself received strength to conceive seed and was delivered a child when she was past age because she judged him faithful who had promised. Now what does this mean? Sounds very mysterious. Sarah received strength to have a child. What does it mean?

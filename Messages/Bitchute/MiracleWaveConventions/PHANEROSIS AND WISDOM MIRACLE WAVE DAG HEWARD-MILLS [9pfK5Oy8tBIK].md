@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/9pfK5Oy8tBIK/"
 duration_min: 148
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 Let us pray. Father, we are grateful for an opportunity this evening to be in your presence, Lord. We pray, Lord, for the spirit of revelation, spirit of wisdom, and we ask, oh Lord, that you would help us, Lord, to flow with your spirit to walk in your spirit, and to receive all that you have for us from your throne room. We ask for the blood to cover and to speak on our behalf before the throne. Thank you for mercies and gifts that are given to us today.

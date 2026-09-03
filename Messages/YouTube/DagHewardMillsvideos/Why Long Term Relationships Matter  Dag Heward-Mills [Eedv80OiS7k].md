@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Eedv80OiS7k"
 duration_min: 5
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 the deception of short relationships everybody you know for a short time you don't know the person ask your neighbor do you know me when when did you know me when did you know me which which year did you know me where where have you seen me before where have you seen me before how long have you seen me say you know me those of you who meet somebody no I love you no I'm going to marry you but when you are permanent in the church are you getting me because you've been around everybody knows you

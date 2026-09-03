@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=glONcpNFZVM"
 duration_min: 142
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/anointing", "topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 turn to Titus chapter one verse five for this reason I left you in crate that you would set in order what remains and appoint Elders in every city as I directed you Titus was left in which country Titus was left in which country I can't hear you mention the name of the country that Titus was left in only the people at the back upstairs what country was Titus left in and um Titus was left in crate and Paul gave him a very important message that would help him to live and do well in crit now

@@ -4,6 +4,8 @@ book: "Seeing And Hearing"
 book_number: "081"
 chapter_number: 10
 type: book
+topics: ["Faith", "Ministry and Pastoring"]
+tags: ["topic/faith", "topic/ministry-and-pastoring"]
 ---
 
 ### CHAPTER 9\

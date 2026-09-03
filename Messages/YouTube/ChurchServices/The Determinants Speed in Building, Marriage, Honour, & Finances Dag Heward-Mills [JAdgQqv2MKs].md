@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JAdgQqv2MKs"
 duration_min: 124
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 May the Lord bless you and may you lay hold on honor, on building. Time and chance cancels these things that are the swift, strong, wise men, understanding and skillful men. You forget my faults, but I will lose. Forget them now. You will miss me then, but I won't feel it.

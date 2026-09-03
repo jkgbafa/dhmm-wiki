@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=J--psvbAGBE"
 duration_min: 26
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 tonight I'm just preaching a short message entitled why many people believe that Jesus is the son of God one of the reason why many people believe that Jesus is the son of God is because he walked on water another time he count the storms he another time Jesus Took 5 people to kfcc wow 5,000 people to KFC KFC yeah chicken and bread fish and bread in those days KFC was making fish a lot of people believe that Jesus Son of God because he died on the cross for us to save us from our sins and

@@ -8,6 +8,8 @@ year: 2023
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 father we are grateful in the mighty name of Jesus Amen you may be seated now you've had your 15minute break now transformation of your name yes transformation or metamorphosis of your name Isaiah 56 from verse number one so this is the third is this the third metamorphosis fourth so tonight we'll be going to five six and seven and then we are done amen Isaiah transformation of your name Isaiah 56 are you ready are your seat belts around that says the Lord keep ye judgment and do justice amen what does this mean keep you judgment means

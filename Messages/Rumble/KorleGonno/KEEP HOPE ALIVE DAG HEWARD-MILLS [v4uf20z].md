@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uf20z/"
 duration_min: 76
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/faith", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Amen. Lift your hands with me. Let's worship the Lord. Holy, holy. Lord, you are worthy.

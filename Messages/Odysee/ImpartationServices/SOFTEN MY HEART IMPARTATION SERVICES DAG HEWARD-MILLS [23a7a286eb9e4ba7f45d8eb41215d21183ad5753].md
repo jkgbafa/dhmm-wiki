@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/soften-my-heart-im
 duration_min: 86
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 I ask the Lord to give you a soft heart tonight that you may be able to receive from him from his word. Thank you Holy Spirit. Thank you Jesus for your great blessing, your word to us Lord, your spirit Lord, your life. Have mercy on our souls, oh God, oh God. Thank you, thank you, thank you Holy Spirit.

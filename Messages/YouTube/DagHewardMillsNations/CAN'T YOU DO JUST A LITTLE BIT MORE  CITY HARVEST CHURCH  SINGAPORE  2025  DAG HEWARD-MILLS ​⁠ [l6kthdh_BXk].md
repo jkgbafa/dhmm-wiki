@@ -8,6 +8,8 @@ year: 2025
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 hallelujah what a blessing let us pray together father thank you for today thank you for the opportunity that we have in your house we pray holy spirit that you lead and touch every life thank you that we shall not be the same because of your Mighty power and your Mighty presence I pray for every young person here that you would touch especially anyone who you have called whom you have chosen to serve you thank you that you will use everyone and every Life For Your Glory we give you thanks we give you praise thank you

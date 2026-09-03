@@ -8,6 +8,8 @@ year: 2006
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth"]
+tags: ["topic/church-growth"]
 ---
 
 when your leaders are not responding after you have taught them and prayed what do you do yes what what what what exactly do you mean by like you've taught them and what have you taught them well okay well um you've been teaching them about the vision how to carry on with the vision but it's like the way you expect that they will pick it up and begin to run with it it's it's not coming many of them you see that they are falling short they not catching you you are praying for them pray for them

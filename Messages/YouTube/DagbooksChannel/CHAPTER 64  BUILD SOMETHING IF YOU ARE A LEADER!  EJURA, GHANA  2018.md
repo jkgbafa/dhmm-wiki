@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2018
 source: "autocaption"
+topics: ["Anointing", "Leadership", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/anointing", "topic/leadership", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 If you are a leader, you should build something. If you are a leader, build something. So that is what I would say to all people who say that they are leaders, build something. And I am happy to be standing in a Baptist um building today. It shows that there are leaders in the Baptist church. Yes. That have built something. Yeah. It's a great church because they've built something. You don't just sit down and only be renting classrooms. It doesn't show that you are a leader. You get it? And then there are always a lot of

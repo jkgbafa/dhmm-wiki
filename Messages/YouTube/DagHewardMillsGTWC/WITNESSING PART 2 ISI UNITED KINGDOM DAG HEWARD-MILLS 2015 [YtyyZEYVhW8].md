@@ -9,6 +9,8 @@ duration_min: 141
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/WITNESSING PART 2  ISI UNITED KINGDOM  DAG HEWARD-MILLS  2015 [YtyyZEYVhW8]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Let us pray. Father, thank you for today for guiding us by your great, wonderful Holy Spirit, lead us into all that you have planned and prepared from heaven. We thank you in Jesus' name. We pray. And everyone said, Amen.

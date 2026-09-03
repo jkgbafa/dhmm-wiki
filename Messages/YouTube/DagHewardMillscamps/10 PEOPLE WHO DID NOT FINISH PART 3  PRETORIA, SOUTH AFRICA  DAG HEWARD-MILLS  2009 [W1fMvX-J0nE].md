@@ -8,6 +8,8 @@ year: 2009
 duration_min: 203
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 next one obey obey is different from honor next one is what do what you see what all right next one believe in your what okay next one 10 people who did not finish their Ministries hey number one deas having LED this present world forsook the whole church and went somewhere else tell your neighbor that will not be your story next one Judas why did Judas lose the ministry this loyalty number three Lucifer why did Lucifer not finish his ministry huh disloyalty Pride isn't it number four Jo the king of Israel why did he not finish

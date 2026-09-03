@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=e_x7cPLuRjQ"
 duration_min: 164
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah hallelujah hallelujah operator please hold on for me or sing acapella hallelujah so brass watching rebou dear well I know Nina recursos Tia whoa phanie pnina sorry dear well done well ye Shi Wu ji Oh God finally media one I know ring come here when you raise the knee pain ah sorry ha ha ha ha ha no ha ha ha I hope you two can be happy to me now almost no Becca mama oh yeah me mama miss Yoko me ba-ba-boom million Taino or no quarter nickel Walter schirra no oh my waifu my sweet miss

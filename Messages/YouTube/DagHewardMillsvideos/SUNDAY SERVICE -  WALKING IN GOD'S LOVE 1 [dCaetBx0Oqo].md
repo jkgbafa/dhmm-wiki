@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=dCaetBx0Oqo"
 duration_min: 70
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 this morning I'm glad to Nancy that bishop is in his house please touch your feet let's welcome the bishop give the Lord a shower in a club hallelujah let's pray father thank you for this great opportunity that we have this morning to receive your word to grow in you to be blessed in church in the house of the Lord touch our heart Lord we thank you this is a great day great chance thank you thank you give us wisdom Lord how to behave what to do once we are here on earth saving you we love

@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/uxPPHoY6b5fE/"
 duration_min: 109
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 I said a dance. All right. I see that. I see. Now I see that.

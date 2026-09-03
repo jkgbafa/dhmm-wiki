@@ -8,6 +8,8 @@ year: 1999
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit"]
 ---
 
 somebody should be having a microphone to be reading amen yeah compassion on them because they fainted and were scattered abroad as sheep having no Shepherd read it again but when he saw the multitudes he was moved with compassion on them because they fainted and were scattered abroad as sheep having no Shepherd amen hallelujah are you with me when he saw the multitude he was what moved with compassion on them because they fainted and were scattered abroad Hallelujah those of you in the congregation today I you see you know what I could do I could give

@@ -9,6 +9,8 @@ duration_min: 61
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HOW TO START A CHURCH PT 2  BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2001 [_3xE71CdM9E]]]"
+topics: ["Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 Friend and shall go unto him, huh? At midnight and say unto him, friend, lend me three loaves. For a friend of mine is in his journey, come to me, and I have nothing to set before him. And he from within shall answer and say, Trouble me not. The door is now shut, and my children are with me in bed.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=txrSvTNibJA"
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you are alpha and we were we we do oh we give you all there we gave you all Oh we give you all Oh to me oh we give you all we we you need to be poor we gave you all you are you are you are walking you are oh you are glorious oh oh you are here you are Gloria you are wanna what i gay wah hey what'd I get punkin every Biwa yes Oh yeah meet our walk with me baby why are you why yeah Oh hahahaha hahaha Oh ah we duh now

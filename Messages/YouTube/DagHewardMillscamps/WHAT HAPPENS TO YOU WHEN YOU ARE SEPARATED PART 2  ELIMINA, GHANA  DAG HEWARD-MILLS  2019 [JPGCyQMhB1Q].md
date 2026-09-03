@@ -8,6 +8,8 @@ year: 2019
 duration_min: 150
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 2 Timothy Chapter 2 from verse 15 I'm giving you the 15th point every verse is a point study to show thyself approved unto God a Workman that needeth not to be ashamed rightly dividing the word of Truth Now the problem when it comes to the ministry is that the problem when it comes to the Ministries is when you are separated right you see if you take a charcoal coals of fire when you separate two pieces from the hot coals the two or one that you separate goes cold and the fire goes out that is the

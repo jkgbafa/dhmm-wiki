@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hjdIVl_BNIs"
 duration_min: 218
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 oh what a blessed day Ava wanted to sense your neighbor and they never tried to treat them from the drag death could not hold him captive hallelujah some of you are grateful for the blood or if you are grateful that the blood is the only thing that can wash away our sin hey if we have not said it blood my god it reaches to the highest mountain and doubt the lowest valleys amen and can it be that Isis came and can it be that girl like ask about that is an interest the Savior's blood mas

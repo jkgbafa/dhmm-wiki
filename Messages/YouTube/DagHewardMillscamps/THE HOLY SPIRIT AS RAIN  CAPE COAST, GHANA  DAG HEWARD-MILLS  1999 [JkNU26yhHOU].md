@@ -8,6 +8,8 @@ year: 1999
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "The Holy Spirit"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/the-holy-spirit"]
 ---
 
 e welcome to track number three of love and the mega church us guiding us let your will be done in the name of Jesus Amen you may be seated everybody should please display his bch properly openly so the Holy Spirit and the mega church yesterday I gave you 25 reasons why we should have a mega church is that not so is that not so what are the reasons many Souls next one converts will be established next one more people will pray next one there'll be more faith in the church next one how many want more

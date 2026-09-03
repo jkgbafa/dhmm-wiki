@@ -9,6 +9,8 @@ duration_min: 29
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/WHAT IS A VISION  GTWC LUSAKA  DAG HEWARD-MILLS  2025 [aQG6NUqzAhY]]]"
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 How many here are pastors? Very good. How many are not pastors? How many want to be pastors? Very good.

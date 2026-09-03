@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/bpnpMpp6veBQ/"
 duration_min: 68
 source: "whisper"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 Father, thank you for the great blessing. We have at this time in the name of Jesus. Amen. You may be seated. Take out your special offering.

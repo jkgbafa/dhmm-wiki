@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=YdAJXGrol9E"
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 that's where P Oh father thank you for your work today there may be put up a whole movie gigas by a holy spirit continued pathos ancestry in Jesus name oh no decision amen amen you may be seated I see even simply during this conference I want to share with you about church growth oh no Seco fellowship a patent she added who are papazilla assault the littlest and having a mega church in a walk in Mecca agrees amen having a mega awash in mega icky hallelujah and there are two important books just growth that's part of

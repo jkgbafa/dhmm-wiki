@@ -8,6 +8,8 @@ year: 2010
 duration_min: 174
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 how many points did you have 14 okay number 14 now remembrance is important when you become wealthy now notice it says in Deuteronomy Deuteronomy Deuteronomy chapter 8 and verse number 18 but Thou shalt remember the Lord thy God for it is he that giveth thee power to get wealth amen amen what do you think amen that he may establish his Covenant which he swear unto thy fathers and it shall be if thou do at all forget the Lord thy God and walk after other gods and ser them and worship them I testify against you this

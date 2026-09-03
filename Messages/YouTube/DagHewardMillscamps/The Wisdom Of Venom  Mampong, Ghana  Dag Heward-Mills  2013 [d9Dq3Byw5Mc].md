@@ -8,6 +8,8 @@ year: 2013
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wisdom"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wisdom"]
 ---
 
 all right father we thank you for your blessing today in Jesus name amen amen you may be seated Matthew chapter 10 Matthew chapter 10 verse 16 behold I send you forth as sheep in the midst of wolves be you therefore wise as serpents and harmless as does okay now the first comment that I want to make here our theme is wise as serpents and it's also a prayer Camp because I want us to pray for the uh upcoming semester and for the upcoming Souls and churches that we want to grow amen so we are going

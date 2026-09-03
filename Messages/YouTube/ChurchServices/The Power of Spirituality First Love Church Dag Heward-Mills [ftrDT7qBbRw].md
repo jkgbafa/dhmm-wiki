@@ -8,6 +8,8 @@ duration_min: 79
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/The Power of Spirituality  First Love Church  Dag Heward-Mills [ftrDT7qBbRw]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 A spiritual person can be equated or equaled to a prophet according to this scripture. So if you are able to be a spiritual person, you are someone who is like a prophet or in the rank or realm of a prophet. Because you are spiritual. So you are either dominated 100% by logic, 100% by feelings, which is soul. Or you are dominated by your flesh.

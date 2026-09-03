@@ -8,6 +8,8 @@ year: 2006
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 turn with me to Romans how many are been blessed with my father my father wonderful even if you are not being blessed you have to listen now listen it says I think I like this from this other version Romans chapter 13 and we're going to read verse one and two it says let every soul be subject unto the higher powers for there is no power but of God and the powers that be are ordained of God whosoever therefore resisteth the power resisted the ordinance of God and they that resist shall receive to themselves damnations amen

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=evDGMIUodWI"
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you will surrender something prized or desirable something that is prized you offer it something like what something like your career something like your life in the uk yes you see you something you prize so i i live i live in london i live in birmingham i live in and so what and so what you offer something prized something desirable that maybe other people are wishing oh i wish i was in london i want to go visit london you offer that thing that you prize and that is desirable you offer it in exchange for something for

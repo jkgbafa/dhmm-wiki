@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=smHk592ecxQ"
 duration_min: 221
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 today we are praying and our prayers are going to be for the prophets that God has given us can I have an amen can I have a resounding amen am can I have a great amen can I have all ladies saying amen and all guys saying amen hallelujah first we want to pray and we are calling on God for his mercies for our prophet and um want to read a scripture from 2 Samuel chapter 22 and verse 9 number 51 the Bible says he is the Tower of salvation for his King and God showeth Mercy

@@ -8,6 +8,8 @@ year: 2016
 duration_min: 174
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wisdom"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wisdom"]
 ---
 
 Lift your hands I fix my eyes on you the author of my way casting aside everything and every way I fix my eyes fix my eyes on you I lay my burdens down letting the cares of this world letting the cares of this world fade away one thing of us one thing I ask this one thing I see that I may dwell in your house oh Lord my king oh the days of my life I want to gaze upon your beauty I see you in this home I fix my eyes fix my eyes on you

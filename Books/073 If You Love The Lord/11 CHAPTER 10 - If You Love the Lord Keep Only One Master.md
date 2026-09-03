@@ -4,6 +4,8 @@ book: "If You Love The Lord"
 book_number: "073"
 chapter_number: 11
 type: book
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 ### CHAPTER 10\

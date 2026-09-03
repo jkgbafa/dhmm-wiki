@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=T3pu3NU6ZeE"
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 how many fifty really welcome to this homecoming convention hallelujah those of you outside don't worry the next woman coming commercial not be here yeah hallelujah I'm glad to welcome to the puppet the father of this ministry the gift that God has blessed us with my father and your father right Reverend doctor dragging on Midsummer's which a man together for the Lord in its wake up hallelujah all right let's pray Heavenly Father thank you so much for this evening thank you for your blessing thank you for your word thank you for the opportunity that you give

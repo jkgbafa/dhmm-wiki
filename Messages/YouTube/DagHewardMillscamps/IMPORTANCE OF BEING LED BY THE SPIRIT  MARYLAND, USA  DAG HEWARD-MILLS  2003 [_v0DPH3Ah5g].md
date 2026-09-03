@@ -8,6 +8,8 @@ year: 2003
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 me I've never read any book by this man I went myself I was going through a Bookshop mean I had two copies of the book in my house people have given me I never I never looked at when you when I have a book I just keep it usually I never read it but if I can say there's one thing one book that is it has helped me and really been a blessing to me apart from Papa Hagen uh books it's rejin book all of the things that I'm preaching came by taking it seriously I

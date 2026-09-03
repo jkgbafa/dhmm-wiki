@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GYNUX8ayTms"
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 and when we began this conference I told you I was sharing with you 10 things Kanaka Mozilla Conference Yahoo Sadie Connolly Pataki dishes amen and I believe that all the 10 items on the agenda will be a great blessing to you amen is a cockatoo li-po gamle deep when saw in benediction poof ooh Alleluia now the first very important point was had to do with the supernatural aspect of prosperity lucuma parle avec la special natural de la Poste parity yeah there is in the in the Bible especially followers of Jesus Christ litter is clear evidence

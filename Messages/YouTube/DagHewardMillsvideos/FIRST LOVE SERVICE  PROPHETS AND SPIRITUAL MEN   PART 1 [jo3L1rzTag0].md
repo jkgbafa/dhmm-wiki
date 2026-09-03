@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jo3L1rzTag0"
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 set up a simple song amen don't you really down to the Lord amen where Tina go give to you very simple wait denied or give to you within a door give to you wait tonight okay I don't know I'll just write it upside down are you excited si yo colonics we are so glad how about daddy back wow I'm not excited yeah okay we love you Bashar you may repeat that amen there's a moment we've all been waiting for yeah I'll be waiting for amen check out the powerful office lift up your offering everybody close

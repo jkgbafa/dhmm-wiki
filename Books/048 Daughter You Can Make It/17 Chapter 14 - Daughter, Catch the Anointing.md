@@ -4,6 +4,8 @@ book: "Daughter You Can Make It"
 book_number: "048"
 chapter_number: 17
 type: book
+topics: ["Anointing", "Anointing/Catching the Anointing"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing"]
 ---
 
 # Chapter 14

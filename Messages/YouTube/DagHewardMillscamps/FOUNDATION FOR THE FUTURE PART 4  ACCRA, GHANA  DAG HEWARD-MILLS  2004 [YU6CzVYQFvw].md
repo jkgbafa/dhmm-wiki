@@ -8,6 +8,8 @@ year: 2004
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 I want to give you another Foundation was I giving you a foundation of prayer extended prayer I believe that's enough for that amen I want to give you a foundation of another important one of one of the important foundations that you need to have Amen in the kingdom is the foundation of childlikeness Amen Matthew 18:3 and Jesus called a little child unto him and set him in the midst of them and said verily I say unto you except ye be converted and become as little children ye shall not enter into the Kingdom of Heaven amen

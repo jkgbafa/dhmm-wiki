@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SNnKyrnbdUY"
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 and a twinkling of an eye he is called me like a thief in the night she'll be there we shall meet a man the air and all his glory hole maranatha he is coming he'll be there yeah maranatha Mariner the Jesus they're coming okay in maranatha mara although Jesus says no me okay in keep coming okay if he came here tonight would you be ready do you know for sure that he's yellow or we shall meet him and the air and all his glory Oh maranatha he is coming he'll be there maranatha a mariner the

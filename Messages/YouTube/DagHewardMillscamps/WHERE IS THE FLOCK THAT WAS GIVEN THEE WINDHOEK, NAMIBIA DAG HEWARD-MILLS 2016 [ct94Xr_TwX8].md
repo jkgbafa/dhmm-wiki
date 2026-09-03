@@ -9,6 +9,8 @@ duration_min: 166
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHERE IS THE FLOCK THAT WAS GIVEN THEE   WINDHOEK, NAMIBIA DAG HEWARD-MILLS  2016 [ct94Xr_TwX8]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Welcome to track number twelve of where is the flock that was given thee chapter eighteen the question is where is the flock that was given thee pastors and now every single member question is where is the flock that was given thee? Exodus eighteen twenty-one moreover thou shalt provide out of all the people, able men, such as fear God, men of truth, hating covetousness, and place such over them to be rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens. Amen. Now God's great family came out of Israel out of Egypt.

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2010
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 The Lord is my shepherd, and I shall not want. He makes me to lie down in green pastures, and he leadth me beside the still waters. He restoreth my soul, and he leadth me in the paths of righteousness for his name's sake. Amen. Is it powerful? Now you will notice how many times this appears. He leadeth me. He leadeth me. He leadeth me. Amen. Now unlike um what we commonly think because of the kind of sheep and goats that we have in Ghana who are able to get along almost anywhere. And um you get the

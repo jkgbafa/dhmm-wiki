@@ -9,6 +9,8 @@ duration_min: 55
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/KEYS TO COMING OUT OF OBSCURITY PART 2  ELIMINA, GHANA  DAG HEWARD-MILLS  2009 [JHarHkAVxVs]]]"
+topics: ["Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 It's not his words at all. And it's just Christian jargon. Recently, he even had a party and so on. It was unbeliever music and unbeliever, whatever that he was playing and dancing with it, and so it's not his words. That's not how he really because he was the gospel group and he had to sing a gospel, so he made it gospel.

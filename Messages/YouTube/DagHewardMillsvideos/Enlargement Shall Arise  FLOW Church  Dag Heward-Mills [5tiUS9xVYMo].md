@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=5tiUS9xVYMo"
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 good morning and welcome to the flow church with Bishop dagg heward Mills my name is Seamus and my name is Janine and we are the flow pastors now our Bishop is not with us today live but he has sent or has left plenty of of great stuff for us today for a powerful powerful service so stay tuned for what's to come like share and I want you to not just share ones but many times share many times as many times as you can because we are just having a short flow service flow Church service and

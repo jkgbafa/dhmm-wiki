@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/IS033-PROPHETS-AND
 duration_min: 122
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Hallelujah. Let us pray. Heavenly Father, thank you for your blessing this evening as we come before your holy word. Lord, we ask that you touch our lives, you speak to us, you lead us by your spirit. Let your will be done.

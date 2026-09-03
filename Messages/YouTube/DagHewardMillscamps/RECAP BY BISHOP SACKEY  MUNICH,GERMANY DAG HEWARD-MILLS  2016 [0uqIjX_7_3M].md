@@ -8,6 +8,8 @@ year: 2016
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 welcome to track number 11 of The Church Must send or it will end Hallelujah turn it down a little bit hallelujah it's a blessing to be here isn't it having if you feel charged already wow what a blessed time we are having in the presence of the Lord what a great time God is taking us through unfortunately the C is ending already wow Bible says in um Ephesians chapter 2 verse 19 Bible says now therefore ye are no more strangers and foreigners but fellow citizens with the Saints and of the household of God and are

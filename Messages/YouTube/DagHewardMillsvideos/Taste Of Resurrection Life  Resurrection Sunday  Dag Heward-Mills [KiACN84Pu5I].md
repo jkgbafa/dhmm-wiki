@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=KiACN84Pu5I"
 duration_min: 138
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 foreign how marvelous is his love brought to me from above but oh it's not just a story but reality the beautiful story of Jesus this world is longing to know the wonderful story of Jesus I'll take it wherever I go and tell of his love for this world save every man woman boy and girl not just a story it's not just a story and simple story it became written me to me he's so real to me yeah my dear Jesus foreign how can I say thanks by giving my life to you by serving you by

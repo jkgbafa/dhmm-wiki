@@ -8,6 +8,8 @@ year: 2016
 duration_min: 265
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Kinds and Waves of the Anointing", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/kinds-and-waves-of-the-anointing", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I want to share with you about the anointing. Of the Holy Spirit. Have you found Matthew 13? Verse 12. Whosoever has to him it shall be given.

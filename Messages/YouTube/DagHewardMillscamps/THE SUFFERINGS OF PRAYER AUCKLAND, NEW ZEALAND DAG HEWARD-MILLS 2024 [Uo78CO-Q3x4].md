@@ -9,6 +9,8 @@ duration_min: 25
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE SUFFERINGS OF PRAYER  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024 [Uo78CO-Q3x4]]]"
+topics: ["Prayer", "Prayer/All-night Prayer"]
+tags: ["topic/prayer", "topic/prayer/all-night-prayer"]
 ---
 
 Who may be seated? Now this morning, we want to share about we are on a prayer seminar, and the sufferings of prayer, the sufferings of prayer, amen. Yes. Now to suffer means to undergo. All right, or be subjected to, or to endure pain, distress, loss, or anything unpleasant, pain, distress, loss, injury, or anything unpleasant, or any experience.

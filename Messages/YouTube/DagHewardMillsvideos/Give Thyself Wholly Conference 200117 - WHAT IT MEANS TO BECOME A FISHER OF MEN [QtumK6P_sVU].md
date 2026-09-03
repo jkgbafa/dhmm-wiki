@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=QtumK6P_sVU"
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 the what accounted for the numerical inferiority of the other churches was the fact that he kept going around and he was not interested in one congregation but in anywhere and everywhere the whole nation so he kept moving round H what do you think yeah so learn to se seeds Dr go where is the book lay people and the ministry lame men must learn to work for God with love with your heart I am here as a helper my pastor I will drive to the airport without asking for fuel fuel in your car how much does

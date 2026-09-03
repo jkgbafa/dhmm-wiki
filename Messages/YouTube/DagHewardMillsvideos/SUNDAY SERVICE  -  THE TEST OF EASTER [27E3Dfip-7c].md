@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=27E3Dfip-7c"
 duration_min: 43
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 father we thank you for this wonderful opportunity to be in church today we pray oh Lord that you would guide us you lead us encourage us let your will be done open our hearts Lord to your word that we would never be the same again we thank you Lord in jesus' name amen you may be seated in the presence of the Lord hallelujah turn with me please to Matthew chapter 27 and I want to share with you a very important uh message there I am sharing on what I call the test of Easter hallelujah I

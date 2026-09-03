@@ -7,6 +7,8 @@ url: "https://rumble.com/v4na20o/"
 duration_min: 69
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Tonight I want to talk about motherliness and fatherliness. Hallelujah. Because it's Father's Day. Motherliness and fatherliness. Now it's a short message as usual.

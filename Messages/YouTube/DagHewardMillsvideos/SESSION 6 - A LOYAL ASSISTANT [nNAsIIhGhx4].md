@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=nNAsIIhGhx4"
 duration_min: 149
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 I have made you to SP in my eyes oh Lord forgive me and I have believed in the light that you were running able to help me but now oh Lord I see my wrong heal my heart and Show Yourself Strong and in my heart and with with my song Oh Lord be Magi oh Lord be myi made you too small in my eyes oh Lord forgive me and I have believed in the lie that you were unable to help me but now Lord I see my wrong heal my heart and Show Yourself Strong and

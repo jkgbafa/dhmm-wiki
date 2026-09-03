@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2m6KQGVIcug"
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism"]
 ---
 
 though Jesus no life no Jesus no lie no no no no no no no no Jesus no lies come on no Jesus no lies no no no no no no no no Jesus no come on swimming no Jesus no lie no Jesus no come on listen I remember what the scriptures say in John 14 verse 6 I am the way the truth and the life no one comes to the Father but through me come on sue me no Jesus no laughs come on no no no no no no no no no god I say no

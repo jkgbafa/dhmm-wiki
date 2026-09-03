@@ -8,6 +8,8 @@ year: 2014
 duration_min: 150
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I need to feel your presence I need to know your power feel me now with more of you oh I need to see your glory I want to know your will so would you please come and feel this place cuz I need fresh soil from you cover my life with your D ring down refreshing and KN from above I need your presence today please come and show me the way shall down your rain upon me make me more and more like Jesus have your way in me so that the world may see you are the

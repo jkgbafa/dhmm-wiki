@@ -8,6 +8,8 @@ year: 2023
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 oh yes a good General knows how to overcome stalemates how many have fought with something it has gotten stand halfway halfway everybody is half half it's not moving you're also not moving do you want a key as a good General how to overcome stalemates wow wow many of our churches have grown up until the point of a stalemate is there anybody here who you feel that your church is at a stalemate yeah lift your hand if you no no no no if you feel that your church has still made sit with your hands yes no

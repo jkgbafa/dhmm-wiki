@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Chapter 10. I just read the title. Judas is against the honor. He's against nice things being done for Jesus. The Bible says that a woman came with her pound of ointment and she poured it on Jesus. And then said one of his disciples, that is in John John 12 verse 3-8. One of the disciples came and who was this disciple? No other than Judas. Judas's scariot said, "Why? Why was this ointment sold for 300 p? Why? Why? Why didn't you sell it? What? Why do you waste this on Jesus? Why do you buy a BMW

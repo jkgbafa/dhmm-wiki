@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=kLTf99_zcE8"
 duration_min: 16
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 come up with a zoo Omar so very confident why sure this is your fair share purple a Bowie vodka through my belly where the surfers are pretty on washes you get a DiMasi Willmar so bad nowadays washer to fit your fair share apology but got you my girly bear this would mess up with your what are you sure sir Timothy yes he buddy mark blemish on a dirty my whoa yahooza do i process possible to have all who knew no patient number you'll end up on a guru I know you a more severe weather you

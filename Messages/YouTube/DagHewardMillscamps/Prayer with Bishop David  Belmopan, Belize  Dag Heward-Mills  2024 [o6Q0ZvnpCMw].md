@@ -9,6 +9,8 @@ duration_min: 11
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Prayer with Bishop David Belmopan, Belize Dag Heward-Mills 2024 [o6Q0ZvnpCMw]]]"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 hallelujah amen amen are we praying yes yes you see we this is a very important prayer topic that we are praying this morning hallelujah amen that these white elements will come and stay in our lives Jesus hallelujah amen yes they will come and stay in these are believe me these are very prophetic God and it takes a certain kind of anointing to be able to even reveal these things because it looks so obvious but it is not obvious if you not anointed you can't bring out these elements believe me you think oh it's not like

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=BP2ZTXVy_aU"
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 you may be seated and the presence of the Lord are you glad to be in church great it's good to be back home good to see all of you again I believe that God has been blessing you and he's blessing all of us amen and we want to turn to Hebrews 11 I bring you greetings from all the churches outside they are all happy sure every sake has told you everything you not also seen Reverend sake he didn't say anything no don't learn from me you must say something I'm the one who doesn't have much

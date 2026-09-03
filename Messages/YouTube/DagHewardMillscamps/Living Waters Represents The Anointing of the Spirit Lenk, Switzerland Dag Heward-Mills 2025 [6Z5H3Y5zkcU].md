@@ -8,6 +8,8 @@ year: 2025
 duration_min: 38
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Kinds and Waves of the Anointing", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/kinds-and-waves-of-the-anointing", "topic/the-holy-spirit"]
 ---
 
 Now, our theme for our 24 hour camp is living waters. And I've given you all the points for the camp already. I've given you all the points for the camp already. Ashes, come in, come in. You know, Ashes can easily backslide, so I always pray for you.

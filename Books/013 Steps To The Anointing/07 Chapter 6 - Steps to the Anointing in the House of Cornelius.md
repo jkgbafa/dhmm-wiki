@@ -4,6 +4,8 @@ book: "Steps To The Anointing"
 book_number: "013"
 chapter_number: 7
 type: book
+topics: ["Anointing", "Anointing/Catching the Anointing", "Prayer"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/prayer"]
 ---
 
 ## Chapter 6

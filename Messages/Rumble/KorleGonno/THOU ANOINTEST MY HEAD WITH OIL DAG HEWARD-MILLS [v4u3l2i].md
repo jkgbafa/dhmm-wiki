@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3l2i/"
 duration_min: 49
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 We call to answer. If we ran, he will run to us. He will later. He will live. Can I pray?

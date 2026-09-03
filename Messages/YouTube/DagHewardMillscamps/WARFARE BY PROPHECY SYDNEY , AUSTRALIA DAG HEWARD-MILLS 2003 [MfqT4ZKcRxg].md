@@ -9,6 +9,8 @@ duration_min: 30
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WARFARE BY PROPHECY  SYDNEY , AUSTRALIA DAG HEWARD-MILLS  2003 [MfqT4ZKcRxg]]]"
+topics: ["Spiritual Warfare", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/spiritual-warfare", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Welcome to track number 13 of how to survive in Ephesus that member out of one of my branches, but I don't think he knew that. I know that he has prophesied somebody out of my branch. So he was now complaining. These prophets will come and so on, they really are affecting churches and so on. And they come and prophesy to people and for people to leave the church.

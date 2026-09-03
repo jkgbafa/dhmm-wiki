@@ -8,6 +8,8 @@ year: 2003
 duration_min: 18
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 welcome to track number nine of agree on the way and as he came forth out of his mother's womb naked shall he return to go as he came and shall take nothing of his labor which he may carry away in his hand and this is also a sore evil that in all Point as he came so shall he go and what prophet has he he that hath labored for the wind underline and CLE that verse in your Bible all his days also he eateth in darkness now notice Verse 18 behold that which I have seen

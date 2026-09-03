@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hEUcfLBf-Is"
 duration_min: 29
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Father, we thank you. Father, we thank you. Father, we thank you. We are grateful to you. Thank you for the flow of your power.

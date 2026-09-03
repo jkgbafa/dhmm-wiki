@@ -8,6 +8,8 @@ year: 2005
 duration_min: 69
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Hallelujah. Father, thank you so much for this morning in Jesus' name. We ask you to guide us by your Holy Spirit in Jesus' name. Amen. You may be seated.

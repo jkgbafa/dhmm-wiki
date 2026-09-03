@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/1yrq3dRqnoaC/"
 duration_min: 42
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Welcome to Covenant Sunday, the first Sunday of the year. And on this Sunday, we are dedicating this Sunday to saying something to the Lord. Amen. About our lives, about what we want him to do with us and what we want him to do with us for the year. Amen.

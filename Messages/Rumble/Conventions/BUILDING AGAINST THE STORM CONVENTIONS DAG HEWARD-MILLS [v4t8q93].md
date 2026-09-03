@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t8q93/"
 duration_min: 105
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 In the shadow of his hand, and daily I will put my trust in. I will listen when he speaks to me. There's no fear living in his peace. Angels all around, keeping me. I'm covered by his love, and under his wings, I will trust.

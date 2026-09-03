@@ -9,6 +9,8 @@ duration_min: 47
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/PVCI   GTWC LUSAKA  DAG HEWARD-MILLS  2025 [iBHLcQWd9rU]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 Now, let me give you the supreme code of pastoral work. Okay. The supreme code for pastoral work. Pastoral work is PC. Alright?

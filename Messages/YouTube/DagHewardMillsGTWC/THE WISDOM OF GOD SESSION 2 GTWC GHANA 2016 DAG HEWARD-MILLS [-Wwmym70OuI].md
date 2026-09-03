@@ -8,6 +8,8 @@ year: 2016
 duration_min: 170
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 Father, thank you for the blessedness. Père, merci of your Holy Spirit pour la sainteté de ton esprit qui nous a été donné. In Jesus' name. Amen. You may be seated.

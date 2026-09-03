@@ -4,6 +4,8 @@ book: "Catch The Anointing"
 book_number: "015"
 chapter_number: 8
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ## Chapter 7

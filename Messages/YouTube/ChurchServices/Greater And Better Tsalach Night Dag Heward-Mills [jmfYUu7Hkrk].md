@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jmfYUu7Hkrk"
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 God found a problem with his own arrangement that he made his own covenant he found a puzzle you know something what I did I originally this what I did but I think I see a problem in it 2025 2025 2025 lift your hands and thank God I want everybody to thank God it is God who has allowed you to be alive God who has blessed you God has made you breathe God has made you to see lift your hands and lift your mouth with thanksgiving to God give out your neighbor happy new year oh yes

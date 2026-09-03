@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=r3l7nx60490"
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 lift up your heart where's animal gianlu father thank you for that I support sending Jesus for to miss ASU to us wife a wherever we were good evil serenity now you send him to us unity - mr. yes we thank you Naruto Kazan for tonight in Salima you chicken oh no sorry my salvation you blue moon so messy de fondo deliverance John below has come refika Salima who sorry ma thank you for power to do much with them have miracles so this one we are rest the forces of darkness Ephraim and improper the name of

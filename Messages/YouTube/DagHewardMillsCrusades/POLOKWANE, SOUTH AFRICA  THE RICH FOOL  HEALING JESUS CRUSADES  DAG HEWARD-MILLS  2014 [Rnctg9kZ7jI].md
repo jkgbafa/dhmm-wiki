@@ -8,6 +8,8 @@ year: 2014
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 listen to this one somebody sing with me lift up your hands to Jesus V lift up your voice and are you ready are you ready are you ready Glory listen to oh up everybody shout Jesus come on come on everybody come on shout loudly lift up your handses lift up your handses everybody shout Jesus come on and showout Jesus come on and showout Jesus come on and Shout Jesus the Mery of the name of Jesus every knee shall and every time shall that Jes thees Jes w Jes Jesus Jes Jesus Jesus lift up your trumpet

@@ -8,6 +8,8 @@ year: 2023
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Hallelujah are you awake are you sure father thank you for this opportunity and this blessing in Jesus name amen amen you may be seated how many of you were at the flow prayer meeting I was there you were there that's good now we are going to go and rest a little and come amen but before that we need to continue if we don't continue it will will go very late and today is almost the last day tomorrow morning and then we tomorrow morning early then we we leave so just I believe that the message that

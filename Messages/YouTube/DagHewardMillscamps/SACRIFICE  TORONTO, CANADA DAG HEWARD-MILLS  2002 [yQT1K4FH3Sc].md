@@ -8,6 +8,8 @@ year: 2002
 duration_min: 10
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 welcome to track number 11 of the mega church first person is who Satan second person is the Antichrist now turn with me to Daniel chapter 8 I lay all of my burdens down at your feet anytime I don't know what what to do I will be all of my care upon you I lay all my care cast all my cares upon you Daniel 8 verse 9 10 I lay all of my burdens down at your Fe and anytime I don't know what to do I will cast all of my cares upon you cast all my

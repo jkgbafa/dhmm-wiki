@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wfr0Vacl-Wk"
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wisdom"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wisdom"]
 ---
 
 and I I I have been going on wherever ah Oh oh sure and remind me Oh I Oh we're ah I clap your hands for Jesus I'd say mortgage on Verena Mary ladies and gentlemen this morning when an aloe vera gun God has sent seven to us where you are two member aldo80 party we saw me minister at the Crusades Rajesh Mira Cruz Edna zero but this morning he is speaking to us as a pasta man one another to equality of Wendy's a man God is using to raise many pastors worldwide more Americans on American

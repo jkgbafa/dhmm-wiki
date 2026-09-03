@@ -8,6 +8,8 @@ year: 2000
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 For another chance to be together to listen to your word and to grow and to be ready to do all that you have for us to engage the enemy and fight good fight. Hallowed be thy name, Lord. We thank you, Father, for your great presence here in Jesus' name. Amen. You may be seated.

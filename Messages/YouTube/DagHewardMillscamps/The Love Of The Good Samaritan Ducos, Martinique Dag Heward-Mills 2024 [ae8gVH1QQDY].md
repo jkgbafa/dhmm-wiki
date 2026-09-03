@@ -8,6 +8,8 @@ year: 2024
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Now before we take a break. Amen. I want to talk to you very briefly about the love of the good Samaritan. Love of the good Samaritan. Yesterday I talked to you about the greatest love.

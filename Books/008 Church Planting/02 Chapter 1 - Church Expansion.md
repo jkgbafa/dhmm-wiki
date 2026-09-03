@@ -4,6 +4,8 @@ book: "Church Planting"
 book_number: "008"
 chapter_number: 2
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Chapter 1\

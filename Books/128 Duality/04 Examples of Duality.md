@@ -4,6 +4,8 @@ book: "Duality"
 book_number: "128"
 chapter_number: 4
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 ## Examples of Duality

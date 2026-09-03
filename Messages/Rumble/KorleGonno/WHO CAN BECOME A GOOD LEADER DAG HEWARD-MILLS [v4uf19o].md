@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uf19o/"
 duration_min: 27
 source: "whisper"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Let's read verse one. It says, This is a true saying. If a man desire the office of a bishop, he desires a good work. Amen. A bishop then must be blameless.

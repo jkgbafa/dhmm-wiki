@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=PLJXxRpR8IM"
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Clap your hands for Jesus for Jesus for Jesus What a blessing. Are you ready for what God has for you tonight? Clap your hands again. Yesterday we had the representative of the governor of the province of Kayanza here to read a speech on his behalf. And today we are blessed to have him here with us personally.

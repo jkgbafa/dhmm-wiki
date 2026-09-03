@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8MJXqN9qIDc"
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 precious Lord take my leave me go help me man I have Tiger I am me I am whoa through the star tool and I be your take my hand mashaallah leaving home when I'm a friend pressure the Lord is linking my ha ha the river would you please focus my head hit my head hard lead me home my videos will you help me man sometimes I get tired sometimes I get a week and time again whoa - laughs - the 9db big maja so my Libyan I'm gonna say he'll be best special or big my

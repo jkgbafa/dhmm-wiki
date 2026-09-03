@@ -8,6 +8,8 @@ year: 2019
 duration_min: 138
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 to all the world and preach the gospel M until your life is done oh yeah if you love me obey the Great Commission build churches everywhere oh in every town every Province every city oh Africa I shall be saved but tell me how long is it going to take for you to obey me I have a feeling that I'm Waiting in Vain oh for you to do my will oh yeah I have a feeling that I'm waiting vain oh for you to obey me that's why I keep asking am I going to wait in vain

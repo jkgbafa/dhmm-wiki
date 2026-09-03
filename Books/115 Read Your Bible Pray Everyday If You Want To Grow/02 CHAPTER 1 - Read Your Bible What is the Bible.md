@@ -4,6 +4,8 @@ book: "Read Your Bible Pray Everyday If You Want To Grow"
 book_number: "115"
 chapter_number: 2
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 CHAPTER 1\

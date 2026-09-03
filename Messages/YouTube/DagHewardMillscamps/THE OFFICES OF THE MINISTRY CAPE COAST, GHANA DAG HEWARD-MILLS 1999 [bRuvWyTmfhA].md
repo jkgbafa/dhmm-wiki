@@ -9,6 +9,8 @@ duration_min: 66
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE OFFICES OF THE MINISTRY  CAPE COAST, GHANA  DAG HEWARD-MILLS  1999 [bRuvWyTmfhA]]]"
+topics: ["Anointing", "Ministry and Pastoring", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/the-holy-spirit"]
 ---
 
 Appointing is there, or the Holy Spirit is there, these special offices of ministry become very well defined and very well established, and they all perform their specific role beautifully. Amen. Are you understanding why the Holy Spirit must come? Oh, are you there or you've gone home? Sit up, everybody.

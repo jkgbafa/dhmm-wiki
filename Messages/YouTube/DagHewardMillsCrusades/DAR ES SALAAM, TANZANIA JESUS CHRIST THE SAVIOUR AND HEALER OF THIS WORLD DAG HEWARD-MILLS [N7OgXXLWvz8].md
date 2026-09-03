@@ -8,6 +8,8 @@ duration_min: 143
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/DAR ES SALAAM, TANZANIA  JESUS CHRIST THE SAVIOUR AND HEALER OF THIS WORLD  DAG HEWARD-MILLS [N7OgXXLWvz8]]]"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Shukuru Kwa Kwa the Zakosami Hallelujah Mababa Zabina is up as I woke in our testibaba to Kumukakati Zakosami Hallelujah Hallelujah Munu and Chichuna Kumarina come away to Nakuchukuru Mumbu and Mihumbu Sayashima Zakomakuna Yes Yes Yes, you may go back to your place. Are you excited to be here this afternoon? Are you excited to be here this afternoon? Do you feel God is going to touch your life today? If you are expecting a touch, then clap your hands for Jesus.

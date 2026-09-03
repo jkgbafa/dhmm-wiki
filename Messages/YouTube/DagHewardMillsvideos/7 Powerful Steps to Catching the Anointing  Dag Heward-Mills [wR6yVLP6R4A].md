@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wR6yVLP6R4A"
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Loyalty and Disloyalty"]
+tags: ["topic/anointing", "topic/loyalty-and-disloyalty"]
 ---
 
 oh yes while Peter yet spake this is a famous sermon Peter has two famous sermons in the book of Act 2 and 10 2 and acts 10 okay okay he has two famous sermons 2 and 10 this is the other famous sermon W it was in this message that he said how God anointed Jesus Christ of Nazareth with the Holy Ghost and power verse 38 whilst he was preaching look at what happened why Peter yet spake this words the Holy Ghost which is the anointing fell on them that all it fell on all wow that's

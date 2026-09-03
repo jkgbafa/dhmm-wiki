@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2004
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 the season of full-time ministry. Amen. Amen. Turn with me to Galatians chapter 6. Galatians chapter 6 verse N let us not be weary in welloing for in due season we shall reap if we faint not. Amen. Amen. Now, I'm I'm talking about the due season. When when we say something is due, like if somebody is pregnant, say she's due. Amen. What does it mean? It's like it's time. You get it? So, the time for that thing has come. You understand? Yes, sir. Or the season for that thing has come. the the error or the time

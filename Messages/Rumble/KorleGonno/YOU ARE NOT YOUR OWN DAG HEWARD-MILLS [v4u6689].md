@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u6689/"
 duration_min: 29
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 Please tell me the first Corinthians chapter 6. First Corinthians chapter 6. We are studying excellence. Amen. First Corinthians chapter 6.

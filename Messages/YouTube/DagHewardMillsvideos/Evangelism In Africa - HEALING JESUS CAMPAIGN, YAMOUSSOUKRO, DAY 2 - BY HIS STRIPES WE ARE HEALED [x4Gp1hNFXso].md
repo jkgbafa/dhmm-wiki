@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=x4Gp1hNFXso"
 duration_min: 134
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Hallelujah. I sus in my in my liberty. I need to Oh, you wash you in the wash. In the direction you shante. I see You shant. wash. Hallelujah. Hallelujah. Hey the morning to my son to sonella. Z my delivery. You are in the direction you are in the direction. Short. Wow. Wow. Wow. Wow. Wow. Oh, she passes you. No blue merc. to shores Shores Amen. You say you dance. Oh, you say you concern you s My in my Oh, you Hallelujah. Keep standing. Keep standing to your feet. Tonight is the second night of this campaign.

@@ -9,6 +9,8 @@ duration_min: 58
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/MOUNTAIN-LIKE CHURCH  GTWC KAMPALA  DAG HEWARD-MILLS  2025 [TYiOmVAPD0Q]]]"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Now, before we close tonight, because it's getting to eight o'clock now, Isaiah chapter two, Isaiah chapter two, and it shall come to pass, Amen, it shall come to pass in the last days that the mountain of the Lord's house shall be what established in where in the top of the mountains and shall be exalted above the hills, and all nations shall flow into it. Lift your hands, whatever it means, all nations, let it happen practically, anyone restricted to one nation, beginning from today, you are released to relate with other nations in your ministry, in the name of Jesus, all nations, all nations now, beginning from now, Kalama Shandola Baba, open your heart to relate with foreigners and with any one who is not from your country in the ministry, because this is the new level, this is the new level, it shall be established, and all nations shall flow into it from today, you are going to relate with Kenans with Americans, with English people, with Germans, with Russians, with every nation, lift your hand into the sky, Lord.

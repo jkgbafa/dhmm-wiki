@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=beRzlO-JifQ"
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I stand before you guilty and unworthy how can I be forgiven and made holy though I know I break your heart but you promised I could start all over and all the things I've done you place the meat and everyone into the sea of forgetfulness you blaze the love my dear I'm the one who keeps reminding you over and over again into the sea of forgetfulness far as people aware there will be forever you forgive me and you keep plans in me cleansing myself into the CI forgetful man you welcome me with open arms of

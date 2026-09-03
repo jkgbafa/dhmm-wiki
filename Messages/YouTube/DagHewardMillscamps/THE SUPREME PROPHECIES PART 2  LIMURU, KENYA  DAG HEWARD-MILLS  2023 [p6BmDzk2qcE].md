@@ -8,6 +8,8 @@ year: 2023
 duration_min: 168
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 all right you may be seated number eight the rise of shepherds this is the next prophecy there's going to come the rise of shepherds shepherds are going to be released when he saw the multitudes he was moved with compassion Matthew 9:36 he was moved with compassion on them because they were fainted they fainted and they were scattered abroad as sheep having no Shepherd now the main feature of the absence of a Shepherd is the absence of someone who gathers people so you see that the Sheep were scattered everybody say scattered scattered what's the meaning of

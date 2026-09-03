@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=m4gV_-NiZNA"
 duration_min: 220
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we give you praise we give you glory Jesus thank you we give you Praise Jesus and we bless you in your name have we prayed and everyone said amen we want to welcome you all to our flow prophetic service it's such a blessing that you are here today and you've joined us make sure you call other people for them to join it's going to be a blessing want to spend some time probably like 5 minutes to pray and um we want to start by giving God thanks Hallelujah want to give God thanks and want to

@@ -8,6 +8,8 @@ year: 2013
 duration_min: 26
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Welcome to type number two. Principles of law. And no matter how highly concentrated, the word of God will be outside you. It won't flow by osmosis. You must actively pick.

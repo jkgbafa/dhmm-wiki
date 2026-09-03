@@ -9,6 +9,8 @@ duration_min: 100
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/ANTANANARIVO, MADAGASCAR DAY2  THE MIRACLE OF THE CENTURION SERVANT  HJC  DAG HEWARD-MILLS  2023 [4EFWxmrjt9A]]]"
+topics: ["Prayer", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Lord, we welcome the Holy Spirit. Have your way. We come in the name of Jesus. We bind every work of the devil. We bind every demonic presence.

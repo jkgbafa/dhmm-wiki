@@ -9,6 +9,8 @@ duration_min: 105
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THOSE WHO LEAVE YOU  GTWC LONDON  DAG HEWARD-MILLS  2016 [7EOWp9yFPak]]]"
+topics: ["Leadership", "Leadership/Art of Leadership", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I want to share with you on how to cut off and destroy those who leave you. Those who leave you. Now, why God allows people to leave you? Number one, the Lord may allow people to leave you to correct a foundational mistake you made in the ministry. Some people are not supposed to be with you.

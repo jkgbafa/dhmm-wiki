@@ -4,6 +4,8 @@ book: "Stir It Up"
 book_number: "080"
 chapter_number: 3
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ### CHAPTER 2\

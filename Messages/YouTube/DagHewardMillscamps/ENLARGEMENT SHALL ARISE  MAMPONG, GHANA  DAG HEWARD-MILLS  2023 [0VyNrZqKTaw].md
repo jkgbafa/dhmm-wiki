@@ -8,6 +8,8 @@ year: 2023
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 I sat on the hillside looking out over the Wilderness I longed for a sweet fellowship with my father who my love I have been in battles all week long fighting in the ministry fighting for the kingdom of God it left me feeling dry and uncertain oh oh lord it's not for what you give me or all the things you do for me but for the feeling of being near you it's not for what you give me all the things you do for me for the feeling of being near you I just want to Close to

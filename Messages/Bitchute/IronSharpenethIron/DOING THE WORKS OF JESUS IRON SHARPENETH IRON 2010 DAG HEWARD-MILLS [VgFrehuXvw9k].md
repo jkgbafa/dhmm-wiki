@@ -8,6 +8,8 @@ year: 2010
 duration_min: 197
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 We thank God for another iron sharpness iron. And our conference is all about the work of the ministry. Amen. From about 6, 7 am until the afternoon, and then our guests will help by preaching for the rest of the day. Amen.

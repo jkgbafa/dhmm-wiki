@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/the-anointing-of-p
 duration_min: 104
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Anointing/Kinds and Waves of the Anointing"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/anointing/kinds-and-waves-of-the-anointing"]
 ---
 
 Here I am waiting, abide in me I pray, oh Lord, and here I am longing, I'm longing for you. Oh, hide me in your love and bring me to my knees, oh Lord. May I know Jesus more and more, more and more. Oh, yeah, here I am waiting, abide in me I pray, I pray Lord. Here I am longing, longing for you.

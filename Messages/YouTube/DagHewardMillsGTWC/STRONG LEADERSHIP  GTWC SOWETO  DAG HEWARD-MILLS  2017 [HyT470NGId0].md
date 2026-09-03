@@ -8,6 +8,8 @@ year: 2017
 duration_min: 163
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/leadership", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Let's stand and just thank the Lord for the great work that the evangelist is doing. Hallelujah. My goodness. I don't know if we we we realize how how blessed we are to really receive from a vessel and a servant of God. someone who is preaching the gospel unashamedly doing the work of the ministry with no shame and with no holding back. I think as well for a while we are reminded of the danger if the church doesn't do what it should do and and that the world is going another way hating disliking and the church

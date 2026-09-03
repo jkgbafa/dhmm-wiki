@@ -4,6 +4,8 @@ book: "The Anointed And His Anointing"
 book_number: "016"
 chapter_number: 21
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Chapter 20\

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=mHr7SL7ElBA"
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 geronimo chapter 34 and best 9 it says and Joshua the son of nun was full of the spirit of wisdom for Moses had laid his hands upon him and the children of Israel happened unto him as did the law as the ended ended as the LORD commanded Moses mmm so wisdom is something that comes also from the laying on of hands amen so one of the ways to overcome the curse or ameliorate it or minimize it or neutralizes I should say neutralized the better way because if you neutralize acid with an alkaline what happens is

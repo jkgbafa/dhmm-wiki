@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=clXpME5Ugw4"
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/anointing", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 amen amen the anointing is what we are talking about now I want to share with you I'm sharing from this book catch the anointing hallelujah hallelujah amen amen now I was sharing about soaking in seven things that you get when you soak in messages hallelujah hallelujah and God blesses you with many things now I want to share about what I call am man and chalak in 2 Chronicles chapter 20 verse 20 it says and they rose up early in the morning and went forth Into the Wilderness of Taqua and as they went forth Jehosaphat stood

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8rBXsj-k2ZA"
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 tonight the campaign we are enjoying as a result of the hard work of a pasta in the city super nerdy not the hwacha to say Calabar kilometer Pavarotti Beruna everyone who welcome the chairman of the central planning committee of best campaign to come and also bring us his opening remarks let's welcome our Chairman doulas kilo-alpha Tolliver root key fob arugula halt until today no one sakuya ha hello hallelujah taste and see that the Lord is good for Normandy Maziar me taste and see that the Lord is good laso moon storm with DiMucci army tonight we

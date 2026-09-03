@@ -8,6 +8,8 @@ year: 2012
 duration_min: 167
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 once upon a time there was a man who had two sons the younger one left his home into the world there he wasted his life doing many wicked things but his father that still waited PA and he came to his SS and came running to his father forgive me please forgive me take the world there is a better place for you and for me and the ENT human R There Are People Dying never heard about salvation and Savior Jesus Christ there's a place beyond the sky and it's Heaven up above Jesus died on the cross

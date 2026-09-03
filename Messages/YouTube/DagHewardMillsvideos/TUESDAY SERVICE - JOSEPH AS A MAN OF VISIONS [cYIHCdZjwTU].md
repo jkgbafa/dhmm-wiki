@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=cYIHCdZjwTU"
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Prayer"]
+tags: ["topic/faith", "topic/prayer"]
 ---
 
 I'm llegar uses ordinary people he chooses people like me and you people willing to do the math oh yeah God chooses people while Willie he pinball no matter how normal my Slim's to you because it'll become much oh when you play this oh yeah ordinary people I'm glad God you plain old ordinary food yes because he should have people like me and you people willing to serve man Oh God uses people what willing to give him all no matter how small your almighty do you because little becomes ha oh yes when you place it in

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=f95NX9G_qUg"
 duration_min: 65
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 We equalized, pata pata, what eco-friendly work these patches and other branches, and Elie isn't there, the sin I said came to break the chains, pata pata, I just broke our chains, not Jesus came to break the chains, satellites, pata pata pata pata pata pata pata, Ouattara [ Music] Not bad, like a 10, Kamaishi Wade North, the Khamassi Mandela zone, like the Cimade and the customs building, month of May His GP Williams, come see, come see what I do What you call and me alone, what to do if the guy told me [ Applause] No, no

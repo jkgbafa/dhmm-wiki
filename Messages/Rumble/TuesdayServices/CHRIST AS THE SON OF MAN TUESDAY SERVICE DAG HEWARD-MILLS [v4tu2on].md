@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tu2on/"
 duration_min: 67
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 I just want to share a little message with you. Um about Christ, Jesus, amen. So tonight, I want to share about Christ as the Son of Man, Christ as the Son of Man. There were different titles which were designated to Jesus Christ. One was a son of God, another was a son of man.

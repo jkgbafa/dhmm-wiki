@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=qhdHoBEohss"
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Give the Lord a chat Yawies au Pépé Layes Omayes Oh pochayes taquaba Ova y Makaya Chi Love Yosé O Shayesu Pepe La Yesu Oma Yesu Oh po Shayesu Taquaba O Banga y Makaya Sean Alia Croyas soa lipala lift up your right hand and say amen toali Mussina croyas so li parloi M'shi nali acqua yesou toa li tifia Moshin Aliak soa li fim boi she na lia croyasou toali mousou caus say with me yeah so I can yes lift up your right hand and sing yes we love you Lord I love yourself la laquais soi dali

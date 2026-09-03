@@ -9,6 +9,8 @@ duration_min: 70
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/DEMONIC ACTIVITIES  AUCKLAND, NEW ZEALAND  DAG HEWARD-MILLS  2024 [RbQa8yBoTyM]]]"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Father, thank you for this amazing experience in the name of Jesus. Amen. You may be seated. Ephesians chapter six. Now yesterday, what was I sharing with you about in the morning?

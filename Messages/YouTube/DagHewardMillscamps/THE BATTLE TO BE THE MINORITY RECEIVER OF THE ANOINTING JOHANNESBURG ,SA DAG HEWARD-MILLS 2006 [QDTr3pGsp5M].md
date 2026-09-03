@@ -8,6 +8,8 @@ year: 2006
 duration_min: 22
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 So battles. How many can see what I'm talking about? Alright. Okay. Now we go.

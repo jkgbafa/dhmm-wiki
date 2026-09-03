@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/4yFMF6r2ftly/"
 duration_min: 21
 source: "whisper"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers", "Prayer"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/prayer"]
 ---
 
 Qualities needed for watching and praying. Amen. I believe I started sharing with you some of those things, and I'm continuing today. What are some of the things that are needed for watching and praying? Number one.

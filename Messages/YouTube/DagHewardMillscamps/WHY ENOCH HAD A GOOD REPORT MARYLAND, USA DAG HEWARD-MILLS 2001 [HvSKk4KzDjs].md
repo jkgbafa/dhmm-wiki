@@ -9,6 +9,8 @@ duration_min: 30
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHY ENOCH HAD A GOOD REPORT   MARYLAND, USA  DAG HEWARD-MILLS  2001 [HvSKk4KzDjs]]]"
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 Welcome to track number 16 of what is your life, verse 5. Enoch was translated that he should not see death in was not found because translated him for before his translation, he had this testimony that he pleased God, amen. Enoch was another person who had a good report. Amen. Why did he have a good report?

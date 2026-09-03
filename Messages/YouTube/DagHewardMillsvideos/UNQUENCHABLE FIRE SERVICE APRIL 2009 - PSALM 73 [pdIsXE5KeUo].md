@@ -8,6 +8,8 @@ year: 2009
 duration_min: 84
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 and all I see this you all line oh my oh all I did is all I did all I mean is you lord it's all is you or with your head to the law six to the model that is you oh oh so damn bad area yo we need long my opinion all I need all I need is you are all right it is still on all I need is you Lord he come I am so tired you give up you know gila gila gila gila gila gila you know oh can we get your voices

@@ -8,6 +8,8 @@ year: 2002
 duration_min: 13
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 welcome to track number 12 of all out listen there are no explanations for my messages you get it just take it that's what I mean I can't explain it more what do you think is it working for you God wants you to be all out why should you have a vision to be a lay Pastor why have a vision to be a full-time Pastor do you see why why have a halfway Vision when you want to have a car you have a vision to have a Ben or a this or the highest you don't say

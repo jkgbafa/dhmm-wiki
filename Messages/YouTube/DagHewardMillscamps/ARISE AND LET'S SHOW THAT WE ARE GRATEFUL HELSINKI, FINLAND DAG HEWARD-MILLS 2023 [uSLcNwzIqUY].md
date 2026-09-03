@@ -8,6 +8,8 @@ year: 2023
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Father, thank you for the great blessing we have. You may be seated. Number 15. Numero 15 or 13. Choose any number.

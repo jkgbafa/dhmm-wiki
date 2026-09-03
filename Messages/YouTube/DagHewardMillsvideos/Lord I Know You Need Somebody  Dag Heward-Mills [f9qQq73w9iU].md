@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=f9qQq73w9iU"
 duration_min: 194
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 better for the lord give god a mighty handclap offering hallelujah oh yeah that is really exciting so do it one more time show god some appreciation amen hallelujah i want you to turn to your neighbor and tell your neighbour god has something good for you today oh look at your neighbor and tell your neighbor god has something good for you today and i'll say to yourself point yourself and say to yourself god has something good for me today the first one was for your neighbor the second one is you so say to yourself god has

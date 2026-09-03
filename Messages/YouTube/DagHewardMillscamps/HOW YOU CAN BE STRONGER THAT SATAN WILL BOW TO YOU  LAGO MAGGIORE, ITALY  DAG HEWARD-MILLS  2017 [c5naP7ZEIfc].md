@@ -8,6 +8,8 @@ year: 2017
 duration_min: 65
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah now I want to share with you on how you can become stronger so that Satan will bow to you hallelujah hallelujah number one to be a strong Christian stronger is to be become steadfast you must become steadfast hallelujah hallelujah and unmovable IM 1 Corinthians 15:58 therefore my beloved Brethren be ye steadfast and unmovable amen amen amen so God is bringing you up so that you become steady now what does it mean to be steadfast to be steadfast is to be unmovable you see all these years I've been preaching about Soul winning and working for

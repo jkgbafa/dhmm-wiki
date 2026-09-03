@@ -9,6 +9,8 @@ duration_min: 59
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HOW A SPIRITUAL SON DEVELOP   WINDHOEK, NAMIBIA DAG HEWARD-MILLS  2016 [QX2K6TJz6EM]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Welcome to track number two of where is the flock that was given thee. Wow. Your conscience is getting stronger. Now, quickly. Our last little session.

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3mnc/"
 duration_min: 47
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Thank you for your presence. We ask Holy Spirit that you guide us, you lead us, you minister to our hearts in the precious name of Jesus. Thank you for what you are able to do with our lives. We bless you, Lord, in Jesus' name. Amen.

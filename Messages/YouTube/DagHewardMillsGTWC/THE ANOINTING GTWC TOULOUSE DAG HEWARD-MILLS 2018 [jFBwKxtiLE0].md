@@ -9,6 +9,8 @@ duration_min: 124
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE ANOINTING  GTWC TOULOUSE  DAG HEWARD-MILLS  2018 [jFBwKxtiLE0]]]"
+topics: ["Anointing", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, thank you for the opportunity that we have today. Thank you for the grace for the grace to receive from you to receive guide us by your mighty Holy Spirit in the name of Jesus and everyone said amen. You may be seated. This morning, I want us to look at the anointing. And I want to what is the anointing?

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=dxk0wjJRs_A"
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Call of God", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/ministry-and-pastoring", "topic/the-call-of-god", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 number one was what the messy but it a means you fulfilling the will of God number one is what the most intimate is what the separation you fulfill your ministry number three is what the will number four is what the call yes you see you are now getting deeper the call the call is only now that we are going to ask whether you are cold but by this time you have followed the love and the mercy you have accepted the separation is it and you have sought for the mystery of his will to understand you

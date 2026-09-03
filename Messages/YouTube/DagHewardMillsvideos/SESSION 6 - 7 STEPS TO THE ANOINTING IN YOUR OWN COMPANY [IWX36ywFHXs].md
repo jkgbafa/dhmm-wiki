@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IWX36ywFHXs"
 duration_min: 137
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing"]
 ---
 
 amen amen arrived seven steps to the anointing in your own company sets it up Manila and I'm reading from Acts chapter 4 verse 23 don't act cut let's see this one amen and being let go being let go they went to their own company and reported all that a chief priests and elders had said unto them and when they had enlisted of their voice to God with one Accord and said Lord our God which has made heaven and earth and the sea and all that in them is who by the mouth of thy servant David

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u84yx/"
 duration_min: 47
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Salvation/Backsliding"]
+tags: ["topic/salvation", "topic/salvation/backsliding"]
 ---
 
 Hallelujah, hallelujah, hallelujah. Let's pray. Father, thank you so much for the great opportunity we have in your presence to love you, to serve you. We ask, Lord, that you guide us into all truth into all that is your will. Help us, Father.

@@ -4,6 +4,8 @@ book: "Jezebel A Woman Out Of Order"
 book_number: "109"
 chapter_number: 33
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 ### CHAPTER 32\

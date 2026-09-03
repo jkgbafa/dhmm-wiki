@@ -8,6 +8,8 @@ year: 2003
 duration_min: 17
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 welcome to track number 13 of a greet on the way childhood and youth are vanity when you see a child playing around and youthfulness and so you realize that it's uselessness when you can you see them dancing this that you see people walking you say uselessness uselessness people will bring their father's cl to come and Screech uselessness remember now thy Creator in the days of thy youth while the evil days come not nor the years draw nigh when thou shalt say I have have no pleasure in them while the Sun or the light of the

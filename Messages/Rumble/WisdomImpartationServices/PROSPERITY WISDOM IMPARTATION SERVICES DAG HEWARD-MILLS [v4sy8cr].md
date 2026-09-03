@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sy8cr/"
 duration_min: 178
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 Every day get away. I want to start my day with you. Every day that I wake I want to start my day with you. Some people wanna please you in the church building that I wanna please you with everything of you all of me, worship your majesty, you worship every day. Not just one little week, worship you in my heart at night in the floor Jesus.

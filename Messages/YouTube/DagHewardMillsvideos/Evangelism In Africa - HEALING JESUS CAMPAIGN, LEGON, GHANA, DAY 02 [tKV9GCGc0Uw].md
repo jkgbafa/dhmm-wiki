@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tKV9GCGc0Uw"
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 tonight I want to preach and share with you just a short message they Saturday about the Christian race and the rat race the Christian race and the rat race but more about the Christian race and I'm reading from the Bible therefore since we have so great a cloud of witnesses surrounding us let us lay aside every weight aright and the sin which does so easily beset us and let us run with patience the race that is set before us looking unto Jesus the author and finisher of our faith who for the joy that was set

@@ -8,6 +8,8 @@ year: 2016
 duration_min: 101
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 qu Hallelujah are you ready Hallelujah somebody sing with me am amen sat why don't you lift up your heart and sing Hallelujah everybody lift up your right hand and sing J W la la oh la la la am why don't you lift up your heart and sing J Hallelujah yeah he to good come on to are you ready are you ready Z put your hands together oh somebody lift up your right hand and say w are you ready say so hallelujah hallelujah Give the Lord a shout hallelujah are you here are you here yes s

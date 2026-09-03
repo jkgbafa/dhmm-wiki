@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=065msiTHWNI"
 duration_min: 138
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 oh how he hates me how he weighed me while you feel me we were holy one I'll he healed me to be animal when I think about the Lord how he picked me up and turn me around ah now it's power put your hands together one more time for the fruit can we take an offering a good idea to take enough rain I didn't hear you circulate the kind of rain as I said in Bayou did you come to God empty I came with some healthy healthy something ask him ask him but Eric asked first

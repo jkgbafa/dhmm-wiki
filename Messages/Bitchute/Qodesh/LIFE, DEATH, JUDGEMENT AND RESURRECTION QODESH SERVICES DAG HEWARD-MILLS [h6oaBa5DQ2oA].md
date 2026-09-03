@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/h6oaBa5DQ2oA/"
 duration_min: 110
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Above all power king above all nature and all created wisdom all the ways you were here before you were here before the world began. Come on, say it above all kingdoms, above all, above all wonders, the world has ever known above all wealth, above wealth, and treasures, yes. There's no way you can use money, not houses, not kingdoms. Lift your hands and say, Crucified, lay behind a stone, you live to die, rejected like a roast, trampled on the ground, you took the fall, and you thought of me. Oh, but you are a Bible, you were crucified, laid behind a stone to live to die, rejected alone, like a robe, trampled on the ground, you too before God of me all you are above, Jesus is above all, above all powers, above all kings, above all kingdoms, above all the thrones of the earth, my Jesus is above all, he is above all, he is the Lord of Lord, the grave could not keep him, death could not hold him, he's alive, he is alive, he is alive, hallelujah, Lord.

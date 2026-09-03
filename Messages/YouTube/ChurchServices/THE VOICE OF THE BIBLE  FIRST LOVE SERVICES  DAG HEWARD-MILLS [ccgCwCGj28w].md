@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ccgCwCGj28w"
 duration_min: 154
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah amen kindly open your Bibles to the book h of Revelation chapter 7 we're about to praise the Lord ciso style and I expect people to move their bodies amen hallelujah have you come with your dancing shoes this one you don't even need to dance Too Much you just need to do some one or two like this be and you'll be fine amen amen and the next song we are going to sing is scriptural amen so when you are singing it don't just say something Hallelujah when you sing it believe it and meditate on the

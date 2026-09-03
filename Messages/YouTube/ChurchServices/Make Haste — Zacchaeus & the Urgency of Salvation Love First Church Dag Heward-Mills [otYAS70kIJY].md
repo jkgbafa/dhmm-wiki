@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=otYAS70kIJY"
 duration_min: 55
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 America America Thank you. Thank you. Thank you. Thank you. Thank you.

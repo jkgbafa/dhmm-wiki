@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=RJj0NEsafHg"
 duration_min: 271
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Marriage and Family", "Marriage and Family/Children and Parenting", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 sing holy holy holy ho lord you are worthy and i'm honored creation oh as it is done as let it be done all the glory goes to you halloween lord and majesty divine divine authority your name oh sing to the lord your name lord and majesty divine divine authority you're the king of kings your name oh praise his holy name lord and majesty the divine divine authority halloween your name whoa halloween your name we thank you divine divine authority we thank you lord amen how many of you are thankful for the lamb of god i

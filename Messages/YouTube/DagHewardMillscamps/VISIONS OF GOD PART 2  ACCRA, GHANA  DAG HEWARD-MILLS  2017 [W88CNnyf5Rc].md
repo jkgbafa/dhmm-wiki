@@ -8,6 +8,8 @@ year: 2017
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 Hallelujah father thank you for the blessing of this moment we are grateful in Jesus name amen am you may be seated now I want to um continue on the theme of God's the visions of God the visions of God Proverbs 29:8 it says where there is no vision the people perish amen perish means go down don't do well the me finish reduce become poor have difficulties go into darkness things are not working we are not happy anymore insic insignificant unhappy no progress sadness difficulty is perishing do you agree with the English definition where there is

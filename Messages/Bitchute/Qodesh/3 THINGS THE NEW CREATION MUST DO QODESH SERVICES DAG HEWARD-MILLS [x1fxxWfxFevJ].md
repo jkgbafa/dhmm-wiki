@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/x1fxxWfxFevJ/"
 duration_min: 45
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "Salvation", "Salvation/The New Birth", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/salvation", "topic/salvation/the-new-birth", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 This morning's Bible reading is taken from Proverbs chapter 3, verses 19 to 26. Proverbs chapter 3, verses 19 to 26. I'm reading from the new American Standard Bible. Let's hear the word of God. By understanding, He established the heavens.

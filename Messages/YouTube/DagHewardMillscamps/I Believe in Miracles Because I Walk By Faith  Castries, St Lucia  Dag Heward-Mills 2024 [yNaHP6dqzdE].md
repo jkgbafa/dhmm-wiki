@@ -8,6 +8,8 @@ year: 2024
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/faith", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 pray for the spirit of Revelation pray for the spirit of Revelation andal and thanks thanks thanks Holy Spirit In The Name of Jesus Amen you may be seated I believe in miracles because I believe in the Bible that is point number one number two I believe in miracles because I believe in God number three I believe in miracles because I believe in the anointing remember how God anointed Jesus of Nazareth with the Holy Ghost and with power who went about doing good so when you believe in the anointing you understand why you believe in Miracle

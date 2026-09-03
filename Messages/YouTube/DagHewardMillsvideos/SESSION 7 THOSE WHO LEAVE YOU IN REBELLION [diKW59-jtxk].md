@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=diKW59-jtxk"
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 n lady oh inside or sing chain now and oh youty Bri bad B Jesus you're the sweetest name of all Jesus you always hear me when I call oh Jesus you lifts me up each time I fall you're the sweetest sweetest name of all Jesus how I love to praise your name oh Jesus oh I love to praise your name oh Jesus you died and took away my shame you're the sweetest sweetest name of all oh oh Jesus how I love to praise your name Jesus we need the love that you can bring oh oh

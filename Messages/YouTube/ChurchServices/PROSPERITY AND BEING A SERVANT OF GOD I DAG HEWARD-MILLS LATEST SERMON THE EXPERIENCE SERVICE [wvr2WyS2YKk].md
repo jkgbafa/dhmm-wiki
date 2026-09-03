@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wvr2WyS2YKk"
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 today if you are watching you see i'm just declaring over you prophetic blessings of prosperity for serving god as you serve god you'll be delivered from embarrassment embarrassment of shortages embarrassment of what shortages god has pleasure in the prosperity of his servant amen trendedbeefs.com love Thank you. Thank you. Thank you. Thank you. Thank you.

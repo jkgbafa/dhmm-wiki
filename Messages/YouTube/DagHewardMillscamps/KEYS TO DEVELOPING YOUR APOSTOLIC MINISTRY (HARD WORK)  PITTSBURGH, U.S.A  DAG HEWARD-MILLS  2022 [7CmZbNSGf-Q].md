@@ -8,6 +8,8 @@ year: 2022
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Prayer", "Work and Diligence"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/prayer", "topic/work-and-diligence"]
 ---
 
 wow amazing wow how many are enjoying the music it is amazing you you can understand why people are jealous is it not true oh yes you can understand why people got a problem because you can't believe that nice thing is existing and we are bearing much fruit singing about it flowing in it doing it I mean it's just just too beautiful it's just amazing so well you guys have a lot to do to catch up to catch up ketchup you know what the tomatoes said to his friend I'll soon ketchup that is a great blessing

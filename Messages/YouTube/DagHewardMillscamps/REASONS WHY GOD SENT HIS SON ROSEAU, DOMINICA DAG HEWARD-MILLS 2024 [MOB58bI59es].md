@@ -9,6 +9,8 @@ duration_min: 70
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/REASONS WHY GOD SENT HIS SON  ROSEAU, DOMINICA  DAG HEWARD-MILLS  2024 [MOB58bI59es]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Number six, God sent his son into the world because you are his special creation and achievements. John chapter one. In the beginning was the word. The word was with God. He was in the beginning.

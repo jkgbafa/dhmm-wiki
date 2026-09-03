@@ -8,6 +8,8 @@ year: 2023
 duration_min: 169
 source: "autocaption"
 match: "exact"
+topics: ["The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 why is this church not growing the key key Hallelujah and um we have been blessed we have been blessed I tell you too much too much we have been blessed by the prophet that God has used to lead us our Prophet whom he has given the pattern to he has given the pattern to to lead us to follow the same PA out of Egypt out of our Egypt out of our Egypt so that we become a great people a great nation multitudes don't you want your benter to be a a a to be plenty to

@@ -8,6 +8,8 @@ year: 2011
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/the-holy-spirit"]
 ---
 
 now I'm going to give you a formula that I want you to remember okay it's called formula 289 109 289 10 19 all right it is are are you are they starting to make the coffee all right all right listen listen the coffee I did my best but it's not my fault the Master of the House said there was no space for coffee okay no problem so they're rather doing the breakfast so soon I'll close early so that you can have breakfast okay can you love right now 289 109 say 28919 28919 did you get

@@ -4,6 +4,8 @@ book: "Flow In The Anointing"
 book_number: "061"
 chapter_number: 2
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit"]
 ---
 
 ### CHAPTER 1 \

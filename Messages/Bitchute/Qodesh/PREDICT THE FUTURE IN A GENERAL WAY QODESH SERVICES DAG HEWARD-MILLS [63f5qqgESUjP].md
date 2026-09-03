@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/63f5qqgESUjP/"
 duration_min: 106
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Lord, with your people, we exalt you. Where you are, just close your eyes, concentrate on him and talk to him directly. Lord, you are God in my life. Lord, you are King in my life. Man, ele mosaya neriwadaya.

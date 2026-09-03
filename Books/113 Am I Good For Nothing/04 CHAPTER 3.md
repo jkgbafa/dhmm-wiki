@@ -4,6 +4,8 @@ book: "Am I Good For Nothing"
 book_number: "113"
 chapter_number: 4
 type: book
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "The Word and Books"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/the-word-and-books"]
 ---
 
 ### CHAPTER 3\

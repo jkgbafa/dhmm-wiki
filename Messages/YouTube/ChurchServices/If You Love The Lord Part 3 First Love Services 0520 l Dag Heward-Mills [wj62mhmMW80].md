@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wj62mhmMW80"
 duration_min: 246
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Holy Spirit, we invite you this morning. We ask you to come. We ask you to come and move upon your people. Move in this place, Lord. We offer you your place in this place.

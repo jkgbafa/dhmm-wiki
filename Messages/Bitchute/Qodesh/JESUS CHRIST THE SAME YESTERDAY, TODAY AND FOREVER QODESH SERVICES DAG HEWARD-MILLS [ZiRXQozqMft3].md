@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/ZiRXQozqMft3/"
 duration_min: 62
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 And we shall read and be shall we shall everyone and his high shall ever float and who shall read forever and everluya hallelujah hallelujah or give it to the Lord put your hands together for the hymns crowd hallelujah and as they go down I believe there's excitement in the air wanna rise up and receive the crowd. There is excitement in the air. There's excitement in the air. Can't you feel it in your soul? God is moving by his grace.

@@ -8,6 +8,8 @@ year: 2019
 duration_min: 133
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 amen while we are still standing I believe that we have to push in the message we have heard today and water it with prayer amen and the first prayer I want us to pray is the reality that Jesus is the savior of the world yes but he will mean to you yourself a savior cuz sometimes we we we we are so eager to see him as someone saving the world but you yourself are losing your salvation by the day through all kinds of things there are people who stood here who have St in camps who

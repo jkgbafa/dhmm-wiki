@@ -4,6 +4,8 @@ book: "The Anointed And His Anointing"
 book_number: "016"
 chapter_number: 23
 type: book
+topics: ["Anointing", "Anointing/Kinds and Waves of the Anointing"]
+tags: ["topic/anointing", "topic/anointing/kinds-and-waves-of-the-anointing"]
 ---
 
 Chapter 22\

@@ -8,6 +8,8 @@ year: 2012
 duration_min: 146
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 this is the camp God has put you in to effect your change and we want to pray that it will not end this evening the change will continue after this camp that you will still have a desire to do all the things all the things that have been shared not even one sentence is theoretical the whole not even one word everything is practical to those who are hungry for that change and we want to pray and ask the Lord to continue this beautiful work he has begun to do in us and that you will refer

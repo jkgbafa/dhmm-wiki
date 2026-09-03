@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=CLIbaE8JmjY"
 duration_min: 115
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Raise your hands to Jesus if I have all the things of this world and lose everything if I have Jesus if I have everything is more precious than everything raise your hands raise your hands raise your hands raise your hands raise your hands [ Music] raise your hands if I have all the things of this world and lose everything if I have Jesus if I have everything is more precious than Jesus Sing with me if you have Jesus I have Jesus strength I have Jesus I have oh Jesus I have Jesus is more precious raise

@@ -8,6 +8,8 @@ year: 2018
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 yes a soul is a soul and it's precious to God he may be poor he may be rich a sess a soul and is precious to God he may be a little boy or a little girl a soul is a soul and is precious to God God is not willing that any should perish he loves everyone and so Master we a soul is a soul and is precious to God may be a lawyer maybe a doctor may be a father May a teacher May a betrayer maybe a plumber as soul is the soul and is

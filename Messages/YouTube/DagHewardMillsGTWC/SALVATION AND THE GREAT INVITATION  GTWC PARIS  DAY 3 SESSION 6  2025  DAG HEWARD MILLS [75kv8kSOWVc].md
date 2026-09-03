@@ -9,6 +9,8 @@ duration_min: 4
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/SALVATION AND THE GREAT INVITATION GTWC PARIS DAY 3 SESSION 6 2025 DAG HEWARD MILLS [75kv8kSOWVc]]]"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 Number five, section five. Salvation and the great invitation. Come everybody say come. Come to God. Come to Jesus. I feel the power. Listen. How many can feel the evangelistic anointing? Come. Come. You can feel it. Come. Come. Come to God. Come to me. Come to me all ye THAT LABOR and are heavy laden. How do you preach that? How do you preach that? What you have to tell them is that when Jesus says, "Come to me." He likes you. He wants you. HE REALLY LIKES YOU. HE REALLY WANTS YOU. He says, "Come. COME, MY DEAR.

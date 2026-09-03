@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hSKWuyliegw"
 duration_min: 169
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Curses", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 !mm my Well, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, Oh, yeah. Oh Nahm Break it down now. Break it down. Break it down. Yeah, yeah.

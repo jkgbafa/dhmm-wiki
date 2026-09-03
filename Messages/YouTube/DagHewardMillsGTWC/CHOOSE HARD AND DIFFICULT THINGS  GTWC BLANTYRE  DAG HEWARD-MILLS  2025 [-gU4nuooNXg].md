@@ -8,6 +8,8 @@ year: 2025
 duration_min: 14
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 Hallelujah. Let us pray. Father, thank you for the blessing of today. We ask for your guidance, your mighty Holy Spirit to lead us and to speak into our lives, into our hearts. We love you, Father. Thank you. Thank you, Jesus. Amen. Amen. You may be seated. pulpit. Pulpit. Right now, I want us to look into the art of leadership. Amen. Hallelujah. Amen. And I believe God is going to bless you mightily. Chapter 22. Uh chapter 22 of art of leadership. Amen. Amen. Now I was sharing with you that a leader to be a pastor to

@@ -8,6 +8,8 @@ year: 2016
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 hallelujah hallelujah make unto the Lord Joyful Noise unto Jesus hallelujah hallelujah W put your hands together for Jesus J lift up your right hand and say Amen am lift up your right hand and see J come on everybody come on S oo la la la oh lift up your right everybody see come on give Jesus a wave oh to for the Last Time come on say oh to to to this I the J oh J lift up your hands oh J is is Hallelujah Clap Your Hands for Jesus you may be seated wherever you are

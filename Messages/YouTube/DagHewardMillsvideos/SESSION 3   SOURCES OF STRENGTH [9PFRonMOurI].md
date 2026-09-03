@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9PFRonMOurI"
 duration_min: 203
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer"]
 ---
 
 Oh Oh it's all my life tonight everyone sings of our life Oh Hey Hey Oh Thank You Lord and I belongs to you if your hands to go God belongs to you because either young was and quick to your profit on to your children that is a blessing and it's a process that is a plastic literacy that is a blessing to choose this generation of young ones and to gather them as you speak through your prophet love it just for one minute lift your hands and tell the Lord to help you to be strong become

@@ -8,6 +8,8 @@ year: 2014
 duration_min: 152
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Prayer"]
+tags: ["topic/anointing", "topic/prayer"]
 ---
 
 father we thank you for the great blessing of praying in the spirit yes we do not know what to pray for but we lift our hands and we lift our spirits to you the Lord this morning direction will come our way yes yes yes yes Kos k k pray pray pray pray in the spirit pray in the spirit pray in the spirit pray in the spirit pray in the spirit yes that the Holy Spirit Will SE your heart that he may search your heart that he may search your heart that he he may help you

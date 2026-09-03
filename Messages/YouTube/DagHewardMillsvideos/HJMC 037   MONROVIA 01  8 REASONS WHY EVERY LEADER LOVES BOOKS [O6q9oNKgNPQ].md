@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=O6q9oNKgNPQ"
 duration_min: 59
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 and show us where to walk and in times when we have plenty in times when we have none he is our provider and his mercy never stops like you said he leads us like a father he feeds us from the morning to the evening till the sun arrives again like a he shepherd us like a father he feeds us oh yes he is the great i am as we come into his presence confessing him as lord his holy spirit guides us and he feeds us from his word we are seated at his table by taking

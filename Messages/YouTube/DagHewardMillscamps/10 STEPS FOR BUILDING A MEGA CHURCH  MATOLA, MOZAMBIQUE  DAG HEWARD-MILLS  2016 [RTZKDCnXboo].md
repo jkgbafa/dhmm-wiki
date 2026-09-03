@@ -8,6 +8,8 @@ year: 2016
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 the Bible encourages us that when it comes to the work of the Lord you must abound you must do a lot of the work of the Lord amen amen but many of us don't she say abounding abounding means abound a lot so so when we come into your life you should find a lot of the work of God in your life a lot of the work of God a lot of your activities must be in the work of the Lord if we take your phone a lot of your WhatsApp messages must be related to the

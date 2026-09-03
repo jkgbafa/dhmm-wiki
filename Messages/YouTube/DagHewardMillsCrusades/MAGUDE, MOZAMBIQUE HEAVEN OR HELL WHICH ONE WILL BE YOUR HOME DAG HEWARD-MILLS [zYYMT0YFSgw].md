@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zYYMT0YFSgw"
 duration_min: 89
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Grita grita grita grita con força ma gouda grita allé to Nisa Hossiu Annie Ken Samorushi Anni Hanni Souselindikello Nihulou qui Sani escote Annie Karatiwa Aningana Kurula Anitunissa Shikembuchi Kume grita con força bile coni kumè sani Anisu Akutunissa Kamalo C'est à la carne seconda carne China China China Kira Kutunisa Kamalo Tunisa Kesa comme ça pour Ansau Kesa Acutunisakamalo dança dança China tira tira tira tira grita Jesus Jesus Mago de Jesus Grita Jesus Grita Jesus Con força Jesus Con força Jesus grita Jesus todos grita Jesus asie Grita para o Seigneur Jesus Grita Jesus Grita Jesus Agissani Agissani

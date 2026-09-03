@@ -9,6 +9,8 @@ duration_min: 140
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/WHY IT IS IMPORTANT TO DO THE WILL OF GOD   GTWC WINDHOEK   DAG HEWARD-MILLS  2019 [58WkUOVFiyI]]]"
+topics: ["Ministry and Pastoring", "Vision and Direction", "Vision and Direction/Hearing God", "Vision and Direction/The Will of God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/vision-and-direction/the-will-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I want to thank Pastor Ron for gathering us in this beautiful church. One of the reasons to travel is to see new things. Amen. To see what you don't have, and to also encourage yourself that you are not doing badly where you are. So both are working together.

@@ -4,6 +4,8 @@ book: "Steps To God 'S Presence"
 book_number: "114"
 chapter_number: 9
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 ### CHAPTER 8\

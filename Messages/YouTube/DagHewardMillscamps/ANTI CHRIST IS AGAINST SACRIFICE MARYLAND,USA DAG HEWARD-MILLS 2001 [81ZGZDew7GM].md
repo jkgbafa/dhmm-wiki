@@ -8,6 +8,8 @@ year: 2001
 duration_min: 12
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Welcome to fact number three of the message of sacrifice. Number one, sacrifices are stopped, taken away, comma, opposed by the antichrist, or anyone like the antichrist. Should I say that again? I'll say it again. Sacrifices are taken away, or are stopped, taken away, comma, and what opposed by who the anti-christ or anyone like him.

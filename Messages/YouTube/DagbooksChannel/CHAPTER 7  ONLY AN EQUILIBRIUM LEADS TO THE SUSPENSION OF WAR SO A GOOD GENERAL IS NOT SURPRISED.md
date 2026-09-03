@@ -3,6 +3,8 @@ title: "CHAPTER 7  ONLY AN EQUILIBRIUM LEADS TO THE SUSPENSION OF WAR SO A GOOD 
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Anointing", "Leadership", "Leadership/Generals and History Makers", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/leadership", "topic/leadership/generals-and-history-makers", "topic/the-holy-spirit"]
 ---
 
 Finally, chapter seven. Do not be surprised at the outbreak of war. Only an equilibrium leads to the suspension of war. So a good general is not surprised at the outbreak of war. Now mental Do you know how many nuclear bombs the world has? Amazing thing is that there's so much uh nuclear weapons everybody has and they are using the policy of mad mad policy. Politic of Mad. What is the policy of Madit? You see, look, put the put the title there so you can understand. Only an equilibrium leads to the suspension of war. It's only

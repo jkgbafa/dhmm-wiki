@@ -9,6 +9,8 @@ duration_min: 111
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THOSE WHO PRETEND GTWC KINSHASA DAG HEWARD-MILLS 2017 [YYaqHqZLhkE]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Hallelujah. Hallelujah. Now a pretender is carries the spirit of an actor. Amen. Amen. Are you actors or you are real? Number two, a pretender has a false personality personality. Amen. So the the personality that you see is false. Amen. Amen. Hallelujah. So the personality that you are a scene with a pretender is not the real person. The person seems to be soft but is actually hard. The person seems to be supporting you but the person actually does not support you. The next pretender carries the spirit of modern day the modern day secret service. Today there

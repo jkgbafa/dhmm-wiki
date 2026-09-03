@@ -8,6 +8,8 @@ year: 2009
 duration_min: 91
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 to to be experience the blessings of Abraham you need to experience operating in the fourth dimension do you remember that which controls the third dimension did you understand that right now there are about four things that help you to operate in the uh uh the fourth dimension number one the confessions of Faith things that you say wow all right so the things that you speak as you continue to say Abraham's blessings are mine and as you speak positively over your life all right in spite of what you see now I have a book called name

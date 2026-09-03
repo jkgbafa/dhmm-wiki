@@ -8,6 +8,8 @@ year: 2003
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 welcome to track number seven of agree on the way I said look let me be careful with this beast and some people you see that it's like oh no nothing I mean it almost beat me last time but I mean I survived you know okay how long how long can you survive how long can you survive and then when you are married to there's a way you have to remove the strength of the Beast that you are not married so I will not tell you how to remove the strength of soon you will be married

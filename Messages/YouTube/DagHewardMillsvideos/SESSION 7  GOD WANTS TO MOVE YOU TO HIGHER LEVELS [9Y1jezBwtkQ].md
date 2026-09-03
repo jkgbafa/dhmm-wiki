@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9Y1jezBwtkQ"
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Bev into are Republicans a Guinea Bissau welcome to the Republic of Guinea Bissau where the healing Jesus team will be making its maiden entry into portuguese-speaking territory a small country on the west coast of Africa the Republic of Guinea Bissau is endowed with beautiful landscapes and breathtaking scenery from the Rio Grande de booba to the Selenia Rapids of shang-chi el Cigala unfortunately several decades of political instability have had an adverse effect on the country leaving at one of the poorest in the world one thing any visitor to the country will immediately notice is the total

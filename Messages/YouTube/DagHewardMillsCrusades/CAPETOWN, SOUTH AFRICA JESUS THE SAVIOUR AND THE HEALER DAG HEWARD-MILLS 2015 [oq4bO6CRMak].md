@@ -9,6 +9,8 @@ duration_min: 110
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/CAPETOWN, SOUTH AFRICA  JESUS THE SAVIOUR AND THE HEALER  DAG HEWARD-MILLS  2015 [oq4bO6CRMak]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Is anybody expecting the power of God to move tonight? Are you believing God for a better night tonight than yesterday? Then clap your hands for Jesus. Hallelujah. Ladies and gentlemen, tonight, before we receive the evangelist, we have with us a man who serves our community and supports the church, the former mayor of Cape Town, and the Minister of Safety and Security.

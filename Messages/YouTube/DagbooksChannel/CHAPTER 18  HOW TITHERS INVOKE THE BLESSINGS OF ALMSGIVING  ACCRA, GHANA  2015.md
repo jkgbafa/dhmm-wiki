@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2015
 source: "autocaption"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Also, you shall not neglect the Levite who is in your town. That's the pastor, for he has no portion of inheritance. At the end of every third year, you bring the tithe and your produce and deposit it. The Levite because he has no portion inheritance, the alien. So, the pastor is linked with the alien, foreigners. You must always be kind to somebody who is not from your country. Especially when the person is in a country that is not your country, not his country. The orphan, the widow who are in your town shall come and eat

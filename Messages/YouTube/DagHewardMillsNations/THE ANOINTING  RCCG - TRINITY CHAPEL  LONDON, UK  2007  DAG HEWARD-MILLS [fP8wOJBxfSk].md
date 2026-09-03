@@ -8,6 +8,8 @@ year: 2007
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 my Lord you are my Lord you are my Lord you are my Lord you are my Lord Lord Eternal we give you praise we give you honor we give you adoration we bless you and we thank you uh for your hand Upon Our Lives we thank you for preserving us even up until now we thank you for your mercy your grace we do not take your grace for granted oh God we thank you for sparing us even in spite of us in spite of our weaknesses Lord we pray by your spirit that tonight you will

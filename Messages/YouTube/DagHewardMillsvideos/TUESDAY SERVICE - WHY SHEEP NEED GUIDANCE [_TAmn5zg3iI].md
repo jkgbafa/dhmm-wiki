@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_TAmn5zg3iI"
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 the Lord is my shepherd and I shall not want he makes me to lie down in green pastures and he leadeth me beside the still waters he restoreth my soul and he leadeth me in the paths of righteousness for his name's sake now you notice how many times this appears he leadeth me he leadeth me he leadeth me amen now unlike what we commonly think because of the kind of sheep and goats that we have in Ghana who are able to get along almost anywhere I was quite surprised one day when I went to the

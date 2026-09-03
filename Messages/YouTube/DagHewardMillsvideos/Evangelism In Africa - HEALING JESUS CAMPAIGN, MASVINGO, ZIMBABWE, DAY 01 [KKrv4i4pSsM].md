@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=KKrv4i4pSsM"
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah clap your hands for Jesus well then I guess all over tonight it's my joy to welcome to the pulpit mallero Arabic on Oahu Navarro who gamma Shira Pahoa the chairman of the board of trustees of the healing Jesus campaign in our city here to bring us his welcome remarks each arc Amira buery chemin de Vaca directory no widowed robocam Shira mu campaign in O initially natural said yes I want to take this opportunity to welcome the men of God dr. Arcana you know who can see Romano amun-re it's really an honor and a privilege

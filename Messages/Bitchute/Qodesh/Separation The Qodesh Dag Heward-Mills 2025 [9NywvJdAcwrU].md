@@ -8,6 +8,8 @@ year: 2025
 duration_min: 98
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 When a church is large, it's a big family, there are many things that support you to make you to fulfill your calling that people don't realize you also need when the prodigal son separated himself from his father, right? And his father gave him half of his living, half a mature man who has worked for many years, and when he finished working for years, he divided everything into two and gave it to the son. So when he separated himself from his father, right? Gradually the money got finished. So what was different was that number one, not knowing that that money or that living needs also things which maybe you don't count, or you don't um calculate.

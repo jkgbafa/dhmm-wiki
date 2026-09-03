@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2014
 source: "autocaption"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Acts don't leave chapter 6 you will see the multitude Acts chapter 6 from verse one the multitude then called of the disciples said it is not reason that we should leave the word of God and serve tables Wherefore, brethren, look ye out from among you seven men of honest report, full of the Holy Ghost and wisdom, whom we may appoint over this business. But we we will give ourselves continually to prayer and to the ministry of the word. Hallelujah. Hallelujah. Amen. You see, Peter and Co came under pressure. They came under pressure to change their

@@ -4,6 +4,8 @@ book: "Who Is He That Overcometh The World"
 book_number: "108"
 chapter_number: 9
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 ### CHAPTER 8\

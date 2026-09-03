@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=XeUpLrbuEHo"
 duration_min: 220
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 to us but unto thy name we give Glory give God thanks give God praise lift your hands and believe God that everything that he has for you in this year whatever he has in store for you in this year he will surely bring it to a p he will surely bring you to a good conclusion thank him right now thank him and lift your voice and thank him and praise him is somebody thanking God this morning is somebody giving his voice to God this morning is somebody praising God this morning go ahead and thank him

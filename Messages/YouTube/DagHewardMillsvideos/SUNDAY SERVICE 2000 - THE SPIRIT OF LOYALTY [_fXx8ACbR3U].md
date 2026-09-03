@@ -8,6 +8,8 @@ year: 2000
 duration_min: 46
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/loyalty-and-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 one has to believe God open our has to go to speak into our lives as he has prepared his seven to teach his way the teaching of the way that brings his power into our lives and I know that our lives as a church and as a people will never be the same again I want us to please stand to our feet and welcome the bishop as it comes to Melissa Amy there's the wind blowing oh oh a struggle and it's a fragrant breeze the would be beautiful once again where we come down know where

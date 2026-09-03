@@ -9,6 +9,8 @@ duration_min: 109
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/20 BOOKS ABOUT LOYALTY AND DISLOYALTY GTWC KAMPALA DAG HEWARD-MILLS 2025 [0hE8IKA2G4M]]]"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 Wow. 100 million souls. Please get up on your feet and let's get ready to receive. Now, when Okay, this is not illegal. I think I'm in order. when we I shared my story the other day and I will not go into it but when I started listening to Bishop Doug almost every day I was amazed at all the things he was doing and one day I was hearing a message and said that day he had 400 building projects going on 400. Meanwhile, we had been building one for 10 years. I was instantly delivered from the

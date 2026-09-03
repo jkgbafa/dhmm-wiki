@@ -8,6 +8,8 @@ year: 1999
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 hallelujah I've excited this morning wonderful we sang galore for a time of praise amen and I want us to check out a good offering this Sunday morning and give your very best to the Lord hallelujah wonderful so check out the good offering and lift your offering up we'll pray together all right Samuel are they offering okay there's something you hon okay right please leave their hand up let's pray father we thank you for this morning for the privilege that we have to give and we give cheerfully and with gratitude for what you've done in our

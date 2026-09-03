@@ -8,6 +8,8 @@ year: 2003
 duration_min: 20
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 welcome to track number seven of Bea my name is from B Branch um I just wanted to ask Bishop um the fact that when you hear such messages you feel like making a decision that okay I think I've heard this and I want to make a move is it is it bad to said okay let me go and think about the whole thing or is it like is good to make the decision right here that okay then I am going to do this before maybe you think about any other you've been moved so much by

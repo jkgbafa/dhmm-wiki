@@ -8,6 +8,8 @@ year: 2012
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 let us all rise up together throughout the hall let us worship our Lord the King kings in our hearts in our countries Awakening the Holy Spirit we so desire Awakening live only for him Wake up soul Awaken soul and sing you loved the world for him accomplish with your power we begin us awakening at this time at this hour [ music] in Awakening only for him only Wake up soul Awaken soul and sing you loved the world for him hurry your Will in us Lord only for him Wake up soul Awaken soul and sing you

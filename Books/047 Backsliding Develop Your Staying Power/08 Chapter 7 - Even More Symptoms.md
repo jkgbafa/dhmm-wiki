@@ -4,6 +4,8 @@ book: "Backsliding Develop Your Staying Power"
 book_number: "047"
 chapter_number: 8
 type: book
+topics: ["Prayer", "Salvation", "Salvation/Backsliding"]
+tags: ["topic/prayer", "topic/salvation", "topic/salvation/backsliding"]
 ---
 
 # Chapter 7

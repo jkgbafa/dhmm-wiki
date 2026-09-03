@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JdatD8QArD0"
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 the more we trust him the more our rewards are building up in heaven the opposite of faith and trust is fear amen and you see doubt is not the opposite of faith preach doubt is a question to the faith okay preach preach doubt is we all have doubts even the most powerful Faith people have doubts thank when they are stepping out they have doubts thank you Jesus but fear is also a strong feeling that drives you and that's why it's the opposite power of Faith you understand yeah fear drives pushes I'm afraid of this so

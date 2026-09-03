@@ -8,6 +8,8 @@ year: 2005
 duration_min: 185
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "The Word and Books", "The Word and Books/Bible Study", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 Means to be large or important enough to have an effect, to be large or important enough to have an effect. Now there are many ministers who exist. Is that not so? And who are in the ministry that are not large enough or important enough to have an effect? How many want to be large enough and important enough to have an effect?

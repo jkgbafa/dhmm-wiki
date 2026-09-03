@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=UKbVxbLOg9s"
 duration_min: 160
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 what's your Hospital hey man please take your seat amen please welcome your neighbor sittin by you tell your neighbor it's good to see you again the best place to be on a Sunday is first dude why are you ready for today's service oh I can't feel your excitement are you ready for today's service then let's welcome the film sir I don't I want ourselves not be some people dresses they say ah so these are the women dress with makeup all over and never fool I mean how see let me see the thing you poor thing

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=b1aVCIyDN9c"
 duration_min: 182
 source: "autocaption"
 match: "exact"
+topics: ["Fasting", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/fasting", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we want to pray concerning Psalm 66 and verse number 18 Psalm 66 and verse number 18 always know that Jesus said if ye abide in me and my words abide in you then you shall have whatsoever you say so you may go for a prayer meeting where they are all holding Kings have you seen it before yeah they all all of them are School teachers all of them are School teachers and what are they doing they are caning the devil and now they King the devil they are hitting the ground with the King you know

@@ -8,6 +8,8 @@ year: 2023
 duration_min: 149
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 father thank you in the name of Jesus Amen you may be seated John 2021 then Jesus said to them again peace be unto you as my father has sent me so send I you so you are a little Jesus yes you are a little Jesus just as the father has sent Jesus so you are being sent amen turn with me to let us see how Jesus came over to Macedonia to help in John chapter 1 and verse one what does it say in the beginning was the word word was with God and the Word was

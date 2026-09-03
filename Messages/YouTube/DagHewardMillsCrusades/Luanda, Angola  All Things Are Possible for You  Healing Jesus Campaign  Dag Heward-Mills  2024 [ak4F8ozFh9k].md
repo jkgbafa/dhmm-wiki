@@ -8,6 +8,8 @@ year: 2024
 duration_min: 133
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 let's see you let's see you I see spee I I I see I see problem vior Victor hey know hallelujah hallelujah Luanda are you ready are you ready for what God has for you are you ready for what God has for you we've had four nights already tonight is the final night and it's going to be a night of power to heal to power to save God has blessed us to receive his servant in this city he's here with us tonight and I want you to clap your hands and give a sh hallelu with God

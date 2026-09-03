@@ -9,6 +9,8 @@ duration_min: 83
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PERFECTION OF ABRAHAM REPEATED SACRIFICE  JOHANNESBURG , SOUTH AFRICA DAG HEWARD-MILLS  2005 [ogj_hRCTCHM]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number seven of perfection. Are you fresh? Are you ready for another day? Have you got strength to stay on? Genesis twenty two.

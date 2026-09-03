@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=lehKwZBuC3A"
 duration_min: 147
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 I found you in our rebound I'm gonna say I'm gonna follow you in our manoset I found you know ribow I'm gonna say I'm saying I'm gonna say no rebound I'm gonna say I'm gonna find no rebound I'm gonna say I'm gonna reboot I'm gonna say I'm gonna say I found you no rebound I'm gonna say I'm gonna rip a man on sea amount of me so one so nine ash Yaya one yeah one so nine as she oh yes I'm gonna be a man in a better I was in a yeah I'm gonna beta

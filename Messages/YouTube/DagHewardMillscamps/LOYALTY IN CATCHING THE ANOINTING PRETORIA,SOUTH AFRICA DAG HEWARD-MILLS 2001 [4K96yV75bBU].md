@@ -8,6 +8,8 @@ year: 2001
 duration_min: 84
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Loyalty and Disloyalty", "Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/anointing", "topic/loyalty-and-disloyalty", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 My spirit and my soul fill with the power of the Holy Spirit, my life will never be the same, as spirit and my soul, with the power of the Holy Spirit, and life will never be the same. Alright, maybe seated. Now I was giving you seven keys to the anointing. Is that not so? What was the first key?

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9qzIUhWjuVs"
 duration_min: 142
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 sweet keep on praying don't stop keep on praying dear sister keep on praying don't stop it keep on praying little darling keep on praying don't stop it keep on praying tear keep on praying don't stop keep on praying who are called by my called by my name will humble call on me they should turn away from there many Wicked way many Wicked Ways see my face and I will answer my people my people humble themselves turn from their SS I'll here cry W If my people humble themselves turn from their SS I'll hear their cry

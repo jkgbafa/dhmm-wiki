@@ -8,6 +8,8 @@ duration_min: 72
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/Faith For Unstoppable Things  First Love Church  Dag Heward-Mills [a046HDEwn8A]]]"
+topics: ["Faith", "Prayer"]
+tags: ["topic/faith", "topic/prayer"]
 ---
 
 you know one time i was reading my book some of the books i had read i've written and asking myself that can i preach what i wrote 20 years ago do i still believe the same things have i kept the faith in the days of noah medusala and enoch 60 years old you you are a toddler nobody who have a child at the age of 60 i think no one or so is he had a child when he was 500 years old you see life has shortened so much father thank you for the blessing in

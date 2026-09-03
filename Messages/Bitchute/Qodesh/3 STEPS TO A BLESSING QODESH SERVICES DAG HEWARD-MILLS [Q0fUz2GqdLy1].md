@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/Q0fUz2GqdLy1/"
 duration_min: 48
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Let us pray. Heavenly Father, thank you so much for this wonderful morning you have given to us. Lord, we are asking that you guide us by your Holy Spirit, lead us into all truth, lead us into your word, heal us from our diseases. If you're not well in any part of your body, I want you to just place your hand there. Whatever problem you have, just put your hand on your heart.

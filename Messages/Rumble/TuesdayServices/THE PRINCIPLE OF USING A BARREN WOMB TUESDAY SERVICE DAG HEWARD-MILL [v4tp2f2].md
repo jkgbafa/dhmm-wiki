@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tp2f2/"
 duration_min: 81
 source: "whisper"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Genesis chapter 12 and um verse 1 now the Lord said to Abraham go forth from your country and from your relatives and from your father's house to the land which I will show you, and I will make you a great nation, and I will bless you, and I will make your name great, and so you shall be a blessing, and I will bless those who bless you, and the one who curses you, I will curse, and in you all the families of the earth shall be blessed, amen. So, verse 4. So Abraham went forth as the Lord had spoken to him, and Lot went with him, and now Abraham was 75 years when he departed from Haran, and Abraham took Sarah his wife, and Lot his nephew, and all their possessions which they had accumulated, and the presence which they had acquired in Haran, and they set out for the land of Canaan, and they came to the land of Canaan.

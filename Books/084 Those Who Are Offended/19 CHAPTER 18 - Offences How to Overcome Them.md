@@ -4,6 +4,8 @@ book: "Those Who Are Offended"
 book_number: "084"
 chapter_number: 19
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 ### CHAPTER 18\

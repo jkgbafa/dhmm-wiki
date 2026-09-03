@@ -8,6 +8,8 @@ year: 2005
 duration_min: 73
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 you may be seated we will have this prayer meeting after this session amen amen we are going to re we are going to release the first two sections of the bomb what do you think or if you like you can prepare a separate bomb in three sections so that we preserve this 100 section one would you like that cuz I want us to spend some time praying am towards all these things we have heard amen what do you think think it's a good idea okay now how to have devoted Bassel members huh Mega 2 now

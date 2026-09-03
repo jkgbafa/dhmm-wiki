@@ -7,6 +7,8 @@ url: "https://rumble.com/v4n9msb/"
 duration_min: 51
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Missions", "Missions/The Nations", "Salvation"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/missions", "topic/missions/the-nations", "topic/salvation"]
 ---
 
 How many want God to bless you? Let's sing this song before I just share what I'm sure you all know it already, but just sing it. It's good to sing. I saw a giraffe singing once, and I realized that I better back up. God be gracious and bless us and make your face shine on us.

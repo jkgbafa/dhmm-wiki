@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=1yK5RW8rtxg"
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Prayer", "Vision and Direction", "Vision and Direction/The Will of God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah just open your mouth and bless the name of the Lord thank him for a special camp like this fulfill your ministry not your neighbor's Ministry fulfill your ministry not your father's Ministry fulfill your ministry not your sister's Ministry we have a Ministry to fulfill we have a Ministry to fulfill we have a Ministry to fulfill lift your voice and pray concerning your ministry ah as you are receiving as you are receiving as you receiving the word of God you are beginning to discover and know that you have a Ministry which you must fulfill you

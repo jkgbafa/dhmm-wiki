@@ -8,6 +8,8 @@ year: 2023
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 now men why the next thing that I want us to talk about is why are you serious is the question I want are you serious that a young person can be spiritual and be pure oh yes now how many think a young person can be spiritual yeah I don't know why Jesus would choose the Young The Young could not be spiritual but I have a surprise for you are you ready for this amazing are you ready for this surprise are you excited about what I'm about to say this message is called the surprise the surprise

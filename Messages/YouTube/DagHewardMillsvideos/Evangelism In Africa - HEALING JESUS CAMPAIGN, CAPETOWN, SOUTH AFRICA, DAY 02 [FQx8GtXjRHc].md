@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=FQx8GtXjRHc"
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 I know try [ Music] that memory is present once Canary Islands perhaps and ladies and gentlemen tunnels congratulated me of the wounds in the hands of the community the assumption that in a way sends object is also absent in secret min is complete the country I in my will ben gastauer zonal where brothers and sisters come screaming not only of wear and tear I really like an old prize the insolent tree the villa at the end nor in the bosom of said plan of place to day many challenges in the serious what it uses of

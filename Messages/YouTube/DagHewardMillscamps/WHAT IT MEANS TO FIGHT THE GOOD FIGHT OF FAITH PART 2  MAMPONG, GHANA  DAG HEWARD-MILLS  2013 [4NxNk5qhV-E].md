@@ -8,6 +8,8 @@ year: 2013
 duration_min: 181
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/faith", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 right you may be seated number seven fight to be Associated number eight fight to catch the anointing fight to catch the anointing amen amen wow wow now Elijah asked elishah asked Elijah what Elijah asked Elijah what shall I do for you Elijah said I want the anointing Elijah said Elijah said you have asked for a very difficult thing you have asked for something easier so if something is difficult to get then it is because it's something you must fight for isn't it how many are going to fight to be anointed wow keep fighting number nine

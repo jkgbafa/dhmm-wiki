@@ -8,6 +8,8 @@ year: 2000
 duration_min: 33
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 and I believe that our lives are going to be sooo transformed and will never be the same again shall we start of it please and receive our Father the Bishop to minister to our this morning put your hands together and let's work come in one more time to exchange hallelujah let us pray father thank you for this morning thank you for your Holy Word we ask you to lead us to guide us speak to us by our spirit in the name of Jesus and everybody said amen you may be seated mighty glad to be chat

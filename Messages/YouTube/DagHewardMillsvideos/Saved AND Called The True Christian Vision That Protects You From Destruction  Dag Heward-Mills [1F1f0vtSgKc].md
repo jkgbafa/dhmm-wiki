@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=1F1f0vtSgKc"
 duration_min: 44
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Vision and Direction"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/vision-and-direction"]
 ---
 
 2 Timothy chapter 1 verse 9. You may sit down, relax. There's no stress here. Are you serious? You can stand if you want. Now, notice 2 Timothy chapter 1 verse 9. If you are saved, then you are called. Look at the verse that saved us and called us. It's not simply saved. You are not only saved. You are saved and called. Amen. Let's read the previous verse, verse 8, in case you think I'm taking it out of context, or even verse 7. Everyone knows verse 7, but people don't know verse 9. Everyone knows verse 7.

@@ -8,6 +8,8 @@ year: 2002
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 welcome to track number five of Al turn with me to Genesis chapter 1 Genesis chapter 1 tell somebody alos Al Another of the same kind all right how many have decided to bear fruit huh very good yeah changeing over change your chapter 1 verse 24 and God said let the Earth bring forth the living creature after his kind after what his kind or bring forth another of the same kind you get it are you there and uh what does it say cattle creeping things beast of the earth after his kind see there's a law here

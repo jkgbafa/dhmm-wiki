@@ -8,6 +8,8 @@ duration_min: 68
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/Ministry Has Seasons What You Must Do Before 50  The Qodesh  Dag Heward-Mills [uRkX_v87Mp8]]]"
+topics: ["Ministry and Pastoring", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer"]
 ---
 
 It's interesting that the main reason or differentiation in ministry have to do with the age. So when a church develops and you start to have older members, what it takes is that you have to realize that in the call, the call to be a Levite, there are age realities. When it comes to the ministry, most of us don't realize how much a 25-year-old person can do. Yes, a 25-year-old person. Now, the call of God.

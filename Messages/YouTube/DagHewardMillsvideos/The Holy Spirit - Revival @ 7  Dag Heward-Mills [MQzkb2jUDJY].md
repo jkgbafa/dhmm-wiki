@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MQzkb2jUDJY"
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 fill my cupboard i lift it up long come and quench this testing off my soul make no more oh one more questions oh you come and feed me i want your feelings i want your feeling i want your feelings and make me sunrise to sunrise i will seek your face drawn by your spirit to the promise of your here in your process sunrise and sunrise come on church sunrise to the sunrise sunrise to sunrise i will see i want you to lift your hands unless hallelujah forever oh sunrise to sunrise i will seek your faith

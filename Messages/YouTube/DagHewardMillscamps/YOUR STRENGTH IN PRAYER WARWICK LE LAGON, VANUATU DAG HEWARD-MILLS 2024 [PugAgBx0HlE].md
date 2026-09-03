@@ -8,6 +8,8 @@ year: 2024
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 I want to talk about the strength, your strength in prayer. Amen. Now, Judges chapter 16. And it came to pass, verse 4, that Samson loved a woman in the valley of Sorek, whose name was Delilah. And the lords of the Philistines came up unto her and said, Entice him and see wherein his great strength lieth, and by what means we may prevail against him, that we may bind him to afflict him, and we will give thee, every one of us, eleven hundred pieces of silver.

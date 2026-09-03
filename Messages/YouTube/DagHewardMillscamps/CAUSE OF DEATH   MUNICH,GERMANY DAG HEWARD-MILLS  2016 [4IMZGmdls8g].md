@@ -8,6 +8,8 @@ year: 2016
 duration_min: 136
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number nine of The Church Must send or it will end hello okay glory to God let us pray father please guide us today in Jesus name we pray amen amen you may be seated hello hello hello your speakers are blown is there going to be any possibility of it changing tomorrow you have you have now where is it oh really just you can change this what change cuz I affects the sound glory to God now causes of death causes of death death of a church death of a person causes glory to God

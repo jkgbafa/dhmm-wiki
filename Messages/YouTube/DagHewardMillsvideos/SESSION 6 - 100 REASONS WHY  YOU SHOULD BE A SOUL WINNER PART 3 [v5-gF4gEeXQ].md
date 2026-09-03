@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=v5-gF4gEeXQ"
 duration_min: 144
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 you must be a soul winner because Robert Savage funeral of a savage for the savage of the Latin American mission said the command has been to go but we have said embody in gifts in prayer and influence he has asked us to be witnesses to the uttermost part of the earth but 90% 99% of Christians have kept puttering around in the homeland mercy number 82 or 84 87 any number you like you must be a soul winner because every other job has no significance eternally every other job has no eternal signification amen first Corinthians chapter

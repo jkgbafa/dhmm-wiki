@@ -4,6 +4,8 @@ book: "The Anointed And His Anointing"
 book_number: "016"
 chapter_number: 18
 type: book
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Chapter 17\

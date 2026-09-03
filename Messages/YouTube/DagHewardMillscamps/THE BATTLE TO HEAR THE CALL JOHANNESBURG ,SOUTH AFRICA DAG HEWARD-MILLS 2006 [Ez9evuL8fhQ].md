@@ -8,6 +8,8 @@ year: 2006
 duration_min: 24
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to track number four of spiritual battles. Now, the next thing is the battle to hear the calling. The battle to hear the call. The call. You see, God chose Elijah, Elisha.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=BecrGoV3Gd8"
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 the way and the life oh boy yo will it be Oh my belly well one way Jesus Johnny only one a time onward one way Jesus Johnny only one and I for one where one with Jesus Johnny only one that ha hallelujah Oh put your hands together and keep the Lord as sharper and hallelujah god bless you you may be seated are you excited to be here on this holiday Tuesday amen I believe that God is going to bless us and we are not living here the same Amen but tonight want to take out a

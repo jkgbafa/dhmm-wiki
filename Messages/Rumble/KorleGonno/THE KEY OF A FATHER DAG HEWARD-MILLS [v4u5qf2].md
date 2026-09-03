@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u5qf2/"
 duration_min: 37
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 That we may receive your word and become what you want us to become, Lord. We thank you in Jesus' name. Amen. Today I am continuing in my series on excellence. Tell somebody I want excellence.

@@ -8,6 +8,8 @@ year: 2004
 duration_min: 28
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Deliverance", "Wealth and Finances", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/wealth-and-finances", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 Welcome to track number 11. Laziness. Now, read your Bible. It says thou verse 26. His Lord answered and said unto him, Thou wicked and slothful servants.

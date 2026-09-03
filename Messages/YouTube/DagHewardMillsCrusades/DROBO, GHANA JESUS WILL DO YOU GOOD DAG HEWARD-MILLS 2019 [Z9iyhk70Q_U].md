@@ -8,6 +8,8 @@ year: 2019
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 I can't hear you. Hallelujah. Amen. Are you blessed tonight? We are about to pray over our offering.

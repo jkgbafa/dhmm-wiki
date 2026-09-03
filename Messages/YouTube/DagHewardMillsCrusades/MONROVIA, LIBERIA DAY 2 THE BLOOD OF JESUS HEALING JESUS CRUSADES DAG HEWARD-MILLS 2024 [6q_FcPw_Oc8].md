@@ -9,6 +9,8 @@ duration_min: 116
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MONROVIA, LIBERIA DAY 2  THE BLOOD OF JESUS  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2024 [6q_FcPw_Oc8]]]"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 That is who you are. I open that is who you are to let my who you are even when I don't see it, you're working, even when I don't feel it, you work, you never stop, you never stop working, you never stop, you never stop working, sir, even when I don't see it, even when I don't feel it, even when I kill you, you never stop, you never stop. Jesus never stop even way when I don't feel it don't feel it. You never stop you never stop Jesus never stop You never stop, you never stop You never stop, you never stop, you never stop, you never stop, you never stop you after work from this keeper light in the darkness We promise by our life area that's a point and correct you my God That is who you are That is who you are who you are That is who you are That is who you are That is who you are She the Savior of the world That is who you are My God is cause He can whoep me from the way My God is also My God is God Use me when I broke When I broke Strength where I'm shrinking forever Oh my god is all yeah My God My God is the great I am shooting is my Tonight, you are about to experience our miracle working God in a special way.

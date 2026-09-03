@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=twGkjFMwtH0"
 duration_min: 294
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Prayer/Praying in Tongues", "Salvation", "Salvation/The New Birth", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/salvation", "topic/salvation/the-new-birth", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah wow today happens to be a very special day and you may be asking why is it special because we have it we have today I mean I have today and you also have today it is special give God a hand clap everybody Hallelujah turn to your neighbor and tell your neighbor neighbor neighbor I don't know about you don't know about I'm glad to be in church glad to be in church find another neighbor because this one was not excited about what you were saying say to that neighbor say neighbor neighbor I don't know about

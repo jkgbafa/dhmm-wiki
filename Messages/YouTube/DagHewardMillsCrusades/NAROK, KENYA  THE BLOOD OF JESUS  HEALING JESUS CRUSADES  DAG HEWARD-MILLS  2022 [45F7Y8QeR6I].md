@@ -8,6 +8,8 @@ year: 2022
 duration_min: 101
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 I found it I found it new life in Jesus Christ have love and peace I have have joy and hope and it's all in Jesus Christ can you sing with me I found it yes I have I found it oh New Life in Jesus Christ I found love and peace I found joy and hope and it's all in Jesus Christ there is love there is peace in the Lord he gives me joy he gives me hope I S after them in diverse ways but only Jesus can satisfy me there is love and there is peace

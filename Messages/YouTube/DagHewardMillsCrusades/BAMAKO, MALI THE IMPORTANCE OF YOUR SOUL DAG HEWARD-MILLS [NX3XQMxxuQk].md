@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=NX3XQMxxuQk"
 duration_min: 162
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Oh, il a payé toutes mes têtes. Je sois utilise sans ça. Je suis plus esclave. Il a payé tout me paix. Oh, il a payé.

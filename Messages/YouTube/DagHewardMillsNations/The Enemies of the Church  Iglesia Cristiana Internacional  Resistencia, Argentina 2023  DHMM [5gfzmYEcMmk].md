@@ -8,6 +8,8 @@ year: 2023
 duration_min: 163
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit"]
 ---
 
 What a blessing! Please raise your hands, Lord. We pray for your blessing on the church, for these people, Lord. Raise up your church in Argentina. Raise up the young men, raise up the young women, raise up new pastors, raise up new apostles to do God's work in this nation. Thank you for raising up so many and blessing your people in the name of Jesus. Everyone shouts "Hallelujah!" Please take a seat. Tonight I want you to listen to me very carefully. This morning's session was from 1 Corinthians chapter 16. Today I want to preach about the

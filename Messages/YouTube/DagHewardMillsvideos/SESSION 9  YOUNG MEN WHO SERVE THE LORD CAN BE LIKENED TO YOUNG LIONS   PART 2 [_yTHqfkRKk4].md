@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_yTHqfkRKk4"
 duration_min: 102
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 too bad hahaha I don't enjoy and I just music Wow alright you want to hear it again he'd promised like to all of us Messi cabeza was worse than James now I want to share with you the Fed and perhaps most important and point about the power of your quiet time you see the quiet time is going to hips Lemmo like gradually bigger and stronger and the second thing is going to be light to your life amen and the third thing is going to be a mirror a wonder mirror or a wonderful mirror Wow sit

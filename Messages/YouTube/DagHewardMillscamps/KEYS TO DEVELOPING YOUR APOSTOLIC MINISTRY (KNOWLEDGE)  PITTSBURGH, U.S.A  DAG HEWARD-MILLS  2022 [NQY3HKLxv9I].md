@@ -8,6 +8,8 @@ year: 2022
 duration_min: 73
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 there will be times when you go through terrible days of darkness through the valley of the shadow of death deep in the midst of air Jesus is the answer for every problem in your life call upon him in your darkest hour he will come like a Shining Light o everybody needs the help of God to overcome the problem God will sustain you every every body needs the grace of God to make it through this life oh by the grace by the grace By The Grace by the grace you will make it God will take care

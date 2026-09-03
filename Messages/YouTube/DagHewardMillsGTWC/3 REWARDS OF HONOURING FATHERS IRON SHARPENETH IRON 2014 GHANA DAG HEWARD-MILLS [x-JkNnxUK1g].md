@@ -8,6 +8,8 @@ year: 2014
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Three rewards for honoring your father. Now the first reward for honoring fathers. That it may be well with you. Amen. That it may be well with you.

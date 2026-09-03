@@ -9,6 +9,8 @@ duration_min: 85
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HOW TO MEASURE CHURCH GROWTH  ELMINA, GHANA  DAG HEWARD-MILLS  2006 [hN-VGbWEDdE]]]"
+topics: ["Church Growth"]
+tags: ["topic/church-growth"]
 ---
 
 When your leaders are not responding after you have taught them and prayed, what do you do? Yes. Yeah. What exactly do you mean by like you've taught them and what have you taught them? Well, okay.

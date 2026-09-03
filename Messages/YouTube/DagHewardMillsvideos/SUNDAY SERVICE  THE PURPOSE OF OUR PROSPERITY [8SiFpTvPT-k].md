@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8SiFpTvPT-k"
 duration_min: 36
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 in the name of God hallelujah father we thank you so much for today thank you for your blessings as we approach your holy word Lord we ask that you speak to our hearts and let your will be done thank you Lord in Jesus name Amen you may be seated all right it is good to be here again amen I had to travel to Panama South America and the states to have a convention and committee sorry and the Lord was with us there were blessings miracles and all the folks over there send their greetings amen so

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqphk/"
 duration_min: 43
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Hallelujah. Let us pray. Father, thank you for the opportunity we have today to share your word. We ask that you lead us by the Holy Spirit in Jesus' name. Amen.

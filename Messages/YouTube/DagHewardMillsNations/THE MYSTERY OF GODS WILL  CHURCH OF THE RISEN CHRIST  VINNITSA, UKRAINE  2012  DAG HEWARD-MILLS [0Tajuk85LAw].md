@@ -8,6 +8,8 @@ year: 2012
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "The Holy Spirit", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/prayer", "topic/the-holy-spirit", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 amen for is dark mer at a pastor GH onwi ont he PR for soe for on CH of mas m put sonis of for teacher for I ask her her I fore buap for for fore for fore foris fore for for yes I know for is for for take off spe fore hallelujah amen thank you let us pray heavenly father thank you for today thank you for your Holy Spirit who is guiding us who is leading us thank you for your great power that is present at this time to deliver us to save us to

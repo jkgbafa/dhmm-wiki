@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=b1XxdSo2IMI"
 duration_min: 243
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Most Blessed and most glorious the of days allm Mighty come on Victory thy great name thy great name th great name name come on Church let's sing Most Blessed bless most glorious most glorious he on is the anent of days he on his of days come on of days Mighty might Victorious Victor thy great name we praise thy great name we praise thy great name we praise very last time Most Blessed bless receive our worship this morning receive our praise this morning Lord receive it receive it in the Heavenly of days mighty mighty Victorious V

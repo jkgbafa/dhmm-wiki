@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u5qa2/"
 duration_min: 28
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 With me, please to Luke 18. I am going to share with you a brief message on prayer. I have been sharing about the parables of prayer during this service. So all of you who are here for World Cup reasons are welcome to join us this morning. Two men went up to the temple to pray, the one a Pharisee and the other a publican.

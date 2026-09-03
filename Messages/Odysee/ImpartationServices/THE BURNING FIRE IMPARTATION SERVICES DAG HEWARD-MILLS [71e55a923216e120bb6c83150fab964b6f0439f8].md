@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/the-burning-fire-i
 duration_min: 71
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Today, I'm going to be sharing with you about what I call the burning fire. Turn to Mark chapter 11, verse 15. And it says, And they come to Jerusalem, right? And Jesus went into the temple and began to cast out them that sold and bought in the temple and overthrew the tables of the money changers and the seats of them that sold doves. Dove sellers.

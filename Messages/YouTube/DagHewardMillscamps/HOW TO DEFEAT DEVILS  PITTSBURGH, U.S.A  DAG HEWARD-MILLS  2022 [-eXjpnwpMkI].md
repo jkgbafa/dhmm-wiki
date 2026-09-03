@@ -8,6 +8,8 @@ year: 2022
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 I'll show you how to get rid of the spirits that's we came for this we I've come to you I'll show you how to get rid of the spirits thank you thank you Prophet we came for this this is what we need do you do you do you want me to share yes yes yes I should share with I I'll go to Ghana and preach that message no no no we need this one we need this one okay no sit down I'll show you wow thank you thank you what a word what a preacher now

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8gXNoJqSDBM"
 duration_min: 45
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 this morning's Bible reading is taken from proverbs chapter three verses 19 to 26 proverbs chapter 3 verses 19 to 26 I'm reading from the new American Standard Bible let's hear the word of God the Lord by wisdom founded the earth by understanding he established the heavens by his knowledge the deeps were broken up and the sky strip with Dew my son let them not vanish from your side keep sound wisdom and discretion so there will be life to your soul and a dormant to your neck then you will walk in your ways securely and your

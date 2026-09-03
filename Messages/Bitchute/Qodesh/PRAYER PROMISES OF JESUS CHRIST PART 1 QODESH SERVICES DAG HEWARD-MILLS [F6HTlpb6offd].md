@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/F6HTlpb6offd/"
 duration_min: 76
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 The Lord thy God He is in the midst of thee. He is my Lord thy in the midst of thee. He is so help me say the Lord thy God is in the midst of thee. He is my tea. So the Lord thy God is in the midst of thee.

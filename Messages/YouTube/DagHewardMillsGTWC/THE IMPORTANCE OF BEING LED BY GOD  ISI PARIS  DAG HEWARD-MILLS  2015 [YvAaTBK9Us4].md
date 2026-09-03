@@ -8,6 +8,8 @@ year: 2015
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, thank you for this great blessing. To the men who remember in the name of Jesus. Amen. Amen. Can you sit down? I am going to share with you the importance of being led by God. Amen. There are many pastors who are not led by God. Romans 12:2. Romans 12:2 says, "Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will. Amen. Amen." This verse tells us that God has a perfect

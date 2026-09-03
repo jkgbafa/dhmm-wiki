@@ -8,6 +8,8 @@ year: 2014
 duration_min: 174
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah amen father thank you for the gift you gave to us in Jesus name amen you may be seated prepare the way of the Lord number one is what preaching number two is what repentance change number three is what I cannot hear you the kingdom of God number four four is what make his paths when straight away isn't it number five is what warnings to vipers number six is what being fought fruits number seven is what stop looking back to Abraham number eight is what watch out for new Replacements amen those who you see as

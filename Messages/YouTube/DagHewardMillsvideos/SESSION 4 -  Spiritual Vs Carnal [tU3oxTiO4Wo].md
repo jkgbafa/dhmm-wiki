@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tU3oxTiO4Wo"
 duration_min: 198
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Bible says which of these please their father you know that Tim pleasing the father turn to Matthew 21 verse 28 but what think he a certain man had two sons and he came to the first and said son go to work today in my vineyard and he answered and said I will not but afterward he repented and went and he came to the second and said likewise and he answered and said I go sir and he went not whether of them Twain did the will of his father and they say unto Him the first and

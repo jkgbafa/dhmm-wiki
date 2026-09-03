@@ -8,6 +8,8 @@ year: 2023
 duration_min: 73
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 what a blessing now the third transformation Supernatural metamorphosis the first metamorphosis is of your person yourself the second is from few your size metamorphosis of your size that's going to be the second metamorphosis your size Adam was two and he became seven billion and you can do it you've been in the darkness before tell your neighbor I've been there I've been in the darkness I've been under the mountain yes yeah in the pouch of doglas I've been in there huh the mountain if you see the the service points like this and it is pointing up

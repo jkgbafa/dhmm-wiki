@@ -4,6 +4,8 @@ book: "A Good General The Science Of Leadership"
 book_number: "023"
 chapter_number: 4
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Leadership", "Leadership/Generals and History Makers", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/leadership", "topic/leadership/generals-and-history-makers", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 ### Chapter 3\

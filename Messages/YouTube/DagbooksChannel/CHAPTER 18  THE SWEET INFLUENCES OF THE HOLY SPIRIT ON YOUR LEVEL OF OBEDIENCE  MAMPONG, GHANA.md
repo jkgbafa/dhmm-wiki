@@ -3,6 +3,8 @@ title: "CHAPTER 18  THE SWEET INFLUENCES OF THE HOLY SPIRIT ON YOUR LEVEL OF OBE
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 the sweet influences of the Holy Spirit on your level of obedience. 36 26 Moreover, I will give you a new heart and put a new spirit within you, and I will remove the heart of stone from your flesh, and give you a heart of flesh, and I will put my spirit within you and cause you to walk in my statutes. statues. I will cause you to walk in my statutes. I will make you obey me and you will be careful to observe my ordinances. Is it amazing and fantastic? Ezekiel 36:26. You see, we are all

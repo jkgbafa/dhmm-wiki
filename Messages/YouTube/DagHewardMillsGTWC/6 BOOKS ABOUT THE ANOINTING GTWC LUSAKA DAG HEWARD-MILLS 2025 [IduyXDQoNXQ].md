@@ -8,6 +8,8 @@ year: 2025
 duration_min: 33
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/ministry-and-pastoring"]
 ---
 
 so in an atmosphere of worship lift your hands and worship the Lord the atmosphere is charged this is where God's presence can be found you are standing in the midst of the glory cloud this is where God chooses a place where worship ascends a place where praise goes up and I want you to ride on the crest of this worship time and worship the Lord make him great in your life and in your heart awesome is he awesome is he if you search from the East West North and South you will find none like him

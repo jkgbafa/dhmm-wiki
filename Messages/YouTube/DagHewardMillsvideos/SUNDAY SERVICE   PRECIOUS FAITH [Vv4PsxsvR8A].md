@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Vv4PsxsvR8A"
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 let's pray father thank you so much for this morning we ask for your blessing and we ask you to teach us and feed us with your word thank you in Jesus name Amen you may be seated in the presence of the Lord tell me which leads to 2nd Peter chapter 1 I bring you greetings from South Africa Devon also Pretoria and our churches over there doing very well yeah blessed amen we were also in Devon the Stila church I was invited to preacher and we had a powerful convention some nice miracles and it was a

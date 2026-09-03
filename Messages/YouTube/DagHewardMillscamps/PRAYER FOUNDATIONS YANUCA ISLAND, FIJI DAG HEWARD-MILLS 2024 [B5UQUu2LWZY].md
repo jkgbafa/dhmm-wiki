@@ -9,6 +9,8 @@ duration_min: 163
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PRAYER FOUNDATIONS  YANUCA ISLAND, FIJI  DAG HEWARD-MILLS  2024 [B5UQUu2LWZY]]]"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 There's nobody else like you. Jesus, nobody else like you. Not my mother, not my father, not my sister, not my brother. Nobody else will do that's why I love you. There's nobody else like you and no one else.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=XXHt02yFX7Q"
 duration_min: 236
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 and i know that our lives are not going to be the same again hallelujah congratulate your neighbor thank your neighbor and tell anybody you're looking so good looking so handsome if he's a beautiful girl oh friends hello why don't you rise and let us enter into a moment of short but powerful prayer or are you congratulating your neighbor say something nice to your neighbor and if you are watching us now you're also doing welcome to our prophetic encounter service hallelujah god is good and all the time say with me for the lord is good can

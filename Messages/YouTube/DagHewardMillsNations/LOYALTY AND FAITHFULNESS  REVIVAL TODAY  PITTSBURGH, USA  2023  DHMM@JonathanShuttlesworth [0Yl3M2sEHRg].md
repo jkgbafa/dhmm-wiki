@@ -8,6 +8,8 @@ year: 2023
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah let us pray father thank you for the great help of your spirit today leading us guiding us helping us we are grateful thank you for your Mighty power building your church Lord in a special way thank you that you you love your church and you love your servants your pastors many of whom are here today and thank you that you have something for every single one of us that we may walk in you grow in you that our Ministries will go from Victory to Victory from glory to glory thank you for everyone who is

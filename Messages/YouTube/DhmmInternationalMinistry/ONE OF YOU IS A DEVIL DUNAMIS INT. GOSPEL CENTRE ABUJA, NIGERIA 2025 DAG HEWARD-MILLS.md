@@ -4,6 +4,8 @@ channel: "DhmmInternationalMinistry"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah. What a blessing it is to be here. Thank you, Dr. Paul, your beautiful wife, for welcoming myself into this amazing Glory Dome. Glory Dome.

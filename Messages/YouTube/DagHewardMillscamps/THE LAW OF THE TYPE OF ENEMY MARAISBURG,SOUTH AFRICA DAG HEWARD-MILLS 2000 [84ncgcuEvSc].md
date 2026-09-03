@@ -8,6 +8,8 @@ year: 2000
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to the ministry. Volunteering soldiers, if you like. Now, in the army of the Lord. Alright? You must enlist before you be in the army.

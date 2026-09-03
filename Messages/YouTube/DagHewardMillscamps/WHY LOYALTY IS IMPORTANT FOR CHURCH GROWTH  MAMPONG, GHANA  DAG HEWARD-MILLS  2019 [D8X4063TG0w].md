@@ -8,6 +8,8 @@ year: 2019
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 yeah I will arise Lord I will arise I will arise today Lord I will arise Lord I will arise I will arise and build in the days of namei he was a prophet he was a prophet of God when he heard of the Broken Walls of jerus the Bible says he fasted and he prayed to the god of Heaven oh yeah he fasted and he prayed he travailed to the god to the god of heaven then the king decreed that the walls of Jerusalem should be built to the glory of the Lord then it pleased

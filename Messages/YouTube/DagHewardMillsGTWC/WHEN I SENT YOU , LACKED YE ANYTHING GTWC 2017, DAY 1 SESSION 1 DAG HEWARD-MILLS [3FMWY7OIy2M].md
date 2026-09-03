@@ -8,6 +8,8 @@ year: 2017
 duration_min: 52
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Alright. Lift your hands. Level. Father, thank you for this time. Père, merci pour ce moment.

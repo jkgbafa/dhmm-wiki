@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=kK63xcoInA8"
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 where I was Oh crikey for me oh yes where my was receipt Oh My Christ blood is so weak from Calvera Street to save everyone who repents today what do you it's just to tie your thing oh you have no oh yeah where my bro oh yeah oh Christ blood is flowing from Calvera Street to save everyone who repairs today what do you if you should die in your thing oh you have to eat that's where I was and where my price flood it's going from Calvary tree to save everyone movie faster what do you

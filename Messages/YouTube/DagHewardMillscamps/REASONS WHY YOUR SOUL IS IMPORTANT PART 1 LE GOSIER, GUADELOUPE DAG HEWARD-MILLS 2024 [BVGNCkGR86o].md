@@ -8,6 +8,8 @@ year: 2024
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Let us pray. Father, thank you for today. And thank you for the great blessing. We are excited to be here today. And we pray that you touch every heart.

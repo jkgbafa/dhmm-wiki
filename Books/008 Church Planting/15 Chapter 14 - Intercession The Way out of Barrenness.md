@@ -4,6 +4,8 @@ book: "Church Planting"
 book_number: "008"
 chapter_number: 15
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer", "Prayer/Intercession"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer", "topic/prayer/intercession"]
 ---
 
 Chapter 14\

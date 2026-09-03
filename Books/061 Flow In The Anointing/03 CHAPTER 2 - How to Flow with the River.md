@@ -4,6 +4,8 @@ book: "Flow In The Anointing"
 book_number: "061"
 chapter_number: 3
 type: book
+topics: ["Anointing", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring"]
 ---
 
 ### CHAPTER 2 \

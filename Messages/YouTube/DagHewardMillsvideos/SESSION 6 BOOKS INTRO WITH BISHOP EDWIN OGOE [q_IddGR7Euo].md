@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=q_IddGR7Euo"
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 all bilingual, not much will happen when we receive, it's surely also received seeds of immense strength and power elsewhere if it's me who gives great results even if these seeds are wonderful for all purposes in Canada, there are two things that can happen to a speech in Poissy, bonuses while the preaching bishop, well yeah, but even if there were moments of French referees, I wish to be translocated from my church, the church to begin, especially to reach the atmosphere, how these two things that must be started to lead to flight, this fire is also had

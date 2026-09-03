@@ -9,6 +9,8 @@ duration_min: 33
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/6 BOOKS ABOUT THE ANOINTING GTWC LUSAKA DAG HEWARD-MILLS 2025 [IduyXDQoNXQ]]]"
+topics: ["Anointing", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring"]
 ---
 
 In an atmosphere of worship, lift your hands and worship the Lord. The atmosphere is charged. This is where God's presence can be found. You are standing in the midst of the glory cloud. This is where God chooses. A place where worship ascends. A place where praise goes up. And I want you to ride on the crest of this worship time and worship the Lord. Make him great in your life and in your heart. Awesome is he. If you search from the east, west, north, and south, you will find none like him. He's alone. Lift your

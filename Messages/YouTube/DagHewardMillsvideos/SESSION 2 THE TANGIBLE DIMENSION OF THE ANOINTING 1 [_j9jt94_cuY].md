@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_j9jt94_cuY"
 duration_min: 212
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Spence in Jesus name Amen I said our man get a lot of bigshot offering in the car Alleluia section people as the tonight is your night for admit a breakthrough God is going to come through to you with a lips letter thing one confession with a half hold to one truth hello he has a very you know somebody with one leaf lettuce a with our leaf lettuce and with our ha and we are oh gee with our lip let us take with a lift let us take one set with a rifle to whack a low

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=F1I_QKEUtBI"
 duration_min: 156
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Prayer", "Prayer/All-night Prayer", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Vision and Direction"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/prayer", "topic/prayer/all-night-prayer", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/vision-and-direction"]
 ---
 
 let us pray father we thank you for the opportunity lift your hand and just speak to god for a moment thank you for the opportunity that you've given us in this meeting thank you for your blessing thank you for your word in the name of jesus we are grateful thank you lord for your power that is released in our midst in our presence we give you thanks in jesus name amen you may be seated now our theme is make yourselves saviors of men amen and i believe that as we do that god blesses us mightily

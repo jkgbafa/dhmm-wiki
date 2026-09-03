@@ -3,6 +3,8 @@ title: "CHAPTER 14  THE SWEET INFLUENCES OF THE HOLY SPIRIT ON THE EYES OF YOUR 
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 of the spirit on the eyes of your heart. Now many people are not aware that they have four eyes. Most of us think that we have two eyes but actually everybody has four eyes. Yeah. And you see, there's nothing to be proud about her having just two eyes. Because in the Bible, many of the wonderful creatures in the book of Revelation had many eyes. Is it amazing? You've been happy with just two, but I tell you there are many, many wonderful connections with eyes. And the more eyes you have, the better. In Revelations 4:8:8, these

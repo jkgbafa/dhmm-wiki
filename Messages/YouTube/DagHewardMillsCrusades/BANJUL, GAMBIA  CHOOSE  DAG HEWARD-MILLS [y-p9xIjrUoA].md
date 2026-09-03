@@ -8,6 +8,8 @@ duration_min: 145
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/BANJUL, GAMBIA CHOOSE DAG HEWARD-MILLS [y-p9xIjrUoA]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 put your hands together for Jesus somebody give the Lord a shout of Praise there is power in shouting the Lord a shout a shout a shout shout shout shout shout I go singing and worship don't me today he give me peace now he don't make her free did you hear that I go sing and worship him he don't P me today he give me peace now he don't make go tomorrow I come know Jesus don't change me life Jesus the Jesus prise I go praise the shout now Jesus fall the Jesus we the iise andus

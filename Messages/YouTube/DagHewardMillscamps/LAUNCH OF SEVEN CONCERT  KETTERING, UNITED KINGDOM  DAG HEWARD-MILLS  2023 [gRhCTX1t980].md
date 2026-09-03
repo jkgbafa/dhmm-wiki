@@ -8,6 +8,8 @@ year: 2023
 duration_min: 75
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 thank you for this great blessing you've given us oh Lord in the name of Jesus amen amen you may be seated right now in this last session we having Romans chapter 1 and verse 16 for I am not ashamed of the Gospel of Jesus Christ for it is the power of God unto Sal salvation to everyone that believeth to the Jew first and also to the Greek verse 17 for therein is a righteousness of God revealed from Faith to Faith as is as it is written the just shall live by faith now how many have

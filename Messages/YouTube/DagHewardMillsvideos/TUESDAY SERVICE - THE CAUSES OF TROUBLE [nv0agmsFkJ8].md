@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=nv0agmsFkJ8"
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh Oh yes prank Heavenly Father thank you so much for today thank you for your blessing thank you for your guidance bringing us to your house we are thanking you we are praising you in Jesus name Amen you may be seated are you glad to be just tonight right can we be the first Kings chapter 18 hallelujah right now let's read chapter 17 verse 1 and see whether we would understand the story a little better for our Bible lesson this evening amen now Elijah the Tishbite who was of the settlers of Gilead said to Ahab

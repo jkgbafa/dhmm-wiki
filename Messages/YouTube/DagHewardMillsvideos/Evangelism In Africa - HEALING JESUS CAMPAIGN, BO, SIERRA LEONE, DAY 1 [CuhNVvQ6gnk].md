@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=CuhNVvQ6gnk"
 duration_min: 12
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 Evangelos this young man had a motor accident yesterday this man being gets accident yesterday / Masuka by Hyundai accident yesterday because of that he could not walk and so because of the accident in a big waka when he was coming tonight they carried him and put him on the bike run bring him here for metric is on a talk show we suppose happy Honda for Mexico you can see the bandage and the blood and everything on the on the lake as soon as I see the bandage the rice fried foods because it'll be Baca if

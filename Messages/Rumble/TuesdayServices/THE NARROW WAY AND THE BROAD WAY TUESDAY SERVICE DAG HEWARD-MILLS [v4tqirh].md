@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqirh/"
 duration_min: 60
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 But sin kept your spirit from working in me. I couldn't look at light honestly until the day my will give way to the truth that I found in you. I never knew just how good it would be to stand in your press and totally free. Now I have a reason for living. Jesus keeps giving and giving.

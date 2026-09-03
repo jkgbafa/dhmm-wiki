@@ -8,6 +8,8 @@ year: 2023
 duration_min: 26
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 anti- brutish campaign now look at Jeremiah chapter 10 and verse 21 it says the pastors which means the basent leaders which means the Bon leaders Benta leaders Shepherds Bishops have become brutish brutish means D okay lifeless D Callos stupid it means stupid spiritually stupid spiritually stupid why why have they become spiritually stupid they have not sought the Lord yeah they have not what s the Lord yeah listen let's let's stop talking games everybody must have a day that you came to this campus on your own from morning to evening and you leave the next day

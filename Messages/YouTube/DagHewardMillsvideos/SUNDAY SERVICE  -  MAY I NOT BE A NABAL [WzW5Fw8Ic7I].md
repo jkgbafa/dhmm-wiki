@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=WzW5Fw8Ic7I"
 duration_min: 70
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you were behind the door to die rejected and alone like a row ha bye-bye stick your head to him like a roll of the ground like I believe father we thank you for giving us this day we thank you for your interaction powers thank you for your great we thank you for sending your son to come inside for us although we bless your name in Jesus day my presence even a bed just give the Lord a hand this morning let's move about and welcome someone to church how many of us know that our redeemer lives

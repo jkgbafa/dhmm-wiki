@@ -9,6 +9,8 @@ duration_min: 15
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SEVEN STEPS TO BEARING FRUITS; INTIMACY    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002 [HddVVyC_h0o]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Welcome to track number five of life in the church. Alright, you may take your seat. Let's go to the next one. The next step to uh the next step to uh what do you call it? You don't enjoy it after you so what's the first step anyway?

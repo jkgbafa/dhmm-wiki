@@ -8,6 +8,8 @@ year: 2018
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah hallelujah father thank you for this opportunity we have in the name of Jesus amen amen you may be seated Matthew 22 everybody say no weeping no nashing Matthew chap 22 verse 2th how many of us here from Geneva stand up if you are from Geneva all right okay thank you you may be seated now the prophecy is weeping and nashing of teeth Matthew 22 verse2 and the kingdom of heaven is like unto a certain King which made a marriage for his son and sent forth his servants to call them that were bidden to the

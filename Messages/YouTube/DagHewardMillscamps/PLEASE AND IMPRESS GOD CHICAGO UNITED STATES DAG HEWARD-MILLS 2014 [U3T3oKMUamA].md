@@ -9,6 +9,8 @@ duration_min: 136
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PLEASE AND IMPRESS GOD  CHICAGO  UNITED STATES   DAG HEWARD-MILLS  2014 [U3T3oKMUamA]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 The day I found you. I want to stay around you, serving in your house, Lord. Doing your way. I don't want to be with us who leave you. Those who forget about you.

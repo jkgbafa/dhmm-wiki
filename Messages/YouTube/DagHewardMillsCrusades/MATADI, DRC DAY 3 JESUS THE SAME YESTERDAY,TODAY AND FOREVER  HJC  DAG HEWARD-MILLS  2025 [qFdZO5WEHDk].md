@@ -8,6 +8,8 @@ year: 2025
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer"]
 ---
 
 Thank you. Mercy. Mercy. Mercy. Mercy. We expecting to bless people for our country. Man of God. Hallelujah. Let us let us pray. Where's the interpreter? Let us pray for Democratic Republic of Congo. Can we all stand to our feet and stretch out your hand for the nation, Democratic Republic of Congo. Father, we pray for this nation, a great nation in the center of Africa. We ask for your mercy to be upon this land. We ask for your healing to be upon this land in the name of Jesus. We ask for your compassion, your kindness, your

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=PrW1-_HtX2s"
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 If you believe Jesus is here tonight, kindly lift up your left hand, your left hand, and if you believe that Jesus will touch you this evening, lift up the right one, and put your hands together for Jesus. Come on and sing with me, the Kawana, Zimene Watchita Disagwata, Disa. Lift up your hand and say the Kawana Zane Watchita Tender Tima Dika Zimmer Wachita Lambira Fiona It me closer me so in term Yesum Free Zimene Watchita Tender Lift up your right hand and say with me the Kawana Zimene Wachita Oh the Cona Dika Zimene Wachita Temed the Kawana Zimeda Watchita Lambira He won Waka Hewaka Do it like this Lift up your right hand and say I want these a bada Give one Waka wake up Lift up your right hand and say Amen.

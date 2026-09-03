@@ -8,6 +8,8 @@ year: 2023
 duration_min: 46
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah you may please be seated what a wonderful experience we've had is it a powerful experience oh I can't hear you and I really believe that everyone here if you were blessed to come to this Camp God has chosen you to experience this camp in a very powerful way you know after this Camp when the camp is released online many people are going to listen to the camp and they are going to be changed yeah you are going to hear listen you are going to hear stories of churches in Mali Nigeria France Papa New Guinea

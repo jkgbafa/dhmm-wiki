@@ -7,6 +7,8 @@ url: "https://rumble.com/v4txoeu/"
 duration_min: 75
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Demonology", "The Holy Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-holy-spirit"]
 ---
 
 Heavenly Father, we thank you so much for your blessings as you speak to us today in Jesus' name, Amen. You may be seated. We are studying what Jesus began to do and to teach. And uh, if you want to read, perhaps you may want to read for the first for the introduction, Acts chapter one, verse one. It says, The former treaties have I made, O Theophilus, of all that Jesus began both to do and to teach.

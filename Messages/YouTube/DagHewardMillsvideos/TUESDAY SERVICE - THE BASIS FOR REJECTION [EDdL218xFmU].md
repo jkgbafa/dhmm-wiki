@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=EDdL218xFmU"
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah - no your name is go for the dawn I was apologize it's not in the song sheets or the slip but the precious blood of Jesus Christ forgive me you're my dad please the game you're my birthday my bye-bye come on No arrested by true Oh okay hallelujah hallelujah somebody said to Jesus you know I did somebody say that she said hallelujah they don't really want to teach you a song hallelujah hallelujah I know you like this one amen song number six let me read the words is it I don't care what they say

@@ -8,6 +8,8 @@ year: 2010
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 We cry out to You Father Holy Holy Pour your rain upon us in the sky Holy Holy Holy Jesus Receive the praises of our hearts Holy Holy You are the one who died and rose again Holy Holy We cry out to You Father Holy Holy Holy Pour your rain upon us in the sky Holy I cry in You Holy Holy Holy Holy God Jesus Holy You are Holy God Jesus Receive the praises of our hearts hearts Holy Holy Holy Holy Holy Jesus You are the one who died and rose again Holy Holy Holy We cry

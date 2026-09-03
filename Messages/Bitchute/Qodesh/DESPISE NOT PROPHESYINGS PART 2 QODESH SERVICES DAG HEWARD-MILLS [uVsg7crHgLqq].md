@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/uVsg7crHgLqq/"
 duration_min: 85
 source: "whisper"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 He will have the final say in your life. In the name of Jesus, put your hands together for Jesus. Take out the very powerful offering. Fifty cities, hundred cities, twenty cities. Today is the last Sunday of the year.

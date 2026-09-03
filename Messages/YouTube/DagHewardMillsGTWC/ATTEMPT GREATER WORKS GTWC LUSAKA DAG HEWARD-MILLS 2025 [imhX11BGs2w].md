@@ -9,6 +9,8 @@ duration_min: 32
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/ATTEMPT GREATER WORKS  GTWC LUSAKA  DAG HEWARD-MILLS  2025 [imhX11BGs2w]]]"
+topics: ["Salvation", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/salvation", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 I want to share with you. Attempt greater works. Amen. Attempt what? Greater works.

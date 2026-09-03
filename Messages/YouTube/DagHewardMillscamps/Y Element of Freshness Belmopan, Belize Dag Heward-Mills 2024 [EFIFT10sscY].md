@@ -9,6 +9,8 @@ duration_min: 22
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Y Element of Freshness  Belmopan, Belize  Dag Heward-Mills  2024 [EFIFT10sscY]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Number sixteen. Why element number sixteen? Freshness. Freshness. She's fresh.

@@ -8,6 +8,8 @@ year: 2023
 duration_min: 4
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 fantastic now those who were going to go for the Bible School uh please come forward again for the third time those who were going to give yourself to go to Bible school just for a line and give me some space I'm just going to come down I'm just going to touch you yeah just form two lines and I'll pray for and then I'll tell you to go back so just go to the back every standard stretch out your hand listen buildings means people and out of all these people many are called but few are chosen

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6XHsLq5sBao"
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 halleluyah halleluyah better better culatello if you believe Jesus is the economy lifts up your left hand and if you believe Jesus will touch you to the lift of the right one I'll put your hands together for Jesus ha ha ha see no no no no ah let's take it again go I carry ba Chi where at each angle Tsubaki G no no no no ha ha ha Lipa lift up your right Elizabeth where's your gold I do know where I can find a foolish one curry puzzle ha ha ha ha ha ha ha ha ha

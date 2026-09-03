@@ -7,6 +7,8 @@ url: "https://rumble.com/v4szhyn/"
 duration_min: 103
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 In a world where they search an end to the things we hold so precious and so deep and in a time when the evil men are grow worse and worse and yet others' hearts are failing them for faith You are my fortress You are my strength and on you I know I can you are my fortress You are my strength and it's all by your grace in all it's by your grace in a time when sons are turning on your fathers and the mothers cry for justice where the future seeks so that shaking I'll keep

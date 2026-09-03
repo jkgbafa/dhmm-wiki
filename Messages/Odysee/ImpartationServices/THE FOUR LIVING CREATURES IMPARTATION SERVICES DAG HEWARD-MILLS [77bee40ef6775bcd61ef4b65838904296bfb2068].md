@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/the-four-living-cr
 duration_min: 67
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances"]
 ---
 
 The four living creatures. Amen. How many want to know about the four living creatures? Okay. After these things, I looked and behold a door standing open in heaven.

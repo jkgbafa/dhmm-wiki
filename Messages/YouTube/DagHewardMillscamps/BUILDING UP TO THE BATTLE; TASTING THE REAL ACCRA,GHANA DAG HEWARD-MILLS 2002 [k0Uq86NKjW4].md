@@ -8,6 +8,8 @@ year: 2002
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Welcome to chapter 10 of Sucre. Okay, the next step. Taste the reality of ministry. Taste the reality of ministry. Amen.

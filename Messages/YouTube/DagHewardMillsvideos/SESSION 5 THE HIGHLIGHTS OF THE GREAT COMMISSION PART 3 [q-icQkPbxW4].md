@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=q-icQkPbxW4"
 duration_min: 156
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 father thanks for the blessing in Jesus name man John great Commission with chapter will you open to in John go to the last chapter and we are going for highlights of the Great Commission in John John chapter 12 21 is the last chapter so Matthew is 28 mark is 16 Luke is 24 and John is 21 isn't it you know how to remember that John is 21 chapters should I tell you how when I was a Christian young Christian please I bet you I'm still a young Christian when I was you know young in the

@@ -4,6 +4,8 @@ book: "Ministerial Barrenness"
 book_number: "072"
 chapter_number: 5
 type: book
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 # 

@@ -8,6 +8,8 @@ year: 2023
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Hallelujah am father thank you for the blessing you've given to us we are grateful in the mighty name of Jesus we pray with Thanksgiving amen amen you may be seated oh yes are you aware you showed the wrong thing we gave you something you something different all right so too many cooks SP the broth yeah so many people fiddling at the back there all right now today I want us to look at Matthew Chapter 13 those of you technical people be careful you don't backslide sit down and join the camp properly don't do technical techn

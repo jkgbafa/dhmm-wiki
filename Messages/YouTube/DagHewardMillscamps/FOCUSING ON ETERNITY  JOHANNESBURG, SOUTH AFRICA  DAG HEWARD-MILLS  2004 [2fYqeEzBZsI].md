@@ -8,6 +8,8 @@ year: 2004
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity"]
+tags: ["topic/heaven-hell-and-eternity"]
 ---
 
 welcome to track number one of church planting I've seen people dying on the W is one of the frightening things when someone knows that he's going to die it's one of the terrible experiences they are frightened beyond their wids I tell you when somebody is given a diagnosis and you know you are ding it changes the you can even go mad in fact as I'm speaking I know of somebody who's gone mad he was given a diagnosis like that you can go Mad God does not give us our days he keeps the months that are

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=mTzw17qmpGQ"
 duration_min: 175
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Turn with me to the book of Jude. Our theme is now we are at war. Amen. There is a book called Now We Are at War. Amen.

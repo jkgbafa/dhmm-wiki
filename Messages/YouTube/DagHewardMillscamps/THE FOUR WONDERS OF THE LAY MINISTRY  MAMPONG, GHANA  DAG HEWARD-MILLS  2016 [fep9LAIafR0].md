@@ -8,6 +8,8 @@ year: 2016
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 father have mercy on our souls in Jesus name amen amen you may be seated Isaiah 58 I want to share with you on the four wonders of the lay Ministry the four wonders of the lay Ministry all right now everybody should listen to that and if you are in full-time Ministry you can consider it as the four wonders of full-time ministry that's all right Isaiah 58 cry aloud and spare not lift up thy voice like a trumpet and show my people their transgression and the house of Jacob their sins okay Isaiah 58 show the house

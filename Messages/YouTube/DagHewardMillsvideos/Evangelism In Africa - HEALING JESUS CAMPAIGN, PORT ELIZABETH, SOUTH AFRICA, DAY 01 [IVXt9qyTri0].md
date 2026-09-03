@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IVXt9qyTri0"
 duration_min: 137
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 hyah hyah hyah kula me now Oh hallelujah Oh hallelujah halleluyah halleluyah halleluyah ha ha ha ha pardon we are Oh hallelujah hallelujah yeah hallelujah nom-nom-nom Jana Jana yeah nah nah nah nah nah peanuts aren't enough peanut spunk yeah knock-knock god bless you please be seated Mahakali Ponte what a night Oh Johnny Bordeaux Masuku please find a place to set from an indirect jog tonight I want to welcome back from Jersey from Oakland Calif perfect the chairman of the central planning committee of the healing Jesus campaign Luciano Elizabeth cuckoos Elena our bobaloo Mussolini limbo Salado let's

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ZEG6Sq2UsNc"
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 Jesus is here right now Jesus is here right now he's here to meet your deed to set the captives free right now if these so-called God and you fight battle at all and depression weapons - perrito see that rope it thank you hey take the dark bow away right down oh Jesus he's here right now here to be your need to set the path Jesus is here right now if you don't worry here inside the bed and you can buy he supplies no way I it's clapping your hands open your how about the apology to

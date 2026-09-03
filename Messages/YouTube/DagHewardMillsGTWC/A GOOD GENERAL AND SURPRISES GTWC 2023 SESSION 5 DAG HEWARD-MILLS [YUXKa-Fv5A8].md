@@ -8,6 +8,8 @@ year: 2023
 duration_min: 145
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 A good general and surprises. Now, what is a surprise? In the Bible, the word you can say used for surprise is a snare. Down la Bible, le mot pour la surprise, c'est un piège. A snare.

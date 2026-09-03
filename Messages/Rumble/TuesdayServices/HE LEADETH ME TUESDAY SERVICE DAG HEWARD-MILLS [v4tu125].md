@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tu125/"
 duration_min: 40
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Our subject is He leadeth me, He leadeth me. Alright. He leadeth me. Now the Lord is my shepherd. I shall not want.

@@ -8,6 +8,8 @@ year: 2013
 duration_min: 119
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 a pastor must be repetitive but in an Innovative way do you get it you must be repetitive now think about it in many houses they eat the same thing on a particular day did you know that what do you eat on Sundays Fufu on Sundays what do you eat on Mondays Banu and what Banu and okr to your Mondays okay you tell me what is yours Sunday is what give me a microphone yes I'm going to get about three menus on Sunday mostly I'm in church so I don't eat but eat cont still Su every

@@ -9,6 +9,8 @@ duration_min: 19
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/ESCAPE FROM PHARAOH STAGE 3   SEVENOAKS, UK DAG HEWARD-MILLS  2003 [g3hRo0_7DXA]]]"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Welcome to track number three of the present three Exodus chapter 10 verse 7. And Pharaoh's servant said unto him, how long shall this man be a snare unto us? May Pharaoh begin to say that about you. How long shall this man be a snare unto us? Let the men go that they may serve the Lord their God.

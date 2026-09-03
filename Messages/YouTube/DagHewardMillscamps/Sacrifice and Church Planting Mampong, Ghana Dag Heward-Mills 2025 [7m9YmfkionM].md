@@ -9,6 +9,8 @@ duration_min: 58
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Sacrifice and Church Planting  Mampong, Ghana  Dag Heward-Mills  2025 [7m9YmfkionM]]]"
+topics: ["Church Growth", "Church Growth/Church Planting"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting"]
 ---
 
 Let's welcome the prophet. Hallelujah. Please be seated. Genesis 24, verse 60. One of the things that prophet just taught us in breaking the barrenness of Sarah is that we must not reject the prophetic word.

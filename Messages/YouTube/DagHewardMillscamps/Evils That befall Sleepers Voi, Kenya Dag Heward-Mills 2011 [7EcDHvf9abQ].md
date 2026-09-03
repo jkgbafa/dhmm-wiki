@@ -8,6 +8,8 @@ year: 2011
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Salvation", "Salvation/Backsliding"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/salvation", "topic/salvation/backsliding"]
 ---
 
 okay Hebrews chapter 5 and verse 12 verse 11 says that concerning him we have much to say and it is hard to explain since you have become D of hearing tell your neighbor I'm not D of hearing no not to me to your neighbor so tell your neighbor I am not D of hearing then for though verse 12 says for though by this time you ought to be teachers you have need again that someone you have need again for someone to teach you the elementary principles of the Oracles of God and you have come to

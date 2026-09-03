@@ -8,6 +8,8 @@ year: 2019
 duration_min: 184
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 what love the father has lavished on us that we should and daughters precious in His sight precious in His the Greater Love of Jesus Christ this world has never seen this world has Mercy when he hung on a tree when he h on the tree oh come on do you love him why would he do do such a thing for does somebody love Jesus you me thank you for loving me thank you for me when on the cross you made history on the cross you made his tell him Lord you died for me forever and

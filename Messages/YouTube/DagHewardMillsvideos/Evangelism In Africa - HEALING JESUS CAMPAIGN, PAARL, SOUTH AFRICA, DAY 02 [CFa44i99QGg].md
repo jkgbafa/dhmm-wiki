@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=CFa44i99QGg"
 duration_min: 166
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 let's welcome the Evangelist with a charm and a hand club tonight hallelujah hallelujah please be seated hallelujah ladies and gentlemen may I have your attention please we are very happy to experience this fantastic and historic campaign here but it's also come as a result of work done by individuals processed churches and this evening on this final night please join me to welcome once again the chairman of the board of trustees of the healing Jesus campaign to bring us his closing remarks please clap your hands and let's welcome our chairman good evening par can't hear you

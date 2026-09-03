@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tuds9/"
 duration_min: 95
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 In a world where there is such an indifference to the things we hold so precious and so deal in a time when evil men are growing worse and worse and yet other hearts are failing them for fear you are my fortress you are my strength and on you I know I can depend you are my fortress you are my strength and it's all by your grace de la in a time when sons are turning on their father and the mothers cry for justice can't be heard in a world where the future seems so uncertain through

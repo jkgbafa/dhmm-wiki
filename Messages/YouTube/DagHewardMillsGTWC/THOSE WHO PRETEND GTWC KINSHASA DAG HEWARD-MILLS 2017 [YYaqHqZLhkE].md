@@ -8,6 +8,8 @@ year: 2017
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Now a pretender is the carries the spirit of an actor. Amen. Amen. Are you actors or you are real? Est-ce que vous êtes vrai or des actors?

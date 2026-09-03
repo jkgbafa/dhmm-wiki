@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wtlHWbrhKLo"
 duration_min: 217
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 you I decided to take they're not over with I'd lose some of my friends but I would rather I'd rather never I can inhale lift up my eyes for all of God's people say hey tell somebody city you stand yeah holy holy Ted all right you can be counted my mother actually you spend when tacos step on your arm a little and believe it shall receive home I decided to take space I believe it that I lose some of my friend I would rather I rather live ride very well lift up my eyes so all

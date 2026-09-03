@@ -8,6 +8,8 @@ year: 2003
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wisdom"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wisdom"]
 ---
 
 welcome to track number three of agree on the way there is no remembrance of former things neither is there any remembrance of things that are to come of things that shall be done after verse 12 let's all read it together ready go I the preacher was King over Israel in Jerusalem and I gave my heart to seek set out by wisdom all things that are done under Heaven amen am under where Heaven are we under Heaven All right so we are looking for things that are done under Heaven amen and the saw travail which God

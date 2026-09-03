@@ -7,6 +7,8 @@ url: "https://rumble.com/v4txoow/"
 duration_min: 95
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Let us bow down our heads and pray. Want to ask God to speak to you this evening. Father, thank you for your blessing. Thank you for your blessing. Thank you for your help.

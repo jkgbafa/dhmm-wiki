@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ud7sl/"
 duration_min: 31
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Salvation/Backsliding"]
+tags: ["topic/salvation", "topic/salvation/backsliding"]
 ---
 
 Money is the wheel of the gospel. Are you understanding that? You may have a brand new car, you may have oil in it, you may have petrol, everything. But if there are no wheels under the car, it cannot move. You can step on the accelerator until you begin to see two hundred and twenty kilometers per hour, but the car will still not move.

@@ -8,6 +8,8 @@ year: 1999
 duration_min: 27
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Backsliding", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/salvation", "topic/salvation/backsliding", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 are you glad to be in chat this morning all right turn with me to mark chapter 4 and we want to pick up where we left off last week we are looking generally at the subject of backsliding and in particular as important symptoms of backsliding Amen Mark's chapter 4 alright mark chapter 4 are you with me I want us to read from verse number 19 20 and we'll continue from there ready go alright please mark chapter 4 verse 19 ready go and the cares of this world and the deceitfulness of riches and the lusts of

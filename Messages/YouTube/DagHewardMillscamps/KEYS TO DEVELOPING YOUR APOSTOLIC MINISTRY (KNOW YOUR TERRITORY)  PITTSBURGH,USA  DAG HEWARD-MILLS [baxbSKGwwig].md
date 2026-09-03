@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=baxbSKGwwig"
 duration_min: 28
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 number two step number two to your Apostolic Ministry I'm talking about apostle that will come to the other ones number two is the sphere the sphere the area you are called to second Corinthians chapter 10 your sphere all right or if you like your region you must know your region you must know know your sphere as an apostle Apostle simply means a sent one somebody who's been sent by God and often it has to do with church building but anybody who is specially sent is um anyone who is specially sent is an apostle now the

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 145
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Vision and Direction"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/vision-and-direction"]
 ---
 
 This is the final day, and I'm sure you know it always gets better at the end than at the beginning. Let's put our hands together once again to appreciate the Lord for what he's brought us here in Rotterdam. We want to thank the Lord. If you can lift your hands and thank him this morning for what he's done for this conference and for even the events of today, his word that is coming to us, his power we are going to experience. Lift your hands and just thank him.

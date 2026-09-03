@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=e0yl2mEkZss"
 duration_min: 238
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 I get my novel by martini demos a yummy voted to power mixer because Fabia badminton is a bamboo roof often meet a man Sonic is my display I guess myself I am Ella Medina make footsteps in there I shall people just me just me one copy baby sent my samples $1,000 mounting the river flows and it brings refresh it wherever I go through that Valley over the fields the Rings are expression and the reason come on now the mountain the river flows and it breaks discretion forever through through the valleys at over a field the

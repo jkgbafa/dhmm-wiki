@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u7vxx/"
 duration_min: 32
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation"]
 ---
 
 Let us pray. Holy Father, it is a pleasure to be here in your presence. We ask for your great blessing as we come before your word in Jesus' name. Amen. You may be seated in the presence of the Lord.

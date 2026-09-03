@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uh4kb/"
 duration_min: 69
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Up hold me with thy sweet spirit Whatever you do, Lord, don't take your joy from me Up hold me with thy sweet spirit Whatever you do, Lord, don't take your joy from me while you help me sing Whatever Upon me Whatever you do, whatever you do, God, don't take your joy from me Cast me not away from thy presence Don't take your Holy Spirit away from me to hear joy and gladness I wanna be able to rejoice with me up me with that sweet spirit whatever me up Whatever you do whatever you do don't take

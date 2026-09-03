@@ -3,6 +3,8 @@ title: "CHAPTER 4  SEVEN REASONS WHY PROBLEMS PASS FROM FATHERS TO SONS  ACCRA, 
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Marriage and Family", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/marriage-and-family", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Problems pass from fathers to sons because they memorize. Amen. Why do I say that? Memoring is a sin and a sin opens the door to the devil. So when Miriam criticized Mosesh, she was criticizing somebody who was so high. You see, God told Mo Aaron Moses will be to you instead of God instead of and you will be to him instead of a mouth. So when you criticize somebody whom God has given to you instead of God you criticize the person. You are criticizing God. So when you criticize God, you open yourself to demons. So

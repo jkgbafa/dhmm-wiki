@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqgk2/"
 duration_min: 90
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Missions", "Missions/The Nations", "Vision and Direction", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/missions", "topic/missions/the-nations", "topic/vision-and-direction", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Can you reach to love a neighbor? Do they see the sweet sweet Savior shining through the little things you do? Do you hear his call to follow? You must lay down your life to follow. For only when you die, are you free to live?

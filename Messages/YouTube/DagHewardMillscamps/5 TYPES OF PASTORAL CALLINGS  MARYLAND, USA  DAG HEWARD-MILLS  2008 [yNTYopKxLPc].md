@@ -8,6 +8,8 @@ year: 2008
 duration_min: 36
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 five types of pastoral callings number one pastors who have not been called No I wonder whether I should yeah I have not sent these prophets yet they ran I have not spoken to them and yet they prophesied forgive this one looks like the opposite of all I've been telling you behold I am against them that prophesy false dreams sayith the Lord and they do tell them and cause my people to air by their lies and by their likeness yet I sent them not nor commanded them therefore shall they not profit these people at all Jeremiah

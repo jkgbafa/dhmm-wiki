@@ -8,6 +8,8 @@ year: 2012
 duration_min: 147
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/the-call-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 to the angel of the church in Philadelphia write these things sayith he that is Holy he that is true he that has the Key of David he that openeth and no man shth and shutteth and no man openeth I Know Thy Works behold I have set before thee an open door and no man can shut it for thou H has a little strength and has kept my word and has not denied my name I will take them of the synagogue of Satan which say they are Jews and are not but do liar and I'll will

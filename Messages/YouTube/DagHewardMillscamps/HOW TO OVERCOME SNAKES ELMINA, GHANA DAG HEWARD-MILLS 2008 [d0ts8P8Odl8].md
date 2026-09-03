@@ -9,6 +9,8 @@ duration_min: 83
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HOW TO OVERCOME SNAKES  ELMINA, GHANA  DAG HEWARD-MILLS  2008 [d0ts8P8Odl8]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Track number 12 of warfare king. Good, good. Now, where were we yesterday? Snakes. Huh?

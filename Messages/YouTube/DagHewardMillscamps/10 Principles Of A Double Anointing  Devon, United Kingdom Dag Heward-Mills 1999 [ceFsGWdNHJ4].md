@@ -8,6 +8,8 @@ year: 1999
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Hall maybe SE how many want to be more like Jesus oh I see you becoming more like Jesus I see you becoming more like Jesus not becom more like Father becoming more like Jesus more like Jesus more like the Lord say the Lord you shall walk in it you shall go on you shall go ahead you go forward you shall be blessed in the anointing that you desire you shall walk in the anointing you shall walk in the anointing you shall walk in the anointing you shall not lack the anointing it shall come to pass

@@ -9,6 +9,8 @@ duration_min: 81
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/REASONS WHY YOU MUST HAVE A MEGA CHURCH   GTWC LUSAKA  DAG HEWARD-MILLS  2025 [-OwJa2KeZmE]]]"
+topics: ["Church Growth", "Church Growth/Mega Church", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now we must continue. Uh, you must have a mega church number four because pastors think are deceived into thinking that the work has been done when it has not been done. Most pastors have this delusion that the work of God has been done. Some people even think that Zambia is saved. Do you have bad people in Zambia?

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wI1cvw08VHA"
 duration_min: 176
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 beautiful you may be seated thank you father what a blessed day and time to be in the house of the lord amen and we thank god that we are back in the jesus savior of the world square last week we were here and it rained we enjoyed a few showers but we are back here again and we thank god in all things we were still happy and blessed those of us who are watching sorry we couldn't come back because we were so uh engrossing organizing ourselves reorganizing ourselves but today is hamatan today has hamatana has

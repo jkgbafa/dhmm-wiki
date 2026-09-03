@@ -8,6 +8,8 @@ year: 2003
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/spiritual-warfare", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 welcome to track number 13 of how to survive in Ephesus that member out of one of my branches but I don't think he knew that I know that he has prophesied somebody out of my Branch so he was now complaining these prophets who come and so on they really affecting churches and so on and they come and prophesy to people for people to leave the church and I thought to myself are you have you forgotten that you have prophesied somebody out of my church before and now people are prophesying people out of your church cuz

@@ -8,6 +8,8 @@ year: 2013
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Please be seated. I say we play. Okay. Once again, I need to remind all everybody that the next set of books or anything that would be given out. If you are not wearing a target, which implies that you have not registered, you will not have a copy.

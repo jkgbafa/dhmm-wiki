@@ -8,6 +8,8 @@ year: 2006
 duration_min: 31
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Welcome to track number 10 of spiritual battles. We thank you for this opportunity again in Jesus' name, Lord. Amen. You may be seated. Alright.

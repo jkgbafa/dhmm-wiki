@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7b8T3bUAx-0"
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Wisdom"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/wisdom"]
 ---
 
 now all this is about um being able to Bear much fruit I want to share with you a little bit about the wisdom of faithfulness and loyalty amen amen what is the wisdom of loyalty is the wisdom of promotion Matthew 24:45 the wisdom of loyalty who is then a faithful and wise servant whom his Lord made ruler over his household amen what is the person who becomes the Lord of the household a faithful and a loyal person loyalty and faithfulness is the master key to the great expansion of your ministry it's only God who can

@@ -8,6 +8,8 @@ year: 2015
 duration_min: 82
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Wow. Hallelujah. Father, we thank you for the opportunity to be here tonight. We ask that you guide us, Lord. Have mercy on us.

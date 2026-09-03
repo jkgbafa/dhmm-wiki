@@ -4,6 +4,8 @@ book: "The Love Of The Spirit"
 book_number: "103"
 chapter_number: 8
 type: book
+topics: ["Anointing", "Anointing/Kinds and Waves of the Anointing"]
+tags: ["topic/anointing", "topic/anointing/kinds-and-waves-of-the-anointing"]
 ---
 
 Chapter 5

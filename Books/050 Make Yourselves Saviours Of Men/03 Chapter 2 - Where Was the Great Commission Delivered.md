@@ -4,6 +4,8 @@ book: "Make Yourselves Saviours Of Men"
 book_number: "050"
 chapter_number: 3
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 ### Chapter 2\

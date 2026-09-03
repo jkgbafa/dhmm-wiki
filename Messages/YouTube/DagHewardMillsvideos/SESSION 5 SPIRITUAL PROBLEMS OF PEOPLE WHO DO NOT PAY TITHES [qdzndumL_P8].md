@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=qdzndumL_P8"
 duration_min: 178
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 louia hallelujah hallelujah father thank you for the gift mam se puso dough that you give to us that you know done in the name of Jesus Christ amen amen you may be seated I see you prosperity la prosperity in the ministry Donal Minister is very connected a telly to tithe pain I love all fed the paella demon ah man I mean now when you allow your church Christians to not pay tithes copy permit a okay Chanda what hey listen a puppy lied by your failure to teach hot monk down cinema and to preach either down

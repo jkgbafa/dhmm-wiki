@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=UCBHr0eiGXg"
 duration_min: 230
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 so lift your hands everyone wherever you are standing and begin to magnify God right now David said oh magnified the Lord with me honor you I'm here to give you all the praise all the glory all the honor you are a God who never Slumbers no sleeps you are God who has said to us you never forsake us not deny us Lord we love you because you first loved us we worship you because you care about us you thought about us lord always says that your thoughts concerning our lives they are precious thoughts we just

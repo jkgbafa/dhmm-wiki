@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 out of time. So the church must send or it will end. The church must send or it will end. It's a book. Amen. Amen. So, um, and all the books are in this little box here, some of the new ones. Now, I believe that the church is supposed to go on from victory to victory. Amen. Uh, the church is not decreasing. Amen. And the church will not decrease. But everything has what will bring it to an end. You know, everything has can come to an end. A marriage can come to an end. A friendship can

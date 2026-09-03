@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=fv0e6tJfF20"
 duration_min: 75
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 D'agushima Butiza noye non Yes, we're so big as soon as I made a raparaï au monde à l'abat à ma raison d'Amai Arazu Kizaukisa Duchima Dubasa Business Bayka Buda Yesu Osa Sikha The atmosphere is charged. I know you are ready. This is the high point of tonight's campaign. The time we get to hear from the man God has sent to this city. We heard the word of God from him yesterday.

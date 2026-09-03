@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=iEbMWebReyk"
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 put our hands together for the Lord what are you turning to Wine Open the Eyes of the blind there's no like oh there is none like him none like you what are you turning to one come on what turn into wine come on Open the Eyes of the there's no like tell I'm none like you none like you into the darkness into the darkness we shine come on out of the ases We rise there's nobody like how many believe it like you tell him our God is greater our God is greater our God is stronger

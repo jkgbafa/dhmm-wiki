@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/mHApkUfv1Rqg/"
 duration_min: 63
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I see that bang. I see that bang my woo we found my woo I think I bang me on my woo me fall out of Well, we are blessed to have a daddy in the house to bless us this morning. Shall we please rise to our feet? Let's receive the bishop that he won't mean to bring us the word of God this morning. Wow.

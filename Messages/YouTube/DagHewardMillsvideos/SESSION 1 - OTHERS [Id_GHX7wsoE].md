@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Id_GHX7wsoE"
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 wow Hallelujah father we thank you for the opportunity to be here tonight we ask that you guide us Lord have mercy on us and lead us to be fruitful to serve you well in Jesus name we pray amen am you may be seated well when I see this film I'm affected when I see the people the wickedness of Satan to kill people turn people into lepers blind every kind of evil it really hurts me you know and you can see that there is something wrong with us as Christians because our minds and our hearts are

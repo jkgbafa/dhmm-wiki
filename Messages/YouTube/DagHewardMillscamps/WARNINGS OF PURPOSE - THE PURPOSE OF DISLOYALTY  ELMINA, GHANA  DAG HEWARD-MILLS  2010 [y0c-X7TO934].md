@@ -8,6 +8,8 @@ year: 2010
 duration_min: 175
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 are you feeling kind of rotten cuz you think you've been forgotten by the one who said it never would forget maybe your little heart's been naken cuz you think you've been Forsaken and the only thing you know to do is fr you can worry over problems if you think you must but your life life would be much easier if you learn how to trust so give your life to Jesus and make him your Delight cuz he can work it out all right and Are you full of apprehension cuz you're full of tension wondering what am

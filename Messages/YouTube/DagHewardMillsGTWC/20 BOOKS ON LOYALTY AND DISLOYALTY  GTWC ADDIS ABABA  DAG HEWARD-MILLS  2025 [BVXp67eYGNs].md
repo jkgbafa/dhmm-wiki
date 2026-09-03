@@ -9,6 +9,8 @@ duration_min: 113
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/20 BOOKS ON LOYALTY AND DISLOYALTY GTWC ADDIS ABABA DAG HEWARD-MILLS 2025 [BVXp67eYGNs]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 God bless you. Thank you, Pastor Terra. Pastoral. I want to thank all the pastors, the fathers, and the elders from 92 cities. Bless the conference. Bless the conference. God bless you for coming. Amen. Today I want to share with you about loyalty and disloyalty and I have 20 books on this subject. Amen. Amen. 20 higher. The first book, the first book is loyalty and disloyalty. Yes. I want to recommend to you all the 20 books are different. They all different. They are addressing something different. The second book is why loyalty. Why loyalty? Why is loyalty

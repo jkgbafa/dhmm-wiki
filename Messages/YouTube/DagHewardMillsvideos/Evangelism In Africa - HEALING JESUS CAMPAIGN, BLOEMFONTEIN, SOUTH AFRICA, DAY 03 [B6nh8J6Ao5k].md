@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=B6nh8J6Ao5k"
 duration_min: 152
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 come close to me slow fast to me I want to heal you I want to touch you all those dolls and all those sin that you've had all through the years I want to heal you there's a Lord come closer to me flow back to me I wanna heal you I wanna thank you all those thousand all those years that you had all through the years I wanna heal you there's a law try so hard to hide all the pain you feel inside you hold nobody please do your desire so you wish somebody knew what

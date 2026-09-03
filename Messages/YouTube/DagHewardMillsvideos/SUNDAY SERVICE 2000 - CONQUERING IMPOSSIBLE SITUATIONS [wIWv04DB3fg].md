@@ -8,6 +8,8 @@ year: 2000
 duration_min: 43
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances"]
 ---
 
 hallelujah Isaiah chapter 11 I want to continue from where I left off some time ago talking about how to overcome impossible situations do you remember all right how do I come in possible situations and I want to share with you Isaiah chapter 11 verse 6 to 9 and since the wolf also shall be the girdle the wolf also shall dwell with the lamb the roof also shall dwell with the lamb and the leopard shall lie down there this is better the leopard shall lie down with the kid and the calf and the young lion and

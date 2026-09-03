@@ -8,6 +8,8 @@ year: 2010
 duration_min: 180
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 job 26:29 let it not be iniquity yeah return again my righteousness is in it verse 30 is there any iniquity in my tongue cannot my taste discern perverse things amen amen in other words this is another uh one on the tasting here he is saying that when you taste something can you not see that this is something bad now it's interesting that many of us have rather experienced the ministry and uh have not been able to see that it is good many of us have experience the world and seen we cannot see that it's perverse

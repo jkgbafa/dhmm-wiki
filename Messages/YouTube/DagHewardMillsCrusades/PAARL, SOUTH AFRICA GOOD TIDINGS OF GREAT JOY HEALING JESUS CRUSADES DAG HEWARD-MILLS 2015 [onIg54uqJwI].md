@@ -9,6 +9,8 @@ duration_min: 120
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/PAARL, SOUTH AFRICA  GOOD TIDINGS OF GREAT JOY  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2015 [onIg54uqJwI]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Amen. Clap your hands for Jesus tonight. Let it be louder. Let your hand clap be louder. Let your hand clap be louder.

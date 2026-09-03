@@ -8,6 +8,8 @@ year: 2011
 duration_min: 183
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 a heart that is faithful and a heart that's true yes that's what he's looking for a heart that is willing to do what he wants us to do that's what is's looking for o that's what is looking for ooh that's what he's looking for a heart that will be faithful each and every day as that's what he's looking for he's looking for a heart that will say Jesus Lord I'm willing to obey that's what he's looking for that's what is looking for o o That's what is looking for God is looking for somebody he can

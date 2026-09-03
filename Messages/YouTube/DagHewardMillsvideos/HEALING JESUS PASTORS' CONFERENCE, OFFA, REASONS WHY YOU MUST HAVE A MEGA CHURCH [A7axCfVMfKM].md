@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=A7axCfVMfKM"
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/anointing", "topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 W yeah blessed Jesus you are my first love there is no other the love that can compare blessed Jesus it is your holy love it is your perfect love that leads us to you now there's no other love that we desire there's no greater love that we could ever know oh blessed Jesus you are my first love there is no other love that can compare oh oh blessed Jesus you are my first love there is no other love that can compare blessed Jesus it is your holy love it is your perfect love that leads us

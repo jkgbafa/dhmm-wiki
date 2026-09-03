@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GrOcMqOP1sY"
 duration_min: 134
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 oh it is Jesus yes it is Jesus it's Jesus in my soul for I have touched the H of his G and his blood has made me oh it is Jesus yes it is Jes it'ses it's Jesus in my soul in my soul I have touched for I touch them of his I took the H of His Garment and his and his me I TR all I could seemed like a nothing did me any good but then I heard Jesus he was passing by then I decided to give him a try and oh yes it

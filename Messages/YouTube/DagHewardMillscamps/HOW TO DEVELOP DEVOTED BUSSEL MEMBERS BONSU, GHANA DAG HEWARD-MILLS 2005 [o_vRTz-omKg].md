@@ -9,6 +9,8 @@ duration_min: 73
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HOW TO DEVELOP DEVOTED BUSSEL MEMBERS  BONSU, GHANA  DAG HEWARD-MILLS  2005 [o_vRTz-omKg]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 We will have this prayer meeting after this session. Amen. We are going to really we are going to release the first two sections of the bomb. What do you think? Or if you like, you can prepare a separate bomb in three sections.

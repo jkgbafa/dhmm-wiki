@@ -8,6 +8,8 @@ year: 1999
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 how many I expected to be in the house of the law and in particular how many I expected to be in this church the megachurch I set the megachurch I set them megachurch and you know it's so easy to be in the crowd and still not feel loved are you aware of that there can be so many people around you and yet you are lonely and that is why we come and we shake one another and I even dare to say hug one another cut somebody to the pier all things appear this is what we

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7etqRSvs0YU"
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 crazy I can't wait to you I remember you said that you will never leave me head in time superb oh you be my friend but sometimes doubt and fear they try to steal my baby oh but I will and I will I can I see I know you saying that I'm the apple of your head for loving me you gave your life yes you did sometimes my heart for the beg for loving you oh that I will my dad not I will stop trouble Oh I remember you think that you will never leave me and

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=FgxaX82ypPQ"
 duration_min: 145
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 put your hands together for Jesus somebody give the Lord a shout of Praise there is power in shouting Give the Lord a shout a shout a shout a shout a shout a shout a shout I go singing and worship name he don't me today he give me peace now he don't make her free did you hear that I go sing and worship him he don't P me today he give me peace now he don't make I go tomorrow where I come from Jesus don't change me life Jesus we the Praise Jesus we the praise I

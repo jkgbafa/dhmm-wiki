@@ -8,6 +8,8 @@ year: 2014
 duration_min: 146
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Ministry and Pastoring"]
+tags: ["topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring"]
 ---
 
 those who are accused. Now we are going to those Those are enemies of know your enemy. This is a whole book is very churches in a bad way. Hallelujah. And they all say that they are led by the spirit. So in this book I want to read the demons. I'm not talking about the evil spirits that work in people. Number one, the spirit of Lucifer. Look, there is a there is a beautiful book by the Alec um It's called the fall of a good member of the church associate family. So that spirit is the spirit

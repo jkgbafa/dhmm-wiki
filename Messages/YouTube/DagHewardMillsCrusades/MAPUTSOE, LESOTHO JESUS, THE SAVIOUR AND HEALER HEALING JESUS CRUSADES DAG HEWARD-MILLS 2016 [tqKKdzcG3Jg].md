@@ -9,6 +9,8 @@ duration_min: 143
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MAPUTSOE, LESOTHO  JESUS, THE SAVIOUR AND HEALER  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2016 [tqKKdzcG3Jg]]]"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Hallelujah. Clap your hands for Jesus tonight. As we receive our pastors. Are you ready for what God is going to do tonight in your life? Here again, are you ready for what God is about to do in your life?

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2024
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 Then the last but one is that Judas is who is who is Judas? He is a betrayer. Now what is a betrayer? Betray and threat. Traitor, treachery, they are all words. They're English words. They mean the same some similar things. It's all the same. Traitor, betray, you are a traitor usually or treason is also like that. It's a treason is a traitor but against a country. NOW CHARACTERISTICS OF A TREACHEROUS PERSON. I want to read it to you what it means when you say somebody is a betrayer. It means he's treacherous. What does it mean

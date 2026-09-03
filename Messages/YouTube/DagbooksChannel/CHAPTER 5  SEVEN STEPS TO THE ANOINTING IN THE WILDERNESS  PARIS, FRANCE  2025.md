@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Let's look at seven steps to the anointing in the wilderness. After the wilderness, the Bible says in Luke 4 verse 15, it says, "And Jesus returned in the power of the spirit. from the wilderness. So in the wilderness we experience the poweriment. Everybody say I want to experience it. The poweriment Come stand here. Line up here. Come for a line here. Just one line. Okay. When I come up to here, when I get a chance, I'll lay hands on you. I want you to be ready because don't move. Don't move because there's not much time.

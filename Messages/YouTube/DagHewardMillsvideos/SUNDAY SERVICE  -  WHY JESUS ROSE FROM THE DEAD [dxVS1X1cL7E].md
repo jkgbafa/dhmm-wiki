@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=dxVS1X1cL7E"
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Oh Oh he's a pearl Oh Hey hallelujah father thank you for this morning and a blessing that we received from you today we are grateful in Jesus name guide us by a holy spirit have mercy upon us we thank you in Jesus name Amen you may be seated happy Resurrection Sunday morning are you blessed to be in the house of the Lord it's important to be good Christians and to understand and know what we believe the other day I met a Muslim brother and I was asking him what he believed in and he was not

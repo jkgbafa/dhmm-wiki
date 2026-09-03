@@ -9,6 +9,8 @@ duration_min: 26
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/PSALM 89 WHY THE ANOINTING IS ESSENTIAL GTWC ADDIS ABABA DAG HEWARD-MILLS 2025 [v4pOZpARA7w]]]"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Hallelujah. Hallelujah. How many want to catch the anointing? Wow. Now, seven reasons why you must be anointed. Number one, now please get this book, Steps to the Anointing. I'm preaching from that book. steps to the anointing. I told you I have eight books and this is the best one of all the eight steps to the anointing. It's not my favorite, but it's the best. Now, seven reasons why you must be anointed. Number one, because it's not by might, it's not by power, but it's by the spirit. Amen. You cannot do ministry with your human might.

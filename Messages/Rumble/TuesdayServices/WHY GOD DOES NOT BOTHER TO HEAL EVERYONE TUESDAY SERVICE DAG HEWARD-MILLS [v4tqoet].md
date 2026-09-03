@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqoet/"
 duration_min: 121
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Are you glad to be here? Lift your hands and thank God for tonight. Father, thank you for your blessing. Tonight. As we come before your word, the holy word.

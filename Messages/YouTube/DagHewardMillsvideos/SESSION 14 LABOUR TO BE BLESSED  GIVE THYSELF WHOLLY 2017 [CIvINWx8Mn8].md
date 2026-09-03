@@ -8,6 +8,8 @@ year: 2017
 duration_min: 89
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 beautiful now I'm gonna share with you commander claim a test for summary how many of you realize that each one is connected to prosperity of pastas everyone they conquer shock you in the sickly VA a la prosperity de pasto when I sent you conjure with my a lucky anything monkey - when you say monkey ape acid is known Nouman condom beaucoup de shoes I mean now the next powerful key a clear savants office on prosperity the possibility for pastors fully pastor is labor to be blessed how they do pnina's all labor for blessings Hawaii do

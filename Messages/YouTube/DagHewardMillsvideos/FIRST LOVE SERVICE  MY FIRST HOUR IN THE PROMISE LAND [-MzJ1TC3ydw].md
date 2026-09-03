@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-MzJ1TC3ydw"
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 with a round of applause you want to welcome that Trinity fuzz drama group and everything good that comes to this by my hmm Danny you got this one no let's go back yes no this one this one isn't that a Yama oh yes Yama well that's why she was in school she was the hottest chick on company she was her fear until one day he met Wanda hello my name is James Bond aka you don't look happy about that oh no there's nothing happy about that am i written about what I read oh but you

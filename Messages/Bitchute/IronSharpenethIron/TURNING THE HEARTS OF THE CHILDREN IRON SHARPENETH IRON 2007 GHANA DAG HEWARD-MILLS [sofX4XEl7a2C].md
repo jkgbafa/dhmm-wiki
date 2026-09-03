@@ -8,6 +8,8 @@ year: 2007
 duration_min: 91
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Please tell them for me. Tell them that I love them. And I came to live stem low. Tell them. Even if they don't believe you.

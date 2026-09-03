@@ -3,6 +3,8 @@ title: "CHAPTER 14 PIERCE SATAN\u2019S HEART"
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 recover quickly. Yes. You know in a war you may not win every battle. You may have some serious losses but it is important to recover quickly. recover quickly. Yes, we try to recover quickly. When the first second war happened, Britain was defeated. When they tried to go and help Poland are in, Germany routed them. and drove them away. How many understand the second? Let me explain to you. Second world war is the war. It's the biggest war ever in the world. And people are afraid of the third world war. We have had two world war.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=YcY6KRL0s8k"
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we thank God for this wonderful service Christ is risen amen now the subject of my message this morning is Christ is risen we are forgiven and we must forgive amen Christ is risen we are forgiven and we must forgive hallelujah now if you would mind turn with me turning with me to the book of Acts chapter 2 Acts chapter 2 and we are going to read from verse number 22 now in Acts chapter 2 Jesus the Bible teaches that Jesus rose from the dead and then the disciples met and after that they were persecuted and

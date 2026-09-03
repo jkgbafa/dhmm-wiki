@@ -8,6 +8,8 @@ year: 2025
 duration_min: 20
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Salvation/Repentance"]
+tags: ["topic/salvation", "topic/salvation/repentance"]
 ---
 
 All praise belong to the Heavenly Father, whose name is Yahweh and respect to His Son, whom the world ignorantly calls Jesus Christ. His name is Yahweh Shai. And respect to the Holy Spirit, which rests upon me, Bishop Ezrah and my son Hananiah to bring forth another Bible study lesson. I'm entitled this lesson. Um our new reality, which is this awakening, okay?

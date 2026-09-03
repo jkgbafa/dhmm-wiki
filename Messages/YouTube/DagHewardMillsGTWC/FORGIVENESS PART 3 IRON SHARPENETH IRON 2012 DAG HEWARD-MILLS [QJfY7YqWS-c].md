@@ -8,6 +8,8 @@ year: 2012
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 All forms of disloyalty emanates from bitterness and unforgiveness. All forms of disloyalty emanate from this thing. Amen. Amen. And in my book loyalty and disloyalty.

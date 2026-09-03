@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4r0mRqMqf_M"
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting"]
 ---
 
 Now, honor thy father and thy mother. That means show respect. Show respect to your father and to your mother. This includes your spiritual fathers and your spiritual mothers. Anyone who doesn't like this father, your future is a dark cloud.

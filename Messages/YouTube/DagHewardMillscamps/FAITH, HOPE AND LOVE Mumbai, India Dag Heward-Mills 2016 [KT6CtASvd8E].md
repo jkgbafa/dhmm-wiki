@@ -8,6 +8,8 @@ year: 2016
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 Father, we thank you. We are grateful. Great blessings. Maybe see that. Is there anybody here who has learned something since we came?

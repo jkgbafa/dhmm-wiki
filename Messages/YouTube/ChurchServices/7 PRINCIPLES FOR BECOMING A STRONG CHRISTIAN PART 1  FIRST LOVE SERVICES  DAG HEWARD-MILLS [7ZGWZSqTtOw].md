@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7ZGWZSqTtOw"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 time there was a man he had two sons left his home to the world there he wasted his life doing many wicked things but his father still waited patiently and he came to his senses and came run to his father forgive me please forgive me there is a better place for you and for me and the end of human rign there a home in heaven or burn a lake of fire make a better choice for Jesus today the sky and it's Heaven up above Jesus died on the cross to save a sinner just believe and

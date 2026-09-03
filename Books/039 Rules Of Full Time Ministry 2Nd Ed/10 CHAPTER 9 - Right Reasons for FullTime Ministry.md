@@ -4,6 +4,8 @@ book: "Rules Of Full Time Ministry 2Nd Ed"
 book_number: "039"
 chapter_number: 10
 type: book
+topics: ["Ministry and Pastoring", "The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/ministry-and-pastoring", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 ### CHAPTER 9\

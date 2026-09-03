@@ -7,6 +7,8 @@ url: "https://rumble.com/v4txqw8/"
 duration_min: 86
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Με 2! Καλό απόγευμα. Καλημέρα, ό,τι και αν είναι εκεί που είσαι α<unk> είναι καλό. Ασύνε το καλύτερο. Καλώ ήρθατε ξανά στο κανάλι μου.

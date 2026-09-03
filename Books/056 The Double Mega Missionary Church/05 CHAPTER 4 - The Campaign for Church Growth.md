@@ -4,6 +4,8 @@ book: "The Double Mega Missionary Church"
 book_number: "056"
 chapter_number: 5
 type: book
+topics: ["Church Growth"]
+tags: ["topic/church-growth"]
 ---
 
 ### CHAPTER 4 \

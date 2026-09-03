@@ -4,6 +4,8 @@ book: "Daughter You Can Make It"
 book_number: "048"
 chapter_number: 15
 type: book
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 # Chapter 12

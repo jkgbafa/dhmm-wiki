@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ECtHnsEqstY"
 duration_min: 211
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 what a blessing to be in church amen amen wonderful well next up we have the film stars and um they're coming up they're coming up the film stars please put your hands together for them it's a long walk upstairs keep clapping as they come up amen there is no and that is where I'll stop you I am God Alone yes from beginning to the end there's no place for argument I am Follow by myself so now you've come on top you see father father why so I can't feel free in heaven anymore wait okay so

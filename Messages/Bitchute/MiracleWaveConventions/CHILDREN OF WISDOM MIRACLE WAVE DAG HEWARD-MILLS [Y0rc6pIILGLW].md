@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/Y0rc6pIILGLW/"
 duration_min: 159
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wisdom"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wisdom"]
 ---
 
 I believe in this convention, God is taking us forward in this life against every background that from where you have come, any stone from which you have been hewn, God is going to take you higher in this life. Do you believe what I'm saying? And I believe that this convention is one of a difference. Things will change in our land. They will understand that although our government has planned us into hippoc, we are hibic.

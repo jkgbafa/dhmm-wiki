@@ -8,6 +8,8 @@ year: 2023
 duration_min: 145
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 a good General and surprises now what is a surprise in the Bible the word you can say used for surprise is a snacks yes we Ecclesiastes chapter 9 eclipse verse number 12. there's seduce for man also knoweth not his time as the fishes that are taken in an evil net and as birds that are caught in the snare so are the sons of men sned in an evil time when it falleth suddenly on them now mental many Wars are between similarly matched Powers because yes we are you there yes like I know what you can

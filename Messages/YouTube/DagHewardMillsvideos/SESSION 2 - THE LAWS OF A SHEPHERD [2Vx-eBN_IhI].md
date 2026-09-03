@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2Vx-eBN_IhI"
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 people angry with white people why are we angry with the white people in Africa colonialism imperialism this and that NE colonialism we were on our island called Africa they were on their island called Europe we all had wood Timber they made boats and they came we could have also made boats and gone there they made boats and they came when they came they asked for our cousins and brothers and relatives who were in The ladies and we said oh we can bring some if you give me mirror matches oil sugar I'll give you three of

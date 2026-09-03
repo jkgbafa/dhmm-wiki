@@ -8,6 +8,8 @@ year: 2024
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Prayer", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/faith", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Hebrews 11:1 how many of you have received the Holy Spirit today and speaking in tongues just lift your hand like let me see oh raise your hand if you receive the Holy Spirit and you're speaking in tongues today is it the first time you're speaking in tongues oh they are not answering are you tired you're hungry okay we go for lunch now holy go bapti and speaking in tongues oh that is a blessing I think that's why everybody is very cool this afternoon yes CU you have received the mighty Holy Spirit received the mighty holy

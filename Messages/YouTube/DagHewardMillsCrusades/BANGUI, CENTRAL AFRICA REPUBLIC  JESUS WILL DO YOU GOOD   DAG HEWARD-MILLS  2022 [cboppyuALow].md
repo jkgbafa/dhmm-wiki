@@ -8,6 +8,8 @@ year: 2022
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 of the possible quiet. Hallelujah. Lift your hands. Too much reverb. Repeat in the sound, please. Okay. Lift your hands everybody. Heavenly Father, thank you for today. Thank you for your power. Thank you for your mercy that is released in Bangi today. In the name of Jesus, we enter this nation. In the name of Jesus, we preach the gospel. In the name of Jesus, miracles, signs, and wonders are performed. In the name of Jesus, many are saved in the nation of Central Africa. Father, we love you and we lift our hands and thank you for your

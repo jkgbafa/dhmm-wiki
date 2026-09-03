@@ -8,6 +8,8 @@ year: 2009
 duration_min: 97
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Anointing/Kinds and Waves of the Anointing", "Church Growth", "Church Growth/Church Planting", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/anointing/kinds-and-waves-of-the-anointing", "topic/church-growth", "topic/church-growth/church-planting", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Blessed Jesus, you are my person. There is no other love that can come. Blessed Jesus. You are my first love. There is no other love that can come.

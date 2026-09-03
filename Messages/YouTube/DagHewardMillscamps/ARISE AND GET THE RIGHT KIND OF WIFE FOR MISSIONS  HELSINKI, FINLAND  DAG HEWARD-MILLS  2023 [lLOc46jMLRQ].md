@@ -8,6 +8,8 @@ year: 2023
 duration_min: 148
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Missions"]
+tags: ["topic/marriage-and-family", "topic/missions"]
 ---
 
 Hallelujah, Father, thank you for a great blessing in the name of Jesus, amen. Number 9, rise up and the right kind of thought for the mission or the right kind of woman for the mission. Rise up and the right kind of woman for your mission. Genesis 28, let number arise, arise. Everyone says, rise up, go to the house of Bethuel, your mother's father, and take the wife from among the daughters of Laban, amen, amen, amen. Isaac, Jacob, the B, gave him this order: You shall not take a wife from among the daughters of Cana. Rise

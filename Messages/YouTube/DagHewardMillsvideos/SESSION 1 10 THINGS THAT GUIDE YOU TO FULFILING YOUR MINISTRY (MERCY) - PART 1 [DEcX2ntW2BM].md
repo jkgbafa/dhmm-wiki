@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=DEcX2ntW2BM"
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 invisible hey awaiting to guard you invisible Hey they will show you the way hey so have faith in the law because he's always beside you so pray and believe to help you receive for me busy forehead I take it again Oh invisible hey they are waiting to guard you invisible hey they will show you the way a so happy in the law cuz he's always beside you so pray and believe to help you receive from invisibo hey how many of us leading visible health yeah stay invisible they are waiting to guard you visible they will

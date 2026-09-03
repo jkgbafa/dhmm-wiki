@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2014
 source: "autocaption"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Tonight I'm preaching about the rich man and Lazarus. Jesus told us a very important story. He said there was a certain rich man who was clothed in purple and fine linen and fed sumptuously every day. the Pope. Hey, do you have rich men in Benin? What do rich men wear? The rich man in the Bible, he was wearing uh purple. The rich man in the Bible, every day he was wearing purple and fine linen and he was eating chicken EVERY AND THERE WAS A CERTAIN BEGGAR. And the beggar's name was Lazarus. And this Lazarus had

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=H8IQrH4dZFM"
 duration_min: 22
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Prayer"]
+tags: ["topic/faith", "topic/prayer"]
 ---
 
 this time we need to look chapter xviii Luke chapter 18 and we want to look at some of the parables on prayer amen and he speak apparel unto them to this end that men ought always to pray and not to faint there was in a city a judge which feared not God neither regarded man and there was a widow in that city and she came unto him saying avenge me of mine adversary' and he would not for a while but afterward he said within himself though I fear not God nor regard man yet because this

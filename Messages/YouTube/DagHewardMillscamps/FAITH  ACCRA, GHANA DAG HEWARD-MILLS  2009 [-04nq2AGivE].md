@@ -8,6 +8,8 @@ year: 2009
 duration_min: 170
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/faith", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 welcome to track number two of my first love we shall all be changed in a more in a twinkling of an night at the last Trum C of in his Hol caught up in his glory we shall not be the same we shall all be Chang in a moment in a twinkling of an night at the last trumpet when the trumpet shall sound and the day in Christ shall be Reign and the glory of the Lord shall be seen then we will sing that death where is thy Victory oh we shall sing Grace where is

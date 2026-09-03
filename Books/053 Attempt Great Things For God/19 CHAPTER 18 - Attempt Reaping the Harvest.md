@@ -4,6 +4,8 @@ book: "Attempt Great Things For God"
 book_number: "053"
 chapter_number: 19
 type: book
+topics: ["Missions", "Missions/The Nations", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/missions", "topic/missions/the-nations", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 ### CHAPTER 18 \

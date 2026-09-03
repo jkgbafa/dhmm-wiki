@@ -8,6 +8,8 @@ year: 2006
 duration_min: 27
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Welcome to track number six of spiritual battles. Now, let's go. Yet I have with me 7,000 in Israel. And all the knees which have not bowed and to bow. And every mouth which is not kissed.

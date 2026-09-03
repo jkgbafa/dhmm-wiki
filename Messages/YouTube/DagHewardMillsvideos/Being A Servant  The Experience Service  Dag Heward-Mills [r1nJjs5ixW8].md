@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=r1nJjs5ixW8"
 duration_min: 182
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 the Bible tells us that you shall receive power so much power after the holy spirit so when we sing that we wait on you Holy Spirit we truly wait on you Holy Spirit we Ste our service to wait on you Holy Spirit and you are a consuming fire you are a consuming fire that's why we stand here and lift our voices and say consuming fire our God is a consuming fire our God is a consuming fire Our God our God is fire be fire oh de father we worship Precious Jesus our Holy Spirit we wait

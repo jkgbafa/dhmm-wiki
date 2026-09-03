@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MCK9mbe6Tl4"
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I exhaust therefore that first of all supplications prayers intercessions and giving of thanks be made for all men best to wear soon as I come for kings that is King Mohammed we want to supplication preyas Mihama intercession intercession bishop i was listening to message resisted to intercede means to stand in between with the intention of making the condition better yeah kerubim interceding for rebel saving on Reverend Simmons behalf maybe a Revenue Code I am in between to make the condition better so we are interceding for King Mohammed and then giving attack we are talking what

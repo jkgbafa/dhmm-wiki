@@ -4,6 +4,8 @@ book: "Awake O Sleeper"
 book_number: "085"
 chapter_number: 2
 type: book
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 ### CHAPTER 1 \

@@ -8,6 +8,8 @@ year: 2002
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 talking about the road to the gift God has given us gifts now we want to know the road that we will walk upon till we receive the gift hallelujah hallelujah amen are you there now Jesus constantly promised his disciples and his followers a gift the gift of the Holy Spirit and uh we see a little of how they eventually entered that promise let's pray father help us to see and to grow in your holy word in the name of Jesus amen amen how many are going to get some tapes all right are there still some

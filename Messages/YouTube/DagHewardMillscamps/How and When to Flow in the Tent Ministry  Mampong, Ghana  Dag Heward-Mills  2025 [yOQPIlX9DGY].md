@@ -8,6 +8,8 @@ year: 2025
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now finally for this session, how and when to flow in the tent ministry. Amen. Number one, why must you become a lay pastor and flow in the tent ministry? It is when you go to certain places, there is no job there. Amen. You may have to be a tent minister or or there's there's the way the place is. You have to be full-time or a tent minister. Amen. Number two, the tent minister prevents you from becoming a burden on the church. Huh? Now, let me take two employees. You come. You and you go and stand

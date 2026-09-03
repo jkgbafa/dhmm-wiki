@@ -9,6 +9,8 @@ duration_min: 123
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/LOYALTY AND FAITHFULNESS GTWC BRAZZAVILLE DAG HEWARD-MILLS 2017 [3lrYAooIKGM]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 I have books written about loyalty that I will share with you. Loyalty and disloyalty. Those who are ignorant, who are dangerous sons, those who accuse you, those who pretend. Those who forget, those who leave you. There are still two that are not in this book game. Those who are proud, and one of you is a demon. [laughs] Why is loyalty a key to the fulfillment of your ministry? Number 1 1 Corinthians 42. Moreover, it is required of stewards that each one be found faithful. Amen. Loyalty is what is required in the ministry. All of this

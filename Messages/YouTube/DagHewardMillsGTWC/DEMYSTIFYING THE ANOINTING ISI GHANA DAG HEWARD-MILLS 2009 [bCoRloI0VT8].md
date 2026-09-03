@@ -8,6 +8,8 @@ year: 2009
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Church Growth", "Church Growth/Church Planting", "Wealth and Finances", "Wisdom"]
+tags: ["topic/anointing", "topic/church-growth", "topic/church-growth/church-planting", "topic/wealth-and-finances", "topic/wisdom"]
 ---
 
 When a clap offering to the Lord, let's welcome the party. Give us one soul. You may be seated. Very quickly. I baby for Laura to be up and laugh about Laura to be and do my regain.

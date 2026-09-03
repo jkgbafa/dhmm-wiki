@@ -8,6 +8,8 @@ year: 2015
 duration_min: 171
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Jesus I love you you're all the world to me so I pour out my heart to you and yes I pour out my heart to you for all of my days oh yeah yes I will for all of my days said I just can't get enough of you my lord said I just can get enough of you my lord and every day you're sweeter than the day day before so I pour out my heart to you and yes I pour out my heart to you for all of my days oh yes I will for all

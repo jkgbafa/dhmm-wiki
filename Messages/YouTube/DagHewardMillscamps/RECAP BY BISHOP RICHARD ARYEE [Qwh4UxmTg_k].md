@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Qwh4UxmTg_k"
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number 11. Where is the flock that was given thee? Okay, so um Jeremiah what 13. Have you read that verse this morning? You should read it every time.

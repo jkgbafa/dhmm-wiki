@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=laUH9-LjJaQ"
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Oh Oh ah yeah rock on Joe be careful party for me Buddha ba na horse all our Apple to me get off of me Mommy Amina Martha Dominic ongwen sir Nagasaki Buddha Libre canta Nami multi-ball oh no Tina Carrasco ha ha ha ha - na na na na na boo boo doo doo na tu de lengua nappy Papa Papageno hallelujah hey I don't need nobody nothin Gabbar Singh on me baa baa Gaga Gaga boo-boo beetle but novita done time da-da-da-da-da-da-da-da Oh Oh me are you ready for what God has for you tonight along with of

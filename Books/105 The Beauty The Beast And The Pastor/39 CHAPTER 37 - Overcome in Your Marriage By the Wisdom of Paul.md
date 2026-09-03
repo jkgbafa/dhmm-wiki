@@ -4,6 +4,8 @@ book: "The Beauty The Beast And The Pastor"
 book_number: "105"
 chapter_number: 39
 type: book
+topics: ["Marriage and Family", "Wisdom"]
+tags: ["topic/marriage-and-family", "topic/wisdom"]
 ---
 
 CHAPTER 37\

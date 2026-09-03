@@ -8,6 +8,8 @@ year: 2005
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number two of buffal liation all right now mega church 2 We are continuing do you have time are you awake all right now we are going to um look at many many things which we need in the mega church too constantly we'll be referring to mega church one and some of the painful things that we don't want to see again so that we will remember and um not allow them to return how many agree yeah and we are going to start by removing those who do not belong here where are they has

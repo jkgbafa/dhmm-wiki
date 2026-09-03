@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=bd70bb1gwck"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I remember you saying that you will never leave me and in time of trouble you beam a plane but sometimes doubted be the travesty on my face but our I will learn to you ah ha ha ha ah see I know you said that I'm the apple of your for me sometimes my heart just wants to play pull up in you and I won't Oh I remember you saying that you will never leave me and in time of trouble you will be my friend but sometimes down empty they try to steal my face ah you

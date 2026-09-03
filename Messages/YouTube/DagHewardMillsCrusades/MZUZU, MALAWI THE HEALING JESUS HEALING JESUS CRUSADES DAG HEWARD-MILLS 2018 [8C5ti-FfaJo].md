@@ -9,6 +9,8 @@ duration_min: 165
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MZUZU, MALAWI  THE HEALING JESUS  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2018 [8C5ti-FfaJo]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Let me teach you how to touch the song. Are you ready? You touch this head. Touch your head. You think, but you may not understand it.

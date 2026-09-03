@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ltPpTOKvSQw"
 duration_min: 154
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 It's my best, it's my best I've been through absents and downs I've been through penance, yes Then I heard the voice of God He has shown me the way I'm never sending back I don't be a promise, oh I'm a inemadimu Beninina ma misuro Frisanyami wakami ho I don't be a promise, oh I'm a inemadimu Beninina ma misuro Frisanyami wakami ho Onone me kaniya The Lord is my light, oh Onone me kaniya The Lord is my light, oh Enti me, hey Faimutunisou He has never filled me You will never fill me I couldn't imagine He is always there for me He has never filled me You will never fill me Siti tenami Inkevono, onone, hey Makume wunina inkevono, onone, hey Afanomega inkevono, onone, hey You died on the cross, oh You shed your blood For me Your love is pure With you I'm standing tall You died on the cross For me You shed your blood For me Your love is pure With you I'm standing tall I'm standing tall Thank you.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ProRQGUVEZY"
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 hallelujah hallelujah is hallu Jesus hallu hallelujah again oh hey GL J oh Jesus oh oh H oh no oh no J you hallelujah hallelujah hallelujah Jesus Hallelujah please please please hold on I've just received a message from the planning committee that the head of the counselors that if you received Jesus Christ during this campaign the first night the second night and if tonight you receive Christ after the testimony time the Evangelist will pray for people after the testimony time all the counselors will meet to my left here and all the new convert go there they

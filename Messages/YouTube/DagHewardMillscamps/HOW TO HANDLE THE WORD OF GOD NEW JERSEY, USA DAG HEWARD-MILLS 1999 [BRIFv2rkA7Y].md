@@ -8,6 +8,8 @@ year: 1999
 duration_min: 73
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Word and Books"]
+tags: ["topic/ministry-and-pastoring", "topic/the-word-and-books"]
 ---
 
 Welcome to track number seven of going deeper and doing more. Hallelujah. Journey that brings us closer. Alright. The journey that brings us closer.

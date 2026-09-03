@@ -4,6 +4,8 @@ book: "Seven Great Principles"
 book_number: "055"
 chapter_number: 7
 type: book
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 ### Chapter 6\

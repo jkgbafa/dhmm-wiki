@@ -8,6 +8,8 @@ year: 2025
 duration_min: 26
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Hallelujah. Hallelujah. How many want to catch the anointing? Wow. Wow.

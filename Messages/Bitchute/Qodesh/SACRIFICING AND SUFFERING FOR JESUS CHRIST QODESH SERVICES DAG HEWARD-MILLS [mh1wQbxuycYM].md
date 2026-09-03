@@ -8,6 +8,8 @@ duration_min: 54
 source: "whisper"
 match: "exact"
 duplicate_of: "[[Messages/Bitchute/Qodesh/LAZARUS & THE RICH MAN QODESH SERVICES DAG HEWARD-MILLS [HuSdLsDVVl8E]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 This morning I am sharing about take up your cross, sacrificing and suffering for Jesus Christ. Amen. Matthew chapter 16, verse 24. It says, then Jesus said unto his disciples, if any man will come after me, let him deny himself and take up his cross and follow me. Amen.

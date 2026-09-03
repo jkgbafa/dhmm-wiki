@@ -3,6 +3,8 @@ title: "POINTE-NOIRE, REPUBLIC OF THE CONGO  THE BLOOD OF JESUS  HJC  DAG HEWARD
 channel: "DagHewardMillsCrusades"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Maybe you do n't know the song you're saying today. The illness that came over you and in the hospital, I was paralyzed, but he had forgotten his own sins. He knew he was paralyzed, but he didn't think about his sins. Yes, so many of us are sick, but we have forgotten what we did 45 years ago. Who has already forgotten what he did 7 years ago? Today I have Deme who has forgotten what he did 7 years ago. Hold your hand, but Jesus sees everything in the realm of the spirit, and he says, "My child,

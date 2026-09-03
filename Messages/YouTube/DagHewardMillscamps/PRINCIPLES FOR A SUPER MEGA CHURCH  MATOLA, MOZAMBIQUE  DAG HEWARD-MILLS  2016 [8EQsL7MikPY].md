@@ -8,6 +8,8 @@ year: 2016
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Prayer", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 Hallelujah we are going to have a super mega church amen now wow father thank you than you for the guidance of your Mighty spirit in Jesus name amen amen you may be seated first point number one principles the super mega church number one the principle of the multiplied senior pastor amen amen the multiplied senior pastor we are going to have many senior pastors amen amen in Africa we usually have one big man and everybody is a small man God God is going to do something great and there's going to be many senior pastors what does

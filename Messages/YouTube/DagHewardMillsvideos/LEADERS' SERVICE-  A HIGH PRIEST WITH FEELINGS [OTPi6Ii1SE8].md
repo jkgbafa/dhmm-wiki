@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=OTPi6Ii1SE8"
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 today I think we're going to have a short Abbot what do you think it will suffer for we are looking at the priesthood by talking about leaders in the church is a leader service and we are looking at leaders in the church and the leaders in the church are free amen how many want to be a leader in the highest kind of organization huh I want to be a leader in the lowest kind of organization money organization you cannot serve God and Mammon you have to serve God or Naaman quick and so you can be

@@ -8,6 +8,8 @@ year: 2007
 duration_min: 102
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-holy-spirit"]
 ---
 
 I'm just too warm. Help me believe in all I could be and all that I have. Show me the spelling. I have to climb. Lord I say, teach me to say.

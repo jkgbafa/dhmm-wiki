@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=bwiPLd4BoXQ"
 duration_min: 101
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I'll be ready at 20 ready for the walk I'll be ready at 24 don't work of God there is nothing I can do for the Lord and there is no we're not too far no battle I can't fight ready up twenty let's give ourselves to the glorious mission unreservedly let us never sink got a high of friends our family our own let us get it a stand more to God and to his work let us give ourself holy that our forfeiting their IV already as plenty I'll be ready at twenty ready for a walk ready

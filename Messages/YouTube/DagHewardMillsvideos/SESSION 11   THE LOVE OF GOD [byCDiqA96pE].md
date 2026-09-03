@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=byCDiqA96pE"
 duration_min: 186
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 you may ask me why I is it job forever scare or to all those mighty sweet double or to hear the a/c is it just to tree down that bow head that never tell we were just having the Lord into my life I was living in the world of dr. boy in the world before tea you may ask me why I don't like sweet Oh yes we know just in the world of in the world I he our world Oh darkness you the one with Oh forever me yeah worldís argument the in the long do

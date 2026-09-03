@@ -8,6 +8,8 @@ year: 2017
 duration_min: 166
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 here we stand Standing for the Lord never going back again to the world and EV way here we stand we're fighting for the Lord we will fight a good fight to stay in the will of the Lord so be strong in the Lord in the power of His might to put on the whole Lor of God oh that you may be able to stand guard your LS with truth and take up the shield of Faith yeah and with the sword of the spirit w we will overcome yeah Here We Stand we're standing for the lordo

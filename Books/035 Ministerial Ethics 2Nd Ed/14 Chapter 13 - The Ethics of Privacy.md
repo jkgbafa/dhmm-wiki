@@ -4,6 +4,8 @@ book: "Ministerial Ethics 2Nd Ed"
 book_number: "035"
 chapter_number: 14
 type: book
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Ministerial Ethics"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/ministerial-ethics"]
 ---
 
 ### Chapter 13\

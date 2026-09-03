@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3loc/"
 duration_min: 51
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/faith", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Hallelujah. Father, thank you so much for another opportunity to be in church and to receive your word. Have mercy on us, Lord. We thank you for your Holy Spirit in Jesus' name. Amen.

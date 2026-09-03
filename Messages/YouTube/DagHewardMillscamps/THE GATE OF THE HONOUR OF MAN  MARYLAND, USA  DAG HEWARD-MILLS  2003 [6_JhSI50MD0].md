@@ -9,6 +9,8 @@ duration_min: 83
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE GATE OF THE HONOUR OF MAN MARYLAND, USA DAG HEWARD-MILLS 2003 [6_JhSI50MD0]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer"]
 ---
 
 welcome to track number seven of gates and roads for you are dead and your life is H with Christ in God for you are dead and your life is H with Christ in God for you are dead and your life is HD with Christ Christ in God for you are dead and your life is head with Christ in God for you are dead and your life your life your life your real blowing of time your real life living of Life can't you see that life is not as you thought it would be almost no none

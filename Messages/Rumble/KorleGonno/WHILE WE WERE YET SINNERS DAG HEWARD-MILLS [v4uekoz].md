@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uekoz/"
 duration_min: 57
 source: "whisper"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances"]
 ---
 
 Well, this morning, I believe is a great occasion, and uh we are blessed to be here. You know, as I was sitting there, I was reflecting. And I realized that I became born again in 1987. I was a teenager. It's 20 years now.

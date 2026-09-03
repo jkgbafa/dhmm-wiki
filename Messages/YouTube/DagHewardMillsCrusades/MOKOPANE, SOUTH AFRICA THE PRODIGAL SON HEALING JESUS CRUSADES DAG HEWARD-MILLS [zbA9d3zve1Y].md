@@ -8,6 +8,8 @@ duration_min: 167
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MOKOPANE, SOUTH AFRICA  THE PRODIGAL SON  HEALING JESUS CRUSADES  DAG HEWARD-MILLS [zbA9d3zve1Y]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Something great is about to get loose tonight. God's power is ready to be ministered to us. Please join me to welcome Bivaldi to bless us with a song. Give the Lord the best shout of praise. Oh, give the Lord a shout, a shout a shout.

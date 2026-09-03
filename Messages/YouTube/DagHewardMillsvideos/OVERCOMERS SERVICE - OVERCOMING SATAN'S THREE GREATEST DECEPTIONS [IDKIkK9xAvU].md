@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IDKIkK9xAvU"
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 I'll also walk with me run me Jesus rip likely my walking hopefully me let it be let it be just the clothes know what with me no harm me Jesus is what ah don't we found our true me Jesus tomorrow walk it off my baby let it be let it be I am weak ha ha what's wrong he's me Jesus all Maloney the B movie let it be yeah let it be I'm all vu so I am just oh my he'll be the me show me the path why my face he sees me to see

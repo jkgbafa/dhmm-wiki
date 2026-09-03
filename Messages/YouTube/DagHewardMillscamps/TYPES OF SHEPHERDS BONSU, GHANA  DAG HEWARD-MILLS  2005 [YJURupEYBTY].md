@@ -8,6 +8,8 @@ year: 2005
 duration_min: 70
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number eight of baliz now as part of the speckled and spotted things that we are going to do all right we are going to have sign boards in at the houses where you are having the barel so you see the branches you see all these branched branches they all have sign ball sign ball we are now coming out with our own sign ball so we are going to choose one either this scam can I have some people to hold we are going to vote which one this one we can add an arrow

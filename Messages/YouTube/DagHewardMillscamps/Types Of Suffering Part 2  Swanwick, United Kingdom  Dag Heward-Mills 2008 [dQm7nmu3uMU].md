@@ -8,6 +8,8 @@ year: 2008
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 we are Contin with the sufferings of Christ the sufferings of Christ amen now the next thing is in Matthew 26 verse 20 he said take eat this is my body when he had taken a cup he gave it to them saying drink from it all of you for this is my blood of the New Covenant which is poured out for many for the Forgiveness of sins but I say to you I will not drink of the fruit of this Vine from now until that day when I drink it new in my father's Kingdom and after

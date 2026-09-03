@@ -8,6 +8,8 @@ year: 2019
 duration_min: 202
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 second h I h we are still thanking him the Bible says upon Mount Zion there shall be Deliverance whatever God has delivered to you thank him for it whatever you have received in your spirit whatever you have received in your soul whatever you have received in your mind thank him for it let Thanksgiving well up inside you this morning be full of Thanksgiving be full of appreciation be full of Praise thank him for the little things as if you are thanking him for much thank him thank him thank him thank him thank him thank him

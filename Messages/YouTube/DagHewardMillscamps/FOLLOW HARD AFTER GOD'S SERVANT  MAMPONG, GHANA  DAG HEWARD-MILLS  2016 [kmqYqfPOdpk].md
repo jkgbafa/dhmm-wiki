@@ -8,6 +8,8 @@ year: 2016
 duration_min: 193
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 together and let us receive Bishop keep clapping everyone I don't know why you have stopped I don't know why you have stopped keep clapping clap your hands together and welcome Bishop Morgan oo Hallelujah I think we have all set for tonight's session you got a good rest what are we learning at the camp we are learning to be hard followers not so and uh one of the very important things to note is that whether you are following very hard or you are pursuing very hard that word hard is also very important that you yourself must

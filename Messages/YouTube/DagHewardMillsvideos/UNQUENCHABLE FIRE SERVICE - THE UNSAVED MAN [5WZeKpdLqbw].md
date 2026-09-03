@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=5WZeKpdLqbw"
 duration_min: 91
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 how can I say thank you for everything that you have done for me see so one dessert yet you gave to prove you're for me the voices endanger my ground to hold that I am and ever hope to be I give it all - gah - gah let it be pleasing Lord to thee yes I gay Oh anybody you can't which is the last Wow he had my god boy the victory he had me my god hallelujah father thank you for this blessing with your blood you have saved that wash that brought us we thank

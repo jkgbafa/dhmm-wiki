@@ -4,6 +4,8 @@ book: "Labour To Be Blessed Labour Not To Be Rich"
 book_number: "057"
 chapter_number: 7
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 ### CHAPTER 6 \

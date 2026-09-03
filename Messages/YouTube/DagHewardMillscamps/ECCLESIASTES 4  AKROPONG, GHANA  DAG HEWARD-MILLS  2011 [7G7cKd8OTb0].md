@@ -8,6 +8,8 @@ year: 2011
 duration_min: 169
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 the different ways God called people and we are just going to look at some one or two the first is the Divine call of God through quiet convictions it's like a burden nothing is you know and and and this you see this callings may come at different times because when we talk about Paul you and I know how he was called very dramatic almost like a Hollywood movie type of the Hollywood but in First Corinthians 9:16 only he saids for though I preach the gospel I have nothing to Glory of for necessity is laid on

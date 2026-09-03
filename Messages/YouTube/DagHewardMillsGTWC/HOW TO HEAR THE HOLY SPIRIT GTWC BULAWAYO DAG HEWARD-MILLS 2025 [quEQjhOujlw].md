@@ -8,6 +8,8 @@ year: 2025
 duration_min: 41
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 Now, are you listening? Now, the Holy Spirit, God has sent the Holy Spirit to our lives. Now, I gave you the master key for guidance. All right? And then now I want to give you the the principal person who will guide you.

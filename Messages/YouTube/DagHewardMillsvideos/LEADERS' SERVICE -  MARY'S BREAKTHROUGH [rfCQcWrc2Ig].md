@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=rfCQcWrc2Ig"
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 so there we are jumping into a kind of Christmas mood this Christmas is coming here this christmas is coming and we want to talk about marriage breakthrough hallelujah mary's breakthrough how many wanna breakthrough all right in the sixth month looked after 126 the angel Gabriel was sent from God may you be sent from God you see when the check sends you is different from when God sent you are you listening to me and when God sends you it's quite different sometimes I feel that some of our pastors you know behavior feel like you know I

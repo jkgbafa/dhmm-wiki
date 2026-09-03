@@ -8,6 +8,8 @@ year: 2013
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Pendant trois mois has had severe pain in this leg mal she could not walk well and ne pouvait pas bien marché how she used to walk before you marché comment That's how she used to walk before pain but tonight the power of God touched her puissance de Dieu est tombé sur elle She has been healed tonight guéri mot nous comment tu marches double double double Are you excited tonight Andrew Beni le Seigneur devenir si la Yavan When I came here, I had Jesus. Opening miracles in Abobo. God is going to do something fantastic.

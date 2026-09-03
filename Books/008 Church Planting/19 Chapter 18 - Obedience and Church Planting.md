@@ -4,6 +4,8 @@ book: "Church Planting"
 book_number: "008"
 chapter_number: 19
 type: book
+topics: ["Church Growth", "Church Growth/Church Planting", "Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Chapter 18\

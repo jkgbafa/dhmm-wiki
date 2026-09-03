@@ -9,6 +9,8 @@ duration_min: 96
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/BECOMING A SPECIALIST OF THE GOOD MESSAGE   GTWC PARIS  DAY 3 SESSION 1  2025  DAG HEWARD MILLS [GLIDpJt2DaQ]]]"
+topics: ["Salvation", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/salvation", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Father. Thank you for your blessing. On our lives. Merci pour ta bénédiction. In the name of Jesus.

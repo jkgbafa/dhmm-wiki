@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2024
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 Number five, Judas is someone who will turn he will turn into the opposite of what he used to be. So if you see Judas today, you see that he's somebody who's really flowing, but he has the ability to turn. Yes. And that's frightening. After you've experienced a Judas, you never be comfortable with even good people and loyal people around. You never be 100% comfortable because you always Yes. You always say this person did this. Exactly. person shoes. Recently I was in Singapore. I had a conference with a first love church pastors and some of them

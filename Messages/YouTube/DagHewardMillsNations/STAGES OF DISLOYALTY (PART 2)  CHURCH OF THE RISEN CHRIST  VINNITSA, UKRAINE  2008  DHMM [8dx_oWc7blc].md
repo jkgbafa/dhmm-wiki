@@ -8,6 +8,8 @@ year: 2008
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 hallelujah hallelujah father we thank you for this opportunity to share your word in Jesus thank you for your blessing for this great ministry in Jesus name amen amen please be seated I am sharing with you about loyalty and disloyalty and it's very important for you to understand that no one becomes disloyal overnight amen amen amen amen how many want to become Judas one day how many want to be Lucifer one day Lucifer Lucifer how many want to be Absalom all right so you do not become these bad things suddenly no there are stages that you

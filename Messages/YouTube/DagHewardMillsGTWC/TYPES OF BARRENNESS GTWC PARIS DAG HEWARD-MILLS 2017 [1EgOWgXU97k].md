@@ -8,6 +8,8 @@ year: 2017
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/salvation", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now I want to look at the different types of barrenness that exists. The type of barrenness that exists. Exists in for different reasons. Let's turn our Bibles to 2 Peter chapter 1. Second Peter chapter 1.

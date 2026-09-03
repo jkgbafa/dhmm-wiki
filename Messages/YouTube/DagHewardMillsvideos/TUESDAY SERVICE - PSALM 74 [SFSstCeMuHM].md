@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SFSstCeMuHM"
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 father we thank you for this evening we pray that your spirit will guide us let your will be done in Jesus name Amen please be seated great 10 to some 74 tonight I want to just sum share with you three things that God does that you do not do some 74 oh god why have you rejected us forever why does your anger smoke against the ship of your pasture amen how would you know when God is angry with you ah well in other ways I wish you know when God is angry with ease when setting

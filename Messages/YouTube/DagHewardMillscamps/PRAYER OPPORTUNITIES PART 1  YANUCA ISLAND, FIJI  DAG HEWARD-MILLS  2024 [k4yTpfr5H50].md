@@ -8,6 +8,8 @@ year: 2024
 duration_min: 67
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 we are having a prayer seminar amen and our topic is uh I said prayer foundations but I I I would rather call it prayer opportunities yes so prayer opportunities so prayer opportunities so number one is prayer is an opportunity to turn things around all right prayer is an opportunity to turn things around and Paul said I know know that this shall turn around to your salvation through your prayers amen number two prayer is fellowshipping is an opportunity for Fellowship prayer is an opportunity to fellowship with God amen now when you talk to somebody you are

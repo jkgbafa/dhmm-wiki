@@ -8,6 +8,8 @@ year: 2012
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Before I share something with you this morning, I want to share some books. I want to start with a book I wrote that talks about in Brazil. The book also deals with slander, those who spread slander against you and accuse you of disloyalty. They first need to raise a slander against you and accuse you of something. Traitors are skilled at accusing and creating slander. I have this other book called " Those Who Leave ". There will always be people who abandon the ministry and who leave what God is doing to destroy. I wrote a book

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u6f7r/"
 duration_min: 75
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 But Almighty Father lifted me up. What a meeting top of how he lost me so missing. Joy like a river, love for amazing, joy like a river not me soul. I am missing joy like a river, love so amazing. I'll give love me to the ball.

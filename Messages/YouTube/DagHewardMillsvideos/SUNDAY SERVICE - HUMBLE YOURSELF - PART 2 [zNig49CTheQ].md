@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zNig49CTheQ"
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we why me ah yeah we won we Oh ah we were shipping I want to hear you thank you Jesus come on in so nice oh come Jesus and take your place I know nobody wants to see a one Lazar and I'll be worse and we were what a beautiful Jesus what a mighty God we serve come on today's Thanksgiving Sunday does we be then that when Jesus took the cup the blood he gave thanks III remember Jesus taking the bread also he also gave that cause he does realize that he was just about to

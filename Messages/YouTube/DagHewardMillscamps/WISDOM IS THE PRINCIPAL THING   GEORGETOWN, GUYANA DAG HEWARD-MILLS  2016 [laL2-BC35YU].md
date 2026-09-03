@@ -8,6 +8,8 @@ year: 2016
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 welcome to track number one of expect great things Hallelujah wow are you excited to be here tonight are you excited to be here today hey amen amen you may me see that please may me see that may me see that all right wow hey it's happening live I tell you all right all right all right all right all right all right okay all right now now please try and settle pleasey tell okay you know the Bible talks about when Jesus when the time was appointed for Jesus to come into this world isn't it he did

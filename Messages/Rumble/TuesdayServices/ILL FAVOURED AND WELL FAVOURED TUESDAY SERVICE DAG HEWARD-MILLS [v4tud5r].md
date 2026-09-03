@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tud5r/"
 duration_min: 56
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wisdom"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wisdom"]
 ---
 
 Heavenly Father, thank you so much for this evening. Thank you for the opportunity we have in you to serve you, to worship you. Lord, we ask that you speak to our hearts. Let your will be done. We thank you, Holy Spirit, for a blessed encounter of salvation, healing, and blessing tonight.

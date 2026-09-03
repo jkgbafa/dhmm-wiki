@@ -8,6 +8,8 @@ year: 2024
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 and as you clap your hands we are welcoming to bless us with a song are you ready sing with me sing with me give Jesus a shout ready free my command oh how to me would you me now lift up your two come and say give Jesus a shout let oh come on come on come on come on me say do oh say w up give Jesus a shout aha yeah oh who say heus give Jesus a sh I'm Hallelujah Jesus say say yeah Jesus Jesus is Lord woman clap your hands let's appreciate vivity keep

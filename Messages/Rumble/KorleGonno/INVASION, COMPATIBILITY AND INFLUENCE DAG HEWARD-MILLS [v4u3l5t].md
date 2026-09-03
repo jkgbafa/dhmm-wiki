@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3l5t/"
 duration_min: 41
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Father, thank you for another chance to be in church to receive your holy word. We pray for openness, humility, especially, that our eyes will be open, Lord, in Jesus' name. Thank you, Father. Amen. You may be seated.

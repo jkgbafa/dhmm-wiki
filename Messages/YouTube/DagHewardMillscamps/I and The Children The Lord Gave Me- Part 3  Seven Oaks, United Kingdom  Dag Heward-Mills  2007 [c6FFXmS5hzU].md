@@ -8,6 +8,8 @@ year: 2007
 duration_min: 84
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah thank you Lord for loving us thank you for choosing us thank you for loving us Jesus forever we will throw ourselves before you and throw ourselves at your feet that your will be done in our lives we thank you oh God in Jesus name amen now I and the children whom God has given me what do you think is it a powerful thing a power it's not a matter of one Superman who is doing everything and everybody is watching but it is I and the children whom the Lord has given me it's not I

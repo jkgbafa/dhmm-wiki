@@ -8,6 +8,8 @@ year: 2012
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 to be more like I want to be more like want to be more like Jesus I want to be a vess walk want to be more like you so you for the last time I want to be like you be more like more I want to be more like I want to be more like you I want to be aess you true I want to be more like you father we thank you for today thank you for your blessing your great help that you've given to us as we stand here in your presence we welcome

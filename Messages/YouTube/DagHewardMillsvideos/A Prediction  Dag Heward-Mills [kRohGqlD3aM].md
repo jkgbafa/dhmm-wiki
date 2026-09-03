@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=kRohGqlD3aM"
 duration_min: 228
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 do you love god ask your neighbor do you love god my soul foreign yes oh i love you lord i love the way you'll never change today oh i love you sin and shame forever oh i love you lord love never fails oh we hallelujah up with wings like eagles how many of us want to mount up with wings like eagles hallelujah oh come on let's sing all my songs oh he was strengthened my son foreign with all my heart let's take it one more time strength oh patiently always is i i will trust in

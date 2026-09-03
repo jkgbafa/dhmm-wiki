@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=HC5V1MOv-aY"
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 upon learning in Palencia yes yes you see and if the and yes link yes yes yes the elements we have and physical and close tennis do not touch cent bausch the gamers in it m and already 13 in it in the law h m then no Seychelles this suite boast they give you an extra touch inning and three nights before a bouquet m and now why what yes the bytes 2 as nor and I am a saint and a knife and yes the nuggets well not their nation 6 yes 2 the Mets well I Wade

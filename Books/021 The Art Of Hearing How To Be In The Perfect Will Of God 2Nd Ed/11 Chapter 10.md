@@ -4,6 +4,8 @@ book: "The Art Of Hearing How To Be In The Perfect Will Of God 2Nd Ed"
 book_number: "021"
 chapter_number: 11
 type: book
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "The Holy Spirit"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/the-holy-spirit"]
 ---
 
 ## Chapter 10

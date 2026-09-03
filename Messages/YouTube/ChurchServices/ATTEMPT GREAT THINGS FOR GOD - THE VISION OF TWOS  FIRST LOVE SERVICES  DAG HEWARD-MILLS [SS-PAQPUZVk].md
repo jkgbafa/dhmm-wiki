@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SS-PAQPUZVk"
 duration_min: 250
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/The New Birth", "Spiritual Warfare", "Spiritual Warfare/Demonology", "The Holy Spirit", "Vision and Direction", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/the-new-birth", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-holy-spirit", "topic/vision-and-direction", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 You Are Holy you want to bless this ho name holy holy Lord there is none like you Lord there is none like you oh You Are Holy you are can the church sing Holy Holy Holy Hool glory to you alone glory to you can you lift up your hand and sing sing your Praises forever I sing your Praises forever deeper in love with you deeper in love with you are you glad that you are you in the courts of Jesus sing here in your courts here in your court where I'm close to your thr someone

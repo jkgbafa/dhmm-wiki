@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2018
 source: "autocaption"
+topics: ["Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 Everything depends on uh leadership because um especially as proved by as proved by the evidence that there is of what is missing. If you look at uh the conditions that we have in many African countries, you cannot come to the conclusion. You'll be immediately tempted to think that there is poverty somewhere. Or you may be tempted to think that there is something wrong somewhere especially the lack of money. But when you look after some time you cannot but come to the conclusion that is the absence of leadership that is causing the absence of development and

@@ -8,6 +8,8 @@ year: 2014
 duration_min: 125
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 H Give the Lord a shout of praise keep to me yeah yeah leave me to me do Glory good good job lift up your voice and say he be oh lift up your voice and sing to the Lord Give the Lord when lift up your voice and sing when I oh he when I when oh when are you ready Hallelujah w she lift up your voice and sing leave it lift up your hands Sing Sing come on sing oh oh more yeah more it like lift up your hands I sing Give the Lord a shout

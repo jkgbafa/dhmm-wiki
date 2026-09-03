@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u850c/"
 duration_min: 47
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Salvation/Backsliding"]
+tags: ["topic/salvation", "topic/salvation/backsliding"]
 ---
 
 Um are you glad to be in church? Wonderful. Thank God for an opportunity to be in church. You may easily not have been in church this morning. You could have been dead.

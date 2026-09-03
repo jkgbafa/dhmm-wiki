@@ -8,6 +8,8 @@ year: 2014
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 are you ready so are you ready today is the last day give the Lord the best shout offering for say Give the Lord a shout the put your hands together for Jesus one oh yeah to meory lift up your voice and say everybody lift up your voice and say oh somebody lift up your voice and say why don't you praise the Lord praise the Lord W put your hands together go lift up your voice and say why don't you lift up your voice and sing unto the Lord yes oh yes oh yeah why don't you

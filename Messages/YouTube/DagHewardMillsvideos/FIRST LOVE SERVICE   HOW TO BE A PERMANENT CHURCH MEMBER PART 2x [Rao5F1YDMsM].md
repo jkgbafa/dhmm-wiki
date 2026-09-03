@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Rao5F1YDMsM"
 duration_min: 172
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 president of the Holy Spirit is share I don'ts to close your eyes wherever you are and just worship Him is worthy of our praise come on lift up your hands wherever you I this auditorium what a thing about Jesus you are the sweetest name of all oh geez you always hear me when I call you all this kiss me when I call okay you lift me up it time I fall lift me up Pizza do that sweeter you're the sweet I'm a weed why don't you let your hands to think oh Jesus three kill them

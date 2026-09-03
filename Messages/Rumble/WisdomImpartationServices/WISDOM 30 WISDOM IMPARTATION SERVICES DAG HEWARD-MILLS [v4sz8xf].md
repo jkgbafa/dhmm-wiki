@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sz8xf/"
 duration_min: 203
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wisdom"]
 ---
 
 Good afternoon, everybody. I just have a couple things at the top, and then we'll get going. On May 7th, the president will travel to Capitol Hill to deliver the keynote address at the U.S. Holocaust Memorial Museum's annual Days of Remembrance ceremony. During the days of remembrance, we remember and mourn the six million Jews who were systematically murdered by the Nazis and their collaborators during World War II.

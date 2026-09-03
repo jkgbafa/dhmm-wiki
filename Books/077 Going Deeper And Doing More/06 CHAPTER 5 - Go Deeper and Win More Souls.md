@@ -4,6 +4,8 @@ book: "Going Deeper And Doing More"
 book_number: "077"
 chapter_number: 6
 type: book
+topics: ["Ministry and Pastoring", "Soul Winning and Evangelism"]
+tags: ["topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism"]
 ---
 
 ### CHAPTER 5\

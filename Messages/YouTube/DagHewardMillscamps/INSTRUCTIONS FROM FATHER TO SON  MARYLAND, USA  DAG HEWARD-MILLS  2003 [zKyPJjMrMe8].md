@@ -8,6 +8,8 @@ year: 2003
 duration_min: 34
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 welcome to track number 13 of gates and roads just like in in surgery or in uh what do you call it in medicine you have the fellowship of of the of the what American College of gastroenterologists or Physicians or D or whatever it's a fellowship that you are admitted to so when you are a pastor especially as you are growing up in the Pastoral there are benefits and blessings of being part of a fellowship of course if you are some far off person who doesn't know anybody you don't interact where people see you are quiet

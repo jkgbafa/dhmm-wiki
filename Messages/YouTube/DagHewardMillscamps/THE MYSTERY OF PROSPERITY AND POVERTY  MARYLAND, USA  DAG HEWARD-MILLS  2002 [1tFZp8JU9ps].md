@@ -8,6 +8,8 @@ year: 2002
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 e welcome to track number five of the mysteries of God now a casual Christian all right will um come to a wrong conclusion about either Prosperity or poverty a casual Christian you will by all means come to a wrong conclusion if you are casual in your approach to prosperity and if you like poverty the opposite of Pros where is Amma she all right she going into labor or something all right okay so the Casual Christian will come to a wrong conclusion you know why because uh it is easy to come to a conclusion that God

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2011
 source: "autocaption"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit"]
 ---
 
 Chapter two, association. You can be anointed by association. You become anointed. You become affected by the Holy Spirit by associating with great men of God. Amen. Hallelujah. Hallelujah. Amen. Wow. Second Kings chapter 2. Second Kings chapter 2 verse 1. It came to pass the Lord will take up Elijah into heaven by a whirlwind that Elijah went with Elijah from Gilgal. Elijah Elijah said to Elijah, "Stay here. The Lord has sent me to Bethl." Elijah said unto him, "As the Lord liveth, and as thy soul liveth, I will not leave thee." Now, anybody who is going

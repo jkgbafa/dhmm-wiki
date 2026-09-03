@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=KVOEKlp45J4"
 duration_min: 240
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Curses", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah. Church, you know, it is always very important to say thank you to God. The Bible says that because they will not regard my works, because they will not regard my works, I will send a curse upon their blessings. This should tell you that God is always looking forward to seeing people come to Him and just say Lord, thank you. But you will not find Christians.

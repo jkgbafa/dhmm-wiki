@@ -3,6 +3,8 @@ title: "Going Deeper And Doing More  Dag Heward-Mills_fgX3XwElkNo"
 channel: "DagHewardMillsvideos"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 amen this morning this afternoon you want to bless the name of the lord hallelujah he's worthy to be praised thank you jesus the lord he is worthy to be praised oh blessed be the name of the lord blessed be the name of the lord the name of the lord day oh hallelujah hallelujah amen how many of you love jesus how many of you want to go to the ends of the earth for him how many of you love him how many of you want to tell everyone about him thank you jesus you take me in

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2017
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Second Peter chapter 1 and verse 19, it says, "We have a more sure word of prophecy. Amen. Why? Why do you do well that you take heed? Because you do well that you take heed in the sense that it is like a light shining in the darkness. Now what is the darkness of your ministry? The darkness. You see, darkness represents difficulty. Difficulty. Yeah. Difficulty. And there are a lot of difficulties in ministry. And one of the strong difficulties that I have noticed for for good people. Not to say that there are bad people, but I

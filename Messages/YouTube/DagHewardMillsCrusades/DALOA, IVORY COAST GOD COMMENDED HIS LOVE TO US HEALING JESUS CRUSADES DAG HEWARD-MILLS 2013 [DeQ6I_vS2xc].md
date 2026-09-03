@@ -8,6 +8,8 @@ year: 2013
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Please be seated. S'il vous plaît, asseyez-vous. Ashes, we are waiting for you now. Le service d'autres nous attendons maintenant. Alléluia.

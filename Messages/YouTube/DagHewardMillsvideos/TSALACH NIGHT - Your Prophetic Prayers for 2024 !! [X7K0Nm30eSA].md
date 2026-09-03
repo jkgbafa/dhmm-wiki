@@ -8,6 +8,8 @@ year: 2024
 duration_min: 18
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/prayer", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 stand to your feet everybody we are getting to we are getting into 2024 2024 2024 is just 2 minutes away are you here lift your hand I surrender to Jesus lift your hand as you surrender to the Lord and speak to God as we cross into a new year 2024 what does 2024 hold for you for me and for all of us it's a year of work it's a year of good steps into good things into fruitfulness into the Harvest into the work of Jesus the work of the Lord the work of the Lord the

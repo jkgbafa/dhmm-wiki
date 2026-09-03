@@ -9,6 +9,8 @@ duration_min: 33
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Recap What Are Y Elements  Belmopan, Belize  Dag Heward-Mills  2024 [nL-hemp02HI]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Flow church life is joining us All right. So we are talking about the Y elements And we just talk about Weeping for Tamus How deep was your love for Tamus That you are crying for Tamus Mercy Sit down I was a Christian and attending church and I believed I truly love the Lord But there was a day I went to church and the preacher so to me He said Jesus says if you love me keep my words my commands listen to my voice Jesus really needs to know how deep is your love is your love

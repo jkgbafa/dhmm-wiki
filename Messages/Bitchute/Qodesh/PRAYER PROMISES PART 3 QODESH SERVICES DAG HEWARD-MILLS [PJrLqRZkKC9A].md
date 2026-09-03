@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/PJrLqRZkKC9A/"
 duration_min: 97
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 John chapter 5 and verse 1. Lord, we pray. This morning, I want to welcome you to in the presence of the Lord. I want to welcome you into the power of God. Today is Sunday, and today is the second Sunday of the month.

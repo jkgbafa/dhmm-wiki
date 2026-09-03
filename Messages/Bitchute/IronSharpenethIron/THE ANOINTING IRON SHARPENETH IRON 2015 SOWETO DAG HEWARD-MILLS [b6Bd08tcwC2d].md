@@ -8,6 +8,8 @@ year: 2015
 duration_min: 250
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Come closer to me closer to me. I wanna heal you, and I wanna touch you all those doubts and all those peace that you've had on through the years. I wanna heal you, says the Lord, come closer to me closer to me. I wanna heal you, and I wanna touch you all those doubts and all those fears that you've had on through the years. I wanna heal you, says the Lord.

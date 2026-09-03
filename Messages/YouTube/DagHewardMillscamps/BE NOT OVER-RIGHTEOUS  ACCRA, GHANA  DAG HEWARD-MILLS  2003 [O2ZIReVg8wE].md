@@ -8,6 +8,8 @@ year: 2003
 duration_min: 15
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 welcome to track number 14 of agree on the way don't rebuke a grownup don't have to tell him it's not the right no no no no I mean when I say a grown up I don't mean an older person but a senior person in the ministry you don't I mean don't even correct him he so it's not it's not nice so he thought I did it so about 2 years so when I told him he was surprised and then I told him I have to go somewhere so I see so I ran away went to

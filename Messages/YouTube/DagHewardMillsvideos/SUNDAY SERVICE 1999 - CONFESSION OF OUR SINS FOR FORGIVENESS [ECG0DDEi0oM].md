@@ -8,6 +8,8 @@ year: 1999
 duration_min: 84
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 say Amen I said say Amen move to about seven people and welcome them into the presence of a God move around SEC somebody Alleluia shall I though shall I here we are God together the fire Tina here we are dia got that together together as a family lifting up our voices to the king and we cry ah join your hands with somebody sad is there we are gathered together sing it with a smile to your neighbor with the smile to your neighbor who bound us why why why don't you leave those two hands together today

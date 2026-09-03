@@ -8,6 +8,8 @@ year: 2007
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 I stand before you guilty and unworthy. How can I be forgiven and made whole holy? Though I know I break your heart, but your promise I could start all over, and all the things I've done. You place them each and every one into the sea of forgetfulness. You place the love of my sins.

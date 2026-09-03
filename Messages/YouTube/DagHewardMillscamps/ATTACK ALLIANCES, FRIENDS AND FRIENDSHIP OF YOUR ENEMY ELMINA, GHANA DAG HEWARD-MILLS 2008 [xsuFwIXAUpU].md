@@ -8,6 +8,8 @@ year: 2008
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Welcome to track number two of both a keys. Key number two. Attack the alliances. Friends. And friendships.

@@ -8,6 +8,8 @@ year: 2002
 duration_min: 53
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Well, since it's fact number fourteen, of Zocria. You may be seated. Now I want to um continue. We are going to look at the laws of the soldier. There are many laws.

@@ -8,6 +8,8 @@ year: 2024
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/church-growth", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 I expect the miracle of church growth now turn with me to Romans chapter 8 verse 28 what does it say we know that all things work together for good to them that love God and to them who are the called according to his purpose amen amen all things do what work together for good to them that love God and to them who are the called according to his purpose amen amen now I want you to look at 1 Corinthians chapter 16 and verse 9 a great door and effectual is opened unto me and there are

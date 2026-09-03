@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=y_quHo8F5f4"
 duration_min: 148
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Ria bo Jésus Ploufort Plufort Ploufort Pluf Alléluia à vos cas Jésus merveilleux Jésus Glorie Jésus Jésus qui guéris Il n'y a personne qui est semblable à toi Sa puissance est plus grand que tu avais Jésus merveilleux Jésus Glorie Jésus Jésus qui guérit Il n'y a personne qui est semblable à toi Sa puissance plus grand que tout Au nom de Jésus Satan sans fuit Au nom de Jésus Tu genou fléchira Au nom de Jésus Tu es béni Jésus Ta puissance plus grande Tu l'a enchanté Jésus Jésus Jésus Ta puissance plus grand que tout au nom de

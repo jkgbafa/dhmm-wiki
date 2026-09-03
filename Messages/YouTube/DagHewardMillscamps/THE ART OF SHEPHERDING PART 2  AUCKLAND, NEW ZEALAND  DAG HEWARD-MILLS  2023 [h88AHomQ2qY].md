@@ -8,6 +8,8 @@ year: 2023
 duration_min: 125
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 how many hearts of shepherding do you have number five take sheep Through The Valleys take sheep through valleys now God does not only lead us through the mountains but also Through The Valleys amen amen he does not only lead us through the valleys amen amen but through it does not only lead us through the mountains but through the valleys now when I see a young person my problem and that is the problem with everyone is that the young person doesn't have experience with bad things this see a young person doesn't have experience with bad things

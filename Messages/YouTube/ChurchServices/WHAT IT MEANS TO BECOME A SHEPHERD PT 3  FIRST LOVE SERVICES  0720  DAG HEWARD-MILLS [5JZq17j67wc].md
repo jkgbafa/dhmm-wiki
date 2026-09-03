@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=5JZq17j67wc"
 duration_min: 202
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 can we all be up standing and enter into a moment of Thanksgiving praising God and worshiping him for another opportunity to be blessed by him it's working thank you Lord Jesus father we bless you and we give you praise and we thank you in Jesus mighty name and everyone said amen God bless you all for joining and um um we believe that you're are going to have a supernatural moment to the Lord the Bible says in Psalm 84:7 that it go from strength to strength every single one of them that appears before God in Zion

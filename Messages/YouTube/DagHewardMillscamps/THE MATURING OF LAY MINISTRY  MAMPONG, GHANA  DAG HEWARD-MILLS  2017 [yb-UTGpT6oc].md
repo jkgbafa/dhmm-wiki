@@ -8,6 +8,8 @@ year: 2017
 duration_min: 162
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Call of God", "The Call of God/Responding to the Call", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 and let's let's pull our notes and go through what we've learned so far it's been a great blessing can you feel you are maturing you are growing some some wisdom years are being added to our years amen and um I think we can start with the opening script in First Corinthians 10 13 10 but when that which is perfect is come then that which is in part shall be taken shall be done away amen and I'm sure there are some things which are dropping off our minds and our heads are there some ideas which are

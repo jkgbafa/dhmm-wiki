@@ -9,6 +9,8 @@ duration_min: 31
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Y Element Keen to Travel  Belmopan, Belize  Dag Heward-Mills  2024 [Pf9c6-FNwwA]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Number twenty-seven keen to travel keen to travel yes keen to travel now keen to travel when the young elements are there, people are keen to travel travel to come for homecoming to go on a mission, older people don't want to travel so much, the older you become, the more you want to stay at home when saw some people going on a honeymoon, they said they are going here, here, here. I said, Hey, I even feel tired when I hear the places they are going, but they they have the energy to go here, to go there, to go here, to go there.

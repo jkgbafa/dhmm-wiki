@@ -9,6 +9,8 @@ duration_min: 34
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EMPTY YOURSELF OF YOUR OWN VISION  SEVENOAKS, UNITED KINGDOM  DAG HEWARD-MILLS  2002 [y1eSB8Brv1I]]]"
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 Welcome to track number five of all out now. Look, notice First Corinthians chapter 2. But as it is written, verse 9, I have not seen, nor ear heard, neither have entered into the heart of man the things which God has prepared for them that love him. But God has revealed it unto them by his spirit. Amen.

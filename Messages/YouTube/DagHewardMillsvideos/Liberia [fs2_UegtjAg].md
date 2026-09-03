@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=fs2_UegtjAg"
 duration_min: 27
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit"]
 ---
 
 me go me go me go hey hey son of welcome to Liberia a small country on the west coast of Africa with a very big history did you know that Liberia was founded upon the return of freed American slaves to the motherland your the freed slaves when they returned promptly Enslaved the indigenous Africans they met in Liberia inflicting on them the same evils they experienced whilst working on the Cotton plantations in America did you know for example that the constitution of Liberia was drafted in Washington and later signed in a little church in Monrovia how

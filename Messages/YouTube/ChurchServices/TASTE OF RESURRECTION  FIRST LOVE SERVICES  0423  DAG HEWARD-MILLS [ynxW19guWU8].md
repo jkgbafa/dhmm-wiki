@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ynxW19guWU8"
 duration_min: 138
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I heard a story of Jesus it sounded like music in my ears the Beautiful full story of Jesus dispels my doubts and all my fears how marvelous is his love brought to me from above but oh oh it's not just a story but reality the beautiful story of Jesus this world is longing to know the wonderful story of Jesus I'll take it wherever I go and tell of his love for this world to save every man woman boy and girl cuz oh it's not just a story oh it's not just a story wo that PL

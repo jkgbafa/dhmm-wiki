@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=PruPTAnHmXE"
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 hallelujah let us pray father we thank you so much for this evening thank you for this great opportunity that we have in you Lord we ask you for your blessing tonight as we come before your word we ask you to lead us lead the way show us the way into your perfect plan thank you for the great privilege that we have to serve you to come before you to come into your presence Holy Spirit please don't leave us please be with us we thank you Lord in Jesus name Amen all right you may be seated

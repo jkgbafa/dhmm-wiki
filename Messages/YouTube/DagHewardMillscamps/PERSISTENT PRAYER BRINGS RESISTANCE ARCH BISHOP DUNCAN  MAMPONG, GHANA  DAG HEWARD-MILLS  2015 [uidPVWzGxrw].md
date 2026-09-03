@@ -8,6 +8,8 @@ year: 2015
 duration_min: 157
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 go into all the world and preach the gospel until your life is done see if if you love me obey the Great Commission build churches everywhere in every town every Province every city yeah Africa shall be saved but tell me how long is it going to take for you to obey me I have a feeling that I'm waiting andai for you to do my will oh oh oh I have a feeling that I'm Waiting in Vain for you to do my will that's why I'm asking am I am I going to wait in vain for

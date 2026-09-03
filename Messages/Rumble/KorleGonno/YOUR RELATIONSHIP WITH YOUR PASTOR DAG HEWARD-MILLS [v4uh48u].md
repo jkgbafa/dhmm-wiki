@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uh48u/"
 duration_min: 62
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 There's a wind are blowing. Oh it's a fragrant breeze. Oh it is blowing once again. Once again, once again. I don't know where it comes from.

@@ -8,6 +8,8 @@ year: 2003
 duration_min: 38
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 welcome to track number one of the presence father we thank you so much for your wonderful presence Lord we love you we welcome you in jesus' name amen amen all right you may be seated all right it's good to see you all again are you ready to go through the Red Sea today we are going to the Red Sea do you want to go through the Red Sea do you know what that means are you glad to be at another Camp all right the theme for our camp is the presence the presence amen and the

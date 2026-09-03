@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=gpYH6zX6b3g"
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 so if you want the realm of the spirit to respond to you you have to start entering into serious praying praying demons always respond to us that's why they said Paul I know Paul and I know Jesus but you I don't know you at all that's why the Bible said the prayer of a righteous man available man that's why they say if anyone is in let him call for the elders let the others pray not he himself you should pray that's why you have to reach a place in your spiritual work where demons recognize you

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=h_4ryIfUJn8"
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 wo is my I sh no he makes me down in Soul of rightous for his name in the body of the Shadow I will Fe down with me think down see of the My Soul the of for his name he fny sh of I will feel for he is with me H I'll oh I'm in I'm in in love my I my sh I feel God oh we oh love only Jes oh oh love Mery follow me every day of my life in the house of the Lord forever Mery follow me of the Lord for

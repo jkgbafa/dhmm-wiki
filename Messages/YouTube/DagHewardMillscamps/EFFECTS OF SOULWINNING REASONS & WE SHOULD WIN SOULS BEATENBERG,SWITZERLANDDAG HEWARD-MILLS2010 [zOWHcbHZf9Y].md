@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zOWHcbHZf9Y"
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 Welcome to track number three of advancing in Pegamos. Make it possible. All the churches that we have, it costs a certain amount to keep them. Some of you must be touched. Nobody has to ask you.

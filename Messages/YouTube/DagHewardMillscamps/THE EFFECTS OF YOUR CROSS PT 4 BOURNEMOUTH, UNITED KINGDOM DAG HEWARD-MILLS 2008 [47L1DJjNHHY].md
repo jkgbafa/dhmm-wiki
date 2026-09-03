@@ -9,6 +9,8 @@ duration_min: 150
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE EFFECTS OF YOUR CROSS   PT 4  BOURNEMOUTH, UNITED KINGDOM  DAG HEWARD-MILLS  2008 [47L1DJjNHHY]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 47. Okay, okay. The power of the cross is the power to bring about resurrection. Romans chapter 6, verse 5. For if we have become united with him in the likeness of his death, we have been united in the likeness of his death.

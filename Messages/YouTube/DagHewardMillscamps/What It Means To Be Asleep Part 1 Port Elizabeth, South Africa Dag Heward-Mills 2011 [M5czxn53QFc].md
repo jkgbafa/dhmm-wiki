@@ -8,6 +8,8 @@ year: 2011
 duration_min: 161
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 can we kindly try and have very little moments please so set up now and let's get to business oh yes how many have come with a desire or with an expectation to hear God speak to you hallelujah amen and how many are determined to obey whatever the Lord says my humble cry to the Lord is that may this Camp not be one of the many camps that you have attended but may it be a camp that marks the beginning of a new phase a new stage of your walk with God Amen and I pray that

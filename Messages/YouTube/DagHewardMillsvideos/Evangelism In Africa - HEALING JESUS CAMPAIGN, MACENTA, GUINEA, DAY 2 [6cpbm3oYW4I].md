@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6cpbm3oYW4I"
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah long live Italy Oh he-man all don't ball both laugh Oh gonzo wha Thank You Santa yeah not bad all good gah loser rules Lisa dude a long bath day like a loser new members all right - member to a marble wha Susan new flesh yeah - que la bonne fête de aquella us under - member alright oh yeah la la vida loca never take it to your dad or jabber to do it nah nah beggar do your fair oh yeah la la never do whoa whoa whoa whoa hallelujah we are tonight we have the

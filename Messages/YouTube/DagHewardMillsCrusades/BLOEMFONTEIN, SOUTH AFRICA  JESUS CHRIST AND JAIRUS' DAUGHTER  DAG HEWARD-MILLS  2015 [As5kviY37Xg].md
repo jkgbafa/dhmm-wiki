@@ -8,6 +8,8 @@ year: 2015
 duration_min: 153
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 why don't you give Jesus the best shout of Praise come on give the Lord a shout lift up your voice and say it for everybody lift up your right hand and say come on la la amen leave it on like before delay amen lift up your right hand w oh to me me come on take it again everybody say come on say why don't you give Jesus a shout come I cannot hear you give Jesus the best shout of Praise taking Jesus a shout one to more and for this did you hear that did you

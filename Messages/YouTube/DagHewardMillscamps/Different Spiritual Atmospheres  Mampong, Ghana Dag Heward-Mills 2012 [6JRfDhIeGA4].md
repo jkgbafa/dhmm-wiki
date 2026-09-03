@@ -8,6 +8,8 @@ year: 2012
 duration_min: 138
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 hallelujah amen father thanks for the great blessing and opportunity that we have today in Jesus name amen amen you may be seated now um what is an atmosphere it's a what surroundings yeah so the two main components of an atmosphere is natural and spiritual isn't it yeah and both of them have a strong influence on what happens to you spiritually and in every way very very important okay right so what else is an atmosphere mood it's a what pervading mood a pervading mood H like the mood if if somebody is dead if somebody's dead I

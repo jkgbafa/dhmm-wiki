@@ -8,6 +8,8 @@ year: 2006
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 Be a leader with emotion. Show emotion. Alright. Now, people who have emotion are attractive. What do I mean by emotion?

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=DhWfytsOcXs"
 duration_min: 140
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 you may be seated the preparation of the gospel Howell Ouya now now that we are you see what we looked at yesterday you could call the preparation of David and how he became anointed and he had to learn and he was preparing himself by being responsible etc etc amen so we thank the Lord is done also all right now yesterday we look at all the different things that he needs to prepare and I was giving you six or seven things you need to have as prepared things things that are prepared or foundations that you laid

@@ -8,6 +8,8 @@ year: 2020
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 It's amazing that the day is almost getting to a close. But what we are receiving we have received already is so so so loaded. And we thank the Lord for the graceful, powerful truth have been brought to us. And everywhere in the world, I hope we are all seated and ready for this last section. We already had two powerful sessions with the prophets.

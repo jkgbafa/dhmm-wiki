@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=nhARkKYpHBg"
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 today we are appointing pastors all over the world in all in different places this morning is a today is we' decided to appoint pastors today so so many people are being appointed all over I've already appointed about I don't know how many they were about 40 of them already are they playing some soccer today is there any soccer today okay so today I'm very happy to introduce a whole lot of uh people as pastors some of them some of them are not in Ghana some of them are not in Ghana because they are missionaries now

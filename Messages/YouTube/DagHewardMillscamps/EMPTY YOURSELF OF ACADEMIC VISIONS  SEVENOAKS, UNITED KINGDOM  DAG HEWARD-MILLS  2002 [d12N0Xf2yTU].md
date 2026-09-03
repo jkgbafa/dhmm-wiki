@@ -8,6 +8,8 @@ year: 2002
 duration_min: 21
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Vision and Direction"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/vision-and-direction"]
 ---
 
 welcome to track number seven of all out must empty yourself of academic visions that doesn't mean you shouldn't go to school school is important but I'm not here to explain that I have thought about the importance of school before no I am here to teach you to go all out and I'm telling you that academic Visions can remove God from your life and put you where you may not are not supposed to be pastor Joe is a good example Dr Joe he has a academic Vision to become what you imess now okay but you used

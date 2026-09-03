@@ -8,6 +8,8 @@ year: 2025
 duration_min: 17
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 The last meeting you guys had requested uh information on village debt, and I gave you a a I thought I gave you a summary of of the uh summary of the payments. Yes, but there was a person who had a question about totally so um what I did was I I put the uh we've got 12 pieces of debt, uh 12 loans, and I I made a summary of those. Um at the beginning of 2025, we had $8,325,000 worth of debt during the year. We made principal payments of $464,000 and interest payments of two 19, so that at the end of this year our debt's gonna be 7,861.

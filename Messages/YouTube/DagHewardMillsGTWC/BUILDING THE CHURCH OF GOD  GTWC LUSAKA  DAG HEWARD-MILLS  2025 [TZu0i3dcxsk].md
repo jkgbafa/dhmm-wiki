@@ -8,6 +8,8 @@ year: 2025
 duration_min: 91
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 But Jesus did not say that. If we want to be honest, you get it. Yes. So a lot of pastors are backsliding. You know, one of the top people for backsliding is pastors. Yes. That's my experience. And sometimes you see them big big big pastors, they all backsliding. from the priority you know from the main thing from the thing that Jesus said to do that is the one thing you see us shifting from it and then trying to turn the church into an NGO and trying to turn the church into preaching into motivational speaking and

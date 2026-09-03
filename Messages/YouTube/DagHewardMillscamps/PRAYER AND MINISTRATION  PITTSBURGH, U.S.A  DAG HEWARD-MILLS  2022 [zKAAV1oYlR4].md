@@ -8,6 +8,8 @@ year: 2022
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 sh no no no just form when I wait please you have to wait and I don't know how how to lay hands on you now just one row just one row here so I can just can somebody clear help me to clear the monitor let move the monitor a bit to the side yeah just move the monitor on top of the speaker so that I don't fall on it yeah beautiful just one line just one line so that as soon as no no no no look at what I did here put it on top of

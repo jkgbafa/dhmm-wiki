@@ -8,6 +8,8 @@ year: 2015
 duration_min: 135
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 your know touou know sh sh uh ah ah ah come my body keep keep have ah ah ah ah hey hey Hallelujah Clap Your Hands for Jesus isn't it wonderful here are you blessed already at this juncture we want to welcome Bishop Lea to bring us the closing remarks please take your seats it in the name of Jesus Shake hand with the person sitting next to you and tell them God is so good let's CL Hallelujah the Lord Jesus and the Holy Spirit tonight we would like to thank you very heighty ladies and gentlemen for

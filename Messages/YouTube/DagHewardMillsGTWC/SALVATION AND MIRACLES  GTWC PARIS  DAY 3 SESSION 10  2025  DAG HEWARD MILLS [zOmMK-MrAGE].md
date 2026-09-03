@@ -9,6 +9,8 @@ duration_min: 66
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/SALVATION AND MIRACLES GTWC PARIS DAY 3 SESSION 10 2025 DAG HEWARD MILLS [zOmMK-MrAGE]]]"
+topics: ["Ministry and Pastoring", "Prayer", "Salvation", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer", "topic/salvation", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Section 9: Salvation and the Kingdom of God. Next, section 10: Salvation and Miracles. Salvation and the Old Testament are behind it. Amen. Salvation and miracles. Now, what do miracles have to do with salvation? Amen. Jesus can. If Jesus can heal, it means he can do something fantastic. Something fantastic, like saving someone like you. Amen. Amen. And when you talk about the miracles of Jesus, it creates a fantastic atmosphere of the power of God. Pastors, I am giving you duties. Go and practice how to preach about the woman with bleeding for an hour. The man paralyzed

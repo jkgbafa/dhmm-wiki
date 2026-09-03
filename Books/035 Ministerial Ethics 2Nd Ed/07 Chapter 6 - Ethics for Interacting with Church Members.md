@@ -4,6 +4,8 @@ book: "Ministerial Ethics 2Nd Ed"
 book_number: "035"
 chapter_number: 7
 type: book
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 ### Chapter 6\

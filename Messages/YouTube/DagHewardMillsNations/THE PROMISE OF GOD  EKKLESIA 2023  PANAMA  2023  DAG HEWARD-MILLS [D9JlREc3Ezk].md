@@ -8,6 +8,8 @@ year: 2023
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit"]
 ---
 
 Alleluia. Amen. Very good. Let us pray. Heavenly Father, thank you for today, for this day. Thank you for your great power that continues to operate in our lives. Thank you to Pastor Alvarez and this great ministry that is moving forward, working, and also bearing fruit. We are grateful. We ask that your power be manifest in every life. We give thanks to you in the name of Jesus. And everyone says, "Amen." God bless you. They can be seated. Thank you. I'm excited to be here. I want to reiterate my gratitude to Pastor Alvarez. Thank you for

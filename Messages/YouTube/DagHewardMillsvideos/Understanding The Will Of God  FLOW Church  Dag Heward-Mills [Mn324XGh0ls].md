@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Mn324XGh0ls"
 duration_min: 155
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Vision and Direction", "Vision and Direction/The Will of God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah let's begin to pray and thank God this morning he is a good God and he has been good to you and to me today is the 1st of October the 10th month you want to pray and say father thank you thank you for a brand new month thank you for a brand new day thank you for the beginning of a new week in the name of Jesus let's thank God bless him in the name of Jesus father we thank you we bless you we give you praise we extol your name we extol you Lord

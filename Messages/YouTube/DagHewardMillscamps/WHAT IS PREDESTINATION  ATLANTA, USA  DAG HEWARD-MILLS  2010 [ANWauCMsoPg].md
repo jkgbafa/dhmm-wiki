@@ -8,6 +8,8 @@ year: 2010
 duration_min: 137
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 what is predestination number one it is the previous determination of events the previous determination of events which means that events have already been determined amen are you there are you there number two it means being determined in advance all right being determined in advance especially the doctrine usually associated with Calvin how many have heard of a man Calvin and he was the one who um really taught this predestination caus a lot of confusion with that that God has for ordained every event throughout eternity but as in everything that has that happens throughout eternity including the

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Now very quickly he says, "I gave myself to know wisdom and to know madness." Disease number two, bipolar. We are finished with schizophrenia. I want us to move to number two. The second disease, bipolar. Bipolar. Bipolar disorder. I see a lot of people going out. I think I'm going to give a break. I think you need to use the bathroom. Yes. Anonia. Anedonia. Eloia. Catonia. Now I think I should give a break for wei. Isn't it? How many? Okay, don't mind the people in the front. How many would like to wee wee? Raise your hand.

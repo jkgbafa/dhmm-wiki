@@ -8,6 +8,8 @@ year: 2011
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 as each day passes by I Feel My Love run dry I get so weary Warn and toss around in the stor still have left to work these need and I'm tired of planting seeds I seem to have a wh of so many thoughts about myself I want to I need to be more like Jesus I want to and I need to be more like him our fathers will was done by giving us his son he paid the highest cast to point us to the cross and when I think of him taking up the whole world

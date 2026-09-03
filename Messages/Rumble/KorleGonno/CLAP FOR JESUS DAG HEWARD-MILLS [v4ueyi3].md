@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ueyi3/"
 duration_min: 67
 source: "whisper"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Hallelujah. Father, thank you so much for beautiful music in your house. Yes. We bless your name. And we thank you that we can glorify you in all that we do and say.

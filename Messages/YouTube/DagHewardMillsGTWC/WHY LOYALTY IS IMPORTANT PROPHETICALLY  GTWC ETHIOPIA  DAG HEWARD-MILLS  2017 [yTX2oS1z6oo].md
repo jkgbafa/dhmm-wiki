@@ -8,6 +8,8 @@ year: 2017
 duration_min: 170
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 My friend came to me the other day as we walked along the way. She said, "I've got something to say." And she told me of the Savior. He came. He died to set us free from a life of sin and shame. I gave my heart to him that day. That's the reason I can tell you, tell you to keep preaching, keep teaching, tell me all about the Savior's love for all. That's what friends are for. Keep sharing. Keep giving. Share the [screaming] love of Jesus to us all. Oh yeah. Cuz that's what friends are for.

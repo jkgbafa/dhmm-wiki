@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2020
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Make your loudest noise as we welcome Bishop. Hallelujah. Father, thank you for today and for your great guidance to our lives in Jesus' name we pray. Amen. You may be seated if you have a seat. And at home, I want you to take your seat. Please come out of the kitchen now because if you are planning to eat just after church, you cannot cook during church. So, so that you eat after. All right? And then hurry up out of the bathroom also, please. We are having church and it's the same. And you know I never

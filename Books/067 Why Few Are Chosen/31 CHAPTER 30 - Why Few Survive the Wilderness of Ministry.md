@@ -4,6 +4,8 @@ book: "Why Few Are Chosen"
 book_number: "067"
 chapter_number: 31
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 ### CHAPTER 30\

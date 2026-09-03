@@ -8,6 +8,8 @@ year: 2019
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Jesus is the answer for the world today above him there's no other Jesus is the way Jesus is the answer for the world today above him there's no other Jesus is the way you may have some questions in the corners of your mind and traces of discouragement peace you cannot find reflections of your P seem to face you every day but this one thing I do know is that Jesus is the way that's the reason I say Jesus is the answer for the world today above him there's no other Jesus is the way Jesus is

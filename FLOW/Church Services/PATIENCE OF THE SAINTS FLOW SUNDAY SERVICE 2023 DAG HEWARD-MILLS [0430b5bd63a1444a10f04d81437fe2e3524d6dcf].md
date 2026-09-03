@@ -8,6 +8,8 @@ year: 2023
 duration_min: 173
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Praise the Lord, praise the Lord, and praise the Lord again. I want to welcome you this morning to the flow church service, and I'm sure you saw all over social media that flow church service is starting at 6 a.m. GMT this morning, and so flow church service has just begun, and we are glad to be here in the studio. Now, one of the things that we want you to do this morning is to do your best and share the link with your friends, share the link with your church members, share the link with your family members, share the link.

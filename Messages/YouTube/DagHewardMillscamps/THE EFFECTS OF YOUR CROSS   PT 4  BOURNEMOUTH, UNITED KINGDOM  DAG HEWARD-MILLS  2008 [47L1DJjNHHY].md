@@ -8,6 +8,8 @@ year: 2008
 duration_min: 150
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 47 the power of the Cross is the power to bring about Resurrection Romans chapter 6 verse 5 for if we have become United with him in the likeness of his death we have been United in the likeness of his death certainly certainly certainly ly that means if you have experienced death with Christ certainly we shall also be in the likeness of his resurrection if we have been United Romans 6:5 if you have been United with god with Christ in the death side so if you Unite with Christ in the cross you Unite with him in

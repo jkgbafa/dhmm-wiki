@@ -4,6 +4,8 @@ book: "Those Who Forget"
 book_number: "004"
 chapter_number: 2
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 # Chapter 1

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9Y0ZF89vwIY"
 duration_min: 9
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/the-holy-spirit"]
 ---
 
 So you need to uh speak in tonesues so that we know you have the Holy Spirit and you need to speak in tonesues because the the speaking in tonesues is the sign that you have the Holy Spirit. Now I mean I don't need the Holy Spirit. Hey do you know why you can't do certain things. For instance it says in Acts 1:8 it says you shall receive power. That word power is dunamis and it means ability. You see, people don't have that ability. That's me. I can't I I can't stay with a girl without sleeping

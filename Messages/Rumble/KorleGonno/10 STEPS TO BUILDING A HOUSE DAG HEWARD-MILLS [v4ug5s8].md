@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ug5s8/"
 duration_min: 72
 source: "whisper"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 I've been to a lot of places and I've seen millions of faces, but there were times that I felt so all alone back in my lonely hours. Yes, those precious precious holy hours. Mama Mama Jesus let me know that I was his own. That's the reason I sang that. Oh, yeah.

@@ -8,6 +8,8 @@ year: 2008
 duration_min: 162
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 yes we have Oh paranormal people discovered this yes the fundamental even able to automatically 6:3 the first part of this is data for not open the file consultant decide who bounces at the boss is that I mean this book returnable say that what an object as an admirer duty be doing hallelujah Mohammed with a second board at level three so that I can see is lack of rain lack of the Holy Ghost includes love away after anything that logical a complete the final walk with the most force operations in the reporting oh Jesus whatever no

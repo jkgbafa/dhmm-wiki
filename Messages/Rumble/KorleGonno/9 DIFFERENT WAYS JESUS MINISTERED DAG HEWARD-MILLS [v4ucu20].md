@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ucu20/"
 duration_min: 18
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Faith", "Prayer"]
+tags: ["topic/anointing", "topic/faith", "topic/prayer"]
 ---
 
 I just want to uh go through the different ways by which Jesus ministered uh fully. I may have mentioned them a bit the other day, but I want to go through fully. Number one, you realize that there are different ways by which God can minister to you. Is that not so? All right, number one is the laying on of hands.

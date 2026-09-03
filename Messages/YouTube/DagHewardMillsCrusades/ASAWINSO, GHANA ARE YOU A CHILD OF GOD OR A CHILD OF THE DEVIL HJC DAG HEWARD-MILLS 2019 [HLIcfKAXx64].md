@@ -8,6 +8,8 @@ year: 2019
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Tonight, before we go any further, and sonia be quiet. We have here with us the chairman of the central planning committee. Bishop Francis Che. I friendly Bishop Francis Che. He's about to address us.

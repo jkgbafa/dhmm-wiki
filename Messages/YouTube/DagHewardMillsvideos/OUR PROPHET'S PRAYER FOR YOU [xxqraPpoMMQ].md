@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xxqraPpoMMQ"
 duration_min: 3
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 I receive it you are favored you are chosen you are selected among a thousand you will always be chosen am God chooses you and out of your brothers and sisters you are declared a shining star may God's light shine upon your life may people around you detect the light that is in you and may you have the favor of God on your life whoever is Here Without Love Without affection without being chosen receive a special grace of love today Whoever has not married and desires to be married may your dreams come through this year in

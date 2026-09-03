@@ -8,6 +8,8 @@ year: 2010
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism"]
 ---
 
 Welcome to track number four of advancing in Pegamos. Are you there? Are you? I think you may need to open the windows a bit or otherwise we are going to be very we are not shouting or anything. We are giving a lecture.

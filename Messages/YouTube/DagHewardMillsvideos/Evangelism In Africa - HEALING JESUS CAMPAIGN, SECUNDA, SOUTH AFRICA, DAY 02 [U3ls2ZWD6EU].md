@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=U3ls2ZWD6EU"
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 Oh you Oh clap your hands I will say saga Stockholm airing their wonderful I will see not on their powerful par mother a comic remnant love your hands for this wonderful and fantastic wine why Santa raccoon we are blessing to our Father we thank you for this feed which sold touch our lives tonight there's a reason you have selected only those of us who are here to be here me nothing prevent us from living here with our miracles and our blessings in Jesus name we pray amen hallelujah why don't you get a lot of best

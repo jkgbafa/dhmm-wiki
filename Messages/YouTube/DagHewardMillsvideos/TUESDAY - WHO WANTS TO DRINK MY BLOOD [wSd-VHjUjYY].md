@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wSd-VHjUjYY"
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 we must work while it is they reading the Word of God and we walk along away to do his way reading the Word of God it reaches to every hill we were swiftness to everyone we lean in every song with me we must help emboss who we must wash while it is day spreading the word of God as we walk along the way we live to do his way reading the Word of God I feel rich into every year we must witness to everyone we mean in every song we sing we tell them all the

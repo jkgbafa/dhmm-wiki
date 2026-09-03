@@ -8,6 +8,8 @@ year: 2024
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Deliverance"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance"]
 ---
 
 we are welcoming Vivaldi to bless us with song Give Jesus a shout where is this siss me sing with me give Jesus a shout me how to me would me why Grand now now when he done lift up your heart give Jesus a shout of praise W me into what oh I somebody lift up your heart say me give Jesus that's a sh wo wo yes W oh would be die give Jesus a shout I'm Israel don't would oh me me would die would in the name of Jesus Amen die oh me wow clap your

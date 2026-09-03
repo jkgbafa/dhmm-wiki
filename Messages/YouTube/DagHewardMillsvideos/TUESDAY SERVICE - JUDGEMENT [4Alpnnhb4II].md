@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4Alpnnhb4II"
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 hallelujah let us pray Heavenly Father we thank you for your blessing this evening thank you for the opportunity to come before your Holy Word we ask you to speak to our hearts lead us in Jesus name Amen you may be seated turn with me to Revelation okay turn to Matthew I want to share with you about judgments why is that something wrong now I hope to share with you a little more but before I read Matthew 10 to first Corinthians chapter 11 I think that will help you to be a little happier first Corinthians chapter

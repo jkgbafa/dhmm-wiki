@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=BDm9ow2Q0ro"
 duration_min: 47
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Backsliding"]
+tags: ["topic/salvation", "topic/salvation/backsliding"]
 ---
 
 hallelujah hallelujah hallelujah let's pray father thank you so much for the great opportunity we have in your presence to love you to serve you we ask Lord that you guide us into all truth and to all that is your will help us father we thank you for the opportunity to be in church we could easily not have been here but we thank you in Jesus name ma'am you may be seated in the presence of the Lord now today I am going to begin to share with you a little about backsliding and I'm going to share

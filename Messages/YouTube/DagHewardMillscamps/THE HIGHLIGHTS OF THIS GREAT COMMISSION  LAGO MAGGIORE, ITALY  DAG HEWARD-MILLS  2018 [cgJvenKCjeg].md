@@ -8,6 +8,8 @@ year: 2018
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Hallelujah father we thank you for your word today that is guiding us mightily in Jesus name amen amen amen you may be seated turn with me to Matthew chapter 28 now in order to do the will of God we are going to you know how many what what do you think would be the best way to uh make yourself a savior of men if you go to heaven like William boo did and you had such a command what would be the best way to um make sure when you get to heaven you do not suffer

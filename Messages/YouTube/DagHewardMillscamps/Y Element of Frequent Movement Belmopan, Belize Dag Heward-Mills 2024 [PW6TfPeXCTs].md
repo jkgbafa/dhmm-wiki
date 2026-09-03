@@ -9,6 +9,8 @@ duration_min: 24
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Y Element of Frequent Movement  Belmopan, Belize  Dag Heward-Mills  2024 [PW6TfPeXCTs]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Why element number five? Frequent movement. Frequent what? Movement. Movement.

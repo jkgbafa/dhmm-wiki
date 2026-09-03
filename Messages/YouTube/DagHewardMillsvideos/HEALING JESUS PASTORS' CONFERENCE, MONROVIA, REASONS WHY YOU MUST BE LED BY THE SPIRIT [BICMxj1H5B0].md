@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=BICMxj1H5B0"
 duration_min: 33
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Shepherd of my soul I give you full control wherever you may lead I will follow I have made a joy to listen for your voice wherever you may lead I will go Lord you are the Shepherd of my soul and I give you full control wherever you may lead I will follow because I have made a choice I need to listen for your voice wherever you may lead I will go home be it in quiet pasture oh by a gentle stream the Shepherd of my soul is by my side and should I face the mighty

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=CDwRyjLya3Y"
 duration_min: 182
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "The Call of God"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/the-call-of-god"]
 ---
 
 I have made you too small in my eyes Oh forgive me he and I have believed in the lie that you are unable to help me see my my heart and show yourselves to my lord you are there is nothing you cannot do I have there's nothing there's nothing that you can do Oh hallelujah let us pray father thanks a million for this opportunity we are glad that you brought us here speak to our hearts we thank you Lord for your great powerful blessing in Jesus name Amen you may be seated it is a blessing

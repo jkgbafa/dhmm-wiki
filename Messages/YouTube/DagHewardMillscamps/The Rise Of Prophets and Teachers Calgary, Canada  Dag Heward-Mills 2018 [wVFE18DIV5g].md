@@ -8,6 +8,8 @@ year: 2018
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 this morning I believe that we are ready to receive beautiful wonderful teachings have you been blessed at the camp has it been powerful make sure you get the messages before you go but we are so glad that God has blessed us with a father a father who who whose care whose love has brought us all this far a father who is a prophet to us remember the first night a father who is a teacher that we must not take off our eyes and a father who is a pastor a pastor God gave to us and

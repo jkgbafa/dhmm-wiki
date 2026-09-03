@@ -8,6 +8,8 @@ year: 2002
 duration_min: 33
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 welcome to track number 10 of life in the church the Cross Point number two that is all that is just one point the cross of Jesus Christ will make you fruitful the cross of Jesus Christ will make you fruitful amen without the cross you will not be fruitful turn to John chapter 12 verse 23 in Jesus answered them saying the hour is come that the son of man should be glorified verily verily I say unto you except the Conn of wheat fall into the ground and die it abideth alone but if it die it bringeth

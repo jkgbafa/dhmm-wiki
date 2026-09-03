@@ -8,6 +8,8 @@ year: 2018
 duration_min: 190
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 I got the call of God but I didn't want to go that far I got the call of God but I didn't want to go that far from the time that I was young I knew that that God had called me I used to say that I would be in fulltime Ministry but when I grew up I changed my mind I changed the vision for my life I didn't want to go that far with God I got the call of God but I didn't want to go that far I got the call of God but

@@ -8,6 +8,8 @@ year: 1999
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 I will call you my god you're okay you're a boy sing it again I wanna score my car Oh yes Pierre Fabre with your day Oh Oh buh-buh-buh-buh Oh ah Oh of that what I was papi all the maps and Walker the hospital gave it to the Lord who was set apart today was bad it was Wesley Oh yeah y-yeah because cambia won't be quieter for Jesus we worship we magnify your emailing solji for you alone at goal we look and record into the sea all around us of all we find other words we like

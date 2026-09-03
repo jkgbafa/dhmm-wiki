@@ -8,6 +8,8 @@ year: 2022
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 How I came to be anointed, I'm actually just giving a testimony. Don't you understand? Now I came to be anointed also through the grace of humility. Um I have a book here called those who are proud. And I have a book called The Art of Following.

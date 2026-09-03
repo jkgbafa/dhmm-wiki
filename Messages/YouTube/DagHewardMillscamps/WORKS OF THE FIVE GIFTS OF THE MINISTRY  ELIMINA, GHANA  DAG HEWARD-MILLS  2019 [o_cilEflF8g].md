@@ -8,6 +8,8 @@ year: 2019
 duration_min: 185
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 there is no problem to think and God cannot solve it there is no mountain to T he cannot move it there is no storm to talk God cannot come it there is no storm too deep he cannot so fair if he carry the weight of the world upon his shoulder I know my brother that he will carry you there is no problem to beig God cannot solve it there is no no mountain Too Tall he cannot move it there is no storm too dark God cannot come there is no sorrow too deep he cannot so

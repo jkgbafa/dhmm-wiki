@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zbA9d3zve1Y"
 duration_min: 167
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 something great is about to get loose tonight God's power is ready to be ministered to us with joy please join me to welcome to bless us with a song Hallelujah Hallelujah Give the Lord the best shout of Praise oh give the Lord a shout a shout a shout tell be to me come on oh do meory lift up your voice and say to when when he everybody Hallelujah Give the Lord a shout today is the last day give the Lord a shout are you there is somebody here and for this listen are you here are

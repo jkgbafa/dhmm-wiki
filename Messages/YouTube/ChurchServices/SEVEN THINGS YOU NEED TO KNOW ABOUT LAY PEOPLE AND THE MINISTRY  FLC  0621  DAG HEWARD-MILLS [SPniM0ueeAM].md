@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SPniM0ueeAM"
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I've done one or two things even if I've not committed sins of commission and even sins of omission the sins of my heart they are ever present before me lift your hands and lift your voice and say Lord I stand in church needing your mercy I stand in church needing your grace I stand in church needing your power I stand here in church and I want you to forgive me Lord I believe that your forgiveness is with me and your forgiveness is coming upon me lift your voice 30 more seconds one pray and thank God

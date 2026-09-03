@@ -4,6 +4,8 @@ book: "Seven Great Principles"
 book_number: "055"
 chapter_number: 5
 type: book
+topics: ["Salvation", "Salvation/The New Birth", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ###  Chapter 4

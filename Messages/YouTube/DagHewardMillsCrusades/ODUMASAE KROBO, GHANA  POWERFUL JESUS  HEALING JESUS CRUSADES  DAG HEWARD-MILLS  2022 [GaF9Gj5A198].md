@@ -8,6 +8,8 @@ year: 2022
 duration_min: 146
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 Hallelujah lift up your hands sayful Jesus Jesus say Jesus Jesus Jesus for Jesus Jesus let's go come on Jesus Jesus come on Jesus Jesus Jesus somebody say come on me to me Jesus me Jesus Jesus wus to me to hey come on la la la Hey amen Jesus jusus to me GLE come on let's go where let's go W come on W Hallelujah min are you ready are you ready are you ready are you ready yeah hey sing it ah B calary me my all say wow w wow are you happy to be here are

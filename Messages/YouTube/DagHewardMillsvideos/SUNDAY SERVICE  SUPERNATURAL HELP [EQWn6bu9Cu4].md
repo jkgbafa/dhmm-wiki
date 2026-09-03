@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=EQWn6bu9Cu4"
 duration_min: 50
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 are you glad to be in church very good tell me be the first Corinthians chapter 14 now this morning I want to share with you as I shared with the earlier service about supernatural help from God amen now the Bible tells us that God knows our frame and he knows that we are weak and that we are not capable of doing many of the right things that we should do is that not so how many of you realize that many times you are not able to do the right things and usually you are weaker in

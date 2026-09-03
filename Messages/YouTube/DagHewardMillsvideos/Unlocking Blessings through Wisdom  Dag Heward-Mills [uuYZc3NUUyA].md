@@ -8,6 +8,8 @@ duration_min: 3
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsvideos/Unlocking Blessings through Wisdom Dag Heward-Mills [uuYZc3NUUyA]]]"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Proverbs 28:9. He that turneth away his ear from hearing h that turneth his ear away from hearing. Oh, you're not getting the message. Oh, I said, are you getting it? He that turns his ear away, he that stops listening, he that doesn't listen, he that listens and stops listening, he that turneth his ear away from hearing. Even his prayers shall be an abomination. things don't work at all [groaning] when you turn and you see it is you who have turned your ear away cuz you say oh I know this one turn your ear you should

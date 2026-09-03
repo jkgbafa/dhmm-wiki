@@ -9,6 +9,8 @@ duration_min: 51
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE SPIRIT ENTERED INTO ME  GTWC BLANTYRE  DAG HEWARD-MILLS  2025 [qjKNNqgHlyg]]]"
+topics: ["Anointing", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I feel the presence of God here. God's power is just about to touch somebody. Now listen. Whilst I was there. I played Hagen messages.

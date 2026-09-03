@@ -8,6 +8,8 @@ year: 2014
 duration_min: 52
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 Galatians chapter 6 number 14 but God forbid that I should Glory save in the cross of our Lord Jesus Christ by whom the world is crucified unto me and I unto the world that's it H the world is crucified it's like I don't I I don't know what other word you want to understand how to relate with the world the world is crucified to you and you are crucified to the world out out of your life completely unbelievers the the world the places of the world huh the life of the world you get it the

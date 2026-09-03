@@ -3,6 +3,8 @@ title: "OUR PROPHET'S PRAYER FOR YOU_keeA2Tm4yOI"
 channel: "DagHewardMillsvideos"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 may you be called a blessed child may joy coming to your house again may your home be filled with laughter may our home be filled with rejoicing and you hear good news continually may all partners be blocked from coming to your life in the name of Jesus the Savior surely he has borne our griefs and carried our sorrows we are forced this blessing in every life today we have forced this Pleasant in every life today we have forced a blessing of God Karen aware your sorrows and your creeps in the name of Jesus whatever represents

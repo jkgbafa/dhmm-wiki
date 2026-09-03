@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=pJfqJG3bzVk"
 duration_min: 2
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting"]
 ---
 
 I have not a devil, but I honor my father. I have not a devil. I have not a devil. The sign that I don't have a devil is that I honor my father. The sign that I don't have a devil is that I honor my father.

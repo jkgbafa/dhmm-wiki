@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=kHaf8Xm0Hcc"
 duration_min: 41
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 father we thank you for this morning thank you for your word thank you for the opportunity to do what you have called us to do we pray for grace and for humility as we try to be faithful in the calling thank you Lord in the name of Jesus amen you may be seated well please turn with me to first Corinthians chapter 12 this morning I am sharing with you about the health ministry amen the health ministry now the health ministry is one of the most important ministries in 1st Corinthians chapter 12 let us read verse

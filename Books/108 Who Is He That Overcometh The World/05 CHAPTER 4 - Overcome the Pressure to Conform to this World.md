@@ -4,6 +4,8 @@ book: "Who Is He That Overcometh The World"
 book_number: "108"
 chapter_number: 5
 type: book
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 ### CHAPTER 4\

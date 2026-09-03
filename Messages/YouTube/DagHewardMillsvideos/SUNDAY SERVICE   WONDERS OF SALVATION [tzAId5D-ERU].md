@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tzAId5D-ERU"
 duration_min: 29
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Salvation"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/salvation"]
 ---
 
 what does it say now let's read from verse 21 because you are to noon what does anyone say ok nobody can answer but now the righteousness of God without the law is manifested being witnessed by the law and the prophets in it even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe for there is no difference for all have sinned and come short of the glory of God hallelujah all have sinned what do you think have you seen how many feel sinful huh even if you

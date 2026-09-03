@@ -9,6 +9,8 @@ duration_min: 44
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE ANOINTING  GTWC KINSHASA  DAG HEWARD-MILLS  2015 [iA6XiA8tExw]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 And Elijah Elise said I want your car. Elijah said. Elisa did, please let me stay in your house. Please let me have your money. Because I rich prophets.

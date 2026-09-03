@@ -4,6 +4,8 @@ book: "Why Few Are Chosen"
 book_number: "067"
 chapter_number: 22
 type: book
+topics: ["The Word and Books", "The Word and Books/Books and Reading"]
+tags: ["topic/the-word-and-books", "topic/the-word-and-books/books-and-reading"]
 ---
 
 ### CHAPTER 21\

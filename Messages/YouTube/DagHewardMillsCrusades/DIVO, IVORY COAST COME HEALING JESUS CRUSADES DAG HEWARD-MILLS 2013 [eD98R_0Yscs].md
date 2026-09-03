@@ -8,6 +8,8 @@ year: 2013
 duration_min: 164
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Et pour Jésus qui est fort, qui est fort, qui est fort, qui est fort, qui est, qui est, qui est, qui est, qui est, sautez vos mouchoirs, sortez vos mouchoirs, qui est pour Jésus, balance comme ça, balance comme ça, ainsi je dis de louange, je l'adorerai, il a ôté mes soucis, il m'a donné la paix, maintenant il m'a libéré, écoutez-moi, s'il vous plaît, ainsi je dis de louange, je l'adorai, il a ôté mes soucis, il m'a donné la paix, maintenant il m'a libéré, avant je souffrais, j'étais dans l'affection, il y a les temps à ni d'or, je te fais un fétiché, mais quand je connu Jésus, il a changé ma vie.

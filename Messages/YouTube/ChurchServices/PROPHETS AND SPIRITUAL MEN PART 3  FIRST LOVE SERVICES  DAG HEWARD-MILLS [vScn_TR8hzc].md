@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=vScn_TR8hzc"
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 put your hands together for Jesus amen amen amen what we downtown hallelujah how how many of you are ready to do someo for Jesus amen amen hallelujah hallelujah how many of you ready to do some for Jesus amen Jesus deserves everything Hallelujah come on come on come on I will lift up your name I will lift up your name oh great you are great you are wonderful I will lift up your name hey I will lift up your name I will lift up your name you are wonderful come on I will lift up your name

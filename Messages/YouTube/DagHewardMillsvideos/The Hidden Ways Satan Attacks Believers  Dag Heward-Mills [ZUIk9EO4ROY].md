@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ZUIk9EO4ROY"
 duration_min: 35
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Look, Satan wants to take over from the Holy Spirit and guide you and lead you and wishes you just trust him. Put your hand in my arm, let me lead you. God, that's the work of the Holy Spirit. So the evil spirit seeks to. So watch out for things that are not so easy to see what is happening to you. something is happening but it's not so easy to see it. In the dictionary it says, "So today I want us to recognize the works of the darkness against your life, against our lives as we pray

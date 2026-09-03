@@ -8,6 +8,8 @@ year: 2010
 duration_min: 75
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 welcome to track number one of advancing imp pegamos uh thank you for a very warm welcome um I'm glad to see that the Lord is Blessing you last year we were here at the camp and um we are here again um what I realized when I was coming for the camp was that the time had not been adjusted from last year's Camp time because last year we came on a Friday night and then we left on Sunday now to effectively have a camp we cannot have a camp on Friday and rush out on S so

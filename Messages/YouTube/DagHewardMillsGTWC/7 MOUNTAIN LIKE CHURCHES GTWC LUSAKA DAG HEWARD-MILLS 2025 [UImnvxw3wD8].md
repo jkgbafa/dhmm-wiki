@@ -9,6 +9,8 @@ duration_min: 27
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/7  MOUNTAIN LIKE CHURCHES   GTWC LUSAKA  DAG HEWARD-MILLS  2025 [UImnvxw3wD8]]]"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Now turn with me into double mega missionary church and let me prophesy these prophecies over you. Number one, 25 prophecies over your life and your ministry. Number one, there shall be, I'm giving you 25 prophecies, but I'll not give you all the 25. I'll just give you some. There's going to be mountain-like churches.

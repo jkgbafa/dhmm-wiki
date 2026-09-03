@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=VVU_Iac5nbE"
 duration_min: 50
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 grace and peace be multiplied unto you Wes - are you there through the knowledge of God and of our Lord Jesus according as his divine power have given unto us all things that pertain unto life and godliness through the knowledge of him that has called us to glory and virtue amen that's full whereby are given unto us exceeding great and precious promises that by these ye might be partakers of the divine nature having escaped the corruption that is in the world through lust amen now these letters written by the founding apostles and fathers of the

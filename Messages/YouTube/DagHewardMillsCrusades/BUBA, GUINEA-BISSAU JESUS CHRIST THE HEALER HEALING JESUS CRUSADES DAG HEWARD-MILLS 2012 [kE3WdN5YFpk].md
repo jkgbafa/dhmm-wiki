@@ -8,6 +8,8 @@ year: 2012
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Hallelujah, hallelujah, Amen, Amen. Clap your hands and let's receive the evangelists. Words mutts hallelujah God bless you, you may be seated. Ah, Deus obrigado, desababa sinta Everybody Should sit down and not talking, please in that man's paper, por favor, paying the man silence. If you don't have a chair, you can stand without talking.

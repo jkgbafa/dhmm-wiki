@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=uAPakyDb7u0"
 duration_min: 102
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Holy Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/the-holy-spirit"]
 ---
 
 and just to war man help me believe in or I could be and all that well hallelujah let's turn and share with a prayer father thank you so much for the blessing the chance we have to serve you we ask for your mercy or grace to guide us to lead us let your will be done in Jesus name Amen you may be seated thanks for the Benny for a powerful message it is good to hear from other places about the importance of having father sometimes when you preach about it you gather the devil gives you

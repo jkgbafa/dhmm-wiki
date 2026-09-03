@@ -8,6 +8,8 @@ duration_min: 33
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsvideos/Dag Heward-Mills Mighty Anointing Uganda GTWC [mlwADG9O_Ao]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Lift your hands watching wherever you are for the anointing. May you win your battles in every place and at every spiritual junction of your life of your calling [screaming] on your road to the anointing. Jesus. Wherever you are, lift your hands. Tell God, "Lord, I don't even know what the anointing is, but I want it. I want I want it. So precious. Steps to the anointing. I want your gift. I want your power. I want the anointing. When Elisha picked the mantle from the ground, he didn't know that he was picking his life, his future,

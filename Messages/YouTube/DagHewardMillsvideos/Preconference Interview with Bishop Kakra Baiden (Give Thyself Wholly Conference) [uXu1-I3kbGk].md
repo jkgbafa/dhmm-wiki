@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=uXu1-I3kbGk"
 duration_min: 27
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 praise the lord and a wonderful evening to all of you our cherished viewers i'm sure you have been following the series we've been having the different previews about give myself holy confidence and this evening we are so blessed and privileged to be speaking with the bishop who is in charge of the catch the anointing center and they have their headquarters at sacramento which is a suburb in the capital of accra capital of ghana accra this evening i'm sure you are going to hear things that you have not had before and so i would like you

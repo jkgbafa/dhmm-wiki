@@ -8,6 +8,8 @@ year: 2023
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 amen but I believe it has been a blessed time now when it comes to subduing Nations amen what we need all right is Faith Hebrews 11:33 we need faith is that not so and now part where we found out that faith is what I cannot hear you and obedience is what love and obedience is also what humility amen amen so through faith which means through obedience through love and through humility we are able to subdue Nations and kingdoms and quetting them the name of your missionary Thomas Baker who was eaten by fijians do you see

@@ -8,6 +8,8 @@ year: 2017
 duration_min: 151
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Hallelujah wow are you glad to be here today what a blessing all right thank you thank you very much lift your hands and let's pray father thank you for this day and this wonderful Camp the island shall wait for you we are asking Lord that you would speak to our hearts minister to our souls strengthen us Lord for the great work that is ahead amen we give you thanks and we give you praise Amen in Jesus name and everyone said amen you may be seated in the presence of the Lord w wow that is a

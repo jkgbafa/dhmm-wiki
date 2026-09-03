@@ -8,6 +8,8 @@ year: 2014
 duration_min: 41
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Ministry and Pastoring"]
+tags: ["topic/church-growth", "topic/ministry-and-pastoring"]
 ---
 
 Hallelujah. Wow. Believe it or not, this is the last session of the IR meeting. Wow. That's how it is. What a blessing. What an honor. Everybody here in this service and in this meeting is taking us to all the wonderful messages which are all available. Don't leave here without meached and all over the world. You're watching us live. Amen. everywhere from Madagascar to Mali through to America, Canada, they all watching live and next they've all promised to come. What a shot. But I believe that God has given us a trainer and I think that is

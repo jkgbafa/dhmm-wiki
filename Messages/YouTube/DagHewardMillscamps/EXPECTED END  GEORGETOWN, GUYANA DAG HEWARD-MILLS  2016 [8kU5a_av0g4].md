@@ -8,6 +8,8 @@ year: 2016
 duration_min: 157
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 e welcome to track number two of expect great things hallelujah hallelujah you may you may be seated please amen ah yeah wow that's that's M that's m in the system Hallelujah all right you may please be seated amen wonderful sound check M check sound check M check amen all right okay all right all right all right okay the time is now the moment is here ladies and gentlemen our father the bishop that human Hallelujah let us pray let us pray go back to your seats please please please thank you thank you thank you for your

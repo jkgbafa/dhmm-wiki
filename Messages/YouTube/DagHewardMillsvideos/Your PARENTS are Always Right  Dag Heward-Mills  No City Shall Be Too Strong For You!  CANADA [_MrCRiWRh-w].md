@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_MrCRiWRh-w"
 duration_min: 4
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting"]
 ---
 
 Hosea 12 13. buy a prophet the Lord brought Israel out of Egypt and by a prophet he was preserved so God sent me as a prophet to some people at least to some people I am a prophet amen God sent me as a prophet to some people so just as you see when the Bible says obey your parents in the Lord for this is right your parents are always right when you are their child this is he obey your parents for this is right what is right what they are saying is right this is right

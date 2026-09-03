@@ -9,6 +9,8 @@ duration_min: 46
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHY PEOPLE DO NOT OBEY THE CALL  SYDNEY , AUSTRALIA DAG HEWARD-MILLS  2004 [ncxXKZtGZ8w]]]"
+topics: ["Marriage and Family", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Welcome to track number nine. It is too small, too little. And I told you about John, isn't it? Number two is what? You see that God wants to cheat us of a good life, isn't it?

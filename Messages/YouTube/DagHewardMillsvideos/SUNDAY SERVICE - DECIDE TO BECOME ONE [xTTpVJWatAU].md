@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xTTpVJWatAU"
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 lujah alleluia alleluia alleluia alleluia alleluia auto for we sang the Lord for a beautiful morning amen are you blessed to be here wonderful well it's a good day and God isn't gracious to us amen I believe that the year is ticking off and them we are moving little by little slowly into God's purpose for our lives how many of you expecting good things this year similar growth in this year you must expect good things from God do you understand expected don't expect to have an accident this year don't expect to die this year don't expect

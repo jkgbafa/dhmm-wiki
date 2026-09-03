@@ -8,6 +8,8 @@ duration_min: 109
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/THABONG, SOUTH AFRICA  JESUS CHRIST THE SAVIOUR AND THE HEALER OF THIS WORLD  DAG HEWARD-MILLS [fKRy5jfbpTE]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Lift up your voice and say Haki Bonna directing to be hot direct to me a home mama who ran outsweeting my wallet home, mama who ran out rather kick out directly hot dog, haki bona who pilletou mi say when I fell when I fell my sella Give the law of sickness, we are too sort of I think you can stand to your feet. You can stand up because God has sent his servant to welcome this week. God has anointed for your life. As he ministers this week, your life will never be the same. These three nights.

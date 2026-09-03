@@ -8,6 +8,8 @@ year: 2016
 duration_min: 192
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Call of God", "The Call of God/Responding to the Call", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Looking for a man that I can send. Someone to sacrifice his life, his dreams, his goals. I'm looking for someone who loves me so. Hello. Is it me you're looking for? I'm the one you called to serve. I'm the one you've been speaking to. I'm the one you gave those dreams to. They never went away. I will follow you, my Lord. There'll be no more holding back. I'm saying here and now. Send me. I'm looking for someone that I can use. I'm looking for a man who thinks of others. I'm looking for someone who will

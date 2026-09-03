@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uf2ql/"
 duration_min: 37
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Father, we thank you for this morning. Thank you for your holy word. We know, Lord Jesus, that you are with us, ministering through us, blessing us, and teaching us your will. We ask, O Lord, for the spirit of revelation and understanding today in Jesus' name. Amen.

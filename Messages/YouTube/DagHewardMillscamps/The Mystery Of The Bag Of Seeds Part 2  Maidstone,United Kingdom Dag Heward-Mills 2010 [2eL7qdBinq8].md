@@ -8,6 +8,8 @@ year: 2010
 duration_min: 205
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 love is a seed for closeness you see if you say you have love if you love somebody is that not what makes you get closer and married the person oh so love is also has seed in it so when you love some the people love you back you love somebody so you when you meet somebody who really love someone usually the person has also loved that person isn't it the person has loved that person that is why the person loves but rarely do you just have love one-sided when when someone loves usually there's another side

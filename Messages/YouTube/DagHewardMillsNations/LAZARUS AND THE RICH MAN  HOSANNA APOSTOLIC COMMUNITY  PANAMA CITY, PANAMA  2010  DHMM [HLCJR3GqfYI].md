@@ -8,6 +8,8 @@ year: 2010
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer"]
 ---
 
 GH Africa dseda thank you very much much gracias um we thank uh Pastor Alvarez for this invitation and we thank God for this opportunity to be here um we've been coming to Panama for some time we are always blessed to be here I came along with my wife I want her to give us a wave offering wonderful and also with some other pastors from Ghana and um Jamaica Hallelujah let us pray heavenly father thank you for tonight thank you for your word thank you for the opportunity that we have to share your word we ask

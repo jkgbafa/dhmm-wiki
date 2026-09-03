@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=dpGx5_mQXp0"
 duration_min: 205
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Soul Winning and Evangelism", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/soul-winning-and-evangelism", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I I love the plum mom I mean they make me nothing an Escrima Chuck but I got you to do for me to do things on a body for me the great Oh no sir hallelujah put your hands together for Jesus oh come on greed better for the Lord why don't you celebrate the goodness of God keep clapping I'm gonna receive a series of victories this year I'm gonna receive blessings from the Lord this year I'll give it a lot a mighty shout of praise if you are grateful to God the Bible says now thanks

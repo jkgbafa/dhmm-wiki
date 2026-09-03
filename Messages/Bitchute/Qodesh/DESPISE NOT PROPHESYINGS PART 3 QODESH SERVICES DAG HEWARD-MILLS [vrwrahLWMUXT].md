@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/vrwrahLWMUXT/"
 duration_min: 134
 source: "whisper"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I want to touch you, Lord. Just worship the Lord in a moment. Just worship the Lord in a moment. We worship you, Jesus. We worship you, Jesus.

@@ -9,6 +9,8 @@ duration_min: 38
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/CAMP OVERVIEW BY BISHOP OGOE  MAMPONG, GHANA  DAG HEWARD-MILLS  2016 [dw0uakzzekw]]]"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Welcome to track number five of Le Plus Petitra. Clap your hands for Jesus. So yesterday we learned very important things about our destiny. And the first, and how many of you believe that your life will reflect that destiny. And the first destiny you must achieve and see in your ministry is that even though you are small, your church is small, you are alone, you are few, you will become a thousand.

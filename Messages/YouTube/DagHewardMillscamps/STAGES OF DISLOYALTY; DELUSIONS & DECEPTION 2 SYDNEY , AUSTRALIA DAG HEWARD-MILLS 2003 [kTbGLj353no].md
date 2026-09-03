@@ -9,6 +9,8 @@ duration_min: 62
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/STAGES OF DISLOYALTY; DELUSIONS & DECEPTION 2  SYDNEY , AUSTRALIA DAG HEWARD-MILLS  2003 [kTbGLj353no]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 Welcome to track number 10 of how to survive in Ephesus. The same. So we shouldn't let that thing come between us. And if you behave like that, God cannot use you in this place. Because many of the people here are not from your country.

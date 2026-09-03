@@ -8,6 +8,8 @@ year: 2004
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 oh yes oh yes oh yes yes Lord oh yes Lord oh yes Lord oh yes Lord oh yes Lord thank you thank you thank you for all right so I was trying to show you a little bit of um I just want us to study this best tonight and then we close and we come here in the morning amen amen what time is breakfast huh 8:00 all right so we'll come back okay now notice second Peter chapter 1 but so the first part we're talking about see a so those of you who are tape recorders

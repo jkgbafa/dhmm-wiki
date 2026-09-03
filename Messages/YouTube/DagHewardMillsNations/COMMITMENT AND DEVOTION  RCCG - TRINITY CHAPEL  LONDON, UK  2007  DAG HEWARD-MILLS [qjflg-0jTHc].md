@@ -8,6 +8,8 @@ year: 2007
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Hallelujah let us pray thank you Father in the name of Jesus for tonight I want you to lift your hands and ask God to speak to you begin to pray in the spirit sh thank you Lord for your blessing thank you Lord for your blessing thank you for your healing thank you for your grace your mercy belated belated belated hallelujah hallelujah hallelujah hallelujah thank you Lord for your great blessing tonight thank you tonight thank you tonight thank you tonight thank you tonight glory be to God in the name of Jesus thank you for your great

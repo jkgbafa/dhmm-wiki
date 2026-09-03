@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t4i8n/"
 duration_min: 85
 source: "whisper"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Verse 5 of Philippians 2. It says, Let this mind be in you, which was also in Christ Jesus, who being in the form of God thought it not robbery to be equal with God, but made himself of no reputation. Amen. And he made himself of no reputation. And took upon himself the form of a servant.

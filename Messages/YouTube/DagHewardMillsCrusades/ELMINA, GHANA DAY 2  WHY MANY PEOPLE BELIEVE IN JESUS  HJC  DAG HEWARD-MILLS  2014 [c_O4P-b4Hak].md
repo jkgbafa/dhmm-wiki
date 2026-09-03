@@ -9,6 +9,8 @@ duration_min: 132
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/ELMINA, GHANA DAY 2 WHY MANY PEOPLE BELIEVE IN JESUS HJC DAG HEWARD-MILLS 2014 [c_O4P-b4Hak]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 from don't watching oh n Hallelujah are you excited tonight and are you ready tonight are you really really really ready tonight is the second night of this historic campaign yesterday we saw the hand of God God used a servant to minister the word of God and the power of God tonight is Anointed for you in particular and if you are ready to receive s your feet let's receive Evangel Hallelujah Bop you Hallelujah I believe I believe I believe I believe I believe God's word is still the same I expect a miracle tonight miracle today lift

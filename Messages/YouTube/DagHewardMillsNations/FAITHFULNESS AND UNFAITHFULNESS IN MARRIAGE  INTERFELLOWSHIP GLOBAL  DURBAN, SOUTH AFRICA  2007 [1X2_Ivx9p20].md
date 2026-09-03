@@ -8,6 +8,8 @@ year: 2007
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 unfaithfulness is one of the disturbing um things how many want your husband or wife to sleep with someone else how many don't want it all right so tell somebody sitting by you try not to sleep with someone else you must try very hard amen what do you think is it a good idea try hard not to sleep with anybody else apart from your husband or your wife all right but it is something that happens quite commonly is that not so H or you don't understand what I'm saying is there something that happens in Dean huh

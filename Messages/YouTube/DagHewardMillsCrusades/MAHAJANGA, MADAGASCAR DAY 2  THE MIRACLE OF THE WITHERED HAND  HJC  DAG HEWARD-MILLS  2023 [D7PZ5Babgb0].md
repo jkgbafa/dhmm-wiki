@@ -9,6 +9,8 @@ duration_min: 131
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MAHAJANGA, MADAGASCAR DAY 2 THE MIRACLE OF THE WITHERED HAND HJC DAG HEWARD-MILLS 2023 [D7PZ5Babgb0]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 the all e together brother and sister s for the the I I e e e we he h the e the I Hall I for because Pres not yes J EXP can't is something all hallu hallu I got 1 2 been or ,000,000 we huu bre fore for need I for as I think for this please if you don't get an envelope try and and buy your own envelope and put your seed in it for tomorrow don't worry at all if you don't get an envelope and show their envelopes in town so buy one and

@@ -9,6 +9,8 @@ duration_min: 67
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PRAYER OPPORTUNITIES PART 1  YANUCA ISLAND, FIJI  DAG HEWARD-MILLS  2024 [k4yTpfr5H50]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 We are having a prayer seminar. Amen. And our topic is uh, I said prayer foundations, but uh I would rather call it prayer opportunities, yes. So prayer opportunities, so prayer opportunities. So number one is prayer is an opportunity to turn things around, all right?

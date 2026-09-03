@@ -8,6 +8,8 @@ year: 2016
 duration_min: 29
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 welcome to track number two of Stir It Up Mark 16 Mark says now M now I am now going into the master keys to stir up the supernatural gift of God wow verse 15 call ye into all the world and preach the gospel to Every Creature go into all the world and verse 17 these signs shall follow you it's like you will start becoming Supernatural yeah you will start becoming Supernatural poisons will not work serpents and snakes will not work your Supernatural languages will be coming forth healings will be coming forth are you are you

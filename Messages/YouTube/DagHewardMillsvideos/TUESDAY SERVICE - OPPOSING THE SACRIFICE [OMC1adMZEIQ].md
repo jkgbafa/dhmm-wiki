@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=OMC1adMZEIQ"
 duration_min: 65
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 so I'm going to continue for just a few minutes Tiffani share about in the presence of Devils I'm going to share with you a couple more things that I encounter as you walk on this earth mark chapter 8 jesus christ lived on this earth and he counted devil devils that he encountered fought him and opposed him throughout life and ministry and eventually wanted to kill him killing him and right from the very first message that he reached until the very end so tonight I want you to see things I was a this was an ephah

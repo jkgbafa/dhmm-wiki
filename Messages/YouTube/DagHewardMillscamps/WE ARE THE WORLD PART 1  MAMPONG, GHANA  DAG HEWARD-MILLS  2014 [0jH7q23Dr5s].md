@@ -8,6 +8,8 @@ year: 2014
 duration_min: 177
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 certain things don't happen everywhere certain behaviors attitudes will not happen everywhere and every one of us here must identify the place that you must overcome like what ladies first what what what type of place must you over come personally not your uncle not your cousin yourself entering into certain people's casts why why why certain people's cast is it because of the speed the atmosphere in setting people's cast not not your friends car but some of them certain people's cars what what type of atmospheres are in the car um for example you know that when you

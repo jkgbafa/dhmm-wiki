@@ -4,6 +4,8 @@ book: "The Megachurch 2Nd Ed"
 book_number: "010"
 chapter_number: 7
 type: book
+topics: ["Anointing", "Leadership", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/leadership", "topic/ministry-and-pastoring"]
 ---
 
 ### Chapter 6\

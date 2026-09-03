@@ -4,6 +4,8 @@ book: "Rules Of Church Work Walking Worthy 2Nd Ed"
 book_number: "038"
 chapter_number: 8
 type: book
+topics: ["The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 ### CHAPTER 7 

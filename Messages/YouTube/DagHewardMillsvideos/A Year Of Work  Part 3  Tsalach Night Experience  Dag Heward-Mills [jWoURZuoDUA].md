@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jWoURZuoDUA"
 duration_min: 211
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 2024 lift your hands let's begin to pray everybody pray for yourself we are not praying as a group we are not praying as a team we are praying for our steps our decisions the Jes against false steps against Ms in the name of Jesus we cancel all false steps we cancel every misstep in the name of Jesus we intercede for 2024 I thank God that I shall work hard my meat will be to do his will and to finish the work that he has given me I declare that my steps are Guided by God I

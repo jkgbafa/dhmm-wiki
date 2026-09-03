@@ -8,6 +8,8 @@ year: 2024
 duration_min: 151
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Clap for the Lord and let's call our mommy shout to the Lord shout shout to the Lord you need Jesus you need the Savior his name is his name is Jesus come with me make a decision move now to go to glory to Jesus call him don't be quick su si AC jesus seigne Tera world saw Tera his name was Lazarus his wounds [ Music] and Angels take him to the bosom of Abraham but to jus to to Glory to Glory hell hell Jesus Jesus calls you God calls you he doesn't deny you be quick

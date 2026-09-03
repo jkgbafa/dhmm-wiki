@@ -4,6 +4,8 @@ book: "Faith Secrets"
 book_number: "060"
 chapter_number: 64
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Faith"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/faith"]
 ---
 
 ### Chapter 63\

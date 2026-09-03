@@ -9,6 +9,8 @@ duration_min: 64
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/BINDURA, ZIMBABWE  WHY WE PREACH ABOUT CHRIST  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2016 [gURHF2BIIhw]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Tonight on the first night of our Healing Jesus campaign. It gives me great joy to welcome the chairman of the board of trustees of the Healing Jesus campaign here in Bindura. Clap your hands and let's welcome our chairman to bring us his opening remarks. Thank you, uh Bishop. Hallelujah.

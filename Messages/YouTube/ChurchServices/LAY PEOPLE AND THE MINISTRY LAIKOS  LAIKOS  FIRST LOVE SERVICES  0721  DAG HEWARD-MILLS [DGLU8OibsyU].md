@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=DGLU8OibsyU"
 duration_min: 172
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 father we thank you for your Mighty power that is at work in our lives today amen you may be seated for a moment hallelujah how many realize that we are winning we are overcoming amen and the Holy Spirit is guiding us in everything that we do amen so I believe that whatever is resisting us we are overcoming amen amen and I know that God's plan for your life is coming to pass in the mighty name of Jesus amen Psalm 115 Psalm 115 verse two it says wherefore should the Heathen say where is now their God

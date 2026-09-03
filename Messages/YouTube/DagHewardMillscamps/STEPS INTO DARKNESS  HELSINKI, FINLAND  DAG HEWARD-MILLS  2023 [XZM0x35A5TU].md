@@ -9,6 +9,8 @@ duration_min: 167
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/STEPS INTO DARKNESS HELSINKI, FINLAND DAG HEWARD-MILLS 2023 [XZM0x35A5TU]]]"
+topics: ["Missions", "Missions/The Nations"]
+tags: ["topic/missions", "topic/missions/the-nations"]
 ---
 
 helujah let us pray let us pray let us pray father we are thanking you for today thanking you for this amazing opportunity right here in Helsinki thank you for bringing us thank you for guiding us thank you for leading us we are grateful bless us in this time as we serve you together here in Europe we are grateful in Jesus name amen you may be seated you may be seated please all right now which group is here today which group is this Germany all those from all those from Germany stand up so that I can

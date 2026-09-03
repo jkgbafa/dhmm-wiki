@@ -8,6 +8,8 @@ year: 2016
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Vision and Direction", "Vision and Direction/Hearing God", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/wisdom"]
 ---
 
 Father, we are so excited and thankful for the blessing of this morning in Jesus mighty name. Amen. Amen. Now, who said you couldn't come at 7:00 a.m.? You see that you've come? Fantastic. Now I want to just share with you about the use of the weapon of wisdom. The weapon of wisdom to cut off the enemy and make him vanish. Amen. Amen. The spirit of the Lord is the spirit of wisdom. Amen. And that is what is going to be our great strength in dealing with the enemy. The spirit of wisdom. Isaiah 59:1 19. The

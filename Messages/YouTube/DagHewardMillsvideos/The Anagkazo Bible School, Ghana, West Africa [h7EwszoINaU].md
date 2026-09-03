@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=h7EwszoINaU"
 duration_min: 5
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Anagkazo and Compelling"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/anagkazo-and-compelling"]
 ---
 
 foreign causal Bible and Ministry Training Center was founded in 1996 by the presiding Bishop of the United denominations originating from the lighthouse group of churches Bishop dag Hewitt Mills Diana caused the Bible and Ministry Training Center is located in the eastern region of Ghana during the every manpong mountains many potential students don't get the chance to travel and experience the campus for themselves if this is you there is a quick tour of what to expect when attending the anacase Bible and Ministry Training Center thank you foreign causal Bible and Ministry Training Center is a place

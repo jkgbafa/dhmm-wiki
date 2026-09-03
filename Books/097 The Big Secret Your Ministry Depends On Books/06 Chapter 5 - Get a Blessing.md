@@ -4,6 +4,8 @@ book: "The Big Secret Your Ministry Depends On Books"
 book_number: "097"
 chapter_number: 6
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 ### Chapter 5\

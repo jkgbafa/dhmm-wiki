@@ -9,6 +9,8 @@ duration_min: 96
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE TENT MINISTRY  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001 [_E_9mpy2HJc]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 Welcome to track number fourteen. Apostles of thousands. I want to share with you about the tenth ministry. The tenth ministry. Acts chapter 18.

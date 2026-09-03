@@ -9,6 +9,8 @@ duration_min: 103
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/OBLIGATIONS TO TRAVEL MAMPONG, GHANA  DAG HEWARD-MILLS  2015 [snbG32YbpqU]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 I must go away. I must go away. Oh, my way down here on earth is done. And while I'm gone away, I will be building you a place. Then I'm coming again to take you back to live with me.

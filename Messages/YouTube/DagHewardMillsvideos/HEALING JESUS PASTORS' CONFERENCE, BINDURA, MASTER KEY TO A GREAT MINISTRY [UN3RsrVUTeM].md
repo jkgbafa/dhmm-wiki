@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=UN3RsrVUTeM"
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Vision and Direction", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/vision-and-direction", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Shepherd of my soul I give you full control wherever you may be I will warn oh I have made a joy to Lisbon for your home wherever you may be I will go Lord you're the Shepherd of my soul I give you full control wherever you may leave I will follow I have made a choice to listen for your wherever you may be I will go is the quiet pastures oh my crystal stream the Shepherd of my soul is by my side in should I face the mighty mountain or a valley darkness be the Shepherd

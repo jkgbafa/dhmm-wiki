@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=0AtpoKXqfWU"
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 hallelujah let us pray Heavenly Father thank you so much for this morning thank you for the opportunity that we have in you to come before your word to receive your word Lord we are asking that you guide us let your will be done thank you for this great opportunity to grow stronger in you in Jesus name we pray amen you may be seated are you glad to be in church very good I want us to look at Ephesians chapter 6 this morning I bring you greetings from Nigeria as pasta Eddy bishop Eddie said greetings from

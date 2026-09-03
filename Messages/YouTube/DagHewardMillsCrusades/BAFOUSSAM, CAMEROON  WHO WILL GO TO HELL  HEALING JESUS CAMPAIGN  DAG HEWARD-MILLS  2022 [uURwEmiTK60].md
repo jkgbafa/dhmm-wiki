@@ -9,6 +9,8 @@ duration_min: 103
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/BAFOUSSAM, CAMEROON WHO WILL GO TO HELL HEALING JESUS CAMPAIGN DAG HEWARD-MILLS 2022 [uURwEmiTK60]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah Tove to Sal over son to Blue for blue for to to serve s to you is hey May go to every that L AB for ab friend the and I be you crushes you B you my friend to you to ser more me me you me to sh us come come come blue go Shante sh you you are you are problem are are wow Hallelujah amen tonight is the third night in baam and the third night or the third day is very special in Christianity because that is when Jesus rose from the dead so

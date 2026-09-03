@@ -8,6 +8,8 @@ year: 2016
 duration_min: 142
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 while standing why don't you welcome Bishop as he comes you know 15 years ago we had a camp here in America 2001 it's 15 years ago and uh I was talking to Dr Nosh yesterday he was saying they said 15 years ago when I came here and I preached about this uh it just he said to me it's the same thing you are saying but now 15 years later because of sufferings and experiences and other teachers have come into the picture teachers of Life the message that I'm preaching is far more received than it was

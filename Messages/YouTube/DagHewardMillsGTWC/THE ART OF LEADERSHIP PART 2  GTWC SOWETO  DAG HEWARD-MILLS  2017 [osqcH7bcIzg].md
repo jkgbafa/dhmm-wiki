@@ -8,6 +8,8 @@ year: 2017
 duration_min: 147
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Leadership", "Leadership/Art of Leadership", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/leadership", "topic/leadership/art-of-leadership", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 What a blessing. What a blessing. Chapter 68. The art of leadership. I am sharing with you some of the things I don't usually talk about. I just wrote them but I believe that it's good that I share a few in our conference. Now the next very important point is make people obey you when you are not present with them. Make people obey you when you are not present. Galatians 4:18. Galatians 4:18. It is good to be zealously affected always in a good thing and not only when I am present with you. It is good to

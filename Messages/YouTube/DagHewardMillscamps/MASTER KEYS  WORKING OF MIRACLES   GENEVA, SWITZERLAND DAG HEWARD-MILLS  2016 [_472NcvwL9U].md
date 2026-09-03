@@ -8,6 +8,8 @@ year: 2016
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number seven of Stir It Up number number what fourth master key work it out Miracles Miracles you don't wait for miracles you don't wait for miracles did you know that I'll show you since you doubt what I'm saying I said you don't you didn't know I just that you didn't know but you believe look at the list of Miracles manifestation of the spirit 1 Corinthians 12:7 is given to everyone 1 Corinthians 12:8 one is given the word of wisdom one is given the word of knowledge by The Same Spirit another Faith another

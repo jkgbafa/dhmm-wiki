@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6DMk7v3zM6E"
 duration_min: 219
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah hallu thank you Jesus sing here we are here we are lifting our hands lifting our hands to you here we are here we are we're giving you thanks giving you thanks for all you do and as we pray as we pray we worship and worship your Holy Name you are here you are here you're dwelling dwelling within our pray for every answered prayer for every answered prayer for always being there for always being there for arms for arms that us when we call for arms that lift us when we call you have always been

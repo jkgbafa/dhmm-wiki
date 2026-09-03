@@ -8,6 +8,8 @@ year: 2013
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 2 Timothy 4:3 for the time will come when they will not endure sound Doctrine and after their own lusts they shall Heap to themselves teachers having itching ears and they shall turn away their ears from the truth amen so overcome itching ears what does that mean don't allow people to dictate at what you preach cuz what is an itching ear when somebody has an H he says scratch me here here so he doesn't want you to scratch anywhere there so when a person has 18 years he wants you to do a particular sensation that's what

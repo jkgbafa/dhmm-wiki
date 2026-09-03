@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8psapFlLdx0"
 duration_min: 197
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/church-growth", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 I used to be a dual Christian this means that like some Christians I used to go to church occasionally but I had no relationship with Jesus at all I found all my excitement in the world even though I used to go to church sometimes one day a little girl called Lauren knocked on my door and invited me to church even though I honored her invitation I am not stubborn always giving excuses running dodging but God still sends me people and Shepherds who cared for me and helped me to get established so when I came to

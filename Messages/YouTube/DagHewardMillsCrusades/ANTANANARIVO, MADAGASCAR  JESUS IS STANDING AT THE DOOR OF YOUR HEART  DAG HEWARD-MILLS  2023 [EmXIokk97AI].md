@@ -8,6 +8,8 @@ year: 2023
 duration_min: 170
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 praise the Lord praise the Lord praise the Lord glor glor glor you the Bible says let everything that has breath praise the Lord today is the final and the last day five of healing Jesus campaign in Madagascar precisely in antaro and the excitement the jooy the atmosphere um right at the stadium the rugby stadium where um the healing campaign is taking place this afternoon is something you have to get to see um yourself as we are talking right now the evangelist is already on the stage already there about to begin so um we are going

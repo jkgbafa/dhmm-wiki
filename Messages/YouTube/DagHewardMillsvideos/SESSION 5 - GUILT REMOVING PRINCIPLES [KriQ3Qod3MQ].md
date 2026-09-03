@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=KriQ3Qod3MQ"
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Call of God", "The Call of God/Responding to the Call", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 my lord again I'll choose today my life all around you gave your die let me free and serve you for the rest of my day hold on my vision to be on this your mission or or that I will do your way away how BIG's your way appreciative and and you returned my life or hell you gave me and so much serve you for the rest of my day Oh Oh No Oh hallelujah you may be seated you are more songs no problem I want to talk with you a bit about full-time ministry how many

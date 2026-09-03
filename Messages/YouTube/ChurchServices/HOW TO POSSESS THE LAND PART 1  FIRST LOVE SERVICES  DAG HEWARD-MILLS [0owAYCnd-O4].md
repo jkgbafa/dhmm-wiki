@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=0owAYCnd-O4"
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 when you're wey feelings more when tears of your eyes I will dve more oh morning oh when times get right found like all the troubl water Jesus sa your light light can reach all troubl water Jesus says your when you down and when you're on the street when he been fall so hard I will come with you how take your hand with the darkness come andain is all around my glory over water Jesus saes your life Jesus saves your over TR Jesus sa Soul Jesus sa your soul St on Child of God say Lord your

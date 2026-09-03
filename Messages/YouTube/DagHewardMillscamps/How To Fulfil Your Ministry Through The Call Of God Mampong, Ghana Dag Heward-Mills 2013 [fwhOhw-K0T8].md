@@ -8,6 +8,8 @@ year: 2013
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Call of God", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/ministry-and-pastoring", "topic/the-call-of-god", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 number one was what the mercy that determines you fulfilling the will of God number one is what the mercy number two is what separ the separation you fulfill your ministry number three is what the will the will number four is what the call the call yeah you see you're now getting deeper the call the call it's only now that we are going to ask whether you are called but by this time you are followed the love and the mercy you have accepted the separation isn't it and you have sought for the mystery of his will

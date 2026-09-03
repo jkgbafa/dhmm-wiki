@@ -8,6 +8,8 @@ year: 2001
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 well welcome to track number four of victory in pegamos glory to God word to God now how many reasons do you have for being so winners 24 huh fact when you go you tell the people that Char I have more reasons than you okay the next reason why you should be a s winner after the so reasons I'll give you more before we leave but just let me give you three three of chge to add to the 24 before we continue the next reason why we must be so witness is so that we do not

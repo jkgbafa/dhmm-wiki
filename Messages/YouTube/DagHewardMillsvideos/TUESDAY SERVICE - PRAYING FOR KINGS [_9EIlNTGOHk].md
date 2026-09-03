@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_9EIlNTGOHk"
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 couple of special couples okay several view the route those who haven't done it married couples only not beloved right so make sure you come learn how to tackle to Chicago what a shock anyway so it's going to be a wonderful night I believe Thursday night right here I mean at the forecourt of the idli Chapel so after the service the tickets are here at the service will all be around I think twenty series per couple that's all can you believe it so the other other gates then you have to begin to suspicious of your husband

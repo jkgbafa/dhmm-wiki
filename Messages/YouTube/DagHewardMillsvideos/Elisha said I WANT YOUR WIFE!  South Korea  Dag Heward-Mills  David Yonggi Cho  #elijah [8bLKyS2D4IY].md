@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8bLKyS2D4IY"
 duration_min: 9
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 Elisha Elisha was a very clever servant he followed Elijah for many years and one day Elijah asked him what do you want from me I want to ask you as you've come to Korea what do you want from David Young Elisha turned to Elijah and said I want your house Elisha turned to Elijah and said I want your money Elisha turned to Elijah and said I want your wife when you go I want your wife I want your wife your wife is very beautiful I've been watching her for years all these would have been easy

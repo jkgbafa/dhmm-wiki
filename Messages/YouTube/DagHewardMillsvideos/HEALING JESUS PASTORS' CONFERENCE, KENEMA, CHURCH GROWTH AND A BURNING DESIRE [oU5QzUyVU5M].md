@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=oU5QzUyVU5M"
 duration_min: 131
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth"]
+tags: ["topic/church-growth"]
 ---
 
 Oh hallelujah hallelujah are you glad to be here this morning you're glad for this morning father thank you for the great presence of your spirit we thank you in Jesus name Amen on me how many year past it I'm gonna put on a path to them how many our church workers I'm gonna play do not talk or call them how many how many wants to be pastored I'm an alpha bleep buzzer there are no pastor I do you want to be a you know to pass the Ralph or be passed on how many just wants

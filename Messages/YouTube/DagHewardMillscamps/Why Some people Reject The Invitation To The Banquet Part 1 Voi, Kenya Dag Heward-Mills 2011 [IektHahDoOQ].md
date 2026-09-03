@@ -8,6 +8,8 @@ year: 2011
 duration_min: 196
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 something very deceptive amen and uh you need to be very careful that as we are here one of the things you you must be very conscious about is that there are devils amen amen there are devils that will tempt you to follow them they are devils they are devils they are evil spirits amen and you must really determine that you will not follow a devil amen and that devil is not a we smoker it's not a prostitute who will come into the church that devil can be a Shepherd that devil can be a pastor that

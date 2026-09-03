@@ -8,6 +8,8 @@ duration_min: 61
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/DON’T MAKE LIGHT OF YOUR CALLING QODESH CITY CHURCHES DAG HEWARD-MILLS [bIbomsUEbS4]]]"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 Okay, I think I better preach before I don't. But this is preaching. This is not preaching. Now, I've been talking about the importance of the call. And today, I just want to say one reason why people do not fulfill their call is because they make light of their calling. Right? Don't make light of it when somebody invites you to go preach. You better wear a suit or something that they would see that you are serious. Somebody invites you. Don't make light. You have to understand how they see the program. They see it as a great

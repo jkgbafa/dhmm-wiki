@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=dpK_D2DIQ5U"
 duration_min: 221
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 HJ Hallelujah welcome everybody to our flow prophetic encounter and um we are here to encounter God prophetically can I have an amen can I have a better amen can I have a smiling amen wow I can see an oily anointed face in the studio and I know God is with that person right now can I hear you say Amen don't wipe the anointing let it stay on you because it's a sign that God's power is on you Hal Hallelujah now we want to spend some time to pray and um spending time already and um if

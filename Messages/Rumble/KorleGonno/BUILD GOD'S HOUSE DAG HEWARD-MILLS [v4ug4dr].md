@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ug4dr/"
 duration_min: 75
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I know the pain you feel and sight and the tears you try to have in your heart you asked why can you help me will you help me please take away the pain where the sun of feel the rain then I hear your spirit say I am on free to live my hand free to know that someday I was right again I'm free to love not cry free to live not die because of your love I'm free I know the trouble by your past and the mat you try to hide the misery seems to lie through the night that it's all right, just the pain away, don't look back at yes today, then I hear your spirit say to live my head all that I will smile again, I'm free to love, not fly to live, not dieful no more pain and loneliness for Christ sent me free we are more than conquerors by your blood I be free because I'm free free to live my head to know the Saturday I was fine, I'm free to know free to live, no doubt.

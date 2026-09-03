@@ -8,6 +8,8 @@ year: 2010
 duration_min: 174
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Vision and Direction", "Vision and Direction/The Will of God", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/prayer", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 now let me give you 25 things that happen when you do the will of the Lord amen am doing the will of God number one makes you a close relative of Christ makes you very close to Christ wow Bible says and the multitude sat down in Mark chapter 3 verse 32 and they said unto him Behold thy mother and thy Brethren without seek for thee and he answered them saying who is my mother all my brethren and he looked round about on them which sat about him and said behold my mother and my brethren for

@@ -8,6 +8,8 @@ year: 2000
 duration_min: 41
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 10 with me to second Corinthians chapter 6 second Corinthians chapter 6 and we want to read this number 14 we have back to the second principle we just want to you know straight a few points there second corinthians chapter 6 verse 14 it says be not unequally yoked together with who unbelievers for what Fellowship has righteousness with unrighteousness and what communion has light with darkness and what Concord hand what agreement has the temple what Concord hath Christ with Belial or what part hath he that believeth with an infidel and what agreement has the temple of

@@ -9,6 +9,8 @@ duration_min: 75
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHERE SATAN DWELLS AND FLOURISHES   BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2010 [0H5ZpMGOX_U]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to track number one of Advancing in Pegamos. Thank you for a very warm welcome. I'm glad to see that the Lord is blessing you. Last year we were here at the camp, and we are here again. What I realized when I was coming for the camp was that the time had not been adjusted from last year's camp time.

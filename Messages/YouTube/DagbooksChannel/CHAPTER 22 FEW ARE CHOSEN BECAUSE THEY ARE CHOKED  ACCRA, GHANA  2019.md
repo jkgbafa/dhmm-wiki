@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2019
 source: "autocaption"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, thank you for the blessing we have today in your house. We are excited to be here in Jesus' name. Amen. Amen. You may be seated. Are you glad to be in church? Amen. Psalm 20. I want us to pray a little. Verse one. The Lord hear thee in the day of trouble. The name of the God of Jacob defend thee. send thee help from the sanctuary and strengthen thee out of Zion. Stand to your feet, please. We are praying that the Lord hear thee in the day of trouble, and the name of the God

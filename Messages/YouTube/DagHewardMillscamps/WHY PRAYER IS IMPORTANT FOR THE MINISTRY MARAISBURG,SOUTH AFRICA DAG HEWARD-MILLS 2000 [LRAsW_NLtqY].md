@@ -9,6 +9,8 @@ duration_min: 48
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHY PRAYER IS IMPORTANT FOR THE MINISTRY  MARAISBURG,SOUTH AFRICA  DAG HEWARD-MILLS  2000 [LRAsW_NLtqY]]]"
+topics: ["Anointing", "Ministry and Pastoring", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Is that if you don't pray? Or you don't understand. We must believe in prayer. I believe very, very much in prayer. I cannot lie to you.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jqK0XIL11vM"
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 praise the Lord hallelujah the Bible says in lamentation chapter 3 lamentation 3: 22 the Bible says that it is of the Lord's mercies that we are not consumed because his compassions fail not the verse 23 says they are new every morning great is thy faithfulness and so we want to begin to pray wherever you find yourself you want to rise your feet and let's begin to pray and thank the Lord for a new day let's thank the Lord in the name of Jesus let's begin to pray thank the Lord for his mercies thank the Lord

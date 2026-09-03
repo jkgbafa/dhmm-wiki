@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=PNECihsxHTU"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wisdom"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wisdom"]
 ---
 
 we want to invite the star of the stars with the Stars are you excited about it's so fantastic come on put your hands together for lady and the STS why don't you put your hands together it it early in the morning as the noon days Dawn I love to listen to you talk to me and I want to talk to you early in the morning ask the no day is morning I love to listen to you talk to me and I want to talk to you early in the morning when I awake it feels so

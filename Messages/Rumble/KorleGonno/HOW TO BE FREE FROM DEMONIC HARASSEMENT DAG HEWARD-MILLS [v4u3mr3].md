@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3mr3/"
 duration_min: 60
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology"]
 ---
 
 The Bible says, call unto me, and I'll show you great and mighty things. I believe God is going to show you somebody today. After we go, He will answer us as we cry, He will hear us, hallelujah. If we called, He will answer, we run, He will run to us, if we are He will praise us, if we come, if we go, if we call to Him, if we call He will never run, give the rest to us, give the way to the way all these things, but to God to God, our friend, I string Draw near to him, draw near to me, He is here, give me a hurry, joy, draw the joy, draw the two, he is here, give me your head, your rain, simple joy, single joy to God, I see God, I try to sing for joy, single joy, all joy, God's name.

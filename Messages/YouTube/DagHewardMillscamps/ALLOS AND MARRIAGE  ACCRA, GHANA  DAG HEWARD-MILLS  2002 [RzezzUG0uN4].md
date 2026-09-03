@@ -8,6 +8,8 @@ year: 2002
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 of Al secrets of Al are the access ready they ready for S all right Get Ready Get Ready Get Ready Get Ready Get Ready Get Ready Get Ready understand secrets of our l number one when you are dealing with an Al you are dealing with something that is not new so I'm okay I'm sharing with you what I call alosis of Ministry alosis of ministry there are many things of the same kind that you are going to see in the ministry you get it a Lo of Ministry there are many things of the same kind

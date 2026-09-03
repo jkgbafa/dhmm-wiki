@@ -9,6 +9,8 @@ duration_min: 119
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/FREETOWN, SIERRA LEONE THE HOUSE UPON A ROCK HEALING JESUS CRUSADES DAG HEWARD-MILLS 2012 [hti-WPKHzKU]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 soon and very soon we are going to see the king soon and very soon we are going to see the king soon and very soon we are going to see the king hallelujah hallelujah we are going to see King oh soon and very soon we are going to see K oh soon and very soon we are going to see the you yes soon and very soon we are going to see the king hallelujah hallelujah we are going to see the king and no more crying that we are going to see the king no no more

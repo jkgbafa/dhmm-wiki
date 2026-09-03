@@ -4,6 +4,8 @@ book: "Those Who Rebel"
 book_number: "094"
 chapter_number: 6
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ### Chapter 4\

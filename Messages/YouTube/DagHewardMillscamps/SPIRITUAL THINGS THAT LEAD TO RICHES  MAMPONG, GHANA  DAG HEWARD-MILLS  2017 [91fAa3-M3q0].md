@@ -8,6 +8,8 @@ year: 2017
 duration_min: 154
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 moao r B randia thank you Lord thank you Lord we honor you Lord in this place for we've not come to meet any other God but you the God who walked on the Seas the god who caused the dead to rise the god who caused the blind to see the god who caused the mountains to be moved this is the god that we have come to meet and amazingly we've come to the mountain of the Lord's camp and on this mountain shall we encounter the Lord lift your two hands with me to Heaven everybody lift

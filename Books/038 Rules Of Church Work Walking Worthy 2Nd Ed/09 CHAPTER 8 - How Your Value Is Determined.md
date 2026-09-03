@@ -4,6 +4,8 @@ book: "Rules Of Church Work Walking Worthy 2Nd Ed"
 book_number: "038"
 chapter_number: 9
 type: book
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 ### CHAPTER 8 

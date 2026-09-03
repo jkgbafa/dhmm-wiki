@@ -8,6 +8,8 @@ year: 2025
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah. What a great honor it is to be here at the glory dome. Let us pray. Father, thank you for today. Thank you for the privilege to be here to share your word. We're grateful for your mighty power that is at work. Thank you for the glory dome. Thank you for the pastors, the great leaders of many churches that are here. We pray Lord that these few moments we have together. You will move by your spirit. Touch our lives. Open the windows of heaven, the doors and bless your children. Bless your servants. Lift your hands

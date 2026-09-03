@@ -8,6 +8,8 @@ year: 2005
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Hallelujah. Shall we pray? Heavenly Father. Thank you so much for this morning. Thank you so much for the opportunity today to be in your presence.

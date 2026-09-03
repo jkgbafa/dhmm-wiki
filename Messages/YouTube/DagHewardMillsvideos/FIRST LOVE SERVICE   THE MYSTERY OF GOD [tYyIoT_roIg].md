@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tYyIoT_roIg"
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh Oh oh yeah we in the land Wow ah Oh ha Hey Oh you'll never leave your office you know yeah ah Oh we Oh what up yeah Oh oh Jesus amen hallelujah Oh Oh you know you've got pusher and Aparna top your mind very tough Irishman fade you can apply batches of Japan seemed so hard every day but work Jesus is the way ah Oh hello you've got and here you can subscribe I know you've got the dark finger motion in case you don't know every word of God is everything from you do it

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=1AWrkdqyQpg"
 duration_min: 176
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 like a poverty his children like a shepherd leads his flock the Lord will always light up and show us where you are and in times when we have plenty times when we have none these are provider and His mercy never stop like I said ELISA like a father he's been so from the morning to the evening till the sunrise again like a shepherd ELISA my father visa oh yeah he is the great I am happy coming to hit whether a class in here as along his holy spirit paisa he feeds us club is why we

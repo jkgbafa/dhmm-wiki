@@ -9,6 +9,8 @@ duration_min: 37
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Recap with Bishop Henry Oti Frimpong Mampong, Ghana Dag Heward-Mills 2025 [1ffZYTJcU4g]]]"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 You may be seated. How many want more? You have to sleep first. When you feel sleepy as you are going to die, then we do. Now that you are alive, I think we've learned wonderful things. Daddy is teaching us about not being a novice. First Timothy 3:6. This camp is loaded. I say it's loaded. And tomorrow we are going back. Oh, we should go Friday. How many want to go Friday? Okay. So, we will reserve one bus for all those who want to go on Friday. The rest will go tomorrow. not a novice less being

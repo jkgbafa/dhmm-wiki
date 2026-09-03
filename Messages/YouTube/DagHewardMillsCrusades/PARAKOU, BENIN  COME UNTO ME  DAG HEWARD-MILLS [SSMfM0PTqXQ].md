@@ -8,6 +8,8 @@ duration_min: 263
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/PARAKOU, BENIN COME UNTO ME DAG HEWARD-MILLS [SSMfM0PTqXQ]]]"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 no demon is operating here I'm here we must learn how to rule in Christ Jesus instead of slapping us and kicking us about no more when you wake up in the morning and your child is maybe high fever and it's conversed you don't stand and oh what do I do oh oh no you don't do that again because you are seated as a king you say where did you come from fever vanish in the name of Jesus go thank you hallelujah amen if you have received your healing and your leg was like this but now

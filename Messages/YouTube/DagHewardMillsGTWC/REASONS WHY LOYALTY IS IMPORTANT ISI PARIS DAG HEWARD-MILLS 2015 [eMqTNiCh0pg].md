@@ -9,6 +9,8 @@ duration_min: 129
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/REASONS WHY LOYALTY IS IMPORTANT  ISI PARIS  DAG HEWARD-MILLS  2015 [eMqTNiCh0pg]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 One of the great keys for transformation of the ministry is loyalty. Faithfulness. Amen. Amen. What is the meaning of the word loyalty?

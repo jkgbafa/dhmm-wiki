@@ -8,6 +8,8 @@ year: 2007
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting"]
 ---
 
 the next one is number whatever n the importance all right of the children okay of the household being made to keep the W the ways of the Lord in faithfulness amen wow God Wants You the children amen it's very important for children of the house okay to keep Genesis 18: 19 it says for I know him all right that he will command his children and his household after him amen I was I was uh privileged to meet with um one of these uh people you see on television all the time preaching and uh I spoke

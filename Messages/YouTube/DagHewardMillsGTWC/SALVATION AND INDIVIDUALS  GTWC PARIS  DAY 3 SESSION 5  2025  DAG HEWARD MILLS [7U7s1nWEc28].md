@@ -8,6 +8,8 @@ year: 2025
 duration_min: 8
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 Section number 4, salvation and individuals. My favorite is, can you preach ? You don't know what to say? Always remember, Z was little. This is how you can learn how to preach about Zechariah. He was a little boy and the Bible states that the crowd was around him. Amen. Everyone is repeating. Repeat after me. Zach. That's a very good message. Open the book on Zach, the chapter. The Bible states that the crowd was around him. Yes, he couldn't see. Now, are you listening to me? How many people learn how to preach? Are you learning how

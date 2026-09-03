@@ -8,6 +8,8 @@ year: 2005
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 welcome to track number six of perfection is God before family God before family zimo God before you see I I didn't want to preach this message to ordinary Christians in I waited for you you came all right what's the first step to perfection T huh tests when God tests you it means you are going higher or you've reached somewhere and it's not bad you're not bad so you have been passing so far and the next step to Perfection is what huh sacrifice your Isaac okay next step is what immediate action early in the morning the

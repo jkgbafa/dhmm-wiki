@@ -9,6 +9,8 @@ duration_min: 54
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/DECEPTIONS OF DISLOYALTY BEATENBERG, SWITZERLAND DAG HEWARD-MILLS 2010 [1hvwhL8_16I]]]"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 welcome to track number eight of advancing in pegamos but like Jesus said to Martha that Jesus said to Martha that Mary has chosen the right thing and you make yourself busy about so many things and that's the reality it's a common thing many women make themselves extra busy about things that are not necessary you get what I'm saying and they always have a reason over here we do this over here we do this over here I'm sick of those kind of things but those things they irritate me when I hear them because it is as

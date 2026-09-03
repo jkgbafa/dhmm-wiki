@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=utYxjFXVEKA"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 said never give up said never give up never for give up don't give up your faith can you help me say never give up Christi man I want to tell you not to never give up never ever don't you ever know never give up Christi man I want to tell you don't you ever ever one more time say never give up Christian man I want to tell you not to never give up don't you ever never ever know never give up Christian man I want to tell you never ever ever don't give up your say

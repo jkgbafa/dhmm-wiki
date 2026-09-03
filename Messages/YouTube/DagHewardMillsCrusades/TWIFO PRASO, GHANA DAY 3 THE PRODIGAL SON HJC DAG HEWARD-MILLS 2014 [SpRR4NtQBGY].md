@@ -8,6 +8,8 @@ year: 2014
 duration_min: 124
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah. Pra so for the moose Jesus. Yet I was young. Now you didn't see about my Jesus. Oh, so I didn't see about my Jesus.

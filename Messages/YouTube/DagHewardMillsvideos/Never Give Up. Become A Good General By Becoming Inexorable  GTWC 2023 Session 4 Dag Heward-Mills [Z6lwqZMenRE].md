@@ -8,6 +8,8 @@ year: 2023
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 Hallelujah father thank you for the guidance of your spirit thank you for the leading of the Holy Spirit to do your will perfect a volunteer we are grateful speak to our hearts and lead us we pray it's a it's in the name of Jesus Christ and everyone said amen amen you may be seated chapter 12. 00 a good General and inexorability everybody say inexorable to what means inexorable it means and yielding and all terrible it means in not to be persuaded or moved amen amen inexorability in the mission yes wait now it is important that

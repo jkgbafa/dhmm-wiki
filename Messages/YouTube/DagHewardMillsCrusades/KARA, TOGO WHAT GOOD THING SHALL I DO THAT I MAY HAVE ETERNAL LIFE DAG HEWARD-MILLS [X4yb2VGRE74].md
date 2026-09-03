@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=X4yb2VGRE74"
 duration_min: 131
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 You may be seated tonight. This is exciting. Tonight is a special night for somebody here. Special for kill you see. God is going to give everyone a miracle tonight.

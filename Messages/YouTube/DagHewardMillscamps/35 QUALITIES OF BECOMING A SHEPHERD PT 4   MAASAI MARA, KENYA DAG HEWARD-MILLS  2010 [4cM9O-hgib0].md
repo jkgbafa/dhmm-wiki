@@ -8,6 +8,8 @@ year: 2010
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 stand stand stand do they look Angelic stand come come another Angel come Angel one what do you think Angelic sit down sit down she sings Like An Angel Angelic you see her wow come come to this side come to this side wow wow Angelic Angel wow Ang Angelic wow Angelic wow Angels come wow wow this a fair angel songs songs of Solomon my beloved is fair wow wow wow wow wow hey when you are new you will think that they are all Angels but when you have stayed around for some time God then you will

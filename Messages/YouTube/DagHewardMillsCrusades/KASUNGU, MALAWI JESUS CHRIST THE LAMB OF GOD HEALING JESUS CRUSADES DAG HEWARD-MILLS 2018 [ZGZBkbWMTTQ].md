@@ -8,6 +8,8 @@ year: 2018
 duration_min: 115
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Greetings in the name of the Lord Jesus Christ. On behalf of the Evangelical Session of Malawi, I would want to take this opportunity tonight to welcome our evangelists. Particularly here in Kasungu. But also, I would want to take this opportunity. To welcome the entire team within the healing Jesus Christ.

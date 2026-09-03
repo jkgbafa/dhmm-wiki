@@ -8,6 +8,8 @@ year: 2004
 duration_min: 64
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 What are all these examples? The people are tired, they are going to work and so on. What are all these examples? Today that guy has rebelled, rebelled against me. Watch people who they don't want all the training and so on.

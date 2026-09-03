@@ -8,6 +8,8 @@ year: 2016
 duration_min: 9
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number eight of where is the flock that was given thee Hallelujah are you been blessed wow wow stand to your feet and then you sit down again yeah stand to your feet say hello to the person standing next to you say hello to the person to your right hand side say hello to the person behind you and I'll take your seats did you try the person behind you yes sure wow so what have you learned today you must be full full full of what the word full of the word and full of

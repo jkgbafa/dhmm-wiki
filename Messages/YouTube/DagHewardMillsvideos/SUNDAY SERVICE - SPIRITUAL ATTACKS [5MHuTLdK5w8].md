@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=5MHuTLdK5w8"
 duration_min: 65
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 if you're looking for somebody to praise you look my way every day i get a little bit closer closer to you lord you have my heart you have my soul my mother and if you're looking for somebody just to give me praise look my way and look every if look my looking for somebody to just a passion if you're looking for somebody to pray amen are you excited to be in church this morning well if you celebrated your birthday in the past week we want you to come to the front and we'll pray with you

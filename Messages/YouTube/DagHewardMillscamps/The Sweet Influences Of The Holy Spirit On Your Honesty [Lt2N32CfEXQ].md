@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Lt2N32CfEXQ"
 duration_min: 91
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 it was but yesterday you were a baby but so soon you going to and before you know it you become a lady or a man with children too then your health and strength begins to fail you and you say that what shall I do because the days and years you may have wasted maybe memories hunting you so you see my brother the life is so sh it pass so quickly and soon it's gone you just have one life to live on Earth so remember your creator you have and so you see my brother the life

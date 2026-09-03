@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/IS046-PETER-CROSSE
 duration_min: 127
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit"]
 ---
 
 When you have a word to do and the task ahead seems bigger than you, that's when he steps in. And when you know in your heart that God's command takes more than can be done by man, that's when he steps in. He sees you at the point of your need. He sees you at the point of crossing your Red Sea. And in that moment you call, when you've given your all, he steps in, he steps in.

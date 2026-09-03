@@ -9,6 +9,8 @@ duration_min: 60
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHOLISTIC SHEPHERDORIAL MINISTRY  ACCRA, GHANA  DAG HEWARD-MILLS  1997 [a1PtEPzZvtc]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number nine of loyalty in the mega church. Move on. We are at the camp. We are sharing about keys to how to become a successful shepherd, isn't it? Keys to shepherdorial success.

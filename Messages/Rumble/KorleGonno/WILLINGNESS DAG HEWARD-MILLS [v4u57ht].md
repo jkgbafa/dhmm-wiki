@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u57ht/"
 duration_min: 43
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, we thank you for this offering we have received. We pray, Lord, for blessings upon your people who have given, they have given their best and their monies and their labor. We thank you, Lord, for your great encouragement in this church and prosperity, Lord. We bless you, Father, and we pray that as we come before your word, we will be humble, we'll receive it, and we'll go forward to do your will in Jesus' name. Amen.

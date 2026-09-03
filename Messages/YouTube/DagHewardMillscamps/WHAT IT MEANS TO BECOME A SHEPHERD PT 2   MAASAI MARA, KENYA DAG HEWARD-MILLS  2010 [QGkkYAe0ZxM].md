@@ -8,6 +8,8 @@ year: 2010
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number two of the privilege sit down please what it means to be called to be a Shepherd number one it means to be called out to be summoned distinctly amen many disregard this heavenly privilege to their own head to be called by God is a far greater privilege than to be appointed to the White House if you are a Shepherd in lighthous you are you are far more privileged than Obama Obama does doesn't come anywhere near you yeah we are talking about righteousness that endures forever we are talking about being remembered forever

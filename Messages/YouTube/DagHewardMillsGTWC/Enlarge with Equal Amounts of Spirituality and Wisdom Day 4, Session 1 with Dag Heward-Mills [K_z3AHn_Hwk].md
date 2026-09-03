@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=K_z3AHn_Hwk"
 duration_min: 195
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wisdom"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wisdom"]
 ---
 
 Father, we are so excited. Thank you for your word. Merci pour ta parole. Thank you for your spirit. Merci pour ton esprit.

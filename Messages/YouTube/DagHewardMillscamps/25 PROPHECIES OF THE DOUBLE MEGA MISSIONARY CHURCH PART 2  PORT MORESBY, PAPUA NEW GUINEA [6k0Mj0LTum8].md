@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6k0Mj0LTum8"
 duration_min: 65
 source: "autocaption"
 match: "exact"
+topics: ["Missions", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/missions", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 beautiful number four Jeremiah 30: 19 we're going for lunch but before the lunch there's prophecies am and out of them Jeremiah 30: 19 out of them shall proceed Thanksgiving and the voice of them that make men and I will multiply them I will what I will multiply them and they shall not be F wow wow and I will also glorify them and they shall not be smoked amen amen their children also shall be as a four time and they called congregation and will be established before me and I will punish all them that oppress them

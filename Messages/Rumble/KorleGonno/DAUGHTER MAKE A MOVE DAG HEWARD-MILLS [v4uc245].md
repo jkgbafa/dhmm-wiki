@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uc245/"
 duration_min: 86
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 Said it's because of Jesus. He is love. Amen. In spite of our faithlessness. He has continued to be faithful to us.

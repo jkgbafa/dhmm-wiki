@@ -8,6 +8,8 @@ year: 2012
 duration_min: 59
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 He took my pain, came to heal me, he came to stay, he won eat me, he filled my life, and it's antifought me and his name will shine shine to salvation in pain in the name of Jesus Christ, no salvation except in the name of the Lord and no salvation, no salvation accept in the name of the law Except in the name of the Lord There's no salvation salvation Salvation Christ put your hands around Jesus. Thank you, Lady Pascal. I want you to rise your feet tonight, and with great expectation, let us receive God's advice today.

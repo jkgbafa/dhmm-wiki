@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9SjAb-a8pM8"
 duration_min: 154
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Prayer/Praying in Tongues", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 God has GI us Victory he has taken away all fears what the enemy plans to do God has turn it around for good now we dance dance dance a vctor move move move us a vctor clap clap clap as the Victor we have the victory how we dance and dance and dance as the Victor as a VI clap CL clap CL clap a victim we have the victory I'm a living testimony living testimony my life is full of Glory life is full of Glory I move forward only God has given Victory I'm the son of

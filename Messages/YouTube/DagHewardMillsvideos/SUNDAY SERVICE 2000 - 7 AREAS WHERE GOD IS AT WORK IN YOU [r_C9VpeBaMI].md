@@ -8,6 +8,8 @@ year: 2000
 duration_min: 69
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 hold me with that just be ready whatever you do - don't think you're me hold me with my Swiss Verein whatever you do God don't take your joyful me find your help me pray what am I call me whatever you do whatever you do God don't paint your joyful Jasmine all the way from da I'm glad man don't take your Holy Spirit away from me man middle his jaw and glasses I want to be able to be a balmy whatever you do whatever create in me a clean heart renew the right period within me I

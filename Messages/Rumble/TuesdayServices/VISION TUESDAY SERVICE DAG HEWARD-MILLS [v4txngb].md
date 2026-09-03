@@ -7,6 +7,8 @@ url: "https://rumble.com/v4txngb/"
 duration_min: 63
 source: "whisper"
 match: "exact"
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 Where there is no vision, the people perish, but he that keepeth the law, happy is he, amen. Vision is a word. Can we all stand, please? We are reading the Bible, everybody. All right.

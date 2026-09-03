@@ -8,6 +8,8 @@ year: 2008
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 core areas for development as a minister how many want to develop these core areas the first one is stromi stomi spell is t St r a t e u m o huh u m a i sorry s r why you don't speak Greek okay s t r a t e u o m a i okay stromi this is the first area that a core area to develop in your ministry amen now turn with me to First Timothy chapter 1 verse number 18 what does it say this charge I commit unto these son Timothy according to

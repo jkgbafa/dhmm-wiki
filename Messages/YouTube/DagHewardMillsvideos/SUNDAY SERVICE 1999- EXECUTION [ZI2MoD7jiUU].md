@@ -8,6 +8,8 @@ year: 1999
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 my need to feel safe for a long time I'll be feeling very lonely Oh I will become my heart I I will tell you leggin my life having you is my desire I would be holding back struggle clean line willing to share leaving me in a world of Kentucky Oh No I will back in my life having you in my entire I will be back Oh Oh Oh I would be my Oh Oh maiya responding to your the day was that's wonderful ministration god bless you right we've come to very important aspect of this study

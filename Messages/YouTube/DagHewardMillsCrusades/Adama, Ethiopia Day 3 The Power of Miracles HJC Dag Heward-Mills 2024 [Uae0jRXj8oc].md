@@ -9,6 +9,8 @@ duration_min: 76
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/Adama, Ethiopia Day 3  The Power of Miracles  HJC  Dag Heward-Mills  2024 [Uae0jRXj8oc]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Are you prepared for tonight? Tonight is the night of salvation. Miracle deliverance. Tonight will change your life forever. Jesus is here.

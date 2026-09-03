@@ -8,6 +8,8 @@ year: 2014
 duration_min: 142
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 hallelujah amen amen Hallelujah tonight we are privileged and blessed to have with us our very own father mother who needs no introduction giving honor to whom hon is you let us welcome to the pro Our Father Bishop Hallelujah wow sh sh Hallelujah let us pray let us pray let us pray father thank you for this time thank you for the opportunity that we have to be here we are we are blessed that you have gathered us together at this time we pray holy spirit that you take control lead us and help us we thank you

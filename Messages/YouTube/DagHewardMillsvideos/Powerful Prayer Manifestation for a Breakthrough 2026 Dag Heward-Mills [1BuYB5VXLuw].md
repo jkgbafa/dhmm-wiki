@@ -8,6 +8,8 @@ year: 2026
 duration_min: 1
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 So may God give you the upper hand and grant you the ability to solve whatever crisis or challenge may come ahead of you this year and in the years to come. And may he grant you divine escapes from wicked enemies and traps you never thought

@@ -8,6 +8,8 @@ year: 2019
 duration_min: 148
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 It's about to worship the Lord and you're sorry now the asset that I may say and you know what you would say we answer And you are the up to Napoleon so what that's what you are saying Oh gosh what's a high not him God would have we can find a woman is by grace Father we worship you so we left your dead day something something like making the name great greater make an adoration magnify the name of the Lord Oh salute the holy name place his name Thank you Jesus Thank you Jesus Thank you Jesus We lift your name We lead your name I want to invite the Holy Spirit I want the Holy Spirit to come and say I want the Holy Spirit Raise up your right hands up your right hand we are inviting the Holy Spirit to come and then take his seat come in today to say to my heart today Brahma Kumai Kenya There is one song that I want us to sing Yeah one number could be some yeah you are here Move in love You are to know Miracle Light in the darkness Lesson gets one more Miracle from this keeper light in the day Yes God Yes come yes God Yes someone was saying that me got to Kutsuah Yes yeah We we just want to give glory to God.

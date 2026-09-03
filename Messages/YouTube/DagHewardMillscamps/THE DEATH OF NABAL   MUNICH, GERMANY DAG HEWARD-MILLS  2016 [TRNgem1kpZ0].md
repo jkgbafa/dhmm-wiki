@@ -8,6 +8,8 @@ year: 2016
 duration_min: 53
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 13 of The Church Must send or it will end you may be seated please nobody should be outside can Das can you find out anybody's out they should come in now taking a break we walk around a little bit everybody should be inside and seated believe it or not the camp is coming to an end wow but is amazing and God has been kind to us amen but after this camp we will be people who listen all the time we want the voice of the Prophet to be in our houses all the time we listen

@@ -4,6 +4,8 @@ book: "Those Who Are Dangerous Sons"
 book_number: "003"
 chapter_number: 9
 type: book
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 ### Chapter 8\

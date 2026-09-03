@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=fAYVvUjkmy8"
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 C'est que tu as fait la paix la paix dans mon cœur quand je vois ce que tu as fait, je t'adore, je veux te louer au monde, c'est de tout mon cœur, je te bénis, mon sauveur dans l'affection, dans la souffrance, tout me délivrer, tu le tâches, et on n'a personne qui m'aime autant comme toi, ô mon Dieu, c'est de tout mon cœur, je te bénis, mon sauveur dans l'affection, dans la souffrance, tu me délivrer, tout le temps, et à personne qui m'a autant comme toi, quand je vois ce que tu as fait, j'ai la paix, la paix dans mon cœur, quand je vois ce que tu as fait, je t'en donne, je veux te louer, chantant, quand je vois, quand je vois ce que tu as fait, j'ai la paix, la paix dans mon cœur.

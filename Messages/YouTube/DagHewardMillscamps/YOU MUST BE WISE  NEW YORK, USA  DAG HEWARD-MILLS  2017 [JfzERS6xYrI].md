@@ -8,6 +8,8 @@ year: 2017
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Deuteronomy chapter 34 and verse 9 it says and Joshua the son of Nan was full of the spirit of wisdom for Moses had laid his hands upon him and the children of Israel hacken unto him as did um the Lord as the ended Ended as the Lord commanded Moses amen so wisdom is something that comes also from the laying on of hands amen amen so one of the ways to overcome the curse or ameliorate it or minimize it or neutralize it I should say neutralize is a better word because if you you neutralize acid with

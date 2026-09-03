@@ -8,6 +8,8 @@ year: 2001
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 what is your life Abraham was the father of Faith he pleased God and the Bible says God he believed when God spoke and God counted it unto him for righteousness because he believed in God when God spoke to him he believed and that counted it to him he was counted to him for right that is how come we begin to please God because we believe you see I'm preaching now some people believe some people don't believe some people believe to extent some people don't some people believe part some people believe so much that they're prepared

@@ -8,6 +8,8 @@ year: 2001
 duration_min: 65
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring"]
 ---
 
 welcome to track number eight of what is your life second Timothy Chapter 2 and again we are looking at are the instructions of a father a father amen I'm I'm fine I think it's fine hallelujah amen amen amen thou therefore my my friend thou therefore my colleag thou therefore my my wife my employee no my schoolmate no my girlfriend no my boyfriend no my what son my son huh what should you do my son be strong in the grace that is in Christ Jesus so I'm giving you instructions as many as we can before the

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=kFEKAiwTykI"
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/faith", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 when all is said and done and everyone is gone and everyone is gone is it really all you want lift up your hand when the best this world has when the best the world leaves me feeling themes me feeling Lord You're really are Lord You're really all I want if it's all you want sing oh that I long for all that I long all that I hope for all that I hope it's just that sense it's just that sense of you coming lift it up see all that my heart is longing all that my heart

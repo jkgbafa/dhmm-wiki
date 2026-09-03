@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-GxIqi5MDBk"
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Jesus loves me this I know for the Bible tells me so little want to him be they are weak but he is strong yes Jesus loves me yes Jesus loves me yes Jesus love me the Bible tells me so Jesus Loves Me He Who died Heaven gates to open wide he will wash away my sin and let his little child come in yes Jesus Loves Me Oh yes Jesus Loves Me yeah Jesus loves me the Bible tells me so oh yes Jesus Loves Me Oh yes Jesus Loves Me yeah Jesus loves me the B tells

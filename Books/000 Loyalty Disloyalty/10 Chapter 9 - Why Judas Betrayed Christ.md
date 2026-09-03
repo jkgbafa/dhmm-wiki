@@ -4,6 +4,8 @@ book: "Loyalty Disloyalty"
 book_number: "000"
 chapter_number: 10
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Wealth and Finances"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/wealth-and-finances"]
 ---
 
 Chapter 9\

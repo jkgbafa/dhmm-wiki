@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ug62f/"
 duration_min: 80
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Oh, we have a man. His name is Jesus. May well bury me. Come on and sing it. Me will be very baby.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=NQOssEDhI5Y"
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 c i c my caly from sit down from my he it's the way now s i i w PR I see the I see my my she she she sheble am oh super your now am hallelujah amen well we're blessed to have our daddy in the house to bless us this morning shall we please rise to our feet let's receive the bishop D heward Mills to bring us the word of God this morning Hallelujah wow let us pray father thank you for this opportunity that we have in your house today speak to our hearts we

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=CKh7uQnqUJY"
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 All we like sheep have gone astray each of us turn into our own way we have sinned and fall in short of your glory but your glory Lord is what we want your glory is where we long to dwell oh Lord help us to see your faith Can we have the lyrics please all we like sheep of God astray each of us turn into our own way we have sinned and falling short of the glory but your glory Lord But your glory Lord is what we want your glory is what is where we want to

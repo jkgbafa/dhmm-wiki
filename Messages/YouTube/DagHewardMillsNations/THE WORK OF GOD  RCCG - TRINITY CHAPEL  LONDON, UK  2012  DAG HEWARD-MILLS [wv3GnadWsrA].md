@@ -8,6 +8,8 @@ year: 2012
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 come on let's welcome Bishop tonight manifestation you are welcome you are welcome to Royal connection this is Royal connection is the house of the Lord changing expectation into in so you are welcome you are welcome to GL your protction Hallelujah let us pray just commit yourself to God this evening ask the Lord to minister to you like sent for me King has sent for you God is calling you and that is why we are are here for these few days oh yes Lord we thank you for the blessing that we have Lord to serve you

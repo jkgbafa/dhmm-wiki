@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sxfub/"
 duration_min: 106
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wisdom"]
 ---
 
 All right, Father. Thanks a million for this opportunity. We are grateful in Jesus' name. Amen. You may be seated.

@@ -8,6 +8,8 @@ year: 2002
 duration_min: 35
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 e e e welcome to track number two of the mysteries of God afraid of doing and it will work because we are all afraid but we are doing it n any questions or the preaching has no or answers all questions yes P Paul let the Americans ask that question yes that's uh name again Richard okay or do that like does the Lord explicitly I mean tell you that like the one you told the the couple you told to go to Ghana to live with you I don't know how I mean did the Lord speak to

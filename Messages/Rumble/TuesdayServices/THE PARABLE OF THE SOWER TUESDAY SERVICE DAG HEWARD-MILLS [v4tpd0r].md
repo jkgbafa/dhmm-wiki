@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tpd0r/"
 duration_min: 60
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology", "The Word and Books"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-word-and-books"]
 ---
 
 Heavenly Father, thank you for your blessing. Thank you for your word. Thank you for the privilege we have to come to you this evening. Lead us, Holy Spirit into all truth. We thank you in the name of Jesus.

@@ -9,6 +9,8 @@ duration_min: 45
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/YOU ARE SUPERNATURAL   GENEVA, SWITZERLAND DAG HEWARD-MILLS  2016 [fMV093Fd8jc]]]"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Welcome to check number one. Thank you. Thank you for your warm welcome. Merci for Vacuur Chaleux. I believe you are excited to be here.

@@ -4,6 +4,8 @@ book: "Model Marriage A Marriage Counselling Handbook"
 book_number: "104"
 chapter_number: 13
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family"]
 ---
 
 ## Chapter 10

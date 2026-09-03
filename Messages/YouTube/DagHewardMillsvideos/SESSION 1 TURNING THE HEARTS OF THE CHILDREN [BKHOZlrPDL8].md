@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=BKHOZlrPDL8"
 duration_min: 91
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 thank you please put your hands together for the Lord for this beautiful beautiful ministration sometimes they receive you sometimes they will receive you but even if they don't receive you so tell them for me that is God's mandate for us can I have a remain once again behalf of your God Mills would welcome all of you to this first night of the iron sharpening iron conferring I think the good place to put your hands together for the Lord what a blessing or a blessing to be gathered here tonight amen and so more delegates are arriving

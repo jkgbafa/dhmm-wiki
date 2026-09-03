@@ -8,6 +8,8 @@ year: 2001
 duration_min: 73
 source: "autocaption"
 match: "exact"
+topics: ["Missions"]
+tags: ["topic/missions"]
 ---
 
 welcome to track number 18 of pastors of thousands all right um now how many have obeyed the Lord before you are glad you obeyed and how many didn't know pastor Joe have you obeyed the Lord before you're glad you obeyed have you obeyed the Lord before and you are glad you obeyed come tell me why can can somebody help us to well um the first time I did obey the Lord fully had to do with tis and um sights th giving and the Lord proved himself faithful and ever since then I've never wanted in that

@@ -9,6 +9,8 @@ duration_min: 218
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE EFFECTS OF YOUR CROSS  PT 1  BOURNEMOUTH, UNITED KINGDOM  DAG HEWARD-MILLS  2008 [fIoyzyqoBbs]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 Now, what I am sharing with you is the effect that the cross of Jesus had on mankind. The effect that the cross of Jesus had on mankind. Amen. And therefore, the effect that your cross will have on mankind. That's what I mean by the powers of the cross.

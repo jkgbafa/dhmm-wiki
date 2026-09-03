@@ -9,6 +9,8 @@ duration_min: 62
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/OBEDIENCE  TORONTO, CANADA DAG HEWARD-MILLS  2002 [hOJQC5zUTMM]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Now are you okay? Now the next key to having a mega church is obedience. Obedience. And we are going to memorize another scripture. Now, John, can you give me eight one?

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=3C_FHsykrDs"
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Prayer"]
+tags: ["topic/faith", "topic/prayer"]
 ---
 
 Lift up your hands and thank the Lord. Jesus, thank you. Merci Jesus for your word. Thank you for your spirit. Merci pour ton esprit.

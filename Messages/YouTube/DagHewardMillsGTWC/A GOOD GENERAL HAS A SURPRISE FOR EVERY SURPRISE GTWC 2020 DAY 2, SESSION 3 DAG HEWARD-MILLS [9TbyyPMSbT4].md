@@ -8,6 +8,8 @@ year: 2020
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 You can continue clapping. There is a lot to celebrate this week. It's enough to clap your hands. What we have received. And you may please be seated in your home.

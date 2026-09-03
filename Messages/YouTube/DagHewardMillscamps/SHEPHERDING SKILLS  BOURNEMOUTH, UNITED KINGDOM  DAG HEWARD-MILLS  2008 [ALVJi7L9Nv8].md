@@ -8,6 +8,8 @@ year: 2008
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I'm going to give you some shepherding skills before we continue on our journey to 65 yes points number one gentleness you must know that the children are tender and I want us to read Genesis 33 the children of God are tender in in medicine when you say something is tender it means when you touch it it's painful you press it a little push a little pressure on that place it's painful and you say it's tender is that not so we say there's tenderness it's a medical word also we have tenderness then there's guarding when when

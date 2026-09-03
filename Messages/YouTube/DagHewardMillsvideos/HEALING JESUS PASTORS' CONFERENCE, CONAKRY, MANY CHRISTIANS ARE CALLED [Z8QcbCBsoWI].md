@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Z8QcbCBsoWI"
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/ministry-and-pastoring", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 Amen. Jesus said, "I have chosen you so that you may bear much fruit." But you, it's because we seek wealth and money. We go to France, we go to England, to the United States where there is money, isn't that true today? When you see an African pastor who says he's doing ministry or on missions, he often goes to Paris, to the United States, he doesn't go to the East. What cities do you have here? Where is it? Korea, Korea! Pastors, to God, amen. And we must have the desire to bear much fruit. I have a

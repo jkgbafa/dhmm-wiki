@@ -8,6 +8,8 @@ year: 2003
 duration_min: 70
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Salvation", "Salvation/Backsliding"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/salvation", "topic/salvation/backsliding"]
 ---
 
 welcome to track number five of Bea let me just share a very short but important uh message called the marking scheme just the marking scheme for just 10 minutes now through out my schooling life right I have when I have done school and I've done exams all right I have usually done well okay initially people thought that I wouldn't do well but then I did well now without knowing I developed my own way of studying Daniel are you with me my own way of studying for exams I I don't like you know like reading a

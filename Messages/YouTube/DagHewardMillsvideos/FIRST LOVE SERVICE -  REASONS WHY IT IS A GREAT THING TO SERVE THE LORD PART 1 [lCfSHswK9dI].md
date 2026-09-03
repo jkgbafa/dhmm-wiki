@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=lCfSHswK9dI"
 duration_min: 198
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 he paid a price for our sins my sins and your sins on the cross but first he God loved us and sent us his son oh thank you Lord Lord I come to you let my heart be Chang renew flowing from the gra that I found that I found in you somebody say Lord I've come to know oh Lord have come to know the weaknesses the weaknesses I see in me in me we be stripped away be stripped oh yeah by the power of your love power of your love so hold me close hey hold

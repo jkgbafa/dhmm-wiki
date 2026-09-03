@@ -8,6 +8,8 @@ year: 2017
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah. What a blessing. Amen. Let us pray. Father, thank you for today. Thanks for the program of this give thyself holy conference. We are grateful Lord that in these three days your power is here to transform our lives and to change everything about our lives. We give you praise. We give you thanks in Jesus name. Amen. You may be seated. It's a blessing to be here in Cape Town and to see all of you. All right. Are you excited about give thyself holy conference? Want to thank our hosts here. Those who have opened up their

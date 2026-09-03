@@ -8,6 +8,8 @@ year: 2002
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 welcome to track number 11 of a Los yeah I I want to talk about the laws of accusation I want to change do you have a law number one I'm going to give you the laws of accusation the closer the accuser is to the accused the more devastating the effect of the accusation the closer the closer the closer thank you the closer huh the closer oh the closer the accused accuser is to the accused the more devastating the effect of the accusation that is why most accusers use certain terminology they speak like they say I'm

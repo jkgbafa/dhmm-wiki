@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=fGsDUXBEXSk"
 duration_min: 160
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Clap Your Hands for Jesus let it be louder tonight let it be louder tonight hallelujah hallelujah well all is set for what God has in store for us tonight and I need everyone to please listen to this very important piece of information the campaign is in two parts there's the preaching part and there's also the Miracle part two parts so you must not walk away after the preaching you will miss something that is very very very important for you so it's very important you stay for both parts of the campaign tonight and I believe that

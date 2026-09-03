@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=3XMg25gdro4"
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/leadership", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I want to share with you on how to cut off and destroy those who leave you those who leave you now why God allows people to leave you number one the Lord may allow people to leave you to correct a foundational mistake you made in the ministry some people are not supposed to be with you here it is those who leave you loyalty and all disloyalty series those who leave you so God may allow some people to leave Abraham went with lot I'm not going to read the scripture not sure that we go faster alright

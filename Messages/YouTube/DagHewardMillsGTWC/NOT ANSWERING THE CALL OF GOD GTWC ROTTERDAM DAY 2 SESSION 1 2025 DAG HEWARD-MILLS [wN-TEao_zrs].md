@@ -8,6 +8,8 @@ year: 2025
 duration_min: 101
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 What a blessing. Let us pray. Father, we are grateful today for your power that is working. Guide us. And let your spirit lead us to your will.

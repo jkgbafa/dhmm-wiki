@@ -8,6 +8,8 @@ year: 2010
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 how many are going to join to build a powerful mega church in Australia huh is it a powerful thing all right now I want to share with you I want to share with you why we must have 1,000 members in Australia do you want to have 1,000 churches church members huh are you sure number one why we must have 1,000 members in Australia number one because our Harvest field is the world amen amen our Harvest field is the world some of you have time I know and most of time but you got to endure hardness

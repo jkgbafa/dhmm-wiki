@@ -9,6 +9,8 @@ duration_min: 70
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/TYPES OF SHEPHERDS BONSU, GHANA  DAG HEWARD-MILLS  2005 [YJURupEYBTY]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number eight of Busilization. Now as part of the speckled and spotted things that we are going to do. All right. We are going to have sign boards. In at the houses where you are having the cell.

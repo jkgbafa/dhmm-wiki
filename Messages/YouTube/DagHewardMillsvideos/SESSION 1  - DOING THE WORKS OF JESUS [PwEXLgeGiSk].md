@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=PwEXLgeGiSk"
 duration_min: 197
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/ministry-and-pastoring", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 we thank God for another iron shop that I our new relationship was not for parents to say it is the same and our conference is all about the work of the ministry events that Cosette conference a loved minister I will be preaching in the morning education Mali matter from about 6:00 7:00 a.m. until the afternoon happened our guests will help by reaching for the rest of the day amen I appreciate Cesar Lucetta Jamaat ng scallop remedy el identity Ivanka she loosed wah and it's a great blessing to have some of the wonderful generals of the

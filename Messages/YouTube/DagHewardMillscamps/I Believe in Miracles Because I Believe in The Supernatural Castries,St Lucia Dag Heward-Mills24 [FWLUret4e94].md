@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=FWLUret4e94"
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Father, thank you for the great amazing blessing we have tonight in Jesus' name. Amen. You may be seated. I believe in miracles. Number one, I believe in miracles because I believe in the Bible.

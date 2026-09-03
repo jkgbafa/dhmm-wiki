@@ -8,6 +8,8 @@ year: 2024
 duration_min: 131
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 tonight we have the chairman of the central planning committee of this amazing campaign here in Laura he's in the person of Pastor Jeremiah P and I would like to welcome him to bring us his closing remarks for this great campaign Hallelujah very quickly on behalf of the pastors and all the churches and the body of Christ in Laura we are so excited for this wonderful opportunity you have our father evangelist D he Mill visit the land of Laura to be a great blessing to the people and in all humility we are humble that among many

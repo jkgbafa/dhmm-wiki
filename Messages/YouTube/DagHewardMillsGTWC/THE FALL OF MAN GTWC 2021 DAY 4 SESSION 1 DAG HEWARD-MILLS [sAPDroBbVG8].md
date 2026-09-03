@@ -8,6 +8,8 @@ year: 2021
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 And for your help, Holy Spirit. In the name of Jesus. Amen. Amen. You may be seated.

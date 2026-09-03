@@ -4,6 +4,8 @@ book: "Losing Suffering Sacrificing Dying"
 book_number: "033"
 chapter_number: 11
 type: book
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 # Chapter 10

@@ -8,6 +8,8 @@ year: 2009
 duration_min: 188
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 amen so lay power amen amen oh amen amen R Johnny I told you they W mind me amen amen power you see the mistake people are making that I know that as they are talking about lios lios you are you are saying that we we are not lios Hy we are very lios no we are more like us than you are I should prove it I'm ordinary we are not glgy we are you own true you want to take us out of the the camp no you see what you people are failing to realize is

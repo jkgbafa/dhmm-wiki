@@ -8,6 +8,8 @@ year: 2001
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Prayer/Intercession"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/prayer/intercession"]
 ---
 
 welcome to track number three of pastors of thousands so how to start a church I believe that if you start a church I believe that you can start a church now one of the reasons why it is difficult to start a church is because people will attack you for starting a church they will attack you because they don't expect you to start a church and they don't see why you should start a church and then their problem is also who are you to start a church you get it when cometh thou and where do you

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Zz01Rlh1JsI"
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 Heavenly Father thank you so much for this evening thank you for the opportunity we have in you to serve you worship you but we have that you speak to our hearts let your will be done we thank you Holy Spirit for a blessed encounter of salvation healing and blessing tonight in Jesus name Amen all right you may be seated are you happy to be in the service tonight very good - they have a very short message for you and my message is entitled a little bit and well seated LLL see that and well seated tells

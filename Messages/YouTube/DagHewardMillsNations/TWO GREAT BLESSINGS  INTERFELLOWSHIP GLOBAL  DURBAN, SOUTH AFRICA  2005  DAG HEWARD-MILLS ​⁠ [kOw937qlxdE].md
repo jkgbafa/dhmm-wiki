@@ -8,6 +8,8 @@ year: 2005
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 turn with me to Ephesians chapter 6 my message is um two great blessings amen the two great blessings for your life amen how many want these two great blessings all right now we are going to have many great blessings and we are going to do great things for the Lord hallelujah amen now Ephesians chapter 6 verse 1 children obey your parents in the Lord amen for this is right amen honor thy father and thy mother which is the first commandment with promise we teach these verses to children but we need to teach them to adults

@@ -9,6 +9,8 @@ duration_min: 89
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SIGNS OF FAMILIARITY  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001 [RvJ91tJYD0I]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number 22 pastors of thousands now. Signs of familiarity. Number one. Or maybe I'll give you how to fight familiarity. It's the same as the sign.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=NCgp844ovMk"
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Yahweh Namaka Namaka Namaka Do you believe Jesus is here? Lift up your left hand. Do you believe Jesus will touch you? Lift up your right hand and put your hands together for Jesus. Are you here?

@@ -3,6 +3,8 @@ title: "CHAPTER 16  HELP THE PEOPLE AROUND YOU TO ACCOMPLISH GREAT THINGS WITH T
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer"]
 ---
 
 Help the people around you to accomplish great things with their lives. Amen. Wow. Help the people. Four goals you must have for the people who are following you. I want every everybody who is a leader To have a goal for the people who are following you, you must aim for them to also be great. Amen. I was telling you earlier today that Bishop Andre shared with us very important things yesterday about Elijah who said there was no one else who was good enough. But God shocked him and said there are 7,000 people good enough. Wow.

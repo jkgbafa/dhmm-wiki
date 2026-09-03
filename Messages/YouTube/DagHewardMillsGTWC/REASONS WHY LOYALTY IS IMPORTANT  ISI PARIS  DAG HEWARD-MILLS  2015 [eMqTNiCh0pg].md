@@ -8,6 +8,8 @@ year: 2015
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 One of the major keys to transformation for the ministry is loyalty and fidelity. Amen. What does the word loyalty mean? Corinthians 4, verse 2. Moreover, it is required of the priest that a faithful man be found. Moreover, the reason we ask of providers is that each one be found faithful. I share from this book loyalty and loyalty. There are books in this series. Why is loyalty important? The Bible says that what is required of providers is that each one be found faithful. What does the word faithful mean? It means being consistent. Staying the same means

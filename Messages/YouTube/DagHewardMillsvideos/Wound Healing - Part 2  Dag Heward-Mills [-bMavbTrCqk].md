@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-bMavbTrCqk"
 duration_min: 148
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 foreign oh thank you Lord Jesus we praise you we bless you many questions oh Blessed Be Your holy name we give you thanks we give you praise and Jesus mighty name and everyone said amen Hallelujah Psalm 66 and verse number 16. come in here all ye that fear God amen come in here or either fear God and I will declare what he has done for my soul 17 I Cried unto him with my mouth and he extored with mine and he was extored with my tongue 18 if I regard iniquity in my heart the Lord

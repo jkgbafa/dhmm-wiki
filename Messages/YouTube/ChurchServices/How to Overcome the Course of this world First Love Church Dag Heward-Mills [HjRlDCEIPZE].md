@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=HjRlDCEIPZE"
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I want you to remember this for the rest of your life. The door, the door, the door, the door to the curse is the reason why you have enemies when you are great. Okay? It's because, lift your hand and put your hand. Lord, save me from all my debts.

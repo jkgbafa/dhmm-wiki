@@ -4,6 +4,8 @@ book: "How To Pray"
 book_number: "111"
 chapter_number: 10
 type: book
+topics: ["Faith", "Prayer", "Prayer/Answered Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/faith", "topic/prayer", "topic/prayer/answered-prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 ## Chapter 9

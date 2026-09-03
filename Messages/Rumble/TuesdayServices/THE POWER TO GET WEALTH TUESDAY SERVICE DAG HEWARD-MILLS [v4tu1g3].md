@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tu1g3/"
 duration_min: 68
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 The end of all my prayer is to care like my Lord cares, my one and only go, his image in my soul, still my weakness is with me, but by his stripes I'm he, his faithful and his true to complete the back he begins in a you want to need to be more like Jesus. I want to and I need to be more like remember there's no greater love and to lay down a life, there's no greater love and to lay down a life for a prayer for a prayer. And I need to be more like Jesus. I want to and I need to be more like him. Oh I want to, I need to be more like Jesus.

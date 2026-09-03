@@ -4,6 +4,8 @@ book: "What It Means To Be As Wise As A Serpent"
 book_number: "028"
 chapter_number: 1
 type: book
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Chapter 1\

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t8zuz/"
 duration_min: 122
 source: "whisper"
 match: "exact"
+topics: ["The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, we ask you to guide us by your spirit, lead us into all truth, let your will be done, Father. We thank you for your grace, for your mercies. Thank you for your love. Lord, we believe that you are with us. You have brought us this far.

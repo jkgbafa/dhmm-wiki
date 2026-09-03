@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=S_Y26enKH6Q"
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 hallelujah amen our utilitarian amen amen in our midst we have a representative from our city of swanee Mahara Nara na ba Baba represent Al Thani she's representing actually what 23 all represents are what 23 so we are going to call her up on fish return Matata wanna pee her name is Mary feel Iike kana ylvis' ilaha illa Allah WA la vella 3 as she come let's welcome her with a round of applause autonomous oh ho my hallelujah amen thank you thank you yello-ha program director thank you program director in fact I'm representing the speaker of

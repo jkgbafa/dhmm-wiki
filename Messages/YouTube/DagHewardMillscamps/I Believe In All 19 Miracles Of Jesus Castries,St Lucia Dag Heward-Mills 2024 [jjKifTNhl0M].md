@@ -9,6 +9,8 @@ duration_min: 23
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/I Believe In All 19 Miracles Of Jesus  Castries,St Lucia  Dag Heward-Mills  2024 [jjKifTNhl0M]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Prayer"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/prayer"]
 ---
 
 Now, finally. I believe in miracles because I believe in all the nineteen miracles of Jesus. Wow. Miracle of the madman of Gadara. You believe in it.

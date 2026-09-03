@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jzCP_xOdNLI"
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "The Word and Books", "The Word and Books/Books and Reading"]
+tags: ["topic/leadership", "topic/the-word-and-books", "topic/the-word-and-books/books-and-reading"]
 ---
 
 father thank you for the privilege that we have this morning to receive your way Lord we ask you to guide us by the Holy Spirit in the name of Jesus Christ thank you for your great power and anointing thank you for your great blessing that you give to us in Jesus name I pray Lord amen you may be seated there are five things that I want to share with you because I believe that God has given me an anointing in those five areas so I want to encourage you to listen carefully and I know that

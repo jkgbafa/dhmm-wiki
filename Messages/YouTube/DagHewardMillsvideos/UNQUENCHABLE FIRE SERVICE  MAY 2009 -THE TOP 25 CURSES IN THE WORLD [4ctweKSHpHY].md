@@ -8,6 +8,8 @@ year: 2009
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 these fresh sweet me fresh-faced wanna be breathing everything I don't want to do anything to bring up proton the fastest snake love no I wanna that's my sign I haven't I wanna be pleasing in his everything do anything I wanna well done please please Oh God see Ashley's well done well done go to best ever where are these freshly I don't want a huge well done well done you're a business know that when I see specially I don't you think Guddu Facebook well well well hallelujah alright let's pray let your hand and us go to

@@ -8,6 +8,8 @@ year: 2005
 duration_min: 380
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Children and Parenting", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 number three of snake Junction I personally feel that building h are you there yeah building is what a sign of what excelling amen now Proverbs 24:3 it says through wisdom is a house builded and by understanding it is established by knowledge shall the chambers be filled with all precious and bantino riches what do you think what's your name right there adol adol when you are dead one day we must have something you built in the natural and spiritual have it as a goal I will build something because the Bible says through wisdom a house is

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=98686r6tTF8"
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Are you sure you are ready? I'll be worried so I'll be back in the loop listen. It's single pecorna. Are you sure you are here? Guru Shana bedoel la bah ki back to all bedock.

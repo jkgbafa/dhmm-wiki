@@ -8,6 +8,8 @@ year: 2016
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 Hallelujah so as we get ready for him I want us to go through what he taught us this morning Hallelujah a super mega church super me how do you say it in Portuguese Super megaan what about ah super mega Egan they super mega a super mega wow you see it is one thing to have an igia and it's another thing to have a mega but God's plan for this is neither but a super Hallelujah so tell your neighbor this egia it's not just an tell the person if you are looking for a regular normal then

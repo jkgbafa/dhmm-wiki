@@ -8,6 +8,8 @@ year: 2024
 duration_min: 171
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 hallelujah hallelujah father thank you for your great blessing that you give to us today we are so blessed for your power and your presence in the name of Jesus amen amen you may be seated now why your soul is important number one is because it is a mastered seat it's a small part of you but very very important amen amen number two why your soul is important it is important because it is part of the Inner Man the spiritual man amen amen first Thessalonians chapter 5 beautiful first Thessalonians chapter 5 and it says chapter 5

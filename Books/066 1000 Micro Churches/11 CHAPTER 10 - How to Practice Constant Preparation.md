@@ -4,6 +4,8 @@ book: "1000 Micro Churches"
 book_number: "066"
 chapter_number: 11
 type: book
+topics: ["The Word and Books"]
+tags: ["topic/the-word-and-books"]
 ---
 
 ### CHAPTER 10\

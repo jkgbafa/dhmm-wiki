@@ -8,6 +8,8 @@ year: 2022
 duration_min: 153
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 uh he and our father Bishop Henry Mand Bishop Henry M Give the Lord a very big club together we want say we are so grateful when the team from Jesus healing campaign came to us we are ever opened for them to come there is no moment that we not want them to come God revealed it to us that indeed they were sent of God somebody say Amen say now we know we want to say we are grateful at the members of the are here PC members who have worked very well now pastors who are here

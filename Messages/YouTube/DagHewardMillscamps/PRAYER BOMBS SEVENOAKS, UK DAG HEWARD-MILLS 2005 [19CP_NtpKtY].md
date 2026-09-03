@@ -9,6 +9,8 @@ duration_min: 58
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PRAYER BOMBS  SEVENOAKS, UK DAG HEWARD-MILLS  2005 [19CP_NtpKtY]]]"
+topics: ["Marriage and Family", "Prayer"]
+tags: ["topic/marriage-and-family", "topic/prayer"]
 ---
 
 Welcome to track number nine of obedience unto death. Somebody should give me a big sheet of paper. Do you know what is a prayer bomb? Okay. Um what is a prayer bomb?

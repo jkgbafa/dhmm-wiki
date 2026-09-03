@@ -9,6 +9,8 @@ duration_min: 84
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE AIM FOR PERFECTION  JOHANNESBURG , SOUTH AFRICA DAG HEWARD-MILLS  2005 [rDgM37xlEYo]]]"
+topics: ["Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Welcome to track number one of perfection. Hallelujah. Heavenly Father, we thank you so much for this morning. Thank you for your blessing. Lord, we ask that you speak to our hearts.

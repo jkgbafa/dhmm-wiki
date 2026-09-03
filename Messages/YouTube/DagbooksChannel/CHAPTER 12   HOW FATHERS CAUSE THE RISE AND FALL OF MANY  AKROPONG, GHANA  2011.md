@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2011
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 How do fathers cause the downfall of many? How can fathers cause the rise and fall of so many? 34 You are here4 Luke 234 4 read it Simeon blessed them and said to Mary his mother, “Behold, this child is destined to cause the falling and rising of many in Israel, and to be a sign that will be spoken against.” You will realize, you think that a pastor who causes people to rise or makes people succeed. But amazingly, the pastor, the father, not only causes success, but he also causes falls . He causes both. When a

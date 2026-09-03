@@ -9,6 +9,8 @@ duration_min: 52
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SIGNS OF DISLOYALTY    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002 [74G2zEnvCdQ]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 Welcome to track number 13 of life in the church that God is helping me to go to poor places, amen. And I know that God is going to bless you as you help us to go to the poorer places. I've always that's how come I became friends with Reverend Saki because he also loved to preach and want to do the work of God and to preach in every village and town and all the poor places that we can. And I'm glad that years have gone by. See, faithfulness means that you are the same, and we are still after that vision, and our heart is still there, and we believe that we are going to continue.

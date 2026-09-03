@@ -9,6 +9,8 @@ duration_min: 163
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/STRONG LEADERSHIP  GTWC SOWETO  DAG HEWARD-MILLS  2017 [HyT470NGId0]]]"
+topics: ["Leadership", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/leadership", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Let's stand and just thank the Lord for the great work that the evangelist is doing. Hallelujah. My goodness. I don't know if we will realize how how blessed we are to really receive from a vessel and a servant of God. Someone who is preaching the gospel unashamedly, doing the work of the ministry with no shame and with no holding back.

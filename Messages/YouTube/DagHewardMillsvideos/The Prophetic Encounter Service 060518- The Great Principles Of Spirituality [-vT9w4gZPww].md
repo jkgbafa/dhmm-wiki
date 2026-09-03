@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-vT9w4gZPww"
 duration_min: 231
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/The New Birth", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/the-new-birth", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah are you excited to be chase are they young ladies were excited to be in church other young guys were excited to be Church it's just a boring place to be oh no it I didn't get a response I'm saying it again it's just a boring place to be so why you standing by a neighbor who is not excited I don't see why you're standing by someone with an excited hallelujah turns your name is ace your neighbor nay my neighbor neighbor say it's one of thy name I said nay my name my neighbor I want

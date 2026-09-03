@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=yBeYy2MpM3Q"
 duration_min: 167
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh Oh Oh Oh yes Oh amen lift up your hands everywhere just thank the Lord for tonight thank the Lord for His blessing tonight thank the Lord for the joy of the Lord all right father we are truly grateful for your blessing we thank you for your grace that is with us tonight in Jesus name Amen you may be seated hallelujah well we are grateful to Bishop corner for a very powerful message how to triumph in difficult times these are times these are times that everything that is wrong it's made to look as if it

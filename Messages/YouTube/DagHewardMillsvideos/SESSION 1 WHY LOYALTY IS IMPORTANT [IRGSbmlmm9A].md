@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IRGSbmlmm9A"
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 praise the Lord amen in 2nd Corinthians chapter 13 and verse age the Bible says that for we can do nothing against the truth but for the truth in John 17 the 17th verse jesus also said sanctify them through thy truth thy Word is truth I believe that during these few days you'll be receiving the pure truth the Word of God this is very crucial in these times when the truth has been corrupted and also some things are being taught and preached but I believe that after these few days we will march on with the truth

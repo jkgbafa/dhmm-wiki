@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=fST0v1aRHvc"
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 today I want to share with you about what I call a great door a great door of your life a great door of your life First Corinthians chapter 16 now verse 9 says a great door and and effectual is opened unto me and there are many adversaries amen a great door and effectual is open unto me and there are many adversaries now this uh at the beginning of the year the few first few seconds of the the year I was sharing with you about how we must be wise as seant and Hess as does and

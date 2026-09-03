@@ -8,6 +8,8 @@ duration_min: 81
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/Your Calling Is Special The Qodesh Dag Heward-Mills [7xgi4HMXjhs]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "The Call of God"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/the-call-of-god"]
 ---
 
 Today I'm talking about a holy calling. It's special. Your calling is special. Even if you are a home wrecker, you are an adulterer, you are a woman, I don't care what you are, okay? Your calling is special and is different from that other person's calling. Make sure you fulfill it. One of the things I've noticed is that when people don't fulfill their callings, they actually go into evil. Not fulfilling the call often leads people not that they they are just good Christians and they don't maybe go to some extreme but often they go off completely.

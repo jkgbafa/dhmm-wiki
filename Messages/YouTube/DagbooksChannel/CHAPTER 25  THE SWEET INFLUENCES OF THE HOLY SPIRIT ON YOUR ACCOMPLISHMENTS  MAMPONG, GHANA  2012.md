@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2012
 source: "autocaption"
+topics: ["Prayer", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/the-holy-spirit"]
 ---
 
 Number seven. How many numbers do you have? Six. So, is it number seven? Number six. The sweet influence of the Holy Spirit on what you are able to accomplish. What are you going to be able to do? Huh? What are you going to do with your life? What can you do? What can you do? Maui, what can you do? Is that Maui? What can you do with your life? What are you going to be able to do, Jeffrey? What are you going to be able to do with your life, Christian man? What are you going

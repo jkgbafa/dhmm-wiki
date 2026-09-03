@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JzUIRYCo0lw"
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 good morning and welcome to the flow church with Bishop Doug Hayward Mills my name is Emmanuel and my name is Janine and we are your flowchurch pastors once again we are back we are super super very very excited to have you wherever you're watching from wherever in the world you're watching from and whichever platform you're using to watch also we know all you Zoomers are about to join uh we know you're about to watch on YouTube we know you're about to watch on Facebook wherever you are you're about to have a fantastic time and I

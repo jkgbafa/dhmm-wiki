@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ejcEUzIHatU"
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 but is an awesome God he reigns from heaven above with we dump our and love our God is an awesome God our God is an awesome God he raised from Allah oh god oh god we've got a table Oh doorman power the power Oh and here's another yeah Oh he's alone let's pray about our friend father we thank you for the offerings we've given thank you for your blessings upon all these seeds in Jesus name our man clap your hands for Jesus or in lewiston sighs love your hands for Jesus but they Louise who is

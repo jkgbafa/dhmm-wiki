@@ -8,6 +8,8 @@ year: 2010
 duration_min: 39
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number six of the privilege. We because of the resident leopard, we are going to suspend all these kind of things till we finish. When we finish, then that's it. What? You are sitting down, I'm standing, I'm talking from the morning.

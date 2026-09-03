@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=RwggCk-k9zA"
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 this week calm down, calm down, calm down this week we had an awesome week at Manpon with the Give Thyself Holy Conference I mean I really enjoyed the theme of the conference now we are at war wow and today our father is here with us to talk to us, to preach to us ladies and gentlemen rise to your feet and let's welcome our father Bishop Tag Ewan Males wow hallelujah amen let us pray father thank you for your great guidance the guidance of your spirit lead us and help us to serve you well we are

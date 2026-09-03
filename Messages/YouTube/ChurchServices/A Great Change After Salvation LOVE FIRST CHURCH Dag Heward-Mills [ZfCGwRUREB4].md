@@ -8,6 +8,8 @@ duration_min: 79
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/A Great Change After Salvation  LOVE FIRST CHURCH Dag Heward-Mills [ZfCGwRUREB4]]]"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 A child is someone who can join this church today, tomorrow he's going to this other group, next time he's going to this other group, he's not stable anywhere, run here, run here, run here. The Bible says not toss to and fro. You are spiritual babies, you are spiritual children. So the day, you see, the thing is you've never felt love before. The day that a boy says I love you, and you believe it.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=XLoZlb9Z_vw"
 duration_min: 41
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring"]
 ---
 
 Now, how many want to become good sons? Let me give you seven keys to becoming a true son. Number one, a son, a good son. I want you to become So, I have been preaching to the fathers. Now, I'm preaching to the sons. Yes. I'm I was preaching to the fathers. Now I'm preaching to the sons. I was preaching to the fathers telling the fathers, "Make a family. Make a family. Make a family. Make family. And you will not be bothered with whether I should preach loyalty or not." The loyalty is natural in your tribes

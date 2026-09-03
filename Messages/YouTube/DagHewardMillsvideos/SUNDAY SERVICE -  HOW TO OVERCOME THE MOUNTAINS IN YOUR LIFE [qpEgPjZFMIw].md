@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=qpEgPjZFMIw"
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we bless the name alone there solitons a lot of thank you a lot of time to worship you because you are my light and my salvation Lord because of your cell of fear because of you I shall walk in confidence because of you I know that my future is secure we bless your name o Lord we bless your name o Lord thank you Jesus you are the strength of all I be afraid whoa be right uh-oh ah well I'll play your Donita Lord ah ah yeah it's you you did your holiday but before and me

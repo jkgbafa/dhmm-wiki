@@ -8,6 +8,8 @@ year: 2024
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/the-holy-spirit"]
 ---
 
 God's power is going to move mightily hallelujah hallelujah at this time I would like to welcome a very anointed Minal to bless us with some good music so let's clap our hands welcome to acceptable acceptable set G I'm h h H yeah and they answer yeah g i Am it's w saidu every z z I'm Mak again and again and and said and to yeah oh yes oh yes oh yes oh yes oh yes oh yes yeah is she she is true and oh yes and now and yeah oh yes yes oh yes oh yes

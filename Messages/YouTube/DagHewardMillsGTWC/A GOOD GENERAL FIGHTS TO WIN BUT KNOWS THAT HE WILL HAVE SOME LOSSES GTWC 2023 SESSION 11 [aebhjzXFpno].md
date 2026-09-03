@@ -8,6 +8,8 @@ year: 2023
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers", "Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 Lift your hands as we thank the Lord for today. Great guidance to our guided Seigneur. We are grateful. We are grateful. We are grateful.

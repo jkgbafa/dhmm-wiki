@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=gjl6K975hh0"
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 methods of guidance you see sometimes will the Lord cannot get to you in the 7-way he has to lower his method of guiding you amen for instance when the Lord wanted to get Moses you see to go to Midian so that he could teach him his word and make him into the apostle that he was good at making he caught him by letting him make the mistake of murdering somebody and be driven out do you understand into the bush are you understanding what I'm saying so Moses was brought to the place of God's will by

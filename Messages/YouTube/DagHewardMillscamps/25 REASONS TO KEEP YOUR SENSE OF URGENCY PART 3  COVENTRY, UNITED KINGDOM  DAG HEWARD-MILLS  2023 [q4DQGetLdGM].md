@@ -8,6 +8,8 @@ year: 2023
 duration_min: 187
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 father we're grateful for this time we ask you to lead us by your Mighty Holy Spirit now I want everyone to every standing please every standing and I want you to lift up your hands and maybe put it on your eyes and ask the Lord to give you the spirit of Revelation Spirit of Revelation h h PR yes thank you Father for the spirit of Revelation now pray for the spirit of knowledge I want to know something I don't know I want to know something that I don't know give me Lord what I don't know

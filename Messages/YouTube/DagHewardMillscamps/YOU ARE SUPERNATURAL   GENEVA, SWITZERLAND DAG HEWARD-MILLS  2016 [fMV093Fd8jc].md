@@ -8,6 +8,8 @@ year: 2016
 duration_min: 45
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 welcome to track number one of Stir It Up please be SE thank you thank you for your warm welcome I believe you're excited to be here please thank you play Hallelujah turn with me to Second Timothy Chapter 1 Verse 6 wherefore I put you in remembrance that thou stir up the gift of God which is in thee by the putting on of my hands simple amen amen now how many of us know that God has made us uh supernatural beings very Supernatural in the Garden of Eden where Adam was um Adam was Supernatural he was

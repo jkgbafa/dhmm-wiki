@@ -8,6 +8,8 @@ year: 2018
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 beautiful is everybody here where are your friends they went shopping hey guys are you here where's everyone really where are the candles sure your candle are you a soft candle or a hard candle are you one of those candles that melt very easily are you a hard candle are are you one of those candles that prefer to be in groups lots of other candles around you can stay on your own wow wow well the main characteristic of um what do you call it the candle in the dark that we can see is loneliness and hardness

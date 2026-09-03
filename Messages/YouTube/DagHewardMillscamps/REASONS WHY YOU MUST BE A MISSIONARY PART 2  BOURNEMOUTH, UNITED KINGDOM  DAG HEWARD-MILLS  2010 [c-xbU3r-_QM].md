@@ -8,6 +8,8 @@ year: 2010
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Missions", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/missions", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 how many reasons do I have have I given you today four only four reasons forgive number five why you must be on a mission because full-time Ministry is God's ordained way wow going all out is God's way all out all out is God's way amen amen amen wow that's that's God's way God's way is all out did you get it or you didn't get it all out is what God's way let me let me with all due respect and all apologies to lay pastors lay pastor ing is not God's way we heop take your time

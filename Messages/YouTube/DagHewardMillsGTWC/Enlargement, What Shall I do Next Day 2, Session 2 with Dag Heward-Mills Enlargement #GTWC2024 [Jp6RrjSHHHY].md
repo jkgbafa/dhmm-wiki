@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Jp6RrjSHHHY"
 duration_min: 161
 source: "autocaption"
 match: "exact"
+topics: ["The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 Charge the atmosphere atmosphere. Charge your spirit. Charge votre esprit. Charge your spirit. Charge votre spirit.

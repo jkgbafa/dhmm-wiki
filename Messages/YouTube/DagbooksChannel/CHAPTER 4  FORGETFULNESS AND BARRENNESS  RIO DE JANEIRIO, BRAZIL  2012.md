@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2012
 source: "autocaption"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 I want you to go with me to 2 Peter, chapter 1. 2 Peter, chapter 1. And we're going to read verse 5. 2 Peter, chapter 1, starting from verse 5 to verse 8. For this very reason, make every effort to add to your faith goodness. Virtue, knowledge, to knowledge, self-control. Self-control, perseverance, perseverance, piety. Piety leads to brotherhood, and brotherhood leads to love. Verse eight. For if these qualities are yours and are increasing, they will keep you from being ineffective and unproductive in your knowledge of our Lord Jesus Christ . Ouch! Wow! If these things are

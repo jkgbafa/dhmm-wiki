@@ -9,6 +9,8 @@ duration_min: 35
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE MYSTERY OF SERVING GOD  MARYLAND, USA  DAG HEWARD-MILLS  2002 [ip5QA0PzrMQ]]]"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Of the mysteries of God. Yes, possible. Richard, okay. Does the Lord explicitly I mean tell you that like the one you told the couple that you told to go to Ghana to live with you? I don't know how I mean did the Lord speak to you.

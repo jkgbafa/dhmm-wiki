@@ -9,6 +9,8 @@ duration_min: 45
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHAT IT MEANS TO HAVE A HIGH CALLING   MAASAI MARA, KENYA DAG HEWARD-MILLS  2010 [CU0AcBwRJaI]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "The Call of God"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/the-call-of-god"]
 ---
 
 Welcome to track number eight of the privilege. The first one is what it's a privilege that can only be kept compared to becoming a king. Number two, it's an honor, normally. It's a great, very great thing. Number four is joining of a family.

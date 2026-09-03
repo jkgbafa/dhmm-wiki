@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=W1OLPKVjPwk"
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism"]
 ---
 
 Oh ha ha you clap your hands between my Desilu Jesse's bands and I'm Sonia - tonight the first night of the campaign I'm such a fool Allah al aliy campaign God has a special plan to bless your life and kuru kuru Nepalese hello who was the simple I asked Oh deep learning that no one was distract you from what God has in store for you we are the show Watauga contours of permissible of uncle uncle excel elevon the power of God is going to move my sleeve Americana so Honda Hanuman and your life will be

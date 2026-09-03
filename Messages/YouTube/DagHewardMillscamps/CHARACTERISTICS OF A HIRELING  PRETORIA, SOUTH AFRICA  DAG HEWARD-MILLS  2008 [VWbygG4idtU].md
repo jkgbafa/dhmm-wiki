@@ -8,6 +8,8 @@ year: 2008
 duration_min: 36
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 what are the characteristics of hirelings number one they do not need anything but they still want money isn't it number two they build a church preaching visiting everything for money and it number three they do OD jobs for money like what singing huh aering carpentry and I hired I didn't hire a lawyer but I give him some work to do for us and he brought me a long Bill the the bill was sent in a fax and the fax was from here to here so I I when I saw I just collected the whole I

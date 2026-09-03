@@ -8,6 +8,8 @@ year: 2023
 duration_min: 145
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 wake k wake wake wake wake wake so we must praise him praise him so we Must Praise Him Praise Him in an African Hallelujah turn it turn it turn it turn it turn it turn it Hallelujah turn it turn it turn it what P be yeah for wait wa look look so we Must Praise Him go Hallelujah so we Must Praise Him Praise Him in an African way HJ hallelujah hallelujah r R Hallelujah SU wake up W up wake you s was hallelujah hallelujah praise the Lord please if you have a seat you can sit

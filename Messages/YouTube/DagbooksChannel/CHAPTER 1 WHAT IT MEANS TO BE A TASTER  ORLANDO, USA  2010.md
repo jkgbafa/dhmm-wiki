@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2010
 source: "autocaption"
+topics: ["Faith", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now we are going into the greatest tasting experience of all time. Yeah. And the unfortunate result of the great taste. What happened? Numbers 13. The greatest taste tasting experience of all time. History's greatest taste. All right. Can I have the other microphone, please? Can I use that one, brother? Thanks very much. Okay. Hello. All right. Now then the Lord spoke to Moses, saying, "Send out for yourself men so that they may spy out the land." Amen. And the Lord spake to Moses, saying, "Send out for yourself men so that they may spy out the land

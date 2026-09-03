@@ -9,6 +9,8 @@ duration_min: 152
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/HOW YOU CAN BE LED BY THE SPIRIT GTWC WINDHOEK DAG HEWARD-MILLS 2019 [vB6QgE_-P9M]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Luke 8:11 says the seed is the word of God and we've been receiving seeds and we are praying that no seed you know the the the effect of a seed also depends on where you put it. It can be the greatest seed but if it is lying on marble it will not amount to much. I would like us for a few minutes to rise to our feet and turn round the soil. Hallelujah. Especially we've learned about the art of hearing. That is what the evangelist is preaching about. And I want us to pray because prayer

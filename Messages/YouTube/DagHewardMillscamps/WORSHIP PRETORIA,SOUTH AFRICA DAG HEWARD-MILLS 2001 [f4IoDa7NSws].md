@@ -8,6 +8,8 @@ year: 2001
 duration_min: 32
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "The Call of God"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/the-call-of-god"]
 ---
 
 Welcome to track number one of Victory Laodisha. Hallelujah. Powerful. Lift your hands and let's pray. Father, thank you so much for a wonderful time like this.

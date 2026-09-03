@@ -9,6 +9,8 @@ duration_min: 94
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE ROAD TO THE GIFT  MARAISBURG, SOUTH AFRICA  DAG HEWARD-MILLS  2002 [RI0kboJcIBo]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Talking about the road to the gift. God has given us gifts. Now we want to know the road that we will walk upon till we receive the gift. Hallelujah. Hallelujah.

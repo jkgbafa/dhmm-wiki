@@ -8,6 +8,8 @@ year: 2010
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number nine of the privilege any book that you want free that's an extra blessing just for Just For Today amen so make sure you make your those who have already bought is too bad thank you for your business you can buy it again no I'm serious there's no you can you bring confusion sorry thank you for buying early early bed catches the warm you may get a special blessing that somebody in the late group doesn't get okay okay good good good now the next I'm going on to chapter four shepherding a is

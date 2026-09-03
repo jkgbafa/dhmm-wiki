@@ -8,6 +8,8 @@ year: 2001
 duration_min: 22
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity"]
+tags: ["topic/heaven-hell-and-eternity"]
 ---
 
 welcome to track number one of what is your life so we won't end we will never finish but we will just start wherever we get to end amen amen James chapter 4 verse4 it says whereas you know not what shall be on the tomorrow no let's say let's read verse 13 go to now you that say today or tomorrow we will go into such a city and continue there a year and buy and sell and get gain whereas you know not what shall be on the tomorrow for what is your life it is even a

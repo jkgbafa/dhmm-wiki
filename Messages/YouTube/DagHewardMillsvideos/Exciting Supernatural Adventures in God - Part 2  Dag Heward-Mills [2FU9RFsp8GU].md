@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2FU9RFsp8GU"
 duration_min: 187
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Prayer", "Prayer/Praying in Tongues", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 i really love you jesus thank you for your special love i know that you can hear me singing oh that i love you i really love you jesus i really love you too come on it's a simple song thank you for your special love for me i know i really love you jesus i really love you jesus thank you for your special love i know that you can hear me singing i know that i can assure you that he can hear you singing oh that i love you i really love you jesus i really love

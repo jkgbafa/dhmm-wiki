@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqige/"
 duration_min: 57
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Happiness is to know the Savior living a light within his favor, having a change in my behavior, happiness is the Lord, rejoice, rejoice. No matter what comes your way. You see, I found the secret with Jesus in my heart. Oh happiness, a new creation, Jesus send me in close relation, having a hope that leads to heaven. Happiness is the Lord.

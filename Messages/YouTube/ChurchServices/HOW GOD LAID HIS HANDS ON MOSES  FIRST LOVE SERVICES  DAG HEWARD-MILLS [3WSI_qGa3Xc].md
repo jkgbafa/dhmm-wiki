@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=3WSI_qGa3Xc"
 duration_min: 135
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 glor to You Are Holy you you are holy ho Glory To You Lord I'll sing your Praises I sing your praise for we love to see your Praises I see your Praises for to are there's none like him is M by you you holy are you God to you isone you no else can touch my heart like you I I for all eternity like you there is youone like you my Lord no else can I you I deserve I deserve for all eternity there is I I good I Ive I and there is how great

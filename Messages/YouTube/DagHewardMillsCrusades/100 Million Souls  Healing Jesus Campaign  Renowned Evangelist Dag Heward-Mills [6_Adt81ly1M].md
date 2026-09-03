@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6_Adt81ly1M"
 duration_min: 7
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 Heat. Oh, hey. There's a businessman. There's a widowed wife. A smiling face with a shattered life. A teenage girl with a choice to make. It's crowded here in church today. And the preacher says as the sermon ends, please close your eyes, bow your heads. Is there anyone in need of prayer? Oh, Jesus wants to meet you here. Cuz we all fall short and we all have sin. But when you live, God's grace breaking is beautiful. Beautiful. Well, he never been to church before, but he came to me as a last resort. His world was crashing

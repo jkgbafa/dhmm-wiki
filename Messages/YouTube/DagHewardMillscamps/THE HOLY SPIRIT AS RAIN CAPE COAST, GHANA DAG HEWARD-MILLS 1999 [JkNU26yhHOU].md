@@ -9,6 +9,8 @@ duration_min: 74
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE HOLY SPIRIT AS RAIN  CAPE COAST, GHANA  DAG HEWARD-MILLS  1999 [JkNU26yhHOU]]]"
+topics: ["Church Growth", "Church Growth/Mega Church", "The Holy Spirit"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/the-holy-spirit"]
 ---
 
 Let your will be done in the name of Jesus. Amen. Maybe seated. Everybody should please display his badge properly, openly. So that's the Holy Spirit and the mega church.

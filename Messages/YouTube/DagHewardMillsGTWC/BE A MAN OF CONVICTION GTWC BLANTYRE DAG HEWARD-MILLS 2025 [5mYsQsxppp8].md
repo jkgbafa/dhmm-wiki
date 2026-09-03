@@ -9,6 +9,8 @@ duration_min: 42
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/BE A MAN OF CONVICTION  GTWC BLANTYRE  DAG HEWARD-MILLS  2025 [5mYsQsxppp8]]]"
+topics: ["Anointing", "Leadership", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/leadership", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Chapter 13, I'm jumping some because how do you become a man of conviction? Number one, do not read your speeches, learn to speak from your heart. Those of you who read sermons, you come and you'll be reading a leader without conviction is a lifeless speech reading and emotionless puppets. Nobody takes any notice of him. Nobody believes his words.

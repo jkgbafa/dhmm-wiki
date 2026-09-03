@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wlre00L5WE8"
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Allez, c'est ma wanga, mi amica, attaque ou angautou, ma tentatani, tout à l'heure. Son batita, moi, bat, mira. Pas comme moi, pas comme les anciens, ton d'un petit condan, mon an dit. Si bête, bah t'y bête, sans batita, disagwada, dis à la mienne. Son batita, il t'a vu, sans moi, batita, dis à quoi, dis à la mienne, t'imète, il n'y a pas, tu nous as gada, oh, ça n'a jamais tchotinoka.

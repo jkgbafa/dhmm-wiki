@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/ugl2u8G7Y3qD/"
 duration_min: 93
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Indeed, he's our Lord. And his presence is the very air that we breathe. I don't know without his presence. I don't know where you would be. I don't know where I would be.

@@ -8,6 +8,8 @@ year: 2020
 duration_min: 237
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Soul Winning and Evangelism", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/soul-winning-and-evangelism", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 that's five months and thirty Bobby says verse 5 or some 30 for his anger and Jared back in moments and in his favor is life we've been may endure for a night ha hey but when something good morning counts I said when something called money counts it comes with joy may God give you a joy as you have come to experience him hallelujah a son that we best find those five legs now we are going to pray about in his favor his life in the favor of God his life one Bible character that obtains favor

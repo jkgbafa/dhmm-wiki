@@ -8,6 +8,8 @@ year: 2004
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number six of barness and fruitfulness this I know I know Hallelujah when you see it you must say this I know amen amen are you there very good so um we are going to start with Lucifer this I know when you see him around moving in the church what will you say yes I know I know this thing so move back hallelujah hallelujah turn with me to Ezekiel chapter 28 when the Lord brought us back and restor our fre you know the Lord is bringing us back amen he's giving us a good

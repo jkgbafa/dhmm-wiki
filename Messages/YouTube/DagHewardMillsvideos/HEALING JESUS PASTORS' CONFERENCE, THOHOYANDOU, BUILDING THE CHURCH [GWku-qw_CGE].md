@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GWku-qw_CGE"
 duration_min: 154
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 let's have Jesus you are my first love there is no the love that can compare let them it is your home it is perfect Jesus you are my first there is no there's no train enough that we go there you are my process there is no that you're perfect roll No now drugs that's wrong - perfect - you nervous don't worry today you strong how I loved you long you are my only I can see your face your glorious brain when you speak to me let my spirit free never tell how I love you how

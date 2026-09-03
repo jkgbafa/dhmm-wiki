@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4n7VBNSKmoE"
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 I want to invite the choir. Please come and line up. Let us stop as a cala. Make sure you get into position beautifully. Lenin that has a water lemon.

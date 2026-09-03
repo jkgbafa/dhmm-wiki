@@ -8,6 +8,8 @@ year: 2005
 duration_min: 84
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number nine of buiz for which of you intending to build a tower sth not down first and counted the cost you understand do not start things that you abandon you get it it's very some way now we are going to have remind me to talk about the yeah okay we are going to have uh for a Shepherd we are going to wear a charcoal gray jacket you know charcoal gray yeah and it's going to be very powerful when you become a pastor you change into black amen do you see and the ladies

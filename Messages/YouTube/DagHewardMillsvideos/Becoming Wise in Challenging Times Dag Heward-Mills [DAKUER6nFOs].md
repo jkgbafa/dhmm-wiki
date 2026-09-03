@@ -8,6 +8,8 @@ duration_min: 2
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsvideos/Becoming Wise in Challenging Times  Dag Heward-Mills [DAKUER6nFOs]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wisdom"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wisdom"]
 ---
 
 You want to have crusades like what we show there. It's a problem. You can solve it. How? With wisdom.

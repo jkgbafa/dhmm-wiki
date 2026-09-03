@@ -9,6 +9,8 @@ duration_min: 73
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHY YOU MUST BE LED BY GOD IN THIS LIFE  ROSEAU, DOMINICA  DAG HEWARD-MILLS  2024 [3j-xgjzQYRs]]]"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Father, thank you for the great privilege that we have to serve you with gladness and with joy. We are asking that your spirit will impress upon us your perfect will in Jesus' name. Amen. You may be seated. Now what is number one?

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2023
 source: "autocaption"
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Chapter 58. Fighting by building. You must learn to fight by building. Ecclesiastes chapter 9 verse14. Ecclesiastes. Are you guys if you remember I was showing the first love some buildings you know the different countries. I hope you'll be ready with that. There was a little city and few men within it and there came a great king against it and besieged it. Besieging means surrounded it and built great balwarks against it. So this king who was the fighter was not only besieging but he was building. There came a great king. And what does a great king

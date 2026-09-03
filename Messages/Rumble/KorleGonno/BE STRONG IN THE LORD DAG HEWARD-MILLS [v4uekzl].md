@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uekzl/"
 duration_min: 70
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 First Corinthians chapter 14, verse 1 follow after charity and desire spiritual gifts, but rather that you may prophesy. Amen. God is telling us that this year we must desire after spiritual gifts and that we must prophesy. Amen. Alright.

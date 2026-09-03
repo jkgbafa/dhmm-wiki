@@ -9,6 +9,8 @@ duration_min: 50
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MASTER KEYS GREAT HUMILITY PROVOKES GREAT MIRACLES GENEVA, SWITZERLAND DAG HEWARD-MILLS 2016 [pGq7Qx1qn-c]]]"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 always there the following point brings about a great miracle Mark chapter 7 this is the story of a humble vessel that received a very humble vessel more but Jesus let the children first be filled it is not me to take the children's B and to C it the dogs and she answered which means she's a dog understand she at the analogy she's the dog and these people are the children people don't like such say she's a dog but it was like in Ters of children and dogs like you are the dogs and people the children

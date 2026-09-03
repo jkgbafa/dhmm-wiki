@@ -8,6 +8,8 @@ year: 2018
 duration_min: 156
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 father thanks for the blessing in Jesus name amen John Great Commission Which chapter will you open to in John go to the last chapter and we are going for highlights of the Great Commission in John John chapter 12 21 is the last chapter so Matthew is 28 Mark is 16 Luke is 24 and John is 21 isn't it you know how to remember that John is 21 chapters should I tell you how when I was a um a Christian young Christian please I beg you I'm still a young Christian when I was you know younger

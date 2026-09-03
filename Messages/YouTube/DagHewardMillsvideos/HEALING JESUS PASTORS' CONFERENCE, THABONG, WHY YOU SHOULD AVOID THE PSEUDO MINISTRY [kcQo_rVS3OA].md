@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=kcQo_rVS3OA"
 duration_min: 140
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 like a father sees fit to travel like a cherbuliez his block lawful always tight you show us where to walk and the time to be happy and times when we have none he is our whole life and His mercies nervosa Oh like a survivor Lisa like a father from the morning to the evening the Sun rise again like a shepherd ELISA like a father you see oh yeah he is the great I like a shepherd Lisa like a father he people from the warden to the evening till the flood arises again like a sheriff I

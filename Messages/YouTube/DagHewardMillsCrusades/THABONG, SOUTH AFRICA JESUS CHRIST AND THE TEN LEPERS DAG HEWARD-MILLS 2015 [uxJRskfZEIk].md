@@ -9,6 +9,8 @@ duration_min: 135
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/THABONG, SOUTH AFRICA  JESUS CHRIST AND THE TEN LEPERS  DAG HEWARD-MILLS  2015 [uxJRskfZEIk]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Clap your hands for Jesus. Isn't it wonderful here? Ah, Honza Holy Munatimo. Are you blessed already? Ah o shall of fati.

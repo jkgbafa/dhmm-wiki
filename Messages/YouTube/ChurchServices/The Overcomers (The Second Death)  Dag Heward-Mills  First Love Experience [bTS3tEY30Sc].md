@@ -8,6 +8,8 @@ duration_min: 118
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/The Overcomers (The Second Death) Dag Heward-Mills First Love Experience [bTS3tEY30Sc]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 God is going to judge all of us according to the number of talents he's given to you those of you watching online is there anybody online I want you I want you to listen to the short message I was preaching this is a year you are going to become rich or sow the seeds towards riches you'll not be in need anymore you must publicly declare Jesus Christ is your son savior you must say it out loud not that you say Jesus my Savior in church and when you go somewhere else you have a different message

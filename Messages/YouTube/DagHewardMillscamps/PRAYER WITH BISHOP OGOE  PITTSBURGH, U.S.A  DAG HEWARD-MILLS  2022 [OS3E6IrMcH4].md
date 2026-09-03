@@ -9,6 +9,8 @@ duration_min: 12
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PRAYER WITH BISHOP OGOE  PITTSBURGH, U.S.A  DAG HEWARD-MILLS  2022_vpGbAQFrTmM [OS3E6IrMcH4]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 clap your hands for this powerful teaching how to develop oh PR you are welcome keep Clapping Your Hands I just noticed a handsome pastor this morning let's let's appreciate Bishop Richard yes at the right time you hear his voice please be seated well do you have your notes out yeah number one is be a traveler yes amen amen amen be a traveler that's number one and we are going to pray about this amen because many of you have roed around the system you you have moved in the system for different reasons chasing strange things but

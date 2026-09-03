@@ -4,6 +4,8 @@ book: "How You Can Preach Salvation"
 book_number: "027"
 chapter_number: 69
 type: book
+topics: ["Salvation", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/salvation", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ### Salvation Message 67:\

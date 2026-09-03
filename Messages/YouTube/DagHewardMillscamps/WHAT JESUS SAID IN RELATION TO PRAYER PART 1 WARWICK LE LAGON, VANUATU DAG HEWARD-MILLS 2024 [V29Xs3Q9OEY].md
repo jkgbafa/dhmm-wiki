@@ -9,6 +9,8 @@ duration_min: 100
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHAT JESUS SAID IN RELATION TO PRAYER PART 1  WARWICK LE LAGON, VANUATU  DAG HEWARD-MILLS  2024 [V29Xs3Q9OEY]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Hallelujah. You may be seated. Matthew chapter 7. Now I hear the dancing stars are ready to dance. Alright.

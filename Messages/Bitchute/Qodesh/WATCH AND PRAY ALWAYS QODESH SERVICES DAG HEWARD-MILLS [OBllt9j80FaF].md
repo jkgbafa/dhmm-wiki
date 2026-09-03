@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/OBllt9j80FaF/"
 duration_min: 68
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Where Jesus anybody take me to take me where Jesus is Jesus I wanna know anybody take me where Jesus is I heard that he can heal the broken heart Take me to where he can put back a life that's been torn apart take me to where he lives only he can supply my need to where he is take me to Jesus take me to where Jesus anybody take me take me I wanna go Jesus by Jesus I wanna know anybody take home Jesus anybody take me anybody takes you where he is by Jesus take home Jesus anybody take me anybody I wanna know where Jesus is I wanna go where he is take home can anybody take me I wanna go to where Jesus He knows my future He knows my past me to where I am everything I need he already has take me take me where he is where Jesus is take me to where he is take me to where Jesus is somebody who wants to be what Jesus is put your hands the name of Jesus I wanna go with Jesus I wanna go wanna go wanna go wanna go can anybody take me to where Jesus take me to a change where Jesus take wanna go I wanna know I wanna go I wanna know take me anybody take me to receive the power God take me take me take me anybody has God been good to you this year Consider how it would be.

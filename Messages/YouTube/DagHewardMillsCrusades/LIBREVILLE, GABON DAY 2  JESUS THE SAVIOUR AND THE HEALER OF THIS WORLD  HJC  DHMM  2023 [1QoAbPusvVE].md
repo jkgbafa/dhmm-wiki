@@ -8,6 +8,8 @@ year: 2023
 duration_min: 182
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Prayer"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/prayer"]
 ---
 
 Above sickness, above death, above all, Jesus, you are exalted, you are exalted above all, you are exalted above all, you are exalted, you are exalted above us, you are exalted, you are exalted above us, you are exalted, you are exalted above all, oh we lift up the name of Jesus [ Music ] NL the name that the name that changes the name that transforms the name that we the name that changes the name that transforms the name that we you above all, you are exalted, you are exalted, you are exalted on the [ Applause] Hallelujah,

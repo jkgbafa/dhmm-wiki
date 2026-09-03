@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=1mQZjJcflJQ"
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I would love to be here let your hands and thank God tonight father thank you for your blessings tonight as we come before your word Holy Word we are thanking you and we are blessing you and Lord we are asking that you touch our lives tonight hila and bless us Oh hallelujah just thank you sir thank you lord thank you Lord for your blessings nan de novo scandal energy bara knowledge Simba jenny lemor only oh yes yes Lord yes Lord yes Lord mumble Oh Mona she'll deliver a mechanic's hollando berola moneena screaming mangalapuram Oh Nene

@@ -8,6 +8,8 @@ year: 2024
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Oh God of my heart, I praise you, my Lord. I praise you, oh, you are Lord, you are a healer. I praise you when I see what you did for me. I have peace, I have peace, peace in my heart. Raise your hands when I see what you did for me. I adore you, I praise you. Raise your hands when I see what you did for me. I have peace, I have peace, peace in my heart. When I see what you did for me, I adore you, I praise you. Shout to the Lord, pass, pass,

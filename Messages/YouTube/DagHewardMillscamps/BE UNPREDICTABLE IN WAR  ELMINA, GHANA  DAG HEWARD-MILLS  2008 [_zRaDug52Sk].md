@@ -8,6 +8,8 @@ year: 2008
 duration_min: 14
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 welcome to track number 15 of warfare Keys key number 26 be unpredictable in war be unpredictable do you see it must be unpredictable when you are fighting you know why I'll show you the main reason for unpredictability in Warfare is to fight in the spirit something called familiarity you see familiarity is where we know what you will do we know what you will say we know when you will come we know how you will preach when you will preach what you will do when you finish preaching we know everything always about you do you see

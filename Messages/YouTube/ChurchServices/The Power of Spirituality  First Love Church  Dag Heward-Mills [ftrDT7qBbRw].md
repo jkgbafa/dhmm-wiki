@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ftrDT7qBbRw"
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 A spiritual person can be equated or equaled to a prophet according to this scripture. Yes. So if you are able to be a spiritual person, you are someone who is like a prophet or in the rank or realm of a prophet because you are spiritual. So you are either dominated 100% by logic, 100% by feelings which is soul or you are dominated by your flesh. When you are dominated by your flesh, it's not a small thing. Whatever you feel like doing, you do it. Goodness gracious. You feel like eating, you eat. Drinking, you drink. Sex

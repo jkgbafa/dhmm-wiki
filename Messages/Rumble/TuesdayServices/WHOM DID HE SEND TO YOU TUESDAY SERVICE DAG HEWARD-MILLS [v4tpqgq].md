@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tpqgq/"
 duration_min: 71
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Luke chapter 20. And he began to tell the people this parable. A man planted a vineyard and rented it out to vine growers. And went on a long journey. Alright.

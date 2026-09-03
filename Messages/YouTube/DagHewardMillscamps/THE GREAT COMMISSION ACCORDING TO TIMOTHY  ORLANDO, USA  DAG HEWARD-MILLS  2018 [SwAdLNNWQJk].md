@@ -8,6 +8,8 @@ year: 2018
 duration_min: 161
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 as we are seated I just want you to cool down cool off and uh but as we are seated we can still pray amen amen do you love to pray just begin to pray just speak in tongues as you are seated pray speak to God speak to God there's promotion for someone in the ministry God will lift you up God will lift you God will lift you let's pray let's keep praying I believe that this Camp is a turning point in our lives y Lord Lift Us Lord Lift Us Lord stabilize us Lord establish us

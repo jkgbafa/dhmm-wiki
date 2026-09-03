@@ -8,6 +8,8 @@ year: 2016
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Anagkazo and Compelling"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/anagkazo-and-compelling"]
 ---
 
 father we thank you for the blessing of today in Jesus name amen amen you may be seated glory to God you guys are doing a great job now uh this is the short last little session that we're going to have and um because we have to divide ourselves between the different groups that are here it's not that we are sleeping in between so I want to share with you about anazo Luke 14: 16 a certain man made a great supper a banquet some people call it God's banquet and invited many people this is Jesus describing

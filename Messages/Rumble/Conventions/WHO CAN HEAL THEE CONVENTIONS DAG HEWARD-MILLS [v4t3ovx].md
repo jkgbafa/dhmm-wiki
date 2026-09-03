@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t3ovx/"
 duration_min: 102
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Put your hands together for Jesus. Put your hands together for Jesus. Hallelujah. Put your hands together for Jesus. Hallelujah.

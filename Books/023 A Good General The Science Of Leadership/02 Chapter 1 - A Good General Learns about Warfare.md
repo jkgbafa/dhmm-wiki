@@ -4,6 +4,8 @@ book: "A Good General The Science Of Leadership"
 book_number: "023"
 chapter_number: 2
 type: book
+topics: ["Leadership", "Leadership/Generals and History Makers", "Spiritual Warfare"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/spiritual-warfare"]
 ---
 
 ### Chapter 1\

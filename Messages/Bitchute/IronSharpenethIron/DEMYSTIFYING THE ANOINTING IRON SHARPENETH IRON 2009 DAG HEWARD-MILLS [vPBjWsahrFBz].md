@@ -8,6 +8,8 @@ year: 2009
 duration_min: 107
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Church Growth", "Church Growth/Church Planting", "Wealth and Finances", "Wisdom"]
+tags: ["topic/anointing", "topic/church-growth", "topic/church-growth/church-planting", "topic/wealth-and-finances", "topic/wisdom"]
 ---
 
 With a clap offering to the Lord, let's welcome the power to give us one song. You may be seated. Very quickly. I've got me got to be up and laugh of a tuga. If I be colored to be up and laugh of a tuga to be to my rebatoga, he way hallelujah.

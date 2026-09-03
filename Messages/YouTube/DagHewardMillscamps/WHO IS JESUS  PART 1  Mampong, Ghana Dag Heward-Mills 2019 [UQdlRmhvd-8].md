@@ -8,6 +8,8 @@ year: 2019
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 all right so the next topic is who is Jesus amen who is Jesus Jesus the savior of the world so who is Jesus now that that phrase savior of the world to save us from our sins is an amazing statement amen so Luke 2:1 For unto you is Born This Day in the city of David a savior amen am a savior which is Jesus Christ the lord amen amen so Jesus Christ is born to us a savior number two 1 John chapter 4 verse 14 it says we have seen and do testify that the father

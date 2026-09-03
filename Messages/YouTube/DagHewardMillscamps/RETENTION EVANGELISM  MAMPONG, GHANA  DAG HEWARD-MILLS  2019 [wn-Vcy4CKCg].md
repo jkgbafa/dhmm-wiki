@@ -8,6 +8,8 @@ year: 2019
 duration_min: 188
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 get up can we please be up standing we want to come before the Lord I just want you to spend some time to just thank God for the gift of life just thank him for the gift of life you are Al today by the grace of God and you are a part of this hamatan Bible seminar by the grace of God you just want to say that Lord thank you thank you thank you thank you thank you thank you Jesus taught his disciples he said when you pray say Our Father which art in heaven Hallowed

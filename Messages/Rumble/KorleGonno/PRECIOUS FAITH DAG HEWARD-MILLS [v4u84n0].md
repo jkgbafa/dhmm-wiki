@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u84n0/"
 duration_min: 49
 source: "whisper"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 Let's pray. Father, thank you so much for this morning. We ask for your blessing. And we ask you to teach us and feed us with your word. Thank you in Jesus' name.

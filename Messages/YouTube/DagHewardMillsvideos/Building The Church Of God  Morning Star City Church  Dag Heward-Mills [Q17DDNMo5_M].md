@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Q17DDNMo5_M"
 duration_min: 75
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 amen are you excited why don't you give the Lord a clap and a shout hallelujah daddy we just want to say a big thank you to you for coming we have been um since we heard that you are coming here we have just been excited and we are very happy that you've come and uh our hearts are open to you we are ready to receive we are ready to be blessed please let's welcome to the podium the ministry of our daddy Bishop D on M hallelujah hallelujah 1 2 3 4 let us pray let us

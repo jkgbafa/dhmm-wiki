@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Gi4nkQTqb6Q"
 duration_min: 164
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 a couple will be panning nudity long when our bodies will become Vanessa tarney ruling on this poly pomona genome on an apple with a knife cause it'll be Coble over me Oh a lot of my Oh Mickey oh boy bye-bye I Oh oh yeah Oh Oh Oh Oh Oh I Oh Oh Oh yeah Oh Oh Oh 3:32 leave out booty hallelujah clap your hands for treaters tonight al Jazeera calendar a Metallica two years and you may be seated if we prevail that's right Limpy Zito please find a place to sit see the play session applause

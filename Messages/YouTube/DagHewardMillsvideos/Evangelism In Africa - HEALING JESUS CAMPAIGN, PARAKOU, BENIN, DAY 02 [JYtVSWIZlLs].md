@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JYtVSWIZlLs"
 duration_min: 152
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Oh my father wore a blue mm side yes I ah come follow me Oh Wow Oh Oh bye-bye Wow clap your hands for Jesus to nice clap your hands for Jesus tonight car please be seated I see some people standing where people are seated generally find a place you rather see a dejar de volalle edge also does he see where to live in the plus volume God is going to touch our lives in a mighty way tonight society value to shared amalia exceptional a priests altar there is a miracle waiting for someone here tonight yummy

@@ -8,6 +8,8 @@ year: 2023
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer"]
+tags: ["topic/church-growth", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer"]
 ---
 
 all right thank you Lord for this blessing in the name of Jesus Amen you may be seated now mat you Jeremiah 30: 19 Jeremiah 30: 19 and out of them shall proceed Thanksgiving the voice of them that make Merry and I will multiply them and they shall not be few and I will also glorify them and they shall not be small this applies to you in Jesus Jesus name today this scripture is fulfilled in your ears I will multiply them and they shall not be few I will glorify them and they shall not be small

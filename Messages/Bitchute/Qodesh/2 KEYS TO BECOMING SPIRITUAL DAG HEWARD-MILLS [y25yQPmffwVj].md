@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/y25yQPmffwVj/"
 duration_min: 56
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Let us pray. Father, thank you so much for this morning. Thank you for the opportunity that we have to come before you to hear your word and to receive direction from you. We ask that you guide us, lead us into all truth. We are thanking you, Lord, in Jesus' name.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=OvIcJLIW6Tk"
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Oh Oh No Oh Oh you're going I Wow maybe Oh Oh then you of my mouth you will Oh ah Oh Wow ah Oh Oh Wow yeah you're way you know Hey Oh we roughly share with a friend father thank you for this morning thank you for your presence here Lord as we come before your word we ask for humility and for a heart to be open Lord to receive lord help us to be able to examine ourselves so that when your word is directed to us we would not deflect it and say this belongs

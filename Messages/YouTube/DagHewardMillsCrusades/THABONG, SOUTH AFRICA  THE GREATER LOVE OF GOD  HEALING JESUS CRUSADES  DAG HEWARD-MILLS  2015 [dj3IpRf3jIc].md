@@ -8,6 +8,8 @@ year: 2015
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Jesus keep standing keep standing we are going to have more powerful music in the next few minutes I want to ask our chairman to give us the opening prayer let us all close our eyes let us all lift up our hands naar we want to adore you and worship your name and give all the glory unto you yes we love you Holy Spirit love you Holy Spirit we love you Holy Spirit we love you Jesus father we thank you name Jesus with the all that you have done this that you are doing amen amen Clap

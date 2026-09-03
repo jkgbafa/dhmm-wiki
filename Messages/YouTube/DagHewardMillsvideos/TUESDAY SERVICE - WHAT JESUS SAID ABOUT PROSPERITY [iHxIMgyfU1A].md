@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=iHxIMgyfU1A"
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 let's pray father thank you for the opportunity we have in church today to hear your word go in your word to your will Lord lead us to pray I thank you all right we are going to continue our discussion on prosperity how many are blessed by prosperity all right on Sunday and on the Sundays we are treating a very important subject on the anointing I want to invite you to come Matthew 6 my subject is what Jesus said about prosperity how many wants to know what Jesus said about prosperity it must be right is that

@@ -8,6 +8,8 @@ year: 2015
 duration_min: 119
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Go into all the world and preach the gospel until your life is done and if you love me, obey the Great Commission, build churches everywhere in every town, every province, every city, yeah, Africa shall be saved, but tell me how long is it gonna take for you to obey me? See, I have a feeling that I'm waiting for you to do my will I have a feeling that I'm waiting for you to obey me that's why I'm asking, am I gonna wait in vain for your love? Oh my gonna wait in vain for your love Am I gonna wait in vain for your love?

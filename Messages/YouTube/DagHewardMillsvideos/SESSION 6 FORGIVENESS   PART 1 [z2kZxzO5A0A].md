@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=z2kZxzO5A0A"
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 now I want us to look at another very important foundation new Dahlonega D of coordinates at four thousand three minute a first one was the call of God the second was the will of God Kamiya till appendage identity level intelligence and accuracy in following the will of God that did cheat on the Fed to sleep with you the third foundation that will keep you going alert working for the mochi bar really are continuing in times of difficulty Donnie Moore more details and will be a very important foundation for your ministry today in else on the

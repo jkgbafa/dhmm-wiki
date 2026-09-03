@@ -4,6 +4,8 @@ book: "How You Can Preach Salvation"
 book_number: "027"
 chapter_number: 91
 type: book
+topics: ["Salvation", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/salvation", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 ### Salvation Message 89:\

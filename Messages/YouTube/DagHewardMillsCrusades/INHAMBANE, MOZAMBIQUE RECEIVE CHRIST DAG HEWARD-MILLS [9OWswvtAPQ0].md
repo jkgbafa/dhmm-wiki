@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9OWswvtAPQ0"
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Grita con força con força mohanni si mala wena si esu na coué maya weina i m'agoulé toi la belle si waye so l'aïe soit tout ma vie sous siwa in coup d'oshiwa comme jesu baya wena yeshiwa so tana wat so ma t'awena slocata comigo nissar ako ni sare con força grita grita grita grita to press de Jésus tu precisa de vida con salvação dicisa para gloria o inferno te chama siama non l'inega seja rapido sua palabra di asseita será salvo a via na terra etquezas do mundo para mundo vestir ropa e avia um povo vivia

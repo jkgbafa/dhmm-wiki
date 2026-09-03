@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=3lb__tDqp4o"
 duration_min: 200
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 father we love you we thank you we glorify your name we praise you for your presence in this place come on lift your hands the sweet presence of God is all over this place from the front to the back everybody close your eyes and believe God for an impartation right now believe God for the supernatural manifestations of the mighty Holy Spirit everybody lift your the Holy Ghost the Holy Ghost the Holy Ghost the Holy Ghost the Holy Ghost the Holy Ghost the Holy Ghost the Holy Ghost come on come on come on come on I

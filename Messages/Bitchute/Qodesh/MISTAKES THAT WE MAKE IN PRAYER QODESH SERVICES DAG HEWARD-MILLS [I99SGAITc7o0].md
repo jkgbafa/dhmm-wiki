@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/I99SGAITc7o0/"
 duration_min: 80
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Never shaken. How good you've been to me. How good you have been to me forever painful. How true? How your promises never shake it.

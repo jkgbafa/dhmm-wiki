@@ -8,6 +8,8 @@ year: 2009
 duration_min: 138
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Wealth and Finances"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/wealth-and-finances"]
 ---
 
 One of the things that you need when you have churches is and pastors, a lot of pastors is loyalty, you need loyalty, now people don't understand it because they don't have pastors working for them now to have pastors you need loyalty, otherwise they will get finished, the pastors will get finished. One day I saw a certain pastor who started some few churches. I advised him how do you get more churches? How do you get more churches? I can't have the answer.

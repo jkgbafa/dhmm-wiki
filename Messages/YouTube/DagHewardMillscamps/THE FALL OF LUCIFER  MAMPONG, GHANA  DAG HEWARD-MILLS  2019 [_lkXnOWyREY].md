@@ -8,6 +8,8 @@ year: 2019
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 are you all here or some are sleeping somewhere most of us are here beautiful now one of the wonderful things that it is that is important for us to realize it's something that is real that God is real and the devil is also real when Jesus went to the Wilderness one of the main things was dealing with the devil so he he you you need to deal with demons and fight them amen amen so did God create evil no he created good everything he made was good but before we came on the scene there was

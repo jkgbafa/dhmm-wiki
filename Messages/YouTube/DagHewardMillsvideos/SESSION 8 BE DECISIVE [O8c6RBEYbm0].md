@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=O8c6RBEYbm0"
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 keep down somebody's got some are dying don't keep it too you need to tell somebody but I've got to know the cleanup and though we all have try a crack today don't even know there's a God who is willing to help them that although they don't know that he can see this through the darkest night how will you be by now there's a God above here we neon man and he can see you bro Fatah even just keep him a chair I must go he must go and let them know I can't keep I need

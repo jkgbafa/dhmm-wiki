@@ -8,6 +8,8 @@ year: 2018
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 Let me ask you a question: How many of you really believe that God can build a church through you? There is a belief that says, "Don't be a little bit too much, don't be a little bit too much, don't be a little bit too much, listen to what I'm saying. This is a very serious question. Nanu, we took the leadership of our People's Church of God in September. We believed that the culture of our church was not good enough. It's good to come this far. But what needs to change here is that our church is

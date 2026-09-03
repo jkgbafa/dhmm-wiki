@@ -8,6 +8,8 @@ duration_min: 109
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MBARARA, UGANDA DAY 1 HE SENT HIS WORD AND HEAL HJC DAG HEWARD-MILLS [9GgTG34yvxU]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Do you believe Jesus is here? Lift up your right hand. Do you believe Jesus will touch you? Lift up the left one. And put your hands together for Jesus.

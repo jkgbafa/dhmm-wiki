@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Ej5k_I2YM6I"
 duration_min: 47
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Backsliding"]
+tags: ["topic/salvation", "topic/salvation/backsliding"]
 ---
 
 sentence of backsliding amen turn with me to Luke chapter 21 Luke chapter 21 that's 25 and there shall be signs in the Sun and in the moon and in the Stars and upon the earth distress of Nations with perplexity the sea and the waves roaring amen all right and then they shall see the Son of man coming in a cloud with power and great glory when these things begin to come to pass then look up and lift up your eyes for your Redemption draweth nigh behold a fig tree and all the trees when they should

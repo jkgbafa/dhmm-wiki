@@ -8,6 +8,8 @@ year: 2024
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Hallelujah you may be seated Matthew chapter 7 now I hear the dancing stars are ready to dance all right so you have what dancing stars and singing stars or just dancing dancing okay so before the dancing stars come I want you to see something important about what Jesus said amen about and what what Jesus said and I want us to look at it judge not verse one that ye be not judged amen amen for with what judgment you judge you shall be judged and what measure you meet it shall be measured to you again why

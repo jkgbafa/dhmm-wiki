@@ -8,6 +8,8 @@ year: 1999
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/faith", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 to praise the name of the love taking and the shoddy yes between Olivia this morning want to give a lot and loud sustained noise of bring hallelujah want to do it together from the front to the back from the side to the side everybody want to lift up your voice and give the Lord and loud sustained shout today I live here I mean we Blessington we bled to keep hold a me bar here why did her Mia William I'm a 13 MP 31 you mean about what you have to get up oh oh oh Oh

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2017
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Prayer", "The Holy Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer", "topic/the-holy-spirit"]
 ---
 
 How many are not pastors? What are you workers? Christian workers. Very good. Now, it is a it is a great thing to serve the Lord. Amen. And I would encourage everybody to serve the Lord Jesus. All right. Today I want to share with you um on different things all from my different books and this one is called Amplify Your Ministry and I want to share something about 1 Corinthians chapter 12. All right, if you don't mind 1 Corinthians chapter number 12 and I'm going to read from verse one. I'm talking about amplifying your ministry through

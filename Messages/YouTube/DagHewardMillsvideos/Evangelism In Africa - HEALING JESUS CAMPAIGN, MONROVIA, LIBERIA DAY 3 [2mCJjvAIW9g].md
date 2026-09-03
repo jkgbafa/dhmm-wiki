@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2mCJjvAIW9g"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 - I come and kiss a lot we've got a story we are victorious second we've got a piece Tory we are victorious with gossip a story we are victorious we are my god who is on the best arena we have an okay Factory oh we've got a to me we are Victoria Wieck got a big story we are victorious we got a story we are victorious we are okay we are buddies we are despite people at high five keep fighting boy a high five SFX our Investor is the story this story I will sing of

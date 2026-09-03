@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IbWNYA94J0E"
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah hallelujah hallelujah if you believe she does is here tonight lift up your left hand please and if you believe Jesus or that you kindly lift up the right one I'll put your hands together for Jesus because Sharma Gandhi Teja Tina Turner Monty are you here are you yes sir burgundy purple Gama Dogu na ma hallelujah put your hands together beaucoup nacho su rubaba name or your wangu not gonna matter Oh bonus e-ticket amaura d connecticut ah no no Nora tonight Burcu namitha yeah yeah Java cavite are eatable borrow couponer my brain everybody Cindy go

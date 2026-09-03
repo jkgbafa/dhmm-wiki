@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Pg-WlGrAKuA"
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 he can oh my god is mighty to save he is mighty to the salvation he rose and conquered the grave Jesus and suppleness of everyone needs working with kindness maybe he can move my body to say oh he would Hey my god is mighty to save I so he wrote she says oh yes our Jesus conquered the grave he's no longer there is alive oh thank you lord my number let no house better to play and way to play I want you me oh boy having sweetie we love we ooh let now your church let

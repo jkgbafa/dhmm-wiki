@@ -8,6 +8,8 @@ year: 2005
 duration_min: 164
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Prayer/All-night Prayer"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/prayer/all-night-prayer"]
 ---
 
 welcome to track number one of busal liation heavenly father thank you for the blessing we have in this camp meeting and thank you for your presence and the ability to succeed and to do well in your sight in Jesus name amen amen you may be seated right I believe um we have alled um a blessing just by praying so um we are going to continue sharing the word amen amen now I want you to listen carefully because we are going to have a special camp meeting is there anybody here from any of the branches huh

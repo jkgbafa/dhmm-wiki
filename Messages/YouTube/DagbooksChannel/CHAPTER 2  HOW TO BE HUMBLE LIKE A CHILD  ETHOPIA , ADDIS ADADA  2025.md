@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Leadership", "Leadership/Art of Leadership", "Leadership/Generals and History Makers", "Prayer", "Salvation", "Salvation/The New Birth", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/leadership/generals-and-history-makers", "topic/prayer", "topic/salvation", "topic/salvation/the-new-birth", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 is here. Are you excited and ready? Okay, help me to welcome Bishop Duanvilles to the stage. Hallelujah. Hallelujah. What a blessing. Lift your hands. Let's pray. Father, we thank you in the name of Jesus for today and this last session in your presence. We pray that you have mercy on us and speak to our hearts. We thank you Lord Jesus for this great opportunity. We are grateful that you love us and that you speak to us. Lord, when you speak to us, we feel loved. We feel revived. And so we pray that you speak to

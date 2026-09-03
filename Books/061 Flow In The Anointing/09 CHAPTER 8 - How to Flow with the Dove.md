@@ -4,6 +4,8 @@ book: "Flow In The Anointing"
 book_number: "061"
 chapter_number: 9
 type: book
+topics: ["The Holy Spirit", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/the-holy-spirit", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 ### CHAPTER 8 \

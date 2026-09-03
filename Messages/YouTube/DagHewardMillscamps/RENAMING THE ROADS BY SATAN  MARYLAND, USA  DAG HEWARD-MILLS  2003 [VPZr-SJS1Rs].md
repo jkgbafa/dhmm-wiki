@@ -8,6 +8,8 @@ year: 2003
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 welcome to track number 11 of gates and Roads you you you get I've mentioned a few of them already okay so I just give you about five or six of them number one gain the road you enter the gate for narrow is the gate broad no enter the Straight Gate for wide no no enter you in by the Straight Gate yeah for wide for wide is the gate broad is the way that lead to struction and many be there that uh go there in their acts but narrow is the gate and but straight is the

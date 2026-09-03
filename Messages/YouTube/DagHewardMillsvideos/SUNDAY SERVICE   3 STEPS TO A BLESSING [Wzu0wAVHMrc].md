@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Wzu0wAVHMrc"
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 let us pray Heavenly Father thank you so much for this wonderful morning you have given to us Lord we are asking that you guide us by your Holy Spirit lead us into all truth lead us into your word heal us from our diseases right now if you are not well in any part of your body I want you to just place your hand there whatever problem you have just put your hand on your heart and we pray with you father thank you that you are the Lord that heals us we pray for miracles today we

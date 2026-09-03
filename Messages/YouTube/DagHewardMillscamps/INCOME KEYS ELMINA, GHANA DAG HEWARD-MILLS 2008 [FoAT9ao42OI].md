@@ -9,6 +9,8 @@ duration_min: 8
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/INCOME KEYS   ELMINA, GHANA  DAG HEWARD-MILLS  2008 [FoAT9ao42OI]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number 19 of Warfare Keys. Let me just uh divert divert a bit too income keys, income keys, eight spiritual keys to increase your income. Number one, pay your tithes to break a curse. Number two, pay your tithes to avoid hypocrisy, bankruptcy, and the undermining of your own spiritual authority. Number three, sow seeds towards financial prosperity, sow seeds.

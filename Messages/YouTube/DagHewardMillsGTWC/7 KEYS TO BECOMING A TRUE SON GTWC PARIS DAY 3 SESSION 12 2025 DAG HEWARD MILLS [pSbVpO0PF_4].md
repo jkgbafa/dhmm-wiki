@@ -8,6 +8,8 @@ year: 2025
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now how many want to become good sons? Let me give you seven keys. To becoming a true son. Number one. Numero 1.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=a1apjSBFp8w"
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 second Timothy 4 verse 3 for the time will come when they will not endure sound doctrine and after their own lusts they shall heap to themselves teachers having itching ears and they shall turn away their ears from the truth amen so overcome 18 years what does that mean don't allow people to dictate what you preach because what is that 18 years when somebody has an H instead scratch me here here so it doesn't want you to scratch anywhere there so when a person has 18 years he wants you to do a particular sensation that's what

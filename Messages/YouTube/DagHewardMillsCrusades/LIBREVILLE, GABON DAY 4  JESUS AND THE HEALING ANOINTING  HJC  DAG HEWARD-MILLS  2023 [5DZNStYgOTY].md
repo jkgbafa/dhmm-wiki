@@ -8,6 +8,8 @@ year: 2023
 duration_min: 157
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Kinds and Waves of the Anointing", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/anointing", "topic/anointing/kinds-and-waves-of-the-anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Lord, Lord, Lord, I adore you, Lord, I adore you, Lord, I adore you tonight, I adore you, I adore you, Lord, I adore you, my Lord, I adore you, ... Let yourself be drawn glory into glory, you take me, you take me, you take me into the depths, into the depths, your holiness, your holiness, you take me, you take me, glory in you, I glide into glory, I glide into glory, Lord, you take me, you take me into the depths, into the deep, you take me, you take me, you take me Lord, keep on acclaiming

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=nnIEdivg6y8"
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 today we are pointing classes all over the world in different places this morning it's a today's we decided to appoint pastors today so so many people have been appointed all about I've already appointed about I don't know how many of you weigh about 40 of them already they playing some soccer today Danny saw that today okay so today I'm very happy to introduce a lot of people active some of them are not in Ghana some of them are not in Ghana because they are missionaries now we have a lot of things you have to do

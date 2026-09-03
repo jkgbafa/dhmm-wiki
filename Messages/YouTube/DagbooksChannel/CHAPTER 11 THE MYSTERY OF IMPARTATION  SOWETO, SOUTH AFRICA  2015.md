@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2015
 source: "autocaption"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 I want to share with you about the mystery of impartation. I'm sharing with you from my new book on the anointing which is not yet out but I'm sharing about it anyway. And I believe that you are being blessed. Make sure you invest heavily in these materials. This is rather what you need a loan for. Yeah. Instead of a loan to buy a dress or a loan to buy something that is not going to last. Amen. Wow. Now if there is one thing you must get about the anointing is the mystery of impartation. Amen. Amen.

@@ -8,6 +8,8 @@ year: 2016
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 What a blessing. Mr. Francis, why don't you come up and say something before I Come on, somebody shout hallelujah. Hallelujah. Oh, you can do better than that. I say somebody shout hallelujah. Hallelujah. Come on, make a joyful noise onto the Lord. It look like some of you are still sleeping. Rise on your feet. Jump and make a joyful noise. Come on. Keep on. Keep on. Keep on. Keep on. Come on. Be alive for Jesus. Somebody scream. Let everybody know that Jesus is alive here. be seated if you can. You see, when the evangelist is about

@@ -8,6 +8,8 @@ year: 2000
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 the winner blowing OH oh it's a fragrant breeze is blowing once a day once again worth again I don't know where it comes from so no welcome and I don't know where it goes sui sui' oh sweet that's the width there's a wing better with there's a wing all across them there ah it's a fragrant breeze come on now then you to lift your voice blow it so far where it come from the know where we come from and I don't know where it goes ah but let him love believe her over me hey whoa

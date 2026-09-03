@@ -4,6 +4,8 @@ book: "Fruitfulness"
 book_number: "065"
 chapter_number: 7
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 ### CHAPTER 6\

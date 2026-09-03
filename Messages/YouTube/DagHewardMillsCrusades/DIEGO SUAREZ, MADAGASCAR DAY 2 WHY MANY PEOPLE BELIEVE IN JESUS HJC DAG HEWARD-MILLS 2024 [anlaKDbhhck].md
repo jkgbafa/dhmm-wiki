@@ -8,6 +8,8 @@ year: 2024
 duration_min: 65
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 How many love Jesus? Yes. If you were the door or you were the way you should have said it earlier. Amen. Jesus is alive.

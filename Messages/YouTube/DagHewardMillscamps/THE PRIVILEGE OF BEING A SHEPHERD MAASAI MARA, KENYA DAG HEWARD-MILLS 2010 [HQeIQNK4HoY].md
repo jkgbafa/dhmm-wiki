@@ -9,6 +9,8 @@ duration_min: 14
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE PRIVILEGE OF BEING A SHEPHERD   MAASAI MARA, KENYA DAG HEWARD-MILLS  2010 [HQeIQNK4HoY]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number one of the privilege. Remember me, O Lord, in your favor, and visit me with your salvation. I'm reading from the American Bible. It said that I may see the prosperity of your chosen ones, and that I may rejoice in the gladness of your nation, that I may glory with your inheritance. Amen.

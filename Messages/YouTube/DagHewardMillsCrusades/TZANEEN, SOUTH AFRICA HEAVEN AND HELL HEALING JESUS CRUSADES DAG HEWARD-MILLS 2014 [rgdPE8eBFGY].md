@@ -9,6 +9,8 @@ duration_min: 151
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/TZANEEN, SOUTH AFRICA  HEAVEN AND HELL  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2014 [rgdPE8eBFGY]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Clap your hands for Jesus tonight. I didn't just keep clapping your hands tonight. I tell you what. Clap your hands and let's welcome the evangelist. Tonight I'm gonna go to my Hallelujah Hallelujah.

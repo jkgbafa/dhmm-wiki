@@ -8,6 +8,8 @@ year: 2022
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Deliverance"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance"]
 ---
 
 all right lift your hands and just pray for a moment father thank you for this blessed time in the mighty name of Jesus we are thanking you spe for oh Jesus Oh Jes father we grateful for your presence thank you the guidance of your spirit in Jesus name amen amen you may be seated wow now our theme hello on stage our theme is use it or lose it wow and we using it or losing it is about the five gifts that God has given to us amen now the main thing about the gift of God

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=F7fg_1EZvZI"
 duration_min: 154
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 the Bible says in the book of Ephesians of the 137 that in whom we have Redemption the forgiveness of sin I believe that God has redeemed us and what has saved us and because of that there was as you are supposed to lose you have won because of Jesus hallelujah so wanna sing Jesus as the winner man I recently saw to the widow mine I read effectiveness of the winner belt gives a lot of time like this one o'clock I did he take the bag listen I am I am I am on the witness table

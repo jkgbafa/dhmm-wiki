@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=eQBHIxa3sUE"
 duration_min: 302
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Vision and Direction", "Vision and Direction/The Will of God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we give your sons because you've not yet taken your breath out of us we give your sons because our bodies are not without the spirit but they are with the spirit we give you thanks because you are here we'll give you songs because you love us we give you thanks because you are good and kind and merciful we'll give you thanks because you are the king of kings and the Lord of lords will give you songs because you are the master of all Masters oh you are The Great I Am you are the same yesterday

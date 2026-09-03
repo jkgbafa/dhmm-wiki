@@ -8,6 +8,8 @@ year: 2016
 duration_min: 145
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 I'm I'm I'm on the second age honor his glory shall rise upon thee yes that's the anointing it's like it wakes up that anointing is going to wake up on your life now honor is also defined as this to honor someone is to recognize and memorialize a person and his weth his works and his accomplishments to to honor someone Jesus said a prophet is without honor that means so to honor someone is to recognize memorialize a person and his worth his works and his accomplishments therefore to dis honor someone is to fail to notice is

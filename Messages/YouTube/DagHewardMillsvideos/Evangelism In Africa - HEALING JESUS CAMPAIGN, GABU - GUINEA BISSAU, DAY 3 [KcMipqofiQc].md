@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=KcMipqofiQc"
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 wookies Oh I explain me now hey join doctor hello everybody leaves your hand but to the envy of the world and say this prayer father thank you for this blessing tonight but very beautiful resolve up a thesaurus already noise thank you for your blessing tonight applicable pain so very noise thank you for the power of Jesus obrigada poder to deduce thank you for your power to heal tonight obrigada poder in the coronoid we welcome you Holy Spirit who spirit decide to be something we welcome you holy spirit spirit aside without a video of your way

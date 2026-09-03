@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=T5txUr2m4wI"
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 help ah Oh the Word of God Oh is my must be forever please do and you apply so night and not stopping me now is good battery let me I do mean it could have this out you got a crown chose economy you are away and I'm thinking but now we have my pants on oh right I would like however the right how would I write I will write over the rising right saku-dono webspinner to that nobody I come from my left to my right to refer to my already did I come to the point

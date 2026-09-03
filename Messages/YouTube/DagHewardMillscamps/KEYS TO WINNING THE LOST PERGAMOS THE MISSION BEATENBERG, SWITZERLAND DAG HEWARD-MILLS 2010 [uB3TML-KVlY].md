@@ -9,6 +9,8 @@ duration_min: 93
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/KEYS TO WINNING THE LOST PERGAMOS THE MISSION   BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2010 [uB3TML-KVlY]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism"]
 ---
 
 Welcome to track number five of advancing in Pegamos in winning the loss at any cost. Has everybody got your copies of the book now? Who does still not have? It's coming. Okay.

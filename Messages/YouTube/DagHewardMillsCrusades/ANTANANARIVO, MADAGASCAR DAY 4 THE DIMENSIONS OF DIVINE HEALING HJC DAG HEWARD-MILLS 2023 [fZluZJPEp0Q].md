@@ -9,6 +9,8 @@ duration_min: 118
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/ANTANANARIVO, MADAGASCAR DAY 4  THE DIMENSIONS OF DIVINE HEALING  HJC  DAG HEWARD-MILLS  2023 [fZluZJPEp0Q]]]"
+topics: ["Anointing", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/anointing", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 We want to pray over our offering tonight. Hallelujah. Hallelujah. Let's pray. Father, we thank you.

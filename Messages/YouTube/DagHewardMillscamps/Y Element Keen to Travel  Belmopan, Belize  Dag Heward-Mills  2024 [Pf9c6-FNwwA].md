@@ -8,6 +8,8 @@ year: 2024
 duration_min: 31
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 put get us we welcome the prophet Hallelujah hello hallelujah amen number 27 King to travel King to travel wow yes Keen to travel now Keen to travel when the young elements are there people are Keen to travel travel to come for homecoming to go on a mission yes older people don't want to travel so much the older you become the more you want to stay at home when saw some people going on a hyoon they said they are going here here here I said hey I even feel tired when I hear the places they are

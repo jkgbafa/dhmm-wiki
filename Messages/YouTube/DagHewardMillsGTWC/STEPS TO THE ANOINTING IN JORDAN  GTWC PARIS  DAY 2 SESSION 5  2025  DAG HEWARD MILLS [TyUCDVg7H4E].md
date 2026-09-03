@@ -9,6 +9,8 @@ duration_min: 64
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/STEPS TO THE ANOINTING IN JORDAN GTWC PARIS DAY 2 SESSION 5 2025 DAG HEWARD MILLS [TyUCDVg7H4E]]]"
+topics: ["Anointing", "Anointing/Catching the Anointing"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing"]
 ---
 
 Now, anointed. Let's go back to anointed and consecrated. Eight books. Anointed. I want all the eight books to come. Please catch the anointing. And then number two, steps to the anointing. What is the difference between this book and catch the anointing? The steps to the anointing will show you seven steps in seven different ways. Amen. Amen. 1 2 3 4 5 6 7 and then in the seventh step you become anointed. Yeah. Seven step you become anointed. In this book you will see a number of steps. seven steps because you see how how IS IT

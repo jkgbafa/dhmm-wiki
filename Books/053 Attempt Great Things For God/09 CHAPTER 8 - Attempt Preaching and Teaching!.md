@@ -4,6 +4,8 @@ book: "Attempt Great Things For God"
 book_number: "053"
 chapter_number: 9
 type: book
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 ### CHAPTER 8 \

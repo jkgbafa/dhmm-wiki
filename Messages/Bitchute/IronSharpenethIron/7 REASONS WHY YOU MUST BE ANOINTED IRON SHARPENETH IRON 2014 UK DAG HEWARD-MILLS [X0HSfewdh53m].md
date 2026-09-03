@@ -8,6 +8,8 @@ year: 2014
 duration_min: 68
 source: "whisper"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 So we see that people do that. So we do something on this one because you don't have to file where you want to freeze the size. That's why something has to be lost. So you can't have to move to those methods of your industry at the right. So now I want to tell you what it's got to do.

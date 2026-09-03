@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_G9yDAHORrY"
 duration_min: 236
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 a testimony let's put our hands together please clap your hands for Jesus keep clapping let's welcome money praise the Lord god is good Sandman and magellanic sonic Imelda gotcha so I'm just standing Lapham de guerre no just to encourage each one of you a command gotcha soo we would see as you continue with ministry it's very very important to read read and read I'm laughing at emphasized again Johnny but it's important to read read and read and it's important to listen listen and listen then I got enemy ta Infante is alive but through the poops

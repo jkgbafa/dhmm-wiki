@@ -9,6 +9,8 @@ duration_min: 79
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/KEYS TO COMING OUT OF OBSCURITY PART 1  ELIMINA, GHANA  DAG HEWARD-MILLS  2009 [B1HyHxiO-u0]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to Megaway, a life-changing encounter with the word of God from Bishop Dougie Woodmills. Daddy Woodmills, a medical doctor by profession, is the founder and bishop of the Light of Chapel International. He pastors the Light of Cathedral, a thriving church with several thousand members in Accra, Ghana, and the network of over 400 churches worldwide, operating in more than 30 countries in Africa, Europe, North America, South America, and Australia. Bishop Daggywood Mills, who has a resting gift, has traveled extensively and ministers powerfully under the anointing.

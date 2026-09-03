@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=N0L8txUVqdg"
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 revelations chapter 10 revelations chapter 10 I'm sharing with you about steps to the anointing and I've given you one key one step which is the step of I mean I've given you several steps but the step that ends up with listening watching more than football is watching for the anointing keep watching keep noticing this is where the power is this is where the Spirit is working and God is going to change your life amen now the second step that I want to share with you now again it's found in Revelation chapter 10 and also in

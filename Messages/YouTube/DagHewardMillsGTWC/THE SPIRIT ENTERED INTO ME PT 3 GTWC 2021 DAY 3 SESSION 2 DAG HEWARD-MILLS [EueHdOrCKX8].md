@@ -8,6 +8,8 @@ year: 2021
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 They may be seated. Now the spirit entered into me. Ezekiel chapter 2. Ezekiel chapter 2. And it says in the six.

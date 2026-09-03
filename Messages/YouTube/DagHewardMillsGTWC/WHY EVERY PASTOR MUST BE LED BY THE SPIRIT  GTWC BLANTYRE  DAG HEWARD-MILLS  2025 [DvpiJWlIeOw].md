@@ -8,6 +8,8 @@ year: 2025
 duration_min: 52
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances"]
 ---
 
 Hallelujah. Father, thank you for the blessing of this conference in the name of Jesus. Amen. You may be seated. Now we want to continue on the theme of the art of leadership. Amen. Father, thank you for the blessing that is upon this service. for Amen. Amen. Now the art of leadership is the art of leading people. Our vision is to build the church of God. Amen. And God is going to use us to do great things in building his church. And so one of the things that you have to do is to become a good

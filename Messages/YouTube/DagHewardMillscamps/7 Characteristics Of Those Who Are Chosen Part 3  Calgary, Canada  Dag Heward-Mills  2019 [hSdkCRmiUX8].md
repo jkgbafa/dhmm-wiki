@@ -8,6 +8,8 @@ year: 2019
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Father, we thank you for the blessing you've given to us in choosing us and using us in Jesus name. Amen. Amen. You may be seated. Hallelujah. Amen. Are you here or you are not yet here? All right. Now, choose me and use me. Now, the big question is choose me for what? Amen. Amen. I was giving you seven things uh characteristic of those who are chosen, isn't it? And I gave you six, isn't it? Or what it means to be chosen. But the seventh one, I will give it to you if the Lord allows me

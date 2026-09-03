@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=yU4PK8UUPXU"
 duration_min: 89
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer"]
 ---
 
 you we we are we are the people why take your brother shake your sister had your brother hug your sister we are the people of God I need you do you know that you need me and I need you now five people I need you you need me I need you we are and with the agree with me we are all with me agree with somebody's make sense Wow do you I would me Oh since I joined this family more than 20 years ago time for opportunity Lord we ask you to guide us tonight by

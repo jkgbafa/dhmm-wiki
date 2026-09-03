@@ -9,6 +9,8 @@ duration_min: 78
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/29 WAYS TO PREACH WELL   MAASAI MARA, KENYA DAG HEWARD-MILLS  2010 [eVNpByvdsUU]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number 15 of the privilege. The friend. Put something in the back. Oh, yeah. Hallelujah.

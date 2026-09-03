@@ -8,6 +8,8 @@ year: 1999
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 second Kings chapter fine now naman the captain of the host of the king of Syria was a great man with his master an honorable because of him the Lord have given deliverance and to Syria he also was a mighty man in valor but he was a leper amen amen now notice the many things that are said about naman I used to with me trying to overcome the smell of watching or whatever it is that they are cooking around us it's a very powerful thing here today our God is giving us total victory over that hallelujah

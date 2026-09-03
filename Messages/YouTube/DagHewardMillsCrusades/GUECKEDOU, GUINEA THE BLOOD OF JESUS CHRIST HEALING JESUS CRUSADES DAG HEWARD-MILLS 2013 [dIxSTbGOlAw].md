@@ -8,6 +8,8 @@ year: 2013
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 God is going to give us a feast of miracles in Gekedou. Hallelujah. Hallelujah. How many of you are expecting your miracle tonight? Combien d'entre vous attend this soir?

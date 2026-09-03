@@ -8,6 +8,8 @@ year: 1997
 duration_min: 10
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number three of loyalty in the mega church let's go on the next Ministry is the comforting Ministry Psalm 23 we read it thy rod and thy staff they comfort me amen people need comfort comfort Olivia do you need comfort Cojo do you need comfort very much so ESS do you need comfort Julian do you need comfort you need comfort from from whom anybody anybody around you wonderful Hallelujah we all need comfort amen and somebody body has to provide comfort for people and I want to say Shepherds if you don't really love the

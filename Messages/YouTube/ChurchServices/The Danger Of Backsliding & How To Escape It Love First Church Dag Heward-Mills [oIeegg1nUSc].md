@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=oIeegg1nUSc"
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Backsliding"]
+tags: ["topic/salvation", "topic/salvation/backsliding"]
 ---
 
 Well, our father is in the house. Church, rise to your feet. Let's welcome our pastor, our prophet, Bishop Daggy Wood Mills! Let us pray. Father, thank you for tonight.

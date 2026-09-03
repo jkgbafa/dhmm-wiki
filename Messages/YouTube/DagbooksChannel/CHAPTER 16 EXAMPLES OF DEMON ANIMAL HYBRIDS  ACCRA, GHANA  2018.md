@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2018
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Thank you Jesus. Hallelujah. Father, we are excited to be enjoying your presence this evening. Guide me by your guide us by your mighty power. In Jesus name we pray. Amen. Amen. You may be seated. This is a very short um session just to bless and encourage our hearts. Amen. The title of my very short message, you could give a different titles if you wanted to, but the title of my short message is people are not people. I don't I don't really understand your reaction to my my message. Is it not a good message? All right,

@@ -8,6 +8,8 @@ year: 2008
 duration_min: 188
 source: "whisper"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I expect a miracle today. For nothing is impossible to those who believe and say, and I believe God's word is still the same. So I expect a miracle today. And I expect a miracle today. For nothing is impossible to those who believe and say, and I believe that's why it's still the same.

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 15
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Père, nous sommes reconnaissants, nous te remercions. Au nom de Jésus, Amen, et vous pouvez prendre place. Hallelujah. Hallelujah. Now I was sharing with you about anointed and consecrated.

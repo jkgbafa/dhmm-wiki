@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Yr5k1A8xgvA"
 duration_min: 67
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 father thank you so much for beautiful music in your house we bless your name and we thank you that we can glorify you in all that we do and say thank you Lord in the name of Jesus amen you may be seated now being it a Christmas time the bookshop asking me to show you these little boxes we have here this one is a box of my books especially for ministers ministers pack they call it and it has books that are very helpful for pastors the whole box contains all those books and they're not the

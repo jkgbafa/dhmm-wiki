@@ -8,6 +8,8 @@ year: 2017
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "The Holy Spirit", "Wealth and Finances"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/the-holy-spirit", "topic/wealth-and-finances"]
 ---
 
 We know that all things work together for good to them that love the Lord, to them who are the called. I have not seen nor ear heard, nor have it entered the heart of a man. The things God has prepared for those who love him. You must love the Lord. Give him all your heart. You must love the Lord because it's the greatest commandment. A child of God. You must love the Lord. Give him your very heart. You must love the Lord. Oh my child, because he has set his love upon me, therefore will I

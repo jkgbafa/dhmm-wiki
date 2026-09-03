@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=u4VINVZdRAQ"
 duration_min: 39
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Ministry and Pastoring"]
+tags: ["topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring"]
 ---
 
 praise the lord praise the lord praise the lord the bible says that we serve a great and a living god what a mighty god we save it's a it's a brand new day it's the day that the lord has made the bible says we shall rejoice in the gladiators i'm so excited this uh wonderful day to come your way again we are having a preview interview for the give thyself holy um conference coming up this august 25th to 28th of august 2020 and this is a special give myself holy and this wonderful morning we have

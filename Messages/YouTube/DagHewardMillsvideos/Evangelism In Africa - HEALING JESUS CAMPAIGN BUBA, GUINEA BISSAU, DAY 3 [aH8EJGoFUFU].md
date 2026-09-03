@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=aH8EJGoFUFU"
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Soul Winning and Evangelism"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/soul-winning-and-evangelism"]
 ---
 
 no Benghazi no me in the bahador ah ba ba ba ba la vie de cocina Hey in da da da da da da da Liberdade Oh Marone accountable Maronna to breathe Oh haha Hey Oh Hey Hey nah nah nah nah nah nah Oh Hey is the moon true ha ha daddy okay yeah a mega menu area by area readable bad idea le camion Adi No I can quadruple the total profit edges globulin for Jesus or a solvent abusers I wanna welcome all those who are Sandin muhammad firdaus mythical rhetorical figure depressed bobaloo la finta something

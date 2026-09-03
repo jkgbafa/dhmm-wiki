@@ -4,6 +4,8 @@ book: "Not A Novice"
 book_number: "079"
 chapter_number: 5
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 ### CHAPTER 4\

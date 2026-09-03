@@ -8,6 +8,8 @@ year: 2005
 duration_min: 29
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number four of snake Junction now how to excel the next key how many keys have I given you three what's the first key the key of the desire let the desire be an anchor number two was what I can do attitude what the third one build something in your lifetime amen those of you who may be abroad one day earning money just decide to build don't go and when you are coming back one day you say I don't have anything it's very difficult amen amen now the next thing is don't think of

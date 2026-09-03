@@ -8,6 +8,8 @@ year: 2011
 duration_min: 151
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 Vis God Immortal oh how great th sing it unto him imort God inable God oh Immortal God how great Immortal God Lord Immortal how great how great how great ortal godal great Allis God how great how great how great how great imortal God oh I bless your name father we bless your name we bless your name we bless your name we worship we exalt your name we magnify we exalt you we worship you Lord how great how great how great how great th are Lord th great th father thank you so much for this great

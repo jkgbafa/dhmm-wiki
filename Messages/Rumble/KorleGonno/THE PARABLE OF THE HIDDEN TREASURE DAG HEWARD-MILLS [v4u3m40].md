@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3m40/"
 duration_min: 31
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Father, we thank you for this morning. We ask you to lead us and speak to our hearts in Jesus' name. Amen. You may be seated. I want you to turn with me to Matthew chapter 13.

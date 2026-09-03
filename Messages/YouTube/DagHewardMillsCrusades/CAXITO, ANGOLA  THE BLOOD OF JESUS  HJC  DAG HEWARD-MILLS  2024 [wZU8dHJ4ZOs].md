@@ -8,6 +8,8 @@ year: 2024
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 Now I want you to help me to give a welcome to the Lord, clapping for Jesus, shout, shout, shout, shout, shout if I have all the things of this world and I lost Jesus, I lost everything, if I have Jesus if I have Jesus, if I have Jesus, I have everything, I have everything, it is more precious than everything, stand up for the Lord, so please, stand up, stand up, stand up, pastors, pastors, please if I have all the things of this world and I lost Jesus, I lost Jesus, I have everything, more precious than

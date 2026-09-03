@@ -9,6 +9,8 @@ duration_min: 40
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EFFECTS OF HOLY SPIRIT  CARE FOR THE SHEEP  CAPE COAST, GHANA  DAG HEWARD-MILLS  1999 [ZX51FG2ZdcE]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit"]
 ---
 
 Somebody should be having a microphone to be reading. Amen. Yeah. But when he saw the mortgage, you will move it on them. Because they fainted and were scattered abroad as sheep having no shepherd.

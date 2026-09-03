@@ -9,6 +9,8 @@ duration_min: 22
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Recap with Bishop David Belmopan, Belize Dag Heward-Mills 2024 [cxDtn_eT2u8]]]"
+topics: ["Fasting"]
+tags: ["topic/fasting"]
 ---
 
 an activity don't say ah Pastor I'm tired you know immediately tiredness start coming into your mind see that the Y elements are evaporating out of your life so say to yourself no no no I'm not going to sit down and give excuses but I'm going to rise up and join my pastor to do the activities that needed to bring Church growth say amen amen all right the next the next um y element that we saw next one very quickly is what frequent fasting hey frequent fasting yeah I thought that some people have decided to fast

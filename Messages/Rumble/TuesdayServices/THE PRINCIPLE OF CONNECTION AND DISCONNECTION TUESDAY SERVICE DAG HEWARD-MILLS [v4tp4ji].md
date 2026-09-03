@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tp4ji/"
 duration_min: 73
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 As the Lord to speak to you this evening. Oh, hallelujah. Hallelujah. Father, we thank you so much for your presence tonight. Thank you for your word tonight, O Lord.

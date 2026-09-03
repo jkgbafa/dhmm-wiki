@@ -8,6 +8,8 @@ year: 2019
 duration_min: 26
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 sorry I can't hear you there shall be a rise of churches with many people and what strong Nations Zacharia chapter 8 verse number 21 and the inhabitants of one city shall go to another and saying let us go speedly to pray before the Lord and to seek the Lord of hosts I will go also y many people isn't it so we are going to avoid uh speaking in local dialects and creating differences isn't it hallelujah what is number three arise of the little ones isn't it arise of the little ones a little one shall become

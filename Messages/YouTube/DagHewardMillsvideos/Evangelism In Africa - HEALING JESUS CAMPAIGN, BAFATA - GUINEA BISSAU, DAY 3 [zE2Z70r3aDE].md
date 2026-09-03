@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zE2Z70r3aDE"
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 tonight is the third night of the campaign here in Baja ha ha very noisy Spencer oh dear accompany Nevada the power of God has been demonstrated here every night oh dear dear City most Laramie solenoids and we thank God for the vessel he has used to bless us be free night no l'opéra de lugar de Parma naraku's es Barlow propeller noise tonight and astronomy es muy to Ultimo noise chorus goes to release power through estaba en la banda seafood aerotrevel because he is prepared and ready by the greater one who minister to you pulverize approachable

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JXVugwF-C0k"
 duration_min: 201
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 honey where's your hand on to Jesus it's a beautiful atmosphere and you just want to close your eyes I know that you have had so many adoration experiences but if only you'll be sincere with God tonight I know that he will visit you I know that you will experience him because times of refreshing are coming from his presence to ever need to every soul you just want to close your eyes and give God you've got some worship just blessing from the depth of your heart he Inaba sayonara besides Mandurah boskie aunt Oliver she on the

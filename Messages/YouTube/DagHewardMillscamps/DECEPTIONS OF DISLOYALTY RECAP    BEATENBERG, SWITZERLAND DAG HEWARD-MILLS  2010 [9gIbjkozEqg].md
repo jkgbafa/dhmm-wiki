@@ -8,6 +8,8 @@ year: 2010
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number nine of advancing imp pekos 8 in the 45 minutes time and then we have to check out of the hotel check out of the rooms and everything and then when we come back we're going to come back at 10:00 and then from 10:00 we'll be here till about 121 2:00 at latest and then we out of here amen amen now let's quickly move on to just for 30 minutes that we have before we break the further deceptions of this loyalty amen amen deceptions of disloyalty now there are six stages of disloyalty

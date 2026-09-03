@@ -9,6 +9,8 @@ duration_min: 12
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/INTERACTIONS PT1  ACCRA, GHANA DAG HEWARD-MILLS  2009 [FSZ2cSy8He8]]]"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 Welcome to track number four of my first love. Hallelujah. How many of you are blessed so far? Oh, some hands were down. Amen.

@@ -8,6 +8,8 @@ year: 2018
 duration_min: 177
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Repentance", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/salvation", "topic/salvation/repentance", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 thank you Jesus praying and thanking him praying and thanking him praying and thanking him yes lordal thanking him preparing yourself for more more seeds to be thrown into your heart to be sewn into your heart that you be fruitful fruitful to the instructions you are receiving thank you Lord thank you Lord pray that God will sof your heart that God will soften your heart that your hearts will be FAL grounds for every word for every message you'll not be stubborn you'll not be forgetful you not be thorny ground Stony ground but all that you are

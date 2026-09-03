@@ -8,6 +8,8 @@ year: 2018
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 I believe that we know that our theme is the candle in the dark amen so we want to start straight away father thank you for the blessing of your word bless us in these few moments that we have together guide us by your spirit in Jes Jesus name amen amen Psalm 18 Psalm 18 verse 28 for thou will light my candle the Lord my God will Enlighten my darkness amen thou will light my candle and the Lord my God will lighten my Darkness so a candle is to light up the darkness amen and God has

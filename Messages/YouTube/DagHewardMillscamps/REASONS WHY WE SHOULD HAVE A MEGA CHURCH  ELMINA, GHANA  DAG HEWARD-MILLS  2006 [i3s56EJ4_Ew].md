@@ -8,6 +8,8 @@ year: 2006
 duration_min: 238
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 all right we are discussing the concept of building mega churches amen amen now everybody say mega is mega mega is Mega and I shall have mega and amen Mega is Mega and I shall have mega I believe do you understand what I said yeah Mega is Mega whether we count it this way that way this way that way whatever Mega is Mega and I shall have mega amen amen so I do believe that um the Lord is Blessing us and um when you become totally spiritual you are capable of all that God wants you to

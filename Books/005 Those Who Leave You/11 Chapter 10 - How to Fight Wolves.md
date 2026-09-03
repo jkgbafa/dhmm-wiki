@@ -4,6 +4,8 @@ book: "Those Who Leave You"
 book_number: "005"
 chapter_number: 11
 type: book
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 ### Chapter 10\

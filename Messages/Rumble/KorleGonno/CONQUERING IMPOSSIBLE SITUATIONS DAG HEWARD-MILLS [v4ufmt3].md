@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ufmt3/"
 duration_min: 43
 source: "whisper"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances"]
 ---
 
 Hallelujah. Isaiah chapter 11. I want to continue from where I left off some time ago, talking about how to overcome impossible situations. Do you remember? Alright.

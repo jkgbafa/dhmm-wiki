@@ -8,6 +8,8 @@ year: 2010
 duration_min: 43
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 today I'm going to share with you my last I've been given a few minutes um leaders and loyalty leaders and loyalty I'm going to give you five statutes of loyalty or laws the statutes the same thing principles keys I just had to find a name where to I put statutes five statutes of loyalty it's like a law a principle number one no matter what you do some and I'm on page 60 if you have the book 68 no matter what you do some people will be disloyal as a first principle no matter what you do

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sz5si/"
 duration_min: 187
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wisdom"]
 ---
 
 Hey guys, what's up? For those who don't know me, my name is Vic, and you know I'm here today to talk to you about a coffee loophole that is helping a lot of people to lose weight. So after researching a lot about it, I came here to clarify all of your questions about it, guys. Tell you everything you need to know. So stay tuned until the end of this video.

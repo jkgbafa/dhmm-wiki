@@ -8,6 +8,8 @@ year: 2024
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/demonology"]
 ---
 
 Heal me, oh God, heal me, O Lord, heal me, O Lord. Heal me, O Lord. Heal me, O Jesus. Heal me, Holy Spirit. Oh, yes, Lord.

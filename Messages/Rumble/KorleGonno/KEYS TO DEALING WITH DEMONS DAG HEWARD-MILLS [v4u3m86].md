@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3m86/"
 duration_min: 43
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 There is a fountain filled with blood drawn from Emmanuel's veins and sinners plunge beneath that blood blood. They lose all stay. Judge it one more time. There is a fountain there with which is filled with blood. And it's drawn from Emmanuel.

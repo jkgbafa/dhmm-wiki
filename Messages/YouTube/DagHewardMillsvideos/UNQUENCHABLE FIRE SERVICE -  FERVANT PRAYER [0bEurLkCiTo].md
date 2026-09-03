@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=0bEurLkCiTo"
 duration_min: 91
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer", "Prayer/All-night Prayer", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer", "topic/prayer/all-night-prayer", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you have to care upon me there you life upon him before only you worry back tribulation fire and sorrow when you can't see through tomorrow you through you the Ralphie can you reach the love and a do this see the sweet sweet angels shining through the charity do you hear how far you must lay down your life and follow for only when you die are you we must go to the nation they call me across swallow where are you we must go to the nation hair2wear how we must go through the nation they have a

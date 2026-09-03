@@ -8,6 +8,8 @@ year: 2000
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 sing-along will it be world worship a lot is one thing Lord you beautiful 'lord beautiful Hey let through up with Wow you're beautiful lips lansing lord were beautiful you are for the last and you up hallelujah I said hallelujah he were here during the week for a miracle we've convention you saw something isn't it how many were here wonderful it was a powerful time hallelujah and we thank God we are blessed with such a man of God that is gifted with teaching as well as endowed with the power of God for healing and for deliverance

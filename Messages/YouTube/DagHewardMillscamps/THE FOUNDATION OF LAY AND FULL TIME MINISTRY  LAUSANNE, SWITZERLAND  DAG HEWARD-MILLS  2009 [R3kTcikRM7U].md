@@ -8,6 +8,8 @@ year: 2009
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "The Call of God", "The Call of God/Responding to the Call", "Wealth and Finances"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call", "topic/wealth-and-finances"]
 ---
 
 now one of the foundations of another Foundation we've talked about tithing we've talked about sacrifice we talk about unselfishness isn't it now we are talking about uh lay Ministry the lay Ministry and uh but I want to make it the lay Ministry and the fulltime Ministry okay now so we are using this book the rules of church work okay are you there good now chapter one what does it say the first call and the second call now the word of the Lord came to Jonah son of amise go to and cry against it for their

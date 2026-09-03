@@ -8,6 +8,8 @@ year: 2009
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I fear not now would come in my way and I know is gonna try to write on they're lucky but I can't say happy can't be just because either just because the situation might be so often I get my iron on here people I know we have a thing you're tired right in my way I know he's gonna try to do me harm my TB but I must say I'm not the meat bit of grade up here don't become us please absorb I might just be has a patina on my situation not so awful grade

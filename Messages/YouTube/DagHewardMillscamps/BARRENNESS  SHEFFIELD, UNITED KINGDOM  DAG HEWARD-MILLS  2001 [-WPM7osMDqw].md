@@ -8,6 +8,8 @@ year: 2001
 duration_min: 31
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 welcome to track number 15 of PES of thousands Lord I thirst for you and I long to be in your presence my soul will wait for you father draw me nearer father father draw too high draw to the beauty of Hol now listen this morning can I have some volume I don't know who is killing my volume father forgive that person in Jesus name he know he doesn't know what he's doing knows not what he does now listen this morning we share with you what bareness is is that not so it is what huh and

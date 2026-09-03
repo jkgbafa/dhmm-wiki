@@ -8,6 +8,8 @@ year: 2001
 duration_min: 33
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number 13 of the message of sacrifice way to whoever maybe to a friend to a relative to the church to the work of God you could not give $50 you could not give a $100 because you didn't have such money but now you can give a $100 you get it that shows that you are you you've taken a step forward you can give $1,000 you get it you can give $500 to whatever that shows that you are somewhere okay and then next you are able to give $5,000 you're able to give $10,000

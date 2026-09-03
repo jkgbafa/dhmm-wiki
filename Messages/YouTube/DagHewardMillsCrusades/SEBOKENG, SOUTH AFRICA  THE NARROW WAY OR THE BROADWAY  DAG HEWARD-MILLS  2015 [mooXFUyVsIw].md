@@ -8,6 +8,8 @@ year: 2015
 duration_min: 78
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 and ladies and gentlemen it is now time for our offering Hallelujah all those who are sitting to my extreme left and right Wherever You Are Tonight the offering you give will bring a blessing into your life please look into your bag your pocket your wallet bring out a worthy offering take out your offering tonight somebody is bringing out 10,000 Rand 5,000 Rand 1,000 R 200 R 50 R take out an offering tonight asers you are going to go everywhere to take the offering is your offering out tonight please lift it towards heaven and let's pray

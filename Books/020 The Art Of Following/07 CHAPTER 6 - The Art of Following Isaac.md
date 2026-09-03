@@ -4,6 +4,8 @@ book: "The Art Of Following"
 book_number: "020"
 chapter_number: 7
 type: book
+topics: ["Marriage and Family", "Spiritual Warfare", "Spiritual Warfare/Curses", "Vision and Direction", "Vision and Direction/The Will of God", "Wealth and Finances"]
+tags: ["topic/marriage-and-family", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god", "topic/wealth-and-finances"]
 ---
 
 ### CHAPTER 6\

@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/YYkbdOWw7yjH/"
 duration_min: 112
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer"]
 ---
 
 That I couldn't make it on my own and try to make this journey all, but I found out I am because of you. I can't exist without your love. Without your spirit, I would shortly fail just like a ship at sea without a sail. Lord, breathe your breath of peace into my soul. I can't exist without your life.

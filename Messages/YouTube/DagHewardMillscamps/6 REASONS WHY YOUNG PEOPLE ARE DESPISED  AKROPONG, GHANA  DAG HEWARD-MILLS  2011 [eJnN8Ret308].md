@@ -8,6 +8,8 @@ year: 2011
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 4 4 that nobody despises your youth but so an example for the Cros in word, in conduct, in charity, in spirit, in faith, and in purity if you are going to become you will succeed like Bergier as a young person the thing is to Rael that you should not despise your youth for the young people number 1 young people are despised because they have strong sexual urges that don't call it their lack of SAÉ how many young people experience sexual urges does it remind you that you are not that so from morning to night you

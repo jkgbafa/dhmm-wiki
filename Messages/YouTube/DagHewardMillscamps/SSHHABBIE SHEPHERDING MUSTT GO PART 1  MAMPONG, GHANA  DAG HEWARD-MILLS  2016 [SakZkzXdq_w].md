@@ -8,6 +8,8 @@ year: 2016
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 stand your feet put your hands together let's welcome Daddy to bless us tonight all right all right all right all right glory to God you guys are doing a great job sit down now hard followers of Jesus are hard followers of the best kind of Shepherd and shepherding and the formula for that is shabby shepherding must go all right this is how you spell shabby shepherding M go it's not how you thought it's SS h h a b b i e shabi shepherding is the normal spelling of shepherding and then must go did you get

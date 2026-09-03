@@ -9,6 +9,8 @@ duration_min: 116
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE SPIRIT OF COUNSEL  ISI UNITED KINGDOM  DAG HEWARD-MILLS  2015 [RfmkqTMj6dM]]]"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God", "Wisdom"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/wisdom"]
 ---
 
 Isaiah 11, verse 1. The Archbishop is going to be here with us this evening. That's what shall come forth a rod out of the stem of Jesse, and a branch shall grow out of his roots, and the spirit of the Lord shall rest upon him. The spirit of knowledge, the spirit of wisdom, amen. And understanding, the spirit of counsel and might, the spirit of the knowledge and of the fear of the Lord, and shall make him of quick understanding and the fear of the Lord.

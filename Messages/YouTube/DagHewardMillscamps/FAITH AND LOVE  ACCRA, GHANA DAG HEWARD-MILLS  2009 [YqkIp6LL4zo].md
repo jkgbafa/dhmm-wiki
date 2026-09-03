@@ -8,6 +8,8 @@ year: 2009
 duration_min: 160
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 welcome to track number seven of my first love all right number what number six number eight all right hello the microphone is not clear the treble increase it reduce the midrange do you know mid-range reduce that one one reduce the base a bit to please and Grace's mic is also not clear do the same and increase her volume okay good is it clearer is it clearer getting clearer isn't it yeah to clear out all those husky Parts okay good good number what is what what do you have number number what number nine okay you offer

@@ -8,6 +8,8 @@ year: 2018
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Salvation"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/salvation"]
 ---
 
 wo wo here we stand Standing for the Lord never going back again to the world and he way here we stand we're fighting for the Lord m M we will find a good fight to stay in the Wind of the Lord so be strong in the Lord in the power of is might put on the whole and armor of God that you may be able to stand W guard your Lo with truth and take out the Shi of faithful and with the sword of the spirit oh yeah we will overcome here we stand stand standing

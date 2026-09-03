@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=vNZhKv9YZt4"
 duration_min: 89
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 First Corinthians my my topic is concerning spirituality 1 Corinthians chapter 12 verse number one now concerning spiritual how many know that when you have in your Bible um a word in italics it means that that word was not there did you know that no yes it means that that word is not a word that was um in the translation so if I was translating from English into let's say tree and then I I translate and I say It was a beauti beautiful it was a beautiful and then you translated into tree or G and in

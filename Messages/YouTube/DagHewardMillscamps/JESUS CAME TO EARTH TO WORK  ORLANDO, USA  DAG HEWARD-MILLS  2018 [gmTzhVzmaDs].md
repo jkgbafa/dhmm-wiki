@@ -8,6 +8,8 @@ year: 2018
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 J let's put our hands together forish Hallelujah let's keep clapping our hands to the Lord and you may please be seated is somebody having a good time we thank God and we are looking forward to a new life in the ministry I I've I've I've had a certain understanding of the work that I've not had before I want us to put our hands together for our father our Prophet for so how many of us are going to move here from here to become Shepherds pastors to work for the Lord amen it's it's it's worth repeating

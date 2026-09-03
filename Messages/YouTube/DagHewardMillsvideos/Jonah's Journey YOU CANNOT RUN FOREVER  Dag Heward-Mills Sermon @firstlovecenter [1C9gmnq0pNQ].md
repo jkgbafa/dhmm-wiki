@@ -8,6 +8,8 @@ duration_min: 102
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/Jonah's Journey YOU CANNOT RUN FOREVER  Dag Heward-Mills Sermon  Experience Service [UXJIB8S-lVc]]]"
+topics: ["Salvation", "Salvation/Repentance", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/salvation", "topic/salvation/repentance", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 it's Christmas time so we are just supposed to enjoy ourselves and the message is you cannot run forever and Jonah's preaching was not nice preaching like mine my preaching is far nicer his preaching was not as like Billy Graham Billy Graham preaching was Far nicer Jonah's preaching was repent you guys are finished you are dead he went through the city shouting at them repent I tell you you are he went 40 days he said this town will be overthrown there will be an earthquake a tsunam is coming from colon Cho it's coming to cover the

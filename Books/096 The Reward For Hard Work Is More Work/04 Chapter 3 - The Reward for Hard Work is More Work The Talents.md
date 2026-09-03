@@ -4,6 +4,8 @@ book: "The Reward For Hard Work Is More Work"
 book_number: "096"
 chapter_number: 4
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Work and Diligence"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/work-and-diligence"]
 ---
 
 ### Chapter 3\

@@ -8,6 +8,8 @@ year: 2001
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Intercession"]
+tags: ["topic/prayer", "topic/prayer/intercession"]
 ---
 
 welcome to track number 26 of passers of thousands The Altar and continued it through the courtyard we walked out of the temple area through the north gate and went around the East Gate I saw the small stream of water flowing East from the south side of the gate three the man walked East then took out his measuring stick and measured 5 60 y Downstream he told me to wait through the stream there and the water came up to my ancle four then he measured another 560 yards Downstream and told me to W through it there

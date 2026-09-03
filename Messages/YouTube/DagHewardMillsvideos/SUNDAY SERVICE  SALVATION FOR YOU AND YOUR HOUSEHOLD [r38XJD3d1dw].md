@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=r38XJD3d1dw"
 duration_min: 32
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 let us pray Holy Father it is a pleasure to be here in your presence we ask for your great blessing as we come before your word in Jesus name Amen you may be seated in the presence of a law today the title of my message is salvation for you and your household amen salvation for you and your household hallelujah it is important for us to realize that God wants us to be saved and our household all right and there are many examples in the Bible the first example we have read is Lydia where we read

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=W2Rg-EQptUY"
 duration_min: 102
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing"]
 ---
 
 yes you see the sunny out there asking socketable great advantage is possible Molly - Molly Ibaka Tyra yes also gives me a possibility awesome is being mas against Enoch oh my gosh don't see it's also changing like the same thing because they smother yeah where yes now I will share with you that the Republicans don't want time to spare 20 finished I can move on Excel deletion and then pin our system interaction touch this topic as Pierce got this shy damn I thought that under the budget as it is comes first because if we go

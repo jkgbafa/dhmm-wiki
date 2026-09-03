@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3maw/"
 duration_min: 42
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/the-holy-spirit"]
 ---
 
 There is nothing more that we can do. Send your power. Holy Spirit. Holy Spirit. Holy Spirit.

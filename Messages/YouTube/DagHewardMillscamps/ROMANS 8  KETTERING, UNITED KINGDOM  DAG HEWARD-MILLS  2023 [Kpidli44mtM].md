@@ -8,6 +8,8 @@ year: 2023
 duration_min: 172
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 Romans chapter 8:1 King James version there is therefore now no condemnation to them which are in Christ Jesus amen who walk not after the flesh but after the spirit for the law of the SP Spirit of Life In Christ ha made me free from the law of sin and death for what the law could not do in that he was weak through the flesh God sending his own son in the likeness of sinful flesh and for sin condemned sin in the flesh amen amen now there is therefore no condemnation verse one to them who are

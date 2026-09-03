@@ -8,6 +8,8 @@ year: 2008
 duration_min: 180
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 father thank you for today thank you for the opportunity that we have in you to serve you to love you we pray that you give us the grace to go forward in your will in Jesus name amen amen you may be seated it's good to see all of you you again the problem about this Camp is that we are we have come in the middle of the day you should have come last night so that You' be here this morning not coming today and then I hear you have to leave tomorrow so that's not a

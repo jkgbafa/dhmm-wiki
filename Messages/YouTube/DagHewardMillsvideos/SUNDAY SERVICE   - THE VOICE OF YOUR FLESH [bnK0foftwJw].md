@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=bnK0foftwJw"
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 I am sharing with you about the ance of hearing amen I want to recommend the book to you the art of hearing tell somebody you've got to have a copy of that book amen now let's turn to Deuteronomy chapter 28 Deuteronomy chapter 28 and verse 1 why is it important to hear the voice of God because in Deuteronomy chapter 28 verse 1 the Bible says it shall come to pass that if thou shalt diligently hearken to the voice of the LORD thy God to observe and to do all his commandments which I command thee this

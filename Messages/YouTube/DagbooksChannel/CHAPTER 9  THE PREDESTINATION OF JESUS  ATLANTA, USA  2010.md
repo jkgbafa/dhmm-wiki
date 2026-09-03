@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2010
 source: "autocaption"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 And that is the predestination of Jesus Christ. Unlike other religious figures like you or me, we were not predicted to come. Do you understand? But Jesus Christ was predetermined. I mean, I believe we were also predetermined. But we our our importance is far less than Christ. It's not written. But the predetermination that Christ would come to save you and me is there. Amen. Amen. And you see I'm just going through this is just the background. I'm trying to give you a certain background for you to believe because when we finish this part then I'm now

@@ -8,6 +8,8 @@ year: 2002
 duration_min: 16
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 welcome to track number four of life in the church enjoy it after so what's the first step anyway you do what huh I am interested in you step number two is what celebrate the formalities okay the next step is what huh reality and nakedness huh the next one is what humility humility after you've been humble activity isn't it you have to have sex be moving sweating on and on and on and on before a baby will come is that not so sometimes a month goes by 2 months 3 months one year 2 years sometimes years

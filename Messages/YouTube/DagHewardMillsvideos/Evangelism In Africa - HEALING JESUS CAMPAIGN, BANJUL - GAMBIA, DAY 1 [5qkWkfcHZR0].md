@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=5qkWkfcHZR0"
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah hallelujah are you excited to a nice facility malcontent Alana Susan abang it is time to touch open hovels Naraku Sanwa das welcome condescended fa la la moune put your dancing shoes in place Natalia perfecta ah la la tormenta metallic window as I invite the mass per annum I acquired PokeMart wine in the Baroque one day it's time for praise and worship when I received my father it's appraiser Washington freedom escuela Shinano somebody shoot Jesus what I would actual Missoula are you ready to praise the Lord para pagar attend Ruben search somebody biocides como una

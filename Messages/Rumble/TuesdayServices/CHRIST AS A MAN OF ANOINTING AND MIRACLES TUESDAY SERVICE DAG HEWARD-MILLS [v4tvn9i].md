@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tvn9i/"
 duration_min: 93
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Prayer"]
+tags: ["topic/anointing", "topic/prayer"]
 ---
 
 Heavenly Father, we thank you for your blessing tonight. Thank you for the input of your spirit into our lives. Lord, as we gather today into your presence, we are so grateful that on a busy weekday like this, we can just come to your presence to worship you, to give thanks, and to hear your word and be ministered to by your spirit. Lord, we ask in Jesus' name at this time that our hearts will be open. Forgive us for the shallowness of our faith, the emptiness of our lives, Lord, and of our experience with you, and help us to come into a deeper relationship with you to know you, to love you, and to feel you.

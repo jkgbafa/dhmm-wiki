@@ -8,6 +8,8 @@ year: 2016
 duration_min: 154
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I have a message from the Lord. Lord, Jesus sent me to you. Are you ready to listen? Do you want to hear it? I've got a message from the Lord. Jesus sent me to you. Are you ready to listen? Or do you want to hear it? Did I make a mistake when I called you? Should I have chosen another person or anointed another one? And how many times will I give you dreams and visions and powerful convictions? Still you don't obey. See the reason why I'm asking these questions. You take it so lightly. You take

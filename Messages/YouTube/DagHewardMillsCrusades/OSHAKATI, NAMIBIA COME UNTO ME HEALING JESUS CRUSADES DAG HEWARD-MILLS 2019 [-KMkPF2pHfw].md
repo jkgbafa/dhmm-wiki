@@ -8,6 +8,8 @@ year: 2019
 duration_min: 162
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 If I say Madame Sana, you hold yourself like this. Are you ready? If I say Madame Solo, you hold me yourself like this. If I say ten dollars, you turn on somebody. Are you ready?

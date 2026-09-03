@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Ljr-mSvmTeY"
 duration_min: 16
 source: "autocaption"
 match: "fuzzy"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring"]
 ---
 
 welcome to track number five of pastors of thousands do you have about marriage and the ministry is it good to be married and in the ministry now how many here are not married raise your hand raise your hand all right put your hands up how many are married now everybody close your eyes how many of you who are married would say that marriage is not easy raise your hand okay put down your hand it's not easy how many say that it's easy all right why must a young man be married reason number one in the

@@ -8,6 +8,8 @@ year: 2003
 duration_min: 53
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 welcome to track number 15 of gates and roads I told you I told you about the 100 isn't it I told you about the 12 are we going to work on the 12 yeah and then you're going to know who the 12 are isn't it everybody will know who's 12 who's and one of so 12 you get what I'm saying and then you are somebody's 12 and somebody's 12 is also if you want people to be how you are if you don't want people to be how you are you have to wait a bit for

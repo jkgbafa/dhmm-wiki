@@ -8,6 +8,8 @@ year: 2014
 duration_min: 151
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Clap Your Hands for Jesus tonight keep Clapping Your Hands tonight clap your hands and let's welcome the Evangelist tonight hallelujah amen hallelujah amen amen you may be tonight I feel great excitement in the atmosphere God is going to visit us mightily the Evangelist is ready to minister tonight before he comes let's welcome Vivaldi to bless us with a song hallelujah hallelujah amen today is the last day why don't you give the Lord the best Shout ofering hallelujah hallelujah to me nowe leave me one lift up your voice and say keep W oh oh when I

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GK-5RAaqdwA"
 duration_min: 5
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Somebody asked, "Does your temperament affect the anointing?" Like if I'm coloric, does it affect the anointing? Of course, anything how the vessel, does it affect if it's made of clay and it dissolves in it? That's why it's a coke that you drink from a can and Coke that is drunk from a glass bottle and Coke that is drunk from a plastic bottle. They are all different tasting. IT'S AS IF THE METAL DISSOLVES A LITTLE INTO THE coke or you've not noticed. Yeah. So, whoever whoever you are, if you are flegmatic, you can be beautifully anointed

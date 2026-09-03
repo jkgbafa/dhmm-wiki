@@ -9,6 +9,8 @@ duration_min: 7
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EFFECTS OF THE HOLY SPIRIT  FERVENT PRAYER  CAPE COAST, GHANA  DAG HEWARD-MILLS  1999 [nzj4jyH_T3o]]]"
+topics: ["Prayer", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/the-holy-spirit"]
 ---
 
 Welcome to track number 11 of love and the make a church, revival, and a lot of prayer. Hallelujah. Hallelujah. Amen. Are you excited about that?

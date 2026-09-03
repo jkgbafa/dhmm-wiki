@@ -8,6 +8,8 @@ year: 2024
 duration_min: 69
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 how do you pray in the spirit does anybody want to know how when they say pray in the spirit how many want to know how to pray in the spirit yeah to pray in the spirit or in the spirit realm yeah now before when I got saved I only knew of praying in the mind the church that I went to before I was saved when they say let us pray everybody's quiet do you have have you ever been to a church like that oh yes the church was very boring to me I'd never had anybody

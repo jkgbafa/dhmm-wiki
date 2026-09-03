@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sxiy5/"
 duration_min: 135
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer", "topic/wisdom"]
 ---
 
 Amen. It is it is very important for us to really thank God that we have a church service like this to attend on a Sunday evening. Your hand clap doesn't show that you really appreciate it is not an ordinary church service, as you can tell, it's not like the regular Sunday morning type of service. This one is a specialist training course. Yes, it is to train us to be specialists in what wisdom.

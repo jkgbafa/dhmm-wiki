@@ -8,6 +8,8 @@ year: 2001
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Welcome to track number two of the message of sacrifice. Alright? So I am going to share with you about sacrifice in the church. Now one of the strong attacks in Pegamos is one of the strong deceptions. Okay, and I'm I think I better give you these seven deceptions.

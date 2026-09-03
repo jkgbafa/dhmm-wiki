@@ -9,6 +9,8 @@ duration_min: 112
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MTHATHA, SOUTH AFRICA  THE BLOOD OF THE LAMB  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2015 [r6kl1ejKKW4]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Hallelujah. Let's appreciate the choir, the mass crowd. They've been a fantastic mass class these three nights. Let's clap our hands and appreciate the mass. God bless you.

@@ -8,6 +8,8 @@ duration_min: 240
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/THANKSGIVING FIRST LOVE SERVICES 1217 DAG HEWARD-MILLS [KVOEKlp45J4]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Curses", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah Church you know it is always very important to say thank you to God the Bible says that because they will not regard my works because they will not regard my works I will send a curse upon Their Blessings this should tell you that God is always looking forward to seeing people people come to him and just say Lord thank you but you will not find Christians you rather see them doing other things but not to say thank you you can spend your whole life saying thank you to God and your whole day saying thank

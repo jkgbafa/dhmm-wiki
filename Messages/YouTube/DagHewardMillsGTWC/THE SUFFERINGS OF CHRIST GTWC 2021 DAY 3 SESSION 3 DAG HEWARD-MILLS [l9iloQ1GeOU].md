@@ -8,6 +8,8 @@ year: 2021
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 What a blessing. Lift your hands. Leave the main and ask God for the spirit of revelation. We just have a few minutes to the end of tonight's session. But I want God is speaking already to us.

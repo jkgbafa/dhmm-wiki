@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=yr1sWJsFZF4"
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Backsliding"]
+tags: ["topic/salvation", "topic/salvation/backsliding"]
 ---
 
 I want to share with you about backsliding amen one of the things that I believe we must not do this year is we must not backslide and I'm sharing you from my book backsliding I hear that only thirty copies left in Ghana so if you want a copy you must get one immediately after only 30 copies here I hear so I believe that in this year we must decide to stay closer to God rather than going away Bible says in that day because of the time the many shall fall away many shall hate one another

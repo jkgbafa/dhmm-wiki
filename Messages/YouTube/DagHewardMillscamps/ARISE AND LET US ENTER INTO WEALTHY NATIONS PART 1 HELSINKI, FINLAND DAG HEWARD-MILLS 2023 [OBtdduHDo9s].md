@@ -8,6 +8,8 @@ year: 2023
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Number 19. Numero 18. Numero 18. 19. 19.

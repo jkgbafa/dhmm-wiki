@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_qmPNB6VN1A"
 duration_min: 148
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 um Jesus Blessed Be Your Holy Name Jesus Blessed Be Your holy name we'll give you praise nine eight all gone Mommy is what a blessed day we have today give God praise give God thanks appreciate him glorify him adore him he's been so good he's been merciful God has given us yet another opportunity Another Sunday in his presence Our God we are taking some time this morning to come before the Lord with Thanksgiving and to come before the Lord with praise David said I Will Bless The Lord at all times and his praise shall continually

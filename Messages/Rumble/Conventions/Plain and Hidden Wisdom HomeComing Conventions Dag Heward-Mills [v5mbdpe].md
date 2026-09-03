@@ -7,6 +7,8 @@ url: "https://rumble.com/v5mbdpe/"
 duration_min: 158
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 Take up a cross, daily follow you, not ashamed to shall for you, my Lord. Straight from my heart. I worship you. You are the reason. For life.

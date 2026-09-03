@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=a046HDEwn8A"
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Prayer"]
+tags: ["topic/faith", "topic/prayer"]
 ---
 
 you know one time I was reading my book some of the books I had read had written and asking myself that can I preach what I wrote 20 years ago do I still believe the same things have I kept the faith in the days of Noah metus Salah and Enoch 60 years old you you are a toddler nobody will have a child at the age of 60 I think Noah or so he he had a child when he was 500 years old you see life has shorten so much father thank you for the blessing in

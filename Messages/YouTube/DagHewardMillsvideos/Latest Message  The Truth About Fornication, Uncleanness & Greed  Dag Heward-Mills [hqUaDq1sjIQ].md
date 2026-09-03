@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hqUaDq1sjIQ"
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I just want to share with you a short passage from Ephesians. Fornication and all uncleanness or covetousness, let it not be once named among you. This is the only sin that he says shouldn't be shouldn't happen even once. One of the characteristic of a Jezebel is no change. You can discuss, argue, talk. She will never change. Look at it. I gave her space and she repented or she does not change her mind. Result of the fornication is bed rest. Now look at it. Bed rest, admission to hospitals, sleeping at home, unable to go, not discharged,

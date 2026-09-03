@@ -8,6 +8,8 @@ year: 2022
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Now you are just about to move into the next level. I see the cloud of glory all over you. In the name of Jesus. I said, I see the cloud of glory all over you. I said, I see the cloud of glory all over you.

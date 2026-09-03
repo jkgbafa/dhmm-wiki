@@ -8,6 +8,8 @@ year: 2009
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Lord you said you know my way I you Brittany the wrong it'd be in every season in Jew me I know you love me June me where your blood was shed for me there's no love I've overcome the grave your glory fills the highest place what can separate me slinging again on a cross above my knee where you're no greater love until her overcome the grave your glory fills the highest place what can separate me you go before me you go before you shoot my way your arm oppose me ah ah either crawled upon my

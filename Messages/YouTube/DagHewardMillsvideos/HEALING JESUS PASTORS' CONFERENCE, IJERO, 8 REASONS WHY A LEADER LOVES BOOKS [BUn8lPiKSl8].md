@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=BUn8lPiKSl8"
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 the art of leadership boria fewe leadership Itachi ejaculated repair a vanilla naughty Atari hallelujah Alleluia I have three books that are entitled the odds of something under a whim Berta you sir are not confirmative ma one is called the art of leadership you can learn on the pas de tolly and the reason why it is called an art is because there is a way that you have to go about it if you are to be successful radicchio between la la no wound repair Anya walnut Elizabeth by statutory and that the second one is the act

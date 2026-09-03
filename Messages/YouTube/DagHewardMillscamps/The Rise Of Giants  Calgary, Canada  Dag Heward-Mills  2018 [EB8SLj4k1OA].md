@@ -8,6 +8,8 @@ year: 2018
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 father thank you for this blessed time in Jesus name amen amen you may be seated the rise of nation likee churches is that not so and the next one is the rise of nation likee people and the next one is what else the rise of teaching priests amen and the next one is what of feeders feeders people who feed and lead the Sheep to grow until they give birth to more amen saying what is necessary and what is helpful Paul said I've not held back anything that was profitable to you amen amen number five rise

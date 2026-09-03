@@ -8,6 +8,8 @@ year: 2010
 duration_min: 100
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 No more show yes, so yes so you know so you know yes, so I sure oh yes so much in a so I'm saying that so much on the cura I saw yes who are tiny on so near some say a full n so no cura as in the race in a short in a so I sure oh yes so I'm so boochina Boa dinina oh yes so boochina Wat in Nay Ohini yes so many years have come and gone since he walked upon our ground they say lies don't last so long so why is the story hanging around why do people stop and pray to a man that's dead and gone when I ask them they just say he's coming back to take me home anybody here wanna live forever say I do anybody here wanna walk on gold street say I do anybody here just tired of living like you do anybody here wanna home and love forever say I do they say you will never know till you walk up to that man and you look into his eyes of love and touch the little stars in his hand and let you can walk away knowing all he's done to just have to say I guess he did not time for you.

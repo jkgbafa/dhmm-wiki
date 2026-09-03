@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tude9/"
 duration_min: 58
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 With an unclean spirit who had his dwelling among the tombs, and no man could bind him, no, not with chains. Alright. Um, and the chains had been plucked asunder by him, the feathers broken in pieces, neither could any man tame him, and always night and day he was in the mountains and in the tombs, crying and cutting himself with stones. Amen. Amen.

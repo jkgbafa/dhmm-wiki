@@ -9,6 +9,8 @@ duration_min: 22
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SPECIAL PRAYER AND MINISTRATION SEVENOAKS, UNITED KINGDOM DAG HEWARD-MILLS 2002 [WRJWbXfLYV8]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 welcome to track number 22 of all out oh oh oh M okay okay okay per m m m M oh God m meod meod meod meod meod oh K Char Char charie cha Chima M pity oh oh s to belind mesos M CH kose leiosos Kos Chile Diva Ral D SZ Kos maros haros basas MOS laes BR repes tail malal M Chim rambi Bal Ral peran R salab talu sal sal CH Ro Mal k s r to ch ch Cho chos choso s libr l sham the Blessed of the Lord the Blessed of the Lord

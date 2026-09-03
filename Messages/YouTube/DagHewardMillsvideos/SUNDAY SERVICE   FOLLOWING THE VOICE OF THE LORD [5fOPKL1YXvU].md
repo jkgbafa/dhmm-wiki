@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=5fOPKL1YXvU"
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Missions", "Missions/The Nations"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/missions", "topic/missions/the-nations"]
 ---
 
 thank you Lord for your blessing just thank God for this morning thank you for bringing us to this place in the name of Jesus oh yes Lord bender let me give a little bit give it a little bit in it in a minute oh yes yes yes yes father we thank you Father thank you so much for bringing us this morning into this place we give you praise and we give you thanks in Jesus name Amen you may be seated well we are glad to be in the Kadesh this week we are here God willing

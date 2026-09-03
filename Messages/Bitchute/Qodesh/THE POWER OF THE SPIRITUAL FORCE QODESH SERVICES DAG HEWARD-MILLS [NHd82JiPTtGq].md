@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/NHd82JiPTtGq/"
 duration_min: 108
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 For you are great. You to miracles so great. There is no one else like you. There is no one else like you. For you are great.

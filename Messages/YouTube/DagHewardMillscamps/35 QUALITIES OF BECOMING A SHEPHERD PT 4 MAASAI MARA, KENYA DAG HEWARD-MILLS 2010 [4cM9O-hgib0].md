@@ -9,6 +9,8 @@ duration_min: 78
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/35 QUALITIES OF BECOMING A SHEPHERD PT 4   MAASAI MARA, KENYA DAG HEWARD-MILLS  2010 [4cM9O-hgib0]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Stand. Do they look angelic? Stand. Come. Come, another angel, come.

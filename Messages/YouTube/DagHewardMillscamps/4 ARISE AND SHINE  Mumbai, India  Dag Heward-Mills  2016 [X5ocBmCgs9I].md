@@ -8,6 +8,8 @@ year: 2016
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 For your arms come give you my love I said as I was I don't what to say it set me thinking looking to me this love this love this all I can feel this and so I wrote to my pastor and told him at the way I was feeling deep down in my heart I was feeling but my pastor told me if he loves you he will not sleep with you because he will love you and then you rise love and if he loves you he will not what for you at all you can say

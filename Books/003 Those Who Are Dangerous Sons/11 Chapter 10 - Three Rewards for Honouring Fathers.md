@@ -4,6 +4,8 @@ book: "Those Who Are Dangerous Sons"
 book_number: "003"
 chapter_number: 11
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 ### Chapter 10\

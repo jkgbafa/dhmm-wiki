@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ZrtIW3GVuMQ"
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Jesus thank you for the holy spirit thank you for your holy spirit thank you for the holy spirit thank you for your holy spirit thank you for guiding us thank you for guiding us thank you for filling us thank you for filling us with your Mighty Jesus mighty Holy Spirit yes Lord oh oh thank you holy spirit thank you holy spirit thank you Holy Spirit yes Jesus oh holy spirit we are in your hands this we are in your hands this morning lead us Lord oh thank you for fing us this morning thank you Lord

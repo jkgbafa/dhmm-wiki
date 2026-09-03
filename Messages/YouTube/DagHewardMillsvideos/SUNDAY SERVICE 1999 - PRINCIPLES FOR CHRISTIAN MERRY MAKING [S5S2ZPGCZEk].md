@@ -8,6 +8,8 @@ year: 1999
 duration_min: 46
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Oh to everyone all the way ha ah Oh you today we are not ashamed I said we are not saved tell five people I am not ashamed I am not ashamed I am NOT a thief I am NOT a same Oh sorrowful hallelujah if you are Christian and you are shy of Christianity I don't know whether you have it yet but when you meet the man Jesus you will never be ashamed hallelujah this morning we have come to the way that brings us joy I said we have come to word that brings us joy he

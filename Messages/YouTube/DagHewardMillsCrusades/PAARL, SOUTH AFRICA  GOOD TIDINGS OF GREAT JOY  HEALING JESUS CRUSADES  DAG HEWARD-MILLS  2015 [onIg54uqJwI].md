@@ -8,6 +8,8 @@ year: 2015
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 amen amen Clap Your Hands for Jesus tonight let it be louder let your hand clap be louder let your hand clap be louder let it be louder again tonight what a blessing what a blessing do you believe your life will never be the same again how many of you are expecting God to touch you specially uniquely as an individual tonight if you are believing God to touch you give the Lord a wave of your hand a wave a wave wow never the same again you will never be the same again clap your hands once again

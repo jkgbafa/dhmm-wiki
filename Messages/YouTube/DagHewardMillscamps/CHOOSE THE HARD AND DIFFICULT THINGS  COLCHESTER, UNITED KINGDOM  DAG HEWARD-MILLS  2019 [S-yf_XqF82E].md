@@ -8,6 +8,8 @@ year: 2019
 duration_min: 52
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 remember your creator in the days of your youth while the evil day have not yet come remember your creator before the years come when you shall say I have no pleasure in them remember your creator in the days of your you before the sun the moon and the stars gr dark and the clouds never go away the grass up high becomes a burden and desires fail remember your creator oh in the days of your youth before your legs starts to tremble remember him before your shoulders bend over before for your teeth start falling out and

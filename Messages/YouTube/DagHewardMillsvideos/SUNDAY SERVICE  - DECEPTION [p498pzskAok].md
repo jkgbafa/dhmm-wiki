@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=p498pzskAok"
 duration_min: 55
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 we won't thank the Lord for bringing us to this part of the service and I'm glad to announce to you that there's a bishop in the house hallelujah I so it's time for the mega wave and the mega church members are ready let's go and for everybody comment it comes over that's a rare clock everybody by coming back haven't been over Heavenly Father we thank you for this day for what you are about to do for your word for your healing for your blessing we pray Lord that you will minister to our heart speak to

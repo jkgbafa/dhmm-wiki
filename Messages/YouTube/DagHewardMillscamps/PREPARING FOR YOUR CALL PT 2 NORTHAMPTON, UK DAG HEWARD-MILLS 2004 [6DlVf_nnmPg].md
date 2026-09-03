@@ -9,6 +9,8 @@ duration_min: 97
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PREPARING FOR YOUR CALL PT 2  NORTHAMPTON, UK DAG HEWARD-MILLS  2004 [6DlVf_nnmPg]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 I was a bit surprised to see some people who had been wealthy or even rulers who had been faithful with what they were given, also on the throne. We're surprised to see some rich people there. However, this is the surprising part. He's now come to mention the largest group in the thrones. It seemed that the faithful women and mothers occupied more thrones than any other group.

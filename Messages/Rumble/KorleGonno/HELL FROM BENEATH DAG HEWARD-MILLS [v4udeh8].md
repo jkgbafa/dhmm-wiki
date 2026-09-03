@@ -7,6 +7,8 @@ url: "https://rumble.com/v4udeh8/"
 duration_min: 67
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Our sketch is entitled Patience. Many times as Christians, we are only prepared to wait for so long. The time that we think is best for God to answer our prayers. But God's timing is not our timing. Hallelujah.

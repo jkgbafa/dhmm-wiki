@@ -8,6 +8,8 @@ year: 2009
 duration_min: 91
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer", "Prayer/All-night Prayer", "Prayer/Praying in Tongues", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer", "topic/prayer/all-night-prayer", "topic/prayer/praying-in-tongues", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Cast your care upon him, lay your life upon him for only his worthy to stand in tribulation, trial and sorrow when you can see through tomorrow, he reveal to you the frailty of a man. Can you reach to love and neighbor? Do they see the sweet sweet Savior shining through the charity you give? Oh do you hear his call to follow? You must lay down your life and follow, for only when you die are you free to live.

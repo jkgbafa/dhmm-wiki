@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u84zi/"
 duration_min: 39
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Salvation/Backsliding"]
+tags: ["topic/salvation", "topic/salvation/backsliding"]
 ---
 
 My subject today is uh backsliding. I I want to speak about that. We've been talking about a deeper uh closer work with the Lord, and uh one of the ways to keep ourselves from going away from the Lord or going closer, or one of the ways to help us go closer, if you like, is to prevent yourself from sliding backwards, amen. And so I want to share about backsliding, of which I I wrote a book, and it's right here, and uh uh you can get a copy from the bookshop after church and read it, amen. Now, backsliding is um something that is all over the Bible, all right.

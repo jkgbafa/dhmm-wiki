@@ -9,6 +9,8 @@ duration_min: 125
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/POLOKWANE, SOUTH AFRICA  JESUS WILL DO YOU GOOD  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2014 [IWfsTN3Noa0]]]"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Lift up your hand and say so. Give a lot of shadows, we are shot in that givea lot of wave and say, We are to be shot, we are shot, we are what we share, we are to misha, we are sharpena, we are auto bicha, we're doing shot, hey, we are doing so we shall be out, we are too big. And let's welcome Ida to bless us with a song. The Lord is my light and my salvation. Whom shall I be?

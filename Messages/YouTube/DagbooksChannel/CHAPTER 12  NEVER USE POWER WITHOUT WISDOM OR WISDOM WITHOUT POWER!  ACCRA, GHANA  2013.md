@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2013
 source: "autocaption"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Never use wisdom without power, power without wisdom. 1 Corinthians chapter 1 verse 24. But unto them which are called both Jews and Greeks, Christ the power of God and the wisdom of God. Christ the power of God and the wisdom of God. Hallelujah. Christrist the power of God and the wisdom God. Amen. All right. Now let us read it from verse 24 uh from before verse 24. First Corinthians chapter 1 because you know sometimes when you read a verse you sort of um don't really understand what it's saying. It says in verse 22, "The Jews

@@ -8,6 +8,8 @@ year: 2016
 duration_min: 147
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Hallelujah shout hallelujah favor tonight the Lord is going to do something powerful in your life if you believe it shout hallelujah all sing it again say leave oh Hallelujah to your name oh yes oh yes oh yes oh y to me to me to me to me to me to somebody shout hallelujah shout hallelujah to the Lord hallelujah hallelujah okay listen hallelu hey on just we go like this are you ready let's go are you ready somebody shout Jesus somebody shout Jesus hey somebody shout Jesus somebody shout Jesus somebody shout Jes Jesus somebody shout Jesus

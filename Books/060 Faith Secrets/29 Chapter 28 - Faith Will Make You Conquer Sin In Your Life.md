@@ -4,6 +4,8 @@ book: "Faith Secrets"
 book_number: "060"
 chapter_number: 29
 type: book
+topics: ["Faith", "Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/faith", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 ### Chapter 28\

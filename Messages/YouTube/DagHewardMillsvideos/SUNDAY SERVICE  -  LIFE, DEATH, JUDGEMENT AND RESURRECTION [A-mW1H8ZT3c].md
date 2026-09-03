@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=A-mW1H8ZT3c"
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 above all power above all King above all nature and all created things above all wisdom above all WIS all the ways all the ways you were here before you were here before the well be come on sing it above all kingdoms Above All kingom Above All Above All wonders the world has ever known above all wealth above all wealth and treasur of the there's no way you can't use money not houses not kingdoms lift your hands and sing crucified cifi laid behind the St you live to die rejected like a rose trampled on the ground

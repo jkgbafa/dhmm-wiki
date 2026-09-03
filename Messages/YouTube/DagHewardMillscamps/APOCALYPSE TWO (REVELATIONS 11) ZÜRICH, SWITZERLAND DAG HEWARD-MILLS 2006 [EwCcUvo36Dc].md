@@ -9,6 +9,8 @@ duration_min: 44
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/APOCALYPSE TWO (REVELATIONS 11)  ZÜRICH, SWITZERLAND  DAG HEWARD-MILLS  2006 [EwCcUvo36Dc]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Welcome to track number two of Apocalypse. Let's go to chapter 11. So we finish one. How many are blessed with the revelations? Apocalypse of chapter 10.

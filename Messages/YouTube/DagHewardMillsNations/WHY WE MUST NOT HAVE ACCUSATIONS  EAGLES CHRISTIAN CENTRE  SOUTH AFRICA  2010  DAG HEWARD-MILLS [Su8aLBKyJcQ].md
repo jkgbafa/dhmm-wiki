@@ -8,6 +8,8 @@ year: 2010
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 today I'm just finishing for um 30 I'm going to preach what is now okay 20 minutes 25 maximum 30 minutes amen and when I get to 30 minutes if the Holy Spirit leads me no but listen believe me in our church on Sunday morning we preach for 30 minutes we just preach I can preach very short I went to Korea I learned how to preach short when I going to Korea because they they they they they they give you time you cannot go over time you cannot they are regimented they go by this by this

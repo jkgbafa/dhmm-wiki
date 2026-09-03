@@ -9,6 +9,8 @@ duration_min: 136
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/CAUSE OF DEATH   MUNICH,GERMANY DAG HEWARD-MILLS  2016 [4IMZGmdls8g]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number nine of the church must end, or it will end. Hello. Okay. Glory to God. Let us pray.

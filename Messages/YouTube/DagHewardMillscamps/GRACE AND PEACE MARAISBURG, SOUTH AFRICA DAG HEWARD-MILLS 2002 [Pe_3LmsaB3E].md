@@ -9,6 +9,8 @@ duration_min: 86
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/GRACE AND PEACE  MARAISBURG, SOUTH AFRICA  DAG HEWARD-MILLS  2002 [Pe_3LmsaB3E]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Welcome to track number one of grace and peace. Alright, you may be seated. We just have a short time, so I want you to open your spirit and your heart. And I believe that the Lord is going to bless us in this time. Amen.

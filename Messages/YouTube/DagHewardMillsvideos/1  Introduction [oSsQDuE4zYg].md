@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=oSsQDuE4zYg"
 duration_min: 198
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 fretey thirsty woman like how it happen in Canada No m to Mr. Young British Layton In front of greetings, Ukraine... will know we also have Hawaii among us where Nick Swisher and you go save face for joe black and so i'll give you some countryside I want to play, not that one would continue from that number he did as sight so nobody leaves the weight site campus saved before time ran out either it's over and bengorine break even during breaks nobody lice from Six people have been removed from the list, and no one is leaving.

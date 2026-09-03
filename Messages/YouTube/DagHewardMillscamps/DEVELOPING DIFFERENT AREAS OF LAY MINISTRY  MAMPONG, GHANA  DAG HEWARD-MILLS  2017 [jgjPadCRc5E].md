@@ -8,6 +8,8 @@ year: 2017
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 once you are a pastor and you stayed a pastor for three years then you'll be a and you must be have a ceremony if you not at the ceremony you can't be ordained just because you are there for 3 years again it's a maturing of the L Ministry just as it is mature in the Methodist Church Presby Church you see the Headmaster is Reverend Peters the biology teacher is Reverend John the uh administrator in the school is sister so and so Catholic sisters and so on and so forth my teachers I was taught by Catholic

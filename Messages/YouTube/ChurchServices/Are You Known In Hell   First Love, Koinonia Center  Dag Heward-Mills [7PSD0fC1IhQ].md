@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7PSD0fC1IhQ"
 duration_min: 65
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 What a blessing. What a blessing. Hallelujah. What a blessing. Let's pray. Father, thank you for today and thank you for your power that is manifest. We are so excited and grateful. Touch our lives in this few minutes we have together. We are thankful Lord in Jesus name. Amen. God bless you. You may be seated. Wow. I'm so happy to be here today. And it's a blessing to be to be back here. It's been some It's been some weeks. It's been some weeks. Oh. It's been some weeks, some weeks. I saw you last week at uh

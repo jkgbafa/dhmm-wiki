@@ -8,6 +8,8 @@ duration_min: 149
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MANZINI, SWAZILAND  FOR THIS PURPOSE THE SON OF GOD WAS MANIFESTED  DAG HEWARD-MILLS [cjADCeicPc8]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 I want to welcome you to the third night of this historic campaign here in Manzini. Tonight is a special night. A night of healing. Why you may be seated? Please find a place to sit.

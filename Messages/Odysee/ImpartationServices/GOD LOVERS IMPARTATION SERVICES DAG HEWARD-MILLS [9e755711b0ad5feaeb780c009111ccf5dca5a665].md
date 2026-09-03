@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/god-lovers-imparta
 duration_min: 84
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Let us pray. Father, we thank you for tonight, for the blessed opportunity to be with you. Lord, we ask you to guide us and lead us by your spirit into all truth. Let your will be done. We are grateful, Heavenly Father, in Jesus' name.

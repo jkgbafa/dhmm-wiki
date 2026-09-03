@@ -9,6 +9,8 @@ duration_min: 70
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PAST QUESTIONS PT1  CARDIFF, UNITED KINGDOM  DAG HEWARD-MILLS  2003 [nTB9Atz4Id4]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Salvation", "Salvation/Backsliding"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/salvation", "topic/salvation/backsliding"]
 ---
 
 Let me just share a very short but important message called the marking scheme. Just the marking scheme for just 10 minutes. Now, throughout my schooling life, right, I have when I have done school and I've done exams, right? I have usually done well. Okay.

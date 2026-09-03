@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=iXjZEstYbOU"
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 You know we have two types of speaking in tongues. The first type are those who when they receive the Holy Spirit and they speak in tongues initially. Like when the Holy Spirit fills them, He's filling them, He's filling them, then He's filling them. The second type of person who speaks in tongues speaks in tongues intentionally. So we need to hear you speaking in tongues to be sure that you have the Holy Spirit.

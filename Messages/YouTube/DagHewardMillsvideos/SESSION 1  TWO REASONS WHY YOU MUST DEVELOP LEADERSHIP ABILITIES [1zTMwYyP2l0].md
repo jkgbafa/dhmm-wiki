@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=1zTMwYyP2l0"
 duration_min: 101
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 thank you we praise you for your great blessing to us in three days of leading ourselves by your grace to something better something higher we thank you Lord for your great blessing in Jesus name Amen you may be seated 10 with me to Romans chapter 12 armed our convention is what was the title of the convention leading yourself alright okay leading yourself well the reason why we want to try to lead ourselves is sometimes when you don't have a good leader you have to lead yourself amen now leadership is it mention in the Bible not

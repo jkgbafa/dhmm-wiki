@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9v7BslRRpTo"
 duration_min: 179
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 amen how many of you are ready to worship and to bow down to the King of Kings amen thank you Jesus sing come let us worship come let us worship and bow down let us kneel before let us kneel before the Lord Our God our maker come let us work come let us worship and bow down let us kneel before let us kneel before the Lord Our God our maker for he for he is our God and we are the people and we are the people of his master and the Sheep of his hand we

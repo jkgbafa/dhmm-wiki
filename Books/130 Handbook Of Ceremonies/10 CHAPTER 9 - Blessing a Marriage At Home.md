@@ -4,6 +4,8 @@ book: "Handbook Of Ceremonies"
 book_number: "130"
 chapter_number: 10
 type: book
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 CHAPTER 9 \

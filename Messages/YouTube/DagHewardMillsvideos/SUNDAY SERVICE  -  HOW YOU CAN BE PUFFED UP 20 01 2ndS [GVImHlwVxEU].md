@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GVImHlwVxEU"
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you need to take a moment to sing to him and extend your shirt in worship because he inhabits he lives in it he dwells in the praises of his head even if you are not familiar with the song you need to still mix up some effort lifting up of the hand and lift up your eyes at what because he loves you were beautiful beyond description - my word wonderful football free like nothing ever be Oh who can cross you're infinite who can find the depth of your beautiful oh so nice we just tell him this

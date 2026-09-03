@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=t9aMXOBkVsM"
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Vision and Direction"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/vision-and-direction"]
 ---
 
 and you see there is no other vision that is good for a church than a vision to grow and to be to have more and to become a mega church that is the that is the good vision you must know that any vision you have it will lead you on a journey and you will be on a real route because of the vision that is in your heart and that is why we have a vision for to build a mega church now that vision will lead us what will it lead us to do it will

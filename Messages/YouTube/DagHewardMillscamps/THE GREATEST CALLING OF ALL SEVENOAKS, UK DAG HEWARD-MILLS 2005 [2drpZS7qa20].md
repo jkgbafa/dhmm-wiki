@@ -9,6 +9,8 @@ duration_min: 22
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE GREATEST CALLING OF ALL   SEVENOAKS, UK  DAG HEWARD-MILLS  2005 [2drpZS7qa20]]]"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 Welcome to track number 21 of birthday. Kewa. Last one. He says, the greatest calling of all is to be conquered by him. The greatest calling of all is to be conquered by him.

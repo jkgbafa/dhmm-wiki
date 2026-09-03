@@ -4,6 +4,8 @@ book: "Those Who Are Mad"
 book_number: "112"
 chapter_number: 8
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 ### CHAPTER 6\

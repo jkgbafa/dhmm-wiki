@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=BFnTTIgdCBs"
 duration_min: 96
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 what happened last night at the keyboard not I give you I can feel it I did for you somebody puts a skeleton over with okay we cry hallelujah you may be seated in the presence of the Lord are you excited to be change hallelujah well look at your neighbor say bye see you never yesterday by a very important person in case you're not away I mean telling like humidity a very very important person in case he doesn't know you introduce yourself to him tell him who you are tell him who you are cute you're known

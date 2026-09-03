@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wg9FoxUJGpA"
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Il y en a l'offre yes sous nanoufia fiance Dina yes soyons fiancées soyes dinyes dinayes dinos fiance fiable fiancée dinaille soina yes soina fiancé oh yes so if you so let's say yes our soul less our soul as a one lesson lesson lesson pour sushi mal so chakuma ou fouet na lium na chula liya co naga il yon yesou Iona kumene yesou And now let's welcome Ida. Manja Manja Manja For God so loved the whole wide world that He gave His only precious son that whoever believes in Him, He shall have eternal life for God

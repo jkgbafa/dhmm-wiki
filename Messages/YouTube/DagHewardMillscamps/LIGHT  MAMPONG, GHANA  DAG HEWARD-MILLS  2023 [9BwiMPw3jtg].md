@@ -8,6 +8,8 @@ year: 2023
 duration_min: 101
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 that is a blessing that is a blessing this is our last session so now in this last session I want us to talk about light yes light why is this church not growing now one of the reasons why some towns in Ghana are not developing is because there's no light off if there was light off here there would be no activity here so in just about 30 minutes we are looking at light light in the Bible is often referred to as knowledge amen amen you may be seated how many enjoy the music in the church

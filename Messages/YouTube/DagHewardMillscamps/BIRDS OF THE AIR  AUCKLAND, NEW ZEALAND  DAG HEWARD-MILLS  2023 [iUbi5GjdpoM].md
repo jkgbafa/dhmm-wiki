@@ -8,6 +8,8 @@ year: 2023
 duration_min: 124
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Hallelujah am father thank you so much for your word your spirit that is moving in our midst tonight in Jesus name amen amen you may be seated what a blessing bless well I can see that you are learning the songs learning how to sing them and that is a great blessing um keep singing keep reaching out amen amen now turn with me in this last session we have tonight tomorrow by this time I should be in Tonga sewing a master seed there wow wow isn't it amazing it's amazing how many want to stay in the

@@ -8,6 +8,8 @@ year: 2008
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 enlargement of a pastor's Ministry how many want enlargement I'm going to show you how to have enlargement for a pastor or shepherd's Ministry amen number one how many want Med do you want your ministry to be enlarged all right very good very good number one to enlarge look how many pastors have got 30 people you want to have 100 an enlargement you got 40 people you want to have 100 huh do you want to do that God is going to help you to do that okay okay amen so that's why I've come to enlargement of

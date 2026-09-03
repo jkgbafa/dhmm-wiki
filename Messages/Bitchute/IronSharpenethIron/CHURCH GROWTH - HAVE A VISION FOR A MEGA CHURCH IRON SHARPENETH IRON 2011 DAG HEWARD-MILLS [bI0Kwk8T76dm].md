@@ -8,6 +8,8 @@ year: 2011
 duration_min: 87
 source: "whisper"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Vision and Direction"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/vision-and-direction"]
 ---
 
 Now we are looking at building the church. Amen. And um there are three books in this category, church growth. And the mega church and the mega eggs. These are the three topics that I am sharing about.

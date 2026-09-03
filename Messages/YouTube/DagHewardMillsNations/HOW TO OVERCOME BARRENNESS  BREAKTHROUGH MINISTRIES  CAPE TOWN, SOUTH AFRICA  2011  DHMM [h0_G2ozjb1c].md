@@ -8,6 +8,8 @@ year: 2011
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 hallelujah thank you very much Pastor it's a blessing and an honor to be here to be part of the great things that the Lord is doing right here in Cape Town amen amen amen it is my privilege to be here let us pray father thank you so much for tonight and thank you for the blessing of being welcomed into another city to share your word Lord we thank you for the privilege that we have to be here what an honor because Lord we could easily not be here we could easily be somewhere else sleeping in

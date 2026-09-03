@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ZL2jfRK71_o"
 duration_min: 55
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 Not far from the chair, about agreeing to leadership, I will now share what I call the art of leadership. Damascus - Ab Veilleux Ripouille, I give you three points, not even having breasts and b'wana girls or coast l'ida, this number two evenings decided to be among the leaders, the best leaders in this world, hallelujah hallelujah harmony one by one with the taste of a leader. How many want to be one of the good leaders in this moment - Diarra, when not the idea, is that we have bad leaders in this world where or in Africa,

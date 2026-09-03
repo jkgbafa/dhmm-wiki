@@ -8,6 +8,8 @@ year: 2018
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Call of God", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-call-of-god", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Now chapter 2 ver 1 sec. it say It says there we are his We are His. Action and service are His creation. created in chess The good that is sewn in Christ He is dedicated to good service. Which god before? The Lord understood from the beginning Chosen So that we may walk in that choice 2 10th of July 10th 10 of 10 Amen so we are his work We are His industry. Hallo! Hallelujah we are his whip We are His creation and workmanship. You are His greatest creation. What God has Because of what God has

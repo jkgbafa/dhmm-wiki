@@ -8,6 +8,8 @@ year: 2023
 duration_min: 89
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 wow hallelujah hallelujah hallelujah you know uh daddy is not just a preacher an evangelist a pastor um a prophet he's also a a a writer and also what a composer producer of songs hey charie so after reading your Bible listen to his voice he want music for worship that will touch your spirit and that will minister to You music that will talk to you talk to you and preach to you you still you go also for the music and listen to it and you realize that you are blessed Hallelujah you see we are blessed so

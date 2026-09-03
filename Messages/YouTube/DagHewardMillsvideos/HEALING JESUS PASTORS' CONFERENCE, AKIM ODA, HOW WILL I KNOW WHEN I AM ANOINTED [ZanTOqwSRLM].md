@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ZanTOqwSRLM"
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 ah da baby oh yes your daughter not by hey we may we was in your did she ba-baby oh yes your daughter no matter we bear we want idiot did he in order unionist and ma a my idea nobody haha maybe oh yeah not by their we was this DG Oh not by bear we may we wasn't your this one normal DG hallelujah father thank you for this time what a blessing it is to be here to receive your word we thank you in Jesus name Amen may be seated this morning I want to share

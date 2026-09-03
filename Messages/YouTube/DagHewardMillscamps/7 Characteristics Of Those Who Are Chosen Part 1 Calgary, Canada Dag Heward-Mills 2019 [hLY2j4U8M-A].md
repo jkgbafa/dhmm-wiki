@@ -8,6 +8,8 @@ year: 2019
 duration_min: 163
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, we are grateful for your blessing in Jesus' name. Amen. You may be seated. Hallelujah. Now we want to look at those who are chosen.

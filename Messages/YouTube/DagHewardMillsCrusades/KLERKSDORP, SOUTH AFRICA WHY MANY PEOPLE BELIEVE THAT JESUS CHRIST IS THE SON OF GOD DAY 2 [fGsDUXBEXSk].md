@@ -8,6 +8,8 @@ duration_min: 160
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/KLERKSDORP, SOUTH AFRICA  WHY MANY PEOPLE BELIEVE THAT JESUS CHRIST IS THE SON OF GOD  DAY 2 [fGsDUXBEXSk]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Clap your hands for Jesus. Let it be louder tonight. Let it be louder tonight. Hallelujah. Hallelujah.

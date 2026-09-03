@@ -8,6 +8,8 @@ year: 2002
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 welcome to track number seven of the mysteries of God experienced is the mystery of having to sacrifice something um why do I call it a mystery because I often don't see the use of sacrifice it looks like it looks like um it looks like uh what do you call it um a waste of resources often to me so I think that um it is a very mysterious thing father we ask you to guide us lead us by your Holy Spirit we thank you in Jesus name amen amen we're just having a short session I told

@@ -8,6 +8,8 @@ year: 2002
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/All-night Prayer"]
+tags: ["topic/prayer", "topic/prayer/all-night-prayer"]
 ---
 
 welcome to track number five of Zoro Secrets the Father Knows something that he hasn't told the son because you know we teach but is that something that you can think about I'm not saying that you shouldn't be say you just think about it it may mean something to you but it means something it says that nobody knows it the father hasn't told the son so Jesus was in other words saying that even if you force me to tell you I I don't know it because he hasn't told me and and there are times that it

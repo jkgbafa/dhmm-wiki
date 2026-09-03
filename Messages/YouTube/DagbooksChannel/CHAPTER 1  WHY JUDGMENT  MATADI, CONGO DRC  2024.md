@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2024
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 Amen. There is a book I wrote called B. Yes. Ah yes, this book is called B. The Judgment. Amen. In Isaiah, the Bible says that the government will be on his shoulder. And the Bible says, he will establish the government on two things, judgment and justice. The difference, you know, between nations, is two things. Judgment and justice. Amen. And the difference between churches in their leadership lies in two things: judgment and justice. That's the difference. Yes. We can never have a great ministry if we do not have a leader who establishes judgment and justice. Amen.

@@ -8,6 +8,8 @@ year: 2001
 duration_min: 32
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to track number two of Victory Layotisha Incense, Lord Jesus, unto you. Have mercy on us, Lord. Show us your mercy and your grace, Lord. Cause us to approach you, Lord. To come before your throne.

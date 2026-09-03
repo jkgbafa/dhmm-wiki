@@ -9,6 +9,8 @@ duration_min: 10
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PRAYER SESSION  BONSU, GHANA  DAG HEWARD-MILLS  2005 [m93L-FR4_Vc]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Welcome to track number 13 of battery. It was a rainy night, and I was praying, praying for myself, and I will never forget that prayer. Way on that road as I walked up and down. I pray, Lord, let me be fruitful. I'll never forget.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=HsyuMxPk96s"
 duration_min: 55
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 please stay with me to Ephesians the book of Ephesians and I bring you greetings from South Africa we were in the I had to travel again to South Africa I was in the Drebin which is one of the big cities in South Africa and also in we had a good program there and also in Pretoria without Church there also they are doing very well and program then also in Nairobi with our church in Nairobi they are also doing very very well hallelujah so everybody sends their greetings and we thank the Lord for all that he's

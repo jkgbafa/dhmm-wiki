@@ -8,6 +8,8 @@ year: 2001
 duration_min: 16
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 Welcome to track number 21 of the message of sacrifice. Now the next point that you need to you need to know about sacrifice is what? Sacrifice so that your heart is with God. Sacrifice so that your heart is with who? So that your heart is with the Lord.

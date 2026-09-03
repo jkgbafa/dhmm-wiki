@@ -8,6 +8,8 @@ year: 2016
 duration_min: 213
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Spiritual Warfare", "Spiritual Warfare/Curses", "The Call of God", "The Call of God/Responding to the Call", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call", "topic/wisdom"]
 ---
 
 has been given to us today guide us by your mighty mighty mighty Spirit into all truth ask God right now for the spirit of Revelation Hallelujah and wisdom thank you Jesus hallu hallu thanks for your guidance thanks for your help hallu thanks for your grace thanks for your mercy thank you thank you thank you thank you we give you praise we give you praise in the name of Jesus Christ amen you may be seated Proverbs 3 dazzling wisdom that leads to the wonders of the lay Ministry the four wonders of the lay Ministry or the

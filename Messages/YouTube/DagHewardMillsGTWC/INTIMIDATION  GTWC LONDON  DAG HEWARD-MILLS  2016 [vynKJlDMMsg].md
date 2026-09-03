@@ -8,6 +8,8 @@ year: 2016
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Three, intimidation is demonic. Bible says as they went to prayer, a certain damsel that was possessed with a spirit of divination met us. Acts 16:E1 16. And the same followed us day and night crying, "These servants are the servants of the most high God." She did this for many days. And Paul being grief turned to the spirit and said, "I command you come out in the name of Jesus Christ." So intimidation is a threat of the enemy to bring up information about you to try to control your preaching. Hey, you you can't preach about this.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4Nh5evifdRU"
 duration_min: 171
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Alléluia. Le bon nom est bénissant le Seigneur. Oh merci Seigneur. Dis merci Seigneur. Je suis content d'être en ce lieu.

@@ -8,6 +8,8 @@ year: 2004
 duration_min: 140
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 amen you may be seated the preparation of the Gospel hallelujah amen now now that we are you see what we looked at yesterday you could would call the preparation of David and how he became anointed and he had to learn and he was preparing himself by being responsible etc etc amen amen so we thank the Lord is that not so all right now yesterday we looked at all the different things that he means to prepare and um I was giving you six or seven things you need to have have as prepared things things that are

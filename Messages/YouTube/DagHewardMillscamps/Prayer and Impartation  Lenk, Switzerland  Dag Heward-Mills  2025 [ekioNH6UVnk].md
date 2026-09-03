@@ -8,6 +8,8 @@ year: 2025
 duration_min: 144
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer"]
 ---
 
 All right. Okay. So, living waters number one. What is number one? Living water represents the Holy Spirit and the anointing. Number two, living water brings something everlasting, longlasting, persistent, and eternal. Amen. Number three, number three, living waters cleanses and purifies. Amen. 10 things that the living waters will clean you from which the blood of Jesus will not clean you from in the same way. Amen. Wow. Wow. Wow. How many want to know 10 things that the Holy Spirit will cleanse you from? Amen. Amen. Now this session which is just a short session because I believe

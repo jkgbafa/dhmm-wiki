@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=I8xXgYTNXEM"
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Missions", "Missions/The Nations", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/missions", "topic/missions/the-nations", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Bishop dag hu Mills is an apostle from Ghana in Africa you know he started 3,400 churches in 105 countries he's also a medical doctor a healing evangelist whom God is using all over the world in huge gospel campaigns as you have seen on the video you know bishop and I we serve on Dr Joe B for the past 20 years and I was telling him this this week sometimes we don't understand the timing of God it took us so long to invite him to City Harvest Church like what was I thinking but I'm happy is

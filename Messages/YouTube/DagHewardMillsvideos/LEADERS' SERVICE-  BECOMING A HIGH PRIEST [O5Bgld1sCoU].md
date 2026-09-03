@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=O5Bgld1sCoU"
 duration_min: 62
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 freak issue you like entry the languages my choose God and precious time even as my system filter a spiritual house fully crystal conscious access applause I try to cause a alright somebody not having me to Leviticus chapter 21 Leviticus chapter 21 alright limitations to anyone and let's read from verse 1 I just want to make a little commentary on the Old Testament 3 and I believe we'll be happy from there since we want to be brief also the law that's all things we must all learn amen we talked about the anointing for building and now

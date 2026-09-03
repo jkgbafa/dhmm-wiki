@@ -7,6 +7,8 @@ url: "https://rumble.com/v4svskk/"
 duration_min: 139
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Prayer/All-night Prayer", "Prayer/Praying in Tongues", "Salvation", "Salvation/Repentance", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/prayer/all-night-prayer", "topic/prayer/praying-in-tongues", "topic/salvation", "topic/salvation/repentance", "topic/wisdom"]
 ---
 
 Man, please take your seat, amen. You can see that today the atmosphere is different. Oh, I can't feel that you can see that the atmosphere is a different atmosphere. Means that the service is going to be very powerful. But those at the back, I can't feel their excitement about the service.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Ofm3cfPmZMU"
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 as we go forward in this new dimension of lay ministry is one of the things we need is loyalty loyalty he's area to nobility and I wanted the epitome of shekharan now record director my parsha particle so I want to go to discuss loyalty and disloyalty any sub parts apart Aviva's to hypoxia party no Vemma get over some Kazakh Jacaranda cavity older now your country is just like Switzerland in Switzerland we have three languages French German and Italian Switzerland a buggy Basha too knock Tamara Francia Italia German bow shop everything is in three languages pasta

@@ -8,6 +8,8 @@ year: 2009
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 welcome to track number five of my first love in Jesus name amen am you may be seated Hebrews 11 oh can I have my King James Bible where are they it's in the C okay the list number one uh you can frame all right or create your world Amen create your world Amen through your faith amen amen now the world that I am experiencing now is a world that has been created by the faith that I had in God the people that I see the people that I know you get it the people that work

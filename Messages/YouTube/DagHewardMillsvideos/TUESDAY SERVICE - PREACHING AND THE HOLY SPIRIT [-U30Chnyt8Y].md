@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-U30Chnyt8Y"
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 thank you for your word tonight Lord we ask that you guide us speak to out the law to speak to you tonight father we are grateful for your word we are grateful for your spirit guiding us thank you for your blessing in the name of Jesus amen you may be seated then to Acts chapter 10 because now there was a man at Caesarea named Cornelius a Centurion of what was called the Italian cohort a devout man one who feared God with all his household and gave many arms to the Jewish people and prayed to God

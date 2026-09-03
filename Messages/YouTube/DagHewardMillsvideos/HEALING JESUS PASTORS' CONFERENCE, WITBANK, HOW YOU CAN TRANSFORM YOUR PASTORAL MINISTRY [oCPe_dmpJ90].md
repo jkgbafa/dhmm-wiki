@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=oCPe_dmpJ90"
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wisdom"]
 ---
 
 transforming your ministry now I have a book here called transform your pastoral ministry amen transform your pastoral ministry and how many believe that your ministry can be transformed I believe ministry can change this is something that every pastor and minister must believe in that your ministry can be transformed or can be changed amen I with me and then I have a book here called amplify your ministry with miracles and manifestations of the Spirit the reason that I am sharing with you about Google is because like our brother testified when you read a book sometimes you

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=dccXnQPM2W8"
 duration_min: 175
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Curses", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 REM let's give God thanks right now let us open our mouths and give God thanks right now the Bible says give thanks to God no matter what circumstance you find yourselves in we want to give God thanks right now thanking God for a supernatural day thanking God for triumphing over the works of evil thanking God for helping us to have victory over the ways the schemes the ples and plots of the devil lift your voice right now speak in TKS anywhere you find yourself we are giving God thanks if there is any time we need

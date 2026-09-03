@@ -8,6 +8,8 @@ year: 2025
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 What do you don't do for me? I got peace on me. Sing with me. I go you. I go to you. Clap your for Jesus. Papa with all my heart I know you don't let me let me let you Yes, you are. Yes, you are. Where? Sing with me. You voice your voice. you do for me. I always remember what you don't do for me. I remember what you going to do for me. I know it's you. I go you like this. I love Jesus. people to for you every go through and say you not

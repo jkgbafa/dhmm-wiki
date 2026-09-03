@@ -4,6 +4,8 @@ book: "Those Who Rebel"
 book_number: "094"
 chapter_number: 8
 type: book
+topics: ["Anointing", "Anointing/Kinds and Waves of the Anointing", "Leadership"]
+tags: ["topic/anointing", "topic/anointing/kinds-and-waves-of-the-anointing", "topic/leadership"]
 ---
 
 ### Chapter 6\

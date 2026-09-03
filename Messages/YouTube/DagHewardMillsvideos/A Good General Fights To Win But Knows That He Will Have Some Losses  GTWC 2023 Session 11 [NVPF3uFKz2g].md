@@ -8,6 +8,8 @@ year: 2023
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 hallelujah hallelujah lift your hands as we thank the Lord for today we are grateful we are gratefulness we are gratefulness we thank you Lord we thank you Lord we thank you Lord foreign mama oh my cigarettes foreign now today is our last day here and um We are continuing on the good General where did we get to uh 24. 24 amazing well I'm going to try to move faster amen amen so we are going to jump to a very important chapter um and um in chapter 46. a good General fights to win but he knows

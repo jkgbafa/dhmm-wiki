@@ -9,6 +9,8 @@ duration_min: 49
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/HOW TO IDENTIFY ANOINTED PEOPLE  GTWC BRAZZAVILLE  DAG HEWARD-MILLS  2017 [GVb2xzZehm0]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 How to identify anointed people. Wow. Are you still here or you are leaving? We are going to be closing soon. I hear.

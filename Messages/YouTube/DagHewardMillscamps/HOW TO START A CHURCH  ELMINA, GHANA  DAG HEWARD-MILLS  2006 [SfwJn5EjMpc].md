@@ -8,6 +8,8 @@ year: 2006
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 now a church when we say count the cost all right it means that there is a cost to a church existing if you are to count the cost then you must pay the price and the point that I'm trying to make is that the church work we are doing has a price Francis come stand here right this is the price this is the price of the church in Abasi one slave of God yeah if you don't know I'm telling you power W this is the price then it's come now we want to have a church

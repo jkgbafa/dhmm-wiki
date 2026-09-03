@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=OEsMzokvwxY"
 duration_min: 89
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 If this place we are ready for more wonderful moments Ouattara Favre with our father a man of where is my boss my kitty was blessed by this morning's session at the va and I would like us to see at sight this morning Solystic in August so we will take the name of Bishop too late Ammar Awad is united and during the morning session the Bishop teaches us on note intended for the iPhone that various hypotheses because you need to know why you get into and it is very important for us to know where we are

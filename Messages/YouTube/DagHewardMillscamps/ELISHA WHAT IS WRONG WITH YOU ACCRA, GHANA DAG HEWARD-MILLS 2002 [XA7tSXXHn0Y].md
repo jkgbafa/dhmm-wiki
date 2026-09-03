@@ -9,6 +9,8 @@ duration_min: 31
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/ELISHA WHAT IS WRONG WITH YOU  ACCRA, GHANA  DAG HEWARD-MILLS  2002 [XA7tSXXHn0Y]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Welcome to that number three of the loose. Where do we start? Where do we stop? Alright. Okay.

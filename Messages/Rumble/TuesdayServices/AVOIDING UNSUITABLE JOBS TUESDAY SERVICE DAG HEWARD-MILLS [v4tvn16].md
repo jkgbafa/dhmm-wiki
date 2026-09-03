@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tvn16/"
 duration_min: 79
 source: "whisper"
 match: "exact"
+topics: ["The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 Down at your feet all the most high blessings in your presence we see your faith we seek your hell down at your feeble is the most high place in your presence we seek your high calling and know greater honor than to bow and kneel before your boy I'm amazed at your glory by your mercy I live to worship you there is no high calling and there's no greater honor and to bow and kneel before your throne Lord at your glory I'm embraced by your mercy I live to worship you I live to worship you alone you will love at your glory embrace by your mercy oh Lord I live to worship you to worship you to worship you love at your feet oh it's the most hallelujah shall we pray heavenly father thank you for your blessing today what a blessing it is to be alive and to be in your presence we are thanking you Lord in Jesus' name Amen you may be seated right tonight I'll bring you greetings from um different places that we've been to um church in America South America and also the UK and South Africa all send their greetings amen they are doing well and they send their love right tonight I want to share from my book rules of church work chapter thirteen you have your copy you didn't bring it okay you can check after church but I'm talking tonight about avoiding and suitable jobs avoiding unsuitable jobs amen hallelujah.

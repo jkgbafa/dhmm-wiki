@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=l6Amxkd3GQM"
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 No. Where is your supernatural that aspect? Yeah. Currently, currently that on the way to the anointing, there are some painful things that God is going to cut off from your life. Very painful.

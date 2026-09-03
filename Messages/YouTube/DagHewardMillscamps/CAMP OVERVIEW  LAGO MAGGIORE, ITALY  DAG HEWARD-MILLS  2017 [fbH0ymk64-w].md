@@ -8,6 +8,8 @@ year: 2017
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Jesus be all the glory unto Jesus Jesus Jesus Jesus Jesus all the glory all the honor all the praise Hallelujah you may take your seats are you excited to be here are you blessed to be here are you glad to be part of this wonderful family wonderful Church Wonderful Grace that is moving lious Chapel International I keep on saying to people always it's not a church it's a family are you understanding me that's why we stress on loyalty stress on Unity we stress on being together because when you join us you have joined a family

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=OL1kCpAIhEc"
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["Missions", "Missions/The Nations"]
+tags: ["topic/missions", "topic/missions/the-nations"]
 ---
 
 let us pray father thanks so much for this opportunity to be in your house to hear your word to receive your word Lord we ask that you speak to our hearts this morning in Jesus name Amen you may be seated in the presence of the Lord before I forget after church today at 3:30 there will be an international reception for all members of the church who are not from Ghana are you jealous well to be hosted by my wife and that will be a very powerful time so if you are not a gunman in your

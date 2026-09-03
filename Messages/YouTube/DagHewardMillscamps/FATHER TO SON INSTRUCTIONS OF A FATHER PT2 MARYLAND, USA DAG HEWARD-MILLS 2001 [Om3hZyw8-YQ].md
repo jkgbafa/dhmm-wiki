@@ -9,6 +9,8 @@ duration_min: 67
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/FATHER TO SON  INSTRUCTIONS OF A FATHER PT2   MARYLAND, USA  DAG HEWARD-MILLS  2001 [Om3hZyw8-YQ]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Command and teach. When you come to church, expect to hear both commands and teachings. And when you hear a command, you must obey. So that God can bless you. Amen.

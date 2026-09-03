@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=sK6IFI5AFxE"
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 hallelujah let us pray father thank you for this opportunity that we have this morning we give you thanks in Jesus name Amen you may be seated the blessing to be here this morning are you glad to be here this morning wonderful how many of you here are pastors well you have a lot of pastors in both the city of life amen and God so this morning I want to share with you on something that I believe will transform your ministry amen I wrote a book here called transform your pastoral ministry amen I believe that it

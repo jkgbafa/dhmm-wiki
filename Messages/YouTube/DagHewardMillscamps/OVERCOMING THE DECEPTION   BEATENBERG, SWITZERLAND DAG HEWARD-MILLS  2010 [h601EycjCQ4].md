@@ -8,6 +8,8 @@ year: 2010
 duration_min: 5
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 welcome to track number seven of advancing in pegamos advancing in pagamos is advancing in loyalty now as you advance in loyalty you advance in overcoming the deceptions that go with becoming disloyal now it is very important to share about loyalty and disloyalty because it is the common uh deception of the devil in churches amen are you there now I am sharing with you seven reasons why many people are deceived into becoming disloyal okay seven reasons why people are deceived into becoming disloyal in pergamos are you listening to me seven reasons why people are deceived into

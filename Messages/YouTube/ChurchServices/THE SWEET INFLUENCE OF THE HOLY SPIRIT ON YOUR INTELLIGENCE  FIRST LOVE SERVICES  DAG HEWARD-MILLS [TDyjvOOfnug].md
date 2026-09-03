@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=TDyjvOOfnug"
 duration_min: 144
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 is the day to honor you a father to us you've been just want to say that we love you and I appreciate all you do a Beacon of Hope a general of God a light to our generation daddy we are sing God bless you happy Father's Day to you Daddy we are blessed God gave us you happy Father's Day to you we are certain the words you speak our words we need today prophets and reach men the start of Moses and more a general of Hope a general of God and light to our generation you

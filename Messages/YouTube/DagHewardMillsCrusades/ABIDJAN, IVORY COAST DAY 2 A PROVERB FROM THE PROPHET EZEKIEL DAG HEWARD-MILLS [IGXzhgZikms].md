@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IGXzhgZikms"
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Yopougon Yopougon Yopougon Yopougon Sautez vos mon choix sentez vos choix sentez pour mon choix à Your Pasteur Est-ce que vous êtes là Yopougon écoutez-moi s'il vous plaît ainsi de louanges Est-ce que vous êtes là Ainsi j'ai dirige de loua Je l'adorerais Il a honte mes soucis Il a honte mes souci Il m'a donné la peur Maintenant il m'a libéré Est-ce que vous êtes là Avant Jésus frère J'étais dans l'affliction J'en le dis donc en idant Je devenant fentiche Mais quand je connu Jésus Est-ce que vous êtes là Mais quand je connu Jésus Mais quand je

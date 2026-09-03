@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2012
 source: "autocaption"
+topics: ["Prayer", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/prayer", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 influence of the Holy Spirit on your level of inspiration. Now, prophecy is the same as speaking under inspiration. You see whether you are preaching, whether you are just talking, whether you are conversing, you prophesy when you are under the inspiration of the Holy Spirit. So you may be more or less inspired by the spirit of God. And when you are under the inspiration of the Holy Spirit, you speak in a certain way. Amen. Amen. Are you listening to me? So under the inspiration of the Holy Spirit, you speak certain words. So when you are preaching,

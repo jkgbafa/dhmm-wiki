@@ -8,6 +8,8 @@ year: 2017
 duration_min: 166
 source: "autocaption"
 match: "exact"
+topics: ["Fasting", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/fasting", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 pray pray pray my pray my pray h h come on lift your voice lift your voice and pray to God ask God for strength ask him for strength Jesus Jesus Jesus m in the name of the Lord Jesus Christ Hallelujah Hallelujah I said hallelujah amen wow now the verse that we are reading to pray with is the verse that Bishop oo shared with us Galatians chapter 4: 19 my little children of whom I travel in birth again until Christ be formed in you and we are asking God to give us that strength to continue in

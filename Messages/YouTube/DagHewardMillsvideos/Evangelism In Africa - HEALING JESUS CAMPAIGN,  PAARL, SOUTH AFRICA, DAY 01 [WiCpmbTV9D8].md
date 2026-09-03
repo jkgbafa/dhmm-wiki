@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=WiCpmbTV9D8"
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 a man clap your hands for Jesus tonight let it be loud out let your hand claw be louder let your heart love allow de nothing to be louder again tonight what a blessing what a blessing do you believe your life will never be the same again how many of you are expecting God to touch you specially uniquely as an individual tonight if you are believing God to touch you did the load away of your hand away away Wow never the same again you will never be the same again clap your hands once again for Jesus

@@ -8,6 +8,8 @@ year: 2005
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number five of vassalization now we are going to start another thing you need to climb into climbing into your anointing I want to give you keys to climbing to the anointing amen number one join the 20% of the population which read books only 20% of ghanians read even that one is high I see you joining the top 20% how many realize that any great person reads do you think I read books do you think I read I see you reading from today you have developed a new habit read and your English will

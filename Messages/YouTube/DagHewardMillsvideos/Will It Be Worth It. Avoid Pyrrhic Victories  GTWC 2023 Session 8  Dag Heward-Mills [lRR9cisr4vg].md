@@ -8,6 +8,8 @@ year: 2023
 duration_min: 151
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Leadership/Generals and History Makers", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 Hallelujah father we are grateful for your blessing in Jesus name amen amen you may be seated chapter 17. a good General um how many believe that you are becoming a good General and flexibility flexibility amen amen now flexibility is very key in moving on advances flexibility is the ability to readily change the flexibility say the capacity to be flexible you need to be able to respond quickly and adapt quickly poet flexible to do a republic Philippians chapter 4 Philippines Paul said Paul D I know how to be a based and I know how to abound

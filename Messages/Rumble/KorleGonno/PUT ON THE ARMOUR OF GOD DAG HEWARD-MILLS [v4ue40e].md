@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ue40e/"
 duration_min: 48
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 2 Kings chapter 5. Now, Naaman, the captain of the host of the king of Syria was a great man with his master, an honorable. Because of him, the Lord had given deliverance unto Syria. He also was a mighty man in valor. But he was a leper.

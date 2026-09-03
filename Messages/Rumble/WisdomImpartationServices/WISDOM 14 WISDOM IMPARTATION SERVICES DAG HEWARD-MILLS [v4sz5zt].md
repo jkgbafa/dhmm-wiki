@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sz5zt/"
 duration_min: 187
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Salvation", "Salvation/The New Birth", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/salvation", "topic/salvation/the-new-birth", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 It's time for testimonies. Amen. How many of you are becoming wiser through the testimonies? Today we have fantastic testimonies. And I believe that your life will never be the same, even as you listen to these powerful testimonies.

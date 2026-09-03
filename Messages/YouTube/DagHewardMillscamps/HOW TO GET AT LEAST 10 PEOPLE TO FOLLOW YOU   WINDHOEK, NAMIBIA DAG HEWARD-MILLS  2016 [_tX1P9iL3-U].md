@@ -8,6 +8,8 @@ year: 2016
 duration_min: 131
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number nine of where is the flock that was given thee how many enjoyed Ida's music fantastic let us pray father we are grateful for this opportunity as you guide us further in Jesus name amen amen you may be seated what did I tell you I was going to tell you today how to how to get the 10 turn to Exodus 208 verse 21 Exodus 18 verse 21 fantastic moreover Thou shalt provide out of all the people able men such as fear God men of Truth hating covetousness and place them over them to

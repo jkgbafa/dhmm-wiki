@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/mRGPmKKos5ek/"
 duration_min: 92
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Like a thief in the night. He'll be there. We shall meet him in the air and all his glory. Oh, Marinath, he is coming, he'll be there. Marinatha Marinetha.

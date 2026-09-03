@@ -8,6 +8,8 @@ year: 2022
 duration_min: 218
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 lift your hands begin to pray ask him to speak to you ask him to touch your life ask him that whatever he had for you when he brought you to this place you don't want to go home without it everybody all over this place lift your hands lift your voices let's begin to pray I can't hear you lift your hands everybody close your eyes lift your voice begin to pray ask God to speak to you ask that Holy Spirit to touch you ask him to transform you Holy Spirit Holy Spirit Holy Spirit Holy Spirit we

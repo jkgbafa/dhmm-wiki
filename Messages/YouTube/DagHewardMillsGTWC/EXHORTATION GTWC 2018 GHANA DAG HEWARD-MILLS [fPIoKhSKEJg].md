@@ -8,6 +8,8 @@ year: 2018
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Missions"]
+tags: ["topic/missions"]
 ---
 
 Obligation of a Christian Obligation of a Christian attempt great things for God Obligation of a Christian to the heathen of the world to use all means available to preach the word of God Obligation of a Christian witnessing to everyone conversion of the nations through the blood of Jesus Christ can't you do just a little bit more can't you go just a little bit further can't you preach just a little bit more can't you give just a little bit more the church must send or it will end so attempt great things for God get up stand

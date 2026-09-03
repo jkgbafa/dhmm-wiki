@@ -8,6 +8,8 @@ year: 2011
 duration_min: 183
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Hallowed be your name oh Lord in Jesus name amen hallelujah you may be seated please you dece amen hallelujah all right Hallelujah are you excited to be here all right let's pray father what a blessing we have today in your presence we are thankful for everything that you have given to us in Jesus name amen amen all right the topic is Lord I know you need somebody all right number one number one God is looking for someone to do a job for him amen amen God is looking for someone to do a job for him

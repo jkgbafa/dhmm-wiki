@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2014
 source: "autocaption"
+topics: ["Prayer", "Prayer/Intercession", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/prayer/intercession", "topic/the-holy-spirit"]
 ---
 
 Hallelujah. Let us pray. Father, thank you for this morning and thank you for your holy word. Thank you for bringing us to church this morning. We pray that you will guide us, lead us by the Holy Spirit to do all of your will. Thank you, heavenly father. In the name of Jesus Christ, we pray. Amen. Amen. You may be seated. Hallelujah. This morning we are continuing on our series on how to pray. Amen. And I want to look at the subject or the topic of why some people pray for a short time and why some

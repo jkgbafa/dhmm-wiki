@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=88yDNoVoYQc"
 duration_min: 45
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Saburai Big Gaza Commati comme un bache Burita Guya Sakusa Sakusa Sakusa If you're cousin Fisama Eco Shima Daguasa Gutcha Gutcha Gutcha Mutis no viva pour la document la douche manuire la douchim la guimbasa gofu kamé sous ses saturées toutanche la douche mancha gucca gucan qui ache à coussé manchet la guiman la guitasse la douchima la douchima gouye so fou qui sias gutha gucci Guchaung Bouti Saiwa Sarawe Ziesaya Sarawe Mushina Tiayesura Tisqua Fuga Bay Fuga Meurati Squa Tia Sura Mo Hokawe Satani Gutcha Guchawe Muribe Lalal Business Satani Alga Jayesqua Diawe Guccia Gucci Nadia Ivy Gaza I Vigasa Gushima Surata Gushima Shima Kurata Nambi Asoura Gushima Duchima Duchima Gushima Shima Gushima Shima Gushima Shima Gushima Gushima Oh Tura Bushima Shima Bushima Gushima Hallelujah Paplis Are You Ready For What's Mana Guru Nothing could stop this campaign from coming on tonight.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tZztrMwQSM0"
 duration_min: 209
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah amen what a blessing God is good God is good and all the time wow what a blessing God bless you so much for joining us it's such a great blessing to have you with us and um we believe that the more we meet the Lord the more we encounter him the better our lives turn out to be can I have an amen oh can I have a better amen today is a good day I don't know about you but today is a good day and um we want to spend some time this morning wherever

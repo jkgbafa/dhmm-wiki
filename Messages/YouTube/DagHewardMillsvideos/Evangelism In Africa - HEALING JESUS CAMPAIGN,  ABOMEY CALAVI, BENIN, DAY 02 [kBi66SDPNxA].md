@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=kBi66SDPNxA"
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 - Lombardi abuja do careful careful yes hallelujah these are for said to lambda more is the passage ooh you're a two-bedroom Jesus's ooh yeah - Tasha Allah Mafia it's a positive so I do bad you see such as you yeah tutor sauce a llama be a lubbers you put that one these are ball sack to Lambie and Amman as a prize assume you're a trooper to be such as you dr. death of the Saltalamacchia loopy these are these are these are you the tutor short I'll tell you more Rajas real a Mobius loop you Breslin

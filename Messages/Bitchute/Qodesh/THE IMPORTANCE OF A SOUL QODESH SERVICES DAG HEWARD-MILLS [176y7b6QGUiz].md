@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/176y7b6QGUiz/"
 duration_min: 54
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Souls are part to eternity, souls are parting as we live today, souls will pass as the days go by, how many really will die in Christ? How many really will live again? Souls are part to eternity, souls are parting as we live today, souls will pass as the days go by, how many really will thy prize? How many really will live again? Just look around you and see the souls which part each day, God's salvation and the blood of Jesus was shed for them that they might be saved, and do you care for their souls?

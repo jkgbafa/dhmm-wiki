@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ueuxb/"
 duration_min: 45
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Salvation"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/salvation"]
 ---
 
 Father which are in heaven, we thank you so much for this morning. Thank you for the opportunity we have in your presence to receive your word to go on with you. We ask for your mercy and your grace to abound this morning. Thank you for your blessing as you speak to our hearts in Jesus' name. Amen.

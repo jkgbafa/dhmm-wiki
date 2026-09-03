@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=V6k1PrYWv1A"
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism"]
 ---
 
 I do you what is a copy that Bobby Bobby Bobby Bobby stop Bobby Bobby Bobby for me he doesn't mess with me I'll be happy happy happy somebody shot I agree I agree I agree happy shut up will be happy I'll be happy my you believe me haha I agree I agree I agree I agree Oh yeah hallelujah three you free tonight you may be seated with a hand clap on to Jesus what a charged atmosphere we have yet tonight you may be seated tonight we are very honored to have with us some of the

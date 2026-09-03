@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u851f/"
 duration_min: 55
 source: "whisper"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 Please turn with me to Ephesians, the book of Ephesians. And I bring you greetings from South Africa. We were in uh I had to travel again to South Africa. I was in Durban, which is one of the big cities in uh South Africa, and uh also in um we had a good program there, and also in um Praetoria with our church there, also they are doing very well. We had uh program there, and also in Nairobi with our church in Nairobi, they are also doing very, very well.

@@ -8,6 +8,8 @@ year: 2024
 duration_min: 155
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer"]
 ---
 
 Thank you, Pastor Jonathan. Let's pray. Father, thank you for your great blessing. Thank you for guiding us by your Holy Spirit. Thank you for bringing us here today. We are grateful for your mighty power. Touch every life, I pray, tonight. Speak to us. Lead us. Bless. Bless. Bless. Lift your hand and receive your blessing. Acts 3 26. God sent Jesus Christ to bless us. And so tonight, may there be a blessing on your life because God sent Jesus to bless you and bless me. Father, thank you for a great blessing on every life today in

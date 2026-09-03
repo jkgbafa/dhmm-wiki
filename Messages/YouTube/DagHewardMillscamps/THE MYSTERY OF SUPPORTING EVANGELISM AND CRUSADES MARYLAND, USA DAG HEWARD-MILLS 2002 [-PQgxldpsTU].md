@@ -8,6 +8,8 @@ year: 2002
 duration_min: 73
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Welcome to track number 10 of the mysteries of God. Now, one of the great blessings in the ministry is the blessing of opportunity to help. Yes. And mysteriously, helping is not as dependent on finances as it is on the opportunity to finance. I didn't, I don't know if you you I want to say that again.

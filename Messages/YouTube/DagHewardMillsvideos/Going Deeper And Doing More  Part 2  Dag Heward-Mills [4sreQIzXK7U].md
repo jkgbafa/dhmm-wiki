@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4sreQIzXK7U"
 duration_min: 276
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah clap your hands unto the lord has the lord been good to you has the lord been good to you have you seen the lord in your situation this week if you have shout to the lord give him a loud shout praise his holy name welcome mr president the bible says that he inhabits the praises of his people and i guarantee you today that after this service your life will never be the same again first john 8 first john 1 8 and 9. if we say that we have no sin we deceive ourself and the

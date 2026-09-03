@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3cyu/"
 duration_min: 43
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 Most religions have a tomb or burial site for their leader or founder, which is revered, a place where people go to worship, but we don't have any such place because our Jesus rose from the dead. Amen. And there are many enemies of mankind. For instance, accidents. Many people fear accidents.

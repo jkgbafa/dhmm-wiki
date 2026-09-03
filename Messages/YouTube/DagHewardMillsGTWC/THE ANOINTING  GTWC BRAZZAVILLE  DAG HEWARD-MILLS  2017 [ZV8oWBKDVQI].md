@@ -9,6 +9,8 @@ duration_min: 170
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE ANOINTING GTWC BRAZZAVILLE DAG HEWARD-MILLS 2017 [ZV8oWBKDVQI]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit"]
 ---
 
 Please take a seat. The question is, how do we fulfill God's call? How can we fulfill this call from God? Number 1 by anointing. Amen. Amen. Many pastors need to seek the anointing. Christians must seek the anointing. For what ? This number 1 reason is that you must be anointed because no one can fulfill their ministry without the anointing. Zechariah 4:6 is not by might nor by power, but by my spirit. The anointing is the Holy Spirit. Amen. Amen. Point number 2. Jesus Christ himself is awaited until he is anointed. The Bible says in Luke

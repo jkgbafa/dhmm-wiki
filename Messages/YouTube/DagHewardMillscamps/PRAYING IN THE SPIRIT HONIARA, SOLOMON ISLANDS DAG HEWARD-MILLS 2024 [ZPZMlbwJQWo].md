@@ -9,6 +9,8 @@ duration_min: 69
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PRAYING IN THE SPIRIT  HONIARA, SOLOMON ISLANDS  DAG HEWARD-MILLS  2024 [ZPZMlbwJQWo]]]"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 How do you pray in the spirit? Does anybody want to know how? When they say pray in the spirit. How many want to know how to pray in the spirit? Yeah.

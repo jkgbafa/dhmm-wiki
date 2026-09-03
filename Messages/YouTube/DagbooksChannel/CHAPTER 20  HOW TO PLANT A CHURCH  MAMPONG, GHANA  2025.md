@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Anointing", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now, how to plant a church. Sit down. Sit down. Practical. Number one, count the cost. Number two, do not be desperate. Number three, two or three is enough. Okay. Number four, don't be in a hurry. Number five, pray for and recruit pillars. Number six, lay a foundation of prayer. Number seven, be a motivational leader. Number eight, witnessing and follow up. Number nine, avoid certain mistakes. Amen. Amen. Did you get the nine steps to planting a church? Number one is what? Put the put the points on the screen. Count the cost. Everybody here must count the

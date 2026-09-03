@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=25dz2LsCiHU"
 duration_min: 161
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Thank you, Jesus. Come on. Oh, yeah. Hey, yeah, hey, hey, hey, hey, yeah, hey, hey, hey, hey, hey, come on. Hey, hey, hey, hey, hey, hey.

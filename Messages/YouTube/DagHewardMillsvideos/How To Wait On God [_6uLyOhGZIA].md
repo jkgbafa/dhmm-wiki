@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_6uLyOhGZIA"
 duration_min: 235
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 just clap for those outside everybody else i should come in no no not you i'm saying that people outside should clap for hallelujah are you excited to be here right now i realize that let's pray father thank you for the gift you've given to us for the blessing you afford us guide us by your mighty mighty power holy spirit we are thankful in the mighty name of jesus amen now i realize that when you send people as missionaries many of them or not many some of them cannot do well because first of all they are

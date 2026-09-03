@@ -8,6 +8,8 @@ year: 2023
 duration_min: 37
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 now steps to Madness how many want to prevent Madness how many want to prevent the madness as soon as I give you these steps to the madness we are over because you will never go mad in Jesus name you will never go mad in the name of Jesus ready to Nation step number one to Mad Mental Madness in the ministry independent Spirit steps to Madness steps to bipolarism steps to schizophrenia split personality steps to delion iions and voices look I'll teach you something that next time you see a doctor or a psychiatrist you they will

@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/U6F94EaZRAXs/"
 duration_min: 96
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Put our hands together for the Lord. What are you turning to wine? Open the eyes of the plant. Let's know. Oh, there is not like him.

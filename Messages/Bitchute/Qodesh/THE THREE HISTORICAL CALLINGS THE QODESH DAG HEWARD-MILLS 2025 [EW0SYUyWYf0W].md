@@ -8,6 +8,8 @@ year: 2025
 duration_min: 81
 source: "whisper"
 match: "exact"
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 Today I'm talking about a holy calling, it's special. Your calling is special. Even if you are a homewrecker, you are an adulterer, you are a woman. I don't care what you are. Okay.

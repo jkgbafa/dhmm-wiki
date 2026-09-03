@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/CufN6TFC7Vv3/"
 duration_min: 51
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Salvation", "Salvation/Repentance", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/salvation", "topic/salvation/repentance", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 We're here to worship God. If there's anything to worship God, it's today. Hallelujah. Come. Now is the time to share.

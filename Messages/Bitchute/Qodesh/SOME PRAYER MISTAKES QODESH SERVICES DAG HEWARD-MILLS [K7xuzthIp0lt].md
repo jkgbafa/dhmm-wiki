@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/K7xuzthIp0lt/"
 duration_min: 70
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Somebody give the Lord a dance. Some water you turn into one. And open the eyes of the blind. There's no one like you. Into the darkness, into the darkness, it's shine.

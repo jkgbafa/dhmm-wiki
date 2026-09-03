@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/cuNcOT7ZKBQU/"
 duration_min: 118
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 This is the Lord's doing. This is the Lord doing and it is Marks in our eyes. This is the Lord's doing. This is the Lord doing. And it is belast.

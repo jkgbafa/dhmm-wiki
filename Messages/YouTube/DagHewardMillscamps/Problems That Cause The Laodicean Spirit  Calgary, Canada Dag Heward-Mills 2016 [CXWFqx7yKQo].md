@@ -8,6 +8,8 @@ year: 2016
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 Matthew 205 you all know the story verse 14 the Kingdom of Heaven is as a man traveling all right traveling where to a far country who called called his own servants okay and delivered unto them his Goods all right delivered unto them his goods and he gave five talents to one another two another one to every man according to his several ability and took his journey then he that had received the five talents went and traded with the same made five other talents likewise he had received CE two also gained two and he that had

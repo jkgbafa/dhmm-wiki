@@ -8,6 +8,8 @@ year: 2023
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 here and um our father is here to teach us amen so give the Lord a shout of Victory shout hallelujah and let's welcome our Prophet to the stage amen hallelujah thank you Jesus for this great provision we are glad in jesus' name amen you may be seated now hello make it clearer make it nicer please Danny Boy help these people um I met some people outside but somebody told me we are tired yeah you are tired but you'll be changed don't worry you are tired but you'll be changed by the by the time everything is

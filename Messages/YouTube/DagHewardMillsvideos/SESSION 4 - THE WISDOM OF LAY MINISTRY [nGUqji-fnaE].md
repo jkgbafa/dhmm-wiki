@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=nGUqji-fnaE"
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Wealth and Finances", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/wealth-and-finances", "topic/wisdom"]
 ---
 
 father thanks for fire that is on the heads of your servants flames of fire in Jesus name amen amen Psalm 104 verse 24 oh Lord eternel how manifold what's the meaning of manifold manold plenty Bountiful check your dictionary don't don't speak you may be wrong of many kinds numerous number your Works will be numerous whates the whole number and varied having different parts in wisdom thou Hast made them all I sense your wisdom is multiplying now one of the great wisdom I mean trying explain to you are going to do many great works and the

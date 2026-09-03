@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=M8TZkPDMFq0"
 duration_min: 5
 source: "autocaption"
 match: "exact"
+topics: ["Missions"]
+tags: ["topic/missions"]
 ---
 
 now in the world what what was your life like tell the people wow DD all that I can say it was a wild life a wild life a wild life and I I just want to share a few I had two friends one of them I used to chase girls with he died of Ace he used to chase girls with that guy he dead of Ace yeah he died of Ace and another guy I used to drink with him he died of alcohol and I'm alive he died of alcohol yes tell you can die of

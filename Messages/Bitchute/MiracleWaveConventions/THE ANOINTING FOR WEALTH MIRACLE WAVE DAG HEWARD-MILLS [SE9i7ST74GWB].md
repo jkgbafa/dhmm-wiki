@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/SE9i7ST74GWB/"
 duration_min: 163
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 Monsieur Fampi for the Rasen Onto Mayama wouna Oh beja on a bayama Oh beyama Eh j'ai un bouton oboto Mayama Messi Oh non obeya Oh nous bouton obeyama Oh non obeyama Oh nous bouton obeyama Merci en a bouton obeyama Oh nous obeyama On obeyama She l'a noé She l'a noé She l'a noé She no Rena Oh Shin No Ebay She la no E Baffin She m'a pas fait She la no hein Bafé She l'a noir She l'a noé She l'a noir Je l'ai en fait She l'a noé She l'a nourré She l'a no Hebre Monsieur

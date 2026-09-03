@@ -8,6 +8,8 @@ year: 2009
 duration_min: 86
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/salvation", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Holy Spirit, oh the first, the first, the first. You are here, God. Jesus, we bless you. We bless you, Jesus. We bless you, Jesus.

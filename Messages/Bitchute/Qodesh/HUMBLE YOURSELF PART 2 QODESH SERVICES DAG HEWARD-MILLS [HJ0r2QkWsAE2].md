@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/HJ0r2QkWsAE2/"
 duration_min: 105
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I want to sing it again. Jesus. Come on. We promote you. Standing here in the midst of us.

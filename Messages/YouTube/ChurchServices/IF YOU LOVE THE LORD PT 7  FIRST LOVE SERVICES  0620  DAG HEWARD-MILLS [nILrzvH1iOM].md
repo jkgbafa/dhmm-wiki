@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=nILrzvH1iOM"
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah amen what a blessing I want us to lift our hands and just thank God for this amazing Sunday morning thank God for his power that is at work God is with us God is hearing your prayer yes God is listening to you thank you for your goodness yes Lord Oh Lord thank you for your kindness thank you for your kindness we bless you Lord we thank you for your kindness and your goodness give you praise Lord give you praise yes Lord we give you thanks Lord we grateful we excited to be here yes yes

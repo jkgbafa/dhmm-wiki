@@ -8,6 +8,8 @@ year: 2014
 duration_min: 96
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 There are many vessels. Tell me what kind of vessel are you want to carry the anointing, then you must change your vessel and become a vessel for without the anointing, you cannot do very much, for it's by the anointing, you can build a mega church, you can preach, and you can teach, and gather crowds. That's why I love the anointing as I listen to the word the anointing. He said I could teach, and I could preach, and I could hear. Oh, I believe, and I receive, I saw the power of God at work in me, and my whole life, and it's treatment, and without the anointing, I tell you, you cannot do very much, because it's by the anointing.

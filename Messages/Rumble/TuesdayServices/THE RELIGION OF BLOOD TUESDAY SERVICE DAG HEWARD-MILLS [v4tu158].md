@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tu158/"
 duration_min: 72
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Again to share with you tonight on something new that I believe the Lord wants me to share with you. Amen. So the title of my series or a short time that I'll be sharing this is what I call a religion of blood, a religion of blood. Amen. A religion of blood.

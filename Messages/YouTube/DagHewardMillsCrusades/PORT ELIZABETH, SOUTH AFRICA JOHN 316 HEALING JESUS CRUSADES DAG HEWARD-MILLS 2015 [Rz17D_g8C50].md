@@ -9,6 +9,8 @@ duration_min: 127
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/PORT ELIZABETH, SOUTH AFRICA  JOHN 316  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2015 [Rz17D_g8C50]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 God is a north and God he rain from heaven above with we're power and love our God is a north some God our God is a north some God he rains from heaven above with me our God of God and above love wisdom and power love is an awesome Oh God is an awesome God you rain heaven above with wisdom and power love is an Oh is another with wisdom and power love God is an awesome our God Heaven above wisdom and power love is awesome He ram He raised Oh with the North God He raised He raised Yes He raise He's the Not Sure You raise the rain You raise the rain Oh we raise We raise He rain Yes Yes in Yes He's an everlasting God from God Rains forever You rain forever He rain Forever He ran forever He ran forever He raised He raised forever He raised forever He raised forever He rain He raised forever and everlasting forever He rains He rains He raised He rain Forever He rains forever He rains forever She's a He raised He raised He rain Forever and every rain Oh he raised Oh Yes he raised Jesus Yes to rain forever My God he rains God he raised The never lasting God Jesus He raised He's a Let's pray about our offering.

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3lk8/"
 duration_min: 22
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Prayer"]
+tags: ["topic/faith", "topic/prayer"]
 ---
 
 Please turn with me to Luke chapter 18. Luke chapter 18. And we want to look at some of the parables on prayer. Amen. And he spake a parable unto them to this end that men ought always to pray.

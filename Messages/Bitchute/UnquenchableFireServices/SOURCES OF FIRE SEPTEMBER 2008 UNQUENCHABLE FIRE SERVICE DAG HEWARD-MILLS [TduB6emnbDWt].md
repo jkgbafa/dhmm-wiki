@@ -8,6 +8,8 @@ year: 2008
 duration_min: 55
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 And I've got a glimpse of life. I will open up my heart for your holy body. We need to share our being in the world of many pain in God. There is no higher calling and no greater and kneel before your throat and glory and praise by your mercy. Oh Lord, I live to wash it that you feel is the foes in your presence.

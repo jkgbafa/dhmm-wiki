@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/VFOWbI28EKT8/"
 duration_min: 80
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah, Amen. How many love Jesus? Jesus. You're the sweetest name of all. Oh Jesus.

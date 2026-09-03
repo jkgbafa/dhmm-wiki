@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=PLmmHlz-SPM"
 duration_min: 278
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Salvation", "Salvation/Repentance", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/salvation", "topic/salvation/repentance", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 it's going to be a blessing to somebody now the scripture says that pray that the word of god will have its free course which means nothing should hinder god's word from coming to you and everybody is going to receive a special word from god today so i want us to pray for ourselves and say father let your word appear to me let your word come to me let your word bless me that is why i came today not to show off my clothes not to show off my perfume not to show off my shoes but

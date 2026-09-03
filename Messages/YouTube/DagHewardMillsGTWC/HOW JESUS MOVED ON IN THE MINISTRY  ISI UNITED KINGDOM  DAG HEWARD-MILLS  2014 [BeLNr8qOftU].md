@@ -8,6 +8,8 @@ year: 2014
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "The Holy Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/the-holy-spirit"]
 ---
 
 doesn't take anything to sit by and watch that. But it takes you to be great to be able to lift people up and put them and make them what God has them takes you to be extraordinary person. Not just to lift people up, but to let people know or to make people lift other people up. And that's one of the reasons why I feel so privileged this afternoon to bring up this afternoon. spends his life doing that and I enjoy being around him around because each time I'm around it reminds me that this is the

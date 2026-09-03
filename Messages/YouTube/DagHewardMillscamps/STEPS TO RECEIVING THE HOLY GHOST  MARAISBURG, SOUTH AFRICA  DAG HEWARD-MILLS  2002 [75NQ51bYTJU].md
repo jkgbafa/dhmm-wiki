@@ -8,6 +8,8 @@ year: 2002
 duration_min: 41
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Holy Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-holy-spirit"]
 ---
 
 welcome to track number six of Grace and peace you may be seated okay the next step to receiving the Holy Ghost is found in the next verse and when he had spoken Acts chapter one what was the first step what's the first step what learn what Jesus did and what he said is that not so the next step is what huh believe in unseen things the next step is what except what assemble together Fellowship together amen Next Step waiting on the Lord faith and patience how many are ready to wait the next seven years many

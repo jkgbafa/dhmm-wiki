@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MI33gPaq0q8"
 duration_min: 161
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 boy one more time one more time from for who you hallelujah yes you are yes you are yes you are you are good all the time come on give the lord foreign let's go hallelujah for who you are or who you are i don't think you should be in your seat by now all that i am this is my praise belongs to you they belong to you this is is come on this is glory to the king everybody this is how i pray let's go this is how hi everyone my name is daniel tete and

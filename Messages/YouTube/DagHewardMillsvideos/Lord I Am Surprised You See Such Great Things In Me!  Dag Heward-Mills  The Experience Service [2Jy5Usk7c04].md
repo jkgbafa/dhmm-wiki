@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2Jy5Usk7c04"
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Today I'm going to share with you what is on my heart. The devil is the one who likes to tell you you are nothing, you are nothing, you are nobody, you are not like, you are not good, you are not wanted, you are not this, you are not that. Every time you are not. One of the mistakes people make is that they don't listen to their fathers after they are married. After they are married. Yes, women have been used to do bad things. But I tell you in the church woman is snake killer. Snake killer.

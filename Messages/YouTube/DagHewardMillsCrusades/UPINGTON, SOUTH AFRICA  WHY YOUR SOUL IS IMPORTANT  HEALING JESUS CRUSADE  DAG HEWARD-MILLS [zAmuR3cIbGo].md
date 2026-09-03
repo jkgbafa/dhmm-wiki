@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zAmuR3cIbGo"
 duration_min: 104
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 let's welcome tonight our sister Cora to bless us with a song Hallelujah alington are you ready I say Avington are you ready the Lord is going to do something beautiful tonight in your life hallelujah how many of you are ready to receive What the Lord Has for youat every Hallelujah somebody put your hands together for Jesus oh oh Father make and oh Oh Praise oh ohra nowra oh oh yeah say somebody lift up your hands to the Lord and say oh somebody stand up on your feet and say yeah and praise yeah oh say oh

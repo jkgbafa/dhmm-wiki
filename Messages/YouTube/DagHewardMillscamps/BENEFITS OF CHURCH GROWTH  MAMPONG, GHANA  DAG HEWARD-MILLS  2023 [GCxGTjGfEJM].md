@@ -8,6 +8,8 @@ year: 2023
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 wow did you enjoy the flow prayer meeting oh yes every form of attachment and entanglement and anything on top of your head it has been toppled today in the name of Jesus you are revered out of every spiritual veral intercourse and renounce and repent of it in the name of Jesus Amen hey the Lord is Blessing us you are reversing out of anything you went too deeply and it has now locked you in the name of Jesus you are set free amen power is happening in your life it is marvelous What the Lord Has Done

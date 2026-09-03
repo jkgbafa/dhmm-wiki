@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=96u3M_i-Tzc"
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah he's Alana shut up ray hockey Warner he'll do it in torna Whoopie leg water potable ooh Yaga hockey one nah they won't repeat or nah he who mama ki-woo to me say hey foreigner Whoopi Lou Yaka yahoo Tomita oppa Lucy with evil evil one-armed ooh la la Tomita yah yah yah - zona poopy lopata pop appeal ooh yah ha ha ha now hold it or not Oh evil my man he was UMI's lift up your eyes i said ha ha ha ha guillotine for na will be less ha ha ha ha ha daddy's gonna

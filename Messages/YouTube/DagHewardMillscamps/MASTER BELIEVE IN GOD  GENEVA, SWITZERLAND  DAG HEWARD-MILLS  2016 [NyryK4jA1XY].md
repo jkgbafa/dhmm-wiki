@@ -8,6 +8,8 @@ year: 2016
 duration_min: 86
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/prayer"]
 ---
 
 welcome to track number 10 of Stir It Up step number six believe in God believe is the next key to the supernatural John chapter 6 John chapter 6 please John and we're going to read from verse 20 8 then they said unto him what shall we do that we might work the works of God and Jesus answered and said unto him this is the work of God that you might believe on him whom he has sent amen am amen this is the work of God that you might believe on him that you might believe this

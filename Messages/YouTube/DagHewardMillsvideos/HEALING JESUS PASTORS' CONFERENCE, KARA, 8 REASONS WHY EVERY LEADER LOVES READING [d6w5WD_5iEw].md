@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=d6w5WD_5iEw"
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Leadership"]
+tags: ["topic/anointing", "topic/leadership"]
 ---
 
 are you as excited as I am with Alexi to cover I can see Evangelos that you are better hallelujah hallelujah and I promise you today who promises we will be the best day of your life Papa may I show you what these ladies and gentlemen meta-major without wasting much time sir I will invite the body to blossom Peabody flu baby g-g-gee to Magua healing oh she lazy lazy lazy to mahadji lake monster t-to my washi day what's under hang cg1 yga one thing I see to my washi Lake Naruto mawa gc2 mawa learn mustache eg2

@@ -8,6 +8,8 @@ year: 2016
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah M Hallelujah if you believe Jesus is here kindly lift up your left hand and if you believe Jesus will touch you this evening lift up the right one and put your hands together for Jesus Hallelujah yeah lift up your right hand give Jesus away say lift up your right hand and say Amen lift up your hands and S come on la la oh oh la la la come on let's say everybody must sing go lift up your hands and sing J come on and sing my to everybody sing to are you ready sing give

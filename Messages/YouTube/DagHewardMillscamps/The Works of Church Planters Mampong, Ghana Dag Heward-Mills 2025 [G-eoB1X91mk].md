@@ -9,6 +9,8 @@ duration_min: 19
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/The Works of Church Planters  Mampong, Ghana  Dag Heward-Mills  2025 [G-eoB1X91mk]]]"
+topics: ["Church Growth", "Church Growth/Church Planting", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Heaven, Hell and Eternity/Judgment"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/heaven-hell-and-eternity/judgment"]
 ---
 
 Amen. Now chapter three. You think I've closed. You are joking. You are joking.

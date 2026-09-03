@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2007
 source: "autocaption"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Okay. 1 Corinthians chapter 7. Have you found it? Verse 26. I think then that this is good in view of the present distress that it is good for a man to remain as he is. Are you bound to a wife? Do not seek to be released. Are you released from a wife? Do not seek a wife. But if you marry, you have not sinned. Amen. And if a virgin marries, she has not sinned. Yet such will have trouble in this life. And I am trying to spare you. Amen. Now this scripture is saying that when

@@ -8,6 +8,8 @@ year: 2012
 duration_min: 230
 source: "whisper"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 Right, hello everybody, welcome back to the channel. Uh so let me show. The last episode that we did, it was blocked. For some reason. Um so I'm gonna try the next episode.

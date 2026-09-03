@@ -8,6 +8,8 @@ year: 2006
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 you may be seated okay now we are looking at the Lord's anointed is that not so now one of the things of the Lord's anointed is that the Lord God's anointed learns how to pray a new kind of prayer is that not so give me the Nations amen so can you come and hold this map hold it out so they can see so I want you to see lift it up a bit higher soon I want you to I want you to see the Lord's anointed all right you fellows you may need to come nearer

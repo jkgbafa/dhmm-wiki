@@ -8,6 +8,8 @@ year: 2010
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 I should pop up. Oh, no one. Oh, short up. Yeah, I was shut up. I saw where it's about.

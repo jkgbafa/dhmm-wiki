@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=n1RuBHvHK4s"
 duration_min: 233
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 father thank you for the blessing you give to us in Jesus name Amen you may be seated turn with me to Psalm 27 the Lord is my light and my salvation whom shall I fear the Lord is the strength of my life of whom shall I be afraid amen I want us to pray that whatever sin some twenty-seven should happen practically in your life amen number one is that the Lord is my light god himself will show you where to go and what to do soon some of you are going to take some decisions to

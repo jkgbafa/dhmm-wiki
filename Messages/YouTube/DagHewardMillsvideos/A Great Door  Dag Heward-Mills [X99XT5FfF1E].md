@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=X99XT5FfF1E"
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 today i want to share with you about what i call a great door a great door of your life first corinthians chapter 16. now verse 9 says a great door and effectual is opened unto me and there are many adversaries amen a great door and effectual is open unto me and there are many adversaries now this uh at the beginning of the year the few first few seconds of the year i was sharing with you about how we must be wise as serpents and harmless as doves and i believe that uh this is a very

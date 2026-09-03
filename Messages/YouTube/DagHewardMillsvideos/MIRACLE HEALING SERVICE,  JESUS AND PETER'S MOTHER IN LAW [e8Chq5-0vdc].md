@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=e8Chq5-0vdc"
 duration_min: 134
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 ha ha there are many that cook tell me what I know there are you oh if you want to carry the anointing then you must single vessel and become a vessel of Honor without the anointing you cannot do very much forest by the annoying thing you can build a mega church you can preach you can seek and gather Christ that's why I love be anointed oh I've got listened to the world the anointing you bail on me it's kept us I could preach and I could be oh oh I believe I receive I saw the

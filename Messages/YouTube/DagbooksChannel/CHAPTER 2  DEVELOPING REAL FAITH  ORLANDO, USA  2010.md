@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2010
 source: "autocaption"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 How to develop your faith for the ministry. Amen. How many want to develop your faith for ministry to work for God? Amen. Romans 12:3 says, "God has dealt to every man a measure of faith." So God has given everybody some amount of faith to work for God. There's always some little amount of faith to work for God. Do you get it? Okay. Amen. Amen. Now you cannot know everything about faith because faith is also something mysterious. It's a spiritual thing. So even though we've taught we sometimes teach about faith, you may think when I do

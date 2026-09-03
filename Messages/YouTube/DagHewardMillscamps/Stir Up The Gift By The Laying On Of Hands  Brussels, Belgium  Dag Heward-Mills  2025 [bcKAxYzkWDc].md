@@ -9,6 +9,8 @@ duration_min: 77
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Stir Up The Gift By The Laying On Of Hands Brussels, Belgium Dag Heward-Mills 2025 [bcKAxYzkWDc]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit"]
 ---
 
 All things to your remembrance. To your remembrance. Yes Lord. Let's pray. Hallelujah. You know a lot has been said in this camp in a very short 24 hours. It looks like we have been here for one week. I know we have the same feeling. I mean I even I came late last night and even what I have heard since last night to today is enough to affect your Christian life in a very significant way. How many of you agree with me on that? That so much has been poured out to those of us here in

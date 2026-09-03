@@ -8,6 +8,8 @@ year: 2006
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 You see, there are some things that I have told you. You don't have to ask what it means. You don't have to have a meeting with me about it. And you must run eagerly. Say, can we can we talk?

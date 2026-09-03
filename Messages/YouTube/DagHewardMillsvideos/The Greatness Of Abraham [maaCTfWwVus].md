@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=maaCTfWwVus"
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 let's ask ourself why did God send his son into this world why why come to Jesus tonight Jesus tonight this is the way Jesus Christ he said I am the way the truth and the life nobody no one on this Earth can come to the father except he's coming through me hey if it is true if this thing is true I said if it is true and it is true go somewhere preach somewhere go somewhere preach somewhere go somewhere pre somewhere go somewhere treat somewhere he that hath my Commandments oh and he keeps them oh

@@ -8,6 +8,8 @@ year: 2013
 duration_min: 28
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 A principles of war. Number three, preparedness. It's a principle. Either the British Army, United States Army. One of their principles is preparedness.

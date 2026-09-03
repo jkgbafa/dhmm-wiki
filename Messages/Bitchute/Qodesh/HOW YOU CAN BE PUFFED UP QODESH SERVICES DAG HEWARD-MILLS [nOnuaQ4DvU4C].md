@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/nOnuaQ4DvU4C/"
 duration_min: 85
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 You need to take a moment to sing to him and extend your heart in worship because he inhabits, he lives in it, he dwells in the praises of his people. Even if you are not familiar with the song, you need to still make some effort lifting up of the hand and lifting up your eyes atwards. Beyond Description to my lost too wonderful like nothing ever seen all who can grasp your infinite wisdom who can fathom the depths of your life you are beautiful. Oh, it's so nice to just tell him these words. Majesty and Ron Abandon.

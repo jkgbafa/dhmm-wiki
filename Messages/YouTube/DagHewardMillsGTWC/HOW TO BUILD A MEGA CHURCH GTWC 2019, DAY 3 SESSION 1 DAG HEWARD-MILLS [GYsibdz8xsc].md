@@ -8,6 +8,8 @@ year: 2019
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Leadership"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/leadership"]
 ---
 
 You may be seated. This morning we are on the leadership anointing. 1 Kings chapter 1, verse 39. And the Bible says, and Zedok the priest took a horn of oil out of the tabernacle and anointed Solomon. And they blew the trumpet.

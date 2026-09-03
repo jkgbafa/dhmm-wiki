@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=6YRl2yehYKg"
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Praise the Lord and Yahweh, do my dear none of us or not. A fay and dear no, you're doing in pump and so I bet you shall say. And yeah, by your pre pray, and cast and you may dearness. Yum fans and boys are very reverend. JK Ampiao Matter shall pretend that reverend.

@@ -8,6 +8,8 @@ year: 2014
 duration_min: 66
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 I want to now share with you partage on this very important subject. Amplify your ministry with miracles and manifestations of the Holy Spirit. Let us just read one verse. I'm just reading one verse. Luke 4 18.

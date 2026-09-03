@@ -4,6 +4,8 @@ book: "Church Administration"
 book_number: "040"
 chapter_number: 6
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ### Chapter 5\

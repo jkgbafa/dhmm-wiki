@@ -4,6 +4,8 @@ book: "Church Growth It Is Possible"
 book_number: "009"
 chapter_number: 27
 type: book
+topics: ["Church Growth", "Loyalty and Disloyalty"]
+tags: ["topic/church-growth", "topic/loyalty-and-disloyalty"]
 ---
 
 ## Chapter 25

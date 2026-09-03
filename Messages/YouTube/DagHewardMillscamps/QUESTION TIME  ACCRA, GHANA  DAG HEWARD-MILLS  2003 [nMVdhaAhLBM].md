@@ -8,6 +8,8 @@ year: 2003
 duration_min: 41
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number 17 of a greet on the way where we are going to answer questions about the ministry and about the work and about whatever the lord has laid on our hearts amen so we want to welcome Reverend Saki and Pastor Eddie to help us briefly amen anybody can start with the first question yeah come the mic can't get where you are so come to the mic and ask amen it's quite a simple question but something has been I just want to know what is the work of the ministry when we say the

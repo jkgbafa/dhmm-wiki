@@ -8,6 +8,8 @@ year: 2016
 duration_min: 89
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 amen Proverbs 11 verse 1 Proverbs 11:1 a false balance is abomination to the Lord but a just weight is his Delight amen now life on earth right is made made up of many things not one thing Ministry is made up of many things there must be maybe 24 things I'm doing at the same time today yes there must be at least 24 different things that I'm doing now so therefore If part of you and and for your body to function well your body the kidneys are working the spleen is working the colon is working the

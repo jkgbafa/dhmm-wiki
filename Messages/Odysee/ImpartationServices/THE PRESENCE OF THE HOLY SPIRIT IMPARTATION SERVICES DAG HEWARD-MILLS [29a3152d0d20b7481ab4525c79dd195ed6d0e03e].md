@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/the-presence-of-th
 duration_min: 41
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Prayer", "Prayer/Praying in Tongues", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "The Holy Spirit", "The Holy Spirit/Baptism of the Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/the-holy-spirit", "topic/the-holy-spirit/baptism-of-the-spirit"]
 ---
 
 hallelujah let us pray ask God to give you the Holy Spirit tonight ask God to fill you with the Holy Spirit so that you can hear his voice hear his word thank you Jesus for your blessing today thank you Lord for your help in everything that we do we love you Jesus we thank you Lord we bless your holy name in the name of Jesus amen you may be seated and turn with me to Acts chapter 1 right I want to share with you about the presence of the Holy Spirit all right how many want

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=VYZ7xUNiMq4"
 duration_min: 170
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 hallelujah let us pray Heavenly Father thank you for today thank you for your great blessing guided by your spirit we three let your will be done thank you but you are present and that you are you are leading us and that you are guiding us thank you Lord for your blessing in Jesus name Amen you may be seated are you excited to be here I am also excited to be here this morning this morning my subject is about spiritual men and prophets again but the title of my message is if you are not spiritual if

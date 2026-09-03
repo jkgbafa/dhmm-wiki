@@ -8,6 +8,8 @@ year: 2020
 duration_min: 151
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Thank you. Seigneur, merci for giving every single one to donate the spirit of revelation. Reveal unto us, Lord. To behold the wondrous things to voice merveilleuses on thy law. Open our eyes.

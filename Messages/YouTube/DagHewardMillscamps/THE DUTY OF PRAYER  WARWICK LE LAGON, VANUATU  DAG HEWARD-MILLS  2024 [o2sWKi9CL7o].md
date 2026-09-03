@@ -8,6 +8,8 @@ year: 2024
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 amen right you may be seated Acts chapter 6 and verse4 Acts chapter 6 Acts chapter 6 and verse4 says but we will give ourselves continually to prayer and to the ministry of the word now very very important is that prayer is half of the work of the Lord Prayer is half of the work and that is what I'm trying to share with you this morning the duty of prayer the duty of prayer now whenever you do not do your duty that you've been given right negligence and it means to pay no attention or little attention

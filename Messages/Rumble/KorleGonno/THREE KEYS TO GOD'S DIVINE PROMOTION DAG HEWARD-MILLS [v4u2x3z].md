@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u2x3z/"
 duration_min: 39
 source: "whisper"
 match: "exact"
+topics: ["Fasting", "Prayer"]
+tags: ["topic/fasting", "topic/prayer"]
 ---
 
 I want to give you three keys to God's divine promotion. All these three things are things that you must do in secret. Amen. Turn with me to Matthew chapter 5. Okay, chapter 6.

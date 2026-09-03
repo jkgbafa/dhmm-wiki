@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/zM9BplNbFes9/"
 duration_min: 56
 source: "whisper"
 match: "exact"
+topics: ["Prayer", "Salvation", "Salvation/The New Birth", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/salvation", "topic/salvation/the-new-birth", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I'm not looking behind me and mistakes have already. Hope is living me. I believe that my deaths are played to rest in you now. I know I can make it. I've made a vow, and I'm not gonna break it.

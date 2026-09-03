@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SBYgOLCXQo4"
 duration_min: 45
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Salvation"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/salvation"]
 ---
 
 Father which art in heaven we thank you so much for this morning thank you for the opportunity we have in your presence to receive your word to go on with you we ask for your mercy and your grace to abound this morning thank you for your blessing as you speak to our hearts in Jesus name Amen you may be seated turn with me to Romans chapter 3 are you there are you with me in Romans chapter 3 now I'll be sharing largely also from this little book called the the called born-again my little book called

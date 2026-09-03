@@ -8,6 +8,8 @@ year: 2003
 duration_min: 198
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 Bible says which of these pleased their father you know that term uh pleasing the father turn to Matthew 21 verse 28 but what think ye a certain man had two sons and he came to the F and said son go to work today in my Vineyard and he answered and said I will not but afterward he repented and went and he came to the second and said likewise and he answered and said I I go sir and he went not whether of them Twain did the will of his father and they say unto him the

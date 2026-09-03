@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=CgKpn9xpFDQ"
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 start now amen please take your seat amen to take your seat welcome your neighbor sittin by you turn a by it's good to see you again amen we have a very powerful ministration are you ready for a very powerful ministration that's welcome the dancing star we understand enough control it's in my eye Oh ah god I heard it Oh innovator spirit and not be just controlling my gifted music yeah boy it's gay here we go new blade giggles ooh boy bingo to make you know or be my part I'll make you no worry make you

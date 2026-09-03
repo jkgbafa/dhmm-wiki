@@ -8,6 +8,8 @@ year: 2013
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 no microphone just when you say it I'll repeat after youthfulness sorry what's the first handicap youthfulness youthfulness being young it's a handicap not so people see oh these small boys and these small girls but are you aware that you you can still be a young person and become a powerful Pastor Paul told Timothy that don't let anyone despise your youth there's a way you can carry yourself there's a way you can behave that will cause your wisdom to be despised amen and that will cause your ministry to be set aside but I'm telling you a

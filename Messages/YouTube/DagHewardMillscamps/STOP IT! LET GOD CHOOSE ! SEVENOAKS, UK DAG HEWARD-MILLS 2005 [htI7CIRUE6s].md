@@ -9,6 +9,8 @@ duration_min: 79
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/STOP IT! LET GOD CHOOSE !   SEVENOAKS, UK DAG HEWARD-MILLS  2005 [htI7CIRUE6s]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number one of obedience unto death. I hope you are clapping for Jesus. When all is said when the best no world has leaves me feeling all I said and done and everyone is gone all when the past no more is meaning all that I love for all that I hope for just one more trust from me. When all is said and done, everyone is God. When the best of the word.

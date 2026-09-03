@@ -8,6 +8,8 @@ year: 2018
 duration_min: 176
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Marriage and Family", "Marriage and Family/Children and Parenting", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 hallelujah amen now a candle in the dark now the next important question is what is Darkness darkness is the world the world of sin the world of unbelief in God the world without Jesus when we talk about Darkness we're talking about the world of sin of evil the world without Jesus all right so how many have ever been in the world without God eight of you more of you what was it like it wasn't very nice what was it like a lot of come tell me depression crying come you're becoming famous come yeah um a

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ua675/"
 duration_min: 38
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 3 John chapter 2. My topic I'm going to begin sharing on is uh entitled Prosperity Anywhere Anytime. In other words, can you prosper anywhere? And can you prosper at any time? Do you understand what I'm saying?

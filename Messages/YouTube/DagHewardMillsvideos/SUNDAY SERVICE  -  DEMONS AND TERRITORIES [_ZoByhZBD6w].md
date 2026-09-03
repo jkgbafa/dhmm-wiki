@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_ZoByhZBD6w"
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 hallelujah lift your hands with me and just worship the Lord breathe on me breathe Oh yes today we want to say Lord as we hear your word burning us l'homme like the disciples on the wizard mouth Lord as they felt the fire burning of your work please Lord we say paradise oh yes what we've had facilities in the past the Lord we take the day burning our soul our Holy Ghost fire come on holy spirit we welcome you we praise you we thank you we adore you we say Lord bless her heart slow let us

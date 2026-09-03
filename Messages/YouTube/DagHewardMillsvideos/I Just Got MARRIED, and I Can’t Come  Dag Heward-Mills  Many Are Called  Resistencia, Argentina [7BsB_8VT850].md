@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7BsB_8VT850"
 duration_min: 6
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 But Jesus said many are called to serve Him, so a good pastor has to believe that many people are called to serve God because it's true, many young people are called, many members of your church are truly called to serve God, and there is no better work in this world than serving God. Amen. There is no better work, no better job for you. There is no better work than serving Jesus because when you serve Jesus in this life you will also have a reward in eternal life. Amen. I have been serving God since I was

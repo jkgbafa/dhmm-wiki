@@ -9,6 +9,8 @@ duration_min: 49
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/BECOMING AN ALLOS  ACCRA, GHANA  DAG HEWARD-MILLS  2002 [zlU6CzVphAk]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to track number five of a low turn with me to Genesis chapter one Genesis chapter one Genesis chapter one tell somebody alos another of the same kind how many have decided to bear fruit huh very good yeah changing over change over chapter one verse 24 and God said let the earth bring forth the living creature after his kind after what his kind or bring forth another of the same kind you get it are you there and uh what does it say cattle creeping thing beast of the earth after his kind there's a law here that we want to understand, amen after his kind, and it was so verse 25, and God made the beast of the earth after his kind, and the cattle after their kind, and everything that creepened upon the earth after his kind, and God saw that it was good, it is good for you to bring forth another of the same kind, and it's a good thing for you to bring forth another of the same kind.

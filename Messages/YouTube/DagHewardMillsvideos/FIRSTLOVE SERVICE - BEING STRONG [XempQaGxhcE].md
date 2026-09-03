@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=XempQaGxhcE"
 duration_min: 107
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 how can I say thanks for the thing that you have done for me see so one desire yet you gave to prove your love me the voicing of a million engine cool not a crash my brother and all that I am and therefore hope to be I owe it all to you - ha ha love me too bad Larry father bear he have ah with his love he hung me with his power he has to God for the thing he has just let me live my my and let it be below Suzie Hampshire like let

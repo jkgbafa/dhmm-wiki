@@ -4,6 +4,8 @@ book: "Make Yourselves Saviours Of Men"
 book_number: "050"
 chapter_number: 9
 type: book
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 ### Chapter 8\

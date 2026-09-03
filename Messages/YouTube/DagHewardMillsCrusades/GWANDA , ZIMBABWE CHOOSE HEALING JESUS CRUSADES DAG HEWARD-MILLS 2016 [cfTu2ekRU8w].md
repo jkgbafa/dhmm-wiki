@@ -9,6 +9,8 @@ duration_min: 81
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/GWANDA , ZIMBABWE  CHOOSE  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2016 [cfTu2ekRU8w]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Everybody see Jesus We bless you love Jesus lift up your two hands and give Jesus away to be sale Sia Boussissaum to misgout to me, ça laste qui saut au praise Hallelujah Nyako misan Nyako Busissa Midi Are you here? Are you here? Wow to lao angle easy for you La Lala la Lala Quoi que Zema Cua cool Ingi Hambizangoma Ingi Hambi Zinganga N'a j'ai la notion Hallelujah Hallelujah N'a sang j'ai sous la notion N'a j'ai no Jessou Lalala Watch Jesus Yago Jumisan Jesus Yagou Busisan Jesus Yagou Babasa is what I come give Jesus your best

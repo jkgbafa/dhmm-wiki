@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=M0NWQDjpeJ0"
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 what a blessing Bishop Francis why don't you come up and say something before I come on somebody shout hallelujah hallelujah oh you can do better than that I say somebody shout hallelujah hallelujah come on Make a Joyful Noise unto the Lord it look like some of you are still sleeping rise on your feet jump and Make a Joyful Noise come on keep on keep on keep on keep on come on be alive for Jesus somebody scream let everybody know that Jesus is Alive here be seated if you can you see when the Evangelist is about

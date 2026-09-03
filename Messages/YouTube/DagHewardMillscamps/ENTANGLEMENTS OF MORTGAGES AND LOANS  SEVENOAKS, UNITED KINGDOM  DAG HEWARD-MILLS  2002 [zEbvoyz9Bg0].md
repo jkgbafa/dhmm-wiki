@@ -8,6 +8,8 @@ year: 2002
 duration_min: 37
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 welcome to track number 16 of all out number one mortgage I'm ringing directly no operator Direct no I guess you see there are things which they feel you you see when I'm saying look the listen the whole Camp is that okay we are going to run all out not just part okay there are some things that are in us they failed us they don't let us go like this Vision so you are going nobody can see why you can't really go but like you see like was saying he has another Vision an academic Pursuit that

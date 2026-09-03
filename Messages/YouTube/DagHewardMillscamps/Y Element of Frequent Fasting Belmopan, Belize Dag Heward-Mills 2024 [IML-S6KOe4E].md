@@ -9,6 +9,8 @@ duration_min: 27
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Y Element of Frequent Fasting  Belmopan, Belize  Dag Heward-Mills  2024 [IML-S6KOe4E]]]"
+topics: ["Fasting"]
+tags: ["topic/fasting"]
 ---
 
 Why is it? Number number six. Frequent what? Fasting. You want to be involved in God's work without fasting?

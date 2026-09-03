@@ -8,6 +8,8 @@ year: 2000
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 do not fear he will guide you he will keep you safe as he has promised to never leave you nor forsake you and what is to go to Peru or the time for the farm our friends in the past of my go to go oh all bye in the dark aside the Bible signs or the booboo piece of news all the time if you're walking in the valley if you're walking in the bodies and the saddles all around do not hear he will guide you he will keep you safe I need a promise to never

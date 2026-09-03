@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/vItx5RPCygoL/"
 duration_min: 44
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 Wonderful. Well, tonight, today is a very special day. God has blessed us, God has been gracious to us, and uh a very special healing Jesus partner service. You are privileged to know somebody like me. I'm a very important person, in case you don't know who I am, hallelujah.

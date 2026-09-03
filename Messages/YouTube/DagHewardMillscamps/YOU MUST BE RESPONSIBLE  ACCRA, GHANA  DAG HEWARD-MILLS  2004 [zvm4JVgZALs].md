@@ -8,6 +8,8 @@ year: 2004
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 actual anger huh and um saying so shall it be done to the man that kth him so eliab his eldest brother when he heard his anger was kindled and he said why camest thou down hither and with whom has thou left those few sheep in the wilderness so straight away you can see that he was trying to put him in his place or what he thought was his place the Wilderness and the few sheep every attempt of the enemy to keep you in the wilderness will never work in the name of Jesus Hallelujah I Know

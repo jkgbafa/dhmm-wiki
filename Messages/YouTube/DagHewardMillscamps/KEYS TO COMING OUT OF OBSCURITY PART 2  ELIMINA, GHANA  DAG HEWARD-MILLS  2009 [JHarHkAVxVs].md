@@ -8,6 +8,8 @@ year: 2009
 duration_min: 55
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 it's not his words at all I mean just Christian Dragon recently he even had a party and so it was unbeliever music and unbeliever whatever that he was playing and dancing with it and so it's not his words that's not how he really just that because he was a gospel group and he have to sing a gospel song he made it gospel he's a Christian but he like he more have this worldly side that's is more natural flow have a party flowing unbeliever whatever you dance whatever it's that's how that's how the person is then

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Llj7EkoToMY"
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 this is the temple to the house of the Lord thus amplifying worship the Lord be glorified to me I wonder what that day Lord be glorified be glorified Lord be oh it lifted how to be glorified we glorify our holy name be in the big in the forum I see the be glorified washable oh wow see that be worthy of your worst without be glorified oh ah one time before be glory because the glory be glory yes yes yes yes yes being lost we wash in the temple the mists of your people bless you in

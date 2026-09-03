@@ -8,6 +8,8 @@ year: 2000
 duration_min: 79
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 And I'm a mumbo say to all sit Oh say oh say oh yeah you need I get it Oh yeah you need I catch it Oh I don't be I get it Ah oh yeah oh yeah oh yeah you get it who I catch it Oh yeah oh yeah oh yeah oh yeah you ain't oh yeah oh yeah oh yeah you need I catch it oh yeah you need I catch it oh yeah oh yeah oh yeah oh yeah oh yeah oh yeah oh yeah oh yeah I will sat it a bone I will send

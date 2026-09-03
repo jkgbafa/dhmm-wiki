@@ -8,6 +8,8 @@ year: 2024
 duration_min: 20
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 amen let's rise up onto our feet let's rise up onto our feet as we SE Hallelujah father thank you for this opportunity in Jesus name amen you may be seated 1 John chap 2:13 why elements El why elements now first John 3:8 it says this is the reason why God sent Jesus to destroy the works of the devil amen amen John 38 now in your life in the life of the church God is going to destroy the work of the devil amen now let us see in 1 John chapter 2 verse 13 how God is

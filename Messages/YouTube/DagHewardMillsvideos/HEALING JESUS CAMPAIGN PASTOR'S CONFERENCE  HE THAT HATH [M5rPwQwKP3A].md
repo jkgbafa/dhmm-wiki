@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=M5rPwQwKP3A"
 duration_min: 172
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 I'm going and I'llgo if you send me I'm going I'm going I'm going I'm going if you send me I'll go we're bored it's a shame it will be located I'll go train if you open empois he's there at all bouazzi site oumma sees in the morning I'll go and if thomas sees the gillet care if everything goes see the teachers' lookout if you send me the month that I sang with me if all fed up month of gillet care site where my voice the music my brain if everything works in the morning I site

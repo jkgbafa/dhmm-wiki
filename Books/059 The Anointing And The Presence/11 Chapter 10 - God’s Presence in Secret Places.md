@@ -4,6 +4,8 @@ book: "The Anointing And The Presence"
 book_number: "059"
 chapter_number: 11
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Deliverance"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/deliverance"]
 ---
 
 ### Chapter 10\

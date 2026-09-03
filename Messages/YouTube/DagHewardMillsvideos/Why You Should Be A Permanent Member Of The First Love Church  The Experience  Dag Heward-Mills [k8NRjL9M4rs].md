@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=k8NRjL9M4rs"
 duration_min: 184
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 can you lift your hands to Jesus everyone just lift your hands to him and close your eyes father we just want to say a big thank you to you because you a good god thank you for today thank you for your kindness towards us thank you for your love towards us Lord we just lift our hands to you to magnify you we magnify you beyond our circumstances and our issues and our troubles and our problems Lord we come carrying our burdens and we are here to cast them before you Lord and to roll them over

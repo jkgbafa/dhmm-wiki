@@ -4,6 +4,8 @@ channel: "DhmmInternationalMinistry"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Prayer", "The Call of God"]
+tags: ["topic/prayer", "topic/the-call-of-god"]
 ---
 
 What a blessing it is to be here today. I thank God for the opportunity to be here. Um again I consider myself to be one of the sons of Pastor Prince Gonaratam and his dear wife sister Petrina. So this is a homecoming. Amen.

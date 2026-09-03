@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GgLHtNoykxE"
 duration_min: 145
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 oh I believe that is time for fresh oil God is about to pour His fresh oil on us fresh oil for fresh exploits fresh oil for fresh exploits fresh anointing oh yes that's what we deserve pray for a fresh anointing ask God for fresh anointing David said I shall be Anointed with fresh oil it's time for oil change it's time for oil change fresh oil fresh oil oh yes Lord oh yes Lord Breathe on Me Breathe on Me holy ghost power breath on me yes today I'm in need holy ghost power Brea on me make

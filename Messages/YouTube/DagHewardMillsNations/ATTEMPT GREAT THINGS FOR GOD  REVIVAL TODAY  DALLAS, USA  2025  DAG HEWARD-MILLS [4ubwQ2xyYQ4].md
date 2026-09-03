@@ -8,6 +8,8 @@ year: 2025
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Wow. You cannot run faster than the blessings. Every blessing is going to overtake you. me down. That's my That's my down me down. Take me down. That's my blessing. That's my chase me down. Chase me down. Overtake me. That's my That's my over. Oh, that's my chase me down. Overtake me. Chase me now. Over me. Chase me now. Overtake me. That's my blessing. That's my blessing. Wow. Lift your hands. Father, thank you for your blessing. Thank you for today. Thank you for guiding us bringing us to this place. And thank you that your blessings are

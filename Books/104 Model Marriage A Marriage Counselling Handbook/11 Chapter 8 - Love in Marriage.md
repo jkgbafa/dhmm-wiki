@@ -4,6 +4,8 @@ book: "Model Marriage A Marriage Counselling Handbook"
 book_number: "104"
 chapter_number: 11
 type: book
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 ## Chapter 8

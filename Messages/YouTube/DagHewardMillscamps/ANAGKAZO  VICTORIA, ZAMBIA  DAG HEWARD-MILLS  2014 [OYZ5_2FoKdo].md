@@ -8,6 +8,8 @@ year: 2014
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Anagkazo and Compelling", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/anagkazo-and-compelling", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 and it's God speaking to someone here this morning that ye have not chosen me but I chose you you didn't decide to come to this Camp you didn't decide to be a Shepherd maybe your pastor approached you and and said to you be a Shepherd be a pastor be a worker but God is saying here because sometimes you may think that you chose God you chose the ministry you chose you decided that you be a Shepherd you decided that you will be a worker in the church but God is settling the matter now he said

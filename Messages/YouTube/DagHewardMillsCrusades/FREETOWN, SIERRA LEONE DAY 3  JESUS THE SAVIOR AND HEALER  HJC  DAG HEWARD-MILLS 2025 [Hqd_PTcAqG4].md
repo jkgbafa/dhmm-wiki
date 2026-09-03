@@ -8,6 +8,8 @@ year: 2025
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 Jesus is the answer for the world today. Above him there's no other. Jesus is the way. Jesus is the answer for the world today. Above him there's no other. Jesus is the way. If you have some questions in the corners of your mind and traces of discouragements and peace you cannot find. Reflections of the old past. They seem to face you every day. But this one thing I know for sure that Jesus is the way. Say Jesus is the answer for the world today and above him there's no other. Jesus is the way. Jesus is

@@ -4,6 +4,8 @@ book: "The Gift Of Governments A Bishop 'S Governing Handbook"
 book_number: "117"
 chapter_number: 3
 type: book
+topics: ["Leadership", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/leadership", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ### CHAPTER 1\

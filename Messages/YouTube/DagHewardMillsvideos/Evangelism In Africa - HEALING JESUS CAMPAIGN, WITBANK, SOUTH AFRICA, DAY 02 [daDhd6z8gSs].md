@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=daDhd6z8gSs"
 duration_min: 146
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 god bless you keep coming yes car says door blessed club and encourage them I'll become somebody that Putin somebody's healing is in the sea what a wonderful path he's coming somebody is sitting now God says you rise up and come you may not get this opportunity okay keep coming somebody might come for two emblems one for you and one for your enemy yes one for you and one for your enemies and indeed Nara is a Saab somebody is coming for three emblems who you can imagine I've never seen such show of love I'm seeing in

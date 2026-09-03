@@ -7,6 +7,8 @@ url: "https://rumble.com/v4sxe1q/"
 duration_min: 83
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wisdom"]
 ---
 
 Proverbs 4. And we are reading from verse number seven. It says, Wisdom is the principal thing. Therefore, get wisdom. With all thy getting, get understanding, exalt her, and she shall promote thee.

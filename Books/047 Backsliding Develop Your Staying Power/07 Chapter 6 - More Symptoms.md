@@ -4,6 +4,8 @@ book: "Backsliding Develop Your Staying Power"
 book_number: "047"
 chapter_number: 7
 type: book
+topics: ["Fasting", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Salvation", "Salvation/Backsliding", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/fasting", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/salvation", "topic/salvation/backsliding", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 # Chapter 6

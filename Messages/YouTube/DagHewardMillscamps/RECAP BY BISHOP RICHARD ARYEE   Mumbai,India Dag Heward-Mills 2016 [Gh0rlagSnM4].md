@@ -8,6 +8,8 @@ year: 2016
 duration_min: 59
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Some big Pray Pray Pray Pray Pray Pray Pray Pray Pray the love of the Father Pray Pray Pray Pray Pray Pray Pray Pray Thank you Father Thank you Father Thank you Father Thank you for this ink Pray Pray Pray Great and Grace Thank you in Jesus Name Amen Bless you Taker will sit down in your seat Hallelujah Are you excited Are you happy It's been a great camp is n't it And how many of you feel blessed How did you like it How many of you do you believe What a great thing we have got

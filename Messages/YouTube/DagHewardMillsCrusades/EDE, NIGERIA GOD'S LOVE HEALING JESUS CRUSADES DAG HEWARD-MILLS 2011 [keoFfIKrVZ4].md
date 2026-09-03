@@ -8,6 +8,8 @@ year: 2011
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Jesus loves me this I know the Bible says me so we for Jesus loves me is I know for the Bible says me so and later to him we love me to wrong oh yes Jesus loves me oh yes Jesus loves me Jesus loves me for the minds me on thee of one way always guide me Lord I pray that my deserving Sub one way but never cease to let me see Jesus me all yes love me Jesus loves me for the Oh yes Jesus loves me oh I know that Jesus he loves you oh yes loves you with me for the sells me for the Bible sells you so the Bible tells me so please put your hands together and let's appreciate this wonderful lady a path and tonight is the first of five powerful nights and lay only a coconut of healing Jesus crusade here in a de o should state the egg where is I said he's the power of God the mercy of God and one and the goodness of God at it in that are all present here what you want it be and God is going to use a servant or not yes a world famous healing evangelist and it don't get illuma evangelist that the Lord has used all of other nations of the world or not only look by yeah God saw it fix or not only that one that this week loss this great man of God should visit us here in Ede on Tuesday I believe that you will never be the same again.

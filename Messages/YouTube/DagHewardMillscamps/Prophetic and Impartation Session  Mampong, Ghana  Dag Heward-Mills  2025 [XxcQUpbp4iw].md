@@ -9,6 +9,8 @@ duration_min: 67
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Prophetic and Impartation Session Mampong, Ghana Dag Heward-Mills 2025 [XxcQUpbp4iw]]]"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Let's put hands together and receive our daddy. And number 28 is what? How to find messages to listen to. Number 29 is what? Listening to messages. And number 30 is what? How to how to catch the anointing. Amen. Amen. Now what I want to do to end I I had to attend to something very important. That's how come just explain it. Now I what I want to do now is I want to pray for everybody. So, I just want to just lay hands on you and pray for you and I believe that God is going

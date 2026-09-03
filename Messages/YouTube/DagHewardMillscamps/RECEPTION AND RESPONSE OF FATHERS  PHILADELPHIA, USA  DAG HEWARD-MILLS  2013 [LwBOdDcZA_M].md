@@ -8,6 +8,8 @@ year: 2013
 duration_min: 137
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 all right now the next uh important thing is um I'm talking about the the important things that are going to help us to accomplish our vision amen for a 100 million Souls all right amen and that is what I call a good response to the father a good response to the father or to fathers amen now your response to a father or to fatherhood will determine a lot of things about you now one if you have as many children as Susie you will understand what I'm talking about because I have as many children as she

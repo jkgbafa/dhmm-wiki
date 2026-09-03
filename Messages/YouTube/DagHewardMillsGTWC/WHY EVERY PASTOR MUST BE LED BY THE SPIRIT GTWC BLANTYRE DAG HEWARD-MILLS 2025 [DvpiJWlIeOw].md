@@ -9,6 +9,8 @@ duration_min: 52
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/WHY EVERY PASTOR MUST BE LED BY THE SPIRIT  GTWC BLANTYRE  DAG HEWARD-MILLS  2025 [DvpiJWlIeOw]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances"]
 ---
 
 Father, thank you for the blessing of this conference. In the name of Sokanono. Amen. Amen. You may be seated.

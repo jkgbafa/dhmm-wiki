@@ -8,6 +8,8 @@ year: 2010
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances"]
 ---
 
 hello hallelujah hallelujah where is pamos where the devil lives is that no not so where he lies down where he makes his bed where he can call for a cup of tea where he relaxes where he's not bothered by anyone is that not your home so that is pagamos and um we are we are last year we shared on Victory in pagamos now we are looking at advancing you know within pagamos amen that is we are going to do well spiritually in pamos that is Spight of living where Satan dwelleth we are going hello I

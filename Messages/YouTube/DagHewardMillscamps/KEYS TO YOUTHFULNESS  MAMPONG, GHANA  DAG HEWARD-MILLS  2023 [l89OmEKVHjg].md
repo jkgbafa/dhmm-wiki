@@ -8,6 +8,8 @@ year: 2023
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 keys to youthfulness and keys to wrinkle free ministry number one Luke Chapter 2 now his parents went to Jerusalem every year at the Feast of the Passover when he was 12 years old Luke 2 all right 41 they went up to Jerusalem and as they returned Jesus Ted behind in Jerusalem and Joseph and his mother knew not of it but they supposing him to have been in the company when the day journey and and when they found him not they turned back to Jerusalem seeking him and it came to pass that after 3 days they

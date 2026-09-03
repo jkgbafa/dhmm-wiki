@@ -8,6 +8,8 @@ year: 2009
 duration_min: 95
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Your holy presence your whole surrounding me surrounding me in every season in sea I know you love me know you love me I know you love me know you and at the cross upon my blood was shed for me there's no greater love than you have overcome the great your glory fills the highest place what can separate me singing again at the cross about my knees and at the cross above my knee where your blood was shed for me there's no greater love than this and you have overcome the grave your glory fills the highest place what can separate me you go before me you go before you showed my way you show my way your hand upon me up you and I know you know at the cross above my knee and at the cross about my knee where your blood was shed for me there's no greater love that you have overcome the grave, your glory fills the highest place what can separate me now and you told a faith you made away when you said that you taught away and you made a way when you said that yes, Lord, we worship you, we bless you, Lord at the cross, Lord.

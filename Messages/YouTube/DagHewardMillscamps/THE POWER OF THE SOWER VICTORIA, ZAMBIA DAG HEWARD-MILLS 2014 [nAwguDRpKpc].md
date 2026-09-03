@@ -9,6 +9,8 @@ duration_min: 253
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE POWER OF THE SOWER  VICTORIA, ZAMBIA  DAG HEWARD-MILLS  2014 [nAwguDRpKpc]]]"
+topics: ["Church Growth", "Church Growth/Mega Church", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Praise the Lord. Thank you. Please take your seats. So you guys have been singing for a very long time, isn't it? It's a blessing.

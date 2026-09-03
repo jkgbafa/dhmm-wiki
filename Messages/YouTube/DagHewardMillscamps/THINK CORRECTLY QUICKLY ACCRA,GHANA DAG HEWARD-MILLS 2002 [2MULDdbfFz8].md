@@ -8,6 +8,8 @@ year: 2002
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Welcome to trust number one of the prayer. We thank you for tonight and for an opportunity to be in your presence. We ask you, Lord, to help us to do your will and to accomplish what we came here for. We pray for mercy for forgiveness of sins, of our sins, and we ask for the blood of Jesus to cleanse us. We pray, Lord, for your grace to help in time of need.

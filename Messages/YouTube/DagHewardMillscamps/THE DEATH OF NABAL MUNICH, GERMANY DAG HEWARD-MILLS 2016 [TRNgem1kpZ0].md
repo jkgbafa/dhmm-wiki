@@ -9,6 +9,8 @@ duration_min: 53
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE DEATH OF NABAL   MUNICH, GERMANY DAG HEWARD-MILLS  2016 [TRNgem1kpZ0]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 You may be seated. Please, nobody should be outside. Can that just can you find out anybody's out? They should come in now. Taking a break, we walked around a little bit.

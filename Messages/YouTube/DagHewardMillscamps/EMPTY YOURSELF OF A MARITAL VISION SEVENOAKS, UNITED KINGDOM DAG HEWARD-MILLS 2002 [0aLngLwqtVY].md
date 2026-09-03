@@ -9,6 +9,8 @@ duration_min: 21
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EMPTY YOURSELF OF A MARITAL VISION  SEVENOAKS, UNITED KINGDOM  DAG HEWARD-MILLS  2002 [0aLngLwqtVY]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Vision and Direction"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/vision-and-direction"]
 ---
 
 Welcome to track number nine. All out. The next is you must empty yourself of a marital vision. Your marital vision, especially the ladies, and even the brothers, and even the brothers, can actually limit your whole life. Yeah.

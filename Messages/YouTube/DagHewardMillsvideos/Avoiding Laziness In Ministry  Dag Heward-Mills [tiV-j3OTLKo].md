@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tiV-j3OTLKo"
 duration_min: 26
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Prayer/All-night Prayer", "Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/prayer/all-night-prayer", "topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 many of you are too relaxed for uh uh Ministry you know if you are ever at the hands of a lazy person it is that is where you will know that laziness is wickedness if you fall into the hands of a lazy person that is when you will see that when he said thou Wicked and slothful servant like wickedness goes alongside with laziness too lazy to clean house too lazy to cook too lazy to have sex too lazy to wake up from bed too lazy to do anything it is when you fall into the hands

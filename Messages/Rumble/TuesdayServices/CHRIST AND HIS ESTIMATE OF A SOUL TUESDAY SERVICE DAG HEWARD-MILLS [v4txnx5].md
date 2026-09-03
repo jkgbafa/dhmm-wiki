@@ -7,6 +7,8 @@ url: "https://rumble.com/v4txnx5/"
 duration_min: 62
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Hallelujah. Let us pray. Father, we thank you so much for this evening. Thank you for this great opportunity that we have in you. Lord, we ask you for your blessings tonight as we come before your word.

@@ -8,6 +8,8 @@ duration_min: 116
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/BO, SIERRA LEONE JOHN 316 DAG HEWARD-MILLS [LBBjYFQfVs0]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Hallelujah somebody give the Lord a shout I cannot hear you give the Lord a shout a shout a shout come on and Shout come on and Shout come on and Shout tell your neighbor tell your neighbor shake your body shake your body shake your body shake your body shake your body shake your body Hallelujah I go sing and B and worship name he don't P me today he give me peace oh now he don't make her free did you hear that I go sing and B and worship name he don't P me today he give

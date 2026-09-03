@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=H43eKXQhJJs"
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 getting to share with you tonight on something new that I believe the Lord wants me to share with you amen so the title of my series of a short time that I'll be sharing this is what I call a religion of blood a religion of blood amen a religion of blood everybody say a religion of blood amen now if you read with me in Hebrews chapter 9 it says verily then the verily the first covenant had also ordinances of divine service and worldly sanctuary we are looking at a religion of blood and for there was

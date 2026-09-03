@@ -4,6 +4,8 @@ book: "Awake O Sleeper"
 book_number: "085"
 chapter_number: 4
 type: book
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 ### CHAPTER 3 \

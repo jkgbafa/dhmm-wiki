@@ -9,6 +9,8 @@ duration_min: 39
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/REASONS WHY JUDAS CAME INTO THE WORLD   MAASAI MARA, KENYA DAG HEWARD-MILLS  2010 [iJ6juSDhsNY]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 Welcome to track number seventeen of the privilege. Hallelujah. Now sit down for a moment. Tell somebody it's a privilege. I said it's a privilege.

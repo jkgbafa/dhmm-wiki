@@ -8,6 +8,8 @@ year: 2023
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology"]
 ---
 
 fore Lord for see you to good s for for oh wow what a blessing tonight it's another night of miracle Mira are you ready for your Miracle ton tonight it's another night for your deliverance I want you to prepare your heart has an amazing thing for you tonight this place as saying because the anointed servant of God is here we are about to be blessed mirle I miracle everybody lift your how many expect a miracle how many expect a miracle tonight I want you to lift your hand weam the quiet oh oh keep why lo

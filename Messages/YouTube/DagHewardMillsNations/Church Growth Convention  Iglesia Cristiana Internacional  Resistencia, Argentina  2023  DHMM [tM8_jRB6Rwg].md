@@ -8,6 +8,8 @@ year: 2023
 duration_min: 50
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Ministry and Pastoring", "The Call of God"]
+tags: ["topic/church-growth", "topic/ministry-and-pastoring", "topic/the-call-of-god"]
 ---
 
 30% something like that, 7% something like that, but for me, 1 Timothy 4:15. One day the Holy Spirit spoke to me. You can put the scripture 1 Timothy. 1 Timothy 4:15 says, "Stand in these things, abide in them, so that your progress may be evident to all." Give yourself completely, be occupied with Yes, give yourself so that everyone can benefit from what you do. Many years ago, the Holy Spirit called me and said, "Give all of yourself, give everything to the ministry, give all your work, and I will prove my power to you." Hallelujah. And

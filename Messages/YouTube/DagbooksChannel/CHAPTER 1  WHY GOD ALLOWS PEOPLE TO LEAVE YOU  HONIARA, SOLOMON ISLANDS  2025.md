@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 Number one, why God allows people to leave you. Number one, the Lord may allow people to leave you to correct a foundational mistake in your ministry. Amen. Amen. Abraham took Lot, but that was a mistake cuz God did not call Abraham and Lot. He called Abraham. Taking Lot with him is something that many pastors do. Many I would say most pastors have got a lot a lot with them. The lot was taken along to help their insecurities cuz when you are going to do something you you want somebody to be with you. BUT ALL OF

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4triz0/"
 duration_min: 57
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 You don't keep it to yourself, you gotta go out and tell somebody you can keep it to yourself, somebody stops, somebody's dying, don't keep it, can't keep it, tell somebody else, but they got to know that Jesus loves them so please don't keep it to yourself, you've gotta go out and tell somebody, don't keep it to yourself, somebody's not somebody's dying, oh don't keep it to yourself, you've gotta tell somebody for the God to know that Jesus loves them so they God to know that Jesus loves Hallelujah, let us pray, Father.

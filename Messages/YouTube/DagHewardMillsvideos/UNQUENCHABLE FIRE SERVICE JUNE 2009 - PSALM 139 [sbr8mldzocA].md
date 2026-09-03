@@ -8,6 +8,8 @@ year: 2009
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 The more I seek you, the more I find you. The more I find you, the more I love you. I want to sit at your feet. Drink from the cup in your hand. Lay back against you and breathe. Feel your heartbeat. The more I seek you, the more I find you. And the more I find you, the more I love you. I want to sit at your feet, drink from the cup in your hand, lay back against you, and breathe. Feel your heartbeat. This love is so deep. It's more than I can stand. I melt

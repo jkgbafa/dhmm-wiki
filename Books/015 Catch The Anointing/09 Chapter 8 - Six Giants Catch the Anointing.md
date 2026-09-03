@@ -4,6 +4,8 @@ book: "Catch The Anointing"
 book_number: "015"
 chapter_number: 9
 type: book
+topics: ["Anointing", "Anointing/Catching the Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Soul Winning and Evangelism"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism"]
 ---
 
 ## Chapter 8

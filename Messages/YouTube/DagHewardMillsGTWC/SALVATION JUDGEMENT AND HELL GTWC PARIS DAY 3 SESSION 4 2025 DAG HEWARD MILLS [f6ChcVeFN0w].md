@@ -8,6 +8,8 @@ year: 2025
 duration_min: 19
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation"]
 ---
 
 And then the next one is salvation and judgment and hell. What are the messages there? Give us the message là. Today, after this, all of you are going to go out into Europe. You are going to France.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Yteh5NqVMLU"
 duration_min: 41
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 father thank you for another chance to be in church to receive your Holy Word we pray for openness humility especially our eyes will be open Lord in Jesus name thank you Father amen you may be seated now what I'm about to share with you is very very important in it and I know that whether you've been a Christian for some time you probably will not know a very important revelation that I'm going to share with you amen so tell with me to mark chapter 5 I am preaching about the how to deal with demons or

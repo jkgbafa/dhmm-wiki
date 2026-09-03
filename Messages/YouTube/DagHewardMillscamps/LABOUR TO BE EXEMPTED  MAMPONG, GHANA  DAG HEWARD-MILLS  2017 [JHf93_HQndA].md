@@ -8,6 +8,8 @@ year: 2017
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry"]
 ---
 
 amen but I believe that at the center of it all is um the fact that Bishop has clearly if we have ever doubted we have ever doubted had any lingering doubts you know we should honestly live here knowing that Bishop has really really poured out his heart to us and if we appreciate that I think we need to give a wonderful wonderful wonderful let's give a wonderful wonderful wonderful appreciation for this gesture hallelujah amen amen amen so I think that please be seated thank you um I think this is at the center of it all

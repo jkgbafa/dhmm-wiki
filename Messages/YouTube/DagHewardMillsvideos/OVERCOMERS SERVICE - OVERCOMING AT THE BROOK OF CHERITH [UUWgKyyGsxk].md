@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=UUWgKyyGsxk"
 duration_min: 101
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 every time that we had gathered together in his name there he is awesome and I've our vengeance track let us continually offer sacrifice to him for me it is good to sing praises he had me every file Ordway love you Oh Lord you love me yes we do every time but we are gather gather in his name there he is all bomb in power man distress let us constantly sacrifice to his core it is good to sing praises to our God for he inhabits the praises of his people and then I praises be to you

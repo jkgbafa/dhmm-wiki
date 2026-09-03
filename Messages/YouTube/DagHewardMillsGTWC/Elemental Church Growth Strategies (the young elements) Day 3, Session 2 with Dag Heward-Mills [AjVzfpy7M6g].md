@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=AjVzfpy7M6g"
 duration_min: 317
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Not only into our midst but into your situation. Randamaka rosu mandala marabagata se dalababa ma comede mo sangalababa Rama Zanda Mayandalabasa Debe in Maya Dalabasana Katana Lama Sanalaba Satalababa Rama Sandalababa Thank you Father Thank you Holy Spirit Merci Saint Espirit Thank you Holy Spirit Merci Saint Esprit I want to I want to ask the gentleman projecting the points to put the the shipwreck points on the screen the causes the cause one to seven du point numero unset I'm not reading them I'm sure we can all see there should be screens over there also for you

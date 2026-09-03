@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/W6wRZawxeEe2/"
 duration_min: 37
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Hallelujah. Shall we pray? Heavenly Father, thank you for this morning. Thank you for the blessing and the privilege that we have to come to your presence. Lord, we ask that you speak to our hearts.

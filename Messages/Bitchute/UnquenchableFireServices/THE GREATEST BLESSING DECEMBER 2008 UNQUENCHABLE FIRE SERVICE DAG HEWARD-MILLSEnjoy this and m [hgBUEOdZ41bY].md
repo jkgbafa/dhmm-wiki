@@ -8,6 +8,8 @@ year: 2008
 duration_min: 78
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 I feel like dancing onto the light. Come on. Every time you know, yes, that's in a whole soul. Every time I be, my mouth Yesu, that's it, come all back, I see that we found my wall, I mean for my father, I mean about my boy, come on, I see that come on, sing with me, come on. I see that.

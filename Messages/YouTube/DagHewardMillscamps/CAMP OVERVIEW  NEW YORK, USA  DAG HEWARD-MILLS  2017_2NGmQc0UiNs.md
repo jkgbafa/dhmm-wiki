@@ -3,6 +3,8 @@ title: "CAMP OVERVIEW  NEW YORK, USA  DAG HEWARD-MILLS  2017_2NGmQc0UiNs"
 channel: "DagHewardMillscamps"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 just open your mouth and just thank the Lord with the fruit of your lips with the fruit of your lips just thank him thank him he's been awesome he's been good he's been good there is someone who should be in a church like this but cannot find it you don't go to a church just because you saw a sign board there's far far more to it than just a sign board or somebody inviting you it's a supernatural work of God for you to find the church for you to join the church and to go the

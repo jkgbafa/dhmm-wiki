@@ -8,6 +8,8 @@ year: 2010
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["The Call of God", "The Call of God/Responding to the Call"]
+tags: ["topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call"]
 ---
 
 and when the enemy tries to confuse you you have to build a holy wall for the good Lord is watching to see if we are listening to his word and there is no one more disappointed if we act like we haven't heard you've got to hear the call Brother you've got to hear the call this time everybody one and all hit the call yeah you've got to heit the call of brother you've got to heit the call Sister everybody one and all eat the call and if faith is the only reason to hear the call

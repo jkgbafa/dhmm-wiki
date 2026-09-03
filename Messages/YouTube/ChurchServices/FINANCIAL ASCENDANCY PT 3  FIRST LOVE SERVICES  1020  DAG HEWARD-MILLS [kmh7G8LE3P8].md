@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=kmh7G8LE3P8"
 duration_min: 216
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 meeting you again welcome to Flo prophetic encounter service we are actively serious in the studio we believe that today God is going to bless us we are happy everybody's well focused we are believing God that today is going to be a wonderful experience want to spend some time to pray to God and believe God come before the presence of God with singing I know Pastor iberg came with singing cuz the Lord was good to him and God has been good to all of us and we all we singing Hallelujah but we also here to praise

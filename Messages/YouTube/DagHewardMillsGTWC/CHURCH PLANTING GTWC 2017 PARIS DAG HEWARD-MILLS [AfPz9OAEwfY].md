@@ -8,6 +8,8 @@ year: 2017
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Loyalty and Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/loyalty-and-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Father, thank you for this time. We are here together again. Guide us by your mighty spirit. In Jesus' name. Amen.

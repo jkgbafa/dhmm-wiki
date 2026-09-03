@@ -9,6 +9,8 @@ duration_min: 51
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/The Love Of The Good Samaritan Ducos, Martinique Dag Heward-Mills 2024 [ae8gVH1QQDY]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer"]
 ---
 
 now before we take a break amen I want to talk to you very briefly about the love of the Good Samaritan love of the Good Samaritan yesterday I talked to you about the greatest love today I showed you about the greater love Luke chapter 10 everybody and we're going to read from verse 30 verse 30 to verse 37 read it Luke 10 ver verse 37 wow continue up to verse 37 sacri sacri C what's her name behind you Sarah right behind what's her name Lanna are you listening good yes I'm listening all right okay k

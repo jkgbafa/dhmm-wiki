@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=d75ITUOI4nM"
 duration_min: 158
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 knowing that lady will go to minister in song put your hands together and let us receive without it tonight to bless us with a song hallelujah amen come on a giggle on a shadow pray come on shout out to the Lord amen I want you to tell your sister your brother if you have Jesus this or never if you have Jesus then you have everything his precious is more precious than anything in this world Alleluia if I gain all this and the whole wide world and not Jesus I lose everything if I have Jesus I

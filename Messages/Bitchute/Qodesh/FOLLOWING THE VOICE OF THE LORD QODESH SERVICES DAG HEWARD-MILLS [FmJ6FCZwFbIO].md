@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/FmJ6FCZwFbIO/"
 duration_min: 49
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Missions", "Missions/The Nations", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/missions", "topic/missions/the-nations", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 Thank you, Lord, for your blessing. Just thank God for this morning. Thank him for bringing us to this place in the name of Jesus. Oh, yes, Lord. Oh, yes.

@@ -8,6 +8,8 @@ year: 2020
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 So wherever in the world you are you are by the grace of God we are being we are connected to 146 countries out of the 192 countries in the way we are connected to 146 countries it's a good place to clap your hands wherever you are God is helping us aid and if your friends have not yet connected call them tell them that God is doing something amazing the grace of God is available and many lives are being transformed already transformed we have had the first session powerful session an amazing conference we are having right here so we need you you need to be seated by now every part of the country where every part of the world where you are on various television stations in Ghana we are on seven radio stations all over the country so we want to encourage everybody to be connected to what is happening.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8LSVbTBknew"
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Lift up your sea, the solar root side, the sort of side, the sort of car, the home, that's all that we saw, this one, the sort of visa, that's all that's all, lauboc, me on the lift up your two hands, so I said so lift up your two hands, I just saw that I repeat, I repeat that live on la jeso, la linguelle, live, lit up, live, live, lit up, lead up, who is that so won't be up, who is that sooner, kidnap so let's so let's sort of so we like so lit aboulella litaboulella boulella boulen, live. I keep on the teach on the papa.

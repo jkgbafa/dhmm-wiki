@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9PtrKJoivO0"
 duration_min: 98
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Yourself by the S of the Lord he shall Lift You Up Stand by the of the he shall LIF you up he shall live you tell you you humble yourself by the side of the Lord he shall lift you up humble yourself humble yourself of the Lord he shall lift you up Len the way up is the way down he shall let you up the way in it's the way out he shall lift you up and if you you shall be your I know he shall you are the way forward is the way I know

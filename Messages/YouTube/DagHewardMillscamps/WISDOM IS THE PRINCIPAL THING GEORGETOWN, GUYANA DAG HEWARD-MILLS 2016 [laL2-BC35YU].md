@@ -9,6 +9,8 @@ duration_min: 54
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WISDOM IS THE PRINCIPAL THING   GEORGETOWN, GUYANA DAG HEWARD-MILLS  2016 [laL2-BC35YU]]]"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Welcome to track number one of Expect Great Things. Hallelujah. Wow. Are you excited to be here tonight? Are you excited to be here today?

@@ -4,6 +4,8 @@ book: "The Megachurch 2Nd Ed"
 book_number: "010"
 chapter_number: 8
 type: book
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 ### Chapter 7\

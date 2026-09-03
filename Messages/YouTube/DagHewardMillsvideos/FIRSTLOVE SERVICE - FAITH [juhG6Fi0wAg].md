@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=juhG6Fi0wAg"
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh you and I'm en dog decimeter your victory you'll be and hallelujah hallelujah hallelujah this the moment we are waiting for our daddy's in the house what Jesus joy and I start off with let's welcome ah hallelujah father thanks a million for this opportunity guide us by your spirit in these moments that will be hear your voice we give you thanks Holy Spirit to give you praise Jesus name Amen you may be seated I am excited Wow it is exciting to be in this great University he is what professional that is an ace what a

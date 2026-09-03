@@ -8,6 +8,8 @@ year: 2016
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Hallelujah Clap Your Hands for Jesus tonight as we receive our pastors are you ready for what God is going to do tonight in your life can I hear again are you ready for what God is about to do in your life then let's give a hand clap unto the Lord as we receive the Evangelist tonight clap your hands hallelujah hallelujah hallelujah hallelujah you may please be seated God is about to do great things tonight I want to ask everyone walking about to please find a place to sit if there's a for you and the ashes

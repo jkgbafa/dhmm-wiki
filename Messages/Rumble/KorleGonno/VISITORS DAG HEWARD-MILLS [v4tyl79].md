@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tyl79/"
 duration_min: 67
 source: "whisper"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Amen. Let's pray. Father, we thank you for this morning. Thank you for your word to us as we come before your word today. We ask you to inspire us, speak to us, and let your will be done in Jesus' mighty name.

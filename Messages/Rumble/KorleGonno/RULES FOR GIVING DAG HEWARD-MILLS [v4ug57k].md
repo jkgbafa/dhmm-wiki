@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ug57k/"
 duration_min: 58
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Who knows what the future brings who knows where the road will leave how the world can change forever so quickly tonight of uncertainty sometimes come on sometimes when you call on the Lord sometimes just believe he won't sink his own you know the Lord He came through for me I know he'll come through for you He's been never and he cannot be unto Even though life storms are raining He is never me came through He came through for me He came through for me He'll come through for you Let's do it again He came through for me I know He'll come through for you He's been never deleted And he cannot be unto Even though life storms a rain He is never He came through He came through for me He came through for me He'll come through for you My Lord Is the first and the last knows the end of all time Even when life goes beyond my understanding I find peace with his hand in mind God knows God knows what to go with God has a plan for me and you So wise it trust a baby It will turn out Okay for me I know you come through for you He's been never less than cannot be unto Even though life storms are raining He is never He came through He came through for me He came through for me He'll come through for you He came through me through for me He'll come through for you.

@@ -9,6 +9,8 @@ duration_min: 127
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHY DEMONS WANT TO ENTER YOU  MAMPONG, GHANA  DAG HEWARD-MILLS  2016 [s8epiLcD-LY]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Welcome to Clack Number Six. How does it feel like to know that your destiny is to be Jesus' brother? Is it not encouraging? Because some of you, the family you come from, nobody knows your brother. Nobody knows your father.

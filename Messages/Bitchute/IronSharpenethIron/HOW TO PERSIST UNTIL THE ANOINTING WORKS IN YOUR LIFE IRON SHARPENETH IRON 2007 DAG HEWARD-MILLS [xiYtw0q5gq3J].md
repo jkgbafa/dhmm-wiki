@@ -8,6 +8,8 @@ year: 2007
 duration_min: 78
 source: "whisper"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 I stand before you guilty and unworthy. How can I be forgiven and made holy, though I know I break your heart, but your promise I could start all over, and all the things I have done. You place them each and everyone into the sea of forgetfulness. You place the love of my sins. I'm the one who keeps reminding you over and over again into the sea of forgetfulness fire as these from the West.

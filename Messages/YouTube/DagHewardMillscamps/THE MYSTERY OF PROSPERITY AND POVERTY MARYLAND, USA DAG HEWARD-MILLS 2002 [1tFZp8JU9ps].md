@@ -9,6 +9,8 @@ duration_min: 92
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE MYSTERY OF PROSPERITY AND POVERTY  MARYLAND, USA  DAG HEWARD-MILLS  2002 [1tFZp8JU9ps]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Welcome to track number five of the mysteries of God now. A casual Christian, all right, will come to a wrong conclusion about either prosperity or poverty, a casual Christian, you will by all means come to a wrong conclusion if you are casual in your approach to prosperity and if you like poverty, the opposite of prosperity. Where is Amma? She alright. She's gone into labor or something.

@@ -8,6 +8,8 @@ year: 2015
 duration_min: 148
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wisdom"]
+tags: ["topic/prayer", "topic/wisdom"]
 ---
 
 last night was a whole camp in itself do you see Clap Your Hands for Jesus and um let's receive this morning Bishop DG heward males to minister to us Hallelujah wow father we are grateful for today for your great blessing that you give to us in jesus' name amen turn with me to Deuteronomy verse chapter 34 Joshua the son of Nan was full of the spirit of wisdom all right for Moses had laid his hands upon him and the children of Israel hacken unto him and did as the Lord commanded amen Joshua the son of

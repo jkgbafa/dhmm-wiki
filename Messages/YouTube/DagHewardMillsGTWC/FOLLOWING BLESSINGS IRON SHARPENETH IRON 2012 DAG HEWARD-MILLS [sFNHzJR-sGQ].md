@@ -8,6 +8,8 @@ year: 2012
 duration_min: 60
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Hallelujah. Hallelujah. Now the next foundation. It's going to be following blessings. Suivre les bénédictions.

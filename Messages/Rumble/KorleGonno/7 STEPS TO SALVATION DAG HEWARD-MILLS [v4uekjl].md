@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uekjl/"
 duration_min: 50
 source: "whisper"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 Jesus is the answer for the world today. There's no other. Jesus is the way. So if you have some questions in the corners of your mind and trace his storage man, please you can apply. Reflections of your past seem to pass you every day.

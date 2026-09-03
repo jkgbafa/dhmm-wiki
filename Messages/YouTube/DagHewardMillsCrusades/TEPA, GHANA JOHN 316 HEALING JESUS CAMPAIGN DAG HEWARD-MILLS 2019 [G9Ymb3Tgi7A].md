@@ -8,6 +8,8 @@ year: 2019
 duration_min: 101
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Honorable Martina Apian Tabraway. Ya beton safray your bap penny. Yeah, or that your men see her announable Martin and Antechi, not what my assembly Nana or my head. And then for near four. I don't even know what to say.

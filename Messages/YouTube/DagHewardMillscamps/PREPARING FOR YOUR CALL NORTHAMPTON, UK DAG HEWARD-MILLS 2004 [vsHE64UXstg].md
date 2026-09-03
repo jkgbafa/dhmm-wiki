@@ -9,6 +9,8 @@ duration_min: 77
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PREPARING FOR YOUR CALL  NORTHAMPTON, UK DAG HEWARD-MILLS  2004 [vsHE64UXstg]]]"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 You came to school here. When did you when did you come here? When did you come to London? You came in August last year. Okay, from where?

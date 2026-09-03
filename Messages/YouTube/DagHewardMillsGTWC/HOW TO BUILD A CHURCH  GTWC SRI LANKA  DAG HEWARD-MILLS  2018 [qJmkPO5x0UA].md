@@ -8,6 +8,8 @@ year: 2018
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Prayer/Praying in Tongues", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 How many people are happy? There, the guava is happy. I said yesterday that happiness is visible through the hands. No. Why? Said happily. From teeth Downhill How many people are happy now? We are happy with Guava. Now go back to your neighbor and tell him/her. It's nice to see you too, this place. Okkandar Upade Periya for the past Lehman Pass It's a whirlwind to say "Pak". Hallelujah. Hallelujah. I'm wearing a special shirt today. This is what I need when I go to Ghana. A girl is not sleeping in bed. I thought. I want to get

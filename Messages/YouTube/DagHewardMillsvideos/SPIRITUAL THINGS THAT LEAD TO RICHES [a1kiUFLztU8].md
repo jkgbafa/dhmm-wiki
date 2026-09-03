@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=a1kiUFLztU8"
 duration_min: 154
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Manimal Jessa no no bother at all a sauna Laura kisana madmen oh man guys Oh hilarious brahmano viduh shadow no off Paulo's Sanatana Jimena Lari so la rosa la monado el-hammam oh yeah radius oh yeah lay a kiss a man and a mooch OVA Mwanga Soria Renea Tania and ellos han da Venda gossamer an Adreno illegal arrest Oh Robin Dalek he papa basura at a para mim Baracus a dolla hollow rabbit ear o mg cheaper Paulo bellossom bah bah bah la chasse from Papa Paula Paula dolly Nevaeh for a decent Marathi rubbish and una Bala

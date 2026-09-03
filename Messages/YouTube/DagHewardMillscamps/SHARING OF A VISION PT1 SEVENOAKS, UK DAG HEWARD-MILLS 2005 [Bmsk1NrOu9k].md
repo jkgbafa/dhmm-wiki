@@ -9,6 +9,8 @@ duration_min: 6
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SHARING OF A VISION PT1   SEVENOAKS, UK DAG HEWARD-MILLS  2005 [Bmsk1NrOu9k]]]"
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 Welcome to track number four of birthday, keyways I I dreamt that there were some workmen who are just come to the house. I mean I'd finish it. So they came to nail the small sign post to say, oh Dr. Ampuman. Doctor Ampuma, you are studying what now?

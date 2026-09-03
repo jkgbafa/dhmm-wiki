@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqs9c/"
 duration_min: 90
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah. Father, thank you for this evening. As we come before your holy word, we ask for your blessing tonight in the name of Jesus. Amen. You may be seated.

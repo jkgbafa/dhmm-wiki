@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Pv9LxnXyGIk"
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit"]
 ---
 
 Apostles prophets evangelists pastors or Shepherds and teachers these are the five Ministry Charisma then the which are human beings then a Ministry Charisma which are just abilities specimen abilities individual freestanding abilities abilities that can come on their own and all those five charismatic have Ephesians 4:11 different places prophecy Ministry or serving Romans 12 has a lot of them there nicely written out Ministry I'm giving you the list maybe let me just give you the list and then after that I talk about it a bit okay Ministry serving or serving he that Minister and to minister

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 Father, we give you thanks. Père, nous te remercions. In the name of Jesus. Dans le nom de Jesus. Amen.

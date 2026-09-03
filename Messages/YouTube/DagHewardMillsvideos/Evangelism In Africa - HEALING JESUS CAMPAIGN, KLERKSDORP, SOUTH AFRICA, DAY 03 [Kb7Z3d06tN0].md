@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Kb7Z3d06tN0"
 duration_min: 164
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 clap your hands 40 that apology so much wrong let me be louder tonight let it be louder tonight hallelujah hallelujah well all's sex for what God has in store for us tonight so say we'll ability to put the merits medicine Busan I need everyone to please listen to this very important piece of information ciabatta Oh Bella Luna Malacca que los moco the campaign is in two parts companion are in animation eliminating that the preaching path with an emotional rain and there's also the miracle path when an emotion is shown to pass let me - maybe

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=WzsjIrayJ4c"
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Matthew 12 verse 43 dude count one when the unclean spirit has gone out of a man he woke up through Dry places seeking rest and findeth man local SP and kirisaki de nom in rapidly near the heap shanty before maybe not when he says and I will return into my house from whence I came out and when he is come he finally empty swept and garnished hello Edie gelatin a diamond is on two shows Rosati a can't ilaha illah to vite ballet a a only then he go up and taketh with himself seven other spirits

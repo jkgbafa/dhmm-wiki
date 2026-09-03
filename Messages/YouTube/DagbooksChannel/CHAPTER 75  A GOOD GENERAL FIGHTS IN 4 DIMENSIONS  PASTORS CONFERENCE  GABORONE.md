@@ -3,6 +3,8 @@ title: "CHAPTER 75  A GOOD GENERAL FIGHTS IN 4 DIMENSIONS  PASTORS CONFERENCE  G
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Leadership", "Leadership/Generals and History Makers", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Heavenly Father, thank you for this opportunity in your presence. We ask you to speak to our hearts and lead us to serve you better. In Jesus' name we pray. Amen. Amen. You may be seated. Thank you. How many of us here are pastors? Wow, you're all pastors. Beautiful. This morning I want to share with you is this conference. Where's Randy? Um I want to share with you on the um a principle right here from my book on the good general. A good general. All right. On uh the good general. And uh a good general is

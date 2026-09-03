@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=QmF4weJz6po"
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 tell you something years ago we started but we are still continuing like never before it's now that we are going to send missionaries those of you who think that missions it's now we are starting something called escos yes escos do you know what it means escos means the utmost the at the finale the Last end the final cab so it is now that we are moving into escos yes that's why I always encourage keep moving on keep moving keep moving forward once you stop moving forward you start dying slowly without knowing that you are dying

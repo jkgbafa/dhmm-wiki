@@ -8,6 +8,8 @@ year: 2016
 duration_min: 142
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 father we are so grateful for this opportunity guide us by your Mighty spirit in Jesus name amen now Revelations chapter 3 Revelations chapter 3 great to verse 15 what does it say I know th I Know Thy words all right Glory my God now Canada is going to be known for hot works now the problem is that you see like the Revelation for the victory in lishia is that the problem is rather a good thing you see I know the verse 16 it says in verse 16 verse 16 so then because you are lukewarm I

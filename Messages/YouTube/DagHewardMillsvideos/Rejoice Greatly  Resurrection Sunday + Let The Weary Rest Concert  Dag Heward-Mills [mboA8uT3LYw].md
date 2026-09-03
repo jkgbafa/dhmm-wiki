@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=mboA8uT3LYw"
 duration_min: 151
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Try and stay around where there is a blessing so that a blessing will fall on you somehow and there will be some exemption for you and you sort of escape a very difficult wealth. That is why I believe when it comes to money, you know, you have to be even more. You see, when I say you be spiritual like by prayer, it when you come to money, you also have to be spiritual. Even secular money is controlled in the realm of the spirit. There is a spiritual dimension to prospering. It's not just working hard. Father,

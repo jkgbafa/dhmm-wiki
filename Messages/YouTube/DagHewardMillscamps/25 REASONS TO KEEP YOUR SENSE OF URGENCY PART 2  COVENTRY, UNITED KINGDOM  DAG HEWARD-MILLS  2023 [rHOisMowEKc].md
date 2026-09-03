@@ -8,6 +8,8 @@ year: 2023
 duration_min: 147
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 father we thank you for the opportunity to pray in Jesus name amen you may be seated now Agency number seven number six agency because it is high time that you woke up from sleep Romans 1311 now what is agency agency is something requiring immed immediate attention immediate attention immediate attention a pressing or an ENT matter so your service to God is a pressing in an ENT matter type it my service to God is a pressing and ENT matter my service to God is a pressing and Urgent matter amen Hallelujah now it is high time that

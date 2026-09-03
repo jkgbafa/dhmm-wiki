@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JdZLa4JmAw4"
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Lord you are the Shepherd of my soul and I keep full control wherever you fairly I will follow because I have made a choice to listen for your boy wherever you feeling I will go beat is the quiet pasture by a gentle stream shepherd of signs hold by my side oh yeah should I make my teeth healthy horribly tardy Shepherd of my soul will be my god oh the Shepherd of my soul whoopee hallelujah father thank you for the blessedness of this morning guided by a mighty spirit into all truth in Jesus name Amen you

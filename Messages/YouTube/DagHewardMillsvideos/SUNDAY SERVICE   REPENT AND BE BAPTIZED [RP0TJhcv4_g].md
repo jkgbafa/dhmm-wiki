@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=RP0TJhcv4_g"
 duration_min: 47
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Salvation", "Salvation/Repentance"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/salvation", "topic/salvation/repentance"]
 ---
 
 Heavenly Father we thank you for today we thank you for your blessings thank you for bringing us here thank you for giving us an opportunity to share your word to grow in you to increase to move forward we are blessed and we thank you in the name of Jesus or your blessings that are abounding to us hallowed be thy name Lord speak to us O God minister to our hearts we thank you in Jesus name Amen you may be seated hallelujah are you glad to be here well I'm very happy to be here this morning

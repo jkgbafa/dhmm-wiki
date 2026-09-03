@@ -8,6 +8,8 @@ year: 2005
 duration_min: 84
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 welcome to track number one of perfection Hallelujah Hallelujah Heavenly Father we thank you so much for this morning thank you for your blessing Lord we ask that you speak to our hearts and let your will be done in these few hours that we shall be together we thank you for the great opportunity that we have in you Lord Jesus as We Gather Lord we are grateful As We Gather may your spirit work within us we well that our hearts begin to we be blessed we be blessed because to be blessed because as we gather as

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing"]
 ---
 
 Now anointed, let's go back to anointed and consecrated. Eight books. Anointed. I want all the eight books to come, please. Catch the anointing.

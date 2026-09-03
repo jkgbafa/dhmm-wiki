@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zyOph0-TTVw"
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 For you are great. You do miracles so great. There is no one else like you. For you are great. You do miracles. So great. There is no one else. No one like you, Lord. No one like you, Lord. For you are great. You do miracles. There is no one else like you. No one like you. No one like you. There is no one else like you. You deserve the glory and the honor. Lord, we lift our hands in worship. We lift our hands. Lord, see the hands of your people as we bless your holy name.

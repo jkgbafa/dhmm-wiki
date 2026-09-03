@@ -8,6 +8,8 @@ year: 2013
 duration_min: 45
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to Christ number nine. Principles of war. Number six. Have your food cam now. I saw your car.

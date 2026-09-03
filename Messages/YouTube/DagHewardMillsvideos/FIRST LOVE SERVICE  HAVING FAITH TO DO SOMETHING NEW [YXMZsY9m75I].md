@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=YXMZsY9m75I"
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 and we can start onto a song entitled Holy Spirit walk with me amen Oh every day that I waited and he day that I wake I want to start my day with you resting it is song for the Holy Spirit every day that I wish happy day that I wake I don't want to start my day with you Oh some people some people wanna please you in a church building but I wanna please you with everything I'm doing oh yeah Oh Lord I'm giving up all of me worship Your Majesty worship every day not just

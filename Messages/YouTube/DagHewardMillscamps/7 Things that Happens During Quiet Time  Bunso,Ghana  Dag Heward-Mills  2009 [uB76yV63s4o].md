@@ -8,6 +8,8 @@ year: 2009
 duration_min: 169
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 seven things that happened during the quiet time number one you develop the most important relationship of your life now even though we are all dancing here right everybody here has a different Rel relationship with God just like we all be dancing here everybody has a different relationship with me yeah everybody's relationship here with me is different is it not true and your relationship with alum stand up your relationship with this gentleman everybody's relationship with him is is there anybody here who is close to him how many know him are not close to how many don't

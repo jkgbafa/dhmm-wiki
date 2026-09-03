@@ -8,6 +8,8 @@ year: 2016
 duration_min: 136
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 M with a fore clap your hands for her well yeah she sings very very well is it all nice very nice clap your hands I never knew there was anybody who could sing like me this way are we blessed do you feel that something is happening to you can you sense a change you feel something is happening inside your spirit yes so I want you all to take out your notes yeah we we are going to read the points hallelujah hallelujah so we are starting from the top 10 things 10 points you should know about

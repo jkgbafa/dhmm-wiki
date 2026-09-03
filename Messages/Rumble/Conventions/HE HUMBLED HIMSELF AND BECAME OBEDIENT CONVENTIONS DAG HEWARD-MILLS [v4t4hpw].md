@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t4hpw/"
 duration_min: 115
 source: "whisper"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/The Will of God", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 The theme of my short messages during this time is he humbled himself and became obedient. That is the message that I'm preaching. And I didn't want to change it to any other title because I want you to remember it. He humbled himself and became obedient. Amen.

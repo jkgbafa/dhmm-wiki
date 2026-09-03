@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tovqn/"
 duration_min: 135
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Remember when you were saying the joy you felt inside Do you remember? You were born again. You went around telling everyone. Do you remember? Happy in church in his presence all day long.

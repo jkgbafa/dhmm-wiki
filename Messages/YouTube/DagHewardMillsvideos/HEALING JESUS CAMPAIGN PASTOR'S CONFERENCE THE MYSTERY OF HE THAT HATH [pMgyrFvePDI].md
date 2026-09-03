@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=pMgyrFvePDI"
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Mach 425 he that hath to him shall be given and he that hath not from him shall be taken even that which he hath amen he that has to him shall be given and he that hath not from him shall be taken even that which he had now this scripture is one of the most mysterious verses in the whole Bible because it looks like perhaps the greatest injustice that can be meted out or delivered to the human race is that not so why should he that has already have more and he that has not to

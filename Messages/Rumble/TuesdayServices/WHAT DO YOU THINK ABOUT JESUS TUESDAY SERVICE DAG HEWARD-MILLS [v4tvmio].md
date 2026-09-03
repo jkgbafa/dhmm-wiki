@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tvmio/"
 duration_min: 56
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Let us pray. Father, thank you for the great blessing that you give to us today. In the name of Jesus. We are grateful for your blood, for your mercies, which allow all of us to be here today. In Jesus' name.

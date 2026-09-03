@@ -8,6 +8,8 @@ year: 2025
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit"]
 ---
 
 Clear clear create clear of shall la. Yeah. Just wait to see. So the last to deliver. Oh, give it away. Yes. Yeah. Ever Say you see a new flesh to the Lord confess. Serious. Mag. Love you. to level Oh, twice as twice was Create create. Oh master shoo. you. Oh no. Oh, I See you su She press glor. you know, Hallelujah. Oh no. Yeah. Oh no. Yeah. You say good to the brother Glorious you. Yeah. Oh, clap your hands for Jesus. I believe you are ready for what God has for you this week. Hallelujah. God

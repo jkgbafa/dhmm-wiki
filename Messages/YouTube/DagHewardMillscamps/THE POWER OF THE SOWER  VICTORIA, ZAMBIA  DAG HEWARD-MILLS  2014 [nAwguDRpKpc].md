@@ -8,6 +8,8 @@ year: 2014
 duration_min: 253
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 oh all that I long for and all that I hope for is just one who said no you comeing me and all that my heart is hry to have it just one more touch from your hand in re when all said and Lord Lord your Ral all that I long for praise the Lord thank you please take your seats sorry you guys have been singing for a very long time isn't it it's a blessing are you happy you've been singing for a long time oh are you happy why why are you so quiet are you

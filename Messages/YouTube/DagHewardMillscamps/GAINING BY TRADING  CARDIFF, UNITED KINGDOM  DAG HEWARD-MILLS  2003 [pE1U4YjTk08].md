@@ -8,6 +8,8 @@ year: 2003
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 welcome to track number 12 of beima Lord we Proclaim you for your Mighty God and your Ro Majesty Lord come upon us now and release your power and let your presence oh sing Lord we Proclaim you Lord we Proclaim you for your Mighty your Mighty power and your awesome Majesty Lord come upon us come upon us release your power release your power and let your pray sing it one more time sing Lord we Proclaim Lord we Proclaim you for your Mighty you're mighty and your aome mesty Lord come upon us come upon us release your

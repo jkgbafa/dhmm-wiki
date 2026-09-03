@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Z8hNmxsCn_o"
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 station all stations uh we are less than 10 km to zingore zingore is our first major stop our first major stop our second major stop will be Banu and then D car um today is uh Mar 8 Days 8 days of traveling time from uh kkan it's been an extraordinary uh trip and it's been a pleasure um traveling with you um we hope to go through custom formalities as quickly as possible and back in second show ho oh our Journeys to and from the healing Jesus campaigns have taken taken us through several countries right across

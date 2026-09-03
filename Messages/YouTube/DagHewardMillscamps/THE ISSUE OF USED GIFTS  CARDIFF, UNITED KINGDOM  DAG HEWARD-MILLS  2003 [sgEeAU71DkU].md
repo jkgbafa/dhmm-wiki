@@ -8,6 +8,8 @@ year: 2003
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 welcome to track number eight of beima the issue of unused gifts the issue of unused gifts aie are you there the issue of unused gifts are you there Matthew 25 Matthew 25 you are there Matthew 25 you know the story The Kingdom of Heaven most of the time we have taken these stories to be something that will happen at the Rapture you know but this is a story of judgment it's is bringing up the issues that will be brought up on that day amen for the Kingdom of Heaven is as a man traveling we are

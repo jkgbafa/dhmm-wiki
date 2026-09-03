@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=kVPFdYSWYYg"
 duration_min: 124
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 may the Lord bless you and may you lay hold on Honor on building time and chance cancels these things that are the Swift strong wise men understanding and skillful men you forget my faults but I won't know forget them now in you will miss me then but I won't feel it Miss Me Now is hallelujah lift your hands and let's give thanks to the Lord for his Blessing his guidance thank you Holy Spirit thank you for the anointing of the holy spirit thank you for guiding us blessing us leading us pray that God will speak

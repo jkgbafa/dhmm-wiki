@@ -8,6 +8,8 @@ year: 2016
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number one of where is the flock that was given thee what a blessing what a blessing what a great blessing take your seats sit down sit down sit down take your seats sit sit sit take your seats I'm actually surprised he could sit down so easily Give the Lord a shout of Praise Hallelujah take your seats now Bishop you're welcome Hallelujah take your seats as we welcome Bishop cliffield are you excited I said are you excited are we blessed our father is in the house amen hallelujah hallelujah please be seated we thank

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=K_isDm8_ES4"
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 take up your cross and follow Jesus take up your cross every day don't be ashamed oh no say that you know him count the cost and take up your cross follow him oh take up your cross oh yes and follow Jesus why don't you take up your cross w oh every day and don't be ashamed to say that you know him count the cost and take up your cross follow him oh what are you doing for your king have you freely given everything to the one who gave his life for you and don't to be

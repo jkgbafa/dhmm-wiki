@@ -8,6 +8,8 @@ year: 2023
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I remember you said you never leave me in times of trouble you be my friend sometimes when doubts and fears try to steal my face I just run to you oh I run to you I just set aside the cares of this world fall in love with you again and I'll just throw away the Tres of this world fall in love with you I know you said I am the apple of your eyes and for loving me you gave your life yeah sometimes my heart just B to pray for loving you oh I just let

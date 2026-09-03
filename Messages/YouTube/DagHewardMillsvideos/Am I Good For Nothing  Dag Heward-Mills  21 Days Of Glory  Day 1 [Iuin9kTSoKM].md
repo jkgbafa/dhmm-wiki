@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Iuin9kTSoKM"
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Jesus is the answer for the world today Jesus Is The Answer above Himes there's no other answer Jesus is the answer for the world today above him there's no other Jesus is the way I know you have mountains you think you cannot Li I know that your skies are dark and you think the sun won't shine in case you don't know the word of God is true and everything Jesus promised he will do it for you oh Jesus Jus is the answer for the world today and above him there no other Jesus is the way

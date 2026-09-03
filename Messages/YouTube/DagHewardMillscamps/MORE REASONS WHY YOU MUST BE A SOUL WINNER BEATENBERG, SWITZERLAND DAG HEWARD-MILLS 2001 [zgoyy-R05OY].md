@@ -9,6 +9,8 @@ duration_min: 24
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MORE REASONS WHY YOU MUST BE A SOUL WINNER  BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2001 [zgoyy-R05OY]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Soul Winning and Evangelism"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/soul-winning-and-evangelism"]
 ---
 
 Welcome to track number four picture in Pegamos. Glory to God. Now, how many reasons do you have for being soul winners? 24. Huh?

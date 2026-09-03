@@ -8,6 +8,8 @@ year: 2009
 duration_min: 84
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 And all I need is you all I need is and all I need is you it's you all I need is you all I need is you and all I need is you love it's you Lord all I need is you and all I need is you Lord all I need is you all I need is you Lord All I need is you Lord you Lord and all I need is you all and all I need is you love it and all I need is you all wave your hand to the Lord sing to the

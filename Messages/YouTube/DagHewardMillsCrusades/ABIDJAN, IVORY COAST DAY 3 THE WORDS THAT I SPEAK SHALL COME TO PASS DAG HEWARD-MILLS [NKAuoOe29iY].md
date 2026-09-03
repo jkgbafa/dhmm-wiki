@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=NKAuoOe29iY"
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Écoutez aujourd'hui, écoutez-moi bien, bien, très bien, tu as besoin du sauveur, son nom est Jésus, tu as besoin du salut, ça dépend de toi, si tu meurs aujourd'hui, où est-ce que tu irais? Il y a tout au ciel, ou en enfer, Jésus ta paix, ton Seigneur ta paix, ne le rejette pas, reçois Jésus, la Bible nous dit, si tu reçois Jésus, tu seras sauvé, il y avait un homme riche, vivait sous cette terre, il y avait tout les richesses de ce monde, habillé en violet, il mangeait bien, il est mal, ce monde, et aussi un pauvre, qui vivait sous ce terre, il s'appelle Lazar, et il était couvert de pleurer, et les chiens venait, venez toujours les chiens, c'est plaire.

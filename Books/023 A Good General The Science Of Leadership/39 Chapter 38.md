@@ -4,6 +4,8 @@ book: "A Good General The Science Of Leadership"
 book_number: "023"
 chapter_number: 39
 type: book
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 ### Chapter 38\

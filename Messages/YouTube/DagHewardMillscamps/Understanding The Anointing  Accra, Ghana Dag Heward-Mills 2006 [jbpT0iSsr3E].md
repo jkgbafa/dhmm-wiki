@@ -8,6 +8,8 @@ year: 2006
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Missions", "Missions/The Nations"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/missions", "topic/missions/the-nations"]
 ---
 
 all right Hallelujah now when the anointing comes upon you and you become the Lord's anointed right you now become equipped so let's turn to Isaiah 11 I don't have topics when we are in umch we have topics but now just talking to you all right so you may not have anything to write just be here and be happy then a chute Will Spring forth from the stem of Jesse and a branch from his roots will bear fruit amen amen now notice are you noticing have you found Isaiah 11 yes now you listen to my version

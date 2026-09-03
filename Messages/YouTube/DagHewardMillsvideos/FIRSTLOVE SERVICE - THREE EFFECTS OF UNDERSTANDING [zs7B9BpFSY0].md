@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zs7B9BpFSY0"
 duration_min: 182
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 yeah my god is judo whoa is that tsunami me now you city planner all right when I say your evil language is a mighty I don't wanna me yeah come on to question of conscience over layaway ma yeah yeah are you ready you I forgot to stop every second listen what I say oh the liu yun daesil farm nah okay Oh Alleluia is a very big old burrito Oh Oh why are you so cool Namie Oh I love you nobody's done nobody's sunny Shah Baba somebody said thank you somebody's day somebody say nobody so ah

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jbTO4WArtLY"
 duration_min: 145
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Hey ah yes Africa our music Africa spell up your hands for Jesus tonight are under education disasters and you maybe see that if you have a seat Hanazawa Rui Ravana's ooh hallelujah hallelujah there's excitement in the air una de carro de uruapan we on God's power include me relief mightily man da Matta yoga 401 and grandma and you are not leaving this campaign without a change in your life one hour so we are Fatima schmoyoho Santa Catarina something practical will happen to you others campaign oth much additional Faria Chavanel accomplishment you believe it clap your

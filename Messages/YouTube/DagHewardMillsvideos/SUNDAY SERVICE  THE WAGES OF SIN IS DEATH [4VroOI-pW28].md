@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4VroOI-pW28"
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Wealth and Finances"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/wealth-and-finances"]
 ---
 
 thank you Lord for the blessings we have in you Lord guide us lead us into all truth and into your will thank you for this great day great opportunity we thank you in Jesus name Amen you may be seated alright this morning we are continuing on our series about the wonders of salvation amen the wonders of salvation most of us do not know what a wonderful thing it is to be saved there are two books I would like to recommend one of them is this little book called born again you need to get a copy

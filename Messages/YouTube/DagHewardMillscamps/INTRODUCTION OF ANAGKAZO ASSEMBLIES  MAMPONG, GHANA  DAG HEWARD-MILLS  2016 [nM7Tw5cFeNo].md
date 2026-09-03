@@ -8,6 +8,8 @@ year: 2016
 duration_min: 150
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Anagkazo and Compelling", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/anagkazo-and-compelling", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 what it is is that we are launching at this meeting the new name of a new denomination amen that has never existed before and this new denomination is going to be called anazo assemblies I'm going to show you the your new Banner Pulpit sticker and offering baskets hallelujah it's very beautiful and um it's very beautiful um hold on Hallelujah Hallelujah I'm going to show you your new bner and Pulpit sticker and all that now somebody was asking why is that one of the reasons is a very amazing problem and the problem is that Lighthouse Chapel

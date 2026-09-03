@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ufg90/"
 duration_min: 30
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 Amen. Some people would like us to stop preaching and to do other things. But we know what the gospel has done for us. It's the power of God that has saved us. Some people would like us to preach about, you know, some kind of secular wisdom and philosophies and things like that.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hwMh-nLkcAI"
 duration_min: 33
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Vision and Direction"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/vision-and-direction"]
 ---
 
 Number one, the first reason why you must have a mega church, you must have a mega church because that is the best vision for a pastor. Amen. Amen. One day I met a pastor who had a vision. I said, "What is your dream?" And his dream was to go to America. 1,000 micro churches. If you are a pastor and your vision is to go to America, how will it help you to build a mega church? All your dream is to go to America. It's because you watch too much television. Serious. You watching television, you see

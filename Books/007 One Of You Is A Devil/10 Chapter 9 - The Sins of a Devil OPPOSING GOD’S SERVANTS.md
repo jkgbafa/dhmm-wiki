@@ -4,6 +4,8 @@ book: "One Of You Is A Devil"
 book_number: "007"
 chapter_number: 10
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Chapter 9\

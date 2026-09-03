@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqwfk/"
 duration_min: 59
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Let us share a word of prayer. Father, we thank you so much for this opportunity to be here. We ask you to guide us by your spirit into all truth in Jesus' name. Amen. You may be seated.

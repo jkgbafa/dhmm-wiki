@@ -4,6 +4,8 @@ book: "Prayer Changes Things Prayer Secrets"
 book_number: "086"
 chapter_number: 4
 type: book
+topics: ["Prayer", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/prayer", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 ### CHAPTER 3\

@@ -8,6 +8,8 @@ year: 2018
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/faith", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 bless the Lord and pray and prepare your heart remember today is an If any man day the last days are If any man so lift your hands and pray and say Lord I prepare my heart pour your seats many of you will not get this opportunity again till next year God willing some people are going to lessen to Bishop every Sunday but you will not get it that way you can only soak by podcast but there is something different about a person being with you live and this is the last session pray that Lord what

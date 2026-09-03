@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tXCzkVe1DIc"
 duration_min: 47
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 Heavenly Father thank you so much for this wonderful morning you have given us together Lord as we approach your word we pray for humility we pray for wisdom we pray that you open our eyes and our hearts thank you for another Resurrection Sunday morning where we can serve you we can love you we can sing and worship you give us the right heart at this time we thank you in Jesus name Amen you may be seated it is good to be here again on Sunday morning as Reverend sake said I have been visiting the other

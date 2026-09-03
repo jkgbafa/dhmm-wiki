@@ -9,6 +9,8 @@ duration_min: 58
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PRAYER OPPORTUNITIES PART 2  YANUCA ISLAND, FIJI  DAG HEWARD-MILLS  2024 [wUMlIrNa_wg]]]"
+topics: ["Faith", "Prayer"]
+tags: ["topic/faith", "topic/prayer"]
 ---
 
 Prayer opportunity number three. Prayer opportunity number one is to turn things around. I know this shall turn. Philippians 1 19. I know this shall turn.

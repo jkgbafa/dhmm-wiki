@@ -8,6 +8,8 @@ year: 2015
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 heavenly father thank you for tonight what a blessing to be here inata thank you that umata will never be the same again your power is here with us today we give you thanks we give you praise we ask you to guide us holy spirit we welcome you in Jesus name and everyone said amen you may be seated we are so excited to be with you in umata today we just came from King Williams town and I believe that omata is an even greater Town than King Williams town amen hallelujah I want to thank the fathers

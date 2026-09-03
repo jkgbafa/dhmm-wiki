@@ -9,6 +9,8 @@ duration_min: 67
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Living Waters Brings Something Permanent Lenk, Switzerland Dag Heward-Mills 2025 [pbTnSauQPBE]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Father we are grateful guide us in Jesus name. Amen. Now some people are saying that the Italianos are not yet here. So we should wait till we do outreach in Italy before we do the translation. Or do you want the Italian translation? So, let's vote Italian or no Italian for today. Italian How many want Italian? How many want Italian next time? How many want Italian this time? With a small Italian. What are they saying? Next time. Next time for her. Right. Okay. Father, thank you for your mighty power, your mighty spirit leading us in Jesus

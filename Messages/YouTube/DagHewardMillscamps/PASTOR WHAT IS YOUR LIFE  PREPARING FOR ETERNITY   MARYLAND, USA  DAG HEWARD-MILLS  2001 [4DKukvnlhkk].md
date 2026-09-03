@@ -8,6 +8,8 @@ year: 2001
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 welcome to track number three of what is your life next thing is your life must therefore be a life of working for God working for eternity so what is your life a life working for eternity preparing preparing for eternity amen preparing for eternity preparing for eternity so we are moving on to the next chapter of our book we are writing at the camp which is your life is short is the first one short life long eternity and chapter two preparing for eternity I'm preparing for eternity are you preparing for eternity what are we doing to

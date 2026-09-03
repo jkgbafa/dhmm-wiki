@@ -8,6 +8,8 @@ year: 2010
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 when Jesus comes for me I'll be waiting here watching patiently with my eyes to the sky I know he'll be for me my heart has confess those things that set men free and give them new life the life I treasure now is a life filled with love and so much easy for God so loved the world he gave his own his only son that we shall have new life he shed his blood for you and me to cleanse us from unrighteousness for God so loved the world he gave his own his only son that we

@@ -8,6 +8,8 @@ year: 2017
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 So I want to share with you partager avec vous about the art of following the art of following now when you see something great and you have a great vision and you have vision the next important thing the chose suivante is that you have to live everybody say achieve accomplish lay hold on something uh print so on it's supposed to say so God wants you to lay hands on something why do you think doctor is constantly sharing with you about mega church or church planting these eggs or soul winning or the fate to gagner les

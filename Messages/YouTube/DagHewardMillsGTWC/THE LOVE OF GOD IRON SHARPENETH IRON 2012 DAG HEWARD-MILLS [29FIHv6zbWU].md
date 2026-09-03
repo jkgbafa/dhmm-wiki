@@ -8,6 +8,8 @@ year: 2012
 duration_min: 186
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 You may ask me why I serve the Lord Is it just for heaven's care or to all those minestre or to hear the angel see? Is it just to drink from that fountain that never shall run drive? Or is it just to live forever forever and ever in that sweet old night and ever won't promise to me? Neither can't promise to live eternally work, just having the Lord in my life. He came along and brought me the light when I was living in a world of darkness, he came along and brought me the light.

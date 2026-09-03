@@ -4,6 +4,8 @@ book: "Ministerial Ethics 2Nd Ed"
 book_number: "035"
 chapter_number: 12
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ### Chapter 11\

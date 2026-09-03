@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2U02ik33O40"
 duration_min: 230
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 sapere falls of being equal that see that no one has until efe perez jones please no the call way is variety efe open 1 their throats go up josep m in my car vinci the one from example sepa de kutcher p john chambers and you even tell me efe m matthew busche pp of tongue and from reaching teaching and healing villasbuenas of cities in steaks live more than one interface reaching teaching indias in adwords reaching from costco in y hill and offices in every pisces am on the people the stretch marks ah it's free you

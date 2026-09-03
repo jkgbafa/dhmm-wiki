@@ -8,6 +8,8 @@ year: 2018
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah are you happy are you happy can I see your joy Jo Joy to yes yes hey spe Hallelujah go man go man the go man Cate celebrate celebrate celebrate celebrate celebrate celebrate celebrate leave Jesus Higher higher higher higher leave Jesus higher higher higher higher live Jesus higher higher higher higher Jesus higher higher higher higher C Cate Cate Cate Cate Cate celebrate Cate Hallelujah my I'm I'm you all go she God go s hey hey hey let me teach you how to touch this song are you ready you touch this head touch your head you

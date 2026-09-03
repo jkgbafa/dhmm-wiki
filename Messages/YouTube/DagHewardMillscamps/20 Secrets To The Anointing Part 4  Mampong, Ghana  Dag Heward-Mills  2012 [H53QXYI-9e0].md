@@ -8,6 +8,8 @@ year: 2012
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 deeper the valley the higher the Mountaintop the heavier the burden the greater God's grace the more bitter the conflict you just keep on are fighting cuz the sweeter the victory at the end of the race the more you've been wounded the more soothing the healing the more someone wrongs you the more you forgive andless you're concerned I about this world's riches he promised to fill you with this wealth from above I know that the Deep of the valley the higher the Mountaintop the heavier the burden the greater God's grace the more bitter the conflict please

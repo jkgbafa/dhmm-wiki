@@ -8,6 +8,8 @@ year: 2015
 duration_min: 200
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Leadership", "Leadership/Generals and History Makers", "Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/leadership", "topic/leadership/generals-and-history-makers", "topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 Heavenly Father, thank you for today. Thanks for your blessing. Merci pour ta benediction. You guide us. You lead us.

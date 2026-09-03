@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Marriage and Family", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/marriage-and-family", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 who accuse you. Accusations, they are deadly and dangerous things. Yes. Many pastors cannot do well because of accusations. Hallelujah. Never allow yourself to be employed to accuse anybody because you cannot be disloyal. If if somebody doesn't like your king, if somebody doesn't like your king, the only way it can work is to accuse the king. You get what I'm saying? It cannot work without you need to accuse. You need to accuse of something. without accusing what are you saying? So anybody who want to fight in the church you he has to accuse about something they

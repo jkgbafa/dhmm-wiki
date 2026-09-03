@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=PeoG96RcRm8"
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Jes you are my first there is no other Jesus it is your holy love it is your perfect love Jesus you are my first there is no other that you are my said Jesus it is your holy love it is your that us to you weire there's noer that we could it is your holy it is your perf you are my first there is no one it is your holy love it is your perfect love that there no greater love we you are my that weire love that we could ever Jesus you are my there

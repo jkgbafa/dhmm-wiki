@@ -9,6 +9,8 @@ duration_min: 96
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MASTER KEYS  HONOURING THE GIFT OF GOD   GENEVA, SWITZERLAND DAG HEWARD-MILLS  2016 [sllghfgNKYM]]]"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 The gift of God, you must stir it up. Oh can't you see? You're getting a little bit older. How long is it gonna take for you to see? How much more time do you need to stare up the gift?

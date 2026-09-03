@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=cp4bpMRYdsU"
 duration_min: 21
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/the-holy-spirit"]
 ---
 
 Yes. So those of you who attack God's servants, 1st Samuel 26 and verse 9, it says and David said to Abishai, "Destroy him not." For who can stretch forth his hand against the Lord's anointed and be guiltless? Be careful with anointed people. Yes. Be careful with anointed people. Don't touch anointed people. Just leave them. just leave them. You see, they are under instructions and under authority. When when many anointed people also have problems and do wrong things, God is more wicked than you. In terms of judgment, God knows exactly how much and what to do.

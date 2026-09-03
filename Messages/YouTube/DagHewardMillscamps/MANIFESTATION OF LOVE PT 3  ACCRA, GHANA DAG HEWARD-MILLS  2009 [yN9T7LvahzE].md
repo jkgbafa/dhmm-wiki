@@ -8,6 +8,8 @@ year: 2009
 duration_min: 132
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/All-night Prayer"]
+tags: ["topic/prayer", "topic/prayer/all-night-prayer"]
 ---
 
 welcome to track number 18 of my first love can you hear clearly okay number one 19 he not an employee Songs of Solomon 2:16 my beloved is mine and I am his he feedeth among the lies amen so you see real full-time Ministry is not about employment that I've got a job no it's not a job you have you belong to the Lord You Belong to the house of the Lord amen very good number 20 a person with First Love can work for long hours until day break amen is it not fantastic Bible says until

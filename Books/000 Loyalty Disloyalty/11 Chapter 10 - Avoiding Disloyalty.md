@@ -4,6 +4,8 @@ book: "Loyalty Disloyalty"
 book_number: "000"
 chapter_number: 11
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Salvation", "Salvation/Repentance", "Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/salvation", "topic/salvation/repentance", "topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Chapter 10\

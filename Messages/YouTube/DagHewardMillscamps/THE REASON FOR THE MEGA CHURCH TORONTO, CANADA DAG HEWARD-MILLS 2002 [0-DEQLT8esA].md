@@ -9,6 +9,8 @@ duration_min: 106
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE REASON FOR THE MEGA CHURCH  TORONTO, CANADA DAG HEWARD-MILLS  2002 [0-DEQLT8esA]]]"
+topics: ["Church Growth", "Church Growth/Mega Church", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number two of the mega church. There were people you think would not get married. Really? Sometimes you just wonder, Lord. How can it be?

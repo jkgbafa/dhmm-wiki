@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=dU1V3tpVfo4"
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/anointing", "topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 tonight I want to just talk about one more thing that is needed for the megachurch vision and that is the megachurch anointing how many one the megachurch anointing if we have time I will share with you the megachurch principles by the first steps to the megachurch anointing is the prince the step of a vessel change change in your vessel second Timothy 2:20 in a large house there are not only vessels of gold and of silver but also of wood and earth some to honor and some to dishonor so God's house contains different kinds of vessels

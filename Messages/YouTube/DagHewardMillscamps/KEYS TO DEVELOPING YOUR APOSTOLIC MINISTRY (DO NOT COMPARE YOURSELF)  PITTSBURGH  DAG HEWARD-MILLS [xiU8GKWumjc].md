@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xiU8GKWumjc"
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 all right welcome K I can enough of you I can get enough of your presence once I am in your presence I don't want to your awesome pres who Lord you are calling me you are drawing me you are pulling me pulling me closer and closer Jesus I can't I am in your presence yeah I don't want I leave your awesome pres when I am in your presence I'm filled with reation I come alive in your alive in your I am charged up in the glory I can't I of in I don't want to leave

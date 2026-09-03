@@ -8,6 +8,8 @@ year: 2017
 duration_min: 151
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 let's welcome sister Ida ID are you enjoying Ida's songs it's been it's been my dream to say this statement you know do people enjoy Ida songs do you like it when Ida sings Give the Lord a shout s build your house on the rock and the rains will come down build your house on the rock and the fls will come up build your house on the rock the winds will blow very but your house will stand strong whoever hears my words and he keeps them Whom Shall I like in him too he is like a

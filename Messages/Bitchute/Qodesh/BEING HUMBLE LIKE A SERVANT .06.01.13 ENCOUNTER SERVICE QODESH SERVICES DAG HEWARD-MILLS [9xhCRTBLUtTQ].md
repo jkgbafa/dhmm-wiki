@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/9xhCRTBLUtTQ/"
 duration_min: 95
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Somebody worship him, just speak to the Lord. Tell the Lord, have you me? Lord, Lord, have you work in me? Lord, have this is your opportunity to worship the Lord. This is your opportunity to say something to the Lord Jesus.

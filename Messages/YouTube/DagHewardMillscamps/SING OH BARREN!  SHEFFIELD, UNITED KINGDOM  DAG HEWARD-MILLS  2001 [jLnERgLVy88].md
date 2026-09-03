@@ -8,6 +8,8 @@ year: 2001
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 welcome to track number 27 of pastors of thousands how many believe that we can have a camp for the whole week instead of 3 days some people think that it's because of me have a campus for 3 days so I was explaining to them that it's not because of me but it's because of you you isn't it you have to go to work and all that isn't it so do we have it for 5 days what do you think Sunday finish on Friday we go back on Saturday because now that we are having so many

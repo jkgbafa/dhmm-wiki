@@ -8,6 +8,8 @@ year: 2021
 duration_min: 111
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Prayer", "Soul Winning and Evangelism", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/anointing", "topic/prayer", "topic/soul-winning-and-evangelism", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 What did he say yes to Christ or how Sabina? That's how did this order this about how then you be a money fancy? Now what did he say? Not paying at the poes. Oh how to me try to me why grandpoon me won't say unto me now when it's so my toy I there I have to say my go back to me I've been last year I was out to be such a dead way so many who you are me on the wood of me I come out and come and say who did what so my damp four savage Wamaya come out so won't go to Oh, anyway, yeah, yeah, exercise kit will be sorry to answer to it, mammy.

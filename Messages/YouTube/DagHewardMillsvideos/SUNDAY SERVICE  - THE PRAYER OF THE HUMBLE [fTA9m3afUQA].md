@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=fTA9m3afUQA"
 duration_min: 28
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 with me please to look r18 I am going to share with you a brief message on prayer I have been sharing about the parables of prayer during this service so all of you who are here for world cup reasons and welcome to join us this morning two men went up to the temple to pray the one a Pharisee and the other a publican and the pharisee stood and prayed that with himself o God I with me 11 verse 11 the Pharisee stood up and prayed that with himself God I thank thee that I am not

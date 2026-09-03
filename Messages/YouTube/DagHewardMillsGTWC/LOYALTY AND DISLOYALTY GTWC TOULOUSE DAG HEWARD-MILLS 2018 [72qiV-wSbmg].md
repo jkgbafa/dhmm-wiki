@@ -8,6 +8,8 @@ year: 2018
 duration_min: 133
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Now in this session, during that session, I want to communicate with you on loyalty and disloyalty. And I believe that it's a blessing. Turn with me to 2 Corinthians chapter 4. Verse number 6. For God who commanded the light to shine out of darkness has shined in our hearts to give us the light of the knowledge of the glory of God.

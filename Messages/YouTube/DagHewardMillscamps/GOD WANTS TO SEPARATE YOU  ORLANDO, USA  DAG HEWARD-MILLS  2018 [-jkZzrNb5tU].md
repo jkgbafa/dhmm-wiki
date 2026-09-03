@@ -8,6 +8,8 @@ year: 2018
 duration_min: 47
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 ladies and gentlemen before Bishop comes I just want us to be introduced to a great man of God I think you know who I'm talking about you know there is somebody in UD that I feel that almost that the Lord has has has brought to us to help Bishop present his heart I think I have not seen anybody who interprets the books that Bishop has written so much with so much life and explanation and it's so clear it as if he wrote the book and I think it's also because he's compan so much with the

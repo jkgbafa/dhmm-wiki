@@ -8,6 +8,8 @@ year: 2011
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 I believe, I believe this will be a turning point for many of you. You will not be the same after these days. This is a point of reference for you. This is what you will look back on in 50 years and say, "This has begun." Because God will change your life. You will truly be transformed during these days. And I would also like to thank God for the privilege of starting to share something with you. It's a privilege. I came to sit and receive, and I came. I didn't know there was something like this for

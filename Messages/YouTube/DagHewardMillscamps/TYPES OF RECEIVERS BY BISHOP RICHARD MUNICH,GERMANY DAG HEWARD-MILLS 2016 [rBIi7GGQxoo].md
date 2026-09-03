@@ -8,6 +8,8 @@ year: 2016
 duration_min: 97
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Welcome to track number one of the church must end, or it will end. Let us pray. Father, we want to thank you for today. We thank you for another great opportunity. To be seated at your feet, Lord.

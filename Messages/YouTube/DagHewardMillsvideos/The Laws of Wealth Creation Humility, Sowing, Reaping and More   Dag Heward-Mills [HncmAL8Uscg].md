@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=HncmAL8Uscg"
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 So law number one is the law of humility. When you pay tithes, you fulfill the law of humility. You you you are showing that God is my source. I believe in God. So the next law is sowing and reaping. They that sow in tears shall reap good. Wow. Is a law. Third law is the law of prioritization. If you put sex and boyfriends and girlfriends first, you'll be poor. Let us pray. Father, we are in heaven. We are grateful for today and we're grateful for the opportunity to be in the church. We ask you to

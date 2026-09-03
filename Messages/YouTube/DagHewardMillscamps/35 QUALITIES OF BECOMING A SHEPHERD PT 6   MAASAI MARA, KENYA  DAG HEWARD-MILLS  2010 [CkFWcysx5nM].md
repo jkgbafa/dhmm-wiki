@@ -8,6 +8,8 @@ year: 2010
 duration_min: 65
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 welcome to track number 14 of thep privilege if you not sure hey I should choose for then later you come and Cat me a mouth sometimes you see your children you you you if you have a daughter you give birth your daughter is not getting married will you not always be concerned about that so why don't you take the children as the the members as your own children and care for them and love them that is how that is that is that is that is that is what it means to be a shepher that's why

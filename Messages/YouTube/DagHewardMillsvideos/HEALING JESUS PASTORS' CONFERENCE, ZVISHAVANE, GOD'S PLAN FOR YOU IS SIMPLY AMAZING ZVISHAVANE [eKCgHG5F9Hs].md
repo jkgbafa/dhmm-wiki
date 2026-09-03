@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=eKCgHG5F9Hs"
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 yes she does you are my first love there is no look back at this and she is up it is your hold is enough and this is your perfect love that draws us to you let's search she is up you are my first love there is no other that can come it is your holiness it is your perfect son that draws us to you and there's no are the love that we desire they're so great and all that we could ever know you are it gives your hold is done it is your perfect stuff it

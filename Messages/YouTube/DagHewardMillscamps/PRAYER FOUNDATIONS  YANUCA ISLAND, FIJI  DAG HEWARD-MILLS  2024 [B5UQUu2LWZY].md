@@ -8,6 +8,8 @@ year: 2024
 duration_min: 163
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Hallelujah please you may take your seats there's nobody else like you El not my mother not my father not my sister not my brother nobody else will do that's why I love there's nobody else like you and no one else will do let nobody else like you Hallelujah there's nobody else like you Jesus nobody else like you not my mother not my father not my sister not my brother nobody else will do that's why I love you there's nobody else like you and no one else will do there's nobody else like you in hard times

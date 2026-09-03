@@ -8,6 +8,8 @@ year: 2006
 duration_min: 45
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Welcome to track number five of spiritual battles now. The next point is the battle to be a fighter. If you read 1 Kings chapter 19, verse 17. It says, And it shall come to pass that him that escapeth the sword of Hazel shall Jehu slay. And him that escapeth from the sword of Jehu shall who slay Elijah slay.

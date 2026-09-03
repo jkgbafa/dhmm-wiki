@@ -8,6 +8,8 @@ year: 2000
 duration_min: 43
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 first Peter chapter 2 and we want to look at a scripture there first Peter chapter 2 and we want to look at a scripture that says as newborn babies desire the sincere milk of the word that he may grow thereby I'm sure most of us have had the scripture before is that also all right now the seven great principles we've been discussing help you to understand what Christianity is amen and what it is not it helps you to know what it really means when you say you are a believer or you are a Christian because

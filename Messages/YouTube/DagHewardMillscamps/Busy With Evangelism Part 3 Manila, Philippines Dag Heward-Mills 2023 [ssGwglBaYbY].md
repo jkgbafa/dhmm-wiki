@@ -8,6 +8,8 @@ year: 2023
 duration_min: 131
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism"]
 ---
 
 father we thank you for this great opportunity in jesus' name amen amen you may be seated happy to be now turn to Revelation occupy till I come occupy till I come now Revelations chapter 22 Revelation 2 vers 12 verse 12 behold I come quickly amen am behold what I come quickly I come quickly amen Jesus is coming soon very soon we may not have time to do certain things Jesus is going to interrupt the history of this world with his return amen amen he says I come quickly and my reward is with me amen ration

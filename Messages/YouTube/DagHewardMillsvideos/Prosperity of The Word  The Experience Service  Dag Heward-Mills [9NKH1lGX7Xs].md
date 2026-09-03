@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9NKH1lGX7Xs"
 duration_min: 235
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 First Timothy 4 8 says that godliness is profitable and to all things for bodily exercise profited later those of you who don't go to the gym it is biblical bodily exercise it is needed it's more but we need it a lot of you don't joke a lot of you at the back of it you don't choke you don't exercise bodily exercise it profits you little and that letter will need it tell whenever we need it good then I says that by godliness which is spiritual exercise another version says spiritual exercise it leads to profits and

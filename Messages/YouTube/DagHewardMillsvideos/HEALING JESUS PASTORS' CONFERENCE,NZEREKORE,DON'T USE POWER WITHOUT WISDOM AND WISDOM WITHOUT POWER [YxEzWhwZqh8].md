@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=YxEzWhwZqh8"
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 you called us for work or you called us for yourself you called us we work for you but his coming has not come but know us singing with me you have us broom for work either you called us so much the better for you you have us good work elbow evening have not come it was not enough know us I rent his palette is for you go ahead move you called us work for you you have us palace to work for yourself but save himself had two but his coming bleeding game remind us that I

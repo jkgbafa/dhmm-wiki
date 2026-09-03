@@ -8,6 +8,8 @@ year: 2011
 duration_min: 162
 source: "whisper"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Salvation", "Salvation/Backsliding", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/salvation", "topic/salvation/backsliding", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 The art of leadership. Once again. Une fois de plus. Did you get your art of shepherding? French.

@@ -8,6 +8,8 @@ year: 2001
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome to track number 11 of what is your life so we want to move on to the next important aspect of um what is your life what is your life number one is what short life long eternity amen number two preparation your life is a preparation for et for eternity all right now number three your life is a life of obtaining getting a good report getting a good report for heaven that is all that this life is about amen amen a life preparing for yourself a good good report for heaven qu a good report is

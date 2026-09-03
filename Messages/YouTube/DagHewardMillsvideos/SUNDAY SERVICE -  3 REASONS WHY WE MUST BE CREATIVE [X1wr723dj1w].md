@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=X1wr723dj1w"
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I wanna heal you and I want to touch you all those thousand old owes me that you cannot rule the year I wanna heal you do me below heart scream I wanna hear you wrong I wanna watch oh how sweet all those things that you've had done through the years I wanna heal you tried so hard to hide oh the place you feel inside you hope nobody see through your dad you wish somebody do what was really hurting you but you're too afraid to let them see you cry when it's time to dry your eyes

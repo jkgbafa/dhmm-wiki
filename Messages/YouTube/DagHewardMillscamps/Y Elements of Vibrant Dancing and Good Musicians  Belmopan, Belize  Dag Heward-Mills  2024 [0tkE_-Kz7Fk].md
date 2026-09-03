@@ -8,6 +8,8 @@ year: 2024
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 now the next number 11 is vibrant dancing ready now loud music the there was so loud when the prodal son came home the Salvation was happening that people could hear from those who were coming how come the ELD son heard the music it was so loud I'm sure this hotel can hear us singing and anything that is growing Church growth needs that because it confronts it celebrate salvation loud music celebrates salvation we are crating our Salvation it confronts legalism that's right it confronts self-righteousness it confronts unforgiveness it confronts wickedness it opposes it and celebrates the

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=nITMWZFCx_g"
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/soul-winning-and-evangelism", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 all appear are you ready why don't you give us a shout oh come on it is a monkey August Ella corner Nina crew to LA to LA any corner whoa for summer equal to me this together come on Lucilla - hi Amy oh he threw me there you see my Mossad Oh he's dead whoever cries we're with why porcupine you lift up your buddy stairs Hey are you ready are you ready are you ready hallelujah near co2 Mesa coffee near kusu Kisa lucidity mamela mamela mamela whoa-oh-oh what belissa easy for luckily we're here to miss

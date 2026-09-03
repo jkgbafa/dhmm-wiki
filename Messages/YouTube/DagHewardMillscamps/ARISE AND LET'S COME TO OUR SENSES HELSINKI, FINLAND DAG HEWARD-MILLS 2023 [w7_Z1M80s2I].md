@@ -8,6 +8,8 @@ year: 2023
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Father, thank you for your great bénédiction in Jesus' name of Jesus. You may be seated. Right. Arise and shine. Amen.

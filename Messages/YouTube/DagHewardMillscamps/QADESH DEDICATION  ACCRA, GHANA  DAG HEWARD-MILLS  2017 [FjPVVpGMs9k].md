@@ -8,6 +8,8 @@ year: 2017
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hold on a minute I beg your pardon please lift up your offering and let us pray over it I beg your pardon please please lift up that offering and let us pray father we pray thanking you for an opportunity to give to support this marvelous work Lord we swow this seed in good ground our faith is strong in what we do and we know God that we will be blessed because we supported in Jesus mighty name we pray amen ases please take the offering as we receive the Mas thank you so much he loves to

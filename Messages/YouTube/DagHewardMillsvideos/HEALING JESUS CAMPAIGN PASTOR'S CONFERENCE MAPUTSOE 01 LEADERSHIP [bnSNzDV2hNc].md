@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=bnSNzDV2hNc"
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 now that I know there's only one God in all of the your Holly and I want you to know I love you so I want it's to serve you if I live my life again I'll choose you to turn my life around you gave me so I serve you for the rest of my day Oh my lord and my god Oh Oh you set me free and so I serve you for the rest of my day let's take a walk together when I save your Jesus hand-in-hand he and I let's cherish every moment Jesus gives

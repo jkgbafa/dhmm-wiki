@@ -8,6 +8,8 @@ year: 2003
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Hallelujah kryptos man lost contact with God now what's the greatest evidence that the main man was the spirit man are you still here are you are you alive are you okay everything okay you all right what's the main evidence that the H the main man was the spirit man fellowship with God in the Garden of Eden is that not so man was talking with God and our going to heaven will be directly related to how much we are able to restore that relationship okay that is why people will come and work for God and say

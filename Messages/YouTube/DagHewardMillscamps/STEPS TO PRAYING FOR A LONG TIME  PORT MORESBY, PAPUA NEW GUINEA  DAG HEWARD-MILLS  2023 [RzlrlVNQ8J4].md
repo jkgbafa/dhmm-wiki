@@ -8,6 +8,8 @@ year: 2023
 duration_min: 18
 source: "autocaption"
 match: "exact"
+topics: ["Fasting", "Prayer"]
+tags: ["topic/fasting", "topic/prayer"]
 ---
 
 steps to praying for a long time number one the first step to praying for a long time number one is accept that prayer is that is less than 1 hour is not it's not significant it's not significant for a minister it's not what signicant it's not significant it's not I mean what you expect amen accept the fact that prayer that is less than one hour why because in Matthew chapter 26: 40 Jesus said could you not watch with me for one hour amen for how long 1 hour ah 1 hour here you can't pray for

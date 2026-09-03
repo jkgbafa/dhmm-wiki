@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zbB6DotmESI"
 duration_min: 39
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 hallelujah tell me to look 18 please last week was Father's Day so we interrupted our series on prayer or pebbles of Prayer but we are continuing today and we want to we want to continue and land some more amen are you glad to be in church great Luke 18 I their two men went up to pray with 10 to the temple to pray the one a Pharisee in the other a publican and the Pharisee stood and prayed that with himself god I thank thee that I am not as other men are extortionist unjust adulterers or

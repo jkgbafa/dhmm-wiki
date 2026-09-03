@@ -8,6 +8,8 @@ year: 2000
 duration_min: 178
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 now sacrificing to God all right now so I'm going to share with you 20 things every Shepherd Pastor Christian should know about sacrifice all right are you there sir are you still around yes the first thing that you must know about sacrifice or making sacrifice is you have to sacrifice as a minister or a Shepherd or a pastor because there is nothing like a convenient Ministry there is nothing like a convenient Ministry there is nothing convenient in and about the ministry amen did you get that there is nothing about the ministry that is convenient it's

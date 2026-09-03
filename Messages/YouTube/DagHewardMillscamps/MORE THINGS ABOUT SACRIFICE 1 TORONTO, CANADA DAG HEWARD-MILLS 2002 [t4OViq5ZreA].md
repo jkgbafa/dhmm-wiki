@@ -9,6 +9,8 @@ duration_min: 30
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MORE THINGS ABOUT SACRIFICE 1  TORONTO, CANADA DAG HEWARD-MILLS  2002 [t4OViq5ZreA]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Welcome to track number twelve of the mega church. Tired, you still have to go. When you are tired, don't you go to work? Hallelujah. Hallelujah.

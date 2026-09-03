@@ -8,6 +8,8 @@ year: 2013
 duration_min: 45
 source: "autocaption"
 match: "exact"
+topics: ["Missions", "Missions/The Nations", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/missions", "topic/missions/the-nations", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Isaiah chapter 2 Lord now you see God is now saying good things and it shall come to pass in the last days that the mountain of the Lord's house shall be established in the top of the mountains and shall be exalted above the hills and All Nations shall flow unto it amen can you relate with that how many can relate with that I told you how to understand it isn't it it shall come to pass in the last days that the mountain of the Lord's House in other words the church will be established in the

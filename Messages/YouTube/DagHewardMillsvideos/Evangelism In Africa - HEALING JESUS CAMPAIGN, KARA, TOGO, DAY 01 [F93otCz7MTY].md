@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=F93otCz7MTY"
 duration_min: 131
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 wow to Jesus' plans hallelujah hallelujah hallelujah 17 special gold colors every one until when not in my soft recluse efe so on the web 7 no one of room others are by the date that's why Mike select wherever it is usually said if she is very well hello gomes wow then makes a dead Louise Finer Place or is served w well here supporting Aouate on him yes yes yes sorry no no the distance this what is yes the city lift 2 and well free yes and what a person yes life and is talk ah 2

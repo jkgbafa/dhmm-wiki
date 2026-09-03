@@ -8,6 +8,8 @@ year: 2024
 duration_min: 131
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 And tonight I have the pleasure of inviting you to minister in songs Lord senaa hands ras for Jesus wonderful love wonderful love Jesus died Sing With Me take my sins on that Cross Jesus if your blood gave victory all my life I lift you up wonderful love wonderful love Jesus died my sinner on that you that right Lord your blood gave victory me in life I will serve you life for the Lord Oh it's true I love you I love you my sins you suffered for me and died for me as you are on earth

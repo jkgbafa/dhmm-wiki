@@ -4,6 +4,8 @@ book: "Those Who Are Proud"
 book_number: "002"
 chapter_number: 9
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 ## Chapter 7

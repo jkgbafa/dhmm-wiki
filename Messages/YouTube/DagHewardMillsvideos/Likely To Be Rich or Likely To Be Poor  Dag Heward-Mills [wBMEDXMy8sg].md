@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wBMEDXMy8sg"
 duration_min: 287
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah when we remember what the lord has done for us how many people remember what the lord has done for you has god been good to you if god has been good to you raise your hand and say god has been good to me oh i cannot hear your response if god has truly been good to you then raise your hand and say god has been good to me if god has been good to you i need you to raise your hand and confidently say god has been good to me amen and finally we want

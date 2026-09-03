@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MAnU6frx7Rs"
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 Oh oh really to lay down a lot you will no matter what is wrong when I'm singing for the deaf man can hear about salvation I saw and I'm singing for the blind man who see the light Indian come along so therefore Jesus that would matter and when all the houses grovel mine is to live with Jesus that you see the light in me and comes along every time - may be tempted to turn off the spiri role we travel long and ever times you may say Jesus can't you find another man to do your

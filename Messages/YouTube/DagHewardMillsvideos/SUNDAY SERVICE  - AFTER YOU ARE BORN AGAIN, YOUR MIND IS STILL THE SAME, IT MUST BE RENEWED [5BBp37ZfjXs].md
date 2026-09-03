@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=5BBp37ZfjXs"
 duration_min: 29
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 we praise you for what you have done in our lives we ask for law that you would open our heart and our spirits that we may be pleasing to you and do your will as we listen to your web this morning we pray for humility and direction and the spirit of Revelation and wisdom in Jesus name Amen let's continue with our series on seven great principles what's the first principle man is the spirit he has a soul and he lives in a body number two spirit of an unsaved man is dead and what desperately wicked

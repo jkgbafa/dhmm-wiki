@@ -9,6 +9,8 @@ duration_min: 96
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/DECIDE TO BE A GOOD LEADER  GTWC BLANTYRE  DAG HEWARD-MILLS  2025 [p8SxA8FxiXM]]]"
+topics: ["Leadership", "Leadership/Art of Leadership", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 You may be seated. Now I want us to get into what it means to be a leader. So the art of leadership. Number one. Everything depends on the leadership.

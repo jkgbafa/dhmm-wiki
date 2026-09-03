@@ -8,6 +8,8 @@ year: 2013
 duration_min: 45
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 love the powers of the internal Spirit internal Powers Number One Love number two Joy number three develop patience which was part of the love so it means that it's doubly important it's mentioned in the main menu and it's mentioned in the submenu as well so it means that it is very important it it comes in the main menu and then the sub men as well you can't escape patience be patient you're going to have all that look to eat to drink to be blessed you have it take it from me whether you are a pastor

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=DtjEPuyDYTQ"
 duration_min: 106
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I provide my brain to stop it I provide our greatest up isn't for me for me for me according through three bridges a glory he will give his angels charge over PA over Tara care for me for me for me for my darica my god ha ha ha a commensurate winner representing Oh Adam only 33 dead he won't even discuss about our narrative for me for me to go just apply or M&E existing nor do I give it a go it's a start over by Derek and 400-meter every holiday October the open era to hope

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tu3l5/"
 duration_min: 52
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 There is no shadow for returning with me. He changes not his compassion they fail as he has been, he will forever be morning by morning. He gives you mercy morning by morning. New blessings we see. Great is his faithfulness to you and to prodigal Father.

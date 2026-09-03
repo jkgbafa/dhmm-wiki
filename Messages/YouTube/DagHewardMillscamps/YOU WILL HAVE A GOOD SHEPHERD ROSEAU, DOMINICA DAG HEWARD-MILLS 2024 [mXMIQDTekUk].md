@@ -8,6 +8,8 @@ year: 2024
 duration_min: 58
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 The songs are fantastic. Because the song, the song says everything you don't know how to say, but it is being said in the song. Yes. Amazing. Now, number two.

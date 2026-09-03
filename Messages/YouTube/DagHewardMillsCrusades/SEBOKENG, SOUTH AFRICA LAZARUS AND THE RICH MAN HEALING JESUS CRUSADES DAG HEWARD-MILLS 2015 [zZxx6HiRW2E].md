@@ -9,6 +9,8 @@ duration_min: 125
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/SEBOKENG, SOUTH AFRICA  LAZARUS AND THE RICH MAN  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2015 [zZxx6HiRW2E]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Wherever you are tonight, take out an offering. Hoshemo in degman to shake unneh. Wherever you are tonight. Hosh a molin tensiban. Look into your back, look into your pockets, take out an offer.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=f-_Nr5XgYKI"
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Yeah so lift up your hands everybody sing with me yes if it's so if it's so yesou toali acquaint so life so lifiaquois come on I say I'm I'm body lumbar yes to me pall me palla to me palla to me palla oh to me palla to me palla tuami palla tuami come si tuami pala me pallet tuani pala ni pala tu me pallet to me pala toami pala to ami pala we lani are you ready kids are you ready are you ready so bully palamopusushi are you yeah yesushi na papata ou fini oufani um

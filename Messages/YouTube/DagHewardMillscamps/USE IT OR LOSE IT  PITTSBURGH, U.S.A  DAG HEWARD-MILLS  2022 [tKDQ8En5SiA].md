@@ -8,6 +8,8 @@ year: 2022
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 I want everybody to um really listen carefully at this Camp because I believe God is going to speak to you Matthew 25 let's just start let's start Matthew 25 for the Kingdom of Heaven is as a man traveling into a far country who called his own servants and delivered unto them his Goods you know the story don't you he gave one five talents he gave one 10 Talent tents or five talents two talents one talent and then the Bible says he that had received two gained two and the one who received one di in the

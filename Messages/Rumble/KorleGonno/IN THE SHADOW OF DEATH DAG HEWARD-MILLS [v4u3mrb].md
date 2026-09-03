@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u3mrb/"
 duration_min: 57
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Yes, Lord, yes, Lord, yes, Lord. Yes, Lord, yes, Lord. Yes, yes, Lord. Shout amen. Should amen.

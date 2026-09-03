@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GNKbiva1Mmw"
 duration_min: 149
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 yeah ah ah Oh nobody keep going away nobody to finally but I can ever touch my chance tonight Oh who are you hi Oh Oh Oh Oh Oh ah Oh No II well yeah my muscle recorded so hard rapping Sukhoi City so hope Cece pursue my thoughts on it you know when you're my must walk hi Justin Ahmad little Emma sort you put me in feel alone when you're coming here today yeah I wasn't and Oh don't haha I the last guys sanitizer see straw Wow wow what a nice boobs - Oh boots again I

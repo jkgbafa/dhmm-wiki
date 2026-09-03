@@ -8,6 +8,8 @@ year: 2009
 duration_min: 170
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 The Bible says that for what can separate us from the love of God. Paul the Apostles said that I am fully persuaded that neither death nor life nor angels, no principality for power. If you believe in the love of God, if you believe in the love of God, Hallelujah, somebody you hold my hand. So I want to pray back to I really love you. I believe you I really love you.

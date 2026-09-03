@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hGXm87LBdxU"
 duration_min: 214
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 now 2 Corinthians chapter 4 verse 1 craftiness it says but we have denounced the hidden things of dishonesty not walking in craftiness nor handling the word of God deceitfully but by manifestations of the truth amen commending ourselves to Every Man's conscience Amen in the sight of God amen amen right now notice here the Bible is telling us that in verse one Paul said he said we have re he said in verse one as we have received since we have received this Mercy this ministry as we have received Mercy we do not lose heart okay or

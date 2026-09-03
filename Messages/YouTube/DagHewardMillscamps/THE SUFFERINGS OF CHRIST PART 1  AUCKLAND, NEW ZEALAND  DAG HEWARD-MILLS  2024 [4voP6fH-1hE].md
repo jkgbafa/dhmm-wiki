@@ -8,6 +8,8 @@ year: 2024
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Prayer"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/prayer"]
 ---
 
 now Jesus accomplished many sufferings amen amen and he endured Temptations so let's look at all the I want to just quickly run through different sufferings that Jesus experienced including and not the least the suffering of prayer amen number one Temptation and it's an accomplishment he says what I accomplished I want you to have the word accomplishment in your mind remember that scripture that I've accomplished in the sufferings of Christ Luke 18 I am going to jerus Jalem so that all Luke 18:31 that all the things written will be accomplished accomplished and then John 19:28 the

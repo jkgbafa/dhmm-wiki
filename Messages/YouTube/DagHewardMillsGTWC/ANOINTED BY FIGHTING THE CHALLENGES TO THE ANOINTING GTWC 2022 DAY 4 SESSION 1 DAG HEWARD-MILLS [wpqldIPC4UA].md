@@ -8,6 +8,8 @@ year: 2022
 duration_min: 176
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/anointing", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 And I believe I believe that there is enough for us to be grateful to God. Just pray. Let's pray personally, personal time of prayer. We thank you, Lord. Merci Seigneur.

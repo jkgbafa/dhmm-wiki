@@ -8,6 +8,8 @@ year: 2000
 duration_min: 68
 source: "whisper"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 Father, we give you thanks for this morning. You are worthy of our praise. We your people gather in this place and say thank you. May your name be honored and exalted. In Jesus' name, Amen.

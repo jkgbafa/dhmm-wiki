@@ -8,6 +8,8 @@ year: 2005
 duration_min: 55
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 thank God for this wonderful morning what he has done how he has blessed us has forgiven us has given us life he's given us another day Lord we thank you we praise you we honor you Jesus gathering us together giving us an opportunity to be in your house thank you for salvation for delivering for your health Lord we thank you we honor you we praise you thank you Lord we will serve you in Jesus name Amen you may be seated hallelujah I want to wish you all a Merry Christmas amen and I wish you all

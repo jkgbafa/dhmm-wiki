@@ -8,6 +8,8 @@ year: 2010
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 And your beauty I surrender to your holiness and your love I surrender for you are an awesome God who is mighty you deserve mighty perspective with honor my heart and all of my life I surrender to your majesty and your beauty I surrender and to your loveliness and your love I surrender for you are no son God who is mighty you deserve mighty best with all of my heart all of my life I surrender so telling you I surrender I surrender I surrender oh for you have a Lord Some God who is mighty you deserve mighty perspective with all of my heart and all of my life I surrender for you are Lord Son God who is mighty you deserve mighty desperate with all of my heart of my life I surrender so with all of my heart of my life I surrender I surrender I surrender let us pray Father thank you for the blessed opportunity thank you that we can come before you today to be a blessing we love you we ask you to guide us by your holy spirit in Jesus' name Amen you may be seated in the presence of the Lord turn with me to John chapter fourteen avec moi oh chapitre John catorce yesterday you received one of these books under C Liv You still have it we've toujours very good there's a special discount for all books.

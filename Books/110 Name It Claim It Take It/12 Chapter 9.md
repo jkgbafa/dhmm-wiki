@@ -4,6 +4,8 @@ book: "Name It Claim It Take It"
 book_number: "110"
 chapter_number: 12
 type: book
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 Chapter 9\

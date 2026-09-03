@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=MrJJjop7IRg"
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 Heavenly Father thank you for today bye-bye Wow oh I do pelo one for me thank you for your word I do my part on you and your Holy Spirit I tell mini-mall ye who is guiding us and you don't power leading us and it's own daddy you want to all choose three new boo boo doo doo Oh God Oh a lone wolf that's your power I just got by in rain your Jabba in our life you know I thank you lord I do follow lure in the name of Jesus new record issues and everyone shouts

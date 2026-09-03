@@ -8,6 +8,8 @@ year: 2018
 duration_min: 220
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/faith", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 so now I want to give you the master secret that is going to make you give me some volume up here that is going to make you become the person that you are hearing about the servant of the Lord amen amen what is the master key faith faith yes it's Hebrews chapter 4 and verse 2 can we have it on the screen Hebrews 4:2 are these people here for unto us was the Gospel preached as well as unto them but it was not mixed with faith is that not so yes it was not mixed with

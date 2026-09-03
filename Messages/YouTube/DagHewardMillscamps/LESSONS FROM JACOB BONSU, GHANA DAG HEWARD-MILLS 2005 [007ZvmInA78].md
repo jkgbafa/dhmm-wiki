@@ -9,6 +9,8 @@ duration_min: 121
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/LESSONS FROM JACOB  BONSU, GHANA  DAG HEWARD-MILLS  2005 [007ZvmInA78]]]"
+topics: ["Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number two of Buffalization. All right. Now, Mega Church Two. We are continuing. Do you have time?

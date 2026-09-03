@@ -8,6 +8,8 @@ year: 2010
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Missions", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/missions", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 1 Samuel 15: 17- 21 and I'm reading from the American Bible and samel said is it not true though you were little in your own eyes that you were made the head of the tribes of Israel and the Lord anointed you to be king over Israel are you there and the Lord sent you on a mission circulate that word Mission and the Lord sent you on a mission amen and said go and utterly destroy the Sinners the amalekites and fight against them until they are exterminated why then did you not obey the voice of the

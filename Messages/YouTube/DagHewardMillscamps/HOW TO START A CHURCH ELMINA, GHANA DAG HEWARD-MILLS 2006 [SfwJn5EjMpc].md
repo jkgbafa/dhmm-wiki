@@ -9,6 +9,8 @@ duration_min: 132
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/HOW TO START A CHURCH  ELMINA, GHANA  DAG HEWARD-MILLS  2006 [SfwJn5EjMpc]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 Now a church, when we say count the cost, all right, it means that there is a cost to a church existing. If you are to count the cost, then you must pay the price. And the point that I'm trying to make is that the church work we are doing has a price. Francis come. Stand here.

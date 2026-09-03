@@ -3,6 +3,8 @@ title: "CHAPTER 29  THE SWEET INFLUENCES OF THE HOLY SPIRIT ON YOUR BECOMING A P
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit"]
 ---
 
 the sweet influence of the Holy Spirit on your pastoral destiny. Your pastoral destiny. Now when the Holy Spirit is working in your life. Are you there? Don't be surprised when you become a pastor because it's one of the great influences of the spirit to make you a pastor. Turn to Acts chapter 28. Chapter 20 verse 26. Acts 20 verse 26. Wherefore I take you to record this day that I am pure from the blood of all men. Have you found it? Acts 20 26. The influence of the Holy Spirit on your pastoral destiny. Destiny. Destiny.

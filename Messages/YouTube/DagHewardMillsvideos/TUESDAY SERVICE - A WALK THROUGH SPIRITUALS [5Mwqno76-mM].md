@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=5Mwqno76-mM"
 duration_min: 38
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 thank you for the opportunity that we have lo to receive your holy word father we ask that as we humble ourselves before your word your spirit you will speak to us let your will be done we thank you for your great blessing today in the name of Jesus Christ we pray Lord that your power and your spirit will affect us we thank you just lift up your hands right now and ask the Lord to fill you in the spirit as a lot to speak to you today is will should be done in your life father

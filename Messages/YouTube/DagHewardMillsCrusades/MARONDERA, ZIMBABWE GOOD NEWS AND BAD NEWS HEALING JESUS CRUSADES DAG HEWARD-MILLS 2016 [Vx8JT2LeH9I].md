@@ -9,6 +9,8 @@ duration_min: 82
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MARONDERA, ZIMBABWE  GOOD NEWS AND BAD NEWS  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2016 [Vx8JT2LeH9I]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Why don't you lift up your two hands like that? And put your hands together for Jesus Dina Jesus Dine José Give a shame Disney Jesus Dina Jesus Dina José I can go shakufu Dina Jesus Dina Jesus Dina Jose Oh Jesus I got go to that Jesuit Jesu Jesus Dina Jesus Dina Jesus I got go shot at usually well so I got shaken for us Dina Jesus Dina Jesus Oh Jesus I got Gosh Jesus I got Gosh Jesus Bonas soon Dimbo Jesus Hallelujah Do you believe we are winners Lift up your two hands if you believe we are winners Give Jesus away now when I say Musita Jesus respond Jesus Jesus the louder your response the blessings are more sita Jesus do like that which you die so that's all Clap your hands for Jesus.

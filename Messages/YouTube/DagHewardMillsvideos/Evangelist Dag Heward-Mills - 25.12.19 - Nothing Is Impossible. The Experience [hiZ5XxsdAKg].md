@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hiZ5XxsdAKg"
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 and fell down I will heeey amen welcome to our Christmas service wish Oliva Merry Christmas amen please take out an offer and I believe today you're gonna give the Lord your best offering because today's Jesus's birthday and you're gonna give him a very good offering this morning so take out a good offering this morning and lift up your offering high above your head as we pray don't take five-city Jesus you can't give somebody a better presence of 5 gonna City take a good offering 50 Ghana cedi hundred Ghana cedi taken 500 city notes and lifts

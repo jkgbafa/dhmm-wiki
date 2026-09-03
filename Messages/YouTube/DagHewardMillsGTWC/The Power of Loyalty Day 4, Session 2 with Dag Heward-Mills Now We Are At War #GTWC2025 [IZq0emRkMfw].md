@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=IZq0emRkMfw"
 duration_min: 146
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Spiritual Warfare", "Spiritual Warfare/Demonology", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Father, we are grateful in Jesus' name. Amen. Please be seated. We have another short session now. And I want us to look at a book called Why Loyalty.

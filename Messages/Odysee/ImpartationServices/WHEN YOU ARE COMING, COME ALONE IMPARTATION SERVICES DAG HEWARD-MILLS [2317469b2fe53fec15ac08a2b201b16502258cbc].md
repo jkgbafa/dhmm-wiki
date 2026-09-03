@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/when-you-are-comin
 duration_min: 63
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 I just want you to listen very carefully. You need to listen to the tapes because it goes for a long time sometimes. You have to listen to it and then put it down for some time and one day take it up again. And then you'll be surprised at what the Lord will tell you. Amen.

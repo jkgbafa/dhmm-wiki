@@ -9,6 +9,8 @@ duration_min: 136
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/ARISE AND SHINE  MAMPONG, GHANA  DAG HEWARD-MILLS  2016 [S_RzClWA7RA]]]"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Welcome to track number eight of the plus petit deviendra millier. Mais je suis heureux qu'il est fait. Mais je suis heureux. Mais je suis fait. Very nice.

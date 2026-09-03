@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Mm92rANDNsA"
 duration_min: 146
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 that I can't to say his dreams is it me those two they'll be home things it's about to the there's no hallelujah let us pray father thanks a million for this opportunity guide us by a mighty holy spirit to do your will thanks Jesus for your blessing in Jesus name Amen you may be seated hallelujah it's a blessing to be here are you glad to be here this is a beautiful church amen today I want to share with you about what I call the key of knowledge turn with me to Luke 11 verse 52 the

@@ -9,6 +9,8 @@ duration_min: 44
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/WHY GOD HAS CALLED YOU  SYDNEY , AUSTRALIA DAG HEWARD-MILLS  2004 [_y_QKBq5PwA]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Welcome to track number eight of bariness and fruitfulness. Father cross and I'm forever to you to care to seek and say the Lord I'm forever and I'm forever to you ever for the road of Calvary and forever to you that you can seek and say the Lord and forever pray and forever and forever and forever pray to you came you came to seek and say the Lord Oh and forever for the ground of Calvary and for every let you came to seek and Lord Father we thank you for your blessing in Jesus' name Amen all

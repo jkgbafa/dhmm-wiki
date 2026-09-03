@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=T96urDNe3_E"
 duration_min: 102
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 put your hands together for cheetah put your hands together for jean your help to get up a jean hallelujah put your help together hallelujah amen amen amen amen lift up your hands to the Lord and thank him for his power here tonight thank you for his glory here tonight thank you for his present here tonight thank you for what wonderful thing he has done in our life thank you for what great thing he will do in our life thank him for his blessings to you tonight thank you that she was not going away from this

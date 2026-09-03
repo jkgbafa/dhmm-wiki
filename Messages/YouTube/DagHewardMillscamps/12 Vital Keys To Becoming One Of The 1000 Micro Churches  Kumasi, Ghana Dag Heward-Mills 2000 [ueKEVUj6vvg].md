@@ -8,6 +8,8 @@ year: 2000
 duration_min: 148
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 are you feeling tired all right if you are feeling tired how many are feeling fresh oh then it's an all night when you are tired tell me I pray before you say it uh I gave you um how many reasons why you must you can become a church you can become a church huh nine what is the reason number one pardon oh Jesus referred to himself as a seed is that not so who was about to personally dissolve in the earth number two the second example two nations in a womb is that not so they

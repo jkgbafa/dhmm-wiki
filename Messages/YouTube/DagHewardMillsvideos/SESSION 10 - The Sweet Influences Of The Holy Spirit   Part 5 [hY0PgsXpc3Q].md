@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hY0PgsXpc3Q"
 duration_min: 101
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Baptism of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/baptism-of-the-spirit"]
 ---
 
 most people are lovely what a shock did you know that you how many know that most people are godless that's why you don't disagree fence John 4:7 says beloved let us love one another for love is of God love is of God and he that loveth is born of God and knoweth God Hey and I will agree that most people are got left so if they are got less than they are loved less what a bomba what a bomba I said what a bomba so you see now most of us are disappointed about the loom

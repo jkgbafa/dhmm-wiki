@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=lZzYOODB2Wo"
 duration_min: 250
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 let us begin to bless the name of the Lord right now wherever you are tell the Lord that he is good and his mercies endure it forever bless the name of the Lord lift up His holy name and bless him this evening we are not going to allow any Rock any stone or any angel tonight we are gonna bless the Lord with all that is within us we are lifting of His holy name and we are blessing him we are remembering all his benefits the Bible says that I will enter into his gates with Thanksgiving

@@ -9,6 +9,8 @@ duration_min: 49
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/AGREE ON THE WAY WISDOM STATEMENT PT 6  ACCRA, GHANA  DAG HEWARD-MILLS  2003 [iZg2HBFuq54]]]"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Welcome to fact number seven of the green on the way. I said, Look, let me be careful with this beast. And some people, you see that it's like, oh no, nothing. I mean, it almost beat me last time, but I mean, I survived, you know. Okay.

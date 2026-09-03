@@ -8,6 +8,8 @@ year: 2025
 duration_min: 12
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Kinds and Waves of the Anointing"]
+tags: ["topic/anointing", "topic/anointing/kinds-and-waves-of-the-anointing"]
 ---
 
 Amen. Now, finally, the anointing of Rebecca, the anointing of Rebecca, and then we are going to take a break. Yes. And Genesis 24 verse number 60. And they blessed Rebecca. You see, a blessing can make you. When she got married, there was no child, but a blessing had been spoken over her. And the blessing will prevail over and against everything that concerns your life. Blessing. Amen. Amen. You must coveret blessings and you must do things that bring blessings. Yes. The Bible says in Genesis 20, they blessed Rebecca and said unto her, "Thou art our sister.

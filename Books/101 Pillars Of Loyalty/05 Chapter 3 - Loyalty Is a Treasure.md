@@ -4,6 +4,8 @@ book: "Pillars Of Loyalty"
 book_number: "101"
 chapter_number: 5
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 ### Chapter 3\

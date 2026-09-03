@@ -8,6 +8,8 @@ year: 2013
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer"]
 ---
 
 Bless the Lord. Beni le Seigneur. Bless the Lord. Bene the Seigneur. Bless the Lord.

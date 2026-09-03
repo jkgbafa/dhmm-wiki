@@ -8,6 +8,8 @@ year: 2010
 duration_min: 65
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 from Austria his father is from Ghana I've gone horse riding with him I've played with him I bath with him I've slept the same house you come to my house all my friends were F when God called me welcome to track number 18 of the privilege be angry if I wash his feet with my tears and try them with my my head because you went the night Jesus found me you did not feel what I felt when he wed his loving arms around me and you don't know the cause of the high oh you don't

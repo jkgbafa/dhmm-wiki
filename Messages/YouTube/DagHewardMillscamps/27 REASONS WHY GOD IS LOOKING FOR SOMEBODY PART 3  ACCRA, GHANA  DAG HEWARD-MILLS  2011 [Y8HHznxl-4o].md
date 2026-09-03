@@ -8,6 +8,8 @@ year: 2011
 duration_min: 149
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 and on the side of their oppressors was power but they had no one to comfort them wow there are people that are are being oppressed by the devil and God is looking for somebody to deliver the oppressed amen amen is it fantastic how many know that people are oppressed by the devil God is looking for somebody to D deliver the oppressed we are going to take a break in a few minutes so that you'll be revived amen how many need to be revived wow now what is oppression what is oppression oppression of the devil you

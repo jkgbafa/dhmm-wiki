@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=WQ-8kRVK558"
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Hallelujah we have testimonies amen how many of you are becoming wiser as you hear the testimonies I want us to welcome kobby Nelson to give us his testimony welcome kby Nelson as he comes to give us his testimony amen my name is kin from upsa Level 300 uh it all started 20th September 2014 when Bishop came to our hostel prestig hostel uh we were in the night club yeah we were a night club that day and we came out of the club and we realized there was a canal of stars so I was telling my

@@ -4,6 +4,8 @@ book: "Enlargement Secrets"
 book_number: "075"
 chapter_number: 15
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wisdom"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wisdom"]
 ---
 
 ### CHAPTER 14\

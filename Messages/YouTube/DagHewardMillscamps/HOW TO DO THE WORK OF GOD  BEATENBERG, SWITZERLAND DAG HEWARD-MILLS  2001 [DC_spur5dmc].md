@@ -8,6 +8,8 @@ year: 2001
 duration_min: 43
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 welcome to track number 11 of victory in pegamos now the next thing that we want to talk about is how to do the work of God amen amen how to do the work of God how how many want to know how to do the work of the Lord you want to know how to do the work of the Lord very good now turn with me to Ephesians chapter 4 the first is that you must know the reality that the ministry is work amen you must know the reality that the ministry is work so how to

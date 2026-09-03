@@ -8,6 +8,8 @@ year: 2023
 duration_min: 46
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 th sayth the Lord consider your ways W yeah go up to the mountain and bring the wood and build the house of God I will take pleasure I'll be glorified in it this is my will for you oh child I will build my house Upon This Rock the Gates of Hell shall not Prevail against it oh yes I will give you the key of the kingom of heaven and what you B on Earth is bound in heaven but will you build my church WIll you build my house will you be like nemiah will you build

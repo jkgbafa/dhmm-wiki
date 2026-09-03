@@ -8,6 +8,8 @@ year: 2001
 duration_min: 32
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to track number five of the message of sacrifice. And unless they are prepared to sacrifice, they must. Jesus said he began to tell them how he must sacrifice. He must be killed. He must suffer.

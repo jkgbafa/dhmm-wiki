@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u7ndr/"
 duration_min: 42
 source: "whisper"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 I am sharing with you about the art of hearing. Amen. I want to recommend the book to you, The Art of Hearing. Tell somebody you got to have a copy of that book. Amen.

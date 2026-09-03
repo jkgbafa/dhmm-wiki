@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u2mrb/"
 duration_min: 61
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Father, thank you for this morning for an opportunity to receive your word. We pray, Lord, for humility, for guidance, for openness of your spirit to your spirit, Lord, and we thank you in Jesus' name for your blessings on our life. In Jesus' name, Amen. You may be seated. I have been sharing with you in this first month of the year about a few things that I believe we need to have in our lives for the year.

@@ -4,6 +4,8 @@ book: "Be Faithful Unto Death"
 book_number: "076"
 chapter_number: 4
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 ### CHAPTER 2\

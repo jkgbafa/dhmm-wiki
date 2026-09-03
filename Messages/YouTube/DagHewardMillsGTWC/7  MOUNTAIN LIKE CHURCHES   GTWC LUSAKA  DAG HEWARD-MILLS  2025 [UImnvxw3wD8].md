@@ -8,6 +8,8 @@ year: 2025
 duration_min: 27
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Now turn with me into double mega missionary church and let me prophesy these prophecies over you. Number one, 25 prophecies over your life and your ministry. Number one, there shall be I've given you 25 prophecies, but I will not give you all the 25. I'll just give you some. There's going to be mountainlike churches. Everybody say mountainlike. Mountain. Mountainike churches. Wow. Isaiah chapter 2:2. Isaiah chapter 2:2. This is a prophecy. All these are prophecy. And it shall come to pass in the last days that the mountain of the Lord's house. So the church of God

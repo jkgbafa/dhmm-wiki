@@ -8,6 +8,8 @@ year: 2023
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 chapter 5 chapter 5. say the business of war is to take new territories number one to take things by force and to defend yourself that's it on the screen the principle the principle consists yes the business of wealth is to take new territories amen amen consists you must understand why we are talking about War uh take new territories yes we now to take new territories Deuteronomy chapter 2 rise rise up take your journey and pass over the river Anon behold I have given into thine hand see on the Amorite king of Hesston and his land

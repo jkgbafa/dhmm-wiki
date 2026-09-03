@@ -8,6 +8,8 @@ year: 2014
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 do not love the world my brother and do not love the many things that are within the world all that's in the world my brother the lust of the ice the lust of the Flesh and the pride of life the lust of the eyes the lust of the flesh the pride of life they are thought of God do not love the world my brother and do not love the many things that are within the world oh that's in the world my brother the lust of the eyes the lust of the flesh the pride of life

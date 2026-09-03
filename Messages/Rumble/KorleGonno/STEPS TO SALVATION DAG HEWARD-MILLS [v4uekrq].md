@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uekrq/"
 duration_min: 58
 source: "whisper"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 I was seeking far from the place who shows very difficult seeking to rise no more sea mighty cry from the water he lifted me now say for my love lifted me lifted me when no one but Christ could help love lifted me God lifted me his love when nothing else could have been so in danger to come on Jesus completely He will lift you by His hand out of the empty way He's the master of the sea and feels his will over He your Savior wants to be He says come right now Love lifted your

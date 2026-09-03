@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=0x9fi5F3B4Q"
 duration_min: 84
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Salvation", "Salvation/The New Birth", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/salvation", "topic/salvation/the-new-birth", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Lift up your hands, I say I'm t'appoloid me, yeah, so if so, if so, living stone yeah, yeah, so if you're not gonna less. F your one citi la mute ne bani sha F your want it to love Natama Sumbo and Molessa F your Mita I know Tene Muten F your Montit la contamin Nami Sumbo Yahweh Yahweh Yahweh Yahweh Fiona Fuka Indi Sosa Ni moi Yesuan Yeso Moi Taboe Oh L'Sha F your Montila Gana Lol Sha F your Montila Nakontama Ifiso Dimaga Oh Damina Ni Wa Dimai N'Tamina Ni Moua Weka Hallelujah Clap your Hands for Jesus Jesus Meals Me So Him Wick Jesus Loves me.

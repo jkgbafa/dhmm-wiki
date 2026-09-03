@@ -8,6 +8,8 @@ year: 2017
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 Hallelujah father thank you for the blessing of this moment we are grateful in the name of Jesus Amen please be seated shake your neighbor and ask your neighbor if he's awake what did they say now Isaiah 40 is Comfort ye Comfort ye my people sayth your God speak comfortably to Jerusalem and cry unto her that her Warfare is accomplished hallelujah hallelujah her Warfare is it servitude yes is that a translation of warfare how how does it say war in French no no it's G so how do you say Warfare a Comba Comba or G that's

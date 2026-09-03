@@ -4,6 +4,8 @@ book: "Read Your Bible Pray Everyday If You Want To Grow"
 book_number: "115"
 chapter_number: 7
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 CHAPTER 6\

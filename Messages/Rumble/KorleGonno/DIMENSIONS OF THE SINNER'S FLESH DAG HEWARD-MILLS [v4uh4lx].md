@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uh4lx/"
 duration_min: 74
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Salvation", "Salvation/The New Birth", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/salvation", "topic/salvation/the-new-birth", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel"]
 ---
 
 Praise him Jesus bless us worthy to praise him praise him let us praise him Jesus let us say he's worthy to be all just praise Jesus praise us praise him just singing our praise the worthy of a praise Jesus from the right going down the same genuine worthy You as a worthy Lord Oh I just want to say well let's praise them now just praise them praise us Don't just sit down just lift up your hands and praise them Oh he's worthy He's a worthy of our praise us I say just have it now just have it Jesus Jesus Jesus come to say thank you so worthy Oh Jesus Jesus He's a rock He's a hope you're strong deliverer Deliver Hallelujah Come on just praise Him Don't be tired just praise Him Oh let us worthy of praise Jesus Jesus Jesus God is a rock is the hope of There's no one else There is no one else Oh he does come on let us praise them now Oh let us praise them Just think his praise us Oh with a joyful heart Just praise them Oh Jesus Jesus Let us save you Oh his way He is worth his Hallelujah.

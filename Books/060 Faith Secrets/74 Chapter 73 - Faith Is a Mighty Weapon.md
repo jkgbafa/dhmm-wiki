@@ -4,6 +4,8 @@ book: "Faith Secrets"
 book_number: "060"
 chapter_number: 74
 type: book
+topics: ["Faith", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/faith", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 ### Chapter 73\

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=fuQhJCzvmK8"
 duration_min: 9
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 foreign mission Esther 4 14. who knows whether you have come to the kingdom for such a Time as he said if thou all together Hold Us thy peace then enlargement and deliverance shall arise to the Jews from another place but that one thy father's house shall be destroyed amen wow girly missions what an amazing thing a mission where only a girl can do that mission are you ready to do a mission only a girl can do somebody's wondering what kind of mission can a girl do huh there is a way in which a girl can

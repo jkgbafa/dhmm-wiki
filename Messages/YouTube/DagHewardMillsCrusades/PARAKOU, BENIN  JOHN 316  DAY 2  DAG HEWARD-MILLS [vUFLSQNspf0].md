@@ -8,6 +8,8 @@ duration_min: 152
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/PARAKOU, BENIN JOHN 316 DAY 2 DAG HEWARD-MILLS [vUFLSQNspf0]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 all this the to that all the the oh delous all the oh on your name me good of of Cru for hallelujah oh in upon this come your way to follow me open a full Gat in abundance come your way to follow me B bow bow oh by by oh oh by byow oh B bow oh Clap Your Hands for Jesus tonight Clap Your Hands for Jesus tonight C please be seated I see some people standing where people are seated kindly find a place God is going to touch our lives in the Mighty way tonight

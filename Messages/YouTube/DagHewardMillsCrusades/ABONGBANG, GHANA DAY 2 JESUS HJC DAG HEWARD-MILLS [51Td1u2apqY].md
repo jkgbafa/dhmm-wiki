@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=51Td1u2apqY"
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Lève ta main gauche si toi la joie lève ta main droite acclame pour Jésus Acclame, acclamé, acclamé, cria pour Jésus, qu'on a crié, tu as besoin du sauveur, tu as besoin du sauveur, tu as besoin du salut, son nom est plus fort, son âme est tu as besoin du sauveur, son nom est Jésus, tu as besoin du salut chanter, ça dépend de toi, si tu meurs aujourd'hui, où est-ce que tu irais? Il y a du ciel où en enfer Jésus ta paix dans ton Seigneur ta paix, plus fort, plus fort, ne le rejette pas, reçois Jésus, la Bible nous dit, si tu reçois Jésus, tu seras sauvé.

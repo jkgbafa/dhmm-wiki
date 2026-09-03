@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JPUGTFeQjOQ"
 duration_min: 124
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wisdom"]
 ---
 
 he saved you he saved me he saved us for all time what about other thank you he saved me what are we doing do you believe in dreams the holy spirit Street thousands of men running down the street they didn't know that the road was believed to a deep and deadly cliff and into the lake of fire Oh saved you he saved me you say before all time what about others oh it saved you it saved me yeah what are we doing multitude Marta to multitude now waiting in the body of this nation they are

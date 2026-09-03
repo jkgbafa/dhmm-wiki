@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=FBVIzgenDcE"
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 Amen Christlikeness especially in the area of loyalty and disloyalty amen so I'm not showing from this book a new book on loyalty leaders and loyalty now the first I want to show you 11 qualities that if you can imbibe assimilate accept a dog imbibe receive and be immersed into you will become powerfully significant I mean II realize that if you are like Christ will be significant number one Jesus Christ - number one become a person who openly acknowledges his father amen John chapter five verse 18 it says therefore the Jews sought to kill him because

@@ -8,6 +8,8 @@ year: 2024
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 and as you keep clapping let's receive the to bless us with the song are you there you must scam turn to your neighbor say neighbor neighor neighbor neigh you get everything everything and you not get Jesus Jes you don't get F you not get friend not clap for Jesus If I gain all things in this whole world and I Jesus I've lost everything if I have Jesus you die you die you die you die you die if I have Jesus I am everything sing it for stand up stand up stand up Praise Jesus If I

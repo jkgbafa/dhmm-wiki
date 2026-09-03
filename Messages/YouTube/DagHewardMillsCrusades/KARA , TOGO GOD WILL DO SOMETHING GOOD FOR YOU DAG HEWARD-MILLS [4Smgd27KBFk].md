@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4Smgd27KBFk"
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah. Clap your hands for Jesus tonight. Are you excited tonight, Cara? Est-ce que vous êtes excité ce soir, Carol? Are you excited tonight?

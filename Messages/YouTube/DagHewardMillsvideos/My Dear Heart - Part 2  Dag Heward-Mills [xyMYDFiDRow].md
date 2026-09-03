@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xyMYDFiDRow"
 duration_min: 241
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you make me lie down in great passes you make me wanting for nothing you feel my Hunger with honey from your sweet sweet heart you let me worship before you so I will love you are my Lord let's all say you make me lie down you are myself you make me lie down yourself bless you are my Lord foreign you make me all my Jesus said you are my shepherd so I know when it is Jesus make me a servant Lord make me a servant for you know you work Bow Down oh Lord you're working

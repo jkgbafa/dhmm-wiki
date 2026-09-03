@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=t9i3Zn0iaU0"
 duration_min: 163
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 mazi dancers or minds and by their waters all that for Brazilian are a supervising a young couple named to put myself as air water Nelson iota or Brazil now Russell Oh oh yeah Oh pleasure pleasure subscriber yet man oh yeah me too all know vocalizing from typo yeah paunchy yeah when you wanna compare awesome that is animal Brea all munis oh no no badger Oh Oprah Pony mystery from pop off and now watching polyresin Hama Hama war Omaha Omaha ha ha ha all available available monoi monoi buffer awesome my buffers till I know he can

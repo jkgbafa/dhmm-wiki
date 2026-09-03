@@ -8,6 +8,8 @@ year: 2018
 duration_min: 168
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 your heart must bless the name of the Lord your tongue must bless the name of the Lord even your stomach must bless the name of the Lord why because it is God who sustains all these things inside You When God says your kidneys will not wear they also not wear when God says your heart will not wear your heart can't work so let force your intestines and force your eyes force your tongue force your everything to thank him verse two bless the Lord oh my soul it's a sign that your soul really does not thank

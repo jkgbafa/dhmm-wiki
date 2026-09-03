@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=0OVlK1w4NwQ"
 duration_min: 200
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 without wasting much time we have a very special administration are you ready don't either top are you ready then let's well count that oh yeah nothing beyo okay we your first love children want you to notice that you make us happy you are are making sure the Bible says now we I think what are the children of so when the Bible talks about Isis important we watch things he went forward he - he became very clean and the Phyllis eyes envied him of this now we we are Isaac war that sells that of promise you

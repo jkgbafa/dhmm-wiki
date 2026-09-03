@@ -8,6 +8,8 @@ year: 2024
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 now I want to ask again right how you can follow this light that's the main thing amen are you ready to follow this light oh yes now how are we going to be able to follow this light number one I'm coming to the house house house house amen beautiful now the main how is found in 1 Corinthians 14:10 amen let's read it there are it may be so many kinds of voices in the world and none of them wow one none of them is without signification there are there are how many voices so many voices

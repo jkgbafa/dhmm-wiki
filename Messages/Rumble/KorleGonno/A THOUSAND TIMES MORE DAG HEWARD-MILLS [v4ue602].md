@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ue602/"
 duration_min: 47
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 Heavenly Father, thank you so much for this wonderful morning you have given us together. Lord, as we approach your word, we pray for humility, we pray for wisdom. We pray that you open our eyes and our hearts. Thank you for another resurrection Sunday morning where we can serve you, we can love you, we can sing and worship you. Give us the right heart at this time.

@@ -8,6 +8,8 @@ year: 2014
 duration_min: 183
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Loyalty and Disloyalty", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/loyalty-and-disloyalty", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Six principles of disloyalty. Number one, a loyal person exposes wrongdoers. First Corinthians chapter 5 and verse 1. Hallelujah. Now, when you are loyal to somebody, you tend to expose what is going on to the person you are loyal to.

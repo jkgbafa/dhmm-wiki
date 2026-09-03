@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tveY8SB2UHI"
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Deliverance", "The Holy Spirit"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/the-holy-spirit"]
 ---
 
 what I thank God for today today literally we are appreciating the gifts of words own tiny bits of aq1 mills please put your hands together for work on and we are singing this song and we are dedicating it to you are now a dance today beside the crystal of me we heard the angel singing someone call Johnny turning saw this man smiling you are running he mentioned your name he said mrs. aleck I know you don't know me now but just wait you came into my secondary school it was 988 that day you made unrolled

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 166
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Hallelujah. Wow. Lift lift your hands. Jesus. Thank you for your presence, your blessings for our lives tonight. Thank you for building your church. Thank you that there's no one like you, Jesus. Thank you for touching every life tonight. Thank you for taking us to the next level. Thank you for anointing us. Thank you for telling us to attempt great things for you. We worship you, Jesus. And we praise you, Jesus. We give you thanks. Have mercy on us, Lord. Thank you for blessing our lives with your wonderful presence and the wonderful association, Lord, that we

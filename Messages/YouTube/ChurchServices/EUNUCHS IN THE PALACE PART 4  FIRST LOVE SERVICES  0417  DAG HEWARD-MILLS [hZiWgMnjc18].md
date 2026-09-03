@@ -8,6 +8,8 @@ duration_min: 164
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/EUNUCHS IN THE PALACE PART 4 FIRST LOVE SERVICES 0417 DAG HEWARD-MILLS [hZiWgMnjc18]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 welcome your neighbor tell your neighbor it's good to see you on a Sunday morning the best place to be on a Sunday morning is love amen how many of you know that today is a great day and we're going to have an encounter with the Lord and if you're excited about that help me to welcome the dancing stars I've been through ups and downs I've been through pain and years then I heard the voice of God he has me the way I'm never turning back I be Lord is my he has never filed me he

@@ -8,6 +8,8 @@ year: 2013
 duration_min: 123
 source: "whisper"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Trust in the Lord with all your heart and in our tongue your own understanding in all your ways and knowledge him and he shall die and he shall die trust in the Lord and all your heart oh lead our heart your own understanding know your ways and come with him oh yes he shall direct and he shall direct your life oh he will not allow the food to be moved and he that gives you will start the Lord is near unto all and despite him to all that power upon him in too trust in the

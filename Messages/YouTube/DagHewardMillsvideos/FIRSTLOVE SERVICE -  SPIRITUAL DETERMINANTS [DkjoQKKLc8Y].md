@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=DkjoQKKLc8Y"
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 how can I be forgiven Oh or I know I break your heart but you promise not to start all over and all the things that done take them each and every one until the series a forget bonus you placed all of my z4 and the water keep reminding you over and over again I'll forget bonus and far from the way and you keep laugh-in me placing my spear yes never feel again they have all been washed away you must and he instilled a see up again your unfailing love it comforts me and oh my you

@@ -8,6 +8,8 @@ year: 2004
 duration_min: 46
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 welcome to track number nine of barness and fruitfulness it is too small too little and I told you about John isn't it number two is what you see that God wants to cheat US of a good life isn't it the good life you would have had if you hadn't served him he wants to cheat you from fornication he wants to stop you from happiness he wants to take love and all those things about you and make you only sacrifice huh it's not a bad way of think thinking about God a very bad way of thinking

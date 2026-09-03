@@ -8,6 +8,8 @@ year: 2019
 duration_min: 186
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 for the next 20 seconds I want you to invite the Holy Spirit into our mid everybody literally say Holy Spirit Come Holy Spirit Come Holy Spirit Come Hallelujah Jesus your name is is power Jesus your name is mine Jesus your name will break Jesus your name will break every stronghold Jesus your name Jesus your name let's S one more time Jesus your name is power come on chur sing Jesus your name is now tell him that Jesus your name is might Jesus your name is m Jesus your name will break Jesus your name will break

@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2017
 source: "autocaption"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 Isaiah 3:4 in the New Living Translation, it says, "Then he will appoint children to rule over them, and anarchy will prevail." Now, those of you who have children, you realize that your children's rooms are very confused. Is it not true? If you have a child, when there are children, there's a lot of mess, a lot of confusion, a lot of debt because children play and there's confusion, debt, disorganization everywhere. So in countries where their leaders are children, you see confusion, debt, disorganization, everything is confused. Is it not true? So leadership of a child is characterized

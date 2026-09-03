@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/K0DXPpXFJ2Cf/"
 duration_min: 37
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 John 14 verse number 4. I am the way, the truth, and the life. John 14, verse number 4. It says, and you know the way. Oh, let's read from verse 1.

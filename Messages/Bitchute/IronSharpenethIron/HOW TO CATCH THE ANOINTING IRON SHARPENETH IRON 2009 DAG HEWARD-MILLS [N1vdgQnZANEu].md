@@ -8,6 +8,8 @@ year: 2009
 duration_min: 57
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing"]
 ---
 
 You may be seated. Hello. Hello. Now do you catch this anointing? Amen.

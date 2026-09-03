@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=a_U4B4bemrg"
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/salvation", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 this is my first time coming here first at ready at 20 they sent out the Voyager Expedition from America in 1977 and then a year later they were they got to Saturn and they took pictures and this Voyager aircraft is still moving and they put in it videos of e so that anyone who finds it to see that we are here and we we we we are here you know I'm going to make you make gifts and sacrifices to God I will encourage you to I will encourage you to fast I will encourage you to

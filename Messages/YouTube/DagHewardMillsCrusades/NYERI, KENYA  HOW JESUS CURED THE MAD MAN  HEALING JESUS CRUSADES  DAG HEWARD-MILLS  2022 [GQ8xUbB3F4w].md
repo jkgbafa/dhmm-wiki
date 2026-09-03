@@ -8,6 +8,8 @@ year: 2022
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 dark and you think the sun won't shine in case you don't know see the word of God is true and everything Jesus promised he will do it for you that's why I say Jesus is the answer for the world today and I above and there no other Jesus is the way Jesus Is The Answer yeah for the world today and above him there's no other Jesus is the way he's the truth and the life Jesus is the way he's the first and the last Jesus is the way he's the only way Jesus is the way

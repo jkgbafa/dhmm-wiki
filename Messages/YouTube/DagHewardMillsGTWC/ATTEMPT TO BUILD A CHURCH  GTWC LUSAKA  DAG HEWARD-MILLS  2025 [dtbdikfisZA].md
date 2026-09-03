@@ -8,6 +8,8 @@ year: 2025
 duration_min: 38
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 I AM. YES. YES. YES, LORD. YES, LORD. YES, LORD. YES, LORD. YES. YES, LORD. YES, LORD. Thank you, LORD. THANK YOU, JESUS. Thank you, Lord. Thank you, Jesus. Thank you, Lord. Thank you, Lord. Thank you Lord. Please be seated. Thank you Jesus. Listen the key you see the most important thing is for you to catch the vision. If God gives you a vision like this guy, I tell you, suddenly because he was getting the vision of a thousand church, suddenly he had to have more life. Suddenly he had to be about allowed to live longer

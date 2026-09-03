@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ctYI7JDYbC4"
 duration_min: 42
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 Hi everybody, I wanna talk to you. I wanna tell you what I've been going through. I think I have a problem. And you may have it too. There's a guy who's chasing.

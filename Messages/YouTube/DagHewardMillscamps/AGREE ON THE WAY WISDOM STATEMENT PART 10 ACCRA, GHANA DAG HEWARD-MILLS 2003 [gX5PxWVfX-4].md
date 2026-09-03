@@ -9,6 +9,8 @@ duration_min: 72
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/AGREE ON THE WAY WISDOM STATEMENT PART 10  ACCRA, GHANA  DAG HEWARD-MILLS  2003 [gX5PxWVfX-4]]]"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Welcome to track number ten of the green on the way. Some of you are going to learn how to speak Spanish, Portuguese. Some of you are going to go to African nations. Some of you are going to go to districts, villages, towns. I tell you, God is going to use you greatly.

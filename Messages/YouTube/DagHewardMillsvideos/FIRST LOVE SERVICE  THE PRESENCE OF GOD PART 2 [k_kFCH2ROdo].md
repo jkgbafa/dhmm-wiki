@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=k_kFCH2ROdo"
 duration_min: 148
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah I believe that this morning as you listen to the testimonies God is making you wiser please help me welcome Michael Moore the testimony puts on sket we welcome Michael Moore my testimony is about how God has healed me of a broken heart and delivered me from a certain spirit of unforgiveness and prisoners I was I mean taking over my heart last year I remember the DEM by experience a very painful and disappointment and for a long time I was really struggling to forgive I mean it got to a point I could even talk with

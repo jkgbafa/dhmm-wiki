@@ -8,6 +8,8 @@ year: 2003
 duration_min: 77
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 welcome to track number five of a greet on the way higher wisdom amen am you want more wisdom how many feel that God is making you very wise he's giving you wisdom Hallelujah we are going on a long journey our journey ends in chapter 12 and we are only on chapter you see the notes are the what is in the Bible you get it oh you don't understand what I'm saying it's written all right what has been written there's nothing new to be written apart from what is already written okay chapter three to everything there

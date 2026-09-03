@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ue7iu/"
 duration_min: 85
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Salvation/Repentance"]
+tags: ["topic/salvation", "topic/salvation/repentance"]
 ---
 
 Thank you, Jesus. Thank you, Jesus. Never see. Never will come to an end. Every morning.

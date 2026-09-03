@@ -4,6 +4,8 @@ book: "Wisdom Is The Principal Thing For Your Ministry"
 book_number: "070"
 chapter_number: 17
 type: book
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wisdom"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wisdom"]
 ---
 
 ### CHAPTER 16\

@@ -8,6 +8,8 @@ year: 2024
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 of Trustees let your hand clap be louder as we welcome Vivaldi to bless us with a song you there morovia you there put your hand up put your hand up shout for Jesus oh put your hands together when I when I think of what you've done for me I have joy I have Jo lift up your hands my come on to sing louder what you done for me I will I will worship you lift up let go that way let go that way oh my Lord wait on my heart I worship you Redeemer in time

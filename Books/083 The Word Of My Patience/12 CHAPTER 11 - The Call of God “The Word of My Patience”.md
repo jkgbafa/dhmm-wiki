@@ -4,6 +4,8 @@ book: "The Word Of My Patience"
 book_number: "083"
 chapter_number: 12
 type: book
+topics: ["The Call of God"]
+tags: ["topic/the-call-of-god"]
 ---
 
 ### CHAPTER 11\

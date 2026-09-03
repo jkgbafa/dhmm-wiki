@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/EJ43UOS7gjUD/"
 duration_min: 57
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Lift your hands and thank God for Easter Sunday, resurrection Sunday. Father, thank you for what a blessing it is for us to come to your presence, Lord. We give you praise, we give you glory. We give you praise, we give you glory. Thank you for another opportunity to be in your presence in your house.

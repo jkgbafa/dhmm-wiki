@@ -9,6 +9,8 @@ duration_min: 48
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/GATES AND ROADS  MARYLAND, USA DAG HEWARD-MILLS  2003 [djbW8P0oyJk]]]"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 Well that's number one. Okay. For those of us who are here, how many were not here? Okay. Right.

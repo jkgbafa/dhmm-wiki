@@ -9,6 +9,8 @@ duration_min: 100
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/BULAWAYO, ZIMBABWE ABUNDANT LIFE HEALING JESUS CRUSADES DAG HEWARD-MILLS 2016 [-Q17d4MOpbM]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah why don't you sing with me come on come on he give Jesus a shout hallelujah up your right hand and come on said hallelujah hallelujah give Jesus a shout hallelujah hallelujah amuah are you here are are you here yeah are you here are you here are you yeah are you here hallelujah but listen J good to me J J give Jesus a shout why don't you sing with me lift up your right hand and give Jesus a shout P everybody Jesus are you here Jesus are you sure you are here Jesus are you sure

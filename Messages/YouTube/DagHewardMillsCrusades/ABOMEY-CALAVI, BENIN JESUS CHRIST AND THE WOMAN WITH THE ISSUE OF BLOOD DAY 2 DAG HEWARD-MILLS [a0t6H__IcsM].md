@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=a0t6H__IcsM"
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Tu l'as maquillé pour Jésus qui est fort, qui est fort, qui est Alléluia, si je possède tous les biens du monde, et je pète Jésus, j'aurais tout perdu, si j'ai Jésus, j'ai toute chose, il a mon pierre, le plus précieux, et je parle Jésus, je perds Dieu, si je Jésus, j'ai toute chose, il est mon bien le plus précieux. Écoutez-moi, si j'abonse tout le bien du monde, et je peux Jésus, je le perds Dieu, si je Jésus, j'ai toutes choses, il est mon bien le plus, si j'ai Jésus, si j'ai Jésus, si j'ai Jésus, j'ai toute chose, oh Jésus, mon roi, Jésus, il est mon bien le plus précieux.

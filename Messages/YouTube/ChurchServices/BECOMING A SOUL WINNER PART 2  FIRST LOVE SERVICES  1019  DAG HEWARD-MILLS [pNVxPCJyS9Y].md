@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=pNVxPCJyS9Y"
 duration_min: 219
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/The New Birth", "Soul Winning and Evangelism", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/the-new-birth", "topic/soul-winning-and-evangelism", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hosana come on Worship the Lord hosana in the highest hosana in the highest hosan hosana in the highest Ohana in the highest let our King let our King be hosan come on let's help his name he hosana hosana come on in the highest in the high let our King let our King be be lifted higher come on lift his name higher higher higher Jesus you be lifted High Jesus you be lifted higher high higher higher Jesus you believe lifted High Jesus you be lifted higher high higher higher Jesus you'll be lifted higher Jesus you be

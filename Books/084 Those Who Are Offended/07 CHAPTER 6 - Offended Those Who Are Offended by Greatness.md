@@ -4,6 +4,8 @@ book: "Those Who Are Offended"
 book_number: "084"
 chapter_number: 7
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ### CHAPTER 6\

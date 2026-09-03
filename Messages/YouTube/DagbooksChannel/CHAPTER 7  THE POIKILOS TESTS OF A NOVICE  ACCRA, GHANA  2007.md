@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2007
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 We want to look at Pyulo's testings. What are the different kinds of tests that you should expect? So, as we go through all these different types of tests, you're going to be well prepared. Amen. Amen. to to meet them because you know that there are all different things that are in the Bible about the way God deals with his servants. Amen. Amen. Are you there? Yeah. Okay. Now um second Corinthians the first test is precious and we are going through this when we finish the camp I mean as far as I'm my section will be

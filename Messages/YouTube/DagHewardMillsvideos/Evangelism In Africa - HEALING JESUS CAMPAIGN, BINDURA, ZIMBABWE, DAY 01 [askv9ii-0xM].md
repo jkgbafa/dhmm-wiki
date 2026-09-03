@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=askv9ii-0xM"
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 tonight on the first night of our healing Jesus campaign Mallory Mallory epic Tonga Quillin Jesus copy it gives me great joy to welcome the chairman of the board of trustees of the healing Jesus campaign here in Bindra you clap your hands and let's welcome our chairman to bring us openly remember Nora hallelujah hallelujah thank you a bishop noted official hallelujah oh I cannot hear you hallelujah hallelujah we want to do some salutations and to welcome our visitors this horrible karna you know Kagame teera vice versa let me honor the Minister of State for provincial affairs

@@ -9,6 +9,8 @@ duration_min: 64
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/APOCALYPSE SEVEN (REVELATIONS 17)  ZÜRICH, SWITZERLAND  DAG HEWARD-MILLS  2006 [GFXV_dJIchY]]]"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Welcome to fact number seven of Apocalypse. Apocalypse number 17. Oh, thank you, Jesus. Tolestes. Now, this apocalypse that is coming.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=x85U8eD7XjY"
 duration_min: 115
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 I'm on my way ah the I'm a and owner don't you walk home anymore my momma if I did me like he's I'm you know it'll make more right before me and I will Oh in mikuma mikuma yeah with all hey my water what does the Nami more now me away my water what does concern me more Tommy our bodies baba Yaga this is my way Oh hey yeah yeah Oh Oh let us pray Heavenly Father which art in heaven hallowed be thy name we thank you for what you are doing and have been doing

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=y_68MeKB3Is"
 duration_min: 47
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Heavenly Father we thank you for your blessing thank you for bringing us together today to share your Holy Word we are asking that you guide us and lead us into all of your truth and all of your word we thank you father in Jesus name Amen all right god bless you may be seated I want you to turn with me to Luke chapter 14 verse 25 and though and there went great I'm preaching today about sacrificing for Jesus Christ amen suffering for Christ all right are you ready to suffer for Christ amen Luke chapter 14

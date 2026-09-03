@@ -8,6 +8,8 @@ year: 2013
 duration_min: 71
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 amen amen I want someone to open to Colossians 4:17 Colossians 4:17 you find it you read it what do we have there and say to Aus take heed to the ministry which thou Hast received in the Lord that thou fulfill it amen amen amen and uh we want to pray that God will continually show us amen amen because you see the ministry is a revelation Ministry is is a revelation a NeverEnding revelation God is always showing you aspects dimensions of the call you see you are a pastor you see that God is going to give

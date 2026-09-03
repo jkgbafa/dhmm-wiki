@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=0MyB4YHyJ-k"
 duration_min: 52
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 thank you great lesson that you stood upon us we are great leaders Holy Spirit we ask for your help on your way to marry such we thank you God in Jesus name Amen you may be seated Alleluia and you cast me in church this morning wonderful thank God for Easter Sunday Direction Sunday we celebrate the rising from the dead of Jesus Christ so this morning I want to share with you about how to overcome sin sin all right how would you like more have overcome death our seven steps to overcoming this by the time people

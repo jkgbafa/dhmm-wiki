@@ -9,6 +9,8 @@ duration_min: 22
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PASTOR WHAT IS YOUR LIFE   PREPARING FOR ETERNITY PT 2   MARYLAND, USA  DAG HEWARD-MILLS  2001 [g_96L5yN3o8]]]"
+topics: ["Heaven, Hell and Eternity"]
+tags: ["topic/heaven-hell-and-eternity"]
 ---
 
 Welcome to track number one of what is your life. So we won't end, we will never finish, but we will just start wherever we get to end. Amen. James chapter 4, verse 14. It says, whereas you know not what shall be on the morrow.

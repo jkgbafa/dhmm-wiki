@@ -8,6 +8,8 @@ year: 2017
 duration_min: 208
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 thank you Jesus thank you Jesus why don't we just begin to thank God for his mercies towards us for the grace that he has shown us to even be privileged to receive and to hear what we are hearing during these moments and days that we have been here thank you Jesus who is like you Lord in all the Earth much less love and Beauty andless World nothing in this world can satisfy cuz Jesus you're the Cal Jesus you're the Cal that won't run dry who is like you who is like you Lord in all the

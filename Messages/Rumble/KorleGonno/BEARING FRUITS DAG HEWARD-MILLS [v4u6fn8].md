@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u6fn8/"
 duration_min: 45
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Father, we thank you for an opportunity as we come before your word today, and we ask in Jesus' name that you bless us, bless us with your holy word, speak to our hearts. We don't want to be the same again, Lord. We want to grow in you in Jesus' name. Amen. You may be seated.

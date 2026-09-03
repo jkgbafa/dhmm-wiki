@@ -8,6 +8,8 @@ year: 2010
 duration_min: 149
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 I have made you too small in my eyes, O Lord, forgive me, and I have believed in the life that you were unable to help me, but now I see my wrong heal my heart and show yourself strong and in my heart and with my song O Lord be magnify too small in my eyes O Lord forgive me and I have believed in the life that you were able to help me but now I see my wrong heal my heart and show yourself strong and in my heart and with my song oh Lord be magnify be magnified be magnified oh Lord you are highly exalted and there is nothing you can do oh Lord my eyes are on you be magnified oh Lord be magnified I have lead on the wisdom of man oh Lord please forgive me and I have responded to them instead of your love and your mercy but now oh Lord I see my wrong keep my heart and show yourself strong and in my heart and with my song oh Lord be magnified be magnified so be magnified you are highly exalted and there is nothing you can do oh Lord my eyes are on you magnify you are highly exult and there is nothing that you can't do.

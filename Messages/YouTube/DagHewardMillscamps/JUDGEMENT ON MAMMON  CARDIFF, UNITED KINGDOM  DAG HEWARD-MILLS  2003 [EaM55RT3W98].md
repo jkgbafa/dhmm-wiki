@@ -8,6 +8,8 @@ year: 2003
 duration_min: 29
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 amen amen P Paul keep yourself from Idols you know these verses we think they don't apply to us little children keep yourselves from Idols do you have any Idols in your house does he have any Idols in the house no no you sure any Idols I'm not yeah not sure how many are not sure yeah if you have Idols in your house it will be good for you to leave the idols here at they Camp so that when you arrive in heaven they don't start to take an idol worshipers has come h four Idol worshipers

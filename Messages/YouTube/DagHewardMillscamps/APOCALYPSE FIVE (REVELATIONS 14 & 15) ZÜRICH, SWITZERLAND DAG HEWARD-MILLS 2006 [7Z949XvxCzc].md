@@ -9,6 +9,8 @@ duration_min: 55
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/APOCALYPSE FIVE (REVELATIONS 14 & 15)  ZÜRICH, SWITZERLAND  DAG HEWARD-MILLS  2006 [7Z949XvxCzc]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number five of Apocalypse. Chapter 14. Apocalyptic Revelations number 14. And I looked, and a lamb stood on the Mount Zion. And with him, hundred and forty-four thousand, having his father's name written in their four heads.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Ztq7m45JWtc"
 duration_min: 195
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 one day the woman of Zebedee the mother of James and John came to see Jesus I want my sons James and John to sit on your right hand and on your left but Jesus said are you able to drink of the cup that I shall drink are you able to be baptized with the baptism that I am baptized with oh man you don't know what you ask ran you don't don't know what you ask to take your cross and follow Jesus to the end War mind of zebede you know that I love your sons your

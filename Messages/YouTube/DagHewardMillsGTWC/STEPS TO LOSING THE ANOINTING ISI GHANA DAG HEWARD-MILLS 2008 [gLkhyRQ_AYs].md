@@ -8,6 +8,8 @@ year: 2008
 duration_min: 167
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 The joy of the Lord. All right. Father, we are truly grateful for your blessing. And we thank you for your grace that is with us tonight in Jesus' name. Amen.

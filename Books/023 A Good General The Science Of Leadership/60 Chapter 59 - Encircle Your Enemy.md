@@ -4,6 +4,8 @@ book: "A Good General The Science Of Leadership"
 book_number: "023"
 chapter_number: 60
 type: book
+topics: ["Leadership", "Leadership/Generals and History Makers", "Loyalty and Disloyalty"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers", "topic/loyalty-and-disloyalty"]
 ---
 
 ### Chapter 59\

@@ -8,6 +8,8 @@ year: 2005
 duration_min: 63
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/anointing", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 welcome to track number 12 of birthday Kwa the angel put his left leg where on the land or the sea the right leg and he swear by that what should be time no more we are still on the time issue you need to embrace the reality of time B Ben come when will be most appropriate for you to start your ministry your calling huh now what did he say say it again now Bishop what what is what is now now I'm ready now you are ready now yes you want to start your ministry now I

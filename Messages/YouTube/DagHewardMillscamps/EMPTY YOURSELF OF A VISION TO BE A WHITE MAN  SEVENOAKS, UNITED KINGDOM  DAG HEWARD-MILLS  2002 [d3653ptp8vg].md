@@ -8,6 +8,8 @@ year: 2002
 duration_min: 12
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 welcome to track number eight of all out the next Vision empty yourself of the vision to be a white man and to be like white people you cannot you will never it doesn't happen go to America look at Fred Price in his church how many white people are there look at Bishop I went to Bishop Blake's Church in Los Angeles big churches there's no white person in the church nobody if you in fact going to America that's when you see that they are different worlds it's all they say America but it's different groups completely a

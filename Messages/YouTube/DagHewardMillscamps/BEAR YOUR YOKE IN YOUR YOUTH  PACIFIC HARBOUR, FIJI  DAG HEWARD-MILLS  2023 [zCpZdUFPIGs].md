@@ -8,6 +8,8 @@ year: 2023
 duration_min: 51
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Hallelujah lift your hands lift your hands let's pray father thank you for tonight thank you for the opportunity that we have in you yes Lord thank you for blessing our Our Lives Lord with the opportunity to serve you to follow you Lord and to be your servants yes Lord we are not ashamed of the Gospel of Jesus Christ it is the power of God and to Salvation and we ask you for the Holy Spirit to fill us and lead us guide us thank you Lord for these few moments we have in Fiji yes Lord bless

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tatdo/"
 duration_min: 158
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Oh, yes, Lord. Let's say he cut on the Yaba. Oh, Libroma Sonimaia. Oh, yeah, little baby billy baby mini. Father.

@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/GQUDE0z7v2eZ/"
 duration_min: 107
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Yesterday a man said to me, he said, how can you smile when your world is crumbling down? And I said, Here's my secret when I want to cry. I take a look around, and I see God is standing by and I hold on. Change is coming, changes coming, hold on. Don't you worry about it then, just hold on, hold on.

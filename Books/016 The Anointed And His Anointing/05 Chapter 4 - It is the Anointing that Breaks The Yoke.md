@@ -4,6 +4,8 @@ book: "The Anointed And His Anointing"
 book_number: "016"
 chapter_number: 5
 type: book
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Chapter 4\

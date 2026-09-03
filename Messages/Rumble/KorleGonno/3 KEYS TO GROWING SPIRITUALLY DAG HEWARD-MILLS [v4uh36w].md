@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uh36w/"
 duration_min: 43
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 1 Peter chapter 2, and we want to look at the scripture there, 1 Peter chapter 2, and we want to look at the scripture there. It says, as newborn babies desire the sincere milk of the word that ye may grow thereby. I'm sure most of us have heard this scripture before. Is that not so? Alright.

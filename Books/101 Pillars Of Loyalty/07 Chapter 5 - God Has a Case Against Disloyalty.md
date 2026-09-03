@@ -4,6 +4,8 @@ book: "Pillars Of Loyalty"
 book_number: "101"
 chapter_number: 7
 type: book
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 ### Chapter 5\

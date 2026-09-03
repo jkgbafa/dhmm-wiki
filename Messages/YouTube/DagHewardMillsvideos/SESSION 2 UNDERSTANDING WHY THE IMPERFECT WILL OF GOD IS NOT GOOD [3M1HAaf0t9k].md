@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=3M1HAaf0t9k"
 duration_min: 153
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 you gave me me the time of day you look deep inside while the rest of the world looked away you smiled at me when there were just frowns every everywhere oh yeah you gave me when nobody gave me a bread Lord you gave me time no one gave me the time of day and you look deep inside when the rest of the world looked away you smiled at me there were just everywhere oh Lord but you gave me when nobody gave me a praise and that's why I call you Savior and that's why I Call

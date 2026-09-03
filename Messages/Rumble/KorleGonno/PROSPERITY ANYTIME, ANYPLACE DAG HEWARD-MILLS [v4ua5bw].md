@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ua5bw/"
 duration_min: 32
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Prosperity anytime, anywhere. It's a question and also a statement. In other words, can you prosper anywhere? And the other question is, can you prosper at any time? And this is what we want to study.

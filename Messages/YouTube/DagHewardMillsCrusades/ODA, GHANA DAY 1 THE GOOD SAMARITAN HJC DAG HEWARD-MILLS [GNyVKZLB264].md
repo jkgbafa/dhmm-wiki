@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GNyVKZLB264"
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Please be seated. We have Reverend Kumidodu, our chairman here to bring us away before. Thank you. Man of God. Evangelist Dark Hewed Mills.

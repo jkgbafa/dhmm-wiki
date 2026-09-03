@@ -9,6 +9,8 @@ duration_min: 92
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/REASONS WHY YOUR SOUL IS IMPORTANT PART 1 LE GOSIER, GUADELOUPE DAG HEWARD-MILLS 2024 [BVGNCkGR86o]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 let us pray father thank you for today and thank you for the great blessing we're excited to be here today and we pray that you touch every heart every life thank you for your Mighty blessing in Jesus name we pray appreciate you and everyone shouted amen amen God bless you you may be seated you may be seated wow I'm excited to be here in guadaloop all right it is a great blessing I've never been here before I'm blessed to be here amen amen hallelujah so I've heard the name guadaloop guadaloop guadaloop but today I am

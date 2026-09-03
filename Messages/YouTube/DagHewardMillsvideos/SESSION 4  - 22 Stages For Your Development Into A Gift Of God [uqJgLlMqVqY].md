@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=uqJgLlMqVqY"
 duration_min: 177
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Amen. Hallelujah. Amen. I'm Sister Michelle. I want to start by saying since I grew since I um I'm not old but since I grew I spent a lot of time working on my physical appearance. Shush. And when I used to come to church, I was observing people and during convention even if I'm touched by a message, I try to because I have to, you know, appear a certain way when Reverend preaches and in addition to what Bishop said, I saw myself like the prostitute who came to wash the feet of Jesus with her perfume. Why

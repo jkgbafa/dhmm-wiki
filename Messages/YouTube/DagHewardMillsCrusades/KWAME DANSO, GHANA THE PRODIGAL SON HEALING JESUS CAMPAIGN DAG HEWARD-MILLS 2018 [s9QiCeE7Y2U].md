@@ -8,6 +8,8 @@ year: 2018
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Tonight, we have the chairman of the Central Planning Committee to bring us a closer mask for this campaign. Let's clap our hands and welcome our chairman, the chairman of the Central Planning Committee. Amen. We are grateful that the program has come on. Six years ago, I came here as a minister of God.

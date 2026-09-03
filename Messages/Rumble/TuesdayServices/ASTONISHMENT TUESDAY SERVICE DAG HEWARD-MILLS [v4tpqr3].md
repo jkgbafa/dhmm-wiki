@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tpqr3/"
 duration_min: 68
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Today I'm preaching on the subject astonishment. Hallelujah. Now, Isaiah 63. I'm reading from the Bible, New American Bible. It says, Who is this?

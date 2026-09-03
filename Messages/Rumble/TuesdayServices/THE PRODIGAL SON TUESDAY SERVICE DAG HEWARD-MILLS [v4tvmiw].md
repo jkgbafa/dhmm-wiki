@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tvmiw/"
 duration_min: 78
 source: "whisper"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 Salvation is a subject. And I'm sharing from the story of the prodigal son. Story, the prodigal son's story is the story of salvation. Verse 11. It says, A certain man had two sons.

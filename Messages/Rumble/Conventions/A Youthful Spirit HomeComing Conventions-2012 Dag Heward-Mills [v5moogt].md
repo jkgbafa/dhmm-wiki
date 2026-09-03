@@ -8,6 +8,8 @@ year: 2012
 duration_min: 279
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 In life, I have you glory thing glory and be the angel say oh be my oh Jesus let me hear your voice to know that sweet sweet sight round so we glory I be the dream oh Jesus the Father He Oh Jesus I see you show them you are the comfort Oh Jesus Oh Jesus I see you cry Glory We cry Oh glory We sing our glory Oh we sing glory we cry glory Glory We sing Gory Thing Glory Just lift up your heart and say we sing glory to the Lord Be glory Just wave your hand and say glory Oh just sing glory glory Glory I say glory Glory to you thy Let him glory Glory Glory Glory We cry to Hallelujah Want to continue on the time of worship You know Bishop has been preaching about getting connected and coming together as a family being one Hallelujah I want to go to God and cry to him and say that He should make us one We should join our hands together so that we can be able to worship Him Hallelujah Amen There is a longing that only God can feel that state Hallelujah And it's only Him we can't do it ourselves.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jfRY2bZJ5eY"
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Welcome to track number 14 of spiritual battles. Now, the first battle is the battle not to fall into the same problems that others before you fell into when you are climbing towards the ministry. Now, when Elijah, Elisha heard that message, stay here. The first victory that he had was not to fall into his predecessors' problems. Exactly.

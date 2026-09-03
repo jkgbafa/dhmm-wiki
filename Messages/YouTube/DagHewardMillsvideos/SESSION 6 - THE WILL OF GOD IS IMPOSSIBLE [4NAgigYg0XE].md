@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4NAgigYg0XE"
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 louia father we thank you for your blessing this morning in Jesus name Amen you may be seated look 18 a cooler question in saying good teacher what shall I do to inherit eternal life and Jesus said to him why do you call me good no one is good except God alone amen and then he said you know the commandments do not commit adultery do not murder do not steal do not bear for with this honor your father and mother and he said all these things I have kept from my youth when Jesus had this he

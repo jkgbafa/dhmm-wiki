@@ -4,6 +4,8 @@ book: "Tasters And Partakers"
 book_number: "118"
 chapter_number: 3
 type: book
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring"]
 ---
 
 ### CHAPTER 2\

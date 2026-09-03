@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=v5b1aKZIpPs"
 duration_min: 59
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/ministry-and-pastoring", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Today I want to share with you about loyalty and disloyalty, and today I want to look at the book called "Those Who Accuse You." These are the people who damage churches, and they are found in all churches. Those who accuse—there is no work of the devil that does not include accusations. And we have those who forget, and that is why they become wicked. And we have those who are dangerous children. The Bible says, "Honor your father," so that you may live. A commandment that comes with blessings, but a curse, which comes with curses. There are

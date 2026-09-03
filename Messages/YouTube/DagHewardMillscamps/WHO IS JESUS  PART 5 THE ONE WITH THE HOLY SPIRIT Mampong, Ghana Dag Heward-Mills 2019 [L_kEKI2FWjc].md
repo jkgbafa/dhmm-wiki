@@ -8,6 +8,8 @@ year: 2019
 duration_min: 234
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you right be right there is no like Point your finger into the head and tell him that's not like you come on jump and sing it I got is greater our got is greater I got is stronger got he are higher than any other I got his healer awesome and power Our God our God is greater our God is greater our God is stronger God you are higher than any other our God is healer awesome aome Our God our God our God lift your hands to Jesus right now are you excited about what God is

@@ -8,6 +8,8 @@ year: 2023
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "The Holy Spirit"]
+tags: ["topic/anointing", "topic/the-holy-spirit"]
 ---
 
 Chapter 5. Chapter 5. The business of war is to take new territories. Number one, to take things by force and to defend yourself. That's it on the screen.

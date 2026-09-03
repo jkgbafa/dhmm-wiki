@@ -8,6 +8,8 @@ year: 2010
 duration_min: 174
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Catching the Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/catching-the-anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 So let me now begin to keep you some things you need to know about the anointing so that you can catch it. That's why I wrote this book called Catch the Anointing. Like how you catch a skin cobra, you can catch anointing. If you understand. Number one, the first thing that you need to understand.

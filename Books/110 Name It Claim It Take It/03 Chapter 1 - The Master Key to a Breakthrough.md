@@ -4,6 +4,8 @@ book: "Name It Claim It Take It"
 book_number: "110"
 chapter_number: 3
 type: book
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 ## Chapter 1

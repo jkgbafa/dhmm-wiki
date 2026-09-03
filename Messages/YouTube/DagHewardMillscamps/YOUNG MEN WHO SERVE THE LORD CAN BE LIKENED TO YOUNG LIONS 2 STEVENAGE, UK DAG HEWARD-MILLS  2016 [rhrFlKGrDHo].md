@@ -8,6 +8,8 @@ year: 2016
 duration_min: 102
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 too bad are you enjoying Ida's music wow all right you want to hear it again he promised he lied to all of us Mercy K was worse than James now I want to share with you the third and perhaps most important and a point about the power of your quiet time you see the quiet time is going to hips slam more like gradually bigger and stronger and the second thing is going to be light to your life amen amen and the third thing is going to be a mirror a Wonder mirror or a wonderful mirror

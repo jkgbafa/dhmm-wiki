@@ -8,6 +8,8 @@ year: 2017
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 and when Abraham heard that his brother was taken captive he armed his trained servants born in his house his own house 318 and pursued them unto Dan hey can you read it with me go uhhuh wow and he divided himself against them he and his servants by night and smoted them and pursued them andto hobah which is on the left hand of Damascus and he brought back all the goods and also brought again his brother lot and his goods and the women of also and the people and the king of Sodom went out to meet

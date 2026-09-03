@@ -8,6 +8,8 @@ year: 2009
 duration_min: 171
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 First of all, we want to greet greetings from India. That is Reverend Peter Insowa. Please let's welcome him. And from Canada, Reverend Patrick Mills. Please put it on the Reverend Patrick Mills.

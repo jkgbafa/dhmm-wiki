@@ -9,6 +9,8 @@ duration_min: 16
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PREACHING TEACHING AND PRAYERS    BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002 [qcfp_h97rQ0]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Welcome to track number four of life in the church. I enjoy it. After you so, what's the first step? Anyway, you do what? Huh?

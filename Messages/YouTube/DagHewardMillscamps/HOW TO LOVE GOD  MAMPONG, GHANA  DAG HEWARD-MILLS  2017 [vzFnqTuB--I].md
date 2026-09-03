@@ -8,6 +8,8 @@ year: 2017
 duration_min: 196
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Backsliding"]
+tags: ["topic/salvation", "topic/salvation/backsliding"]
 ---
 
 father thank you for your blessing your guiding of Our Lives by your Mighty Holy Spirit we are thankful Lord you are blessing healing touching changing we give you praise we give you thanks we give you glory in the mighty name of Jesus thank you Holy Spirit thank you Holy Spirit glorify Your Name Lord glorify your name glorify your name glorify your name thank you thank you in the mighty name of Jesus thank you Lord oh yes oh yes oh yes oh yes oh yes oh yes oh yes oh yes holy spirit of God holy spirit

@@ -8,6 +8,8 @@ year: 2019
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 I will live up your name. I won't live up your name. I won't have your day. I won't live up your name. You are one day.

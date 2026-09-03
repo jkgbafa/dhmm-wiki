@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=gPdzyVsHvvc"
 duration_min: 32
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 foreign hello my dear viewers ladies and gentlemen I'm so excited to be coming into your homes this precious day and I have good news for you it's all about the how I came to be anointed conference which used to be give thyself holy conference with Bishop Doug what Mills from the second to the 5th of August 2022 venue at anakazo campus today I have a very fine pastor a very wonderful man of God a man who has followed the prophet and has followed his ministry not in gaps but closely and the anointing has impacted his

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tqp4t/"
 duration_min: 60
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 Revelations 20. I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand, and he laid hold on the dragon, that old serpent, which is the devil and Satan, and bound him a thousand years, and cast him into the bottomless pit and shut him up and set a seal upon him that he should deceive the nations no more till the thousand years should be fulfilled, and after that, he must be loosed a little season. Now, we are on our theme of hell who is who in hell.

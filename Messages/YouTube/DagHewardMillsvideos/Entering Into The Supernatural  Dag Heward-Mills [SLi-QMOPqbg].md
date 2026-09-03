@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SLi-QMOPqbg"
 duration_min: 174
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Witchcraft and Jezebel", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/witchcraft-and-jezebel", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 now tonight I'm just sharing a little about the supernatural entering into the supernatural amen Point number one entering the supernatural is there are many things but I tonight is just a short Bible lesson and I just want to share with you a little about how to start having Supernatural forces to work in your life in a supernatural way what I mean by Supernatural forces what do I mean by Supernatural forces one of the supernatural forces is angels God uses angels to do many of his great works Psalm 34 7 says that the angel of the

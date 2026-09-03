@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_aLuxJWJcqg"
 duration_min: 91
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 You may be seated. And the sound is terrible. Now turn to Hebrews chapter 2 verse 3. And Hebrews chapter 2 and verse 3. Yes, brighten it more.

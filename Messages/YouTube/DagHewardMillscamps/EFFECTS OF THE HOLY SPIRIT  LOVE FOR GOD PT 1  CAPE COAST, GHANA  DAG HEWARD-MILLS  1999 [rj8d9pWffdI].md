@@ -8,6 +8,8 @@ year: 1999
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit"]
 ---
 
 welcome to track number seven of love and the mega church next one H what's the time what was that the next one the holy spirit makes you love God and makes you obey the call of God stand to your feet everybody we are still writing with your pens and everything I just want you to stretch makes you the holy spirit makes you love and love makes you obey the call of God amen amen John chapter 15 verse 9 as the father loved you so have I loved you continue ye in my love if you keep

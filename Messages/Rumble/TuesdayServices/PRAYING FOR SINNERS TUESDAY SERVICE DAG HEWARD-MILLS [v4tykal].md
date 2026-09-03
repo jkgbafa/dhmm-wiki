@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tykal/"
 duration_min: 97
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Hey everyone, how are you? It's Naomi Wolf of Daily Clout and Outspoken. Let me know in the comments if you can hear me fine. And if so, um, I'm just going to go ahead and launch right in to Geneva Bible, the 1560 Geneva Bible, the Founder's Bible, the Puritan's Bible, uh, the Bible of Thomas Jefferson, the Bible of Shakespeare. And I'm going to read Exodus 2021.

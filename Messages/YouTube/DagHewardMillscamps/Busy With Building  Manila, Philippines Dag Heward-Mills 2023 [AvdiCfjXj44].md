@@ -8,6 +8,8 @@ year: 2023
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 occupy till I come occup till I come till I come make yourselves busy visit till the day I come I'll be coming back soon when I come I'll ask Comm man many questions and you'll have to give account oh yes of how busy you made yourself how busy you made yourself busy with my word Jesus said a HT noble man took his journey to a far country to receive a kingom and he called his 10 servants W and he gave them 10 lbs yeah and he said unto them he gave them lots of word occupied

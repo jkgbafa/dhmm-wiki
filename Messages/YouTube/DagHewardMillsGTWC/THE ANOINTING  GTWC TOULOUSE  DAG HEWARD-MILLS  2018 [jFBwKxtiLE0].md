@@ -8,6 +8,8 @@ year: 2018
 duration_min: 124
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, thank you for the opportunity we have today. Thank you for the grace of receiving from you. Led by your mighty Holy Spirit in the name of Jesus, and let everyone shout amen. Can you sit down? This morning, I would like us to discuss anointing . What is anointing? important books on the anointing away and its anointing, catching the anointing, the steps that lead to the anointing, and the 12 influences of the anointing or the Holy Spirit. But today, I would like to share about far away and his anointing. Amen. So, what is anointing? Chapter

@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/qtpWaRuNJuVi/"
 duration_min: 106
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Jehovah Jira I provide his grace is sufficient for me for me for me Jehovah Chaira I provide his grace is sufficient singing like you mean it Jehovah Chirah Jaira my provider his grace is sufficient for me Jehovah Chirah my provider his grace is selfish one more time Jehovah Jirah Jehovah my provider his grace is salvation for me for me for me Jehovah Jira His grace is salvation My God shall supply my God shall supply according to his riches riches and glory he will give his angels shall over me Jehovah Jara for me for me for

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=y-p9xIjrUoA"
 duration_min: 145
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Put your hands together for Jesus. Somebody give the Lord a shot of praise. That is power is shouting. Give the Lord a shot and shout a shot. I go sing a battle.

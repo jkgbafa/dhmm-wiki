@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=rXaQ9u3LSmE"
 duration_min: 37
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 John 14 verse number four I am the way the truth and the life John 14 verse number four it says and you know the way well let's read from verse one do not let your heart be troubled believe in God believe also in me in my father's house are many dwelling places if it were not so I would have told you for I go to prepare a place for you and if I go and prepare a place for you I will come again and receive you to myself that where I am you may be also

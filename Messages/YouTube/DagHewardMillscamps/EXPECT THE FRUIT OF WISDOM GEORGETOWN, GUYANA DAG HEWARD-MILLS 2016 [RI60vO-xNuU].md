@@ -9,6 +9,8 @@ duration_min: 191
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EXPECT THE FRUIT OF WISDOM  GEORGETOWN, GUYANA DAG HEWARD-MILLS  2016 [RI60vO-xNuU]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 Welcome to check number six of expect great things. Well, the final session tonight. Are you excited? Come on, start your feet. Let's welcome the Father Bishop Baggy with me.

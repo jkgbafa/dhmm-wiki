@@ -9,6 +9,8 @@ duration_min: 44
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/STAGES OF DISLOYALTY; DELUSIONS AND DECEPTIONS 3  SYDNEY, AUSTRALIA DAG HEWARD-MILLS  2003 [i8DLKkhMuks]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Welcome to track number 11 of how to survive in Ephesus. He got a plan, he was taking it, and through so many people. Did you come to the church through who who brought you to church for the people? Pastor Kakra. Yeah, my wife's brother brought this one.

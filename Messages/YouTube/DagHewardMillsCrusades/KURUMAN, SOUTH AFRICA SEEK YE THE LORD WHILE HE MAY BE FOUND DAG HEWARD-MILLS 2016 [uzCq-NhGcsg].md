@@ -9,6 +9,8 @@ duration_min: 130
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/KURUMAN, SOUTH AFRICA  SEEK YE THE LORD WHILE HE MAY BE FOUND  DAG HEWARD-MILLS  2016 [uzCq-NhGcsg]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 God has blessed us greatly in Kuruman. And tonight on this final night. Our lives will not be the same again. Clap your hands for Jesus as we receive evangelists dark tonight. Hallelujah.

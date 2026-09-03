@@ -8,6 +8,8 @@ year: 2014
 duration_min: 46
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 number 10 we cannot end on nine church planting will deliver you from disloyalty yeah church planting will deliver you from disloyalty one of the things that starts disloyalty is criticism when you criticize you start to move into disloyalty you understand when you are not doing something it is easy to credit size but when you get into a particular position you start to realize what the person has done for instance building if you've never built before you will not value building the day you start a building project you will start to see that even to raise

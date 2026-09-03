@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2rz-FRlzikc"
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 Oh yeah me me whoa Oh Oh me you the Bible please put your hands together and let's appreciate this wonderful lady Jackie as pitaka merrily our attorney tonight is the first of five powerful nights allez au ania poppin in wah wah tomorrow to la barra of healing Jesus Caesarea in a day Oh sh sh t expedition ascetic kazuto person equally ocean related the power of God espero no the mercy of God and Wornall and the goodness of God a particular are present here what you wanna be and God is going to use a seven or

@@ -4,6 +4,8 @@ book: "Church Planting"
 book_number: "008"
 chapter_number: 8
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Chapter 7\

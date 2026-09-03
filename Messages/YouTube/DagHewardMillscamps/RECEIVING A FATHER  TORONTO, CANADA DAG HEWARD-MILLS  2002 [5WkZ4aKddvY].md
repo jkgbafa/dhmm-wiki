@@ -8,6 +8,8 @@ year: 2002
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 now who was Elijah's father Elisha's father I'm giving you steps to becoming anointed amen amen and if you follow these steps like I said they are very precious steps but really they are only things for people who want them how can you become anointed by the third step is by receiving somebody as a father now all of us have our fathers don't we is that not so now nakosi you have a father your father all right now do you speak to your father you speak to your father occasionally now would you say that today in

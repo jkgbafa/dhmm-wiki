@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uea1w/"
 duration_min: 92
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Messes have made us strong his messes are prospered us his messes have promoted us in this life his messes have kept us in perfect health his messes are so wonderful and so great blessed be the Lord in an o sanimakurian sin daya me sanimacosima de ananamano shid yeah nini made la coriana la labai ilal yes on that let everybody worship the Lord let them give him praise let them give him glory inorianini mazonimacata nima de Aleya dozanini and korea besapanimi we claw washibe san in rosan and o can ya minion eliminat we lift up your name father we bow before your throne and give you glory in a la mamo that mayane oh bless the Lord my soul and all that is within me bless his holy name sanimane cardosapate ninioshid me on my manosana daran blessed be the Lord who has not given our souls as a pray to the enemy for he is our deliverer for he is our fortress for it is he that giveth us the victory in Christ and Eli Sama Neriwada Ikonimaza Neri Mamaya and I watariane woe and sister yes we are so woa ni sister woo and nastys and no Idi Oh And that's this way and I says I in Bugini As I just stand in this place I just think on this amazing grace of God that saved a wretch like me for I once was lost but now I am safe.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=RiUCh87WXAY"
 duration_min: 30
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 a very wonderful morning and uh good afternoon or good evening depending on where you're watching from i'm so excited this evening to come your way again you know this is one of the mini series we are going to be watching it's a preview you know concerning the give thyself holy conference coming on this august 25th um to the 28th and i'm very sure that you've heard so much about it this evening i am so privileged to be here in the studio with a very important person i'm talking about the archbishop of the united denomination of

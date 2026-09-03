@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=DoO2LIZw_sk"
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now the business of war the business de la guerre is to take new territories to print the nouveau territory. Amen. Amen. How many of us believe that we can take new territories? So what I want to do is that I want to give you as a pastor, if you are interested, is a way to like increase, like to move forward in this church work thing you are doing to advance.

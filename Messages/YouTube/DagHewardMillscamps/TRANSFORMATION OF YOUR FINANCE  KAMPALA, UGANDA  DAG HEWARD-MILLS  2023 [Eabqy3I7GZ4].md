@@ -8,6 +8,8 @@ year: 2023
 duration_min: 31
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 before we take a break I want to do number six which is transformation of your finances from no money to a lot of money amen now there's going to come a great transformation of the finances of everybody here both as individuals and as a church if you believe it shout hallelujah now poverty is considered to be caused by three things so beginning from today those three things are going out of your life number one a lack of knowledge chapter four of he that has a lack of of knowledge number two a lack of good skills

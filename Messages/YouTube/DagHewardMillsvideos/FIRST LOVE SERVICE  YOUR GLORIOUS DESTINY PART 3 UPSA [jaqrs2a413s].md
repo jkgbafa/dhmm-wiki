@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jaqrs2a413s"
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 the church say Amen so make this story whatever proper cleaning of your body no matter your world is really the fine you hang up you a mile away Oh Hey ha and Oh Hey I Oh God on a man Hey Oh why we've got a wire and from a bar ah Hey ha when me Hey Hey Hey hallelujah hallelujah I will have this tree the house so happy - Dolores are afraid job testimony to the house sorry we're welcome stuff anymore - give it a testimony amen my testimony is about believing the prayers that our

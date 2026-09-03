@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ud8cz/"
 duration_min: 18
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/Backsliding"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/backsliding"]
 ---
 
 Praise the Lord. Give the Lord a clap offering. I want to share with you three reasons why you should not backslide. First reason, so that you do not lose your place in heaven. Amen.

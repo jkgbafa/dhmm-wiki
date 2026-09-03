@@ -8,6 +8,8 @@ year: 2005
 duration_min: 30
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Methods of guidance. Do you see? Sometimes when the Lord cannot get to you in a certain way, he has to lower his method of guiding you. Amen. For instance, when the Lord wanted to get Moses, do you see to go to Midian so that he could teach him his word and make him into the apostle that he was going to make him?

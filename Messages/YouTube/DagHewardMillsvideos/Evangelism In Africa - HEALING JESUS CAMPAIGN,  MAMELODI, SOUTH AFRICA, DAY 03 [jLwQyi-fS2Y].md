@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jLwQyi-fS2Y"
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 yeah Wow oh yeah maybe Oh Oh Oh ha Oh ah Oh No haha ha what oh yeah yeah this my Oh in my hold on a time when mo I've just received a message from the Planning Committee that the head of the countless that if you received Jesus Christ drill their campaign the first night the second night and if tonight you receive Christ hello me a spot then testimony time hello yellow yellow pocket pain when you listen people people I stop the testimony time when kilometer smoking pot all the counselors will meet to my left

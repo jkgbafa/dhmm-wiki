@@ -9,6 +9,8 @@ duration_min: 43
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE MERCY AND JUDGEMENT SEAT OF GOD PT2  CARDIFF, UNITED KINGDOM DAG HEWARD-MILLS  2003 [NS6tQs0ql7U]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Judgment", "Wealth and Finances"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/judgment", "topic/wealth-and-finances"]
 ---
 
 Welcome to track number two of Bima. Really? But no problem. Hallelujah. So the whole thing, I'm just trying to explain it.

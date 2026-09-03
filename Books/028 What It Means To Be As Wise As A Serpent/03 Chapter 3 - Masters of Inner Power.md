@@ -4,6 +4,8 @@ book: "What It Means To Be As Wise As A Serpent"
 book_number: "028"
 chapter_number: 3
 type: book
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 Chapter 3\

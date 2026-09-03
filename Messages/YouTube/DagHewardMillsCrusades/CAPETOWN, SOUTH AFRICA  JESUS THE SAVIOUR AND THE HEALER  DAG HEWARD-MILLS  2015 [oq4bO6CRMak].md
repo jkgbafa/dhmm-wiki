@@ -8,6 +8,8 @@ year: 2015
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 say Lord Lord I your name High Lord I praise I'm so glad I'm so glad you came let's it one more time Lord I Lift Your Name Lord I Lift Your Name on High Lord I love to sing I'm so glad in my life I am so glad to save us say you came came to show the way the way the Earth to the I your say Lord I Lift Your Name on highest say Lord Lord I Lift Your Name on High I love to sing your praise I'm so glad you are I'm so glad

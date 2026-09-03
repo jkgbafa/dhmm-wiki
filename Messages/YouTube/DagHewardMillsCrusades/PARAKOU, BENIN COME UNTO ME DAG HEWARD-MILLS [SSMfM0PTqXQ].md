@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SSMfM0PTqXQ"
 duration_min: 263
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 We must learn how to rule in Christ Jesus. Instead of slapping us and kicking us about no more. Oh, look at Satan. Satan comes on la ball. When you wake up in the morning and your child is maybe high fever and it's comfort, you don't stand as a guy.

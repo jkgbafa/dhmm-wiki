@@ -7,6 +7,8 @@ url: "https://rumble.com/v4t90q8/"
 duration_min: 138
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 How he picked me up and turned me around how he placed my feet on the ground when I think of God the Lord How He saved me how he raised me how he filled me with the Holy Ghost how he killed me to be honest when I think about the Lord how we praise me up and turn me around how you place my feet on so the ground when I think about the Lord how he saved me how he raised me how we feel me with the Holy Ghost how he feel me to be honest

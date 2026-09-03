@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Pby_FL5HomE"
 duration_min: 135
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 please join me to welcome Vivaldi to bless after the song mysterious papanasam win Barrera wasu remove and voila hallelujah give the Lord a shuttle pray tg1 la la la la Looney younger dg1 ah la la la la la yeo-hwa de ma ha da-da-dah he's almost shot to the bottom I Oh haha Oh Hey somebody's yeah baby Oh cornea wah-wah haha ha ha yah-yah-yah Oh meow meow ha ha ha Oh New York clap your hands of Ivaldi corresponded and last receive iris of lesson for the song Coretta Anastasia a score possible the Lord is my light

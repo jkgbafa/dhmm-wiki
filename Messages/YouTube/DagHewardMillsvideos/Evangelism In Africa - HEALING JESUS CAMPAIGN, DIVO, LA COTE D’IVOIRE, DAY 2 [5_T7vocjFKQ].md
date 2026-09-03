@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=5_T7vocjFKQ"
 duration_min: 136
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 oh J Shante Shante oh you are you you you my my just you hallelujah hallelujah hallelujah hallelujah stand to your feet tonight stand to your feet tonight on this second night the servant of God is ready to minister the word of God and the power of God and believe that your Miracle is here tonight please put your hands together and let's welcome Evangel I expect a miracle lift your hand I expect a miracle C I expect a miracle with God nothing am everybody with your hand lifted up I expect my mirac heavenly father exellence thank

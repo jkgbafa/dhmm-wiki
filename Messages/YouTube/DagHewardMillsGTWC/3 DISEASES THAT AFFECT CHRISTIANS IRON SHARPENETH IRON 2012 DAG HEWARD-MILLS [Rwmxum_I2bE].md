@@ -8,6 +8,8 @@ year: 2012
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 Father, thank you for the blessing of your word. Thank you for your power. Thank you for your healing. Merci pour ta guerrier. Thank you for what you are doing.

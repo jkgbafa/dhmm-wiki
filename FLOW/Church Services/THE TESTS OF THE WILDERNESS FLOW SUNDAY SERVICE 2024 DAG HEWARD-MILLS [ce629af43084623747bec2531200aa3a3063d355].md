@@ -8,6 +8,8 @@ year: 2024
 duration_min: 89
 source: "whisper"
 match: "exact"
+topics: ["The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, we thank you for this opportunity. Yes, Jesus. To ask for the Holy Spirit. Yes. We receive.

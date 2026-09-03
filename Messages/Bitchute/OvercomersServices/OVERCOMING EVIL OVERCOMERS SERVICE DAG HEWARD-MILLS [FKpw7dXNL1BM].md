@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/FKpw7dXNL1BM/"
 duration_min: 104
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 If you see a brother standing by the road with a heavy load from seats he song if you see a sister falling by the way just stop and say you've gone the wrong way, you've got to try little kindness, show a little kindness, shine it right for everyone to see, and if you try a little kindness, it will overlook the blindness of narrow-minded people, narrow minded street, don't walk alone in the dark, lending helping hand instead of die, and the little kindness you show every day will help someone along the way.

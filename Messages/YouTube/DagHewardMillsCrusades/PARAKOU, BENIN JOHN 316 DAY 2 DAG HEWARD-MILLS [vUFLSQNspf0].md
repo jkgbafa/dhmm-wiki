@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=vUFLSQNspf0"
 duration_min: 152
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Personne peut s'en que le pied Pensant à moi de suivre Toussi Pour nourrir le pied Tu as des D'un Seigneur ton esprit des Saint Papa Il abaisse Caromie Foucault Il abonde Tout volume Baba Clap your hands for Jesus tonight. Clap your hands for Jesus tonight. Please be seated. I see some people standing where people are seated. Finally find a place.

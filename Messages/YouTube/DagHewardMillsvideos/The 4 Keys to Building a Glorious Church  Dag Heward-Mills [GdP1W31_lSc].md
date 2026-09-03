@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GdP1W31_lSc"
 duration_min: 65
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Nobody has left nothing has not left it. He he has been my first assistant from the beginning up till today. A Christian is supposed to do reasonable service like is it's appropriate is the right thing. Those of you who've been for weddings when you say okay turn to your bride and say uh I take you as my whatever from this day I leave my father and my mother and I join myself to you. It means what? Left your father and your mother. Don't misunderstand what is being said. I've left my father so don't call me

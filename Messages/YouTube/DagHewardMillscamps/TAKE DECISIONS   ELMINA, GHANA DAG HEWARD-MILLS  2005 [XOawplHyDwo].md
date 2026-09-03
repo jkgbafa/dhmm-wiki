@@ -8,6 +8,8 @@ year: 2005
 duration_min: 124
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Children and Parenting", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 we have in Jesus name amen you may be seated now the next um thing that we want to talk about I believe we are blessed this morning amen the next thing that we want to talk about is at uh snake Junction is the taking off uh our theme is what ex to excel all right what is the cause of not excelling unstable as water Thou shalt not Excel okay so we want to keys to become to to excelling amen amen and one of the keys is what desire another key is what no not desire understanding

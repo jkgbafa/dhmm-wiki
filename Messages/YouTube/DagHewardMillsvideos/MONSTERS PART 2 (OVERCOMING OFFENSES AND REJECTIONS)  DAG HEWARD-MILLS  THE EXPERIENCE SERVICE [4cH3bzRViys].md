@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4cH3bzRViys"
 duration_min: 131
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 father thank you for the great blessing that we have in your house today we ask you to fill us with the Holy Spirit Lord and to touch Our Lives always thank you for the holy spirit thank you for the guidance of the spirit in our lives in Jesus name we pray amen am you may be seated now if the listen um if the um happiness and uh dancing around and playing did you get it it's not uh in sync with your personality I want to advise you to go to another church or another Branch because

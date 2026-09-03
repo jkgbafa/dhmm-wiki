@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-ClrbCWWW7A"
 duration_min: 113
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 So, law number one is the law of humility. When you pay tithes, you fulfill the law of humility. You are showing that God is my source. I believe in God. So the next law is sowing and dribbling.

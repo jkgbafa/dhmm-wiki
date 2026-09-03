@@ -8,6 +8,8 @@ year: 2025
 duration_min: 56
 source: "whisper"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Alright. Now we we are going to do something very important. So I need us all to pay attention. Bishop Tengambo is going to take us through the flock technology. Hallelujah.

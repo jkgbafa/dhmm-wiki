@@ -8,6 +8,8 @@ year: 2016
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Wealth and Finances", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/wealth-and-finances", "topic/wisdom"]
 ---
 
 Father, thanks for fire that is on the heads of your servants, flames of fire. In Jesus' name. Psalm 104. Psalms 104. Verse 24.

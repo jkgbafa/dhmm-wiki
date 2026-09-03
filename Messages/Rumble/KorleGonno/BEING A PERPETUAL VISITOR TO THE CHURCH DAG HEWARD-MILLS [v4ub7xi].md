@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ub7xi/"
 duration_min: 23
 source: "whisper"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Amen. Let's pray. Father, thank you for this morning. We ask you for the inspiration of your spirit. Lead us and let your will be done in Jesus' name.

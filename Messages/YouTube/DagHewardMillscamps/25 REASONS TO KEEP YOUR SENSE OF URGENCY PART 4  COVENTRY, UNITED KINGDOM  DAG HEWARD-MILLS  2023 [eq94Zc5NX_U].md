@@ -8,6 +8,8 @@ year: 2023
 duration_min: 126
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 father thank you for the provision you make for us in the mighty name of Jesus Christ we pray with Thanksgiving amen you may be seated now how many points do you have 10 agency lest you become evil let's look at Ecclesiastes 8 verse 11 I I'm changing that point to agency lest you become disloyal yes and that's what I was sharing with you about loyalty that there are stages and if you don't take time time or don't take care you become disloyal because you do not rapidly deal with certain things now disloyalty unfaithfulness wickedness treachery

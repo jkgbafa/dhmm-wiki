@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=DdCFE5M9LG4"
 duration_min: 167
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 hallelujah father thank you for the blessedness charity of your Holy Spirit call a sensitive person watching King tightening in Jesus name another gene amen amen baby sister craves a flaw our theme is about wisdom and the wisdom for the work of God amen not MC the luscious eyelashes full of the Jews God's Word is the wisdom that we need lapa hold the juicy Latasha stones of all Muslims amen amen because in 1st Corinthians chapter 2 we see Paul kept on differentiating between his God's wisdom and man's wisdom way on a coin changer politicians logically halls

@@ -8,6 +8,8 @@ year: 2024
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 you are say you are here you are here touching every heart touching I worship you Worship You Lord we worship you you are he you are he mending every heart Ming every heart Lord we worship you God worship wor oh you are here you are here changing lives around We Worship You Jesus we worship you Jesus Oh in the darkness my God who you are we declare tonight you're the way maker God who you are we say that is who you are that is who you are shame breaker that is who you are that is

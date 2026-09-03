@@ -8,6 +8,8 @@ year: 2014
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 I believe something great is going to happen to us tonight and join me to welcome Vivaldi to prepare our hearts for what God has inore for us listen hallu did you hear that for this listen hallelujah hallelujah give the lift up your voice and sing a song up your us are you are you are you everybody shout Jesus Jesus come on Jesus come on Jesus Jesus Jesus everybody sh Jesus do it like that do it like that come on come on Jesus Jesus Jesus now listen Jesus listen carefully Jesus At The Mention of the name

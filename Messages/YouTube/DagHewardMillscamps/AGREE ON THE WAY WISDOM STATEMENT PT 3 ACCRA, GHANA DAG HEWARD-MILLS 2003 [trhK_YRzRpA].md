@@ -9,6 +9,8 @@ duration_min: 44
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/AGREE ON THE WAY WISDOM STATEMENT PT 3  ACCRA, GHANA  DAG HEWARD-MILLS  2003 [trhK_YRzRpA]]]"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 Welcome to track number four of agree on the way. Turn with me to Colossians chapter 3. If ye then, if ye then be risen with Christ. Huh. I said, if ye then be risen with Christ.

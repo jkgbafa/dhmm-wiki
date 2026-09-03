@@ -8,6 +8,8 @@ year: 2012
 duration_min: 234
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Holy Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-holy-spirit"]
 ---
 
 my life a prayer to you I want to do what you want me to no empty word oh no I li no token pray no compromise I want to shine the light you gave through your son you sent to save us for ourselves and not despair it comforts me to know you're really there I want to thank you now for being patient with me oh it's so hard to see when my rise are on me I guess I have to trust and just believe what you see oh you're coming again coming to take me away

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=nQz7SkwydT0"
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 father thank you so much for this opportunity that we have in you to share your word to preach we pray for the grace of God to be here help us Holy Spirit in Jesus name Amen televideo mark chapter 2 how many of you are not Bible students if you are not a Bible series of your hand okay how many of you are Bible students I see okay good mark my subject is in the presence of Devils so I'm going to be continuing on that and continue on Tuesday but I think I need a bit of

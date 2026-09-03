@@ -4,6 +4,8 @@ book: "The Art Of Leadership 3Rd Edition"
 book_number: "022"
 chapter_number: 67
 type: book
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 ### Chapter 65\

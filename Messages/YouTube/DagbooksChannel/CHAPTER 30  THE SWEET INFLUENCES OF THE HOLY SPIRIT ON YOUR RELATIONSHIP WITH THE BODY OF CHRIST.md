@@ -3,6 +3,8 @@ title: "CHAPTER 30  THE SWEET INFLUENCES OF THE HOLY SPIRIT ON YOUR RELATIONSHIP
 channel: "DagbooksChannel"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Witchcraft and Jezebel", "The Holy Spirit"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/witchcraft-and-jezebel", "topic/the-holy-spirit"]
 ---
 
 Thank you Holy Spirit for your presence in Jesus name. Amen. Number five, the sweet influences of the Holy Spirit on your relationships. Now when I say relationships, I don't mean beloved relationships. I'll come to that because amazingly the sweet influence of the spirit affects that as well. Jude chapter 1 verse 19. These are they who separate themselves sensual having not the spirit. Amen. Amen. When the spirit of God is influencing you, you find yourself staying connected and staying in touch and staying together. Amen. Separation, isolation, breaking away. Okay. disconnecting are not things that the Holy

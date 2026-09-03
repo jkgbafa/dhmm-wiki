@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=oLtDjoaABAQ"
 duration_min: 37
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 father we thank you this morning as we come before your word we pray for humility for openness and we pray that our ears will not be dull and our hearts will not be waxed gross eyes will not be closed that we will not be sleepy as we receive your word thank you for blessing us today in Jesus name Amen all right you may be seated some 23 and I am sharing with you about I shall not want and some 23 verse 1 the Lord is my shepherd I shall not want how many believe that you

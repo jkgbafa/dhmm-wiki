@@ -8,6 +8,8 @@ year: 2016
 duration_min: 127
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 how does it feel like to know that your destiny is to be Jesus's brother you is it not encouraging cuz some of you the family you come from nobody knows your brother nobody knows your father nobody knows your mother but suddenly you have an important family member and his name is Jesus Christ Clap Your Hands for Jesus and it's a privilege that you must not play with the next point about your destiny is that your destiny is to be outstanding striking or conspicuous yes people will people will notice you and you see this one it's

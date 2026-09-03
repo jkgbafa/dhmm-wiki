@@ -8,6 +8,8 @@ year: 2009
 duration_min: 76
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family"]
+tags: ["topic/marriage-and-family"]
 ---
 
 I am no name, he buy and sotier, Elia Kobaya de Koshikaya, Amanda, Lebo de Kedibosa, Shika Bose, Rabandi and Kaya Day, Ecama None, Rolly Cash Nara, Elia Bandone, Ishako Dorobo Sunini, I cabayandorobo Son de Bianca, he cadebose, she carry a de Rolo Bossoya, Ala Baya de Lake telepine, holy, holy Biddy Bondaria seek it be under. She canori under Rayon Rassiri Bosia Kate. Imanda Haba Yeli Cole, she are lilibone, by a neighbor cartone de Bromo Sunne, Icaya Bandone, Shika Dorobo Sonne, Ikay Abandoni. I Keto Busunder, Shikanorobo Soya, I Kaya Badere, Ica Basuka Talabashi, Relo Libanda, I can did it, Recrosso to the Bone.

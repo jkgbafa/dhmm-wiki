@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=3RHnFMP6yDE"
 duration_min: 136
 source: "autocaption"
 match: "exact"
+topics: ["Missions", "Missions/The Nations", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/missions", "topic/missions/the-nations", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 how many of you are really glad that God has given you another Sunday wow why don't you rise up let us enter into a moment of prayer and um call on our living God because we know that the only way he can hear us is when we call onto him are you ready for what God has for you today I want you to look for a neighbor if you have somebody standing sitting next to you and um tell the person something inspiring appreciate something about the person tell the person looking good and I'm glad I'm

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xf0wnR31VC0"
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 my friend came to me the other day as we walked along the way she said I've got something to say and she told me of the savior he came he died to set us free from a life of sin and shame I gave my life to him that day that's the reason I can tell you tell you to keep preaching keep teaching tell me all what about the savior's love for all that's what friends are for keep praying keep giving share the love of Jesus to us all that's what friend are for and I never

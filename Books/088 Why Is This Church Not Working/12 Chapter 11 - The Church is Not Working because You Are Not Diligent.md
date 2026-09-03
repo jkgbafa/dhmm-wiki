@@ -4,6 +4,8 @@ book: "Why Is This Church Not Working"
 book_number: "088"
 chapter_number: 12
 type: book
+topics: ["Work and Diligence"]
+tags: ["topic/work-and-diligence"]
 ---
 
 ### Chapter 11\

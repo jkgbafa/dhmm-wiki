@@ -8,6 +8,8 @@ year: 2025
 duration_min: 67
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 In Acts chapter 17 and Acts chapter 17. I want to show you the pastoral ministry. As a gift. Amen. Amen.

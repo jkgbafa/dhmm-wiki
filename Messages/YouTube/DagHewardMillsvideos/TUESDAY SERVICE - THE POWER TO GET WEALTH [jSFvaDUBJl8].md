@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jSFvaDUBJl8"
 duration_min: 68
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 the end of all my prayer is to care like my lord ere my one and only goal he be made in my goal till my weakness is with me but by his tribes on me he's faithful and he have true the complete luck he begins any oh I want things I need to be bro like I want to and I need to be more like remember no red I love I'm too late on a life the door rattle off time to lay down a night for a friend for I want to and I need to

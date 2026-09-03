@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ua5o6/"
 duration_min: 76
 source: "whisper"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 Praises. I love to celebrate. Lift my hands. Oh, lift my hands. Lift my hands.

@@ -8,6 +8,8 @@ duration_min: 141
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/THE GREATNESS OF ABRAHAM FIRST LOVE SERVICES 0117 DAG HEWARD-MILLS [36Wt36PvLI0]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 can nobody do me do me like the way you do Jesus you're the lover the Lover of My Soul come on everybody help me say nobody can do me nobody can do me the king of kings and Lord of lords King of Kings Lord of lords Jesus you're the the Lover of My Soul my soul can nobody do me yeah yeah yeah do nobody has done to me nobody has done for me Jesus you're the lover Jesus you're the you're the Lover of My Soul of my soul soul lord when you hold me tight o

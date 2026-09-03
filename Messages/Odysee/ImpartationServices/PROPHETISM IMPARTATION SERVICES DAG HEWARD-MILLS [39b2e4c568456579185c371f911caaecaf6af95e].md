@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/prophetism-imparta
 duration_min: 62
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Take Luke chapter 3. I'm just giving you a few samples of the locations of Isaiah in the New Testament. And I'm asking your questions. If you are not answering me, I would be able to answer me more. Alright.

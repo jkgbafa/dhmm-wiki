@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=YUWjpyVCx4s"
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Hallelujah father thank you so much for your power that is working in our lives today in Jesus name amen you may be seated this morning I want to share with you about the ministry amen when we speak of the ministry of Jesus Christ ch right we have a book here called The Art of ministry a practical handbook for Ministry now what it is is that if you know to be a medical doctor you have to go to school for 7 years 5 years 14 years all right so that you can look after people's bodies do

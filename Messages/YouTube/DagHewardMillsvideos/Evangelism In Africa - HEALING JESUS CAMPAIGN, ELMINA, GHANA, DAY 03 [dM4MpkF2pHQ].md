@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=dM4MpkF2pHQ"
 duration_min: 147
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 vii of god is ready on this final night coming up when I attend rené duprée old country I want you to relax whether when I do I will be comfortable never want oh we're gonna move and let's receive the Ministry of Vivaldi tonight I would love with men around everybody always share one doing with hallelujah amen Miya Miya surely boy why didn't I my second that you were Yasin yeah my numero now sure he was not possible Oh Oh yes ah Oh I georgeanna not a a sequel named mr. Shawn Yamanaka is my name yes

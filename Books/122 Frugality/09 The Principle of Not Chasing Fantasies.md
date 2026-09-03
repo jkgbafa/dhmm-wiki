@@ -4,6 +4,8 @@ book: "Frugality"
 book_number: "122"
 chapter_number: 9
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness"]
 ---
 
 ## The Principle of Not Chasing Fantasies

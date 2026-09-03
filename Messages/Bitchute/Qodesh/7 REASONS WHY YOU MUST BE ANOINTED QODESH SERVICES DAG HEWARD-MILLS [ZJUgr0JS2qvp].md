@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/ZJUgr0JS2qvp/"
 duration_min: 80
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 We want to worship you. Or come on, just lift your voice. You want to get somewhere from you. He loves to hear something from you that is an house of God. He alone is worthy.

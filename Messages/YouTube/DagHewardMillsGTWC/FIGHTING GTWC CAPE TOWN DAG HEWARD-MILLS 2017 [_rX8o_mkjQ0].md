@@ -9,6 +9,8 @@ duration_min: 132
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/FIGHTING  GTWC CAPE TOWN  DAG HEWARD-MILLS  2017 [_rX8o_mkjQ0]]]"
+topics: ["Leadership", "Leadership/Generals and History Makers"]
+tags: ["topic/leadership", "topic/leadership/generals-and-history-makers"]
 ---
 
 Amen. Well, before we carry on tonight, we are blessed to have very great men and women of God here. Tonight is the last night, unfortunately, of the um this conference, give us a holy conference, and um tonight's the last night. We have had great many women sit of God sitting here to receive, and it is right. We cannot introduce everybody, but at least one or two can come up and say hello to us.

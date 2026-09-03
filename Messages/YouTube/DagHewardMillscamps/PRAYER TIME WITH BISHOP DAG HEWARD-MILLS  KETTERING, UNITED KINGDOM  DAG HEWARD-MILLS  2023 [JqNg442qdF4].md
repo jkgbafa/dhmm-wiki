@@ -8,6 +8,8 @@ year: 2023
 duration_min: 61
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "The Holy Spirit", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/prayer", "topic/the-holy-spirit", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 in the top of the mountain and shall be exalted the and All Nation shallow Rise and Shine Your Light come the Lord shall arise upon the and His glory shall Gentiles shall come to your life and K to your brightness holy hands every holy hand lifted up everyone pray shall be in the of the Lord Lord I want you to pray for the Holy Spirit listen without the Holy Spirit you are just a normal person and everything normal and natural and unfortunate that befalls all of us will just take its course and change everything about

@@ -9,6 +9,8 @@ duration_min: 109
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/The Call Of God Is Permanent Lenk, Switzerland Dag Heward-Mills 2025 [1n9_biCJHGM]]]"
+topics: ["Prayer", "The Call of God"]
+tags: ["topic/prayer", "topic/the-call-of-god"]
 ---
 
 I want to give you one more thing that I want you to notice will never go away because it is from Jesus and that is the call of God. When God when God calls you, it never goes. It never goes. No matter how old you are, you see if you are called, you are called. It never goes. 100 years will go by. You see, God has called you still. Yeah. Yeah. Samson, stand up. Peter, is it poor? Peter, Paul, if God has called you, it will never go away. Five years from now, this is you

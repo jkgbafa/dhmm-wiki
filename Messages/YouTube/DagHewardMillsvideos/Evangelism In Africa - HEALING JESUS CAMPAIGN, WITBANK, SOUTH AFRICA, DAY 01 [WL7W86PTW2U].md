@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=WL7W86PTW2U"
 duration_min: 129
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/soul-winning-and-evangelism", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 hallelujah amen hallelujah amen now Londo tells rib is Allah Tamela ramadasu : Emmanuel matata hakuna colossal volum Parvati is one of the name one Corey has raised in this community for this generation who knows who on earth we love him Santana look up to him tal again we're learning a lot of lessons from genes seafood that isn't a net gain mr. Khan is a second I also thank e hello Oh ha Oh ha ha oh hey I'd also be Neville talking haha here are cien cien cien I'm senior walk also horsey come along ladies and

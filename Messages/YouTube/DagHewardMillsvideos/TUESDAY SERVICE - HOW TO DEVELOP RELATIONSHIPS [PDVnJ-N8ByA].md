@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=PDVnJ-N8ByA"
 duration_min: 93
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 for me draw me closer to reveal your secret heart desire until the given me a consuming fire you've always known me you always hear my cry even the shelter of your home satisfied I take over else at night yes you are the Lord Almighty how long to sing your praises ever of mine so I will sing about your pain tell the world about your greatness don't you ever let me call we go me with all your heart and soul makes me your jaw my soul you always told me you always hear my cry in the

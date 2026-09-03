@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=XQTAFlfoQuY"
 duration_min: 182
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Hallelujah wow what a blessing God bless you for joining us um it's another Sunday that God has given us and we are grateful and thankful it's such a blessing that as the year is coming to an end we always find find ourselves in church and that is a very good place to be Hallelujah we want to spend some time like we always do not a routine but it is a responsibility in Luke 17 and verse number 16 the Bible says and he fell down on his face at his feet that's the feet of Jesus giving

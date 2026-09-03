@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/i-long-impartation
 duration_min: 74
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Hallelujah. Today we're just having a short service. Next week we will not have an impactation service. So we'll announce when we'll have it again, alright? We'll not have it next week and also the week after.

@@ -9,6 +9,8 @@ duration_min: 112
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/IJERO, NIGERIA  THE POWER OF THE BLOOD OF JESUS  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2011 [Zcmv20ChH3Y]]]"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Say I expect a miracle, hallelujah. I expect a miracle today, for nothing is impossible to those who believe and say, and I believe God's word is still the same, and I expect a miracle today, I expect a miracle today, for nothing is impossible to those who believe and say, and I believe God's word is still the same, oh yeah, yeah, yes, and I expect a miracle today, the little woman with the issue of blood, said to herself. She pressed through the crowd from behind, she touched his clothes, her blood began to dry, and she knew she received the miracle she needed that day, the century on with a servant who was here.

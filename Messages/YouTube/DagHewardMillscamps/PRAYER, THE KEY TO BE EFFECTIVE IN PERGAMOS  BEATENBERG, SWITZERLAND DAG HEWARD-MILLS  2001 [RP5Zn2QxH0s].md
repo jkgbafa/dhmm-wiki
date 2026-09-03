@@ -8,6 +8,8 @@ year: 2001
 duration_min: 50
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/All-night Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/all-night-prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 welcome to track number 12 of victory in pegamos everybody say the ministry work is prayer the ministry work is prayer amen amen John chapter 16:7 it says nevertheless I tell you the truth it is expedient or better Hallelujah for you that I go away for if I go not away the comforter will not come unto you but if I depart I will send him unto you amen verse eight and when he who is he the pastor the missionary when the missionary when the shepherd when the who when the Holy Spirit a comforter is come what

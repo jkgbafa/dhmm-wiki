@@ -8,6 +8,8 @@ year: 2005
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 Now, another area, and I'm sharing these uh things I'm sharing from this book. Almost most of the things I preach now are in books. If you read them, but you know, most of the time we don't read, so we have to write it and read it to you. Forgive. But um, one of the uh areas that I believe uh is going to be very helpful for us is if we can hear the voice of God in relation to our needs, and I believe that you your you will become significant and your life will be greatly improved in relation to your your your needs, what you need in this life, in other words, if you follow him and his voice, you shall not want.

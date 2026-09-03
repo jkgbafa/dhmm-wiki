@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-kBr8xGVABY"
 duration_min: 101
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 you may be seated about that what Buddha seen down through the more diversity in the performer at this point there should be no talking and moving around at all I never meant to get them puppy anymore member but catechism tentacles you are if you are standing out there I want to advise you to find a place to stay tonight several firm Allah for Allah Ameen silicon cell you are Angelou are was in that night it is better for you to sit down to receive the Word of God than to be standing em in your abuse

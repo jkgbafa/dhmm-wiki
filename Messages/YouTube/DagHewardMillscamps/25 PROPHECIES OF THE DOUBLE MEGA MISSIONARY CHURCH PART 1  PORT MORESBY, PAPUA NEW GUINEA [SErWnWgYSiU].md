@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SErWnWgYSiU"
 duration_min: 72
 source: "autocaption"
 match: "exact"
+topics: ["Missions", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/missions", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 now I want to give you 25 prophecies about these churches number one prophecy number one and why am I giving you prophecies because the Bible says in 1 Timothy 1 and ver8 that according to the prophecies which went before thee that thou mightest by them War a good Warfare hallelujah amen so the prophecies I'm giving to you are going to help you to fight and build and fulfill the 100 church building Vision amen prophecy number one Isaiah 2: 2 and 3 Isaiah chapter number two verse 2 and 3 what does it say it shall come

@@ -8,6 +8,8 @@ year: 2024
 duration_min: 84
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/prayer", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 And to Jesus I asked for everything, if I have Jesus, declaring, if I have Jesus, if I have Jesus I have everything, sing, more precious and everything for the Lord, so If I have all the things of this world and Jesus gives everything, if I have Jesus I have everything, it is more, it is more precious than everything. Sing with me, if I have Jesus, if I have Jesus, sing, if I have Jesus, if I have Jesus, if I have Jesus I have everything, I have everything, oh Jesus my Jesus is more precious, if I

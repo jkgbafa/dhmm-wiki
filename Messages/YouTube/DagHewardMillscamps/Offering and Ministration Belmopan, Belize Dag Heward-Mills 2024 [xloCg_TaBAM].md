@@ -9,6 +9,8 @@ duration_min: 102
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Offering and Ministration  Belmopan, Belize  Dag Heward-Mills  2024 [xloCg_TaBAM]]]"
+topics: ["Missions", "Missions/The Nations", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/missions", "topic/missions/the-nations", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 How many of us want to support this camp meeting? Because how many realize that we cannot finish what we are doing? You get it? We cannot finish. So since we cannot finish, we have to schedule for part two.

@@ -9,6 +9,8 @@ duration_min: 29
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MASTER KEYS  GO SOMEWHERE, PREACH SOMEWHERE   GENEVA, SWITZERLAND DAG HEWARD-MILLS  2016 [UFos0BeEQ60]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 Welcome to track number two of stirring up. Mark 16. Mark says now. I am now going into the master keys. To step up.

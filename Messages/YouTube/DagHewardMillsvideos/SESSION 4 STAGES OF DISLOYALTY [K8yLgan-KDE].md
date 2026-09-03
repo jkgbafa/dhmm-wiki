@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=K8yLgan-KDE"
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty"]
 ---
 
 because being so faithful because of being so cool always been there for me my my every need oh man it was lonely you know my team hiding my footstep shelter from the rain you are to leave my everything is by Isaac again Oh you are the joy of my salvation you're the peace in my dorm your loving arms protect me shell some me from heart you are Alpha and Omega beginning and my drunk power my spirit and best friend the water Hey you are all the time Oh and Oh help Oh tell me you are

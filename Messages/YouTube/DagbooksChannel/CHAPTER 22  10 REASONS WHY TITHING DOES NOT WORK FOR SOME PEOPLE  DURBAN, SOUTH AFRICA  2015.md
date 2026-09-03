@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2015
 source: "autocaption"
+topics: ["Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Number one, they don't believe in the supernatural. Number two is because it is not the first thing that they give. They give it second last. Nehemiah 12 30 43 says at the time that some were appointed over the chambers for the offerings for the first fruits. The first fruits, not the last fruits of your surplus, the first fruits. God wants you first. Amen. How many brothers want to have a wife who has been used by all the community? Do you want a wife that has been used by all the community boys? All the community boys

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=oWNt1HOyEIM"
 duration_min: 103
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Are you ready? Are you sure you are ready? Lift up your two eyes and give Jesus a shout Put your eyes together, yes, yes, oh yes, oh yes, oh yes, yeah, everybody say, Oh yes, oh yes, ma'am, get Jesus a shame, oh yesou, and cabaka lo I left a la cuna, et suchara yes, I put sika, and my potosity ca journey, yes, my jour, oh yes, man, everybody, oh yes, oh yes, oh yes, oh yes, yeah, man, yes, ma sure lift up your two assortip your two eyes, I say, oh yes, oh yes, oh yes, I love my suit, I love my oh yes, soroti are you ready?

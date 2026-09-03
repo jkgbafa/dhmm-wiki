@@ -8,6 +8,8 @@ year: 2014
 duration_min: 79
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Wisdom"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/wisdom"]
 ---
 
 all right how to relate with the World chapter n the worldly version and The Godly version of almost everything all right now um the world has its version of everything and in Christ we have our version of everything okay so as a Christian you have to get used to the idea that there is a Godly variety of almost everything amen amen are you there because Ephesians chapter 2 let's turn there shows us how much things of the world are rarely governed by the devil and you has he quickened who were dead in trespasses and sins

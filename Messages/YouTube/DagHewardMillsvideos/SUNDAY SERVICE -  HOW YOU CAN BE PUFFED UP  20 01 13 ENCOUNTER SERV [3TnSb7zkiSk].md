@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=3TnSb7zkiSk"
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 step two in our prayer this one is anybody praying this money can I see your hand if you're praying step two in our prayer we're still in Psalm 91 verse 2 it says I will say I will watch that I will think I will watch that means it will come out of my mouth this morning it will come out of your mouth cannibal amen from a believer that I will say two things three actually I will say of the Lord number one he is my refuge everybody said God is my refuge yeah I will say

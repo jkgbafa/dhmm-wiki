@@ -4,6 +4,8 @@ book: "Those Who Are Ignorant"
 book_number: "119"
 chapter_number: 7
 type: book
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Ministry and Pastoring", "Wealth and Finances"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/ministry-and-pastoring", "topic/wealth-and-finances"]
 ---
 
 ## Chapter 5

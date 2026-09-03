@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=4BwrIkoI4UE"
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Ministry and Pastoring"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/ministry-and-pastoring"]
 ---
 
 Oh I I have made a choice boy where bye-bye the sad part of mine by my time my mouth Molly if I don't sign Stanford of my soul and I can do wherever Oh wherever I I will go hallelujah father thank you for the blessing of today in Jesus mighty name we pray amen hallelujah may be seated it is a blessing to be here with you in Victoria Falls amen today I want to share with you something very important that I believe will help your life and your ministry how many of us here are pastors

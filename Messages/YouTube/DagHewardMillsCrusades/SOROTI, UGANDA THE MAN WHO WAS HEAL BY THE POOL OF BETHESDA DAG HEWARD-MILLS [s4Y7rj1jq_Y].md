@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=s4Y7rj1jq_Y"
 duration_min: 116
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 That's your badness and to Jesus for you about this I saw this everybody everybody You are welcome to the first of three powerful nights in Soroti. Amen. And tonight, before we go any further, we'd like to invite the chairman of the board of trustees to give us his opening remarks. Please welcome him with a clap. Praise the Lord.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JX6HB0vZt-k"
 duration_min: 87
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth", "Spiritual Warfare", "Spiritual Warfare/Deliverance", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Hallelujah. Are you tired? Carfuck give the Lord a shot. Yawi Lani Yawi Lenny. Why don't you put your hands together for Jesus?

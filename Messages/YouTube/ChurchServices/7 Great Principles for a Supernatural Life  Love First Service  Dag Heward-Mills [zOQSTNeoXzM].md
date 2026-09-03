@@ -8,6 +8,8 @@ duration_min: 83
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/7 Great Principles for a Supernatural Life Love First Service Dag Heward-Mills [zOQSTNeoXzM]]]"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 You have to learn to be obedient to God and to his word. When you are obedient, you provoke miracles and supernatural occur. The key to being known is pressing. It's people who press who get known. Certain miracles will not happen and certain problems will not be solved. Do you get it? as long as you are not forceful. Now, there is a master key to elevating your level to a son of God or a daughter of God. And that is in Romans 8:14 that as many as are led by the spirit of God, they are or

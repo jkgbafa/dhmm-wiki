@@ -8,6 +8,8 @@ year: 2016
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Hallelujah why don't you give the Lord the best shout of Praise har put your hands together for Jesus oh everybody lift up up your right hand and say Amen come on and say wo oh la la la oh la la come wave on to Jesus Hallelujah we love you Jesus we bless you Jesus to to for the last are you ready are you here are you here this is my life before but listen to the change what condition J good good your say s come on and sing with me hey everybody shout Jesus every show

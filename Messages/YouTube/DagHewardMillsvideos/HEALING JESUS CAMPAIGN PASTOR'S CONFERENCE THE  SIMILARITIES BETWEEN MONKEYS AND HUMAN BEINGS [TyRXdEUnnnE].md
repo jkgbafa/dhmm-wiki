@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=TyRXdEUnnnE"
 duration_min: 176
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 I want to share with you about prosperity prosperity in every way even I can whenever I'm doing that I use this topic he that hath to him shall be given and he that hath not from him from him from the person who hath not shall be taken even that which he had the words of Jesus yawning lalito ulta food empire singing little with a shaky sigh Lisa so at LSE one on his own he that has the heeda has money goods children churches prosperity members whatever he led us to him shall be given yeah and

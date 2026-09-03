@@ -8,6 +8,8 @@ duration_min: 128
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MOKOPANE, SOUTH AFRICA  JESUS CHRIST IS THE SAME YESTERDAY, TODAY AND FOREVER  DAG HEWARD-MILLS [4opPNKlIQIY]]]"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Tonight is the first night of this campaign. I believe that God has great things in store for us. At this time, I want to welcome the chiefs representative to bring us a word. Let's put our hands together and receive him. Hallelujah.

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tylet/"
 duration_min: 72
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Your grace and me through I'm leaving this moment because of you. I want to thank you and praise you too. Your grace and me through I'll say it again. Your grace and mercy brought me through. I'm leaving this moment because of you.

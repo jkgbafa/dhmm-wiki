@@ -8,6 +8,8 @@ year: 2002
 duration_min: 47
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal"]
 ---
 
 father we thank you for your word today as we receive your word Lord we thank you for your blessing in the name of Jesus Amen you may be seated for a moment all right amen what we are coming to now is very important because I can assure you that every position that God gives you is a a blessing and a privilege and you must walk worthy of your calling by being humble amen who were all criminal what did he tell them come and follow me don't sin anymore but Judas he said it would have been

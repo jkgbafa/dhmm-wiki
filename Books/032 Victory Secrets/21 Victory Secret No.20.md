@@ -4,6 +4,8 @@ book: "Victory Secrets"
 book_number: "032"
 chapter_number: 21
 type: book
+topics: ["Ministry and Pastoring", "Salvation", "Salvation/Repentance"]
+tags: ["topic/ministry-and-pastoring", "topic/salvation", "topic/salvation/repentance"]
 ---
 
 Victory Secret No.20\

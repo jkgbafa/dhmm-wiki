@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=OjUkHSCLdD8"
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism"]
 ---
 
 Hey yeah ah Oh ah funny Hey let me prophesy and say aye Oh yeah somebody crazy Oh clap your hands clap your hands yeah a lot of song hallelujah tonight is the first night of the healing Jesus campaign here in Italy and this has come about through the hard work of all the pastors and the church workers and tonight we want to invite the chairman of the central planning committee to bring us away before we receive the Evangelist let's clap our hands and receive our chairman to bring out the opening remarks tonight hallelujah amen give

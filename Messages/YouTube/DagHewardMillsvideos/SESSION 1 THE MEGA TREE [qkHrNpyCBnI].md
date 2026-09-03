@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=qkHrNpyCBnI"
 duration_min: 112
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 and all the way from the garden c-p-r set him the land of the Prophet the world welcome Reverend Cutler man you know I can't just talk about it this man is an architect not a drawer architect by profession been to school for many years and has left all to follow the Lord I see you are blessed this man is also an anointed prophet of the law I tell you something I don't know what you have to say but if I will not be surprised if he has a duster yeah the Lord that'll affect your life

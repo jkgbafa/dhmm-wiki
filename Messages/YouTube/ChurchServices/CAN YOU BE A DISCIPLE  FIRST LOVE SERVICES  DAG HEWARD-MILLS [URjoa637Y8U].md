@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=URjoa637Y8U"
 duration_min: 141
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 oh wo I want to tell you to come on cuz this is where you belong come back home the door is always open please come come home please would you come back home where you belong ooh the lights the lights are still burn and there is food on the table there's food on the table and your family is waiting your family is waiting said we've been fasting and praying we've been fasting and praying for you for you to come home come home come home don't stay away don't stay away don't stay away when you get

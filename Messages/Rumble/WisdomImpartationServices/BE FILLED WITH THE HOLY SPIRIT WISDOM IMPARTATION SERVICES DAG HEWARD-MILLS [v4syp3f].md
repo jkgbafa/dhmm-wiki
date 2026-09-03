@@ -7,6 +7,8 @@ url: "https://rumble.com/v4syp3f/"
 duration_min: 246
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Prayer", "Prayer/All-night Prayer", "Salvation", "Salvation/Repentance", "Salvation/The New Birth", "The Holy Spirit", "The Holy Spirit/Baptism of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving", "Wisdom"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/prayer", "topic/prayer/all-night-prayer", "topic/salvation", "topic/salvation/repentance", "topic/salvation/the-new-birth", "topic/the-holy-spirit", "topic/the-holy-spirit/baptism-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving", "topic/wisdom"]
 ---
 
 Hallelujah. Hallelujah. Everybody say one more time with me. For the Lord is good. Lift your voice to all of us.

@@ -8,6 +8,8 @@ year: 2012
 duration_min: 155
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology", "The Holy Spirit"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-holy-spirit"]
 ---
 
 the next one is the sweet influences of the Holy Spirit on your ministry emphasis and priority now yeah your ministry emphasis you see if you are a minister and I believe you are all ministers if you are a minister of the Gospel okay everybody's a minister of the Gospel a lot of ministers are ministers but the emphasis now a lot of things that I'm going to say I don't want you to be Hur offended okay I just want you to receive it as what it is okay the emphasis of the spirit the the influence of

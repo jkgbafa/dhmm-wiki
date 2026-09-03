@@ -8,6 +8,8 @@ duration_min: 157
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/OUAHIGOUYA, BURKINA FASO JESUS CHRIST THE SAVIOUR AND THE HEALER DAG HEWARD-MILLS [t3kQ6FWRXag]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Hallelujah Hallelujah Hallelujah Hallelujah Hallelujah Hallelujah you may be seated tonight please find a place to sit you are not allowed to stand where people are seated and there are chairs at the back for you also hallelujah hallelujah clap your hands once again for the Lord I want to ask all the worker groups the ashers you protocol qu and the rest please wait behind after tonight's Campa God is going to bless you greatly as you help us to get things together here God has great blessings in store for us tonight and on this final night expect

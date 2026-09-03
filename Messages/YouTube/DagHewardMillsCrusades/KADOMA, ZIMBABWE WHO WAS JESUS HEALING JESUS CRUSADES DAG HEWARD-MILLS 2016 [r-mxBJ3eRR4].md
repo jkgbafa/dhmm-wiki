@@ -9,6 +9,8 @@ duration_min: 91
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/KADOMA, ZIMBABWE  WHO WAS JESUS  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2016 [r-mxBJ3eRR4]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 And I see a few chests at the back. If you just came, you can occupy one of them and be comfortable. Tonight tonight is the final night of our campaign, Healing Jesus Campaign here in Kadoma. And it's my joy to welcome the chairman of the Board of Trustees of Healing Jesus Campaign here in Kadoma to bring us his final remarks and also introduce our mayor and our member of Parliament who are also with us. Not forgetting Jesus healing, proceed directors and staff.

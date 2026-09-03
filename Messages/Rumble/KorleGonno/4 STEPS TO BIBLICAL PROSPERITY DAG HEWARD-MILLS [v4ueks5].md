@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ueks5/"
 duration_min: 88
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 You want to lift up your hands and wave it to him as you think that money wave your hands to the Lord let it say. The Bible said that let everything that has breath. Let everything that has breath this morning. You have breath. We want to lift up your voice to the Lord.

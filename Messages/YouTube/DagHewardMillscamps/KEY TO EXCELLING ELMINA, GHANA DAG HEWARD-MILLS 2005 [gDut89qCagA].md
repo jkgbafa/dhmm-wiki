@@ -9,6 +9,8 @@ duration_min: 65
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/KEY TO EXCELLING   ELMINA, GHANA DAG HEWARD-MILLS  2005 [gDut89qCagA]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Welcome to track number one snake junction so much for the fire of the Holy Spirit in Jesus' name, amen. You may be seated. Now I want to share with you about what I call keys to exceling. Amen. What do you think?

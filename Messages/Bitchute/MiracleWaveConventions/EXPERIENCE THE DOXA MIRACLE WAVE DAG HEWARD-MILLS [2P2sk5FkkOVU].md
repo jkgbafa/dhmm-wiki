@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/2P2sk5FkkOVU/"
 duration_min: 143
 source: "whisper"
 match: "exact"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Lord, I say, just the other day when there was no other way in a tight situation with no one to see me through if it had not been for you. I would not know, Lord, be here saying that's why I'm standing here tonight. Lord, I am saying thank you. Hey, I have a reason to say to say thank you, Lord. You are my reason.

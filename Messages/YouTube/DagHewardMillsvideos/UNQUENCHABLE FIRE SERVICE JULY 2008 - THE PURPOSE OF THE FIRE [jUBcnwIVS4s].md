@@ -8,6 +8,8 @@ year: 2008
 duration_min: 101
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Oh Oh yeah Oh Oh Oh what Oh Oh Oh Oh ah Oh may nothing I have oh happy in his means and today they know means I have honeymoon money come here in effect no money oh yes a reward Oh Oh Oh Oh not Oh Oh Oh Oh we go Oh Oh I will movie Oh Oh oh no this one very much Oh Oh you Oh Oh Oh Oh tonight we have a shot Sabbath and I'm going to launch a new book powerful new little bit like tonight tonight I want to share with you about

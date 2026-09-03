@@ -4,6 +4,8 @@ book: "Everything By Prayer Nothing Without Prayer"
 book_number: "051"
 chapter_number: 4
 type: book
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing", "topic/the-holy-spirit"]
 ---
 
 ### CHAPTER 3\

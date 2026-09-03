@@ -9,6 +9,8 @@ duration_min: 111
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Barrenness and Church Planting  Mampong, Ghana  Dag Heward-Mills  2025 [wQ1L5psleUk]]]"
+topics: ["Church Growth", "Church Growth/Church Planting"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting"]
 ---
 
 Hallelujah. Amen. Hallelujah. Amen. Please come in, come in, come in.

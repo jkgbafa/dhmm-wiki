@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ATWVLhpWXXE"
 duration_min: 144
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 ha late louia a man right I'm trying to show you something we will not be able to finish because I can see that that's of time but I believe you all have a book so I want you to see that you need to read the book and we need it read read it a bit deeply or slowly and over and over so that you can pray the Lord will show you but the point that I want you to really get is that leadership is like physics or chemistry or some kind of a science or some

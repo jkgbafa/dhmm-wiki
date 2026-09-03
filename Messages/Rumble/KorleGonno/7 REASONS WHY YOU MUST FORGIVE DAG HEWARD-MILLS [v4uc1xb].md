@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uc1xb/"
 duration_min: 71
 source: "whisper"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 I will restore you my God. I will praise and I praise your name forever and we take I will pray as you and our praise your name for singing again I will restore you store thee my God and I praise your name for we day I will bless you and I praise your name for me and yeah what could I say oh but you couldn't now say what could now sell now say unquote now the last time walk on God with your hands to Jesus we'll now say we tap your hands wave into the Lord who worship the Lord today we say I do me for no matter for a nut you come to God and for me so let him make so me drive oh me quite for Jesus we worship you we magnify your name and exalt you for you alone at God and we look out oh God into the sea all around us we find that worthy like unto you again in the midst of your people, Father we research nothing, but oh God, we give it all to you in worship.

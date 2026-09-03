@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GgBdGwkv4og"
 duration_min: 99
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 makes you testing a 31 he says the kingdom of heaven is like a mustard seed which a man took and sowed in his field and this is smaller than all other fields but when it is grown it is larger than the garden plant and becomes a tree so that the birds of the air come and nest in its branches that is one of the principles of the kingdom and one of the principles is that things in the kingdom are like amen the kingdom is like a seed hallelujah are you there it's like a seed and

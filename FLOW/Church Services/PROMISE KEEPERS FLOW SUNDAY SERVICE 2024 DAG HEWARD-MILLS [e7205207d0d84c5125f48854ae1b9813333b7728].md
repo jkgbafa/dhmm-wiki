@@ -8,6 +8,8 @@ year: 2024
 duration_min: 113
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, we are grateful for this amazing time in your presence. In Jesus' name. Amen. Amen. You may be seated if you have a seat.

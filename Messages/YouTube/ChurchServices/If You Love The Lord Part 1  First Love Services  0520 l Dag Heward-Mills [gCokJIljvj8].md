@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=gCokJIljvj8"
 duration_min: 173
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Judgment", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/judgment", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 today we want to pray to God and say Lord may we not receive your word as if a man is who is talking to us but let us receive your word as if you yourself you are talking to us and you are leading us and you are guiding us and I want every one of us to pray and say Lord give me the grace to receive not only to hear but also to receive receive it in my heart go ahead right now and pray job 22:22 says that I pray thee receive my word I pray

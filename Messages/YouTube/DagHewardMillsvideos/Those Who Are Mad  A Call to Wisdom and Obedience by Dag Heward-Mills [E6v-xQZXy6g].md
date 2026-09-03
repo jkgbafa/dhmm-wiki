@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=E6v-xQZXy6g"
 duration_min: 20
 source: "autocaption"
 match: "exact"
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 those who are mad some fo it will stir up just like Jesus up emotions but I want you to if you have time since you to read if you have time to read from the Bible only from the Bible yeah Ecclesiastes 9:3 there is an evil among all things that are done under the son and there is one event unto all yeah also the heart of the sons of men is full of evil and Madness is in their heart yes oh Deuteronomy 28 the Lord shall smite thee with Madness and blindness and astonishment of heart

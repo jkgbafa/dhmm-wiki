@@ -8,6 +8,8 @@ year: 2013
 duration_min: 40
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 Now I'm I'm just sharing something from this book called the mega church. The mega church. I want to encourage you, the mega church, the mega equation. I want you to be a mega church pastor. In Jesus' name.

@@ -8,6 +8,8 @@ year: 2018
 duration_min: 123
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 We thank God for tonight. And we thank God for these three days. Now you know say you can bear with me. When everybody that the Lord has visited his own people. Say a rade abason.

@@ -9,6 +9,8 @@ duration_min: 8
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/SALVATION AND INDIVIDUALS  GTWC PARIS  DAY 3 SESSION 5  2025  DAG HEWARD MILLS [7U7s1nWEc28]]]"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 Section five, section four section numerous salvation and individual individuals. My favorite is Zacchaeus. Can you preach about Zacchaeus? You don't know what to say. Always remember Zacchaeus was short.

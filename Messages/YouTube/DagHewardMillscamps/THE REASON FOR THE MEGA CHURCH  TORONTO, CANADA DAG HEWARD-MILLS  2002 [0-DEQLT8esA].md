@@ -9,6 +9,8 @@ duration_min: 106
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/KEYS TO THE ANOINTING  TORONTO, CANADA DAG HEWARD-MILLS  2002 [-hm3qG3Ya0Q]]]"
+topics: ["Church Growth", "Church Growth/Mega Church"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church"]
 ---
 
 welcome to track number two of the mega church you know there were people you think would not get married really sometimes you just wonder Lord how can it be but I have noticed and I've watched every single one of them gets married no matter how old God has somebody for everyone and so I I I I realize that it is just important for us to focus on the Lord continue to work for him and all these things shall be added unto us amen amen can I have an amen amen there is somebody for you somebody

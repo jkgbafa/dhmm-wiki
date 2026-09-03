@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JT9pVhU_2tE"
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Oh yes with me Oh yes Oh yes Oh yes up the eyes Oh yes Oh Yesu C'est la cousina Oh Yesu Kabaka We me rembe Oh mon loco Sies qu'Abaza Yesu to Kusah Yeah Oh Yesu C'est la Kusima Oh Yesu Nakousima L'Up Your Toys Lift Up Your To Sarah S'ina Kusima Yesu Oh Yesu Nakousima Oh Yesu Lakesima Oh Yesu C'est Nako Sima Acalulu Acalulu Acalulu Acalulu Oh Yesu Kabaka Web Mirabe Oh Mon Locos Oh Mohamed Ania Annie Afana Nague Aliza Yesu T's Nakussima Oh Yesu T's Met Up Your Supir Yesima Oh Yesu T'A Kusima Oh

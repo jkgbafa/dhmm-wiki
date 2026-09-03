@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=xYGYwrIkgGE"
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer"]
 ---
 
 father we thank you for the blessing of your word yes Lord what a privilege to have a bag of seeds that we can go to the whole world preach your word Minister Your Love Minister your power Minister the medications the beautiful powerful hammers soaps medication s that the world is hoping we will bring we love you Jesus we pray that you give us the faithfulness to go around from place to place to and through carrying the seeds carrying the bags of seeds give us more seeds Lord so cause us to sow seeds Lord all over

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=K4MtVnyf5wc"
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 second Peter chapter one and verse 19 do peer it says we have a more sure word of prophecy news of all you know all pursue the prophecy where until you do well that you take heed whose only offense if you pay attention a man why why do you do well that you take heed because you do well that you take heed in the sense that it is like a light shining in the darkness Civitas all show who potato shows a turbo pascal second in Lumia keep read-only tenable now what is the darkness of your ministry

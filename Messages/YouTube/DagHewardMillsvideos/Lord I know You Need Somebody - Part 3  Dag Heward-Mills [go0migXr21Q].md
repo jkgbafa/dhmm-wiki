@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=go0migXr21Q"
 duration_min: 213
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 fix my eyes on you the author of my faith of this world now fade away let's sing i fix my eyes on you i fix my eyes on you the owner of my feet i am all the days all the days of my life oh oh one thing i am the days of my life all the days of my life is me sweet presents oh let your presence your presence hallelujah oh hallelujah i want to sing a song it takes breakthrough breakthrough all my doubts break through all my fears breakthrough that i may worship you

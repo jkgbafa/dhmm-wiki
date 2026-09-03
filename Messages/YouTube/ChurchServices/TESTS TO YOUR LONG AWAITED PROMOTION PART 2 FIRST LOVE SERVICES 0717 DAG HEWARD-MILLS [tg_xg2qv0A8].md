@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tg_xg2qv0A8"
 duration_min: 165
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Deliverance"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/deliverance"]
 ---
 
 Say one thing I know is that I'm never alone in a I know God got my back in a Showing God in a All the Christians who love to dance All the people who love to move in a You ready? Show me your fire finger God is good All the time And all the time God is good He got my back Every day That's why I just got to say You never leave high You never say God you been right there We tied through all the great skies Falling my head Never letting go Giving me

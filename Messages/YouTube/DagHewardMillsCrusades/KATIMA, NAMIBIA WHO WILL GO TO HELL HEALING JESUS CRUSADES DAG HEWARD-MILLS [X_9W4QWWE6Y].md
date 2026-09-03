@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=X_9W4QWWE6Y"
 duration_min: 139
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Catima shout Hallelujah never neighbor We are praising God I don't expect you to sit down I don't expect you to sit down Manja Manja Majamanda Mandamazo Mazo Mazo Mazo Live Jesus Isaya is a side I steps at the boa steps at the steps at the steps at the boa is a siya we lift him like this I did this room sorrow but I'm sorry about Sana Sorrow Patam Sana Sor Sana But I'm sorrow what I'm Sarah Tender Tenera Tender Sorrow Patam Sana Sorrow Patams Madame Sorrow Pato Sarah Patam Sorrow Pato Sara Tender Tender just in the cookie and not take it up just a cookie and not get it not eating as it did as it's a good one let's go ahead and so I'm salesa I want to welcome you to the third and final light of healing Jesus campaign.

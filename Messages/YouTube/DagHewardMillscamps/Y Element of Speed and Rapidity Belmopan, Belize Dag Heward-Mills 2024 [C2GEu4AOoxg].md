@@ -9,6 +9,8 @@ duration_min: 28
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Y Element of Speed and Rapidity  Belmopan, Belize  Dag Heward-Mills  2024 [C2GEu4AOoxg]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 But young element number 32. Remember, we are going all the way up to 87. Young element, speed, and rapidity. One of the things about a young person is that they are fast walking. When you see an older person walking, you see them taking their time.

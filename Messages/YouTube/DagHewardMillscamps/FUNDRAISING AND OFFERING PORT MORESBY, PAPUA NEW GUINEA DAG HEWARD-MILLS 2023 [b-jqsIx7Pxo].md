@@ -8,6 +8,8 @@ year: 2023
 duration_min: 38
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now, are you excited? Now, listen. I want to do a little bit of giving. Towards our first church building. Amen.

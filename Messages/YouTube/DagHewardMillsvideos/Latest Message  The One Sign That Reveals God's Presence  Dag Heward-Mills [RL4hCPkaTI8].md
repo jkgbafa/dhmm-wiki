@@ -8,6 +8,8 @@ duration_min: 22
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsvideos/Latest Message The One Sign That Reveals God's Presence Dag Heward-Mills [RL4hCPkaTI8]]]"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 But which of these four will you choose as having the presence? How how do you how we want to know how we can choose? Which of these four I'm sure you want to know. The Bible says Samson whisp not that God the presence of God had left him because the gifting of God is without repentance. It never changes but you can have the gift but the presence is not there. Tonight I want to share with you about the anointing of the spirit. Amen. And I have eight books on the anointing. Eight different books. Number one,

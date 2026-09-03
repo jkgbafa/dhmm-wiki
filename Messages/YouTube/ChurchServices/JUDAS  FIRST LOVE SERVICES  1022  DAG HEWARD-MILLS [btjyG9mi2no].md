@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=btjyG9mi2no"
 duration_min: 208
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 thank you Lord O As We Gather in this place as We Gather in this place today Holy Spirit come and have your way Lord have your way have your way as we lay aside our own Des sweep across our hearts sweep across our hearts with Holy Fire Lord have your way your your way this is your house this is your house your home we welcome you weome you Lord we welcome you this is your sing your home your home we welcome you today welome you today yes Lord as we offer up as we offer up

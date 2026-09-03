@@ -8,6 +8,8 @@ year: 2024
 duration_min: 65
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Prayer/Praying in Tongues", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "The Holy Spirit"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/the-holy-spirit"]
 ---
 
 tonight the power of God is about to move once again God's servant who he has anointed powerfully and approved his ministry with signs and wonders is going to minister to us so I want you to prepare for your salvation for your miracle for your deliverance as we come evangelist he hallelujah hallelujah hallelujah with God true I lift your hands father thank you for tonight and the Alm Mighty power that is here thank you for salvation Miracles healings and deliverances by your Mighty power in the name of Jesus and everyone shouted amen amen God bless you

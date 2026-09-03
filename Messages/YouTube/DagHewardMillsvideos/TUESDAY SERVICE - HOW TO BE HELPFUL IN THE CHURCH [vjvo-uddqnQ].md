@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=vjvo-uddqnQ"
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I will give up my life too huge from whence cometh my hair I help them from the law school or whatever evil not how far as I cook like human law the cheetah be evil must humble the Lord is like you for the Lord is a come Charles IV by day nor the moon by night he shall preserve thy soul even forevermore Hey all of my hell wrong this is my knife through here whoever hair I help Homer although the Lord who made heaven and he said we will offer than good my blood he can

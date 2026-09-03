@@ -4,6 +4,8 @@ book: "Why Few Are Chosen"
 book_number: "067"
 chapter_number: 17
 type: book
+topics: ["Wealth and Finances", "Wealth and Finances/Prosperity and Poverty"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty"]
 ---
 
 ### CHAPTER 16\

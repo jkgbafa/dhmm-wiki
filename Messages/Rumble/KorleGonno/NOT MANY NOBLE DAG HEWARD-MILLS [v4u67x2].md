@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u67x2/"
 duration_min: 82
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 To the God of Abraham and Isaac Jabbes cried out to the God of Israel To the God of Abraham and Isaac He didn't say much great enough and it changes destiny forever Only you would bless me and expand my borders Lord keep my hands from evil Let I might see your goodness Let your hands be with me everywhere I go prosper me I pray I'm about to God Jamaic Jabus right out to the God of the God of the I say Oh he didn't say much by the grave I prayed it now changes that is destiny by my best me for us Lord keep my head from me I might see I see your goodness Let your head your hand your hand be with me where I go me prosper me prosper me everywhere I go everywhere my soul was a trend prosper me out of the right soul come and let's say Jabbes cry out Jabbes cried out to the God the God of Jesus to the God the God of Abraham and Isaac Ohdy pray and change his destiny forever Lord you will bless me and expand my body Lord give my hand my hand from evil I see I could let your hand be with me everywhere I go everywhere I go prosper me where I go I go I pray prosper me for me every day of my life I go my soul my soul as I dread I pray I pray prosper me I pray prosper me Lord prosper me everywhere I go everywhere I go everywhere my soul was a dread oh yeah oh yeah prosper meet it I need it I say oh I need it I need it oh oh Lord I pray.

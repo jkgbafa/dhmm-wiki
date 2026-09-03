@@ -8,6 +8,8 @@ year: 2015
 duration_min: 46
 source: "whisper"
 match: "exact"
+topics: ["Leadership", "Leadership/Art of Leadership"]
+tags: ["topic/leadership", "topic/leadership/art-of-leadership"]
 ---
 
 Father, we are grateful for the wonderful blessing we have in you today. In Jesus' name. Amen. You may be seated. Today I want to share with you about the art of leadership.

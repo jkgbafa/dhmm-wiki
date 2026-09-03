@@ -8,6 +8,8 @@ year: 2008
 duration_min: 218
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 now what I am sharing with you is the effect that the cross of Jesus had on mankind the effect that the cross of Jesus had on mankind amen amen and therefore the effect that your cross will have on mankind that's what I mean by the powers of the cross the effect that the Cross of Christ had on Humanity do you understand and the effect therefore that your cross will have on Humanity are you listening to me to you are you listening to me the effect are you writing it that the cross of Jesus had on

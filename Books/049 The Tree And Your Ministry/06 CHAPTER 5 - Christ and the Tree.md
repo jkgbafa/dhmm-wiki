@@ -4,6 +4,8 @@ book: "The Tree And Your Ministry"
 book_number: "049"
 chapter_number: 6
 type: book
+topics: ["Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 CHAPTER 5\

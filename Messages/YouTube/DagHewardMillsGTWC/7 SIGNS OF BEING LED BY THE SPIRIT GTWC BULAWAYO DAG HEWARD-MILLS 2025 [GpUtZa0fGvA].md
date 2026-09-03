@@ -9,6 +9,8 @@ duration_min: 38
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/7 SIGNS OF BEING LED BY THE SPIRIT   GTWC BULAWAYO   DAG HEWARD-MILLS  2025 [GpUtZa0fGvA]]]"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 Now listen. How many of you here are pastors? How many are not pastors, but you want to be a pastor one day? Only four. How many want to be rich millionaires?

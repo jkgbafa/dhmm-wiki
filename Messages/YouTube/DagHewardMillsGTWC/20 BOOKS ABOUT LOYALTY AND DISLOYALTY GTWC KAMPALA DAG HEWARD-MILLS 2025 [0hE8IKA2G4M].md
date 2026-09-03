@@ -8,6 +8,8 @@ year: 2025
 duration_min: 109
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty"]
+tags: ["topic/loyalty-and-disloyalty"]
 ---
 
 Wow. 100 million souls. Please get up on your feet and let's get ready to receive. Now, when Okay, this is not illegal. I think I'm in order.

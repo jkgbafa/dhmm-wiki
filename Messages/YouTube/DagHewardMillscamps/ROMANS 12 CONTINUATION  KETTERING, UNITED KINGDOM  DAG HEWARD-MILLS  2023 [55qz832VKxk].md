@@ -8,6 +8,8 @@ year: 2023
 duration_min: 190
 source: "autocaption"
 match: "exact"
+topics: ["The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 we are going to have to end with Romans chapter 12 let's all sit down verse one it says do you have oil I need some oil oh yes I beseech you listen Romans 1:16 what did we see there does anybody know Romans 1:16 I am not ashamed of the Gospel of Jesus Amen for it is the power of God and to Salvation to everyone that believes to the Jew first and also to the Greek I beseech you Brethren therefore by the mercies of God that you present your bodies a Living Sacrifice all right now I

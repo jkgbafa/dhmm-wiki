@@ -4,6 +4,8 @@ book: "He That Hath To Him Shall Be Given And He That Hath Not From Him Shall Be
 book_number: "037"
 chapter_number: 13
 type: book
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 ## Chapter 12

@@ -8,6 +8,8 @@ year: 2025
 duration_min: 16
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Church Planting"]
+tags: ["topic/church-growth", "topic/church-growth/church-planting"]
 ---
 
 Number one, why obedience is better? It is better to obey. I'm going to give you a number of reasons. It is better. It is greater to obey fully without understanding. Yeah. When you obey without understanding, it's better than to sacrifice. Number two, it is better to obey a command that you would not naturally do than it is to sacrifice. Number three, it is better to obey instructions that you don't agree with than it is to sacrifice. Obey things that you don't agree with. Number four, it is greater to obey humbling commands. Humbling than to sacrifice

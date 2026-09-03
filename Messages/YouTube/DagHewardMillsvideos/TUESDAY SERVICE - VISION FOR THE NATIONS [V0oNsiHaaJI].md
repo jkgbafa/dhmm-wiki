@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=V0oNsiHaaJI"
 duration_min: 90
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Missions", "Missions/The Nations", "Vision and Direction", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/missions", "topic/missions/the-nations", "topic/vision-and-direction", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 can you reach to love a neighbor do they see the sweet sweet savior shining through the little things you do do you hear his call to follow you must lay down your life to follow for only when you die are you free to live we must go as a light to the nations take up our cross and follow where he leads we must go as the lights to the Nations prepared to wear his crown of thns to bring his peace we must go as a light to the nations take up our cross and follow where

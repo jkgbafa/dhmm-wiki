@@ -8,6 +8,8 @@ year: 2007
 duration_min: 102
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Holy Spirit"]
+tags: ["topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-holy-spirit"]
 ---
 
 I'm just too warm. Help me believe in all I could be and know that I show me the spelling. I have to climb. Lord, for my sake. Teach me to take one day at a time.

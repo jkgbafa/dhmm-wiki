@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wvJaQ047tr4"
 duration_min: 118
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 what a blessing you babysit I want to bring up dr. elijah Mahjong Ghani to come and give us a greeting please come let him oh why don't you put your hands together for Oh keep clapping to encourage this is the best thing that has ever happened to our beautiful country South Africa Bishop Mills and his team have done something that has never happened in many many many years in South Africa I have shared platforms with Oral Roberts Billy Graham TL Osborn Kenneth Hagin Joyce Meyers why not bunker Benny Hinn the meetings that were held in

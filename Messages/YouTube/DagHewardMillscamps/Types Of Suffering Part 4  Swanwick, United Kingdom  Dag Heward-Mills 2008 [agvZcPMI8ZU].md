@@ -8,6 +8,8 @@ year: 2008
 duration_min: 173
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 the next one is accusations by redescribing events where they are redescribing things that have happened you represent it in a flowery way and you present a PA that makes it look funny did you see them I saw them together when you say I saw them together together yeah they were together with other people but you don't say they were together with you just say I saw them together oh I've caught you you see now reasons why accusations are powerful accusation are very powerful but there's a reason why they are number one the reason why accusations

@@ -4,6 +4,8 @@ book: "Those Who Are Ignorant"
 book_number: "119"
 chapter_number: 10
 type: book
+topics: ["Loyalty and Disloyalty", "Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Witnessing"]
+tags: ["topic/loyalty-and-disloyalty", "topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/witnessing"]
 ---
 
 ## Chapter 8

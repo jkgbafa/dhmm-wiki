@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7QFfiGLSfBg"
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 how about where I was oh my how Oh where I was all right my Oh me everyone will repent what do you you're Oh Oh where I was every time and where my me yeah and oh Christ blood is flowing from our lair between to help everyone who repairs today but what do you if you sir where I was we knew by my you yeah hallelujah let us pray father thank you for this great blessing that we have in you today guide us by a Holy Spirit in Jesus name Amen you may be seated tonight

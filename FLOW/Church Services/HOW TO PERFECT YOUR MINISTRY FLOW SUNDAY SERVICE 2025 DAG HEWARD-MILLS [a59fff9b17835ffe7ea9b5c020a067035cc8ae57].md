@@ -8,6 +8,8 @@ year: 2025
 duration_min: 110
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Prayer"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer"]
 ---
 
 O Lord our Lord, how excellent is thy name, amen. I believe that God's name is excellent, who has set thy glory above the heavens, amen. Out of the mouth of babes and sucklings, thou has ordained strength because of thine enemies that thou mightest still the Avenger, amen. And the enemy. When I consider thy heavens and the work of thy fingers, the moon and the stars, which thou has ordained.

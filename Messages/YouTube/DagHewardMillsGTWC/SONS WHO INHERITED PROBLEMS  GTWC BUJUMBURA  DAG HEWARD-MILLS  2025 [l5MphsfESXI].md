@@ -8,6 +8,8 @@ year: 2025
 duration_min: 38
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 all that you have shared with us in Jesus name. Amen. I believe you were sharing about loyalty and disloyalty. You were sharing about loyalty and disloyalty independent. Yes. Now I want to continue. The next one is those who are dangerous sons. Amen. Amen. 1 Corinthians chapter 4:15 it says that we do we do not have many fathers. We we though you have 10,000 instructors you don't have many fathers. So there are some people that are fathers in the ministry. Amen. Amen. So it is important that you recognize fathers and you honor them. Do you have

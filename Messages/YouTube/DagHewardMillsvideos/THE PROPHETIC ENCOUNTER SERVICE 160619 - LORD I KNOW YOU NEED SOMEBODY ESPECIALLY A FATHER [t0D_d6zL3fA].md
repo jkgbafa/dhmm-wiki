@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=t0D_d6zL3fA"
 duration_min: 155
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 my heart is broken the Lord my life has come to an end my wife will not come with me to the mission no she said to me I'm not going anywhere whoa she has abandoned me in the midst of the mission oh what a change has come over her oh she seems to be a dear friend she seems so strong and independent then I remembered the Word of God Jesus said unto his disciples whoa If any man come after me let him deny himself and biggest rocks whosoever I shall save is liable lose oh I'm

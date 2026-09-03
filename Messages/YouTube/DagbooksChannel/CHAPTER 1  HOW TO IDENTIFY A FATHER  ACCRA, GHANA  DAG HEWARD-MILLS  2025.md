@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2025
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 we may receive your word and become what you want us to become. Lord, we thank you in Jesus name. Amen. Today I am continuing in my series on excellence. Tell somebody, I want excellence. I want excellence. How many want to have an excellent life? Hallelujah. An excellent life and a more excellent way. Turn with me please to 1 Corinthians chapter 4 and um we will be taking off from there. 1 Corinthians chapter 4 and um from verse 14 it says, "I write not these things to shame you, but as my beloved sons, I warn you,

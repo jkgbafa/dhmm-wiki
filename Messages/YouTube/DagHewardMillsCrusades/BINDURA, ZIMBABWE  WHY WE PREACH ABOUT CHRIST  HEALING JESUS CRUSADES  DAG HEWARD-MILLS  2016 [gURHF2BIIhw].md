@@ -8,6 +8,8 @@ year: 2016
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 tonight on the first night of our healing Jesus campaign caign it gives me great joy to welcome the chairman of the Board of Trustees of the healing Jesus campaign here in bindura clap your hands and let's welcome our chairman to bring us his opening remarks hallelujah hallelujah thank you uh Bishop Bishop hallelujah oh I cannot hear you hallelujah hallelujah we want to do some salutations and to welcome our visitors let me honor the minister of State for provincial Affairs uh The Honorable Advocate Martin de he should be arriving in a few minutes here we would

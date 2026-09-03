@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=GQ6yxxsIvI4"
 duration_min: 100
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 oh oh you're from a team don't drive away your nail color you're you die for oh lord I believe Oh no daddy I believe hallelujah I believe in this God even though I cannot see him with my eyes and I know that one day I'm going to see his face but even if Heaven was never promised to me neither a life of living eternally it's been worth 7 the Lord and having him in my life Amos here's a job those - tree and to hear the angels sing he's it tough to drink from that mountain

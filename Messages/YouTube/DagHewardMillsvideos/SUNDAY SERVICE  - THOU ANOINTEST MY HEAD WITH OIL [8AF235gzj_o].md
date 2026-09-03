@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8AF235gzj_o"
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Prayer"]
+tags: ["topic/anointing", "topic/prayer"]
 ---
 
 we will last Oh everybody he passed if we call he will not Oh and Oh yes I mean don't worry I don't want to Kindle but it's pleasure we're going to have some more crazy female well polish ivar offer with some praises I ready for that so I want you to check how to offering lift it up high you're offering everybody all right enough to the operation your socks tell your friend to hold the nose take your money out so that he will not be sneezing but be sure you take the money out anyway and

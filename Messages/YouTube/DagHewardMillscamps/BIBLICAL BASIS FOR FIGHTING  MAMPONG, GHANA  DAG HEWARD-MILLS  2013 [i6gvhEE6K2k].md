@@ -8,6 +8,8 @@ year: 2013
 duration_min: 156
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 you are going to discover that what you thought was a fight what you thought were problems what you thought were issues in your life you will discover that they they they don't even rank they don't even R when you are talking about proper issues of your life you will discover that what you thought were fights and battles and issues were actually the Comfort zones of your life have you never seen a six-month-old baby crying a one-year-old child crying why will a one year-old child cry what on Earth will make a 2-year-old boy Cry For What

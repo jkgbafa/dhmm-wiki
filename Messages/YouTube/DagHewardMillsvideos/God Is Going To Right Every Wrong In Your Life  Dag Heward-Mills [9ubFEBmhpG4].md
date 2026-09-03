@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=9ubFEBmhpG4"
 duration_min: 136
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 let us all left our hands and give thanks to the Lord wherever you are watching from yes Lord this is flow church service on Sunday morning and um God is blessing us today is the last day I think in October or the last book one is it the last day last but one day so we are heading towards the end of the year and the Lord is Blessing us hallelujah lift your hands and let's pray this is a flowchart service it's a short service but a very important service for everyone who is part of the

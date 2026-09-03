@@ -8,6 +8,8 @@ year: 1999
 duration_min: 31
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/Backsliding"]
+tags: ["topic/salvation", "topic/salvation/backsliding"]
 ---
 
 money is the wheel of the gospel are you understanding that you may have a brand-new car you may have oil in it you may have petrol everything but if there are no wheels under the car it cannot move you can step on that cell ERISA and you begin to see 220 km/h but the car will still not move are you understanding that and I believe that as we give our offering what we are saying also is that what we are enjoying what we are experiencing Lord let it go fast and wide amen I said Amen

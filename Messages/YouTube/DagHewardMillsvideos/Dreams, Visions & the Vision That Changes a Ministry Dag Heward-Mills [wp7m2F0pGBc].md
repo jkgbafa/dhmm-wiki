@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=wp7m2F0pGBc"
 duration_min: 22
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Prayer", "Prayer/Praying in Tongues", "The Holy Spirit", "Vision and Direction"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/the-holy-spirit", "topic/vision-and-direction"]
 ---
 
 Thank you very much. Let us pray. Father, thank you so much for today. What a blessing we have to be with you today. We pray for your grace, for your spirit to lead us.

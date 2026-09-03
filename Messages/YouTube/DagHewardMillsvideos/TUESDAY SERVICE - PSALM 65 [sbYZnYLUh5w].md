@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=sbYZnYLUh5w"
 duration_min: 39
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Prayer"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/prayer"]
 ---
 
 some sixty-five my method is entitled some sixty-five there will be silence before you and praise in Zion Oh God and to you the vow will be performed Amen hallelujah are you glad that there will be silent before the Lord Amen now God is not against noise but there are many sounds in which you read where the psalmist says be silent and be still and be quiet and you will find out that as you grow older in the Lord not in age right you will come to laugh the pious nests of his presence when you are

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=TJ9XIcEWQHI"
 duration_min: 168
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 father thank you for your blessing tonight in jesus name amen you may be seated what a blessing now tonight i just want to continue sharing a little about what i call entry points entry points entry to what entry to an exciting supernatural and adventurous life amen are you interested in that now the point that is important for you to get is that your life is a life that is boring essentially because it's monotonous because it is in a sense meaningless in a sense life is meaningless you see and that is why where people have a

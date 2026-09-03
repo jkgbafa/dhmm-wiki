@@ -8,6 +8,8 @@ year: 2006
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/anointing", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 now the Lord's anointed turn with me to SEC 1 Samuel chapter 16 and the Lord said unto Samuel how long will thou mourn for Saul seeing I have rejected him from reigning over Israel fill thine home with oil go and I will send thee to Jesse the Bethlehem I for I provided me a king among his sons and Samuel said how can I go if Saul hear it he will kill me and the Lord said take an Hyer with thee and say I am come to sacrifice to the Lord and call Jesse to the sacrifice

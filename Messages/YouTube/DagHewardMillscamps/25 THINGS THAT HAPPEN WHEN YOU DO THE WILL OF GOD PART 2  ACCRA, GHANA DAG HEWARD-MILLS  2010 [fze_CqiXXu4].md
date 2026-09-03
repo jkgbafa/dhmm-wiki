@@ -8,6 +8,8 @@ year: 2010
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 God did not send his son into the world to condemn The World God did not send his son into the world to condemn the world but that the world might be sa through him but that the world might be saved through him oh God did not sent his son into the world to condemn the world he's standing so very near open up your heart child don't you fear cuz the doors of Life stand open to you all you have to do is just step on through God did not send his son into the world to

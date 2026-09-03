@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/insight-into-your-
 duration_min: 76
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Salvation"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/salvation"]
 ---
 
 In sight. Sight into. It's the thing. Do you understand? Now, when you don't have, you're not able to see in to something, you have a hardened heart.

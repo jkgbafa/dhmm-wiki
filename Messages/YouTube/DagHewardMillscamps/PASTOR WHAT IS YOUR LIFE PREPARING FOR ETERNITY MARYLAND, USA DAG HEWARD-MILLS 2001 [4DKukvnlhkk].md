@@ -9,6 +9,8 @@ duration_min: 42
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/PASTOR WHAT IS YOUR LIFE  PREPARING FOR ETERNITY   MARYLAND, USA  DAG HEWARD-MILLS  2001 [4DKukvnlhkk]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Welcome to track number three of what is your life? Next thing is your life must therefore be a life of working for God, working for eternity. So what is your life? A life working for eternity. Preparing, preparing for eternity.

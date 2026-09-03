@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=VlAHgSBBtmk"
 duration_min: 108
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 Jesus asked me this I know for the Bible tells me so this to him belong they are weak but he is strong and he gasps Jesus love me oh yeah Jesus loved me oh yeah Jesus loved me for the Bible tells me no I'm saying Jesus loved me I know Oh little wine to him belong they are we I'm pressing on me up away always guide me Lord I pray hi mom deserve a day and I'm sorry Oh oh please put your hands together in appreciates this wonderful gift for example not an amulet I wanted

@@ -8,6 +8,8 @@ year: 2006
 duration_min: 120
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 father thank you for this great opportunity to serve you and to be at this camp we ask for your guidance your guidance your blessing your direction in the name of Jesus amen amen you um you may be seated I was going to say but you're already seated um our theme for the camp is building mega churches amen and I think I'm very happy that I asked you to write questions because I want us to be able to you know we are it's quite a small group so we can um do that the first question that

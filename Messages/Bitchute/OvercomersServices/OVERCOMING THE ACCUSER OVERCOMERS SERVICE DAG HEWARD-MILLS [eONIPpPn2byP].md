@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/eONIPpPn2byP/"
 duration_min: 90
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 You may ask me why I serve the law, is it just for heaven's game or to walk those mighty street of God yes, and to hear the angels say just to drink from that fountain that never shall drive or just to live live forever forever and ever in that sweet old mind, but if ever was promised to me, neither God's promise to live eternally it's been worth just having the Lord in my life, I was living in a world of darkness, he came along and brought me the light. I was living in a world of darkness, he came along and brought me the light, so you may ask me why I serve the Lord, is it just for heaven's game, or to walk those mighty streets of God and to hear the angel say it just to drink from that fountain that never shall and drive or just to live forever forever and ever in that sweet old thing, but if heaven never was promised to me, neither God's promise to live eternally it's been a word just having the Lord in my life.

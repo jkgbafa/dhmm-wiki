@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Ih5nuVhDE6c"
 duration_min: 24
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 the Lord is my light and my salvation whom shall I hear the Lord is the strength of my life of whom shall I be afraid when the enemy came up against me to ease up my plan they stumble and they all and the one army may and comes against me my heart and the wall may rise against me we be confident one thing have I desired off the law that one thing's weird that I'm is well in the house of the Lord to behold the beauty of the Lord who is why his temple days of

@@ -8,6 +8,8 @@ year: 2024
 duration_min: 73
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/anointing", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 father thank you for the great privilege that we have to serve you with gladness and with joy we are asking that your spirit will impress upon us your perfect will in Jesus name amen amen you may be seated now what is number one number two so that you have a good shepherd for your life number three it is very important that you understand amen the direction of your life why you must be led by God in this life number one are you ready now number one you must be led by the spirit of God so

@@ -9,6 +9,8 @@ duration_min: 50
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/ONE THING THOU LACKEST; THE RETURN OF THE CROSS   BEATENBERG, SWITZERLAND DAG HEWARD-MILLS  2002 [XacDYJ_Wp8M]]]"
+topics: ["Prayer", "Prayer/All-night Prayer", "Prayer/Intercession", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/prayer/all-night-prayer", "topic/prayer/intercession", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Welcome to strength number nine of life in the church. One thing thou lackest, Jesus told that man, and I'm coming now to the next step of one thing thou lackest, and I call it the return of the cross, the cross of Jesus Christ. Turn with me to 1 Corinthians chapter 1. Amen. 1 Corinthians chapter 1, verse 16.

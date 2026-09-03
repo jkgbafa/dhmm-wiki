@@ -8,6 +8,8 @@ year: 2006
 duration_min: 70
 source: "autocaption"
 match: "exact"
+topics: ["Leadership"]
+tags: ["topic/leadership"]
 ---
 
 And so many things I've learned from the ministry from the receiving of knowledge. That's why I travel to Korea to go and find about Dr. Cho. It has changed my life and my ministry. That's why I travel.

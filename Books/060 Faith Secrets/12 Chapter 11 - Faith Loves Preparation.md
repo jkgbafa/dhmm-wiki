@@ -4,6 +4,8 @@ book: "Faith Secrets"
 book_number: "060"
 chapter_number: 12
 type: book
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 ### Chapter 11\

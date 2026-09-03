@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Ifrjg49B7S0"
 duration_min: 121
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 I don't know oh we all have friends crying cries they don't need them no there's a God who is winning so help and that alone they don't know that he can free them through God above he really and he can heal broken heart keep it just gave him a chance I was gone we perform and with them I can't keep somebody I can't keep dying don't keep no Jesus please nobody well no Gina Oh what's going on at the back right I want to talk to you now about the need for shepherds before I get

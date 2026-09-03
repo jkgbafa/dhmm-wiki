@@ -8,6 +8,8 @@ year: 2019
 duration_min: 154
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Missions", "Missions/The Nations", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/missions", "topic/missions/the-nations", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 thank you for making it possible for us to be here we are excited that you would gather Us in this way lead us not into temptation but lead us by your Mighty Spirit into all that is good make us good for something we thank you in Jesus name amen am wonderful all right turn with me to Matthew Chapter 5 I I hope you are not discouraged by the theme of the camp the theme of the camp is am I good for nothing am I good for nothing wow Matthew 5 verse number 13 you are the

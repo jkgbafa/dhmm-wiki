@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ajnT3wfQrdM"
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 take the shackles off my feet so I can dance I just wanna praise you I just wanna praise you you brought that chanting I can live my hand and if all appraises I'm gonna praise you to the course of I can feed two bytes for reason to believe and I can spray and breathe cause you see I have been down so long I go hold on better than if I have to spray new threw myself at the shackles does not be dog I just wanna brand new under for a brazen robber teeth now I can

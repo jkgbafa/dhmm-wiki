@@ -9,6 +9,8 @@ duration_min: 38
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/ATTEMPT TO BUILD A CHURCH  GTWC LUSAKA  DAG HEWARD-MILLS  2025 [dtbdikfisZA]]]"
+topics: ["Vision and Direction"]
+tags: ["topic/vision-and-direction"]
 ---
 
 Yes. Yes. Yes, Lord. Yes, Lord. Yes, Lord.

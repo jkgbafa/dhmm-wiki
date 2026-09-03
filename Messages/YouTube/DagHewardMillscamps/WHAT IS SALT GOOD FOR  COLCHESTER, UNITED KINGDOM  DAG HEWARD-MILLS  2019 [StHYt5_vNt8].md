@@ -8,6 +8,8 @@ year: 2019
 duration_min: 114
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Wealth and Finances"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances"]
 ---
 
 fantastic fantastic father we are so excited we love you Jesus amen you may be seated what is salt going to be used for before we go for lunch what is salt good for number one I can't hear you make food tasty and prevent rejection and judgment isn't it what is Judgment the Dustbin isn't it Jud instead of going into your beautiful intestines it goes into the daspin so we are to we are here to prevent England from being put in the Dustbin by God Amen are we going to do it yes how many believe that

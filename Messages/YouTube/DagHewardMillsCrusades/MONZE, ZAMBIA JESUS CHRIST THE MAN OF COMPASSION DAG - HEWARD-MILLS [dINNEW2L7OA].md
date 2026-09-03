@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=dINNEW2L7OA"
 duration_min: 69
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Spiritual Warfare"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/spiritual-warfare"]
 ---
 
 Gana Lolessa Dino Mutende Mutende Lift up your hands and say Gana Lolisha F your Tila Nakama Nami Sumbo Yahweh Lenny Fiona Fuka in me she can tell one free Gana Lesha F your one chitilla Dino Motende Mutende Moutima Oh ya Gana Lessa F your one chitilla Notre May Lift up your hands and say Gana Lessila Dino Mutende Mutana Lolessa F your one chitilla Nami Sumbo Ni Wamoka Niuanca Namina Yahweh Noppata Offini Yesou Nico Yamikani Bulomous One Disa Pamatanda One D Chosa Pam Fueto Are you ready? Are you sure you are ready?

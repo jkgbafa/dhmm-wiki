@@ -8,6 +8,8 @@ year: 2023
 duration_min: 166
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Jesus ah Jesus ah Jesus ah Jesus ah Jesus ah Jesus ah Jesus ah Jesus ah Jesus ah Jesus ah Jesus ah Jesus Jesus Jesus Jesus a Aï a aïï k kokzi VO again again again again position 2 3 Nuka ki Nuka Kiti milolo milolo mil Kiti Kiti yaokzi Nani Nani Nani k k Kiti ooana noana no fananaanaoanaoooanaoo Jesus Christ Lord and Savior my God we're gonna jump up to 5 ah we're gonna jump up to 5 we're gonna jump up to 5 We're going to jump up to 5, milolo milolo, let's go, 2, 3, Jesus,

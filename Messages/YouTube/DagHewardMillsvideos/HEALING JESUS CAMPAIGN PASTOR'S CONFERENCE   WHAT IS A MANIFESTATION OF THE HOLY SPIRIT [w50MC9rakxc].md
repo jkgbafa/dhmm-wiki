@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=w50MC9rakxc"
 duration_min: 212
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Prayer/Praying in Tongues", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Holy Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/prayer/praying-in-tongues", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-holy-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 this morning I want to share with you how many here pastas how many of us here are pastors how many are not pastors what are you work is Christian work is very good now it is a it is a great thing to serve the Lord amen and I would encourage everybody to serve the Lord Jesus all right today I want to share with you on different things from my different books and this one is called amplify your ministry and I want to share something about 1st Corinthians chapter 12 alright if you don't mind 1st Corinthians

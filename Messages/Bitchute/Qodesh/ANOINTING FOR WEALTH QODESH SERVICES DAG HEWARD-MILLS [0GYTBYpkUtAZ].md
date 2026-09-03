@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/0GYTBYpkUtAZ/"
 duration_min: 48
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Curses", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Let us pray. Father, we thank you for your blessing today. We thank you for giving us your help. In the name of Jesus, we ask that you lead us into all truth. Thank you for your blessing on our lives in Jesus' name.

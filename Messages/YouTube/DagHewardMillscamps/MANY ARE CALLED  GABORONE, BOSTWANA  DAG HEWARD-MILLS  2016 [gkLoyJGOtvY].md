@@ -8,6 +8,8 @@ year: 2016
 duration_min: 147
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 he saved you he saved me he saved us for all time what about others oh he saved you he saved me what are we doing for others Do You Believe In Dreams the holy spirit's dreams thousands of men running down the street they didn't know that the road was leading in to a steep and deadly cliff and into the Lake of Fire oh he saved you he saved me he saved us for all time what about others W he saved you and he saved me what are we doing oh yeah for or others multitudes multitudes

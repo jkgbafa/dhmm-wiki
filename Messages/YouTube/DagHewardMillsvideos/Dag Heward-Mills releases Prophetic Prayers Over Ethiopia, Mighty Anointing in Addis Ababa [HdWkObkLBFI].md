@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=HdWkObkLBFI"
 duration_min: 44
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/anointing", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 You are father. Thank you for everyone here tonight. Thanks for your spirit moving in our midst, Lord. Moving in our midst, Lord. Moving in our midst, Lord.

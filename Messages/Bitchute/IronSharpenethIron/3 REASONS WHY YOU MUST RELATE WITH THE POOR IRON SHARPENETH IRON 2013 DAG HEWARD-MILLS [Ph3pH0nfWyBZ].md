@@ -8,6 +8,8 @@ year: 2013
 duration_min: 22
 source: "whisper"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Three reasons why you must relate with the poor entreten. He said the spirit of the Lord is upon me, he has anointed me to preach the gospel to the poor. Amen. Amen. Number two, most people in the world are poor.

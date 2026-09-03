@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=VnYPdV5EeU8"
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Faith"]
+tags: ["topic/faith"]
 ---
 
 we'll be announcing the tie and there will be back that I will have to buy but victory boarded be up to me to decide the house and I will be by never try from where nobody told me the rod would be easy and I know it's dropping in is thought to be me he never said there wouldn't be dryer he never said I won't go he never said that everything goes the way I wanted to go like when my back is against the wall when I feel like Oh fizzle ah I'll just lift my head

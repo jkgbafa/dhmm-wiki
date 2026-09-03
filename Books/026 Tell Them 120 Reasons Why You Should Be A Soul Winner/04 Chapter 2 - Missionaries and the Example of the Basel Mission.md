@@ -4,6 +4,8 @@ book: "Tell Them 120 Reasons Why You Should Be A Soul Winner"
 book_number: "026"
 chapter_number: 4
 type: book
+topics: ["Missions"]
+tags: ["topic/missions"]
 ---
 
 #### Chapter 2\

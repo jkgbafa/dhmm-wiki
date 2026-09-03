@@ -4,6 +4,8 @@ book: "Blood Power The Blood Of Jesus"
 book_number: "106"
 chapter_number: 11
 type: book
+topics: ["The Holy Spirit"]
+tags: ["topic/the-holy-spirit"]
 ---
 
 Chapter 10\

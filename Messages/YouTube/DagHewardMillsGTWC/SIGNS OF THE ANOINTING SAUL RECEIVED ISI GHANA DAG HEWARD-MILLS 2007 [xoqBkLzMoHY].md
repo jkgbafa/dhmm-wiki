@@ -8,6 +8,8 @@ year: 2007
 duration_min: 24
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 The Lord is my light and my salvation. Whom shall I be the Lord is the strength of my life of whom shall I be afraid when the enemy came up against me to eat up my flesh they stumbled, and though an army may encamp against me, my heart shall be and thought against me this confident one thing have I desire of the Lord that one thing will seek for that I may dwell in the house of the Lord to behold the beauty of the Lord to inquire in his temple all the day of my life for in time of trouble you shall hide me in the secret place of his tabernacle my head shall be lifted up above my enemies round about me, therefore will I offer sacrifice of praise to the Lord teach me your way do not deliver me to the wind of mine adversaries that I may see the goodness of the Lord in the land of the living glory be to the Father and the Son to as it was in the beginning is now and ever shall be world without endelujah, let us pray Father, thank you so much for this evening for blessing us over and over again with different things.

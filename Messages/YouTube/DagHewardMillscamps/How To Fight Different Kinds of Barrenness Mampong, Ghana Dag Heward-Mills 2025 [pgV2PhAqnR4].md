@@ -9,6 +9,8 @@ duration_min: 55
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/How To Fight Different Kinds of Barrenness  Mampong, Ghana  Dag Heward-Mills  2025 [pgV2PhAqnR4]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Now I want us to look at some women who suffered from barrenness and let us see what they did to overcome the barrenness. Do you know some barren women in the Bible? Number one, Sarah. Let us use, let us see the strategy of Sarah. That she used.

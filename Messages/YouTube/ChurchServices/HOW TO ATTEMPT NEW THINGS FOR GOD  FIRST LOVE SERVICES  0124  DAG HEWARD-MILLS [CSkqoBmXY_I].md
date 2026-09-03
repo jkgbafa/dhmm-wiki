@@ -8,6 +8,8 @@ duration_min: 204
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/HOW TO ATTEMPT NEW THINGS FOR GOD FIRST LOVE SERVICES 0124 DAG HEWARD-MILLS [CSkqoBmXY_I]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 oh oh GL all power all all oh power all you all all glory all all all to all It All Belongs to You Jesus all glory all of Glory all to you all love all all glory s all power belongs to you Jesus to you to all all glory sing all power belongs to you Jesus it belongs to you sing Oh Lord Oh Glory oh power it belongs to you Jesus to you oh Lord Oh Glory oh power it belongs to you Jesus say oh Lord oh Glory Jesus glor all power power it belongs to

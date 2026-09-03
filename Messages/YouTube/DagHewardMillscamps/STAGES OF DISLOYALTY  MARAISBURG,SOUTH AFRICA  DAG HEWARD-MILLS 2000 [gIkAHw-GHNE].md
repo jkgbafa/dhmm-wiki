@@ -8,6 +8,8 @@ year: 2000
 duration_min: 57
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number 14 of the work of the ministry F column had come within their own camp and was destroying them from within amen and that's what the devil does so it's like in a church somebody Rises up somebody who is part of the authority will rise up and he will say things that will make you the church member confused and you are not sure whether what the person is saying is true or it's not true Hallelujah and so what we saying is that when you have lawyer people in the church you fight that

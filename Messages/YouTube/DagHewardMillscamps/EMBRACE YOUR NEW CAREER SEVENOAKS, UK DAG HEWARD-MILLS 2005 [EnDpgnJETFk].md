@@ -9,6 +9,8 @@ duration_min: 131
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/EMBRACE YOUR NEW CAREER   SEVENOAKS, UK DAG HEWARD-MILLS  2005 [EnDpgnJETFk]]]"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Welcome to track number sixteen of birthday. Kewa. Your new job. How many want to know more about your new job? Somebody should find Micah chapter six, verse eight.

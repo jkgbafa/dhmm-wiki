@@ -9,6 +9,8 @@ duration_min: 95
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/MTHATHA, SOUTH AFRICA  YOU ARE NOT CONDEMNED  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2015 [VfdhU4fkrMI]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Heavenly Father. Thank you for tonight. What a blessing. Be here in Umtata. Thank you that Umtata will never be the same again.

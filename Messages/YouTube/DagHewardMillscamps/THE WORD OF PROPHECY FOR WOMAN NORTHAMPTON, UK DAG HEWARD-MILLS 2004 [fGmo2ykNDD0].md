@@ -9,6 +9,8 @@ duration_min: 44
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THE WORD OF PROPHECY FOR WOMAN  NORTHAMPTON, UK DAG HEWARD-MILLS  2004 [fGmo2ykNDD0]]]"
+topics: ["The Holy Spirit", "The Holy Spirit/Gifts of the Spirit"]
+tags: ["topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit"]
 ---
 
 Welcome to chapter number six missions and missionaries now. Just ask the Lord for the Holy Spirit. Like the little girl in the dream. She asked for the Holy Spirit. Ask for the Holy Spirit.

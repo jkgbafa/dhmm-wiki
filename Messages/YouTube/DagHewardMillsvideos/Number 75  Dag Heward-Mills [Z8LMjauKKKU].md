@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=Z8LMjauKKKU"
 duration_min: 130
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 filled with a mixture of love peace and Tranquility in the moment I felt new and appreciated I wouldn't check that for anything in this world that is what God sent in his son did for me once I met him again at John 3 16. Lord all right this time thank you foreign tell me tell me more and who has lived in advance foreign oh yeah it is we work the field of Souls together you and I died something we are not the same sure all together the fields are ripe unto Harvest but the laborers are

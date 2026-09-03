@@ -8,6 +8,8 @@ year: 2007
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Children and Parenting", "Ministry and Pastoring", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/children-and-parenting", "topic/ministry-and-pastoring", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 now John chapter 11 John 11 it says verse one now a certain man was sick Lazarus right of Bethany the village of Mary and her sister Martha all right it was the Mary who anointed the Lord with ointment and wiped his feet and her hair whose brother Lazarus was sick verse four but when Jesus heard this he said this sickness is not unto death but for the glory of God so that the Son of God may be glorified amen now notice I'm I've started preaching so those outside please come in and take your seats now

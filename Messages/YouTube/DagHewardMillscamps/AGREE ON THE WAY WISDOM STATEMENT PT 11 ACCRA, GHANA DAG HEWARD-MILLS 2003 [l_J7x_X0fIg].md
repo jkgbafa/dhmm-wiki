@@ -9,6 +9,8 @@ duration_min: 35
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/AGREE ON THE WAY WISDOM STATEMENT PT 11  ACCRA, GHANA  DAG HEWARD-MILLS  2003 [l_J7x_X0fIg]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wisdom"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wisdom"]
 ---
 
 Welcome to chapter number 11 of agree on the way. And one lady, I remember in Lagon. I went to talk to her, and I said to her, Listen, you have to straighten your life. I mean, are you a Christian? And so on.

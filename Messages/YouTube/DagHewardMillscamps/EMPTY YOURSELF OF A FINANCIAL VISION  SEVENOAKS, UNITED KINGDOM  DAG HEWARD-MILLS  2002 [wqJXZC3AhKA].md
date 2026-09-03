@@ -8,6 +8,8 @@ year: 2002
 duration_min: 6
 source: "autocaption"
 match: "exact"
+topics: ["Vision and Direction", "Wealth and Finances"]
+tags: ["topic/vision-and-direction", "topic/wealth-and-finances"]
 ---
 
 welcome to track number six of all out let's now be a little specific empty yourself of a financial Vision amen amen if you want to be used by God I'm talking about things you must empty yourself up and one of them is you need to empty yourself of a financial Vision which is exactly the opposite of what is taught is that not so yeah because as long as you have a strong financial Vision money is such that it's difficult to come by and you've got to work very hard do you see so once you have

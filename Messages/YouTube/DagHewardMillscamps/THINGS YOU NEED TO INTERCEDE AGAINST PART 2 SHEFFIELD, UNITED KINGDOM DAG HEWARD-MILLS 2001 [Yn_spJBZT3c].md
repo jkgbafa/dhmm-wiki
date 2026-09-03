@@ -9,6 +9,8 @@ duration_min: 77
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/THINGS YOU NEED TO INTERCEDE AGAINST PART 2  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001 [Yn_spJBZT3c]]]"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 To degenerate means to gradually become of a lower type. So gradually do what? Become of a lower type. Amen. Now make sure you get this book.

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=N7OgXXLWvz8"
 duration_min: 143
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you high jeh you me you hi Je yes you you yes you you Hallelujah to you Hallelujah you w C come yes hallelujah look at you hallelu my he sh hallelujah hallelujah hallelujah w w Hallelujah for Hallelujah Allelujah hallelujah oh oh Hallelujah Hallelujah Hallelujah Hallelujah Hallelujah yes yes yes yes yes yes yes yes hallelujah hallelujah hallelujah you may go back to your place are you excited to be here this afternoon are you excited to be here this afternoon do you feel God is going to touch your life today if you are expecting a touch then

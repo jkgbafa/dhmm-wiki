@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=FILSozmrqIE"
 duration_min: 5
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 hi everyone I'm here I can with Jeremy my bodyguard we are travelling now from Bondi to a craft we just finished our last campaign in Bondi which is in the northern part of Ghana and we are making our way back for me back home so we just arrived at the bottling right which you can see behind us this is one of the largest man-made lakes if not the largest I think in the whole world and unfortunately there's quite a bit of rubbish around here and the town across is done by so we are crossing over

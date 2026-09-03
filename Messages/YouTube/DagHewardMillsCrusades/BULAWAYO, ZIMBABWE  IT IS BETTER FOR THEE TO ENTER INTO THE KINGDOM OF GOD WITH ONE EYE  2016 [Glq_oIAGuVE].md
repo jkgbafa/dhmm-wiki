@@ -8,6 +8,8 @@ year: 2016
 duration_min: 122
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 no Jesus no life no Jesus no life no no no no no no no no Jesus no life come on no Jesus no life no no no no no no no no Jesus no come on sing with me no Jesus no life no Jesus no come on listen I remember what the scriptures say in John 14 verse 6 I am the way the truth and the life no one comes to the father but through me come on sing with me no Jesus no Al come on no Jesus No Lie Say Say Say No Jesus no

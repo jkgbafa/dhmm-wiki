@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=7I-LuZ3DkBE"
 duration_min: 282
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 oh we give you praise oh we give you glory oh we give you praise we bless you Lord we bless you Lord we bless you Lord we bless you Lord for us to be in church we say thank you oh thank you for choosing us to be in church thank you for causing us to be in church blessed is the man whom thou choosest and causeth to approach unto you in your house in your temple oh oh yes we say thank you we give you praise we give you glory and we give you honor in

@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=90CUOZq5Dmg"
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances"]
+tags: ["topic/wealth-and-finances"]
 ---
 
 shall we pray mother thank you this evening for the your presence here thank you for your blessing as we come before your holy word Allah we ask that you guide us speak to our heart let your will be done let your hands everybody and ask God for the presence of the Spirit today with us other thank you thank you for your blessing thank you for your blessing Lord thank you for the persons of your spirit thank you Lord in the name of Jesus amen you may be seated hallelujah turn to Isaiah 50 we are just

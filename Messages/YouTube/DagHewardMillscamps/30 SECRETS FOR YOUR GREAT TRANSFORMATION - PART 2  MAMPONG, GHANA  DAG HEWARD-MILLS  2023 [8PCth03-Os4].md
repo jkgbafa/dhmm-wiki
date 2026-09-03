@@ -8,6 +8,8 @@ year: 2023
 duration_min: 146
 source: "autocaption"
 match: "exact"
+topics: ["The Word and Books", "The Word and Books/Bible Study"]
+tags: ["topic/the-word-and-books", "topic/the-word-and-books/bible-study"]
 ---
 
 right now I was giving you 30 secrets for what that are going to transform transforming your church and your ministry and I've given you four Secrets what is secret number one achieve what Apostle Paul achieved aied through through books just like how he achieved amen number two transform your church and your ministry by the greatest Apostolic commandment given to pastors study the books study books study to show thy s approved someone who will not be ashamed yeah the things are in the books only that we haven't studied them amen amen number three achieve what the

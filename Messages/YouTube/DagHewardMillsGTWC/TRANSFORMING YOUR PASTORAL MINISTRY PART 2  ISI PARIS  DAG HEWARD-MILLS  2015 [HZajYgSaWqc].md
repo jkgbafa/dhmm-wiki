@@ -8,6 +8,8 @@ year: 2015
 duration_min: 76
 source: "autocaption"
 match: "exact"
+topics: ["Leadership", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Holy Spirit", "Wisdom"]
+tags: ["topic/leadership", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-holy-spirit", "topic/wisdom"]
 ---
 
 Amen. In 2 Corinthians 3 verse 18. 2 Corinthians 3 18. The Bible says that we are transformed by the spirit. Amen. We are transformed by the Holy Spirit. Amen. How will the Holy Spirit transform us? We are being transformed into the same image from glory to glory, as by the Lord the Spirit. The Holy Spirit is the primary element that changes and transforms our lives and ministries. How will this happen? Isaiah chapter 11 speaks to us of the Holy Spirit. Then a shoot will spring from the stump of Jesse, and a branch from his roots

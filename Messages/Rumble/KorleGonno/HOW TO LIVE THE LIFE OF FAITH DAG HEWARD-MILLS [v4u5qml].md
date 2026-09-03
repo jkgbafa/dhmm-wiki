@@ -7,6 +7,8 @@ url: "https://rumble.com/v4u5qml/"
 duration_min: 44
 source: "whisper"
 match: "exact"
+topics: ["Faith", "Prayer"]
+tags: ["topic/faith", "topic/prayer"]
 ---
 
 There is filled with blood drawn from Emmanuel's vein. And sinner splunge beneath that flight. They lose all. Shall we take it one more time? There is a fountain.

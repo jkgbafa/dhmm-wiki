@@ -9,6 +9,8 @@ duration_min: 19
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Y Element of Example Setting  Belmopan, Belize  Dag Heward-Mills  2024 [np_s8iu7lJA]]]"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 Number twenty eight beautiful now number twenty eight young elements, number twenty eight example setting, example setting. First Timothy four verse twelve. Let no man despise thy youth. Amen. But what should the young person do?

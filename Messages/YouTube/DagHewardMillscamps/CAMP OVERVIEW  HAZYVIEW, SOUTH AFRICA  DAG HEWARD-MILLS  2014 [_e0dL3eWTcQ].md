@@ -8,6 +8,8 @@ year: 2014
 duration_min: 49
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 Hallelujah just lift your hands and pray that this session we are stepping into will be a session that will transform your life as we sit at the feet of our father and he ministers a change will come Jesus said it that what you hear converts you so one of Satan's plans is to prevent you from hearing that in hearing you will not hear and in seeing you will not see so that you be converted the real change is in hearing in a certain way pray Lord let nothing Pass Me By let nothing Pass Me By

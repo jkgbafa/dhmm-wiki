@@ -9,6 +9,8 @@ duration_min: 16
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MARRIAGE AND THE MINISTRY  SHEFFIELD, UNITED KINGDOM  DAG HEWARD-MILLS  2001_O_uufymoaHQ [Ljr-mSvmTeY]]]"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Marriage and Family", "Ministry and Pastoring"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/marriage-and-family", "topic/ministry-and-pastoring"]
 ---
 
 Welcome to track number 24 of Pastors of Thousand. Now, seven things that marriage and the ministry. We did that yesterday. Find it. Let me go through that one with you.

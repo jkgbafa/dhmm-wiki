@@ -4,6 +4,8 @@ book: "Others"
 book_number: "025"
 chapter_number: 3
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Chapter 2\

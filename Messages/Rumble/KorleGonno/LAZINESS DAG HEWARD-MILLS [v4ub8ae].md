@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ub8ae/"
 duration_min: 28
 source: "whisper"
 match: "exact"
+topics: ["Work and Diligence", "Work and Diligence/Laziness"]
+tags: ["topic/work-and-diligence", "topic/work-and-diligence/laziness"]
 ---
 
 Your Christian life, you often do not realize when you are going away from God. Amen. It happens so gradually that you don't even notice. Now, no one here would ever want to go to hell. And no one here would ever plan to go to hell, and no one here would ever do anything that would make him or her go to hell.

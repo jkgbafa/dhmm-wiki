@@ -8,6 +8,8 @@ year: 2002
 duration_min: 59
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 welcome to track number eight of life in the church said unto him why callest thou me good there is none good but one and that is God amen thou knowest the Commandments do not commit adultery do not steal do not kill do not bear false witness defraud not honor thy father and thy mother and he answered and said unto him master all these I have observed from my youth how lack everybody say one thing one thing one thing one thing thou lackest th go thy way sell whatsoever thou Hast and give to the poor and

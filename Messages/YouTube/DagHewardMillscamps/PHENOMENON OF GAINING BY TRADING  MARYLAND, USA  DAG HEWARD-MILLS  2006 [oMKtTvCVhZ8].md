@@ -8,6 +8,8 @@ year: 2006
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 all right you may be seated he hallelujah amen okay this is our last session this so um when we finish we finished I want to share with you another phenomenon okay it's good you came for this session am what do you think if you know any soul that may be like Jonah as sleep in the of the will you may want to go and rescue the person for okay okay Luke 19 are you down where is it okay who's going to read for us from verse um 12 somebody should read Luke 19s 12 yeah he

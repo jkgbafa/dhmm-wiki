@@ -8,6 +8,8 @@ year: 2015
 duration_min: 169
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Mega Church", "Prayer", "Prayer/Intercession", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Vision and Direction"]
+tags: ["topic/church-growth", "topic/church-growth/mega-church", "topic/prayer", "topic/prayer/intercession", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/vision-and-direction"]
 ---
 
 wow can you open the windows that are not open open them nicely all right now we want to continue on this very important message on the mega church Hallelujah now for this mega church Vision to be accomplished all right we need to follow the steps of Jesus amen amen are you listening to me yes so the steps of Jesus very very important Matthew chapter 3 wow wow Matthew Matthew chapter 3 in those days John the Baptist preaching in the wilderness now the first step towards the mega church vision of 10,000 children of God okay is

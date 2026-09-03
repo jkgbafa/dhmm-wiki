@@ -8,6 +8,8 @@ year: 2024
 duration_min: 56
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 Hallelujah father we are excited today to receive of your holy word guide us by your Mighty Holy Spirit and lead us to do your will thank you for the Miracles you are doing for us thank you thank you for the miracle of Salvation amen and the Miracle of the call of God we are grateful L we give you praise L we give you thanks l in Jesus name and everyone said amen amen you may be seated number one is I expect a miracle of Salvation how many will I that salvation is a miracle yes now

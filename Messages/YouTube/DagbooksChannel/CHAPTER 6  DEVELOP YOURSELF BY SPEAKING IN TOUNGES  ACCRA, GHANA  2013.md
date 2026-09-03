@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2013
 source: "autocaption"
+topics: ["Prayer", "Prayer/Praying in Tongues", "The Holy Spirit", "The Holy Spirit/Gifts of the Spirit", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues", "topic/the-holy-spirit", "topic/the-holy-spirit/gifts-of-the-spirit", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 How many know that prayer is important? Right? Have you found 1 Corinthians 14 verse one? Follow to charity, but rather that you may prophesy. So I'm I'm I'm I'm preaching about praying in tonesues. All right? Because I want all all of you to pray in tonesues. Amen. A lot of tongues. Amen. It's very important. Prayer works. Amen. He that speaketh an unknown an unknown tongue speaketh not unto man, but unto God. Amen. For no man understandeth him. How be it in the spirit he speaketh mysteries to God. Amen. So when you are speaking in tongues,

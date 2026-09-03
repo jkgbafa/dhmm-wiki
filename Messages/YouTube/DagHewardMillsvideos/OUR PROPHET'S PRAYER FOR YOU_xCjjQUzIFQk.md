@@ -3,6 +3,8 @@ title: "OUR PROPHET'S PRAYER FOR YOU_xCjjQUzIFQk"
 channel: "DagHewardMillsvideos"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 Jesus Christ on the cross bloody beaten casas he that hangs on a tree all cases applying to you on that cross now our punishment directed at you I received on that cross on your behalf our punishments for your mistakes on that cross now our pain that is determined for you is on that cross today may that cross substitute for you today Jesus name but you never experienced the case the pain the punishment the problems the difficulties that you are brought upon yourself by your own actions media who believed you now you have escapes from Casas

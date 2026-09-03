@@ -8,6 +8,8 @@ duration_min: 92
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/How to Overcome the Course of this world  First Love Church  Dag Heward-Mills [HjRlDCEIPZE]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses", "Spiritual Warfare/Demonology", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/spiritual-warfare/demonology", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I want you to remember this for the rest of your life. The door, the door, the door, the door to the curse is the reason why you have enemies when you are great. Okay? Is because lift your hand and put your hand. Lord, save me from all my debts. Let me be blessed to lend and never to borrow in Jesus name. Those of you who are driving borrowed cars, you come to church with somebody's car as though you have a car, but it's a borrowed car. Lift your hand. Lord, let all borrowed cars be set

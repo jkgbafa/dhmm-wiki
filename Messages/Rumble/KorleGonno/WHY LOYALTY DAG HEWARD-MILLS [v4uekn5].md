@@ -7,6 +7,8 @@ url: "https://rumble.com/v4uekn5/"
 duration_min: 84
 source: "whisper"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Marriage and Family", "Marriage and Family/Husbands and Wives"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives"]
 ---
 
 Wave after wave after way Glory of the Lord Fills this holy place wave after wave wave after wave wave after wave glory of the Lord fills this holy thing wave after wave wave up the healing wave of the Lord oh wave after wave wave after wave wave after wave the glory of the Lord Feels this holy place come on and sing it now wave after wave the healing wave it's never stop never cease glory of the Lord come on fills this holy place wave after wave oh wave after wave glory of the Lord feels this

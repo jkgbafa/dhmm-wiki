@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=_HxGuN6dbP4"
 duration_min: 146
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 what a blessing refer to a canoe by the grace of God we have the evangelist with us tonight is it a blessing keep clapping your hands what Jesus oh how much also high you may be seated why look at ulama fancy and let's all find a place to sit I broke a bachelor who America to lanky other Stein Monica yeah I want to announce that we have the honor of the presence of the executive mayor of a city Tribeca where nature is magari Corona Roger baron le mayor owaru Nawaf ruber oh and we want to

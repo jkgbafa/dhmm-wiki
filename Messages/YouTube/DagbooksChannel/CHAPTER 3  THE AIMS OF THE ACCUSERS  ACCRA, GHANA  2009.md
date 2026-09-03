@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2009
 source: "autocaption"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Now the next um thing that I'm going to share with you is as a good leader I was explaining that Africans let us not let us not suarez this one let's not say is it me let's accept it that based on the evidence when it comes to teamwork, leadership, management, administration, all these things. We are not naturally good at it. It is our natural weakness. Amen. Amen. And that is why sometimes when white people come and they see any kind of organization, they are impressed. When they were coming to uh South Africa for the World

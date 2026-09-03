@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-rgyRTjn5FU"
 duration_min: 213
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 put your hands together for jesus christ everybody oh your hand clap can be better than i promise your hand clap can be better than what is happening hallelujah now next we want to say thank you again to god by this time and he find it in psalm 126 they're thanking god it says when the lord turned against the captivity of remember psalm 68 verse 18 he let the captive uh those were in captivity set them free then i said i want the lord 10 again the captivity of zion we were like them that dream there's

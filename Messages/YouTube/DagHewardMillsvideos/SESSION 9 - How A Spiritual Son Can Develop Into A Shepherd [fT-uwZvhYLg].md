@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=fT-uwZvhYLg"
 duration_min: 190
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 all right ten steps easy top how a spiritual son come on athletes can be developed into a shepherd you have the book just forget it okay I'm been 33 I gave you twenty two steps there was they don't need entity go into the book chapter 32 all the 22 stages are there is it it's in the book I gave you already but you didn't know it was in the book what a shock how a spiritual son can develop into a shepherd come off his spiritual duty and Benjy so just walk away and then family leave

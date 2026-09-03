@@ -8,6 +8,8 @@ year: 2004
 duration_min: 32
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 welcome to track number three of church planting tent Ministry is the ability to combine secular work with real Ministry secular work when I say secular work carentry legal work computer uh what security nursing anything you are welding teacher especially teachers how many teachers do we have here teachers good you can all be lay pastors where do you teach here do you teach here where huh I IOP Punk what's that is it a place or a school it's a place okay you teach there so you can be a lay Pastor there you make a very good

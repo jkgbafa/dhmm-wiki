@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=SSyH3NTsBcQ"
 duration_min: 289
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Prayer", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/anointing", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Numbers chapter 12 and verse number seven the Bible says my servant Moses is not so in other words it's not like some of you why because he is faithful in my house he's Dependable in my house he is trustworthy in my house he steady in my house he's always in my house look at it again numbers 12 7 my servants Moses is not like other people she is faithful in all my house I want God to look at us and say that hey that's my servant he is faithful that's my she he's faithful that's my

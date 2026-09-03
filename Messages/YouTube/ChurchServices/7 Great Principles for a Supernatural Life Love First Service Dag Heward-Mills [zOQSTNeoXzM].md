@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=zOQSTNeoXzM"
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Salvation", "Salvation/The New Birth"]
+tags: ["topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 you have to learn to be obedient to god and to his word when you are obedient you provoke miracles and supernatural occur the key to being known is pressing is people who press who get known certain miracles will not happen and certain problems will not be solved do you get it as long as you are not false now there is a master key to elevating your level to a son of god or a daughter of god and that is in romans 8 verse 14 that as many as are led by the spirit of god they

@@ -8,6 +8,8 @@ year: 2014
 duration_min: 66
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 Ecclesiastes chapter 3 verse 15 you don't like Ecclesiastes wow are you enjoying the new stars powerful now the theme for our camp is in Ecclesiastes chapter 3 verse 15 God requireth that which is passed as the theme God requireth that which is passed amen is it powerful God requireth that which is passed Ecclesiastes 3:15 amen it says that which had been is now and that which is to be has already been and God requireth that which is passed wow is it deep is it too deep the dark say it is a dark thing somebody was

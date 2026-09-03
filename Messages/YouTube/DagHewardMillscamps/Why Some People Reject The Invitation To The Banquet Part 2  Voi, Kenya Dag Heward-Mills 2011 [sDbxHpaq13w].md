@@ -8,6 +8,8 @@ year: 2011
 duration_min: 182
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 so a certain man made a great supper sent out invitations and had responses from the invitations amen and uh this morning we've had one of the most powerful sessions I've had in any Camp I've attended and um I I feel that we need to really take these things very seriously amen and uh as we stay at the feet of the Lord and receive what God has for us it is very important for us to to um understand that the invitation that God is giving you to be a Shepherd the invitation God is giv you to

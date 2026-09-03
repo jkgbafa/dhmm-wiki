@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=2osv_Ymx2Po"
 duration_min: 35
 source: "autocaption"
 match: "exact"
+topics: ["Salvation"]
+tags: ["topic/salvation"]
 ---
 
 I want you to ask God to speak to you this morning as we come before his holy word father we are thankful for the opportunity that we have Lord we ask that you be gracious and bless us today thank you for this opportunity thank you for this chance we are grateful Holy Spirit in Jesus name Amen you may be seated in the presence of the Lord it's good to be here this morning to share the Word of God with you amen today service is a putnis service I'm going to be asking you to become partners

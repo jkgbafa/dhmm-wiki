@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=o7n8E-caGjc"
 duration_min: 92
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 as I am and the burden at my daughter's I am stiff a law it is an adoration played of praise becoming there every day all half under the box Assad Hassan Sabra all the wish of a praise he has of a decoration the sua of a law will have to give every day the toy of a bird is the worthy of adoration did not play of a law should the pancake or cats years I played new age he has of an adoration I am delighted with noise I want the give is the addition of the

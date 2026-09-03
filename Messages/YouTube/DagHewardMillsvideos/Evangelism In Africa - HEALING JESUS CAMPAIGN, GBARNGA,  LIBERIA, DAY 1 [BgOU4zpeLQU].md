@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=BgOU4zpeLQU"
 duration_min: 110
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah if I gain all things in this world wide world and a little Jesus I've lost everything but we Jesus I have everything is more precious than amazing if I gain all times in this whole wide world and the loose Jesus I've lost everything my way Jesus I am represent is more precious than anything I happy that I have Eva if I have Jesus I have everything oh Jesus mocking Jesus his war brush your dog somebody would be happy that I had that I happy that if I happy that I have everything oh Jesus mocking

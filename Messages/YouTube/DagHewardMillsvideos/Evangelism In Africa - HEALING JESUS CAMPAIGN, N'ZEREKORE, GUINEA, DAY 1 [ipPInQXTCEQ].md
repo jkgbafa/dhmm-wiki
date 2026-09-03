@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=ipPInQXTCEQ"
 duration_min: 133
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 Concha second yeah said she won't come Jamie won't ever lovely son done let's try to do it uh in our song g-man woman girl sha-la-la-la-la-la vulgar Chantelle but what kind of work cause my daddy je t'adore give it away gossip ah ha forget you your fan boy yella back and laugh at almost girl gaga thank you we'll take our dog give it away the new fleshly to the long gone past a rocky us Turner to members war our team member um Markham wah who's a new fleshly through the long call that a rock a you

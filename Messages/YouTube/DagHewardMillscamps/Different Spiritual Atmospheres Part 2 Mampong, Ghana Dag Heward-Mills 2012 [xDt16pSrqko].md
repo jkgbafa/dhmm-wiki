@@ -9,6 +9,8 @@ duration_min: 161
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/Different Spiritual Atmospheres Part 2  Mampong, Ghana  Dag Heward-Mills  2012 [xDt16pSrqko]]]"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Now the next important atmosphere is the riverside atmosphere, riverside atmosphere. When we when we close, I'm going to take you to a river. We are already by the river. The river is just here. And you will see a little of the riverside atmosphere.

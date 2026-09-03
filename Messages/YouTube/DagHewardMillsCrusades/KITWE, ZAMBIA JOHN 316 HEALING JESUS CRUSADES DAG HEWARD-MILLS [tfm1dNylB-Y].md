@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=tfm1dNylB-Y"
 duration_min: 95
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "Spiritual Warfare", "Spiritual Warfare/Demonology", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Mouchina de Croyes Toi Bolla Où es soi Palois Mouchina Lyon Toi Wina Ushina Coi Toi Lift up your hands and see Yesu Mi Pala Toi Miba Lesou Mipala Toi Mipala Toi Mi Lumba Les Ami Pala Mi Pala Toi M'Ipala Toi Mipala Oh Toi Mipala Toi Mipala Tois Mipala To Mipala Toi Mipala Fiso Toi Mipala Tois Mipala Oh Mipala Toi Mipala Tois Mipala To Mi Are You Sure You Already Nabata Ofini Demi So Boule Yesou Demala M'Oso Shiar That M Boule Yesou Demala Mou Busus Moi Sha Kuma Louis Poussa Kuma Tushi In the Kakoua Are You Yeah Nanou Nan Chula Nanili Laya Kuman Il Yona Kumene Yes Are You N'A Kumene Yesou Il Yona Kum Yes N Papa Of Chinese O'Moé Oh Dès So To Amba Yesou To Mou Là Yesu To Mipala Soit Milo Um Balse In Bene Soit Milo Bas To Mou Là Yesu To M'Ipal C'est Yes, who to me bala come and sing with me, yes who to a me lumba, yes who to a me su boah, that'Ipal Com Alessand Yesu To Milo Basou To M Sou Boule Yesu To Mi Bala, to me lobby Are you here lift up your two hands?

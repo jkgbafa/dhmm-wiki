@@ -8,6 +8,8 @@ year: 1999
 duration_min: 85
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 salut oh you have together have your voices upgrade completely blow in once again blow because I don't know where we come from to know where I come from I don't know where we go no let it blow me sweetly just a week there's a wind up blowing now so we'll put your hands together and let's go oh it's a program room it is blowing once again do you know why we customize don't know where it comes from I don't know where we go cover me yo ho Father we thank you in the name of Jesus

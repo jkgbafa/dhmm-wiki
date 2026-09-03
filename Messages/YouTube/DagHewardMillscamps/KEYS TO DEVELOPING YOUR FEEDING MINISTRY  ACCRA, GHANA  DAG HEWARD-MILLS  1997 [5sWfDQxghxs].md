@@ -8,6 +8,8 @@ year: 1997
 duration_min: 32
 source: "autocaption"
 match: "exact"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 welcome to track number seven of loyalty and the mega church suffering number three p pain number four disce disgrace number five tired tiredness number six H hunger these are the characteristics of giving birth amen any woman who has given birth should stand up and tell me that what I'm saying is not true you will suffer it will take a long time you'll be disgraced you have pain amen you'll be hungry Hallelujah right now let's move on to the next Ministry the feeding Ministry the feeding Ministry of the shepherd turn your Bible to Micah chapter 7

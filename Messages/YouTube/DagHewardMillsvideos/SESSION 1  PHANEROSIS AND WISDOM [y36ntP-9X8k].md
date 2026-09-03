@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=y36ntP-9X8k"
 duration_min: 148
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Prosperity and Poverty", "Wisdom"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/prosperity-and-poverty", "topic/wisdom"]
 ---
 
 let us pray father we are grateful for an opportunity this evening to be in your presence Lord we pray Lord for the spirit of Revelation spirit of wisdom and we ask Allah that you would help us Lord to flow with your spirit to walk in your spirit and to receive all that you have for us from your throne room we ask for the blood to cover and to speak on our behalf before the throne thank you for mercies and gifts that are given to us today in the name of Jesus amen you may be seated

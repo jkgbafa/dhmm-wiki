@@ -8,6 +8,8 @@ duration_min: 110
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/Be a Permanent Member!  How to Be a Good Sheep (Part 3) by Dag Heward-Mills [RWH9U99Nw3U]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 this sister whom you married where did you see her he said look I used to play in a nightclub so in the nightclub I saw this girl moment I said hi baby I love you baby oh he said that is why I'm in this situation how many are not sitting or standing by your biological brother uh-huh this is life this is life you see that even though you have two sisters three brothers one you find out most of your life you are not you are not with them if you don't accept the family that God

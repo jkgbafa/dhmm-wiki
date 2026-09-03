@@ -9,6 +9,8 @@ duration_min: 105
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE IMPORTANCE OF BEING LED BY GOD  ISI PARIS  DAG HEWARD-MILLS  2015 [YvAaTBK9Us4]]]"
+topics: ["Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care", "Prayer", "Vision and Direction", "Vision and Direction/Hearing God", "Vision and Direction/The Will of God", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/prayer", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god", "topic/vision-and-direction/the-will-of-god", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Father, thank you for this great blessing. Help us to be men of remembrance. In Jesus' name. Amen. Amen.

@@ -7,6 +7,8 @@ url: "https://rumble.com/v4ucqeq/"
 duration_min: 27
 source: "whisper"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Salvation", "Salvation/Backsliding"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/salvation", "topic/salvation/backsliding"]
 ---
 
 The symptoms of backsliding. Amen. Turn with me to Luke chapter 21. Luke chapter 21, verse 25. And there shall be signs in the sun and in the moon and in the stars and upon the earth, distress of nations with perplexity.

@@ -8,6 +8,8 @@ year: 2008
 duration_min: 82
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell"]
 ---
 
 nai nanai Zaina you are by the grace of the Lord navare Naina Nana nanana and by the grace of the Lord na nai na na na for the grace of the Lord minava of the Lord [ music] vodena nada the grace of the Lord is forever nanana nanana for the grace of the Lord is forever anana Hallelu Hallelujah Raise your hands Thank you Jesus Thank you for your strength Thank you for your anointing today Thank you for what you do today Jesus We thank you We thank you for ru Jesus thank you Lord Jesus heals

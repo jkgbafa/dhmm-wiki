@@ -8,6 +8,8 @@ year: 2024
 duration_min: 102
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Demonology", "The Holy Spirit"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology", "topic/the-holy-spirit"]
 ---
 
 I want you to help me to welcome a man of faith and Power hallelujah hallelujah God everybody lift your hands every standard there's here I want somebody to control the children at the back no moving tonight is a special night this afternoon and the power of God is here Jesus is here Jesus is going to touch many people the presence of the holy spirit is Here There Is Power here tonight father we give you thanks for this great privilege to be here in touch every life here today and bless every family which is represented here

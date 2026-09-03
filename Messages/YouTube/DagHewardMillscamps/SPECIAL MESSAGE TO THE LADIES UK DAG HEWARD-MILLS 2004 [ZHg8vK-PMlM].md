@@ -9,6 +9,8 @@ duration_min: 33
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/SPECIAL MESSAGE TO THE LADIES  UK  DAG HEWARD-MILLS  2004 [ZHg8vK-PMlM]]]"
+topics: ["Anointing", "Marriage and Family"]
+tags: ["topic/anointing", "topic/marriage-and-family"]
 ---
 
 Welcome to track number twelve of others. Now I was going to share with you about some things, but I'm not going to do that anymore. Another time. But I want only ladies in the front row. All the ladies should come.

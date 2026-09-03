@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=C4vM1W6DWEc"
 duration_min: 81
 source: "autocaption"
 match: "exact"
+topics: ["Prayer", "Spiritual Warfare", "Spiritual Warfare/Curses", "Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/curses", "topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 I promise you, you're going to hear his voice after today's message. You're going to hear his voice beautifully. Amen. Keep watching. We are watching the Bible. So says, "Today, if you hear his voice, today if you hear, if you get a chance to hear, not you know, not if he speaks." Yes. But if you hear, is it and if if look at the verse if today if you will hear. Is it you may not hear it. How many have learned how you can hear the voice of God today? Isn't it today? I want to tell

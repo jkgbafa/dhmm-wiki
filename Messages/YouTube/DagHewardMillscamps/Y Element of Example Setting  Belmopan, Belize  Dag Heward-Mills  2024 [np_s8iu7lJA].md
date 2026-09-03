@@ -8,6 +8,8 @@ year: 2024
 duration_min: 19
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 orang number 28 beautiful now number 28 young elements number 28 example setting wowow example setting 1 Timothy 4 verse 12 let no man despise thy youth amen amen but what should the young person do be thou an example of the Believers you see young people people can set good example be thou an example of the Believers in word in conversation in charity in spirit in faith in Purity yes now instead of young people being a problem young people are actually powerful examples your examples that others can follow yes young people so it is important that

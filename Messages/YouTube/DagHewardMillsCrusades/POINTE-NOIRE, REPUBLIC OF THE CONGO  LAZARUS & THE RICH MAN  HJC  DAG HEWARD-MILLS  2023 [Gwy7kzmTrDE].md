@@ -9,6 +9,8 @@ duration_min: 68
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/POINTE-NOIRE, REPUBLIC OF THE CONGO LAZARUS & THE RICH MAN HJC DAG HEWARD-MILLS 2023 [Gwy7kzmTrDE]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Prayer"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/prayer"]
 ---
 
 P la ce péch hallelujah hallelujah wou jus le jesusuér jus person laamp laen au ci maisut laaintenant il pas j tout le SER tout le est diff diff 12 all au ciel non 11 sont allé au ciel et aller en enfer h deme ton voisin en enfer écoutez maintenant j par pas par paslise par pas Jesus told us a story of a rich man who ate well and who wore de et C he was he was like that man he wore clothes of color PPRE like the color of his garment and it was also of

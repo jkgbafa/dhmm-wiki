@@ -8,6 +8,8 @@ year: 2012
 duration_min: 179
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 These are the days of the seeker. The tribules becoming after these are the days of your service prevailing the temple of place And these are the days of the harvest The Lion's fighting your life So we are the Lord We are declaring the word of the Lord Holy God in the cloud Shining like the sun I don't let your voice It's the year of Jubilee I don't say salvation He saw the days of the I Jones declaring the way of the Lord And these are the days of the Sabbath being restores And these are the

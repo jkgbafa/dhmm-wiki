@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=PlG-aCcrLnc"
 duration_min: 19
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/faith", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 faith is an Unstoppable force Luke chapter 22 and the Lord said Simon Simon Satan has desired to have you that he may sift you as wheat but I have prayed for thee that thy faith fail not and when thou art converted strengthen thy Brethren amen now here we see that Satan is after your faith Satan is after your faith it says Satan has desired to sift you like wheat to make you into nothing all right and but I have prayed for you what has he prayed for what did Jesus pray for I have prayed for

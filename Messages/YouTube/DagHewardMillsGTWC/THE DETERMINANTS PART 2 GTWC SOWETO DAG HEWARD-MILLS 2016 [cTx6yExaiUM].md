@@ -9,6 +9,8 @@ duration_min: 192
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsGTWC/THE DETERMINANTS PART 2  GTWC SOWETO  DAG HEWARD-MILLS  2016 [cTx6yExaiUM]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Ministry and Pastoring", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades", "The Call of God", "The Call of God/Responding to the Call", "The Word and Books", "The Word and Books/Bible Study", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/ministry-and-pastoring", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call", "topic/the-word-and-books", "topic/the-word-and-books/bible-study", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Looking for a man that I can send someone to sacrifice his life his dreams, his goals. I'm looking for someone who loves me so hello. Is it me you're looking for? I'm the one you call to serve. I'm the one you've been speaking to.

@@ -4,6 +4,8 @@ book: "How You Can Become A Strong Christian"
 book_number: "045"
 chapter_number: 6
 type: book
+topics: ["Prayer", "Vision and Direction", "Vision and Direction/The Will of God"]
+tags: ["topic/prayer", "topic/vision-and-direction", "topic/vision-and-direction/the-will-of-god"]
 ---
 
 Chapter 5\

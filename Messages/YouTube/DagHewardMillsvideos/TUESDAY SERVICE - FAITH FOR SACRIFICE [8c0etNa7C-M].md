@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=8c0etNa7C-M"
 duration_min: 80
 source: "autocaption"
 match: "exact"
+topics: ["Faith", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/faith", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 ha ha Appa was bad where you can draw without so very shut up who is that black and you can told without so very oh oh after whisper we're gay and you can go without starvation gotta do is bad where you can go without me oh god hath we pass from the line every one of you can have a brow all you need to do below we were back where oh and you can go without are very shy ha ha oh I do is bad when you count Oh without salvation forget this very day you

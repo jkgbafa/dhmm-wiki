@@ -8,6 +8,8 @@ year: 2015
 duration_min: 105
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 B for one for let's take it up for be Hallelujah let's appreciate the CH with a hand clap Tonight Tonight is the first night of this campaign I believe that great blessings lie ahead of us I see some people walking through where people are seated kindly find a place to sit ashes must also be seated at this time please be seated hallelujah hallelujah Clap Your Hands for Jesus tonight it's going to be an awesome three nights God has sent a servant to us what a supernatural visitation and I believe that your life will never be

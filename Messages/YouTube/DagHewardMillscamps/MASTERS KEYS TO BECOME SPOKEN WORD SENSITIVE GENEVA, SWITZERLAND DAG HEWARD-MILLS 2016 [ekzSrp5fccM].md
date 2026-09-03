@@ -8,6 +8,8 @@ year: 2016
 duration_min: 16
 source: "autocaption"
 match: "exact"
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 The next one is you must become spoken word sensitive. Voice activated. Because now the thing is moving. Show me the nearest pizza. And it is telling you.

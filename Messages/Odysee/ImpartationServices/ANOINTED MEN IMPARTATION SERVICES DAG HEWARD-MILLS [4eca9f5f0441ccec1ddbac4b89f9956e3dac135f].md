@@ -7,6 +7,8 @@ url: "https://odysee.com/@daghewardmillsimpartationservices:0/anointed-men-impar
 duration_min: 70
 source: "whisper"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles"]
 ---
 
 Father, we thank you for the opportunity we have to receive your word and to receive of your spirit tonight in Jesus' name. Amen. You may be seated. Hallelujah. Tonight I am sharing with you about anointed men.

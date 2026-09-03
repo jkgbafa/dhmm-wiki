@@ -4,6 +4,8 @@ book: "It Is A Great Thing To Serve The Lord"
 book_number: "034"
 chapter_number: 11
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 CHAPTER 10\

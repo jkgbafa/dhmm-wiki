@@ -4,6 +4,8 @@ book: "Those Who Are Slanderers"
 book_number: "093"
 chapter_number: 11
 type: book
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 ### Chapter 9\

@@ -9,6 +9,8 @@ duration_min: 135
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillsCrusades/KLERKSDORP, SOUTH AFRICA  JOHN 316  HEALING JESUS CRUSADES  DAG HEWARD-MILLS  2016 [28h4cxgi43Q]]]"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Heaven, Hell and Eternity/Hell", "Soul Winning and Evangelism", "Soul Winning and Evangelism/Crusades"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/heaven-hell-and-eternity/hell", "topic/soul-winning-and-evangelism", "topic/soul-winning-and-evangelism/crusades"]
 ---
 
 Yes, you are great in battle Shawa It's your name You are Mighty Warrior What a mighty warrior Yes you are great You are great you are great You are great So what is your name So I is your name Mighty Warrior Mighty Warrior You are great in battle Yes your name Shaw It's your name You are Mighty Warrior You are the Mighty Warrior You are great Shaw Shawama is your name Shawama is your name You are the Mighty Warrior You are the Mighty Warrior Yes you are great Show over Shaw is your name You are the Mighty Warrior Mighty Warrior You are great Show Show Is your name You are You are the mighty warrior Mighty Warrior Yes you are great Shahwa is your name El Shada is your name Elohim is your name Mother Mighty Warrior Mighty Warrior You are great in battle Shahova Shahova Clap your hands in clapping your hands on the Quran Jesus Let's welcome him back and let's talk your nose tonight so much Hallelujah Hallelujah Wow.

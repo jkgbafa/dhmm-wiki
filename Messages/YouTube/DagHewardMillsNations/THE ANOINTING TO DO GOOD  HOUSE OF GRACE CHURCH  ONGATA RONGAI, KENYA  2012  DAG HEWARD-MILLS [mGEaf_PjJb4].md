@@ -8,6 +8,8 @@ year: 2012
 duration_min: 75
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/anointing", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 well um I want to introduce a couple of books this one is called uh transform your pastoral Ministry you're a pastor it's a very powerful book for your pastoral work it will be a blessing if you want to be a pastor or if you know a pastor you can send it to him instead of sending him a Christmas card or birthday card it cost the same thing as a card and it's far more valuable and the Art of shepherding all for pastors and leaders amen amen people are sheep so this is a very good book

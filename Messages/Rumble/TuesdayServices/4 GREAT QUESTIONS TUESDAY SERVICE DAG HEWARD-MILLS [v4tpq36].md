@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tpq36/"
 duration_min: 32
 source: "whisper"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Salvation", "Salvation/Repentance", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/salvation", "topic/salvation/repentance", "topic/salvation/the-new-birth"]
 ---
 
 Father, we thank you for this evening. We ask that you guide your guide us by your spirit into all that is truth. Thank you for your great blessings in Jesus' name. Amen. Alright.

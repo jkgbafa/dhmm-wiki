@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=44cd3eQfxbI"
 duration_min: 134
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 you give to be fit let the beyond the beat this case is then I'll be showing so amazing let me praise my god no time we can place rates of mercy and pleases I'm having anticipating when I tell my life with robust deliberating like the Range Rover don't my friends proportion a friend I held my hands to Tommy so close right I'm on my phone or do introductions get on one decent given contrition crazy my try this only profession quality Holy Spirit for that ratio to call home I don't know needle introductions get on your

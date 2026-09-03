@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=JqsIzayKtEw"
 duration_min: 128
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Salvation", "Salvation/Repentance", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/salvation", "topic/salvation/repentance", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 thought I give you my heart I give you my every breath no I guess you by heart I give you my scope I will for you marry me and people go I give you my heart and go fool you this is my desire my desire yeah to tell him Lord with all my heart I worship you with all my heart I worship you all I have within me all I have with me I give you praise Oh No and I give you I can't give my soul every breath I take we're posing up away thank

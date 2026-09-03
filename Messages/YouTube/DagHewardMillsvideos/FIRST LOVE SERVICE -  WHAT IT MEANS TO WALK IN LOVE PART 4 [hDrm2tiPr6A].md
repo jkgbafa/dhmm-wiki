@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=hDrm2tiPr6A"
 duration_min: 125
 source: "autocaption"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 I used to go to church when he had no money in his pocket was always faithful in his work whenever the door was open he would I turn its praying with Lord that's me I need a job I'm all on my hey god bless Johnny with a job he was not qualified for now he hardly prize and future Oh Johnny remember where your coffee crop and way I put a big God blessed you with oh and now you hard you guys oh boy Oh Johnny remember where your coffee straw and we're good let's do it

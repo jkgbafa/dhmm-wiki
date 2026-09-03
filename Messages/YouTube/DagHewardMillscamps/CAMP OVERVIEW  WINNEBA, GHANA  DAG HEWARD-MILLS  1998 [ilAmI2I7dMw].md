@@ -8,6 +8,8 @@ year: 1998
 duration_min: 117
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Shepherding and Pastoral Care"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/shepherding-and-pastoral-care"]
 ---
 
 beu Lord prepare me to I'll be to for you prepare me be for you father we thank you in the name of Jesus for this time we pray Lord for your spirit to be with us oh Lord lead us influence us bring us oh Lord to a perfect conclusion of this meeting For Your Glory thank you Holy Spirit in Jesus name amen amen you may be seated take your notebooks please we want to go through all that we have learned Pastor uh Teo please come take your notebook how many have been blessed at the camp

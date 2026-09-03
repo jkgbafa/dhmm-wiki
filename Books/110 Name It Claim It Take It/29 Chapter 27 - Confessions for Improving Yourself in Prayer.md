@@ -4,6 +4,8 @@ book: "Name It Claim It Take It"
 book_number: "110"
 chapter_number: 29
 type: book
+topics: ["Prayer"]
+tags: ["topic/prayer"]
 ---
 
 ## Chapter 27

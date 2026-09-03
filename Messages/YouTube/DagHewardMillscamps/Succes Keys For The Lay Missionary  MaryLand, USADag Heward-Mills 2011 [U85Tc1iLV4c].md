@@ -8,6 +8,8 @@ year: 2011
 duration_min: 133
 source: "autocaption"
 match: "exact"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care", "Missions", "Prayer", "Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/missions", "topic/prayer", "topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 success key number four five okay to be a successful lay Pastor you must follow Jesus Christ closely Mark chapter 1 verse 35 and in the morning rising up a great while before day he went out a solitary place and there prayed and Simon and they that were with him followed after him and when they found him they said unto men all men seek thee and he said unto them let us go into the next towns that I may preach their also for therefore came I forth amen amen okay are you there how many are going

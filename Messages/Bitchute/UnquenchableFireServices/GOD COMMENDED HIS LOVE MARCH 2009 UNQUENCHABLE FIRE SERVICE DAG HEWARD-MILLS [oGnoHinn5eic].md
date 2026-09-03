@@ -8,6 +8,8 @@ year: 2009
 duration_min: 117
 source: "whisper"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Deliverance"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/deliverance"]
 ---
 
 Father, we bless your name, and we thank you, and you are worthy of our praise in Jesus' name. Amen. You may be seated. Tonight I am sharing about salvation. I'm talking about greater love.

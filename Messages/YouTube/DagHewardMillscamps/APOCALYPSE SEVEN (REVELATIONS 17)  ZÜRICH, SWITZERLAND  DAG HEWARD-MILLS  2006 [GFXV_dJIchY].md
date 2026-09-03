@@ -8,6 +8,8 @@ year: 2006
 duration_min: 64
 source: "autocaption"
 match: "exact"
+topics: ["Marriage and Family", "Marriage and Family/Husbands and Wives", "Marriage and Family/Sexuality and Purity", "Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/marriage-and-family", "topic/marriage-and-family/husbands-and-wives", "topic/marriage-and-family/sexuality-and-purity", "topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 welcome to track number seven of Apocalypse Apocalypse number 17 oh thank you Jesus uh uh now this apocalypse that is in it's it's it reminds me of a certain prayer that Arch Bishop Nick prayed one day yeah he was praying then he reached a certain place and he said Lord we cancel all decisions you see we will be finding spiritual but he was canceling decisions that are against my life and my my future and every meeting that is being held about me I said hey I've never prayed to cancel decisions before but do you know

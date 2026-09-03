@@ -8,6 +8,8 @@ year: 2011
 duration_min: 94
 source: "autocaption"
 match: "exact"
+topics: ["Anointing", "Anointing/Impartation and Mantles", "Marriage and Family", "Marriage and Family/Sexuality and Purity"]
+tags: ["topic/anointing", "topic/anointing/impartation-and-mantles", "topic/marriage-and-family", "topic/marriage-and-family/sexuality-and-purity"]
 ---
 
 the word of my patience the word of my patience is a is the call of God that's right any kind of calling is the word of my patience because it needs a lot of patience number two the word of my the the Commandment to bear fruit is a word of my patience this is chapter 2 now I've moved from the call of God to the Commandment to bear fruits I've given you examples of the the call of God but now I'm giving you an example of what of what the Commandment to Bear fruits amen amen

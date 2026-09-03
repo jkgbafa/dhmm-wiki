@@ -4,6 +4,8 @@ book: "How To Pray"
 book_number: "111"
 chapter_number: 8
 type: book
+topics: ["Prayer", "Prayer/Praying in Tongues"]
+tags: ["topic/prayer", "topic/prayer/praying-in-tongues"]
 ---
 
 ## Chapter 7

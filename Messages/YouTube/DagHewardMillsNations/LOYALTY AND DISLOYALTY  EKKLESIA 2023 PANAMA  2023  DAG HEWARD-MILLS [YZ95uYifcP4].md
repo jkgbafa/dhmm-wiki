@@ -8,6 +8,8 @@ year: 2023
 duration_min: 74
 source: "autocaption"
 match: "exact"
+topics: ["Loyalty and Disloyalty", "Loyalty and Disloyalty/Judas and Betrayal", "Loyalty and Disloyalty/Stages and Signs of Disloyalty", "Wealth and Finances"]
+tags: ["topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/judas-and-betrayal", "topic/loyalty-and-disloyalty/stages-and-signs-of-disloyalty", "topic/wealth-and-finances"]
 ---
 
 Alleluia. It is a great blessing to be here today. Let us pray, please, please, everyone pray. Heavenly Father, we are here today and thank you for the message that has already been shared today. Thank you for the power of the Holy Spirit. We ask you to come and bless in the name of Jesus. And everyone says, "Amen." God bless you. You can take his place. I do n't know if anyone has any of my books. I want to thank the pastor for this tremendous privilege of being able to be here. It's a blessing. And I

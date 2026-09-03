@@ -8,6 +8,8 @@ year: 2025
 duration_min: 88
 source: "autocaption"
 match: "exact"
+topics: ["Fasting"]
+tags: ["topic/fasting"]
 ---
 
 Hallelujah. The next reason why we are not worthy is because people are not prepared to sacrifice, make the sacrifice for Jesus. Amen. Now people don't want to suffer. Suffer.

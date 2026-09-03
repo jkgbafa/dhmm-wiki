@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=jBs2_klNFvM"
 duration_min: 48
 source: "autocaption"
 match: "exact"
+topics: ["Soul Winning and Evangelism"]
+tags: ["topic/soul-winning-and-evangelism"]
 ---
 
 to the you - lemma creation PA alleluia alleluia please be seated people sau ashes we are waiting for you now they serve is not news at the moment no hallelujah hallelujah are you expecting God to touch your life tonight ask if if that does a good year to study Islam do you believe God is going to touch your life tonight and catch o'clock at the other to see a visa soir hallelujah hallelujah your life will never be the same again about this mystery night that Venus Allah please summon I'm Emma plus a quandary hallelujah lujah

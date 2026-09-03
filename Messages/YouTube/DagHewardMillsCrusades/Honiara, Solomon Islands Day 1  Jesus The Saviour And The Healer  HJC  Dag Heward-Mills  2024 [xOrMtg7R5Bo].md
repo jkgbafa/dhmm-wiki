@@ -8,6 +8,8 @@ year: 2024
 duration_min: 83
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven"]
 ---
 
 Nothing is impossible to those who believe and faith. I believe God's word is still the same. And I expect a miracle today. I expect to be I hear nothing. Hallelujah. I believe I expect a miracle. I expect Lift up your hands everybody. Father, thank you for your power. Hallelujah. Father, thank you for tonight. Thank you for your power. Thank you for your glory that is here. Thank you for Hera. Thank you for the Solomon Islands. Thank you for your angels that are here. Your mighty Holy Spirit that is moving in this island. Thank you that

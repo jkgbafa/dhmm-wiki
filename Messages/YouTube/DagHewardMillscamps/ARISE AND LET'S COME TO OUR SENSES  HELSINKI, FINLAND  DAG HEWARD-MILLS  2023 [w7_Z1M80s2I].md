@@ -9,6 +9,8 @@ duration_min: 109
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/ARISE AND LET'S COME TO OUR SENSES HELSINKI, FINLAND DAG HEWARD-MILLS 2023 [w7_Z1M80s2I]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 Thank you again for your great blessing in the name of Jesus. You can sit down, shine, and be bright. When I came, I was surprised to see my notes on the screen. Hallelujah, let us return to our senses and return to our Father. Arise, travel the land, arise, let us return to our senses and return to the Father and to you. Amen. Let us return to our senses and return to our Father. Hallelujah, hallelujah. Luke chapter 15, Luke 15, and verse number 11, it says again, "Man, son, father, can have more than one son. My

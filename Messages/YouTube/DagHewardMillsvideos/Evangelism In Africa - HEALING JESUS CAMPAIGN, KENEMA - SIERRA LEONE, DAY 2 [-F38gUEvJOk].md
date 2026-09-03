@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=-F38gUEvJOk"
 duration_min: 156
 source: "autocaption"
 match: "exact"
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Heaven", "Soul Winning and Evangelism"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/heaven", "topic/soul-winning-and-evangelism"]
 ---
 
 hallelujah people of Kenema I want to say so we all that this week a very great opportunity God um creates for every one of us now this land so nice not the second night of the crusade by Gordon would say the glory of the latter a greater than the former I want to inform every one of you with a listen to me now week ago they about four do tonight if I'd written then we could go do last night if you believe that the Amen the skills are also pain the earnest expectation of the creation

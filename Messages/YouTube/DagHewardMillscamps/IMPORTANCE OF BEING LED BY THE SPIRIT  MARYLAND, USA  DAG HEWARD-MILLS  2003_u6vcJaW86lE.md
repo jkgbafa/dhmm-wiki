@@ -3,6 +3,8 @@ title: "IMPORTANCE OF BEING LED BY THE SPIRIT  MARYLAND, USA  DAG HEWARD-MILLS  
 channel: "DagHewardMillscamps"
 platform: "YouTube"
 source: "autocaption"
+topics: ["Vision and Direction", "Vision and Direction/Hearing God"]
+tags: ["topic/vision-and-direction", "topic/vision-and-direction/hearing-god"]
 ---
 
 welcome to track number nine of gates and Roads you to be led by the spirit of God amen amen now Elisha said if I be a man of God H are are you with me if I be a man of God if I be a man of God you see I think that question to entitle your message this morning or if I be a pastor you see there are some things that if you are a pastor or a pastor in training you get it we should see about you amen am otherwise it's it's it's not

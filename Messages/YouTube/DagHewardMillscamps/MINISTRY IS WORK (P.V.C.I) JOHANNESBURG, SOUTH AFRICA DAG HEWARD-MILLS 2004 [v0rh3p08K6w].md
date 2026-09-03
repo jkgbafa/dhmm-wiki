@@ -9,6 +9,8 @@ duration_min: 74
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/MINISTRY IS WORK (P.V.C.I)  JOHANNESBURG, SOUTH AFRICA  DAG HEWARD-MILLS  2004 [v0rh3p08K6w]]]"
+topics: ["Church Growth", "Church Growth/Visitation and Follow-up", "Loyalty and Disloyalty", "Loyalty and Disloyalty/Faithfulness", "Ministry and Pastoring", "Ministry and Pastoring/Lay Ministry", "Ministry and Pastoring/Shepherding and Pastoral Care", "The Call of God", "The Call of God/Responding to the Call", "Wealth and Finances"]
+tags: ["topic/church-growth", "topic/church-growth/visitation-and-follow-up", "topic/loyalty-and-disloyalty", "topic/loyalty-and-disloyalty/faithfulness", "topic/ministry-and-pastoring", "topic/ministry-and-pastoring/lay-ministry", "topic/ministry-and-pastoring/shepherding-and-pastoral-care", "topic/the-call-of-god", "topic/the-call-of-god/responding-to-the-call", "topic/wealth-and-finances"]
 ---
 
 Welcome to track number five of church planting from this book lay people and the ministry. Alright. Get a copy of it. How many were able to buy the whole set of books? I believe quite a few of us were able.

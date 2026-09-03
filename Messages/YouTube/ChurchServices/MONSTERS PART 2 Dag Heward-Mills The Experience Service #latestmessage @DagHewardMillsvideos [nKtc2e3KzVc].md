@@ -8,6 +8,8 @@ duration_min: 131
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/ChurchServices/MONSTERS PART 2  Dag Heward-Mills  The Experience Service  #latestmessage @DagHewardMillsvideos [nKtc2e3KzVc]]]"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 Father thank you for the great blessing that we have in your house today we ask you to fill us with the Holy Spirit and to touch our lives always thank you for the Holy Spirit thank you for the guidance of the Spirit in our lives in Jesus name we pray amen you may be seated now if they listen if the happiness and dancing around and playing do you get it it's not in sync with your personality I want to advise you to go to another church or another branch because you know the Bible says in

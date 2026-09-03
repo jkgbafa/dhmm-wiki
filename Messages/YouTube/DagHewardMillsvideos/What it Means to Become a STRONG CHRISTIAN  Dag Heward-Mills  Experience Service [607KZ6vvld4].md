@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=607KZ6vvld4"
 duration_min: 119
 source: "autocaption"
 match: "exact"
+topics: ["Missions"]
+tags: ["topic/missions"]
 ---
 
 a missionary especially someone who goes to uh another country is a very great our missionaries are great people so being a strong Christian is something you do it's not something that descends on you a my hands put your hands to the door what You Waiting For What you standing for make you scream some more make you open your jaw our feel I still lift my hands up I can't miss it walk to the floor with the house of God swe Papa sweet Papa sweet Papa swe Pap sweet Papa sweet Papa sweet swe Papa s Papa

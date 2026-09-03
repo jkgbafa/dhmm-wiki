@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2016
 source: "autocaption"
+topics: ["Ministry and Pastoring"]
+tags: ["topic/ministry-and-pastoring"]
 ---
 
 those who accuse you. I was explaining to you that South Africa will not be destroyed by an invasion from Malawi. How many agree with me on that? Can South Africa be destroyed by an invasion from Zimbabwe? Can South Africa be destroyed by invading forces from Swaziland? Is there any power in neighboring Namibia to invade South Africa? So what can destroy South Africa? South Africans in South Africa. Every country is like that. Zimbabwe cannot be destroyed by anything except internal forces. All right. So ladies and gentlemen, very important. The powerful Roman Empire was destroyed by internal

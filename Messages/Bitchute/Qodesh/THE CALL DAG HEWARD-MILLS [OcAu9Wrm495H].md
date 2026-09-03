@@ -7,6 +7,8 @@ url: "https://www.bitchute.com/video/OcAu9Wrm495H/"
 duration_min: 68
 source: "whisper"
 match: "exact"
+topics: ["Ministry and Pastoring", "Prayer", "Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/ministry-and-pastoring", "topic/prayer", "topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 It's interesting that the main reason or differentiation in ministry have to do with the age. So when a church develops and you start to have older members, what it is is that you have to realize that in the call, the call to be a Levite, there are age realities. When it comes to the ministry, most of us don't realize how much a 25-year-old person can do. Yes, a 25-year-old person. Now the call of God.

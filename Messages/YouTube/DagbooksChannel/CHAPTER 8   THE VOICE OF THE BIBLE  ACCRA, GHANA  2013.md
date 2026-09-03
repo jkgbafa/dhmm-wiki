@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2013
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Curses"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/curses"]
 ---
 
 Stand with me to the book of Acts, chapter 4, verse one. I'm talking about the supernatural life. Amen. And the supernatural life comes about by the presence of the Holy Spirit. And the first thing that the Holy Spirit does is to guide you and lead you. So I want you to listen. How many want your life to go by the ordinary curse way? You want your life to go by the ordinary curse way. There's an ordinary curse way. Everything there's a curse everywhere. And the curse is what is actually guiding, governing and making life play

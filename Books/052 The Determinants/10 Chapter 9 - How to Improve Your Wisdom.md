@@ -4,6 +4,8 @@ book: "The Determinants"
 book_number: "052"
 chapter_number: 10
 type: book
+topics: ["Wisdom"]
+tags: ["topic/wisdom"]
 ---
 
 ### Chapter 9\

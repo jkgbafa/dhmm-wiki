@@ -4,6 +4,8 @@ book: "People Who Went To Hell"
 book_number: "087"
 chapter_number: 17
 type: book
+topics: ["Heaven, Hell and Eternity", "Heaven, Hell and Eternity/Hell", "Salvation", "Salvation/The New Birth"]
+tags: ["topic/heaven-hell-and-eternity", "topic/heaven-hell-and-eternity/hell", "topic/salvation", "topic/salvation/the-new-birth"]
 ---
 
 ### CHAPTER 16\

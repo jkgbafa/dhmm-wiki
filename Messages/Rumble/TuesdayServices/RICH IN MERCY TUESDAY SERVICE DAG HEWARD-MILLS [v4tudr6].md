@@ -7,6 +7,8 @@ url: "https://rumble.com/v4tudr6/"
 duration_min: 91
 source: "whisper"
 match: "exact"
+topics: ["Wealth and Finances", "Wealth and Finances/Tithing and Giving"]
+tags: ["topic/wealth-and-finances", "topic/wealth-and-finances/tithing-and-giving"]
 ---
 
 Let us pray. I want you to just pray and ask the Lord to speak to you this evening. Ask the Lord to speak to you this evening. Thank you, Jesus for speaking to us. Thank you, Jesus.

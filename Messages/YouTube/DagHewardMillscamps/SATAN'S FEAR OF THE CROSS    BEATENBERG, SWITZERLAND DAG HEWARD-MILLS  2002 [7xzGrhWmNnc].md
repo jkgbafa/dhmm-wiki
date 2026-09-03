@@ -8,6 +8,8 @@ year: 2002
 duration_min: 21
 source: "autocaption"
 match: "exact"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Satan and His Devices"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/satan-and-his-devices"]
 ---
 
 welcome to track number 11 of life in the church now the last reason why you must be involved with the cross is because Satan is afraid of this cross idea amen are you there turn with me to Matthew chapter 16 verse 20 then charged he his disciples are you with me Matthew 16 then charged he his disciples that they should tell no man that he was Jesus the Christ and and from that time forth began Jesus to show unto his disciples how that he must go unto Jerusalem and suffer many things of the elders amen

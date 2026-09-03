@@ -9,6 +9,8 @@ duration_min: 81
 source: "autocaption"
 match: "exact"
 duplicate_of: "[[Messages/YouTube/DagHewardMillscamps/BARRENNESS  SYDNEY , AUSTRALIA DAG HEWARD-MILLS  2004 [v8m0CAnnAQc]]]"
+topics: ["Marriage and Family", "Wealth and Finances"]
+tags: ["topic/marriage-and-family", "topic/wealth-and-finances"]
 ---
 
 Welcome to track number one of Barress and Fruitfulness. Amen. At this time, I want us to share a bit about fruitfulness and barrenness. Fruitfulness and barrenness. I have a new book of coming barrenness in the ministry.

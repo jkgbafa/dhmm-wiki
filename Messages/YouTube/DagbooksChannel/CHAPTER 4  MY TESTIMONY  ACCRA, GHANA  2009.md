@@ -4,6 +4,8 @@ channel: "DagbooksChannel"
 platform: "YouTube"
 year: 2009
 source: "autocaption"
+topics: ["Spiritual Warfare", "Spiritual Warfare/Demonology"]
+tags: ["topic/spiritual-warfare", "topic/spiritual-warfare/demonology"]
 ---
 
 One day I was in 1988 in a hospital working in the hospital and then I was listening to Kenneth Hagen preaching. That is why I really believe in listening to tapes because in Acts 10:44 the Bible says that as Peter was preaching the spirit fell on the people that night. I was kneeling down and I was praying. As I was praying, I was listening to Kenneth Hagen preaching. Suddenly, something jumped out of the table and I felt something enter my belly. I can almost feel it now. And I heard a voice. The voice said from

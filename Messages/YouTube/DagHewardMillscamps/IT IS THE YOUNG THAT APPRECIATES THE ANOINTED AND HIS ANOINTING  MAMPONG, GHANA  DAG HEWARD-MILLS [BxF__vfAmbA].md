@@ -7,6 +7,8 @@ url: "https://www.youtube.com/watch?v=BxF__vfAmbA"
 duration_min: 54
 source: "autocaption"
 match: "exact"
+topics: ["Anointing"]
+tags: ["topic/anointing"]
 ---
 
 now for just a few more seconds whilst we are here we're going to take a break and then back in the evening I'm training you to be anointed yeah I'm training you to be higher than the Kings of the earth oh yes now so that you don't make a mistake of your life I want you to see that often it is the young who appreciate the the anointed and his anointing yes now no no I don't I don't need the book I'm not preaching from that book 2 Samuel chapter 1 well there's a book called
