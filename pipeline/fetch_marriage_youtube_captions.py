@@ -20,6 +20,7 @@ WIKI = ROOT / "Marriage Wiki"
 MANIFEST = WIKI / "raw" / "manifests" / "joshua-heward-mills.jsonl"
 CAPTIONS = WIKI / "raw" / "captions" / "Joshua Heward-Mills"
 SOURCES = WIKI / "sources" / "Joshua Heward-Mills"
+YTDLP = "/opt/homebrew/bin/yt-dlp"
 
 CUE_RE = re.compile(r"\[[^\]]+\]", re.I)
 SPACE_RE = re.compile(r"\s+")
@@ -76,7 +77,7 @@ def download_caption(entry):
     target = CAPTIONS / f"{video_id}.%(ext)s"
     for language in ("en-orig", "en"):
         command = [
-            "yt-dlp",
+            YTDLP,
             "--skip-download",
             "--write-subs",
             "--write-auto-subs",

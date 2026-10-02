@@ -25,6 +25,7 @@ SOURCE_DIR = WIKI / "sources" / "Joshua Heward-Mills"
 ASR_DIR = WIKI / "raw" / "asr" / "Joshua Heward-Mills"
 STATE = WIKI / "_meta" / "meetinggod-whisper-state.json"
 TMP = ROOT / "pipeline" / "tmp" / "meetinggod"
+YTDLP = "/opt/homebrew/bin/yt-dlp"
 
 os.environ["PATH"] = "/Users/joshuagbafa/Library/Python/3.9/bin:/Users/joshuagbafa/.local/bin:" + os.environ.get("PATH", "")
 
@@ -44,7 +45,7 @@ def download_audio(entry):
     TMP.mkdir(parents=True, exist_ok=True)
     template = TMP / f"{entry['video_id']}.%(ext)s"
     subprocess.run([
-        "yt-dlp", "--no-playlist", "--no-warnings", "--no-progress",
+        YTDLP, "--no-playlist", "--no-warnings", "--no-progress",
         "-f", "bestaudio/worst", "--extract-audio", "--audio-format", "m4a", "--audio-quality", "9",
         "--postprocessor-args", "ffmpeg:-ac 1 -ar 16000", "-o", str(template), entry["url"],
     ], check=True, timeout=1800)

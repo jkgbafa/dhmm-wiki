@@ -27,12 +27,20 @@ CHANNEL_URL = "https://www.youtube.com/channel/UCenqWBA8Z_nMMg4gcJzaUhQ/videos"
 CAPTIONS = WIKI / "raw" / "captions" / "Adelaide Heward-Mills"
 SOURCES = WIKI / "sources" / "Adelaide Heward-Mills"
 REPORT = WIKI / "_meta" / "adelaide-youtube-matches.jsonl"
+YTDLP = "/opt/homebrew/bin/yt-dlp"
+# These records share generic sermon wording with a different event recording.
+# Keep them on the podcast-audio transcription path so citations remain exact.
+EXCLUDED_PODCAST_IDS = {"podcast:65c553119cb1a8b4"}
 
 
 def normalize(value):
     value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
     value = value.lower().replace("&", " and ")
     value = re.sub(r"^\s*\d+[.:-]?\s*", "", value)
+    value = re.sub(r"\bs\d+\s*e\d+\b", " ", value)
+    value = re.sub(r"\b(?:episode|ep)\.?\s*\d+\b", " ", value)
+    value = re.sub(r"\bfirst love conversations\b", " ", value)
+    value = re.sub(r"\bspecial edition\b", " ", value)
     value = re.sub(r"\b(?:part|pt)\.?\s*(\d+)\b", r" part \1 ", value)
     value = re.sub(r"\bquestions?\s*(?:and|&)\s*answers?\b", " q and a ", value)
     value = re.sub(r"\bq\s*(?:and|&)\s*a\b", " q and a ", value)
@@ -41,7 +49,7 @@ def normalize(value):
 
 def youtube_inventory():
     result = subprocess.run(
-        ["yt-dlp", "--flat-playlist", "--dump-single-json", "--no-warnings", CHANNEL_URL],
+        [YTDLP, "--flat-playlist", "--dump-single-json", "--no-warnings", CHANNEL_URL],
         check=True, capture_output=True, text=True,
     )
     return json.loads(result.stdout).get("entries", [])
@@ -49,7 +57,10 @@ def youtube_inventory():
 
 def similarity(podcast, video):
     left, right = normalize(podcast["title"]), normalize(video.get("title", ""))
-    title_score = difflib.SequenceMatcher(None, left, right).ratio()
+    sequence_score = difflib.SequenceMatcher(None, left, right).ratio()
+    left_tokens, right_tokens = set(left.split()), set(right.split())
+    overlap = len(left_tokens & right_tokens) / max(1, min(len(left_tokens), len(right_tokens)))
+    title_score = max(sequence_score, overlap * 0.96)
     p_duration = podcast.get("duration_seconds") or 0
     v_duration = video.get("duration") or 0
     duration_score = min(p_duration, v_duration) / max(p_duration, v_duration) if p_duration and v_duration else 0.5
@@ -62,7 +73,15 @@ def match_entries(podcasts, videos):
     for p_index, podcast in enumerate(podcasts):
         for v_index, video in enumerate(videos):
             score, title_score, duration_score = similarity(podcast, video)
-            if title_score >= 0.76 and (duration_score >= 0.55 or title_score >= 0.94):
+            left = normalize(podcast["title"])
+            right = normalize(video.get("title", ""))
+            sequence_score = difflib.SequenceMatcher(None, left, right).ratio()
+            # Token overlap is useful for long titles, but it can make a
+            # one-word title such as "Grace" look like a strong match for an
+            # unrelated longer message. Require close wording for short titles
+            # and a conservative floor for every automatic match.
+            short_title_safe = min(len(left.split()), len(right.split())) > 3 or sequence_score >= 0.78
+            if title_score >= 0.80 and short_title_safe and (duration_score >= 0.55 or title_score >= 0.94):
                 candidates.append((score, title_score, duration_score, p_index, v_index))
     used_podcasts, used_videos, matches = set(), set(), []
     for score, title_score, duration_score, p_index, v_index in sorted(candidates, reverse=True):
@@ -95,7 +114,7 @@ def download_caption(video):
     for language in ("en-orig", "en"):
         try:
             subprocess.run([
-                "yt-dlp", "--skip-download", "--write-subs", "--write-auto-subs",
+                YTDLP, "--skip-download", "--write-subs", "--write-auto-subs",
                 "--sub-langs", language, "--sub-format", "json3", "--no-warnings", "--no-progress",
                 "-o", str(CAPTIONS / f"{video_id}.%(ext)s"), url,
             ], check=True)
@@ -149,6 +168,7 @@ def main():
     podcasts = [json.loads(line) for line in MANIFEST.read_text(encoding="utf-8").splitlines() if line.strip()]
     videos = youtube_inventory()
     matches = match_entries(podcasts, videos)
+    matches = [item for item in matches if item[0]["source_id"] not in EXCLUDED_PODCAST_IDS]
     REPORT.parent.mkdir(parents=True, exist_ok=True)
     report_rows = []
     for podcast, video, score, title_score, duration_score in matches:
