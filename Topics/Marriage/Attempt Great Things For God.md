@@ -1,0 +1,6 @@
+# Attempt Great Things For God — on Marriage
+
+
+## [[Books/053 Attempt Great Things For God/18 CHAPTER 17 - Attempt Winning Souls for Jesus|CHAPTER 17 - Attempt Winning Souls for Jesus]]
+
+> **Then said he unto him, A CERTAIN MAN MADE A GREAT SUPPER, and bade many: And sent his servant at supper time to say to them that were bidden, Come; for all things are now ready. And they all with one consent began to make excuse. The first said unto him, I have bought a piece of ground, and I must needs go and see it: I pray thee have me excused. And another said, I have bought five yoke of oxen, and I go to prove them: I pray thee have me excused. And another said, I have married a wife, and therefore I cannot come. So that servant came, and shewed his lord these things. Then the master of the house being angry said to his servant, Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind. And the servant said, Lord, it is done as thou hast commanded, and yet there is room. And the lord said unto the servant, Go out into the highways and hedges, and compel (ANAGKAZO) them to come in, that my house may be filled. For I say unto you, that none of those men which were bidden shall taste of my supper.**

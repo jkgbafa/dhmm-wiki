@@ -1,0 +1,23 @@
+# Tell Them 120 Reasons Why You Should Be A Soul Winner — on Marriage
+
+
+## [[Books/026 Tell Them 120 Reasons Why You Should Be A Soul Winner/03 Chapter 1|Chapter 1]]
+
+> The ministry gifts are not given for you to acquire nice houses and cars. They are power instruments for reaping the harvest. When people come to you with financial and marital problems, please direct them first to Christ. Make sure that they are saved in the Lord.
+> An elderly man once came to see me. He had a string of problems. He wanted me to pray for his clinic, his marriage and his home. He felt that he needed deliverance, ministration and prayer!
+
+> Look at sections of Africa today. Many African nations are battlefields. I cannot send somebody’s husband or father to certain countries in Africa. How would I explain to the wife if the pastor got killed? It is impossible to drive through certain African nations. Rebels have taken over large sections of many countries.
+
+> I remember speaking with an eighty-year-old man at a wedding reception. During the wedding service, I had preached a sermon on salvation. This man was in the congregation and had heard all that I had said.
+> He called me aside at the wedding reception and said to me, “I want you to know something.”
+
+> Forty-eight hours later I came round in the hospital. My wife was sitting beside me. I had hundreds of stitches inside and outside my body. My wife explained that the doctors had decided not to amputate my arm in view of my job as a truck driver. They would keep a close watch on it though. But I wasn’t interested in my arm because I remembered what I’d seen. I could not forget!
+
+> “The date was June 1985, and I was in France. I was leading a group of students on an art tour, my wife was with me and it had come to the last day of our trip. In mid-sentence, I fell to the ground, screaming with intense pain in my stomach. An ambulance came and I was rushed to hospital, to be told by the doctor that I had a hole in my duodenum, and I needed an operation. It was a Saturday, I was taken to hospital and given a bed.
+> With the pain getting increasingly worse, a nurse came into the room and told me and my wife that they were going to do the operation. At that point I was ready to die. I had hung on, by my fingernails as it were, trying to stay alive, but not anymore.
+> The problem for me was that I was an atheist. As a teenager, brought up in a liberal Protestant church, I had lost faith and at college became a scientific atheist. Now, facing death, I felt nothing but hopelessness, depression and despair. I felt I was ready to die and I knew that meant I would cease to exist. I told my wife, who was not an atheist, and did have some faith, and she was in tears.
+> I closed my eyes and became unconscious. I don’t know how much time elapsed but I found myself standing next to my body. I opened my eyes and there was a body in my bed. I didn’t understand how it was possible to be outside of one’s body and yet looking at the body in my bed. Not only that, but I was extremely agitated and upset because I was yelling at my wife to get her attention but she neither saw nor heard me and didn’t move at all. I turned to my room-mate but got the same reaction - he too was oblivious to me and I became more and more angry and agitated. It was at that point that I heard voices calling me by name, from outside the room. Initially I was afraid but the voices seemed friendly, and when I went to the doorway of my room I could see figures moving around in a haze; I asked them to come closer, but they wouldn’t come close enough for me to see them clearly. I was able to make out only their silhouettes and general feature. These beings kept asking me to come with them and although I asked a lot of specific questions, they evaded them all giving only vague answers, but insisted that I went with them. So I reluctantly agreed.
+
+## [[Books/026 Tell Them 120 Reasons Why You Should Be A Soul Winner/04 Chapter 2 - Missionaries and the Example of the Basel Mission|Chapter 2 - Missionaries and the Example of the Basel Mission]]
+
+> It was precisely in this part of the country, where the Basel men ultimately wanted to work: away from the European influenced coastal settlements. In January 1823, four missionaries arrived in Freetown, from where they ventured out to their individual destinations up-country. Two of the “brothers” were accompanied by their wives. A few months later, the bachelors and the wives of the two remaining missionaries died of yellow fever, which had broken out in epidemic proportions. In no time, most of the expatriate community were dead or gone.

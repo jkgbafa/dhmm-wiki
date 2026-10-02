@@ -6,3 +6,8 @@ pipeline/tmp/
 *.m4a
 *.mp3
 *.wav
+
+# Regenerable, bulky marriage-wiki artifacts. Timestamped Markdown source
+# notes remain tracked; these originals stay local and can be rebuilt.
+Marriage Wiki/raw/captions/
+Marriage Wiki/raw/asr/

@@ -8,6 +8,7 @@ The collected ministry of Dag Heward-Mills — messages and books — as one sea
 - **FLOW/** — Flow Church Services and Flow Prayer Meetings (its own category; still being transcribed).
 - **Books/** — 133 books converted to markdown, one folder per book, one note per chapter.
 - **Topics/** — topic hub pages (anointing, loyalty, church growth, prayer, wealth, marriage…) linking related messages and book chapters together.
+- **[[Marriage Wiki/Home|Marriage Wiki]]** — a separate, chatbot-oriented knowledge base for Adelaide Heward-Mills, Joshua Heward-Mills, and First Love Conversations, with stricter timestamped citations and marriage-safety rules.
 - **_meta/** — conversion reports, unmatched-video list, duplicate report, progress tracking.
 
 ## How to use

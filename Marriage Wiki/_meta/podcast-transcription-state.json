@@ -1,0 +1,9 @@
+{
+  "model": "mlx-community/whisper-large-v3-turbo",
+  "total_queued": 299,
+  "completed": 0,
+  "failed": 0,
+  "current": null,
+  "errors": [],
+  "updated": "2026-10-02T23:06:59.289183+00:00"
+}

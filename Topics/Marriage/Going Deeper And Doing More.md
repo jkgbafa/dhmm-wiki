@@ -1,0 +1,10 @@
+# Going Deeper And Doing More — on Marriage
+
+
+## [[Books/077 Going Deeper And Doing More/06 CHAPTER 5 - Go Deeper and Win More Souls|CHAPTER 5 - Go Deeper and Win More Souls]]
+
+> And another said, I have bought five yoke of oxen, and I go to prove them: I pray thee have me excused. And another said, I have married a wife, and therefore I cannot come. So that servant came, and shewed his lord these things. Then the master of the house being angry said to his servant, GO OUT QUICKLY INTO THE STREETS AND LANES OF THE CITY, and bring in hither the poor, and the maimed, and the halt, and the blind. And the servant said, Lord, it is done as thou hast commanded, and yet there is room. And the lord said unto the servant, GO OUT INTO THE HIGHWAYS AND HEDGES, and compel them to come in, that my house may be filled. For I say unto you, that none of those men which were bidden shall taste of my supper.
+
+## [[Books/077 Going Deeper And Doing More/09 CHAPTER 8 - Go Deeper and be More Fruitful|CHAPTER 8 - Go Deeper and be More Fruitful]]
+
+> And he began to speak unto them by parables. A certain man planted a vineyard, and set an hedge about it, and digged a place for the winefat, and built a tower, and let it out to husbandmen, and went into a far country. And at the season he sent to the husbandmen a servant, that he might receive from the husbandmen of the fruit of the vineyard. And they caught him, and beat him, and sent him away empty. And again he sent unto them another servant; and at him they cast stones, and wounded him in the head, and sent him away shamefully handled. And again he sent another; and him they killed, and many others; beating some, and killing some. Having yet therefore one son, his wellbeloved, he sent him also last unto them, saying, they will reverence my son. But those husbandmen said among themselves, this is the heir; come, let us kill him, and the inheritance shall be ours.’ And they took him, and killed him, and cast him out of the vineyard. What shall therefore the lord of the vineyard do? he will come and destroy the husbandmen, and will give the vineyard unto others.
