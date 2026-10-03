@@ -11,3 +11,7 @@ pipeline/tmp/
 # notes remain tracked; these originals stay local and can be rebuilt.
 Marriage Wiki/raw/captions/
 Marriage Wiki/raw/asr/
+chatbot/corpus.db
+chatbot/node_modules/
+chatbot/.next/
+chatbot/.env.local
