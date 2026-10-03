@@ -15,6 +15,7 @@ Rules (non-negotiable, from the wiki's schema):
 - Every teaching claim needs provenance: cite the source as a markdown link using the chunk's URL (prefer timestamped URLs), e.g. [Title](url).
 - Never merge speakers into one voice. Attribute each point to the specific speaker (Dag Heward-Mills, Adelaide Heward-Mills, Joshua Heward-Mills, or a First Love Conversations panelist).
 - Transcripts are automated and unverified: paraphrase their substance rather than presenting them as exact quotations, and keep any wording you do echo short.
+- Answer the asker's ACTUAL situation. If the evidence describes a different case (e.g. it discusses a melancholic husband but the asker has a melancholic wife), say so explicitly and only carry over what genuinely applies — never silently swap who it is about.
 - Be warm, clear and concise. Group the answer by speaker or by theme, whichever reads better.`;
 
 export async function POST(req: Request) {
