@@ -1,3 +1,18 @@
 # Temperaments and emotional maturity
 
-0 timestamped sources currently discuss this topic.
+14 timestamped sources currently discuss this topic.
+
+- [[sources/Adelaide Heward-Mills/329. Consider The Work Of God [139cf9750d469900]|329. Consider The Work Of God]] · [original](https://adelaidehewardmills.podbean.com/e/329-consider-the-work-of-god/) · Adelaide Heward-Mills
+- [[sources/Adelaide Heward-Mills/331.The Key Of Acceptance [251056c3eb0d2b97]|331.The Key Of Acceptance]] · [original](https://adelaidehewardmills.podbean.com/e/331the-key-of-acceptance/) · Adelaide Heward-Mills
+- [[sources/Adelaide Heward-Mills/334. Temperaments (MMC) [2b32e7289237debb]|334. Temperaments (MMC)]] · [original](https://adelaidehewardmills.podbean.com/e/334-temperaments-mmc/) · Adelaide Heward-Mills
+- [[sources/Adelaide Heward-Mills/370. Temperaments (Firstlove) [1563347ad17de340]|370. Temperaments (Firstlove)]] · [original](https://adelaidehewardmills.podbean.com/e/370-temperaments-firstlove/) · Adelaide Heward-Mills
+- [[sources/Adelaide Heward-Mills/371.Temperaments (Questions And Answers) [26666d40a7abb2ce]|371.Temperaments (Questions And Answers)]] · [original](https://adelaidehewardmills.podbean.com/e/371temperaments-questions-and-answers/) · Adelaide Heward-Mills
+- [[sources/Adelaide Heward-Mills/Before You Say I Do and After You Say I Do - Question and Answers [123a83a067a74925]|Before You Say I Do and After You Say I Do - Question and Answers]] · [original](https://adelaidehewardmills.podbean.com/e/before-you-say-i-do-and-after-you-say-i-do-question-and-answers/) · Adelaide Heward-Mills
+- [[sources/Adelaide Heward-Mills/How to Handle the Weaker Vessel - Question and Answers [57b547e92deb9994]|How to Handle the Weaker Vessel - Question and Answers]] · [original](https://adelaidehewardmills.podbean.com/e/how-to-handle-the-weaker-vessel-question-and-answers/) · Adelaide Heward-Mills
+- [[sources/Adelaide Heward-Mills/I Love You But Why Are We So Different [4546bb4928b810f1]|I Love You But Why Are We So Different]] · [original](https://adelaidehewardmills.podbean.com/e/i-love-you-but-why-are-we-so-different/) · Adelaide Heward-Mills
+- [[sources/Adelaide Heward-Mills/Mastering Emotional Intelligence in Marriage [b76ad1a8f7ff7002]|Mastering Emotional Intelligence in Marriage]] · [original](https://adelaidehewardmills.podbean.com/e/mastering-emotional-intelligence-in-marriage/) · Adelaide Heward-Mills
+- [[sources/Adelaide Heward-Mills/More Than Roses [11c63e71603b8f85]|More Than Roses]] · [original](https://adelaidehewardmills.podbean.com/e/temperaments/) · Adelaide Heward-Mills
+- [[sources/Adelaide Heward-Mills/Questions and Answers - Mastering Emotional Intelligence in Marriage [74a9bfc88f237294]|Questions and Answers - Mastering Emotional Intelligence in Marriage]] · [original](https://adelaidehewardmills.podbean.com/e/mastering-emotional-intelligence-in-marriage-1762259788/) · Adelaide Heward-Mills
+- [[sources/Adelaide Heward-Mills/Questions and Answers - More Than Roses [53e6e8f617b8cf8a]|Questions and Answers - More Than Roses]] · [original](https://adelaidehewardmills.podbean.com/e/temperaments-1771442131/) · Adelaide Heward-Mills
+- [[sources/Adelaide Heward-Mills/Rekindling The Love In The Marriage, Now And In The Future [488122523e26e40c]|Rekindling The Love In The Marriage, Now And In The Future]] · [original](https://adelaidehewardmills.podbean.com/e/rekindling-the-love-in-the-marriage-now-and-in-the-future/) · Adelaide Heward-Mills
+- [[sources/Adelaide Heward-Mills/The Human Heart [31c1d4100168a271]|The Human Heart]] · [original](https://adelaidehewardmills.podbean.com/e/the-human-heart-1738776601/) · Adelaide Heward-Mills

@@ -68,3 +68,44 @@ Generated from the public podcast feeds and the Meeting God YouTube channel. `Hi
 - [The Sweet Influences Of The Holy Spirit On Your Marriage | Meeting God | Joshua Heward-Mills](https://www.youtube.com/watch?v=__j__1oHkfE) — 1h 17m · Biblical foundations and purpose
 - [All About Fornication  - Joshua Heward-Mills](https://www.youtube.com/watch?v=eOzg427hSkM) — 2h 39m · Sex, intimacy, pornography, and purity
 - [The Relationships of Spiritual People - Joshua Heward-Mills](https://www.youtube.com/watch?v=hqZ89h88cQg) — 3h 00m · Dating and courtship
+
+## Adelaide Heward-Mills / Adelaide Heward-Mills — YouTube
+
+267 total sources; 36 high-priority and 0 medium-priority marriage candidates.
+
+- [Questions And Answers - Through The Changing Seasons of Life And Marriage](https://www.youtube.com/watch?v=VolOL49M8UU) — 1h 01m · Biblical foundations and purpose, Seasons, hardship, healing, and renewal
+- [Through The Changing Seasons of Life and Marriage](https://www.youtube.com/watch?v=lWZkcs84ADI) — 1h 56m · Biblical foundations and purpose, Seasons, hardship, healing, and renewal
+- [Happy Mother's Day !](https://www.youtube.com/watch?v=_Yh79CNpkWA) — 6m · Parenting, motherhood, and fatherhood
+- [Rekindling The Love In The Marriage, Now And In The Future | Questions & Answers](https://www.youtube.com/watch?v=WEH--pMInPA) — 20m · Biblical foundations and purpose, Love, friendship, and emotional connection, Seasons, hardship, healing, and renewal
+- [Rekindling The Love In The Marriage, Now And In The Future](https://www.youtube.com/watch?v=ELwoIRMGVrY) — 47m · Biblical foundations and purpose, Love, friendship, and emotional connection, Seasons, hardship, healing, and renewal
+- [Healing Hearts, Renewing Vows | Questions and Answers](https://www.youtube.com/watch?v=UqFVPPYcuL8) — 1h 02m · Seasons, hardship, healing, and renewal, Trust, faithfulness, forgiveness, and reconciliation
+- [Healing Hearts, Renewing Vows](https://www.youtube.com/watch?v=LxmLdOA8yGM) — 1h 05m · Seasons, hardship, healing, and renewal, Trust, faithfulness, forgiveness, and reconciliation
+- [Mastering Emotional Intelligence in Marriage | Questions and Answers](https://www.youtube.com/watch?v=W8-WIFyDqvw) — 20m · Biblical foundations and purpose, Love, friendship, and emotional connection, Temperaments and emotional maturity
+- [Mastering Emotional Intelligence in Marriage](https://www.youtube.com/watch?v=ZCwNqB6K4mw) — 1h 34m · Biblical foundations and purpose, Love, friendship, and emotional connection, Temperaments and emotional maturity
+- [Making Quality Life Choices - The Christian Youth and Relationships](https://www.youtube.com/watch?v=kn_UIDTb2aQ) — 1h 23m · Dating and courtship
+- [Questions & Answers: Communication and Problem Solving in Marriage](https://www.youtube.com/watch?v=SfR6SHYgEgs) — 1h 06m · Biblical foundations and purpose, Communication and listening, Conflict resolution and problem solving
+- [Communication and Problem Solving in Marriage](https://www.youtube.com/watch?v=F9yfIBmjbH8) — 51m · Biblical foundations and purpose, Communication and listening, Conflict resolution and problem solving
+- [Christian Youth and Relationships](https://www.youtube.com/watch?v=jGIrwjX1Kvg) — 2h 06m · Dating and courtship
+- [Special Mother's Day Message](https://www.youtube.com/watch?v=darYfqvRYrQ) — 14m · Parenting, motherhood, and fatherhood
+- [Problem Solving in Marriage](https://www.youtube.com/watch?v=efk32HILLpw) — 1h 34m · Biblical foundations and purpose, Conflict resolution and problem solving
+- [Mother, It’s Your Honour](https://www.youtube.com/watch?v=eGjWQY9cTgY) — 1h 38m · Parenting, motherhood, and fatherhood
+- [Faithfulness and Unfaithfulness in Marriage - Question and Answers](https://www.youtube.com/watch?v=cdh4CWXggPs) — 39m · Biblical foundations and purpose, Trust, faithfulness, forgiveness, and reconciliation
+- [Faithfulness and Unfaithfulness in Marriage](https://www.youtube.com/watch?v=9k-Cp_NWjcc) — 1h 37m · Biblical foundations and purpose, Trust, faithfulness, forgiveness, and reconciliation
+- [KINDS AND MODES OF COMMUNICATION IN MARRIAGE PT 2](https://www.youtube.com/watch?v=AdyO9QCTM2I) — 1h 50m · Biblical foundations and purpose, Communication and listening
+- [Communication In Relationships And Marriage](https://www.youtube.com/watch?v=N1h_C705bPI) — 1h 15m · Biblical foundations and purpose, Communication and listening, Dating and courtship
+- [The Making Of A Godly Home (The Role Of Prayer)](https://www.youtube.com/watch?v=fEc5aUzP0XA) — 1h 22m · Biblical foundations and purpose
+- [Temperaments Questions And Answers Firstlove Center](https://www.youtube.com/watch?v=2-kd_N5qO84) — 1h 42m · Temperaments and emotional maturity
+- [Temperaments Firstlove](https://www.youtube.com/watch?v=CiAUc45mb_8) — 1h 33m · Temperaments and emotional maturity
+- [Conflict Resolution In Marriage](https://www.youtube.com/watch?v=a74IFnZigfE) — 54m · Biblical foundations and purpose, Conflict resolution and problem solving
+- [Temperaments](https://www.youtube.com/watch?v=qmHI4r_q4JE) — 1h 07m · Temperaments and emotional maturity
+- [Happy Mother's Day!!!](https://www.youtube.com/watch?v=KQgQiqa8Rus) — 6m · Parenting, motherhood, and fatherhood
+- [The Key Of Acceptance - Model Marriage Conference 2021](https://www.youtube.com/watch?v=6LytXagUZPY) — 2h 47m · Biblical foundations and purpose, Trust, faithfulness, forgiveness, and reconciliation
+- [Types Of Relationships](https://www.youtube.com/watch?v=rFK7ALw5fmo) — 2h 20m · Dating and courtship
+- [How To Handle A Mother](https://www.youtube.com/watch?v=FBrXO3xKKRQ) — 44m · Parenting, motherhood, and fatherhood
+- [Too Late For Love](https://www.youtube.com/watch?v=fNO1vayB_RA) — 37m · Love, friendship, and emotional connection
+- [Rest For A Mother's Soul](https://www.youtube.com/watch?v=_Vvj6KPH09E) — 31m · Parenting, motherhood, and fatherhood
+- [How To Choose A Partner](https://www.youtube.com/watch?v=XSdIV_2anAw) — 45m · Choosing a partner
+- [Let's Talk Relationships: Financial Management In Relationships, Prime Morning on Joy Prime TV](https://www.youtube.com/watch?v=hbyBimz-CWE) — 26m · Dating and courtship
+- [Mothers Who Pray](https://www.youtube.com/watch?v=P8unrRo8rUo) — 49m · Parenting, motherhood, and fatherhood
+- [Happy Mother's Day Again!](https://www.youtube.com/watch?v=LAW3Rsldml4) — 5m · Parenting, motherhood, and fatherhood
+- [Happy Mother's Day](https://www.youtube.com/watch?v=4j7uqWZ51oA) — 7m · Parenting, motherhood, and fatherhood

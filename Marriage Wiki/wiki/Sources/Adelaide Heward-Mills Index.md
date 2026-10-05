@@ -1,284 +1,284 @@
 # Adelaide Heward-Mills
 
-300 inventoried sources; 1 currently have timestamped transcripts.
+300 inventoried sources; 165 currently have timestamped transcripts.
 
-- You Never Know Who You're Welcoming · [original](https://adelaidehewardmills.podbean.com/e/you-never-know-who-youre-welcoming/) · 2026-09-30 · 1h 22m · transcript pending
+- [[sources/Adelaide Heward-Mills/You Never Know Who You're Welcoming [5a91f8b62ad19e4e]|You Never Know Who You're Welcoming]] · [original](https://adelaidehewardmills.podbean.com/e/you-never-know-who-youre-welcoming/) · 2026-09-30 · 1h 22m · transcript
 - Sunday Word For The World · [original](https://adelaidehewardmills.podbean.com/e/sunday-word-for-the-world/) · 2026-09-29 · 9m · transcript pending
 - 🔥 Can Young People Serve God? Let’s Talk! | First Fire Q&A · [original](https://adelaidehewardmills.podbean.com/e/first-fire-conversations-and-qna-sequel-to-can-a-young-person-serve-god/) · 2026-09-17 · 53m · transcript pending
 - Can A Young Person Serve God ? · [original](https://adelaidehewardmills.podbean.com/e/can-a-young-person-serve-god/) · 2026-09-16 · 23m · transcript pending
 - The Secret of Greatness - Humility & Servanthood · [original](https://adelaidehewardmills.podbean.com/e/the-secret-of-greatness-humility-servanthood/) · 2026-09-05 · 57m · transcript pending
 - The Principal Causes of Backsliding · [original](https://adelaidehewardmills.podbean.com/e/the-principal-causes-of-backsliding/) · 2026-08-14 · 1h 36m · transcript pending
-- Restoration : The Restored Woman · [original](https://adelaidehewardmills.podbean.com/e/restoration-the-restored-woman/) · 2026-08-13 · 1h 06m · transcript pending
+- [[sources/Adelaide Heward-Mills/Restoration The Restored Woman [8e3d0edb896214e5]|Restoration : The Restored Woman]] · [original](https://adelaidehewardmills.podbean.com/e/restoration-the-restored-woman/) · 2026-08-13 · 1h 06m · transcript
 - The Ministry of Intercession · [original](https://adelaidehewardmills.podbean.com/e/the-ministry-of-intercession/) · 2026-08-12 · 49m · transcript pending
-- Surviving Your Wilderness · [original](https://adelaidehewardmills.podbean.com/e/surviving-your-wilderness-1786502747/) · 2026-08-12 · 1h 14m · transcript pending
-- Why Do We Need Revival ? · [original](https://adelaidehewardmills.podbean.com/e/why-do-we-need-revival/) · 2026-08-03 · 1h 22m · transcript pending
-- Taking Up The Spiritual Burden · [original](https://adelaidehewardmills.podbean.com/e/taking-up-the-spiritual-burden/) · 2026-07-29 · 1h 04m · transcript pending
+- [[sources/Adelaide Heward-Mills/Surviving Your Wilderness [c16a479ce7a56aed]|Surviving Your Wilderness]] · [original](https://adelaidehewardmills.podbean.com/e/surviving-your-wilderness-1786502747/) · 2026-08-12 · 1h 14m · transcript
+- [[sources/Adelaide Heward-Mills/Why Do We Need Revival [df60c027ac2e6e8c]|Why Do We Need Revival ?]] · [original](https://adelaidehewardmills.podbean.com/e/why-do-we-need-revival/) · 2026-08-03 · 1h 22m · transcript
+- [[sources/Adelaide Heward-Mills/Taking Up The Spiritual Burden [447ef23ce016addd]|Taking Up The Spiritual Burden]] · [original](https://adelaidehewardmills.podbean.com/e/taking-up-the-spiritual-burden/) · 2026-07-29 · 1h 04m · transcript
 - Reasons Why Christians Suffer · [original](https://adelaidehewardmills.podbean.com/e/reasons-why-christians-suffer/) · 2026-07-18 · 1h 07m · transcript pending
 - Grace · [original](https://adelaidehewardmills.podbean.com/e/grace/) · 2026-07-13 · 1h 02m · transcript pending
 - The Keys To Humility · [original](https://adelaidehewardmills.podbean.com/e/the-keys-to-humility/) · 2026-07-08 · 1h 29m · transcript pending
-- Can't You Do Just A Little Bit More · [original](https://adelaidehewardmills.podbean.com/e/cant-you-do-just-a-little-bit-more-1783292471/) · 2026-07-05 · 1h 02m · transcript pending
+- [[sources/Adelaide Heward-Mills/Can't You Do Just A Little Bit More [042d27fdb47ab46e]|Can't You Do Just A Little Bit More]] · [original](https://adelaidehewardmills.podbean.com/e/cant-you-do-just-a-little-bit-more-1783292471/) · 2026-07-05 · 1h 02m · transcript
 - Many Are Called · [original](https://adelaidehewardmills.podbean.com/e/many-are-called-english-francais/) · 2026-07-03 · 1h 59m · transcript pending
-- Why Christians Sometimes Suffer · [original](https://adelaidehewardmills.podbean.com/e/why-christians-sometimes-suffer/) · 2026-06-17 · 2h 03m · transcript pending
+- [[sources/Adelaide Heward-Mills/Why Christians Sometimes Suffer [3f247b3babf68efb]|Why Christians Sometimes Suffer]] · [original](https://adelaidehewardmills.podbean.com/e/why-christians-sometimes-suffer/) · 2026-06-17 · 2h 03m · transcript
 - Why Christians Draw Away from God · [original](https://adelaidehewardmills.podbean.com/e/why-christians-draw-away-from-god-english-francais/) · 2026-06-12 · 1h 02m · transcript pending
 - Questions And Answers : Shallowness - The Reason Why People Draw Back in Their Walk With God · [original](https://adelaidehewardmills.podbean.com/e/questions-and-answers-shallowness-the-reason-why-people-draw-back-in-their-walk-with-god/) · 2026-06-08 · 1h 05m · transcript pending
 - Shallowness - The Reason Why People Draw Back in Their Walk With God · [original](https://adelaidehewardmills.podbean.com/e/shallowness-the-reason-why-people-draw-back-in-their-walk-with-god/) · 2026-06-06 · 1h 14m · transcript pending
 - Why Do Some Christians Fall Away · [original](https://adelaidehewardmills.podbean.com/e/why-do-some-christians-fall-away/) · 2026-06-03 · 1h 29m · transcript pending
-- Take Intercession Up Seriously ! · [original](https://adelaidehewardmills.podbean.com/e/take-intercession-up-seriously/) · 2026-05-15 · 1h 08m · transcript pending
-- Happy Mother's Day ! · [original](https://adelaidehewardmills.podbean.com/e/happy-mothers-day-1778359842/) · 2026-05-10 · 11m · transcript pending
-- Lessons on Tests And Trials · [original](https://adelaidehewardmills.podbean.com/e/lessons-on-tests-and-trials/) · 2026-04-30 · 1h 39m · transcript pending
-- Questions And Answers - Healing Hearts, Renewing Vows · [original](https://adelaidehewardmills.podbean.com/e/questions-and-answers-healing-hearts-renewing-vows/) · 2026-04-15 · 1h 03m · transcript pending
-- Healing Hearts, Renewing Vows · [original](https://adelaidehewardmills.podbean.com/e/healing-hearts-renewing-vows/) · 2026-04-01 · 1h 05m · transcript pending
-- Questions And Answers - Rekindling The Love In The Marriage, Now And In The Future · [original](https://adelaidehewardmills.podbean.com/e/questions-and-answers-rekindling-the-love-in-the-marriage-now-and-in-the-future/) · 2026-03-26 · 24m · transcript pending
-- Rekindling The Love In The Marriage, Now And In The Future · [original](https://adelaidehewardmills.podbean.com/e/rekindling-the-love-in-the-marriage-now-and-in-the-future/) · 2026-03-26 · 51m · transcript pending
-- Questions And Answers - Through The Changing Seasons of Life And Marriage · [original](https://adelaidehewardmills.podbean.com/e/questions-and-answers-through-the-changing-seasons-of-life-and-marriage/) · 2026-03-13 · 1h 03m · transcript pending
-- Through The Changing Seasons of Life And Marriage · [original](https://adelaidehewardmills.podbean.com/e/through-the-changing-seasons-of-life-and-marriage/) · 2026-03-02 · 2h 05m · transcript pending
-- Questions and Answers - More Than Roses · [original](https://adelaidehewardmills.podbean.com/e/temperaments-1771442131/) · 2026-02-18 · 1h 18m · transcript pending
-- More Than Roses · [original](https://adelaidehewardmills.podbean.com/e/temperaments/) · 2026-02-18 · 38m · transcript pending
+- [[sources/Adelaide Heward-Mills/Take Intercession Up Seriously ! [59c8e1476607a484]|Take Intercession Up Seriously !]] · [original](https://adelaidehewardmills.podbean.com/e/take-intercession-up-seriously/) · 2026-05-15 · 1h 08m · transcript
+- [[sources/Adelaide Heward-Mills/Happy Mother's Day ! [0eac581687eea8a7]|Happy Mother's Day !]] · [original](https://adelaidehewardmills.podbean.com/e/happy-mothers-day-1778359842/) · 2026-05-10 · 11m · transcript
+- [[sources/Adelaide Heward-Mills/Lessons on Tests And Trials [cdea0630e92d81b7]|Lessons on Tests And Trials]] · [original](https://adelaidehewardmills.podbean.com/e/lessons-on-tests-and-trials/) · 2026-04-30 · 1h 39m · transcript
+- [[sources/Adelaide Heward-Mills/Questions And Answers - Healing Hearts, Renewing Vows [93b865d12dd83630]|Questions And Answers - Healing Hearts, Renewing Vows]] · [original](https://adelaidehewardmills.podbean.com/e/questions-and-answers-healing-hearts-renewing-vows/) · 2026-04-15 · 1h 03m · transcript
+- [[sources/Adelaide Heward-Mills/Healing Hearts, Renewing Vows [541095eb9941e3a5]|Healing Hearts, Renewing Vows]] · [original](https://adelaidehewardmills.podbean.com/e/healing-hearts-renewing-vows/) · 2026-04-01 · 1h 05m · transcript
+- [[sources/Adelaide Heward-Mills/Questions And Answers - Rekindling The Love In The Marriage, Now And In The Future [eb17475008da345d]|Questions And Answers - Rekindling The Love In The Marriage, Now And In The Future]] · [original](https://adelaidehewardmills.podbean.com/e/questions-and-answers-rekindling-the-love-in-the-marriage-now-and-in-the-future/) · 2026-03-26 · 24m · transcript
+- [[sources/Adelaide Heward-Mills/Rekindling The Love In The Marriage, Now And In The Future [488122523e26e40c]|Rekindling The Love In The Marriage, Now And In The Future]] · [original](https://adelaidehewardmills.podbean.com/e/rekindling-the-love-in-the-marriage-now-and-in-the-future/) · 2026-03-26 · 51m · transcript
+- [[sources/Adelaide Heward-Mills/Questions And Answers - Through The Changing Seasons of Life And Marriage [8752dcf8ebc3cc55]|Questions And Answers - Through The Changing Seasons of Life And Marriage]] · [original](https://adelaidehewardmills.podbean.com/e/questions-and-answers-through-the-changing-seasons-of-life-and-marriage/) · 2026-03-13 · 1h 03m · transcript
+- [[sources/Adelaide Heward-Mills/Through The Changing Seasons of Life And Marriage [47b68b9e7f7dde63]|Through The Changing Seasons of Life And Marriage]] · [original](https://adelaidehewardmills.podbean.com/e/through-the-changing-seasons-of-life-and-marriage/) · 2026-03-02 · 2h 05m · transcript
+- [[sources/Adelaide Heward-Mills/Questions and Answers - More Than Roses [53e6e8f617b8cf8a]|Questions and Answers - More Than Roses]] · [original](https://adelaidehewardmills.podbean.com/e/temperaments-1771442131/) · 2026-02-18 · 1h 18m · transcript
+- [[sources/Adelaide Heward-Mills/More Than Roses [11c63e71603b8f85]|More Than Roses]] · [original](https://adelaidehewardmills.podbean.com/e/temperaments/) · 2026-02-18 · 38m · transcript
 - Valentine's Day Message for 2026 · [original](https://adelaidehewardmills.podbean.com/e/valentines-day-message-for-2026/) · 2026-02-14 · 9m · transcript pending
 - Self- Control · [original](https://adelaidehewardmills.podbean.com/e/self-control/) · 2026-01-23 · 1h 15m · transcript pending
 - Faith Secrets (English & Français) · [original](https://adelaidehewardmills.podbean.com/e/faith-secrets-english-francais/) · 2026-01-09 · 1h 34m · transcript pending
 - [[sources/Adelaide Heward-Mills/Merry Christmas ! [7cb00f73543feeb7]|Merry Christmas !]] · [original](https://adelaidehewardmills.podbean.com/e/merry-christmas/) · 2025-12-25 · 4m · transcript
-- Can't You Do Just A Little Bit More · [original](https://adelaidehewardmills.podbean.com/e/cant-you-do-just-a-little-bit-more-1765577049/) · 2025-12-12 · 1h 05m · transcript pending
-- Questions and Answers - The Woman And Her Lover · [original](https://adelaidehewardmills.podbean.com/e/questions-and-answers-the-woman-and-her-lover/) · 2025-11-30 · 24m · transcript pending
-- The Woman And Her Lover · [original](https://adelaidehewardmills.podbean.com/e/the-woman-and-her-lover/) · 2025-11-24 · 1h 36m · transcript pending
-- Can't You Do Just A Little Bit More · [original](https://adelaidehewardmills.podbean.com/e/cant-you-do-just-a-little-bit-more-1763446871/) · 2025-11-18 · 1h 31m · transcript pending
-- Questions and Answers - Mastering Emotional Intelligence in Marriage · [original](https://adelaidehewardmills.podbean.com/e/mastering-emotional-intelligence-in-marriage-1762259788/) · 2025-11-04 · 21m · transcript pending
+- [[sources/Adelaide Heward-Mills/Can't You Do Just A Little Bit More [d43883d643159cf9]|Can't You Do Just A Little Bit More]] · [original](https://adelaidehewardmills.podbean.com/e/cant-you-do-just-a-little-bit-more-1765577049/) · 2025-12-12 · 1h 05m · transcript
+- [[sources/Adelaide Heward-Mills/Questions and Answers - The Woman And Her Lover [da602602cb6cdeba]|Questions and Answers - The Woman And Her Lover]] · [original](https://adelaidehewardmills.podbean.com/e/questions-and-answers-the-woman-and-her-lover/) · 2025-11-30 · 24m · transcript
+- [[sources/Adelaide Heward-Mills/The Woman And Her Lover [b8165c4ad40681a9]|The Woman And Her Lover]] · [original](https://adelaidehewardmills.podbean.com/e/the-woman-and-her-lover/) · 2025-11-24 · 1h 36m · transcript
+- [[sources/Adelaide Heward-Mills/Can't You Do Just A Little Bit More [7b427cf63b0b8922]|Can't You Do Just A Little Bit More]] · [original](https://adelaidehewardmills.podbean.com/e/cant-you-do-just-a-little-bit-more-1763446871/) · 2025-11-18 · 1h 31m · transcript
+- [[sources/Adelaide Heward-Mills/Questions and Answers - Mastering Emotional Intelligence in Marriage [74a9bfc88f237294]|Questions and Answers - Mastering Emotional Intelligence in Marriage]] · [original](https://adelaidehewardmills.podbean.com/e/mastering-emotional-intelligence-in-marriage-1762259788/) · 2025-11-04 · 21m · transcript
 - Questions and Answers - How To Be A Strong Christian (English & Français) · [original](https://adelaidehewardmills.podbean.com/e/questions-and-answers-how-to-be-a-strong-christian-english-francais/) · 2025-10-23 · 54m · transcript pending
-- Mastering Emotional Intelligence in Marriage · [original](https://adelaidehewardmills.podbean.com/e/mastering-emotional-intelligence-in-marriage/) · 2025-10-15 · 1h 34m · transcript pending
-- Making Quality Life Choices - The Christian Youth and Relationships · [original](https://adelaidehewardmills.podbean.com/e/making-quality-life-choices-the-christian-youth-and-relationships/) · 2025-10-11 · 1h 25m · transcript pending
-- Better A Child Than A King · [original](https://adelaidehewardmills.podbean.com/e/better-a-child-than-a-king/) · 2025-10-02 · 2h 43m · transcript pending
-- A Little One Shall Become A Thousand · [original](https://adelaidehewardmills.podbean.com/e/a-little-one-shall-become-a-thousand/) · 2025-09-24 · 41m · transcript pending
+- [[sources/Adelaide Heward-Mills/Mastering Emotional Intelligence in Marriage [b76ad1a8f7ff7002]|Mastering Emotional Intelligence in Marriage]] · [original](https://adelaidehewardmills.podbean.com/e/mastering-emotional-intelligence-in-marriage/) · 2025-10-15 · 1h 34m · transcript
+- [[sources/Adelaide Heward-Mills/Making Quality Life Choices - The Christian Youth and Relationships [9067b57dd52c8073]|Making Quality Life Choices - The Christian Youth and Relationships]] · [original](https://adelaidehewardmills.podbean.com/e/making-quality-life-choices-the-christian-youth-and-relationships/) · 2025-10-11 · 1h 25m · transcript
+- [[sources/Adelaide Heward-Mills/Better A Child Than A King [e1c2f6653972ee07]|Better A Child Than A King]] · [original](https://adelaidehewardmills.podbean.com/e/better-a-child-than-a-king/) · 2025-10-02 · 2h 43m · transcript
+- [[sources/Adelaide Heward-Mills/A Little One Shall Become A Thousand [f541da11c0b92fb4]|A Little One Shall Become A Thousand]] · [original](https://adelaidehewardmills.podbean.com/e/a-little-one-shall-become-a-thousand/) · 2025-09-24 · 41m · transcript
 - A Better Country · [original](https://adelaidehewardmills.podbean.com/e/a-better-country/) · 2025-09-19 · 1h 02m · transcript pending
 - Why Should We Fear God ? · [original](https://adelaidehewardmills.podbean.com/e/the-benefits-of-fearing-god/) · 2025-09-05 · 40m · transcript pending
-- Looking Unto His Word · [original](https://adelaidehewardmills.podbean.com/e/looking-unto-his-word/) · 2025-08-26 · 1h 39m · transcript pending
+- [[sources/Adelaide Heward-Mills/Looking Unto His Word [7cfa4ae23dcc7dec]|Looking Unto His Word]] · [original](https://adelaidehewardmills.podbean.com/e/looking-unto-his-word/) · 2025-08-26 · 1h 39m · transcript
 - How To Be A Strong Christian (English & Français) · [original](https://adelaidehewardmills.podbean.com/e/how-to-be-a-strong-christian-1755643682/) · 2025-08-19 · 1h 14m · transcript pending
-- Looking Unto Jesus · [original](https://adelaidehewardmills.podbean.com/e/looking-unto-jesus/) · 2025-08-10 · 1h 21m · transcript pending
+- [[sources/Adelaide Heward-Mills/Looking Unto Jesus [ca5c2ee26af99b3c]|Looking Unto Jesus]] · [original](https://adelaidehewardmills.podbean.com/e/looking-unto-jesus/) · 2025-08-10 · 1h 21m · transcript
 - Don't Destroy God's Creation (English & Français) · [original](https://adelaidehewardmills.podbean.com/e/dont-destroy-gods-creation-1753803660/) · 2025-07-29 · 58m · transcript pending
 - Wise As Serpents (English & Français) · [original](https://adelaidehewardmills.podbean.com/e/being-as-wise-as-serpents/) · 2025-07-11 · 59m · transcript pending
-- Better Not To Vow · [original](https://adelaidehewardmills.podbean.com/e/better-not-to-vow/) · 2025-07-05 · 1h 18m · transcript pending
+- [[sources/Adelaide Heward-Mills/Better Not To Vow [a83317028af459a5]|Better Not To Vow]] · [original](https://adelaidehewardmills.podbean.com/e/better-not-to-vow/) · 2025-07-05 · 1h 18m · transcript
 - Questions and Answers - How To Be An Unmovable Christian · [original](https://adelaidehewardmills.podbean.com/e/questions-and-answers-how-to-be-an-unmovable-christian/) · 2025-06-20 · 45m · transcript pending
 - The Faith Side of a Woman Redefined · [original](https://adelaidehewardmills.podbean.com/e/woman-redefined-conference/) · 2025-06-06 · 48m · transcript pending
-- How To Be An Unmovable Christian · [original](https://adelaidehewardmills.podbean.com/e/how-to-be-an-unmovable-christian/) · 2025-05-21 · 1h 21m · transcript pending
-- The Woman Who Pleases God - Part Two : Questions and Answers · [original](https://adelaidehewardmills.podbean.com/e/the-woman-who-pleases-god-part-two-questions-and-answers/) · 2025-05-13 · 13m · transcript pending
-- The Woman Who Pleases God - Part Two · [original](https://adelaidehewardmills.podbean.com/e/the-woman-who-pleases-god-part-two/) · 2025-04-26 · 1h 23m · transcript pending
+- [[sources/Adelaide Heward-Mills/How To Be An Unmovable Christian [0978db2110c1bb66]|How To Be An Unmovable Christian]] · [original](https://adelaidehewardmills.podbean.com/e/how-to-be-an-unmovable-christian/) · 2025-05-21 · 1h 21m · transcript
+- [[sources/Adelaide Heward-Mills/The Woman Who Pleases God - Part Two Questions and Answers [c2e534fecfe26238]|The Woman Who Pleases God - Part Two : Questions and Answers]] · [original](https://adelaidehewardmills.podbean.com/e/the-woman-who-pleases-god-part-two-questions-and-answers/) · 2025-05-13 · 13m · transcript
+- [[sources/Adelaide Heward-Mills/The Woman Who Pleases God - Part Two [64037456a4fd23ca]|The Woman Who Pleases God - Part Two]] · [original](https://adelaidehewardmills.podbean.com/e/the-woman-who-pleases-god-part-two/) · 2025-04-26 · 1h 23m · transcript
 - Special Easter Message · [original](https://adelaidehewardmills.podbean.com/e/special-easter-message/) · 2025-04-20 · 11m · transcript pending
-- The Woman Who Pleases God - Part One : Questions and Answers · [original](https://adelaidehewardmills.podbean.com/e/the-woman-who-pleases-god-part-one-questions-and-answers/) · 2025-04-11 · 33m · transcript pending
+- [[sources/Adelaide Heward-Mills/The Woman Who Pleases God - Part One Questions and Answers [b25d285cfb869921]|The Woman Who Pleases God - Part One : Questions and Answers]] · [original](https://adelaidehewardmills.podbean.com/e/the-woman-who-pleases-god-part-one-questions-and-answers/) · 2025-04-11 · 33m · transcript
 - The Woman Who Pleases God - Part One · [original](https://adelaidehewardmills.podbean.com/e/the-woman-who-pleases-god-part-one/) · 2025-04-11 · 1h 08m · transcript pending
-- Questions And Answers - I Love You But Why Are We So Different ? · [original](https://adelaidehewardmills.podbean.com/e/questions-and-answers-i-love-you-but-why-are-we-so-different/) · 2025-04-03 · 48m · transcript pending
-- I Love You But Why Are We So Different · [original](https://adelaidehewardmills.podbean.com/e/i-love-you-but-why-are-we-so-different/) · 2025-03-27 · 1h 29m · transcript pending
-- Communication And Problem Solving In Marriage - Questions And Answers · [original](https://adelaidehewardmills.podbean.com/e/communication-and-problem-solving-in-marriage-questions-and-answers/) · 2025-03-20 · 1h 08m · transcript pending
-- Communication And Problem Solving In Marriage · [original](https://adelaidehewardmills.podbean.com/e/communication-and-problem-solving-in-marriage/) · 2025-03-06 · 53m · transcript pending
+- [[sources/Adelaide Heward-Mills/Questions And Answers - I Love You But Why Are We So Different [91eda177b8f861d9]|Questions And Answers - I Love You But Why Are We So Different ?]] · [original](https://adelaidehewardmills.podbean.com/e/questions-and-answers-i-love-you-but-why-are-we-so-different/) · 2025-04-03 · 48m · transcript
+- [[sources/Adelaide Heward-Mills/I Love You But Why Are We So Different [4546bb4928b810f1]|I Love You But Why Are We So Different]] · [original](https://adelaidehewardmills.podbean.com/e/i-love-you-but-why-are-we-so-different/) · 2025-03-27 · 1h 29m · transcript
+- [[sources/Adelaide Heward-Mills/Communication And Problem Solving In Marriage - Questions And Answers [24a33328b251c151]|Communication And Problem Solving In Marriage - Questions And Answers]] · [original](https://adelaidehewardmills.podbean.com/e/communication-and-problem-solving-in-marriage-questions-and-answers/) · 2025-03-20 · 1h 08m · transcript
+- [[sources/Adelaide Heward-Mills/Communication And Problem Solving In Marriage [ab668fb0c4f94074]|Communication And Problem Solving In Marriage]] · [original](https://adelaidehewardmills.podbean.com/e/communication-and-problem-solving-in-marriage/) · 2025-03-06 · 53m · transcript
 - Being Steadfast · [original](https://adelaidehewardmills.podbean.com/e/being-steadfast/) · 2025-02-26 · 1h 21m · transcript pending
-- Birth Your Dream · [original](https://adelaidehewardmills.podbean.com/e/birth-your-dream/) · 2025-02-21 · 1h 14m · transcript pending
+- [[sources/Adelaide Heward-Mills/Birth Your Dream [fc572e87737e29f0]|Birth Your Dream]] · [original](https://adelaidehewardmills.podbean.com/e/birth-your-dream/) · 2025-02-21 · 1h 14m · transcript
 - The Greatest Commandment · [original](https://adelaidehewardmills.podbean.com/e/the-greatest-commandment/) · 2025-02-20 · 1h 14m · transcript pending
-- Happy Valentine's Day ! · [original](https://adelaidehewardmills.podbean.com/e/happy-valentines-day/) · 2025-02-14 · 9m · transcript pending
+- [[sources/Adelaide Heward-Mills/Happy Valentine's Day ! [3e139067edf77ee5]|Happy Valentine's Day !]] · [original](https://adelaidehewardmills.podbean.com/e/happy-valentines-day/) · 2025-02-14 · 9m · transcript
 - The Human Heart - Questions and Answers · [original](https://adelaidehewardmills.podbean.com/e/the-human-heart-questions-and-answers/) · 2025-02-05 · 28m · transcript pending
-- The Human Heart · [original](https://adelaidehewardmills.podbean.com/e/the-human-heart-1738776601/) · 2025-02-05 · 31m · transcript pending
+- [[sources/Adelaide Heward-Mills/The Human Heart [31c1d4100168a271]|The Human Heart]] · [original](https://adelaidehewardmills.podbean.com/e/the-human-heart-1738776601/) · 2025-02-05 · 31m · transcript
 - Can't You Do Just A Little Bit More - Leaman Conference · [original](https://adelaidehewardmills.podbean.com/e/cant-you-do-just-a-little-bit-more-leaman-conference/) · 2025-01-22 · 1h 16m · transcript pending
 - Honey On My Lips · [original](https://adelaidehewardmills.podbean.com/e/honey-on-my-lips/) · 2025-01-09 · 1h 26m · transcript pending
-- Mrs. God · [original](https://adelaidehewardmills.podbean.com/e/mrs-god/) · 2025-01-01 · 1h 20m · transcript pending
-- A Merry Christmas and A Better New Year than the one gone by! · [original](https://adelaidehewardmills.podbean.com/e/a-merry-christmas-and-a-better-new-year-than-the-one-gone-by/) · 2024-12-25 · 10m · transcript pending
-- The Relentless Woman · [original](https://adelaidehewardmills.podbean.com/e/the-relentless-woman/) · 2024-12-18 · 1h 12m · transcript pending
+- [[sources/Adelaide Heward-Mills/Mrs. God [3a0a636403f5e9a2]|Mrs. God]] · [original](https://adelaidehewardmills.podbean.com/e/mrs-god/) · 2025-01-01 · 1h 20m · transcript
+- [[sources/Adelaide Heward-Mills/A Merry Christmas and A Better New Year than the one gone by! [feed417fe6870da7]|A Merry Christmas and A Better New Year than the one gone by!]] · [original](https://adelaidehewardmills.podbean.com/e/a-merry-christmas-and-a-better-new-year-than-the-one-gone-by/) · 2024-12-25 · 10m · transcript
+- [[sources/Adelaide Heward-Mills/The Relentless Woman [ca5c9fb81f42a5e7]|The Relentless Woman]] · [original](https://adelaidehewardmills.podbean.com/e/the-relentless-woman/) · 2024-12-18 · 1h 12m · transcript
 - How to be a Steadfast Christian · [original](https://adelaidehewardmills.podbean.com/e/how-to-be-a-steadfast-christian-1733862912/) · 2024-12-11 · 1h 09m · transcript pending
-- How to be a Steadfast Christian · [original](https://adelaidehewardmills.podbean.com/e/how-to-be-a-steadfast-christian/) · 2024-11-28 · 1h 31m · transcript pending
-- The Benefits of Loving God · [original](https://adelaidehewardmills.podbean.com/e/the-woman-who-loves-the-lord/) · 2024-11-19 · 1h 08m · transcript pending
-- How to Handle the Weaker Vessel - Question and Answers · [original](https://adelaidehewardmills.podbean.com/e/how-to-handle-the-weaker-vessel-question-and-answers/) · 2024-11-01 · 46m · transcript pending
-- How to Handle the Weaker Vessel · [original](https://adelaidehewardmills.podbean.com/e/how-to-handle-the-weaker-vessel/) · 2024-10-30 · 1h 02m · transcript pending
-- Christian Youth and Relationships · [original](https://adelaidehewardmills.podbean.com/e/christian-youth-and-relationships/) · 2024-10-17 · 1h 43m · transcript pending
-- The Weapon of Love · [original](https://adelaidehewardmills.podbean.com/e/the-weapon-of-love/) · 2024-10-03 · 1h 00m · transcript pending
-- Weapon Of Testimonies · [original](https://adelaidehewardmills.podbean.com/e/weapon-of-testimonies/) · 2024-09-18 · 1h 45m · transcript pending
-- An Effective Quiet Time · [original](https://adelaidehewardmills.podbean.com/e/an-effective-quiet-time/) · 2024-08-19 · 1h 08m · transcript pending
+- [[sources/Adelaide Heward-Mills/How to be a Steadfast Christian [61a1d6d2637417f7]|How to be a Steadfast Christian]] · [original](https://adelaidehewardmills.podbean.com/e/how-to-be-a-steadfast-christian/) · 2024-11-28 · 1h 31m · transcript
+- [[sources/Adelaide Heward-Mills/The Benefits of Loving God [d27b6605ed0b4a94]|The Benefits of Loving God]] · [original](https://adelaidehewardmills.podbean.com/e/the-woman-who-loves-the-lord/) · 2024-11-19 · 1h 08m · transcript
+- [[sources/Adelaide Heward-Mills/How to Handle the Weaker Vessel - Question and Answers [57b547e92deb9994]|How to Handle the Weaker Vessel - Question and Answers]] · [original](https://adelaidehewardmills.podbean.com/e/how-to-handle-the-weaker-vessel-question-and-answers/) · 2024-11-01 · 46m · transcript
+- [[sources/Adelaide Heward-Mills/How to Handle the Weaker Vessel [9bf96f3d76b5da81]|How to Handle the Weaker Vessel]] · [original](https://adelaidehewardmills.podbean.com/e/how-to-handle-the-weaker-vessel/) · 2024-10-30 · 1h 02m · transcript
+- [[sources/Adelaide Heward-Mills/Christian Youth and Relationships [b55c1b2b3e51f7bf]|Christian Youth and Relationships]] · [original](https://adelaidehewardmills.podbean.com/e/christian-youth-and-relationships/) · 2024-10-17 · 1h 43m · transcript
+- [[sources/Adelaide Heward-Mills/The Weapon of Love [0d71ee53b1b6093b]|The Weapon of Love]] · [original](https://adelaidehewardmills.podbean.com/e/the-weapon-of-love/) · 2024-10-03 · 1h 00m · transcript
+- [[sources/Adelaide Heward-Mills/Weapon Of Testimonies [a5348462cd9ddc32]|Weapon Of Testimonies]] · [original](https://adelaidehewardmills.podbean.com/e/weapon-of-testimonies/) · 2024-09-18 · 1h 45m · transcript
+- [[sources/Adelaide Heward-Mills/An Effective Quiet Time [c15f34406ad74ee2]|An Effective Quiet Time]] · [original](https://adelaidehewardmills.podbean.com/e/an-effective-quiet-time/) · 2024-08-19 · 1h 08m · transcript
 - Am I Good For Nothing ? · [original](https://adelaidehewardmills.podbean.com/e/why-we-do-not-use-our-talents/) · 2024-07-24 · 2h 05m · transcript pending
 - The Call Of God On Our Lives · [original](https://adelaidehewardmills.podbean.com/e/the-call-of-god-on-our-lives/) · 2024-07-19 · 2h 16m · transcript pending
-- Weapon Of Good Counsel · [original](https://adelaidehewardmills.podbean.com/e/weapon-of-good-counsel/) · 2024-06-25 · 2h 26m · transcript pending
-- Can't You Do Just a Little Bit More · [original](https://adelaidehewardmills.podbean.com/e/cant-you-do-just-a-little-bit-more/) · 2024-06-07 · 1h 01m · transcript pending
-- The Seed of the Woman · [original](https://adelaidehewardmills.podbean.com/e/the-seed-of-the-woman-1716461126/) · 2024-05-23 · 1h 18m · transcript pending
+- [[sources/Adelaide Heward-Mills/Weapon Of Good Counsel [c004319cb6bcfaab]|Weapon Of Good Counsel]] · [original](https://adelaidehewardmills.podbean.com/e/weapon-of-good-counsel/) · 2024-06-25 · 2h 26m · transcript
+- [[sources/Adelaide Heward-Mills/Can't You Do Just a Little Bit More [5e3a65da99ae32aa]|Can't You Do Just a Little Bit More]] · [original](https://adelaidehewardmills.podbean.com/e/cant-you-do-just-a-little-bit-more/) · 2024-06-07 · 1h 01m · transcript
+- [[sources/Adelaide Heward-Mills/The Seed of the Woman [bdb1db8357e9a706]|The Seed of the Woman]] · [original](https://adelaidehewardmills.podbean.com/e/the-seed-of-the-woman-1716461126/) · 2024-05-23 · 1h 18m · transcript
 - Mother, It's Your Honor · [original](https://adelaidehewardmills.podbean.com/e/mother-its-your-honor/) · 2024-05-12 · 1h 15m · transcript pending
 - Happy Mother's Day! · [original](https://adelaidehewardmills.podbean.com/e/happy-mothers-day/) · 2024-05-12 · 16m · transcript pending
-- In the Footsteps of Hannah · [original](https://adelaidehewardmills.podbean.com/e/in-the-footsteps-of-hannah/) · 2024-04-22 · 54m · transcript pending
-- Beyond the Butterflies - Questions and Answers · [original](https://adelaidehewardmills.podbean.com/e/beyond-the-butterflies-questions-and-answers/) · 2024-04-07 · 32m · transcript pending
-- Beyond the Butterflies · [original](https://adelaidehewardmills.podbean.com/e/beyond-the-butterflies/) · 2024-03-31 · 1h 11m · transcript pending
-- Happy Resurrection Sunday · [original](https://adelaidehewardmills.podbean.com/e/happy-resurrection%c2%a0sunday/) · 2024-03-31 · 13m · transcript pending
-- Prosperity of The Word · [original](https://adelaidehewardmills.podbean.com/e/prosperity-of-the-word/) · 2024-03-24 · 1h 22m · transcript pending
+- [[sources/Adelaide Heward-Mills/In the Footsteps of Hannah [a30698a1d8f49586]|In the Footsteps of Hannah]] · [original](https://adelaidehewardmills.podbean.com/e/in-the-footsteps-of-hannah/) · 2024-04-22 · 54m · transcript
+- [[sources/Adelaide Heward-Mills/Beyond the Butterflies - Questions and Answers [55b857d1e2f8bcc9]|Beyond the Butterflies - Questions and Answers]] · [original](https://adelaidehewardmills.podbean.com/e/beyond-the-butterflies-questions-and-answers/) · 2024-04-07 · 32m · transcript
+- [[sources/Adelaide Heward-Mills/Beyond the Butterflies [eca1cb9fcc0f6992]|Beyond the Butterflies]] · [original](https://adelaidehewardmills.podbean.com/e/beyond-the-butterflies/) · 2024-03-31 · 1h 11m · transcript
+- [[sources/Adelaide Heward-Mills/Happy Resurrection Sunday [7a1f44992de2be19]|Happy Resurrection Sunday]] · [original](https://adelaidehewardmills.podbean.com/e/happy-resurrection%c2%a0sunday/) · 2024-03-31 · 13m · transcript
+- [[sources/Adelaide Heward-Mills/Prosperity of The Word [58f3881010a7bac0]|Prosperity of The Word]] · [original](https://adelaidehewardmills.podbean.com/e/prosperity-of-the-word/) · 2024-03-24 · 1h 22m · transcript
 - Problem Solving in Marriage (Questions and Answers) · [original](https://adelaidehewardmills.podbean.com/e/problem-solving-in-marriage-questions-and-answers/) · 2024-03-17 · 56m · transcript pending
-- Problem Solving in Marriage · [original](https://adelaidehewardmills.podbean.com/e/problem-solving-in-marriage/) · 2024-03-10 · 1h 36m · transcript pending
+- [[sources/Adelaide Heward-Mills/Problem Solving in Marriage [d092d3decc78c443]|Problem Solving in Marriage]] · [original](https://adelaidehewardmills.podbean.com/e/problem-solving-in-marriage/) · 2024-03-10 · 1h 36m · transcript
 - How to Pray · [original](https://adelaidehewardmills.podbean.com/e/how-to-pray/) · 2024-03-03 · 1h 35m · transcript pending
-- How to be Found · [original](https://adelaidehewardmills.podbean.com/e/how-to-be-found/) · 2024-02-29 · 1h 32m · transcript pending
+- [[sources/Adelaide Heward-Mills/How to be Found [faa8f1ef6db262bf]|How to be Found]] · [original](https://adelaidehewardmills.podbean.com/e/how-to-be-found/) · 2024-02-29 · 1h 32m · transcript
 - Quiet Time · [original](https://adelaidehewardmills.podbean.com/e/quiet-time/) · 2024-02-25 · 35m · transcript pending
 - Powerful Effects of Quiet Time · [original](https://adelaidehewardmills.podbean.com/e/powerful-effects-of-quiet-time/) · 2024-02-18 · 53m · transcript pending
 - Read Your Bible, Pray Everyday · [original](https://adelaidehewardmills.podbean.com/e/read-your-bible-pray-everyday/) · 2024-02-11 · 47m · transcript pending
-- Breaking the Cycle of Control (Questions and Answers) · [original](https://adelaidehewardmills.podbean.com/e/breaking-the-cycle-of-control-questions-and-answers/) · 2024-02-05 · 1h 34m · transcript pending
-- The Forces Within Us · [original](https://adelaidehewardmills.podbean.com/e/the-forces-within-us/) · 2023-12-29 · 1h 38m · transcript pending
-- Why Worry · [original](https://adelaidehewardmills.podbean.com/e/why-worry/) · 2023-12-04 · 1h 21m · transcript pending
-- Before You Say I Do and After You Say I Do - Question and Answers · [original](https://adelaidehewardmills.podbean.com/e/before-you-say-i-do-and-after-you-say-i-do-question-and-answers/) · 2023-11-27 · 1h 46m · transcript pending
-- Before You Say I Do and After You Have Said I Do · [original](https://adelaidehewardmills.podbean.com/e/before-you-say-i-do-and-after-you-have-said-i-do/) · 2023-11-19 · 1h 46m · transcript pending
-- How to be a Strong Woman · [original](https://adelaidehewardmills.podbean.com/e/how-to-be-a-strong-woman/) · 2023-11-02 · 1h 21m · transcript pending
-- Backsliding - Developing Your Staying Power · [original](https://adelaidehewardmills.podbean.com/e/backsliding/) · 2023-10-31 · 1h 29m · transcript pending
-- Fight the Good Fight of Faith · [original](https://adelaidehewardmills.podbean.com/e/fight-the-good-fight-of-faith/) · 2023-10-16 · 1h 42m · transcript pending
-- Are you A Friend of God · [original](https://adelaidehewardmills.podbean.com/e/are-you-the-friend-of-god/) · 2023-09-21 · 1h 56m · transcript pending
-- 4 Things You Must Set In Your Life · [original](https://adelaidehewardmills.podbean.com/e/4-things-you-must-set-in-your-life/) · 2023-09-04 · 1h 10m · transcript pending
-- The Curse Of a Carnal Woman · [original](https://adelaidehewardmills.podbean.com/e/the-curse-of-a-carnal-woman/) · 2023-08-28 · 1h 13m · transcript pending
+- [[sources/Adelaide Heward-Mills/Breaking the Cycle of Control (Questions and Answers) [9de1b58bfa556b7d]|Breaking the Cycle of Control (Questions and Answers)]] · [original](https://adelaidehewardmills.podbean.com/e/breaking-the-cycle-of-control-questions-and-answers/) · 2024-02-05 · 1h 34m · transcript
+- [[sources/Adelaide Heward-Mills/The Forces Within Us [1434100ee195e9ca]|The Forces Within Us]] · [original](https://adelaidehewardmills.podbean.com/e/the-forces-within-us/) · 2023-12-29 · 1h 38m · transcript
+- [[sources/Adelaide Heward-Mills/Why Worry [56d277b7a23b6f21]|Why Worry]] · [original](https://adelaidehewardmills.podbean.com/e/why-worry/) · 2023-12-04 · 1h 21m · transcript
+- [[sources/Adelaide Heward-Mills/Before You Say I Do and After You Say I Do - Question and Answers [123a83a067a74925]|Before You Say I Do and After You Say I Do - Question and Answers]] · [original](https://adelaidehewardmills.podbean.com/e/before-you-say-i-do-and-after-you-say-i-do-question-and-answers/) · 2023-11-27 · 1h 46m · transcript
+- [[sources/Adelaide Heward-Mills/Before You Say I Do and After You Have Said I Do [a2fe684bac822fba]|Before You Say I Do and After You Have Said I Do]] · [original](https://adelaidehewardmills.podbean.com/e/before-you-say-i-do-and-after-you-have-said-i-do/) · 2023-11-19 · 1h 46m · transcript
+- [[sources/Adelaide Heward-Mills/How to be a Strong Woman [f5414ee42905a13a]|How to be a Strong Woman]] · [original](https://adelaidehewardmills.podbean.com/e/how-to-be-a-strong-woman/) · 2023-11-02 · 1h 21m · transcript
+- [[sources/Adelaide Heward-Mills/Backsliding - Developing Your Staying Power [d713fb2bbf02c58a]|Backsliding - Developing Your Staying Power]] · [original](https://adelaidehewardmills.podbean.com/e/backsliding/) · 2023-10-31 · 1h 29m · transcript
+- [[sources/Adelaide Heward-Mills/Fight the Good Fight of Faith [21f5c9e4ae57aa2f]|Fight the Good Fight of Faith]] · [original](https://adelaidehewardmills.podbean.com/e/fight-the-good-fight-of-faith/) · 2023-10-16 · 1h 42m · transcript
+- [[sources/Adelaide Heward-Mills/Are you A Friend of God [8e2934b4de912538]|Are you A Friend of God]] · [original](https://adelaidehewardmills.podbean.com/e/are-you-the-friend-of-god/) · 2023-09-21 · 1h 56m · transcript
+- [[sources/Adelaide Heward-Mills/4 Things You Must Set In Your Life [0da303acc6b524c7]|4 Things You Must Set In Your Life]] · [original](https://adelaidehewardmills.podbean.com/e/4-things-you-must-set-in-your-life/) · 2023-09-04 · 1h 10m · transcript
+- [[sources/Adelaide Heward-Mills/The Curse Of a Carnal Woman [5e3f04a21f8603af]|The Curse Of a Carnal Woman]] · [original](https://adelaidehewardmills.podbean.com/e/the-curse-of-a-carnal-woman/) · 2023-08-28 · 1h 13m · transcript
 - Daughters Of Eve · [original](https://adelaidehewardmills.podbean.com/e/daughters-of-eve/) · 2023-08-21 · 1h 07m · transcript pending
 - God’s Purpose for a Woman · [original](https://adelaidehewardmills.podbean.com/e/god-s-purpose-for-a-woman/) · 2023-08-14 · 1h 17m · transcript pending
-- Weapon Of Soberness · [original](https://adelaidehewardmills.podbean.com/e/weapon-of-soberness/) · 2023-08-07 · 1h 13m · transcript pending
+- [[sources/Adelaide Heward-Mills/Weapon Of Soberness [d26abb90bf043835]|Weapon Of Soberness]] · [original](https://adelaidehewardmills.podbean.com/e/weapon-of-soberness/) · 2023-08-07 · 1h 13m · transcript
 - The Woman Of Influence · [original](https://adelaidehewardmills.podbean.com/e/the-woman-of-influence/) · 2023-07-31 · 1h 20m · transcript pending
 - Woman to Woman · [original](https://adelaidehewardmills.podbean.com/e/woman-to-woman/) · 2023-07-24 · 1h 09m · transcript pending
-- Daughter, Don’t Destroy God’s Creation · [original](https://adelaidehewardmills.podbean.com/e/daughter-don-t-destroy-god-s-creation/) · 2023-06-26 · 1h 06m · transcript pending
-- The Woman Of Good Understanding · [original](https://adelaidehewardmills.podbean.com/e/the-woman-of-good-understanding/) · 2023-05-29 · 1h 28m · transcript pending
-- Be Thou Thankful · [original](https://adelaidehewardmills.podbean.com/e/be-thou-thankful/) · 2023-05-22 · 1h 13m · transcript pending
-- Mother, It’s Your Honour · [original](https://adelaidehewardmills.podbean.com/e/mother-it-s-your-honour/) · 2023-05-10 · 1h 15m · transcript pending
+- [[sources/Adelaide Heward-Mills/Daughter, Don’t Destroy God’s Creation [1545d47ff78072ca]|Daughter, Don’t Destroy God’s Creation]] · [original](https://adelaidehewardmills.podbean.com/e/daughter-don-t-destroy-god-s-creation/) · 2023-06-26 · 1h 06m · transcript
+- [[sources/Adelaide Heward-Mills/The Woman Of Good Understanding [05cc6c70d710d980]|The Woman Of Good Understanding]] · [original](https://adelaidehewardmills.podbean.com/e/the-woman-of-good-understanding/) · 2023-05-29 · 1h 28m · transcript
+- [[sources/Adelaide Heward-Mills/Be Thou Thankful [290cf6ce5590ead3]|Be Thou Thankful]] · [original](https://adelaidehewardmills.podbean.com/e/be-thou-thankful/) · 2023-05-22 · 1h 13m · transcript
+- [[sources/Adelaide Heward-Mills/Mother, It’s Your Honour [f5c900bcef55fe06]|Mother, It’s Your Honour]] · [original](https://adelaidehewardmills.podbean.com/e/mother-it-s-your-honour/) · 2023-05-10 · 1h 15m · transcript
 - Pursuing the Work Of The Great Provider · [original](https://adelaidehewardmills.podbean.com/e/pursuing-the-work-of-the-great-provider/) · 2023-05-02 · 1h 25m · transcript pending
 - The Unsatisfied Woman and Her Lot In Life - Who is An Unsatisfied Woman? · [original](https://adelaidehewardmills.podbean.com/e/who-is-an-unstatisfied-woman/) · 2023-04-11 · 1h 05m · transcript pending
-- Faithfulness and Unfaithfulness in Marriages - Questions and Answers · [original](https://adelaidehewardmills.podbean.com/e/faithfulness-and-unfaithfulness-in-marriages-questions-and-answers/) · 2023-04-03 · 41m · transcript pending
-- Faithfulness and Unfaithfulness in Marriages · [original](https://adelaidehewardmills.podbean.com/e/faithfulness-and-unfaithfulness-in-marriages/) · 2023-03-28 · 1h 39m · transcript pending
-- Negotiation Skills · [original](https://adelaidehewardmills.podbean.com/e/negotiation-skills/) · 2023-02-28 · 1h 13m · transcript pending
-- The Role of Women in the Ministry of Jesus · [original](https://adelaidehewardmills.podbean.com/e/the-role-of-women-in-the-ministry-of-jesus/) · 2023-01-27 · 42m · transcript pending
-- What Do You See · [original](https://adelaidehewardmills.podbean.com/e/daughter-what-do-you-see/) · 2022-12-05 · 1h 36m · transcript pending
+- [[sources/Adelaide Heward-Mills/Faithfulness and Unfaithfulness in Marriages - Questions and Answers [560885c64927f51c]|Faithfulness and Unfaithfulness in Marriages - Questions and Answers]] · [original](https://adelaidehewardmills.podbean.com/e/faithfulness-and-unfaithfulness-in-marriages-questions-and-answers/) · 2023-04-03 · 41m · transcript
+- [[sources/Adelaide Heward-Mills/Faithfulness and Unfaithfulness in Marriages [437a05a55f13820c]|Faithfulness and Unfaithfulness in Marriages]] · [original](https://adelaidehewardmills.podbean.com/e/faithfulness-and-unfaithfulness-in-marriages/) · 2023-03-28 · 1h 39m · transcript
+- [[sources/Adelaide Heward-Mills/Negotiation Skills [f1b34b4d5b8ddfe0]|Negotiation Skills]] · [original](https://adelaidehewardmills.podbean.com/e/negotiation-skills/) · 2023-02-28 · 1h 13m · transcript
+- [[sources/Adelaide Heward-Mills/The Role of Women in the Ministry of Jesus [50c57c9835ab201f]|The Role of Women in the Ministry of Jesus]] · [original](https://adelaidehewardmills.podbean.com/e/the-role-of-women-in-the-ministry-of-jesus/) · 2023-01-27 · 42m · transcript
+- [[sources/Adelaide Heward-Mills/What Do You See [6b135b7f01d54bca]|What Do You See]] · [original](https://adelaidehewardmills.podbean.com/e/daughter-what-do-you-see/) · 2022-12-05 · 1h 36m · transcript
 - Many Are Called · [original](https://adelaidehewardmills.podbean.com/e/many-are-called/) · 2022-11-16 · 48m · transcript pending
 - Proton · [original](https://adelaidehewardmills.podbean.com/e/proton/) · 2022-11-05 · 1h 07m · transcript pending
-- Vessels God Can Use · [original](https://adelaidehewardmills.podbean.com/e/vessels-god-can-use/) · 2022-10-20 · 1h 04m · transcript pending
-- Sin Is Dangerous · [original](https://adelaidehewardmills.podbean.com/e/sin-is-dangerous/) · 2022-09-26 · 1h 16m · transcript pending
-- Are You a Double Man · [original](https://adelaidehewardmills.podbean.com/e/are-you-a-double-man-1663859370/) · 2022-09-22 · 1h 36m · transcript pending
-- To Obey Is Better Than to Sacrifice -Part One · [original](https://adelaidehewardmills.podbean.com/e/to-obey-is-better-than-to-sacrifice-part-one/) · 2022-09-01 · 35m · transcript pending
-- Bread Of Idleness · [original](https://adelaidehewardmills.podbean.com/e/bread-of-idleness/) · 2022-08-22 · 1h 10m · transcript pending
-- Your Seed · [original](https://adelaidehewardmills.podbean.com/e/your-seed/) · 2022-08-04 · 1h 11m · transcript pending
-- You are my Sister, You are my Sister · [original](https://adelaidehewardmills.podbean.com/e/you-are-my-sister-you-are-my-sister/) · 2022-07-29 · 1h 16m · transcript pending
-- Don’t Be Afraid · [original](https://adelaidehewardmills.podbean.com/e/don-t-be-afraid/) · 2022-07-22 · 1h 24m · transcript pending
-- Guard Your Heart · [original](https://adelaidehewardmills.podbean.com/e/guard-your-heart/) · 2022-06-18 · 1h 01m · transcript pending
-- 5 Giant Steps Of Faith · [original](https://adelaidehewardmills.podbean.com/e/5-giant-steps-of-faith/) · 2022-06-05 · 1h 04m · transcript pending
-- Open Your Heart Wide Q&A · [original](https://adelaidehewardmills.podbean.com/e/open-your-heart-wide-qa/) · 2022-05-20 · 51m · transcript pending
-- He That Hath · [original](https://adelaidehewardmills.podbean.com/e/he-that-has/) · 2022-04-24 · 54m · transcript pending
+- [[sources/Adelaide Heward-Mills/Vessels God Can Use [64328c5af769c38c]|Vessels God Can Use]] · [original](https://adelaidehewardmills.podbean.com/e/vessels-god-can-use/) · 2022-10-20 · 1h 04m · transcript
+- [[sources/Adelaide Heward-Mills/Sin Is Dangerous [1a0ef4f40608cad2]|Sin Is Dangerous]] · [original](https://adelaidehewardmills.podbean.com/e/sin-is-dangerous/) · 2022-09-26 · 1h 16m · transcript
+- [[sources/Adelaide Heward-Mills/Are You a Double Man [4967041e57e40239]|Are You a Double Man]] · [original](https://adelaidehewardmills.podbean.com/e/are-you-a-double-man-1663859370/) · 2022-09-22 · 1h 36m · transcript
+- [[sources/Adelaide Heward-Mills/To Obey Is Better Than to Sacrifice -Part One [fce38f2ec77fd039]|To Obey Is Better Than to Sacrifice -Part One]] · [original](https://adelaidehewardmills.podbean.com/e/to-obey-is-better-than-to-sacrifice-part-one/) · 2022-09-01 · 35m · transcript
+- [[sources/Adelaide Heward-Mills/Bread Of Idleness [a475bdc7e2510869]|Bread Of Idleness]] · [original](https://adelaidehewardmills.podbean.com/e/bread-of-idleness/) · 2022-08-22 · 1h 10m · transcript
+- [[sources/Adelaide Heward-Mills/Your Seed [78da2345e15a1568]|Your Seed]] · [original](https://adelaidehewardmills.podbean.com/e/your-seed/) · 2022-08-04 · 1h 11m · transcript
+- [[sources/Adelaide Heward-Mills/You are my Sister, You are my Sister [e86d417d0970be02]|You are my Sister, You are my Sister]] · [original](https://adelaidehewardmills.podbean.com/e/you-are-my-sister-you-are-my-sister/) · 2022-07-29 · 1h 16m · transcript
+- [[sources/Adelaide Heward-Mills/Don’t Be Afraid [7ef88230931ab2d2]|Don’t Be Afraid]] · [original](https://adelaidehewardmills.podbean.com/e/don-t-be-afraid/) · 2022-07-22 · 1h 24m · transcript
+- [[sources/Adelaide Heward-Mills/Guard Your Heart [bee2ffcee2cb8899]|Guard Your Heart]] · [original](https://adelaidehewardmills.podbean.com/e/guard-your-heart/) · 2022-06-18 · 1h 01m · transcript
+- [[sources/Adelaide Heward-Mills/5 Giant Steps Of Faith [b8e1883804e5c63f]|5 Giant Steps Of Faith]] · [original](https://adelaidehewardmills.podbean.com/e/5-giant-steps-of-faith/) · 2022-06-05 · 1h 04m · transcript
+- [[sources/Adelaide Heward-Mills/Open Your Heart Wide Q&A [f9fbaceb6a34e1cf]|Open Your Heart Wide Q&A]] · [original](https://adelaidehewardmills.podbean.com/e/open-your-heart-wide-qa/) · 2022-05-20 · 51m · transcript
+- [[sources/Adelaide Heward-Mills/He That Hath [e462b983de1da064]|He That Hath]] · [original](https://adelaidehewardmills.podbean.com/e/he-that-has/) · 2022-04-24 · 54m · transcript
 - Resurrection Sunday Message · [original](https://adelaidehewardmills.podbean.com/e/resurrection-sunday-by-es-adelaide-heward-mills/) · 2022-04-17 · 8m · transcript pending
-- Error Corrector (The Woman) · [original](https://adelaidehewardmills.podbean.com/e/error-corrector-the-woman/) · 2022-04-13 · 1h 20m · transcript pending
-- Types Of Hearers · [original](https://adelaidehewardmills.podbean.com/e/types-of-hearers/) · 2022-03-31 · 1h 12m · transcript pending
-- Kinds and Modes Of Communication in Marriage Pt.2 · [original](https://adelaidehewardmills.podbean.com/e/kinds-and-modes-of-communication-in-marriage-pt2/) · 2022-03-17 · 1h 52m · transcript pending
-- Kinds and Modes Of Communication Pt. 1 · [original](https://adelaidehewardmills.podbean.com/e/kinds-and-modes-of-communication-pt-1/) · 2022-03-09 · 1h 07m · transcript pending
-- Discipled To Make Disciples · [original](https://adelaidehewardmills.podbean.com/e/discipled-to-make-disciples/) · 2022-03-02 · 1h 00m · transcript pending
-- The Characteristics Of Who God Calls · [original](https://adelaidehewardmills.podbean.com/e/the-characteristics-of-who-god-calls/) · 2022-02-25 · 1h 13m · transcript pending
-- Communication In Relationships And Marriage · [original](https://adelaidehewardmills.podbean.com/e/special-valentine-s-day-edition/) · 2022-02-17 · 1h 17m · transcript pending
-- Happy Valentine’s Day · [original](https://adelaidehewardmills.podbean.com/e/happy-valentine-s-day-from-es-adelaide-heward-mills/) · 2022-02-14 · 11m · transcript pending
-- That Which Troubles Women · [original](https://adelaidehewardmills.podbean.com/e/she-hath-done-what-she-could-1644050207/) · 2022-02-05 · 2h 01m · transcript pending
-- Name It! Claim It! Take It! · [original](https://adelaidehewardmills.podbean.com/e/name-it-claim-it-take-it-1643171633/) · 2022-01-26 · 1h 18m · transcript pending
+- [[sources/Adelaide Heward-Mills/Error Corrector (The Woman) [ae37c1a59d5575b6]|Error Corrector (The Woman)]] · [original](https://adelaidehewardmills.podbean.com/e/error-corrector-the-woman/) · 2022-04-13 · 1h 20m · transcript
+- [[sources/Adelaide Heward-Mills/Types Of Hearers [b7f3f5bb4557dd58]|Types Of Hearers]] · [original](https://adelaidehewardmills.podbean.com/e/types-of-hearers/) · 2022-03-31 · 1h 12m · transcript
+- [[sources/Adelaide Heward-Mills/Kinds and Modes Of Communication in Marriage Pt.2 [48b36d8ee868bd8d]|Kinds and Modes Of Communication in Marriage Pt.2]] · [original](https://adelaidehewardmills.podbean.com/e/kinds-and-modes-of-communication-in-marriage-pt2/) · 2022-03-17 · 1h 52m · transcript
+- [[sources/Adelaide Heward-Mills/Kinds and Modes Of Communication Pt. 1 [65e6389d6d4517a2]|Kinds and Modes Of Communication Pt. 1]] · [original](https://adelaidehewardmills.podbean.com/e/kinds-and-modes-of-communication-pt-1/) · 2022-03-09 · 1h 07m · transcript
+- [[sources/Adelaide Heward-Mills/Discipled To Make Disciples [b0a0f0794095ac16]|Discipled To Make Disciples]] · [original](https://adelaidehewardmills.podbean.com/e/discipled-to-make-disciples/) · 2022-03-02 · 1h 00m · transcript
+- [[sources/Adelaide Heward-Mills/The Characteristics Of Who God Calls [a524f97523d1edba]|The Characteristics Of Who God Calls]] · [original](https://adelaidehewardmills.podbean.com/e/the-characteristics-of-who-god-calls/) · 2022-02-25 · 1h 13m · transcript
+- [[sources/Adelaide Heward-Mills/Communication In Relationships And Marriage [1bf92754e839496d]|Communication In Relationships And Marriage]] · [original](https://adelaidehewardmills.podbean.com/e/special-valentine-s-day-edition/) · 2022-02-17 · 1h 17m · transcript
+- [[sources/Adelaide Heward-Mills/Happy Valentine’s Day [1cdc8b3c54ae1681]|Happy Valentine’s Day]] · [original](https://adelaidehewardmills.podbean.com/e/happy-valentine-s-day-from-es-adelaide-heward-mills/) · 2022-02-14 · 11m · transcript
+- [[sources/Adelaide Heward-Mills/That Which Troubles Women [87cb1946ec64e761]|That Which Troubles Women]] · [original](https://adelaidehewardmills.podbean.com/e/she-hath-done-what-she-could-1644050207/) · 2022-02-05 · 2h 01m · transcript
+- [[sources/Adelaide Heward-Mills/Name It! Claim It! Take It! [d34cced32bea0ea0]|Name It! Claim It! Take It!]] · [original](https://adelaidehewardmills.podbean.com/e/name-it-claim-it-take-it-1643171633/) · 2022-01-26 · 1h 18m · transcript
 - Making Your Marriage Work · [original](https://adelaidehewardmills.podbean.com/e/making-your-marriage-work-1641146868/) · 2022-01-16 · 1h 17m · transcript pending
-- The Making Of A Godly Home (The Role Of Prayer) · [original](https://adelaidehewardmills.podbean.com/e/the-making-of-a-godly-home-the-role-of-prayer/) · 2022-01-09 · 1h 22m · transcript pending
-- Finding Your Place In God · [original](https://adelaidehewardmills.podbean.com/e/finding-your-place-in-god/) · 2022-01-02 · 1h 34m · transcript pending
+- [[sources/Adelaide Heward-Mills/The Making Of A Godly Home (The Role Of Prayer) [62d2edd8e0234164]|The Making Of A Godly Home (The Role Of Prayer)]] · [original](https://adelaidehewardmills.podbean.com/e/the-making-of-a-godly-home-the-role-of-prayer/) · 2022-01-09 · 1h 22m · transcript
+- [[sources/Adelaide Heward-Mills/Finding Your Place In God [8736f8e4f761181d]|Finding Your Place In God]] · [original](https://adelaidehewardmills.podbean.com/e/finding-your-place-in-god/) · 2022-01-02 · 1h 34m · transcript
 - Take Heed Part 2 · [original](https://adelaidehewardmills.podbean.com/e/take-heed-part-2-1639940256/) · 2021-12-26 · 59m · transcript pending
-- Merry Christmas and A Happy, Blessed, Prophecy-fulfilling New Year · [original](https://adelaidehewardmills.podbean.com/e/merry-christmas-and-a-happy-blessed-prophecy-fulfilling-new-year/) · 2021-12-24 · 12m · transcript pending
+- [[sources/Adelaide Heward-Mills/Merry Christmas and A Happy, Blessed, Prophecy-fulfilling New Year [fb7ab50939e84af5]|Merry Christmas and A Happy, Blessed, Prophecy-fulfilling New Year]] · [original](https://adelaidehewardmills.podbean.com/e/merry-christmas-and-a-happy-blessed-prophecy-fulfilling-new-year/) · 2021-12-24 · 12m · transcript
 - Take Heed Part 1 · [original](https://adelaidehewardmills.podbean.com/e/take-heed-part-1/) · 2021-12-19 · 1h 28m · transcript pending
-- Come Up Hither - Part 2 · [original](https://adelaidehewardmills.podbean.com/e/come-up-hither-part-2/) · 2021-12-13 · 1h 34m · transcript pending
+- [[sources/Adelaide Heward-Mills/Come Up Hither - Part 2 [1eb05b4bcecea9e0]|Come Up Hither - Part 2]] · [original](https://adelaidehewardmills.podbean.com/e/come-up-hither-part-2/) · 2021-12-13 · 1h 34m · transcript
 - 374. Talk Show - Questions And Answers · [original](https://adelaidehewardmills.podbean.com/e/talk-show-questions-and-answers/) · 2021-11-29 · 2h 08m · transcript pending
-- 373. The Ministry of the Overcomer · [original](https://adelaidehewardmills.podbean.com/e/373-the-ministry-of-the-overcomer/) · 2021-11-22 · 1h 05m · transcript pending
-- 372. Self-Control Is Better Than A Mighty Man · [original](https://adelaidehewardmills.podbean.com/e/self-control-is-better-than-a-mighty-man/) · 2021-11-15 · 47m · transcript pending
-- 371.Temperaments (Questions And Answers) · [original](https://adelaidehewardmills.podbean.com/e/371temperaments-questions-and-answers/) · 2021-11-11 · 1h 46m · transcript pending
-- 370. Temperaments (Firstlove) · [original](https://adelaidehewardmills.podbean.com/e/370-temperaments-firstlove/) · 2021-11-10 · 1h 35m · transcript pending
+- [[sources/Adelaide Heward-Mills/373. The Ministry of the Overcomer [ba0eb6de022478e1]|373. The Ministry of the Overcomer]] · [original](https://adelaidehewardmills.podbean.com/e/373-the-ministry-of-the-overcomer/) · 2021-11-22 · 1h 05m · transcript
+- [[sources/Adelaide Heward-Mills/372. Self-Control Is Better Than A Mighty Man [1d2b8fc71a89637c]|372. Self-Control Is Better Than A Mighty Man]] · [original](https://adelaidehewardmills.podbean.com/e/self-control-is-better-than-a-mighty-man/) · 2021-11-15 · 47m · transcript
+- [[sources/Adelaide Heward-Mills/371.Temperaments (Questions And Answers) [26666d40a7abb2ce]|371.Temperaments (Questions And Answers)]] · [original](https://adelaidehewardmills.podbean.com/e/371temperaments-questions-and-answers/) · 2021-11-11 · 1h 46m · transcript
+- [[sources/Adelaide Heward-Mills/370. Temperaments (Firstlove) [1563347ad17de340]|370. Temperaments (Firstlove)]] · [original](https://adelaidehewardmills.podbean.com/e/370-temperaments-firstlove/) · 2021-11-10 · 1h 35m · transcript
 - 369. Questions And Answers - SHE Conference Cameroon · [original](https://adelaidehewardmills.podbean.com/e/369-questions-and-answers-she-conference-cameroon/) · 2021-10-25 · 54m · transcript pending
-- 368. Questions And Answers - SHE Qodesh, 2015 · [original](https://adelaidehewardmills.podbean.com/e/367-questions-and-answers-she-qodesh-2015/) · 2021-10-18 · 41m · transcript pending
+- [[sources/Adelaide Heward-Mills/368. Questions And Answers - SHE Qodesh, 2015 [54350280e0fcf6f4]|368. Questions And Answers - SHE Qodesh, 2015]] · [original](https://adelaidehewardmills.podbean.com/e/367-questions-and-answers-she-qodesh-2015/) · 2021-10-18 · 41m · transcript
 - 367. How To Develop Quietness · [original](https://adelaidehewardmills.podbean.com/e/367-how-to-develop-quietness/) · 2021-10-11 · 1h 16m · transcript pending
 - 366. Quietness Better Than Strife · [original](https://adelaidehewardmills.podbean.com/e/366-quietness-better-than-strife/) · 2021-10-05 · 1h 48m · transcript pending
-- 365. Conflict Resolution In Marriage · [original](https://adelaidehewardmills.podbean.com/e/365-conflict-resolution-in-marriage/) · 2021-09-27 · 56m · transcript pending
-- 364. The Tongue Of Women · [original](https://adelaidehewardmills.podbean.com/e/364-the-tongue-of-women/) · 2021-09-20 · 1h 00m · transcript pending
-- 363. Prosperity In The Wilderness · [original](https://adelaidehewardmills.podbean.com/e/363-prosperity-in-the-wilderness/) · 2021-09-13 · 52m · transcript pending
-- 362. The Presence Of God 2 · [original](https://adelaidehewardmills.podbean.com/e/362-the-presence-of-god-2/) · 2021-09-06 · 49m · transcript pending
-- 361. The Presence Of God 1 · [original](https://adelaidehewardmills.podbean.com/e/361-the-presence-of-god-1/) · 2021-08-30 · 48m · transcript pending
+- [[sources/Adelaide Heward-Mills/365. Conflict Resolution In Marriage [d3520f80a328a58f]|365. Conflict Resolution In Marriage]] · [original](https://adelaidehewardmills.podbean.com/e/365-conflict-resolution-in-marriage/) · 2021-09-27 · 56m · transcript
+- [[sources/Adelaide Heward-Mills/364. The Tongue Of Women [723d5d97566c3de6]|364. The Tongue Of Women]] · [original](https://adelaidehewardmills.podbean.com/e/364-the-tongue-of-women/) · 2021-09-20 · 1h 00m · transcript
+- [[sources/Adelaide Heward-Mills/363. Prosperity In The Wilderness [482665373688b082]|363. Prosperity In The Wilderness]] · [original](https://adelaidehewardmills.podbean.com/e/363-prosperity-in-the-wilderness/) · 2021-09-13 · 52m · transcript
+- [[sources/Adelaide Heward-Mills/362. The Presence Of God 2 [051228fe834133dd]|362. The Presence Of God 2]] · [original](https://adelaidehewardmills.podbean.com/e/362-the-presence-of-god-2/) · 2021-09-06 · 49m · transcript
+- [[sources/Adelaide Heward-Mills/361. The Presence Of God 1 [a631dc8a53ecfa9f]|361. The Presence Of God 1]] · [original](https://adelaidehewardmills.podbean.com/e/361-the-presence-of-god-1/) · 2021-08-30 · 48m · transcript
 - 360. Balancing Ministry Life And Family Life · [original](https://adelaidehewardmills.podbean.com/e/360-balancing-ministry-life-and-family-life/) · 2021-08-23 · 58m · transcript pending
 - 359. In The Footsteps Of David - The Love Life of David · [original](https://adelaidehewardmills.podbean.com/e/359-the-love-lifeof-david/) · 2021-08-16 · 53m · transcript pending
 - 358. In The Footsteps Of David - Training for Reigning · [original](https://adelaidehewardmills.podbean.com/e/358-training-for-reigning/) · 2021-08-09 · 52m · transcript pending
-- 357. Questions And Answers · [original](https://adelaidehewardmills.podbean.com/e/357-questions-and-answers/) · 2021-08-02 · 26m · transcript pending
+- [[sources/Adelaide Heward-Mills/357. Questions And Answers [409104061af8b123]|357. Questions And Answers]] · [original](https://adelaidehewardmills.podbean.com/e/357-questions-and-answers/) · 2021-08-02 · 26m · transcript
 - 356. You Must Endure · [original](https://adelaidehewardmills.podbean.com/e/356-you-must-endure/) · 2021-07-26 · 1h 15m · transcript pending
 - 355. In The Footsteps Of Hannah · [original](https://adelaidehewardmills.podbean.com/e/355-in-the-footsteps-of-hannah/) · 2021-07-19 · 55m · transcript pending
 - 354. Don't Destroy God's Creation · [original](https://adelaidehewardmills.podbean.com/e/dont-destroy-gods-creation/) · 2021-07-12 · 54m · transcript pending
-- 353. Grace To Persevere · [original](https://adelaidehewardmills.podbean.com/e/353-grace-to-persevere/) · 2021-07-05 · 1h 03m · transcript pending
-- 352. Types of Relationships · [original](https://adelaidehewardmills.podbean.com/e/352-types-of-relationships/) · 2021-06-29 · 2h 19m · transcript pending
+- [[sources/Adelaide Heward-Mills/353. Grace To Persevere [ac23767a0aeabeb4]|353. Grace To Persevere]] · [original](https://adelaidehewardmills.podbean.com/e/353-grace-to-persevere/) · 2021-07-05 · 1h 03m · transcript
+- [[sources/Adelaide Heward-Mills/352. Types of Relationships [e1b03419765434c8]|352. Types of Relationships]] · [original](https://adelaidehewardmills.podbean.com/e/352-types-of-relationships/) · 2021-06-29 · 2h 19m · transcript
 - 351. Catch The Anointing · [original](https://adelaidehewardmills.podbean.com/e/351-catch-the-anointing/) · 2021-06-21 · 1h 06m · transcript pending
-- 350. Don't Be Afraid · [original](https://adelaidehewardmills.podbean.com/e/350-dont-be-afraid/) · 2021-06-14 · 1h 17m · transcript pending
+- [[sources/Adelaide Heward-Mills/350. Don't Be Afraid [d230021882445f65]|350. Don't Be Afraid]] · [original](https://adelaidehewardmills.podbean.com/e/350-dont-be-afraid/) · 2021-06-14 · 1h 17m · transcript
 - 349. The Sins Of Daughters · [original](https://adelaidehewardmills.podbean.com/e/349-the-sins-of-daughters/) · 2021-06-07 · 1h 11m · transcript pending
 - 348. It's A Woman's Thing · [original](https://adelaidehewardmills.podbean.com/e/348-its-a-womans-thing/) · 2021-05-31 · 1h 20m · transcript pending
 - 347. Open Your Heart Wide Questions And Answers · [original](https://adelaidehewardmills.podbean.com/e/347-open-your-heart-wide-questions-and-answers/) · 2021-05-24 · 1h 36m · transcript pending
-- 346. Mary's Extraordinary Faith · [original](https://adelaidehewardmills.podbean.com/e/346-marys-extraordinary-faith/) · 2021-05-17 · 59m · transcript pending
-- 345. The Temptations Of Daughters · [original](https://adelaidehewardmills.podbean.com/e/345-the-temptations-of-daughters/) · 2021-05-17 · 47m · transcript pending
+- [[sources/Adelaide Heward-Mills/346. Mary's Extraordinary Faith [dfc42b2cba9dfd87]|346. Mary's Extraordinary Faith]] · [original](https://adelaidehewardmills.podbean.com/e/346-marys-extraordinary-faith/) · 2021-05-17 · 59m · transcript
+- [[sources/Adelaide Heward-Mills/345. The Temptations Of Daughters [67d79ce0034d7e52]|345. The Temptations Of Daughters]] · [original](https://adelaidehewardmills.podbean.com/e/345-the-temptations-of-daughters/) · 2021-05-17 · 47m · transcript
 - 344. Mothers Who Prayed · [original](https://adelaidehewardmills.podbean.com/e/344-mothers-who-prayed/) · 2021-05-10 · 43m · transcript pending
-- 343.Happy Mother's Day!!! · [original](https://adelaidehewardmills.podbean.com/e/343happy-mothers-day/) · 2021-05-09 · 6m · transcript pending
-- 342. You See Me, I See You · [original](https://adelaidehewardmills.podbean.com/e/342-you-see-me-i-see-you/) · 2021-05-03 · 58m · transcript pending
+- [[sources/Adelaide Heward-Mills/343.Happy Mother's Day!!! [5609ccc60d0c1c42]|343.Happy Mother's Day!!!]] · [original](https://adelaidehewardmills.podbean.com/e/343happy-mothers-day/) · 2021-05-09 · 6m · transcript
+- [[sources/Adelaide Heward-Mills/342. You See Me, I See You [bea6e51ea225145f]|342. You See Me, I See You]] · [original](https://adelaidehewardmills.podbean.com/e/342-you-see-me-i-see-you/) · 2021-05-03 · 58m · transcript
 - 341. When It Gets Hard · [original](https://adelaidehewardmills.podbean.com/e/341-when-it-gets-hard/) · 2021-04-26 · 1h 14m · transcript pending
-- 340. Woman, God's Secret Weapon · [original](https://adelaidehewardmills.podbean.com/e/340-woman-gods-secret-weapon/) · 2021-04-19 · 1h 02m · transcript pending
+- [[sources/Adelaide Heward-Mills/340. Woman, God's Secret Weapon [d998e532f8c57de9]|340. Woman, God's Secret Weapon]] · [original](https://adelaidehewardmills.podbean.com/e/340-woman-gods-secret-weapon/) · 2021-04-19 · 1h 02m · transcript
 - 339. How To Be A Steadfast Christian · [original](https://adelaidehewardmills.podbean.com/e/339-how-to-be-a-steadfast-christian/) · 2021-04-16 · 53m · transcript pending
 - 338. What Do You See · [original](https://adelaidehewardmills.podbean.com/e/338-what-do-you-see/) · 2021-04-04 · 54m · transcript pending
-- A Blessed Resurrection Sunday!!! · [original](https://adelaidehewardmills.podbean.com/e/a-blessed-resurrection-sunday/) · 2021-04-04 · 6m · transcript pending
+- [[sources/Adelaide Heward-Mills/A Blessed Resurrection Sunday!!! [0831a13a1bc047d8]|A Blessed Resurrection Sunday!!!]] · [original](https://adelaidehewardmills.podbean.com/e/a-blessed-resurrection-sunday/) · 2021-04-04 · 6m · transcript
 - 337. A Woman's Godly Weapons · [original](https://adelaidehewardmills.podbean.com/e/337-a-womans-godly-weapons/) · 2021-03-29 · 45m · transcript pending
 - 336. Your Mind · [original](https://adelaidehewardmills.podbean.com/e/336-your-mind/) · 2021-03-24 · 1h 09m · transcript pending
 - 335. The Woman In The Midst Of Change · [original](https://adelaidehewardmills.podbean.com/e/335-the-woman-in-the-midst-of-change/) · 2021-03-15 · 58m · transcript pending
-- 334. Temperaments (MMC) · [original](https://adelaidehewardmills.podbean.com/e/334-temperaments-mmc/) · 2021-03-08 · 55m · transcript pending
+- [[sources/Adelaide Heward-Mills/334. Temperaments (MMC) [2b32e7289237debb]|334. Temperaments (MMC)]] · [original](https://adelaidehewardmills.podbean.com/e/334-temperaments-mmc/) · 2021-03-08 · 55m · transcript
 - 333. Don't Be Silly · [original](https://adelaidehewardmills.podbean.com/e/333-dont-be-silly/) · 2021-03-01 · 1h 20m · transcript pending
 - 332. Questions and Answers - The Key Of Acceptance · [original](https://adelaidehewardmills.podbean.com/e/332-questions-and-answers-the-key-of-acceptance/) · 2021-02-17 · 1h 14m · transcript pending
-- 331.The Key Of Acceptance · [original](https://adelaidehewardmills.podbean.com/e/331the-key-of-acceptance/) · 2021-02-17 · 1h 36m · transcript pending
-- 330. Take Up Your Cross · [original](https://adelaidehewardmills.podbean.com/e/330-take-up-your-cross/) · 2021-02-15 · 1h 05m · transcript pending
-- Valentine's Day Message · [original](https://adelaidehewardmills.podbean.com/e/valentines-day-message/) · 2021-02-14 · 7m · transcript pending
-- 329. Consider The Work Of God · [original](https://adelaidehewardmills.podbean.com/e/329-consider-the-work-of-god/) · 2021-02-08 · 46m · transcript pending
+- [[sources/Adelaide Heward-Mills/331.The Key Of Acceptance [251056c3eb0d2b97]|331.The Key Of Acceptance]] · [original](https://adelaidehewardmills.podbean.com/e/331the-key-of-acceptance/) · 2021-02-17 · 1h 36m · transcript
+- [[sources/Adelaide Heward-Mills/330. Take Up Your Cross [30c948a7af923b49]|330. Take Up Your Cross]] · [original](https://adelaidehewardmills.podbean.com/e/330-take-up-your-cross/) · 2021-02-15 · 1h 05m · transcript
+- [[sources/Adelaide Heward-Mills/Valentine's Day Message [3b0294b2672a47f2]|Valentine's Day Message]] · [original](https://adelaidehewardmills.podbean.com/e/valentines-day-message/) · 2021-02-14 · 7m · transcript
+- [[sources/Adelaide Heward-Mills/329. Consider The Work Of God [139cf9750d469900]|329. Consider The Work Of God]] · [original](https://adelaidehewardmills.podbean.com/e/329-consider-the-work-of-god/) · 2021-02-08 · 46m · transcript
 - 328. The Titus 2 Woman · [original](https://adelaidehewardmills.podbean.com/e/328-the-titus-2-woman/) · 2021-02-01 · 1h 00m · transcript pending
-- 327. How You Can Become A Strong Christian · [original](https://adelaidehewardmills.podbean.com/e/327-how-you-can-become-a-strong-christian/) · 2021-01-25 · 1h 05m · transcript pending
+- [[sources/Adelaide Heward-Mills/327. How You Can Become A Strong Christian [e38df6bac964ac50]|327. How You Can Become A Strong Christian]] · [original](https://adelaidehewardmills.podbean.com/e/327-how-you-can-become-a-strong-christian/) · 2021-01-25 · 1h 05m · transcript
 - 326. Quench Your Thirst · [original](https://adelaidehewardmills.podbean.com/e/326-quench-your-thirst/) · 2021-01-20 · 51m · transcript pending
 - 325. Forgiveness, The Bedrock Of Relationships · [original](https://adelaidehewardmills.podbean.com/e/325-forgiveness-the-bedrock-of-relationships/) · 2021-01-12 · 54m · transcript pending
-- 324. Blessed Are The Merciful · [original](https://adelaidehewardmills.podbean.com/e/324-blessed-are-the-merciful/) · 2021-01-04 · 43m · transcript pending
+- [[sources/Adelaide Heward-Mills/324. Blessed Are The Merciful [116faa9d4869ce0f]|324. Blessed Are The Merciful]] · [original](https://adelaidehewardmills.podbean.com/e/324-blessed-are-the-merciful/) · 2021-01-04 · 43m · transcript
 - 323. 7 Mistakes Of The Innkeeper · [original](https://adelaidehewardmills.podbean.com/e/323-7-mistakes-of-the-innkeeper/) · 2020-12-28 · 55m · transcript pending
-- 322. Christmas Message 2020 · [original](https://adelaidehewardmills.podbean.com/e/322-christmas-message-2020/) · 2020-12-25 · 7m · transcript pending
+- [[sources/Adelaide Heward-Mills/322. Christmas Message 2020 [28674cf5f8f35d8e]|322. Christmas Message 2020]] · [original](https://adelaidehewardmills.podbean.com/e/322-christmas-message-2020/) · 2020-12-25 · 7m · transcript
 - 321. Questions And Answers · [original](https://adelaidehewardmills.podbean.com/e/321-questions-and-answers/) · 2020-12-24 · 1h 00m · transcript pending
 - 320. Changing Seasons In Marriage · [original](https://adelaidehewardmills.podbean.com/e/320-changing-seasons-in-marriage/) · 2020-12-14 · 1h 50m · transcript pending
-- 319. How to Handle A Mother · [original](https://adelaidehewardmills.podbean.com/e/319-how-to-handle-a-mother/) · 2020-12-07 · 45m · transcript pending
+- [[sources/Adelaide Heward-Mills/319. How to Handle A Mother [aa78b2237768ceda]|319. How to Handle A Mother]] · [original](https://adelaidehewardmills.podbean.com/e/319-how-to-handle-a-mother/) · 2020-12-07 · 45m · transcript
 - 318. Jezebelism · [original](https://adelaidehewardmills.podbean.com/e/318-jezebelism/) · 2020-11-24 · 52m · transcript pending
 - 317. Seeing The Invisible · [original](https://adelaidehewardmills.podbean.com/e/317-seeing-the-invisible/) · 2020-11-16 · 1h 40m · transcript pending
 - 316. Controlling Your Emotion - Fear And Anger · [original](https://adelaidehewardmills.podbean.com/e/316-controlling-your-emotion-fear-and-anger/) · 2020-11-14 · 1h 15m · transcript pending
-- 315. Raising Mentors · [original](https://adelaidehewardmills.podbean.com/e/315-raising-mentors/) · 2020-11-09 · 1h 35m · transcript pending
+- [[sources/Adelaide Heward-Mills/315. Raising Mentors [28ea2fb6ab34dae8]|315. Raising Mentors]] · [original](https://adelaidehewardmills.podbean.com/e/315-raising-mentors/) · 2020-11-09 · 1h 35m · transcript
 - 314. Controlling Your Emotions - Deep Sorrow · [original](https://adelaidehewardmills.podbean.com/e/314-controlling-your-emotions-deep-sorrow/) · 2020-11-02 · 1h 31m · transcript pending
 - 313. Controlling Your Emotions - Envy and Jealousy · [original](https://adelaidehewardmills.podbean.com/e/313-controlling-your-emotions-envy-and-jealousy/) · 2020-10-26 · 1h 19m · transcript pending
-- 312. The Woman of Good Understanding · [original](https://adelaidehewardmills.podbean.com/e/312-the-woman-of-good-understanding/) · 2020-10-19 · 26m · transcript pending
+- [[sources/Adelaide Heward-Mills/312. The Woman of Good Understanding [c5f0955f7470613f]|312. The Woman of Good Understanding]] · [original](https://adelaidehewardmills.podbean.com/e/312-the-woman-of-good-understanding/) · 2020-10-19 · 26m · transcript
 - 311. Do Not Be Deceived · [original](https://adelaidehewardmills.podbean.com/e/311-do-not-be-deceived/) · 2020-10-12 · 1h 02m · transcript pending
 - 310. Whose Report Would You Believe · [original](https://adelaidehewardmills.podbean.com/e/310-whose-report-would-you-believe/) · 2020-10-05 · 51m · transcript pending
 - 309. Do Not Be Conformed To This World · [original](https://adelaidehewardmills.podbean.com/e/309-do-not-be-conformed-to-this-world/) · 2020-10-02 · 1h 19m · transcript pending
-- 308. Different Scenarios In Which People Who Walked With God Lifted Up Their Eyes · [original](https://adelaidehewardmills.podbean.com/e/308-different-scenarios-in-which-people-who-walked-with-god-lifted-up-their-eyes/) · 2020-09-25 · 1h 09m · transcript pending
+- [[sources/Adelaide Heward-Mills/308. Different Scenarios In Which People Who Walked With God Lifted Up Their Eyes [f0bfb43570e22388]|308. Different Scenarios In Which People Who Walked With God Lifted Up Their Eyes]] · [original](https://adelaidehewardmills.podbean.com/e/308-different-scenarios-in-which-people-who-walked-with-god-lifted-up-their-eyes/) · 2020-09-25 · 1h 09m · transcript
 - 307. When You Are Rejected · [original](https://adelaidehewardmills.podbean.com/e/307-when-you-are-rejected/) · 2020-09-21 · 52m · transcript pending
 - 306. Things That We Must Learn - Meekness · [original](https://adelaidehewardmills.podbean.com/e/306-things-we-must-learn-meekness/) · 2020-09-14 · 49m · transcript pending
-- 305. Things That We Must Learn - Sacrifice vrs Obedience · [original](https://adelaidehewardmills.podbean.com/e/305-things-that-we-must-learn-sacrifice-vrs-obedience/) · 2020-09-07 · 50m · transcript pending
-- 304. Prayer To Receive Jesus As Your Saviour · [original](https://adelaidehewardmills.podbean.com/e/304-prayer-to-receive-jesus-as-your-saviour/) · 2020-09-04 · 7m · transcript pending
-- 303. Living In The Last Days · [original](https://adelaidehewardmills.podbean.com/e/303-living-in-the-last-days/) · 2020-08-31 · 1h 05m · transcript pending
+- [[sources/Adelaide Heward-Mills/305. Things That We Must Learn - Sacrifice vrs Obedience [56933e27a2f3422d]|305. Things That We Must Learn - Sacrifice vrs Obedience]] · [original](https://adelaidehewardmills.podbean.com/e/305-things-that-we-must-learn-sacrifice-vrs-obedience/) · 2020-09-07 · 50m · transcript
+- [[sources/Adelaide Heward-Mills/304. Prayer To Receive Jesus As Your Saviour [a75d63a594209010]|304. Prayer To Receive Jesus As Your Saviour]] · [original](https://adelaidehewardmills.podbean.com/e/304-prayer-to-receive-jesus-as-your-saviour/) · 2020-09-04 · 7m · transcript
+- [[sources/Adelaide Heward-Mills/303. Living In The Last Days [70e8e1419477c38e]|303. Living In The Last Days]] · [original](https://adelaidehewardmills.podbean.com/e/303-living-in-the-last-days/) · 2020-08-31 · 1h 05m · transcript
 - 302. Spousal Duties In Marriage · [original](https://adelaidehewardmills.podbean.com/e/302-spousal-duties-in-marriage/) · 2020-08-24 · 1h 31m · transcript pending
-- 301. Too Late For Love · [original](https://adelaidehewardmills.podbean.com/e/too-late-for-love/) · 2020-08-17 · 1h 08m · transcript pending
+- [[sources/Adelaide Heward-Mills/301. Too Late For Love [a9fbb2904ab007bf]|301. Too Late For Love]] · [original](https://adelaidehewardmills.podbean.com/e/too-late-for-love/) · 2020-08-17 · 1h 08m · transcript
 - 300. Things A Christian Should Not Despise · [original](https://adelaidehewardmills.podbean.com/e/300-things-a-christian-should-not-despise/) · 2020-08-10 · 1h 21m · transcript pending
-- 299. The Woman Of Good Works · [original](https://adelaidehewardmills.podbean.com/e/299-the-woman-of-good-works/) · 2020-08-03 · 1h 24m · transcript pending
+- [[sources/Adelaide Heward-Mills/299. The Woman Of Good Works [e24c79ef1d3be182]|299. The Woman Of Good Works]] · [original](https://adelaidehewardmills.podbean.com/e/299-the-woman-of-good-works/) · 2020-08-03 · 1h 24m · transcript
 - 298. I Hate What God Hates And I Love What God Loves · [original](https://adelaidehewardmills.podbean.com/e/298-i-hate-what-god-hates-and-i-love-what-god-loves/) · 2020-07-27 · 1h 42m · transcript pending
 - 297. When You Feel Alone · [original](https://adelaidehewardmills.podbean.com/e/297-when-you-feel-alone/) · 2020-07-20 · 44m · transcript pending
 - 296. Read Your Bible Everyday · [original](https://adelaidehewardmills.podbean.com/e/296-read-your-bible-everyday/) · 2020-07-13 · 47m · transcript pending
-- 295. How To Choose A Partner · [original](https://adelaidehewardmills.podbean.com/e/295-how-to-choose-a-partner/) · 2020-07-06 · 46m · transcript pending
+- [[sources/Adelaide Heward-Mills/295. How To Choose A Partner [10cde32df6421c3d]|295. How To Choose A Partner]] · [original](https://adelaidehewardmills.podbean.com/e/295-how-to-choose-a-partner/) · 2020-07-06 · 46m · transcript
 - 294. When the Unexpected Happens · [original](https://adelaidehewardmills.podbean.com/e/293-when-the-unexpected-happens/) · 2020-06-29 · 48m · transcript pending
-- 293. Consider the discipline of the Lord · [original](https://adelaidehewardmills.podbean.com/e/293-consider-the-discipline-of-the-lord/) · 2020-06-28 · 54m · transcript pending
-- 292. The Spirit of Servanthood · [original](https://adelaidehewardmills.podbean.com/e/292-the-spirit-of-servanthood/) · 2020-06-23 · 1h 18m · transcript pending
-- 291. More Than Conquerors · [original](https://adelaidehewardmills.podbean.com/e/291-more-than-conquerors/) · 2020-06-15 · 1h 11m · transcript pending
-- 290. Be An Example To Believers · [original](https://adelaidehewardmills.podbean.com/e/290-be-an-example-to-believers/) · 2020-06-08 · 1h 16m · transcript pending
+- [[sources/Adelaide Heward-Mills/293. Consider the discipline of the Lord [d3a17cbe21db4c92]|293. Consider the discipline of the Lord]] · [original](https://adelaidehewardmills.podbean.com/e/293-consider-the-discipline-of-the-lord/) · 2020-06-28 · 54m · transcript
+- [[sources/Adelaide Heward-Mills/292. The Spirit of Servanthood [ef35de6f5a02c776]|292. The Spirit of Servanthood]] · [original](https://adelaidehewardmills.podbean.com/e/292-the-spirit-of-servanthood/) · 2020-06-23 · 1h 18m · transcript
+- [[sources/Adelaide Heward-Mills/291. More Than Conquerors [c3af2cc6888a5be4]|291. More Than Conquerors]] · [original](https://adelaidehewardmills.podbean.com/e/291-more-than-conquerors/) · 2020-06-15 · 1h 11m · transcript
+- [[sources/Adelaide Heward-Mills/290. Be An Example To Believers [3148cd125791e76b]|290. Be An Example To Believers]] · [original](https://adelaidehewardmills.podbean.com/e/290-be-an-example-to-believers/) · 2020-06-08 · 1h 16m · transcript
 - 289. The Woman Of Honour · [original](https://adelaidehewardmills.podbean.com/e/289-the-woman-of-honour/) · 2020-06-01 · 1h 24m · transcript pending
 - 288. The Woman Of Great Price · [original](https://adelaidehewardmills.podbean.com/e/288-the-woman-of-great-price/) · 2020-05-25 · 1h 11m · transcript pending
-- 287. Mothers Who Pray · [original](https://adelaidehewardmills.podbean.com/e/mothers-who-pray/) · 2020-05-19 · 51m · transcript pending
-- 286. Happy Mother's Day Again! · [original](https://adelaidehewardmills.podbean.com/e/286-happy-mothers-day-again/) · 2020-05-10 · 7m · transcript pending
-- 284. Happy Mother's Day · [original](https://adelaidehewardmills.podbean.com/e/284-happy-mothers-day/) · 2020-05-10 · 7m · transcript pending
+- [[sources/Adelaide Heward-Mills/287. Mothers Who Pray [3ee3c5c0a63000c8]|287. Mothers Who Pray]] · [original](https://adelaidehewardmills.podbean.com/e/mothers-who-pray/) · 2020-05-19 · 51m · transcript
+- [[sources/Adelaide Heward-Mills/286. Happy Mother's Day Again! [a8520a9fec7f38c6]|286. Happy Mother's Day Again!]] · [original](https://adelaidehewardmills.podbean.com/e/286-happy-mothers-day-again/) · 2020-05-10 · 7m · transcript
+- [[sources/Adelaide Heward-Mills/284. Happy Mother's Day [616fdd09aeb66795]|284. Happy Mother's Day]] · [original](https://adelaidehewardmills.podbean.com/e/284-happy-mothers-day/) · 2020-05-10 · 7m · transcript
 - 283. David In The MIdst Of Trouble · [original](https://adelaidehewardmills.podbean.com/e/283-david-in-the-midst-of-trouble/) · 2020-05-06 · 54m · transcript pending
 - 282. Faith for difficult times · [original](https://adelaidehewardmills.podbean.com/e/282-faith-for-difficult-times/) · 2020-04-28 · 1h 02m · transcript pending
-- The Hardness of Your Heart · [original](https://adelaidehewardmills.podbean.com/e/the-hardness-of-your-heart/) · 2020-04-24 · 1h 25m · transcript pending
-- 280. The Weapons Of Good Counsel · [original](https://adelaidehewardmills.podbean.com/e/280-the-weapons-of-good-counsel/) · 2020-04-13 · 2h 26m · transcript pending
+- [[sources/Adelaide Heward-Mills/The Hardness of Your Heart [7970545794546096]|The Hardness of Your Heart]] · [original](https://adelaidehewardmills.podbean.com/e/the-hardness-of-your-heart/) · 2020-04-24 · 1h 25m · transcript
+- [[sources/Adelaide Heward-Mills/280. The Weapons Of Good Counsel [6856179d34688dff]|280. The Weapons Of Good Counsel]] · [original](https://adelaidehewardmills.podbean.com/e/280-the-weapons-of-good-counsel/) · 2020-04-13 · 2h 26m · transcript
 - 279. Identity Crisis · [original](https://adelaidehewardmills.podbean.com/e/279-identity-crisis/) · 2020-04-06 · 2h 00m · transcript pending
-- A Time Of Divine Purpose · [original](https://adelaidehewardmills.podbean.com/e/a-time-of-divine-purpose/) · 2020-04-05 · 19m · transcript pending
+- [[sources/Adelaide Heward-Mills/A Time Of Divine Purpose [d5a8fd42fb0a9767]|A Time Of Divine Purpose]] · [original](https://adelaidehewardmills.podbean.com/e/a-time-of-divine-purpose/) · 2020-04-05 · 19m · transcript
 - 278. 4 things you must set in your life · [original](https://adelaidehewardmills.podbean.com/e/278-4-things-you-must-set-in-your-life/) · 2020-04-01 · 57m · transcript pending
 - 277. Jesus Your Good Shepherd · [original](https://adelaidehewardmills.podbean.com/e/277-jesus-your-good-shepherd/) · 2020-03-13 · 1h 34m · transcript pending
-- 276. The Narrow Way and the Broad Way · [original](https://adelaidehewardmills.podbean.com/e/158276-the-narrow-way-and-the-broad-way/) · 2020-03-04 · 46m · transcript pending
-- 275. My Home, My House · [original](https://adelaidehewardmills.podbean.com/e/157275-my-home-my-house/) · 2020-02-23 · 1h 17m · transcript pending
+- [[sources/Adelaide Heward-Mills/276. The Narrow Way and the Broad Way [97cb11db9137d471]|276. The Narrow Way and the Broad Way]] · [original](https://adelaidehewardmills.podbean.com/e/158276-the-narrow-way-and-the-broad-way/) · 2020-03-04 · 46m · transcript
+- [[sources/Adelaide Heward-Mills/275. My Home, My House [5e6be030b3dc0ad4]|275. My Home, My House]] · [original](https://adelaidehewardmills.podbean.com/e/157275-my-home-my-house/) · 2020-02-23 · 1h 17m · transcript
 - Question & Answers · [original](https://adelaidehewardmills.podbean.com/e/question-answers-1582227901/) · 2020-02-20 · 1h 11m · transcript pending
-- 273. Love Redefined 2 · [original](https://adelaidehewardmills.podbean.com/e/273-love-redefined-2/) · 2020-02-20 · 1h 20m · transcript pending
+- [[sources/Adelaide Heward-Mills/273. Love Redefined 2 [e356eb387d7449af]|273. Love Redefined 2]] · [original](https://adelaidehewardmills.podbean.com/e/273-love-redefined-2/) · 2020-02-20 · 1h 20m · transcript
 - 271. Feed My Lambs (Part 2) · [original](https://adelaidehewardmills.podbean.com/e/271-feed-my-lambs-part-2/) · 2020-01-14 · 1h 20m · transcript pending
 - 270. Feed My Lambs (Part 1) · [original](https://adelaidehewardmills.podbean.com/e/270-feed-my-lambs/) · 2020-01-11 · 55m · transcript pending
 - 269. Discipled to Make Disciples · [original](https://adelaidehewardmills.podbean.com/e/269-discipled-to-make-disciples/) · 2020-01-07 · 1h 00m · transcript pending
 - 268. Nurturing the next Generation of Women Leaders · [original](https://adelaidehewardmills.podbean.com/e/268-nurturing-the-next-generation-of-women-leaders/) · 2019-12-04 · 47m · transcript pending
 - 267. Seek Ye First the Kingdom of God · [original](https://adelaidehewardmills.podbean.com/e/seek-ye-first-the-kingdom-of-god-1575474534/) · 2019-11-26 · 1h 14m · transcript pending
-- 266. Three Kinds Of Love Part 2 · [original](https://adelaidehewardmills.podbean.com/e/266-three-kinds-of-love-part-2/) · 2019-11-12 · 1h 37m · transcript pending
+- [[sources/Adelaide Heward-Mills/266. Three Kinds Of Love Part 2 [95eaa82dae584928]|266. Three Kinds Of Love Part 2]] · [original](https://adelaidehewardmills.podbean.com/e/266-three-kinds-of-love-part-2/) · 2019-11-12 · 1h 37m · transcript
 - 265. How You Can Become A Strong Christian · [original](https://adelaidehewardmills.podbean.com/e/265-how-you-can-become-a-strong-christian/) · 2019-11-07 · 1h 22m · transcript pending
 - 264. Honoring Your Prophet · [original](https://adelaidehewardmills.podbean.com/e/264-honoring-your-prophet/) · 2019-11-07 · 27m · transcript pending
-- 263. Three Kinds Of Love · [original](https://adelaidehewardmills.podbean.com/e/263-three-kinds-of-love/) · 2019-10-22 · 1h 23m · transcript pending
+- [[sources/Adelaide Heward-Mills/263. Three Kinds Of Love [c932971f1faa2484]|263. Three Kinds Of Love]] · [original](https://adelaidehewardmills.podbean.com/e/263-three-kinds-of-love/) · 2019-10-22 · 1h 23m · transcript
 - 262. How You Can Become A Strong Christian (Part 2) · [original](https://adelaidehewardmills.podbean.com/e/262-how-you-can-become-a-strong-christian-part-2/) · 2019-10-09 · 50m · transcript pending
 - 261. How You Can Become A Strong Christian (Part 1) · [original](https://adelaidehewardmills.podbean.com/e/261-how-you-can-become-a-strong-christian-part-1/) · 2019-10-09 · 52m · transcript pending
 - 260. Questions Answers · [original](https://adelaidehewardmills.podbean.com/e/260-questions-answers/) · 2019-09-24 · 1h 00m · transcript pending
@@ -286,7 +286,7 @@
 - 258. Sin Is Dangerous II · [original](https://adelaidehewardmills.podbean.com/e/258-sin-is-dangerous-ii/) · 2019-09-11 · 1h 01m · transcript pending
 - 257. Sin Is Dangerous II · [original](https://adelaidehewardmills.podbean.com/e/257-sin-is-dangerous/) · 2019-09-03 · 58m · transcript pending
 - 256. You Must Endure · [original](https://adelaidehewardmills.podbean.com/e/256-you-must-endure/) · 2019-08-27 · 1h 04m · transcript pending
-- 255. The Forces Within · [original](https://adelaidehewardmills.podbean.com/e/the-forces-within/) · 2019-08-20 · 1h 01m · transcript pending
+- [[sources/Adelaide Heward-Mills/255. The Forces Within [10c1d77234e116b5]|255. The Forces Within]] · [original](https://adelaidehewardmills.podbean.com/e/the-forces-within/) · 2019-08-20 · 1h 01m · transcript
 - 254. Lord Have Mercy On Me · [original](https://adelaidehewardmills.podbean.com/e/254-lord-have-mercy-on-me/) · 2019-08-13 · 27m · transcript pending
 - 253. 10 Reason Why Some People Don't Use Their Talents · [original](https://adelaidehewardmills.podbean.com/e/10-reason-why-some-people-dont-use-their-talents/) · 2019-08-06 · 2h 03m · transcript pending
 - 252. How To Be A Permanent Church Member · [original](https://adelaidehewardmills.podbean.com/e/252-how-to-be-a-permanent-church-member/) · 2019-07-30 · 48m · transcript pending
@@ -298,7 +298,7 @@
 - 246. Too Close For Comfort · [original](https://adelaidehewardmills.podbean.com/e/246-too-close-for-comfort/) · 2019-06-25 · 56m · transcript pending
 - 245. A Little Strength · [original](https://adelaidehewardmills.podbean.com/e/245-a-little-strength/) · 2019-06-18 · 1h 15m · transcript pending
 - 284. God's Secret Weapon · [original](https://adelaidehewardmills.podbean.com/e/284-gods-secret-weapon/) · 2019-06-11 · 1h 07m · transcript pending
-- 243. Before You Say I Do · [original](https://adelaidehewardmills.podbean.com/e/before-you-say-i-do-1560113632/) · 2019-06-04 · 2h 04m · transcript pending
+- [[sources/Adelaide Heward-Mills/243. Before You Say I Do [d88b8b5a8c329fba]|243. Before You Say I Do]] · [original](https://adelaidehewardmills.podbean.com/e/before-you-say-i-do-1560113632/) · 2019-06-04 · 2h 04m · transcript
 - 282. Those Who Forget · [original](https://adelaidehewardmills.podbean.com/e/those-who-forget-1560113419/) · 2019-05-28 · 52m · transcript pending
 - 281. The Grace of God · [original](https://adelaidehewardmills.podbean.com/e/281-the-grace-of-god/) · 2019-05-21 · 31m · transcript pending
 - 280. Questions and Anwsers · [original](https://adelaidehewardmills.podbean.com/e/questions-and-anwsers/) · 2019-05-07 · 29m · transcript pending

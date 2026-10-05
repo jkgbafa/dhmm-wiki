@@ -1,5 +1,10 @@
 # Dating and courtship
 
-1 timestamped sources currently discuss this topic.
+6 timestamped sources currently discuss this topic.
 
+- [[sources/Adelaide Heward-Mills/YouTube/Let's Talk Relationships Financial Management In Relationships, Prime Morning on Joy Prime TV [hbyBimz-CWE]|Let's Talk Relationships: Financial Management In Relationships, Prime Morning on Joy Prime TV]] · [original](https://www.youtube.com/watch?v=hbyBimz-CWE) · Adelaide Heward-Mills
+- [[sources/First Love Conversations/Episode 8 Christian Dating 101 + Dashen gets Relationship Tips + Being BFFs with the opposite sex [58f69496b830ff6d]|Episode 8 : Christian Dating 101 + Dashen gets Relationship Tips + Being BFFs with the opposite sex]] · [original](https://firstlovecpodcast.podbean.com/e/episode-8-christian-dating-101-dashen-gets-relationship-tips-being-bffs-with-the-opposite-sex/) · First Love Conversations
+- [[sources/First Love Conversations/Special Edition 🇺🇸 How Far Is Too Far For Christian Dating + Is Kissing Okay [85eabd023a964f94]|Special Edition 🇺🇸 : How Far Is Too Far For Christian Dating + Is Kissing Okay?]] · [original](https://firstlovecpodcast.podbean.com/e/how-far-is-too-far-for-christian-dating-is-kissing-okay-special-edition-%f0%9f%87%ba%f0%9f%87/) · First Love Conversations
+- [[sources/Joshua Heward-Mills/The Foundation of Loving God  Foundations of Ministry Camp  Joshua Heward- Mills [YxOoANE-0r0]|The Foundation of Loving God — Foundations of Ministry Camp — Joshua Heward- Mills]] · [original](https://www.youtube.com/watch?v=YxOoANE-0r0) · Meeting God
+- [[sources/Joshua Heward-Mills/The Master Key of Loving God - Joshua Heward-Mills [Oko_WnuHCws]|The Master Key of Loving God - Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=Oko_WnuHCws) · Meeting God
 - [[sources/Joshua Heward-Mills/The Person Of The Holy Spirit  Holy Ghost Encounter  Joshua Heward-Mills [HwB4-FYG0bk]|The Person Of The Holy Spirit — Holy Ghost Encounter — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=HwB4-FYG0bk) · Meeting God

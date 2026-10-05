@@ -10,6 +10,7 @@ This is a separate, self-contained wiki inside the larger ministry vault. It is 
 - [[SCHEMA|Ingestion, citation, and safety rules]]
 - [[wiki/Source Catalog|Source catalog]]
 - [[wiki/All Sources|All sources and original-message links]]
+- [[wiki/Sources/Adelaide Heward-Mills YouTube Archive|Adelaide Heward-Mills YouTube Archive]]
 - [[log|Ingestion log]]
 
 ## Knowledge layers

@@ -46,12 +46,20 @@ PODCASTS = (
     },
 )
 
-YOUTUBE = {
-    "slug": "joshua-heward-mills",
-    "series": "Meeting God",
-    "creator": "Joshua Heward-Mills",
-    "url": "https://www.youtube.com/@MeetingGod_/videos",
-}
+YOUTUBE = (
+    {
+        "slug": "joshua-heward-mills",
+        "series": "Meeting God",
+        "creator": "Joshua Heward-Mills",
+        "url": "https://www.youtube.com/@MeetingGod_/videos",
+    },
+    {
+        "slug": "adelaide-heward-mills-youtube",
+        "series": "Adelaide Heward-Mills — YouTube",
+        "creator": "Adelaide Heward-Mills",
+        "url": "https://www.youtube.com/@ladyrev.adelaideheward-mil9109/videos",
+    },
+)
 
 TOPICS = {
     "Choosing a partner": r"choos(?:e|ing).*(?:partner|wife|husband)|who (?:should|to) marry",
@@ -169,7 +177,7 @@ def podcast_entries(config):
 
 
 def youtube_entries(config):
-    command = ["yt-dlp", "--flat-playlist", "--dump-single-json", "--no-warnings", config["url"]]
+    command = ["/opt/homebrew/bin/yt-dlp", "--flat-playlist", "--dump-single-json", "--no-warnings", config["url"]]
     result = subprocess.run(command, check=True, capture_output=True, text=True)
     payload = json.loads(result.stdout)
     entries = []
@@ -240,9 +248,10 @@ def main():
         entries = podcast_entries(config)
         write_jsonl(MANIFESTS / f"{config['slug']}.jsonl", entries)
         collections.append((config["series"], entries))
-    entries = youtube_entries(YOUTUBE)
-    write_jsonl(MANIFESTS / f"{YOUTUBE['slug']}.jsonl", entries)
-    collections.append(("Joshua Heward-Mills / Meeting God", entries))
+    for config in YOUTUBE:
+        entries = youtube_entries(config)
+        write_jsonl(MANIFESTS / f"{config['slug']}.jsonl", entries)
+        collections.append((f"{config['creator']} / {config['series']}", entries))
     write_catalog(collections)
     total = sum(len(entries) for _, entries in collections)
     priority = sum(1 for _, entries in collections for entry in entries if entry["marriage_relevance"] == "high")
