@@ -33,14 +33,27 @@ def checkpoint(message: str, *paths: str) -> None:
 
 
 def main() -> None:
-    print("Phase 1/4: finish captionless Meeting God videos", flush=True)
+    print("Phase 1/7: refresh Adelaide YouTube captions and archive", flush=True)
+    run(PYTHON, "pipeline/archive_adelaide_youtube.py")
+
+    print("Phase 2/7: transcribe Adelaide YouTube videos without captions", flush=True)
+    run(PYTHON, "pipeline/transcribe_missing_adelaide_youtube.py", "--shortest-first")
+    run(PYTHON, "pipeline/archive_adelaide_youtube.py", "--index-only")
+    checkpoint(
+        "Complete Adelaide Heward-Mills YouTube archive",
+        "Marriage Wiki/sources/Adelaide Heward-Mills/YouTube",
+        "Marriage Wiki/wiki/Sources/Adelaide Heward-Mills YouTube Archive.md",
+        "Marriage Wiki/_meta/adelaide-youtube-archive-links.jsonl",
+    )
+
+    print("Phase 3/7: finish captionless Meeting God videos", flush=True)
     run(PYTHON, "pipeline/transcribe_missing_meetinggod.py")
     checkpoint(
         "Complete Meeting God transcript collection",
         "Marriage Wiki/sources/Joshua Heward-Mills",
     )
 
-    print("Phase 2/4: finish unmatched Adelaide podcast episodes", flush=True)
+    print("Phase 4/7: finish unmatched Adelaide podcast episodes", flush=True)
     run(
         PYTHON,
         "pipeline/transcribe_marriage_podcasts.py",
@@ -49,10 +62,13 @@ def main() -> None:
         "--shortest-first",
     )
 
-    print("Phase 3/4: rebuild chatbot corpus and indexes", flush=True)
+    print("Phase 5/7: rebuild chatbot corpus and indexes", flush=True)
     run(PYTHON, "pipeline/build_marriage_chatbot.py")
 
-    print("Phase 4/4: verify exact 300 + 33 + 305 coverage", flush=True)
+    print("Phase 6/7: rebuild the chatbot search database", flush=True)
+    run(PYTHON, "pipeline/build_corpus.py")
+
+    print("Phase 7/7: verify 300 + 33 + 305 + 267 coverage", flush=True)
     run(PYTHON, "pipeline/selfcheck_marriage.py")
     checkpoint(
         "Complete marriage chatbot corpus",

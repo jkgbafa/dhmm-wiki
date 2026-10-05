@@ -18,14 +18,17 @@ def load(name):
 adelaide = load("adelaide-heward-mills.jsonl")
 first_love = load("first-love-conversations.jsonl")
 joshua = load("joshua-heward-mills.jsonl")
+adelaide_youtube = load("adelaide-heward-mills-youtube.jsonl")
 
 assert len(adelaide) == 300
 assert len(first_love) == 33
 assert len(joshua) == 305
+assert len(adelaide_youtube) == 267
 assert all(entry.get("source_id") and entry.get("url") for entry in adelaide + first_love + joshua)
 assert sum(entry.get("marriage_relevance") == "high" for entry in adelaide + first_love + joshua) >= 50
 
 SOURCE_ID_RE = re.compile(r'^source_id:\s*"([^"]+)"', re.M)
+VIDEO_ID_RE = re.compile(r'^video_id:\s*"([^"]+)"', re.M)
 TIMESTAMP_RE = re.compile(r'^\[\d{2}:\d{2}:\d{2}\](?:\([^)]+\))?\s+', re.M)
 
 series_sources = {
@@ -60,6 +63,21 @@ for note in (WIKI / "sources" / "Joshua Heward-Mills").glob("*.md"):
     text = note.read_text(encoding="utf-8")
     assert "youtube.com/watch?v=" in text and "&t=" in text
 
+channel_video_ids = set()
+video_to_source = {}
+for note in (WIKI / "sources" / "Adelaide Heward-Mills").rglob("*.md"):
+    text = note.read_text(encoding="utf-8")
+    video_match = VIDEO_ID_RE.search(text)
+    source_match = SOURCE_ID_RE.search(text)
+    if video_match and source_match:
+        channel_video_ids.add(video_match.group(1))
+        video_to_source[video_match.group(1)] = source_match.group(1)
+expected_video_ids = {entry["video_id"] for entry in adelaide_youtube}
+assert channel_video_ids == expected_video_ids, (
+    f"incomplete Adelaide YouTube archive: {len(channel_video_ids)}/{len(expected_video_ids)}; "
+    f"missing={sorted(expected_video_ids - channel_video_ids)[:5]}"
+)
+
 chatbot_ids = set()
 for chatbot_file in (WIKI / "_chatbot").glob("*.jsonl"):
     for line in chatbot_file.read_text(encoding="utf-8").splitlines():
@@ -67,7 +85,9 @@ for chatbot_file in (WIKI / "_chatbot").glob("*.jsonl"):
             row = json.loads(line)
             assert row.get("source_url") and row.get("timestamp_url")
             chatbot_ids.add(row["source_id"])
-assert chatbot_ids == {entry["source_id"] for entry in adelaide + first_love + joshua}
+core_ids = {entry["source_id"] for entry in adelaide + first_love + joshua}
+assert core_ids <= chatbot_ids
+assert set(video_to_source.values()) <= chatbot_ids
 
 schema = (WIKI / "SCHEMA.md").read_text(encoding="utf-8")
 assert "Raw sources are immutable" in schema
