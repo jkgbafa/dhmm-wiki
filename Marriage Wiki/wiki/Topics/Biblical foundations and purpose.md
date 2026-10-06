@@ -1,6 +1,6 @@
 # Biblical foundations and purpose
 
-93 timestamped sources currently discuss this topic.
+106 timestamped sources currently discuss this topic.
 
 - [[sources/Adelaide Heward-Mills/243. Before You Say I Do [d88b8b5a8c329fba]|243. Before You Say I Do]] · [original](https://adelaidehewardmills.podbean.com/e/before-you-say-i-do-1560113632/) · Adelaide Heward-Mills
 - [[sources/Adelaide Heward-Mills/263. Three Kinds Of Love [c932971f1faa2484]|263. Three Kinds Of Love]] · [original](https://adelaidehewardmills.podbean.com/e/263-three-kinds-of-love/) · Adelaide Heward-Mills
@@ -51,6 +51,7 @@
 - [[sources/Adelaide Heward-Mills/Mrs. God [3a0a636403f5e9a2]|Mrs. God]] · [original](https://adelaidehewardmills.podbean.com/e/mrs-god/) · Adelaide Heward-Mills
 - [[sources/Adelaide Heward-Mills/Negotiation Skills [f1b34b4d5b8ddfe0]|Negotiation Skills]] · [original](https://adelaidehewardmills.podbean.com/e/negotiation-skills/) · Adelaide Heward-Mills
 - [[sources/Adelaide Heward-Mills/Open Your Heart Wide Q&A [f9fbaceb6a34e1cf]|Open Your Heart Wide Q&A]] · [original](https://adelaidehewardmills.podbean.com/e/open-your-heart-wide-qa/) · Adelaide Heward-Mills
+- [[sources/Adelaide Heward-Mills/YouTube/Our Lives, Our Building [-IzSY2rOvIA]|Our Lives, Our Building]] · [original](https://www.youtube.com/watch?v=-IzSY2rOvIA) · Adelaide Heward-Mills
 - [[sources/Adelaide Heward-Mills/Problem Solving in Marriage [d092d3decc78c443]|Problem Solving in Marriage]] · [original](https://adelaidehewardmills.podbean.com/e/problem-solving-in-marriage/) · Adelaide Heward-Mills
 - [[sources/Adelaide Heward-Mills/Questions And Answers - Healing Hearts, Renewing Vows [93b865d12dd83630]|Questions And Answers - Healing Hearts, Renewing Vows]] · [original](https://adelaidehewardmills.podbean.com/e/questions-and-answers-healing-hearts-renewing-vows/) · Adelaide Heward-Mills
 - [[sources/Adelaide Heward-Mills/Questions And Answers - I Love You But Why Are We So Different [91eda177b8f861d9]|Questions And Answers - I Love You But Why Are We So Different ?]] · [original](https://adelaidehewardmills.podbean.com/e/questions-and-answers-i-love-you-but-why-are-we-so-different/) · Adelaide Heward-Mills
@@ -63,6 +64,7 @@
 - [[sources/Adelaide Heward-Mills/YouTube/Spiritual Survival Kit [koG_utABL4o]|Spiritual Survival Kit]] · [original](https://www.youtube.com/watch?v=koG_utABL4o) · Adelaide Heward-Mills
 - [[sources/Adelaide Heward-Mills/Surviving Your Wilderness [c16a479ce7a56aed]|Surviving Your Wilderness]] · [original](https://adelaidehewardmills.podbean.com/e/surviving-your-wilderness-1786502747/) · Adelaide Heward-Mills
 - [[sources/Adelaide Heward-Mills/YouTube/The Complete Woman [APM4GGx2r3g]|The Complete Woman]] · [original](https://www.youtube.com/watch?v=APM4GGx2r3g) · Adelaide Heward-Mills
+- [[sources/Adelaide Heward-Mills/YouTube/The Faith Side of a Woman Redefined [YlTkjSTe06A]|The Faith Side of a Woman Redefined]] · [original](https://www.youtube.com/watch?v=YlTkjSTe06A) · Adelaide Heward-Mills
 - [[sources/Adelaide Heward-Mills/The Forces Within Us [1434100ee195e9ca]|The Forces Within Us]] · [original](https://adelaidehewardmills.podbean.com/e/the-forces-within-us/) · Adelaide Heward-Mills
 - [[sources/Adelaide Heward-Mills/YouTube/The Godly Woman [vbeJeszQY3Y]|The Godly Woman]] · [original](https://www.youtube.com/watch?v=vbeJeszQY3Y) · Adelaide Heward-Mills
 - [[sources/Adelaide Heward-Mills/The Hardness of Your Heart [7970545794546096]|The Hardness of Your Heart]] · [original](https://adelaidehewardmills.podbean.com/e/the-hardness-of-your-heart/) · Adelaide Heward-Mills
@@ -95,3 +97,14 @@
 - [[sources/Joshua Heward-Mills/The Holy Spirit The Power Of The God Pleaser  Joshua Heward-Mills [gnGQUpwt0Tk]|The Holy Spirit: The Power Of The God Pleaser — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=gnGQUpwt0Tk) · Meeting God
 - [[sources/Joshua Heward-Mills/The Laws of the Supernatural - Joshua Heward-Mills [UBStolOOL2U]|The Laws of the Supernatural - Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=UBStolOOL2U) · Meeting God
 - [[sources/Joshua Heward-Mills/The Sweet Influences Of The Holy Spirit On Your Marriage  Meeting God  Joshua Heward-Mills [__j__1oHkfE]|The Sweet Influences Of The Holy Spirit On Your Marriage — Meeting God — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=__j__1oHkfE) · Meeting God
+- [[sources/Joshua Heward-Mills/Christian Dating 101  First Love Conversations  Joshua Heward-Mills [49xxmDtDU7o]|Christian Dating 101 — First Love Conversations — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=49xxmDtDU7o) · Verse One
+- [[sources/Joshua Heward-Mills/Does God Want Us To Be Happy  Joshua Heward-Mills [zIqgcfcFX6w]|Does God Want Us To Be Happy? — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=zIqgcfcFX6w) · Verse One
+- [[sources/Joshua Heward-Mills/Holy Spirit Led Ministers Of God  The Experience  Joshua Heward Mills  2024 [PzZfTkY6fFM]|Holy Spirit Led Ministers Of God — The Experience — Joshua Heward Mills — 2024]] · [original](https://www.youtube.com/watch?v=PzZfTkY6fFM) · Verse One
+- [[sources/Joshua Heward-Mills/How To Manage Your Finances  Building Summit  Joshua Heward-Mills  2026 [6s9qCqneI1k]|How To Manage Your Finances — Building Summit — Joshua Heward-Mills — 2026]] · [original](https://www.youtube.com/watch?v=6s9qCqneI1k) · Verse One
+- [[sources/Joshua Heward-Mills/Is This Actually God's Plan + How To Find Peace  First Love Conversations  Joshua Heward-Mills [UHSVnqAWG4Q]|Is This Actually God's Plan? + How To Find Peace — First Love Conversations — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=UHSVnqAWG4Q) · Verse One
+- [[sources/Joshua Heward-Mills/Jacob Part 1  Tuesday Teachings  Joshua Heward-Mills  2024 [C0BQU3jSn5g]|Jacob: Part 1 — Tuesday Teachings — Joshua Heward-Mills — 2024]] · [original](https://www.youtube.com/watch?v=C0BQU3jSn5g) · Verse One
+- [[sources/Joshua Heward-Mills/Marry Early In this Economy  First Love Conversations  Joshua Heward-Mills [VQq2O_HZpHA]|Marry Early? In this Economy? — First Love Conversations — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=VQq2O_HZpHA) · Verse One
+- [[sources/Joshua Heward-Mills/Sex, Sin & Spirituality  + Sex Outside Marriage  First Love Conversations  Joshua Heward-Mills [Up-Ej3wQfIw]|Sex, Sin & Spirituality  + Sex Outside Marriage — First Love Conversations — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=Up-Ej3wQfIw) · Verse One
+- [[sources/Joshua Heward-Mills/The Faith of the God Pleaser  Meeting God  Joshua Heward Mills [-BPDugVeHUE]|The Faith of the God Pleaser — Meeting God — Joshua Heward Mills]] · [original](https://www.youtube.com/watch?v=-BPDugVeHUE) · Verse One
+- [[sources/Joshua Heward-Mills/The Sweet Influences Of The Holy Spirit On Your Marriage  Joshua Heward-Mills  2026 [_wJ8DYc5F2I]|The Sweet Influences Of The Holy Spirit On Your Marriage — Joshua Heward-Mills — 2026]] · [original](https://www.youtube.com/watch?v=_wJ8DYc5F2I) · Verse One
+- [[sources/Joshua Heward-Mills/Who Said Women Can't Lead + Gender Roles in Church  First Love Conversations  Joshua Heward-Mills [1d1Ltzj4t0w]|Who Said Women Can't Lead? + Gender Roles in Church — First Love Conversations — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=1d1Ltzj4t0w) · Verse One

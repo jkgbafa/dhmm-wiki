@@ -1,0 +1,52 @@
+---
+title: "The Real Reason You Cannot Pray Has Nothing to Do With Your Sin | Joshua Heward-Mills"
+source_id: "youtube:8JJMUOlckJE"
+speaker: ["Joshua Heward-Mills"]
+series: "Verse One"
+platform: "YouTube"
+source_url: "https://www.youtube.com/watch?v=8JJMUOlckJE"
+duration_seconds: 567
+transcript_method: "youtube_auto_captions"
+transcript_status: "unverified"
+topics: []
+raw_caption: "raw/captions/Joshua Heward-Mills/8JJMUOlckJE.en-orig.json3"
+---
+
+# The Real Reason You Cannot Pray Has Nothing to Do With Your Sin | Joshua Heward-Mills
+
+[Watch on YouTube](https://www.youtube.com/watch?v=8JJMUOlckJE)
+
+> [!warning] Automated transcript
+> This transcript comes from YouTube automatic captions and has not been human-reviewed. Verify wording against the audio before relying on a quotation.
+
+## Transcript
+
+[00:00:00](https://www.youtube.com/watch?v=8JJMUOlckJE&t=0s) Enemy of prayer. It's not pornography. Hope pornography. You can close the laptop and keep going. Can close the laptop. Close the after you finish. Keep going. Come to God in prayer. So tonight we are going to look at what Jesus said about the secret place. And then after that we'll look at what Jesus did. Oh, I'm excited. And I tell you in him is life. AND THAT LIFE, THAT LIFE IS A GUIDANCE. WHEN WE look at what Jesus said, it's a guidance. When we look at what he did in the secret place, it's also a guidance. Amen. Or no. Amen. All right. All right. All right. So, now
+
+[00:00:39](https://www.youtube.com/watch?v=8JJMUOlckJE&t=39s) let's look at what Jesus said. Said or did, which one do you want first? Said. Okay. Okay. I'm obedient. I'm obedient. I obey you. Okay. Now, we're going to look at just one verse in terms of what Jesus said. Mark chapter 1 and 35. Precious scripture. Let's look at it. Are you there? In the morning, rising up a great while before day. Oh, this is what Jesus did. We've begun, guys. We began in the morning. THIS IS WHAT HE DID. NOT WHAT HE SAID. A LOT OF PEOPLE can teach on prayer. BUT HE IN THE morning
+
+[00:01:24](https://www.youtube.com/watch?v=8JJMUOlckJE&t=84s) rising up a great while before day he went out. He departed into a solitary place and there he prayed. This is a beautiful scripture for us to learn from. Now what's the first thing we can learn? The first thing is that Jesus showed us that my my text is Jesus and the secret place. That's what I'm sharing about. But it's in two parts. is what he taught and then what he did or what he did first I think and then what he taught. See, number one, Jesus showed us by what he did that the best time to meet with God is in the morning, a great while before day. And the church said, "Amen."
+
+[00:02:05](https://www.youtube.com/watch?v=8JJMUOlckJE&t=125s) In the morning, the best time. You see, let's not be proud. Do you know what is pride? Pride is to say that afternoon works for me. What I'll tell you is that what's good for Jesus is good for you. Oh yeah, AFTERNOON MAY WORK FOR YOU TOMMY. BUT HE didn't say in Tommy was life. HE SAID IN JESUS WAS life and his life not Tommy's LIFE IS OUR LIGHT IS NOT YOUR what your life says. No. No. Good for Jesus is good for me. Good for me. It's good for me. And I believe this is now I'm speaking personal speak like a fool. I believe that the morning time
+
+[00:02:42](https://www.youtube.com/watch?v=8JJMUOlckJE&t=162s) you see HE SAYS A GREAT WHILE NOT NOT 15 minutes to sunrise. He said no no no a great while. 6:30. NO, NO, not 6:30. NO, NO. A GREAT WOW PROCESS. HIS LIFE IS LEADING US. He's leading us. What is wrong? I DON'T KNOW WHAT TO DO. I don't know what to change about my life. I don't know. CHLOE, NO. CHLOE, HE wants you to wake up if you are following Jesus. A great one. And I personally believe you know that sunlight is not good. Yeah. For finding God. That's why even when you want to pray, you start drawing the curtains. You don't even know why. Yes, but there's something you know you know
+
+[00:03:17](https://www.youtube.com/watch?v=8JJMUOlckJE&t=197s) my suspicion is that you know the scripture says we walk by faith and not by sight. So have a theory I don't know if I'm right that the less sight you have the more faith. Yeah, that's what I think. And then and I support myself with some scripture here. Are you ready? Exodus 20:21 Benjamin it says something fantastic. It says that uh the people stood far, but Moses h drew near unto the thick darkness. WHERE WHERE THAT'S WHERE HE IS. OH, there's something about the night time. Why? BECAUSE HE DID IT. BECAUSE HE DID IT. BECAUSE JESUS DID IT. ARE YOU BUSIER THAN JESUS? ARE YOU GREATER THAN JESUS?
+
+[00:04:04](https://www.youtube.com/watch?v=8JJMUOlckJE&t=244s) ARE YOU WISER THAN JESUS? HE DID IT EARLY IN THE MORNING AND BY THAT IT IS A LIGHT FOR ALL OF YOU YOUNG CHRISTIANS. You want to follow Jesus Christ a great while before day. Oh, you know I'M BLESSED. PASTOR FRANK, HE made darkness a secret place. When he was making a secret place, he made it dark. Psalm 18:1. That's right. He made darkness his secret place. A secret place is dark. That's why you turn off the light. You don't even know why you turn off the light when you pray. That's why sometimes when you even wake up to see God even just in silence, you sense a holiness. There's something
+
+[00:04:34](https://www.youtube.com/watch?v=8JJMUOlckJE&t=274s) about the darkness. He made darkness his secret place and his pavilion roundabout were dark waters and take clouds of the skies. The secret place is dark. Meeting God. A great world before. Sit down. We have so many things to go to. I don't want us to. Number two, Mark 10:35. That's our text. Mark 1. Mark 1:35. Sorry. That's our text. A great while before day. Are you there? Hello. Where's my vest? In the morning. A great while before day. Jesus showed us number two that it is best to meet God away from where you sleep. Huh?
+
+[00:05:20](https://www.youtube.com/watch?v=8JJMUOlckJE&t=320s) I'll tell you something. He departed like when he woke up. Okay. His life is a lie to I tell you you you think it's irrelevant to myself. HIS LIFE. THAT'S RIGHT. You know, you know Christ, the scripture advises us to pay attention to him like a light shining in the darkness, which means turn off every other light and focus on Christ. Turn off every other example. Look at Jesus. His life, you change your young lady to change you. Change your life. Humbly follow him. He said no. When you see, I'm flowing from the bed. It's not like Christ. You are not like Christ. WWJD. What will Jesus
+
+[00:05:56](https://www.youtube.com/watch?v=8JJMUOlckJE&t=356s) do? When Jesus yawned and he woke up, HE SAID, I CAN'T PRAY WHERE I SLEEP. WOW. NOW, if you think God doesn't visit me, put we don't know the day he comes to visit us. Every day we are praying, but there's a day. There's a day. That's why he says, "Who is the son of man that thou visitest him and the visitation of the Lord? It elevates a man to be just something under angels." That's what the scripture says. Who who is man that you are mindful of him and the son of man that thou visited him. Hello, help me scripture people. Thou has made him. Oh. Uhhuh. What's man? That you visit him.
+
+[00:06:29](https://www.youtube.com/watch?v=8JJMUOlckJE&t=389s) Then look at verse five. What's the effect of a visitation of God? You make him just a little like Gabriel. Ah, just under Gabriel. I know them. Who is Tusman who makes limbs crack out? He prays and then nine people on stage. He preached in Manila big crusade in the stadium and he announced to the stadium all the things I've said about Jesus. If they are not true, then none of these people will be healed. Come on, beautiful. And he said, bring me 15 of the most sick people and line them up on stage. And he said, if Jesus is real, he's going to heal all these people. A little
+
+[00:06:58](https://www.youtube.com/watch?v=8JJMUOlckJE&t=418s) under Gabriel. A little under under Michael. A little you want to be. THAT'S WHY HE SAYS YOU ARE GODS BUT YOU DIE LIKE MEN. People live like like weak people. Keep preaching. Say this demon is worrying me. This one is worrying me. That one is worrying me. You have no power in your life. Keep preaching cuz you can't pray. But we don't know the day that he comes to visit. Beautiful. And so Jacob awoke from his sleep. Wow. Then he said, "AH, GOD WAS HERE." Sleep is a great enemy of prayer. God was here. It was when he slept. He awake. He didn't know that God was there. THAT WAS
+
+[00:07:32](https://www.youtube.com/watch?v=8JJMUOlckJE&t=452s) THE DAY OF HIS VISITATION. THE DAY HE SLEPT. LOOK AT IT. JACOB awake out of his sleep. Yes or no? Jesus himself told the disciples, "Why sleeping?" That's right. Rise and pray. Come on. Rise and pray. The enemy of prayer is not pornography. Oh, pornography. You can close the laptop and keep going. Can close the laptop. Close after you finish. Keep going. Come to God in prayer. Why? Why can't you pray because of the pornography? Why are you feeling bad? Don't you know God's goodness? So you think that if you hadn't masturbated, then you'll be good. Your righteousness as a filthy rag. He says, "Come as you are, even though your
+
+[00:08:11](https://www.youtube.com/watch?v=8JJMUOlckJE&t=491s) sins are like scarlet, I'll make them white as snow." The enemy of coming to God is not sin. The enemy of coming to God is one thing. The cross has paid for our sins. Please, he that is born of God cannot sin. Let's not go into other other topics. Come on, you are saved. The grace of God, unmmerited favor and spiritual blessings. It's only by his election of his fullness have we received and grace for grace. The law came through Moses. You are talking Moses. I'm talking Jesus. Grace came THROUGH JESUS CHRIST. THAT'S NOT WHAT STOPS YOU FROM PRAYING. YEAH. YEAH. YEAH. The law was given, but grace came. It comes. It's not through
+
+[00:08:44](https://www.youtube.com/watch?v=8JJMUOlckJE&t=524s) your work. It's something you receive from him. And of his fullness we have received. And grace for grace. That's not what stops you from praying. I tell you what stops you from praying. Sleep. Sleep stops you from praying. Why sleep? Luke 22:46. Rise up and pray. The enemy of pray. Why was Peter not praying? What did Peter must master? He didn't even have Wi-Fi. He didn't even have Wi-Fi. Let's stop that. He didn't have access to that. Okay, please. Come on, my friends. My God. So Jesus woke up and left the place of sleep. But you, you are proud. I'll pray by my bed. But I tell you this in the Bible.

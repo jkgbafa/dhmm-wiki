@@ -1,6 +1,6 @@
 # Adelaide Heward-Mills YouTube Archive
 
-267 videos inventoried; 232 have timestamped transcripts and 35 are pending local transcription.
+267 videos inventoried; 233 have timestamped transcripts and 34 are pending local transcription.
 Every upload from the official Lady Rev. Adelaide Heward-Mills channel. Videos distributed through the podcast reuse the corresponding podcast transcript so the chatbot does not index duplicate words; video-only uploads have standalone transcript notes.
 
 - [[sources/Adelaide Heward-Mills/You Never Know Who You're Welcoming [5a91f8b62ad19e4e]|You Never Know Who You’re Welcoming]] · [video](https://www.youtube.com/watch?v=P_HTc-DfPmk) · [related podcast](https://adelaidehewardmills.podbean.com/e/you-never-know-who-youre-welcoming/) · youtube_auto_captions
@@ -227,7 +227,7 @@ Every upload from the official Lady Rev. Adelaide Heward-Mills channel. Videos d
 - [[sources/Adelaide Heward-Mills/YouTube/Daughter Get Real [dKPA8qIDxps]|Daughter Get Real]] · [video](https://www.youtube.com/watch?v=dKPA8qIDxps) · youtube_auto_captions
 - [[sources/Adelaide Heward-Mills/308. Different Scenarios In Which People Who Walked With God Lifted Up Their Eyes [f0bfb43570e22388]|Different Scenarios In Which People Who Walked With God Lifted Up Their Eyes]] · [video](https://www.youtube.com/watch?v=_1y58fH0VcI) · [related podcast](https://adelaidehewardmills.podbean.com/e/308-different-scenarios-in-which-people-who-walked-with-god-lifted-up-their-eyes/) · youtube_auto_captions
 - [[sources/Adelaide Heward-Mills/Surviving Your Wilderness [c16a479ce7a56aed]|Surviving Your Wilderness]] · [video](https://www.youtube.com/watch?v=B8ulgjCMm40) · [related podcast](https://adelaidehewardmills.podbean.com/e/surviving-your-wilderness-1786502747/) · youtube_auto_captions
-- Daughter Your Mind · [video](https://www.youtube.com/watch?v=nowMVuIUsSU) · transcript pending
+- [[sources/Adelaide Heward-Mills/YouTube/Daughter Your Mind [nowMVuIUsSU]|Daughter Your Mind]] · [video](https://www.youtube.com/watch?v=nowMVuIUsSU) · youtube_auto_captions
 - [[sources/Adelaide Heward-Mills/YouTube/Disclaimer!!!! [kh5KE6XooF8]|Disclaimer!!!!]] · [video](https://www.youtube.com/watch?v=kh5KE6XooF8) · youtube_auto_captions
 - [[sources/Adelaide Heward-Mills/YouTube/You See Me, I See You [FHyEsEGfPWM]|You See Me, I See You]] · [video](https://www.youtube.com/watch?v=FHyEsEGfPWM) · youtube_auto_captions
 - [[sources/Adelaide Heward-Mills/YouTube/More Than Conquerors [Nwfr_Mc43MI]|More Than Conquerors]] · [video](https://www.youtube.com/watch?v=Nwfr_Mc43MI) · youtube_auto_captions

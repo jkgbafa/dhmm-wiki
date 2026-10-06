@@ -1,0 +1,60 @@
+---
+title: "The Holy Spirit Has Been Pushed Into a Corner in Most Churches | Joshua Heward-Mills"
+source_id: "youtube:OSVt3Mmy7Z4"
+speaker: ["Joshua Heward-Mills"]
+series: "Verse One"
+platform: "YouTube"
+source_url: "https://www.youtube.com/watch?v=OSVt3Mmy7Z4"
+duration_seconds: 775
+transcript_method: "youtube_auto_captions"
+transcript_status: "unverified"
+topics: []
+raw_caption: "raw/captions/Joshua Heward-Mills/OSVt3Mmy7Z4.en-orig.json3"
+---
+
+# The Holy Spirit Has Been Pushed Into a Corner in Most Churches | Joshua Heward-Mills
+
+[Watch on YouTube](https://www.youtube.com/watch?v=OSVt3Mmy7Z4)
+
+> [!warning] Automated transcript
+> This transcript comes from YouTube automatic captions and has not been human-reviewed. Verify wording against the audio before relying on a quotation.
+
+## Transcript
+
+[00:00:00](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=0s) The problem is we are not having enough encounters. The problem is we come to church and there are not enough encounters and the Holy Spirit is swallowed into a corner and few people know his presence. And so you notice when the church throughout the years of the reformation backed away from the Holy Spirit, what was absent? Was it the Bible? What was absent like like in in 1762 in an average Anglican church where the Holy Spirit had not been poured out. What wasn't there? Was it Bible? No. Was it singing? No.
+
+[00:00:46](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=46s) What was missing? PHYSICAL EVIDENCE OF THE PRESENCE of the Holy Spirit. Yes, I have been struck down by the power of God and been on the floor for about about 2 hours unable to move. When I got up, I was a changed man. Physical manifestations are a sign. The Bible says the manifestation of the Holy Spirit is given to every man for profit. Which means a man begins to profit from the Holy Spirit when he has manifestations. Which is to manifest means to come out of the invisible realm and evidence yourself in the physical realm. And a Christian who has not
+
+[00:01:31](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=91s) experienced the evidence of true presence. I don't know. It's just now unfortunately we couldn't go into but that's why the Bible says Quench not the Holy Spirit. Quench. Quench. Which means you can stop. You can stop the Holy Spirit. You can stop the That's why sometimes in a certain atmosphere when there's a lot of manifestation some people are screaming, people are crying cuz you see the last time you cried. Did you cry? Because the air was humid. Why were you crying? HE MADE YOU CRY.
+
+[00:02:17](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=137s) HE MADE YOU CRY. A PERSON MADE YOU CRY. NOBODY JUST STANDS there and falls down. Somebody pushed you. NOBODY STANDS THERE AND JUST STARTS SHAKING. UNLESS YOU ARE DANCING. SOMEBODY. That's why I say the way that you will know. Hallelujah. Hallelujah. When your phone rings, it's never nobody on the other side. Yes. Although you can't see the person. The sound coming from the phone is evidence that there is somebody on the other side.
+
+[00:03:04](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=184s) WHEN YOU SEE SOMEBODY SHAKING, KNOW THAT THERE IS A BEING unless you see unless unless there is a being holding him and shaking. That's why I love manifesting. That's how I know he's here. Or else I'm I'm I'm operating on faith. I'm just I'm just believing that he's around. But when you see the true man who made you cry, a boy broke your heart and made you cry. Or a boy touched your heart and made you cry. Yes. Why did you fall down? Somebody pushed you. Nobody just is standing there and then suddenly falls down. No. Somebody pushed you. And so when the church backslides, why why did you laugh? Somebody made you laugh.
+
+[00:03:51](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=231s) You see, only only you rarely spend time in the presence of God. The manifest presence. You've never laughed before. I have laugh some ministry. I just I laugh. I laugh till their tears in my eyes. You say why? Why? Why are you laughing? I I I I don't know. I can't explain it. That's the Bible says the natural man cannot receive anything from God. If you want a natural reason to laugh, natural reason to fall, natural natural reason all through the Bible, people who have, you see, when the prophet met somebody, it was the king's soldier or the king's general or something. When you saw he started crying first saw the person, he
+
+[00:04:32](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=272s) just started crying. Why are you crying? Why are you crying? What what will make you weep? I don't even know you. He said, I also don't know you. But when I saw your face, I got a word of of knowledge about how wicked you will be. You'll be the most wicked what you do to the children of Israel. I'm already crying. It's going to happen in years to come. I'm already crying. So when somebody's in the presence say he starts weeping maybe maybe such things are not valuable to you. One day a prophet says he was praying and he just started to cry. And he was crying because he said people
+
+[00:05:04](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=304s) don't love God. You see you see it sounds like insanity. you was in a hotel room somewhere crying. Why don't people love God? Why don't people the the burden of God you started crying? You never experience anything cuz you are so natural. You're so much in the natural mind. The natural mind honestly if you are guys want us to study physics and chemistry with with with the Holy Spirit it will never mix. Yes, Paul. How much blood does one human being have? Six points. Six pints. So when we say when we say it reaches to the highest valley, it will not it will not reach the car park.
+
+[00:05:50](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=350s) No. Who is it? The blood reaches to the highest valley and it flows to the river and the blood is going to wash away all the blood cannot even wash only Paul. It will leave a toe. What about tomorrow's sins? SO AS SOON AS YOU START TO APPLY PHYSICS AND CHEMISTRY AND YOU CAN'T RECEIVE from God. Bible says Psalm 22:3 says, "And God inhabits the praises of his people." I don't know if you don't like my message, I close. When you are singing, where will God sit? Where in the song will God sit? Where in the praises? Where is his house? He say he lives in the praises. Where is his house?
+
+[00:06:25](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=385s) Songs are not even matter. Where will he sit? No, he inhabits. He inhabits. He's around. He's around. If it ever happens to you, if you ever have the the blessing to experience the manifestation of God's presence, I was ministering in an accaz two days ago and I started to laugh. I laugh at my stomach was hurting me. I laughed and laughed with the congregation. We laughed. We were not singing. There was no music. We laughed and laughed and laughed. Prophet. Prophet. Oh yes. Look at Saul. Look at
+
+[00:07:11](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=431s) Saul reading scripture since he was a child. No prophet. One day he sees a light. He falls down, eyes closed. When he gets up, he's a changed man. The problem is we are not having enough encounters. The problem is we come to church and there are not enough encounters. and the Holy Spirit is swallowed into a corner and few people know his presence. One day I went to make a cup of tea and I two it happened to me twice two two different um the first the first time I was sitting down on my chair and somebody just walked in front of me and sat there's a bed next to the chair I
+
+[00:07:50](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=470s) sitting when I'm praying just sat on the on the bed I I I left I left I went to sit and told God whoever is there ask him to leave I cannot stay there I cannot stay with that person whoever is there you think you're laughing at me you wait yeah I mean I was praying for God manif Manifest yourself. That's what I That's the prayer I pray. Manifest yourself. Manifest yourself. And you know when you pray, your eyes are closed and you just open it like to look up or something. Manifest. I saw somebody walking. Sit down. I got to say, "Hey, send whoever is there. God, I know I said manifest.
+
+[00:08:21](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=501s) Take your time. There are levels of things." Yes. Pastors, we have to look for it that I have seen him. Don't say it's not important. Is it important to shake? Yay. The fornication in you when they shaking to come out. No, it's important to fall. It's important to be slain BY THE SPIRIT. DON'T HAPPEN to you before. Maybe before you stand. It's important to cry. It's important to cry to to weep. And you know this departs from education and intelligence.
+
+[00:09:09](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=549s) It depart. This is the departure. This is the departure. This where this where we part ways. This where the natural and the spiritual are separated. The second time it happened to me. I went to make tea and I came back. When I came back I didn't see any anything. That was just a flash. I just saw somebody passing to Quincy. But this why I felt somebody say no. I closed the door said no. Went to look for my wife company. Yeah. Yeah. That's Re That's what we have to look for. Pastors, we shouldn't run away from that or we shouldn't say it doesn't matter. No. Jesus told them when you he
+
+[00:09:50](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=590s) didn't give a sign or said when he comes you know. Yeah. If it was a like a a revelation, a teaching they wouldn't have even realized. If it was a remembering, they would they wouldn't have known that he's come. It's true. Those are all the things the Holy Spirit does. But you you won't know that he's around until there's a manifestation. Even a even a big church is a manifestation of God's presence with you. Yes. A big church and a big ministry. It's a it's an unnatural physical evidentiary product of the presence of God. So if God is here, where is he? That's why that's why you never cry when you
+
+[00:10:30](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=630s) worship. It's not an emotional thing. It's not I love God, I love God, I'm crying. No, this God is not your boyfriend. No, it's supernatural. So, my prayer for you tonight is one, may he come to you. Amen. May he come to you. May he come to you. The manifestations of the spirit. May you not live and die with a dry empty. Many many times I watch Papa Hagen minister Paul.
+
+[00:11:15](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=675s) If I didn't think the Holy Spirit was real because of him, I believed. If I didn't think it was real because of him. So sometimes you ask like what's the use of this? What will it do for us? There's a prophet. There's a prophet. So they were waiting in the upper room. I don't even know what were they praying. They could they can't even pray. Wait for the promise of the father. And as the being planted helps you to benefit from the season. If the season is the Holy Spirit, when you are around, you at the right place at the right time. You just the presence of God is here.
+
+[00:11:59](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=719s) The presence of God. Sometimes when I'm going to bed the night before, I know that the presence of God will be there when I wake up. I just feel a holy calm come over me and I fall asleep. I know that he's coming. You don't have that. You've never had it before. You've never felt God's presence. You've never cried before. You've never fallen down. You've never been shaken before. You've never laughed before. Oh, that's the real Holy Spirit, guys. We can't separate it and say, "Oh, the Holy Spirit is more wisdom." And those are all true. But I tell you, there's nothing like the real tangible manifestation of his presence.
+
+[00:12:44](https://www.youtube.com/watch?v=OSVt3Mmy7Z4&t=764s) And so today, my prayer for all of you is may he manifest himself to you. Amen.

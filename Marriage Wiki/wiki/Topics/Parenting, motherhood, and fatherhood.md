@@ -1,6 +1,6 @@
 # Parenting, motherhood, and fatherhood
 
-24 timestamped sources currently discuss this topic.
+34 timestamped sources currently discuss this topic.
 
 - [[sources/Adelaide Heward-Mills/287. Mothers Who Pray [3ee3c5c0a63000c8]|287. Mothers Who Pray]] · [original](https://adelaidehewardmills.podbean.com/e/mothers-who-pray/) · Adelaide Heward-Mills
 - [[sources/Adelaide Heward-Mills/Are You a Double Man [4967041e57e40239]|Are You a Double Man]] · [original](https://adelaidehewardmills.podbean.com/e/are-you-a-double-man-1663859370/) · Adelaide Heward-Mills
@@ -26,3 +26,13 @@
 - [[sources/Joshua Heward-Mills/Atmosphere V  Holy Ghost Encounter  Joshua Heward-Mills [rr38K9buatw]|Atmosphere V — Holy Ghost Encounter — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=rr38K9buatw) · Meeting God
 - [[sources/Joshua Heward-Mills/Benny Hinn  My Life and My Heart w Joshua Heward-Mills  First Love Church London [TV2_gsDP7A0]|Benny Hinn — My Life and My Heart w/ Joshua Heward-Mills — First Love Church London]] · [original](https://www.youtube.com/watch?v=TV2_gsDP7A0) · Meeting God
 - [[sources/Joshua Heward-Mills/How To Manage Your Finances  Building Summit [tmNDYBB7AVs]|How To Manage Your Finances — Building Summit]] · [original](https://www.youtube.com/watch?v=tmNDYBB7AVs) · Meeting God
+- [[sources/Joshua Heward-Mills/Atmosphere V  Holy Ghost Encounter  Joshua Heward-Mills  2026 [__BFZsquAHw]|Atmosphere V — Holy Ghost Encounter — Joshua Heward-Mills — 2026]] · [original](https://www.youtube.com/watch?v=__BFZsquAHw) · Verse One
+- [[sources/Joshua Heward-Mills/Does God Want Us To Be Happy  Joshua Heward-Mills [zIqgcfcFX6w]|Does God Want Us To Be Happy? — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=zIqgcfcFX6w) · Verse One
+- [[sources/Joshua Heward-Mills/How Far Is Too Far For Christian Dating  U.S.A  First Love Conversations  Joshua Heward-Mills [CUQ2SKvI6ag]|How Far Is Too Far For Christian Dating — U.S.A — First Love Conversations — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=CUQ2SKvI6ag) · Verse One
+- [[sources/Joshua Heward-Mills/How To Become a Mature Christian  The Experience  Joshua Heward-Mills  2024 [5XJ207U4PG8]|How To Become a Mature Christian — The Experience — Joshua Heward-Mills — 2024]] · [original](https://www.youtube.com/watch?v=5XJ207U4PG8) · Verse One
+- [[sources/Joshua Heward-Mills/How To Manage Your Finances  Building Summit  Joshua Heward-Mills  2026 [6s9qCqneI1k]|How To Manage Your Finances — Building Summit — Joshua Heward-Mills — 2026]] · [original](https://www.youtube.com/watch?v=6s9qCqneI1k) · Verse One
+- [[sources/Joshua Heward-Mills/Parents Vs  Childhood Trauma  First Love Conversations  Joshua Heward-Mills [QPCmHVrfVEk]|Parents Vs  Childhood Trauma — First Love Conversations — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=QPCmHVrfVEk) · Verse One
+- [[sources/Joshua Heward-Mills/Parents Vs  Childhood Trauma  First Love Conversations  Joshua Heward-Mills  Singapore [-qEwrnbgoMs]|Parents Vs  Childhood Trauma — First Love Conversations — Joshua Heward-Mills — Singapore]] · [original](https://www.youtube.com/watch?v=-qEwrnbgoMs) · Verse One
+- [[sources/Joshua Heward-Mills/Questions on Music, Temptation, Depression  First Love Conversations  Joshua Heward-Mills [TIRlWjl3r6Y]|Questions on Music, Temptation, Depression — First Love Conversations — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=TIRlWjl3r6Y) · Verse One
+- [[sources/Joshua Heward-Mills/Self Love + Loving God  First Love Conversations  Joshua Heward-Mills [tAYBZO-LYBw]|Self Love??? + Loving God — First Love Conversations — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=tAYBZO-LYBw) · Verse One
+- [[sources/Joshua Heward-Mills/Was I Raised Right + Do Pastors Understand My Struggles  Conversations  Joshua Heward-Mills [e1KPAYtov8U]|Was I Raised Right? + Do Pastors Understand My Struggles — Conversations — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=e1KPAYtov8U) · Verse One

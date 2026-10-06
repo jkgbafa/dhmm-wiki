@@ -1,6 +1,6 @@
 # Trust, faithfulness, forgiveness, and reconciliation
 
-8 timestamped sources currently discuss this topic.
+10 timestamped sources currently discuss this topic.
 
 - [[sources/Adelaide Heward-Mills/Faithfulness and Unfaithfulness in Marriages [437a05a55f13820c]|Faithfulness and Unfaithfulness in Marriages]] · [original](https://adelaidehewardmills.podbean.com/e/faithfulness-and-unfaithfulness-in-marriages/) · Adelaide Heward-Mills
 - [[sources/Adelaide Heward-Mills/Faithfulness and Unfaithfulness in Marriages - Questions and Answers [560885c64927f51c]|Faithfulness and Unfaithfulness in Marriages - Questions and Answers]] · [original](https://adelaidehewardmills.podbean.com/e/faithfulness-and-unfaithfulness-in-marriages-questions-and-answers/) · Adelaide Heward-Mills
@@ -10,3 +10,5 @@
 - [[sources/Adelaide Heward-Mills/YouTube/What Stops People From Using Their Talents [znsNp__hsew]|What Stops People From Using Their Talents]] · [original](https://www.youtube.com/watch?v=znsNp__hsew) · Adelaide Heward-Mills
 - [[sources/Joshua Heward-Mills/If You Love The Lord I Joshua Heward-Mills [s0reGnnXVVI]|If You Love The Lord I Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=s0reGnnXVVI) · Meeting God
 - [[sources/Joshua Heward-Mills/If you love the Lord you will obey him - Joshua Heward-Mills [mu2s1nHSsQM]|If you love the Lord you will obey him - Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=mu2s1nHSsQM) · Meeting God
+- [[sources/Joshua Heward-Mills/Questions on Music, Temptation, Depression  First Love Conversations  Joshua Heward-Mills [TIRlWjl3r6Y]|Questions on Music, Temptation, Depression — First Love Conversations — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=TIRlWjl3r6Y) · Verse One
+- [[sources/Joshua Heward-Mills/Tell Them The Unchanging Purpose  Joshua Heward-Mills  2026 [zPC0ynDh4CI]|Tell Them: The Unchanging Purpose — Joshua Heward-Mills — 2026]] · [original](https://www.youtube.com/watch?v=zPC0ynDh4CI) · Verse One

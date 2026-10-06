@@ -1,0 +1,13 @@
+{
+  "model": "mlx-community/whisper-large-v3-turbo",
+  "total_queued": 34,
+  "completed": 16,
+  "failed": 1,
+  "errors": [
+    {
+      "source_id": "youtube:cQetGE7Y954",
+      "error": "[Errno 32] Broken pipe"
+    }
+  ],
+  "updated": "2026-10-05T02:43:21.418499+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "model": "mlx-community/whisper-large-v3-turbo",
+  "total_queued": 33,
+  "completed": 1,
+  "failed": 0,
+  "errors": [],
+  "updated": "2026-10-06T11:19:11.557958+00:00",
+  "current": {
+    "index": 2,
+    "source_id": "youtube:DpXMs9wa-10",
+    "title": "The Men Who Met God | Meeting God with Joshua Heward-Mills"
+  }
+}
