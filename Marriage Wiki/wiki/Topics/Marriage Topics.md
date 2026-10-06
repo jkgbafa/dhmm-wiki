@@ -11,7 +11,7 @@ Topic membership is detected from transcript content and titles. Treat it as a d
 - [[wiki/Topics/Roles, partnership, and service|Roles, partnership, and service]] — 2 sources
 - [[wiki/Topics/Love, friendship, and emotional connection|Love, friendship, and emotional connection]] — 12 sources
 - [[wiki/Topics/Trust, faithfulness, forgiveness, and reconciliation|Trust, faithfulness, forgiveness, and reconciliation]] — 10 sources
-- [[wiki/Topics/Sex, intimacy, pornography, and purity|Sex, intimacy, pornography, and purity]] — 85 sources
+- [[wiki/Topics/Sex, intimacy, pornography, and purity|Sex, intimacy, pornography, and purity]] — 88 sources
 - [[wiki/Topics/Temperaments and emotional maturity|Temperaments and emotional maturity]] — 14 sources
 - [[wiki/Topics/Money, work, home, and practical responsibilities|Money, work, home, and practical responsibilities]] — 0 sources
 - [[wiki/Topics/Ministry and family balance|Ministry and family balance]] — 2 sources

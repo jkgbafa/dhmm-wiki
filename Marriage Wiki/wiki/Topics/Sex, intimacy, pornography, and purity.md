@@ -1,6 +1,6 @@
 # Sex, intimacy, pornography, and purity
 
-85 timestamped sources currently discuss this topic.
+88 timestamped sources currently discuss this topic.
 
 - [[sources/Adelaide Heward-Mills/243. Before You Say I Do [d88b8b5a8c329fba]|243. Before You Say I Do]] · [original](https://adelaidehewardmills.podbean.com/e/before-you-say-i-do-1560113632/) · Adelaide Heward-Mills
 - [[sources/Adelaide Heward-Mills/266. Three Kinds Of Love Part 2 [95eaa82dae584928]|266. Three Kinds Of Love Part 2]] · [original](https://adelaidehewardmills.podbean.com/e/266-three-kinds-of-love-part-2/) · Adelaide Heward-Mills
@@ -44,6 +44,8 @@
 - [[sources/Joshua Heward-Mills/Atmosphere  Holy Ghost Encounter  Joshua Heward-Mills [mpf-cmS77lM]|Atmosphere — Holy Ghost Encounter — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=mpf-cmS77lM) · Meeting God
 - [[sources/Joshua Heward-Mills/Bebelos - Joshua Heward-Mills [Ks0LkSqgLBc]|Bebelos - Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=Ks0LkSqgLBc) · Meeting God
 - [[sources/Joshua Heward-Mills/Dont Be Surprised That You Must Be Born Again - Joshua Heward-Mills [f_SSeowDc-w]|Dont Be Surprised That You Must Be Born Again - Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=f_SSeowDc-w) · Meeting God
+- [[sources/Joshua Heward-Mills/FLCC The Sweet Influence of the Holy Spirit on your Knowledge of God - Joshua Heward-Mills [zwTKr_SxpfA]|FLCC The Sweet Influence of the Holy Spirit on your Knowledge of God - Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=zwTKr_SxpfA) · Meeting God
+- [[sources/Joshua Heward-Mills/Flowing With The Holy Spirit as a Dove - Joshua Heward-Mills [gIO_xoZ5-bI]|Flowing With The Holy Spirit as a Dove - Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=gIO_xoZ5-bI) · Meeting God
 - [[sources/Joshua Heward-Mills/How To Be A Spiritual Christian - Part 2  Holy Ghost Encounter  Joshua Heward-Mills [7Iv1QkoYNMQ]|How To Be A Spiritual Christian - Part 2 — Holy Ghost Encounter — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=7Iv1QkoYNMQ) · Meeting God
 - [[sources/Joshua Heward-Mills/How To Be A Spiritual Christian - Part 3  Holy Ghost Encounter  Joshua Heward-Mills [60oZhw6Junw]|How To Be A Spiritual Christian - Part 3 — Holy Ghost Encounter — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=60oZhw6Junw) · Meeting God
 - [[sources/Joshua Heward-Mills/How To Become A Spiritual Christian 3 - Joshua Heward-Mills [55raMOGR5L4]|How To Become A Spiritual Christian 3 - Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=55raMOGR5L4) · Meeting God
@@ -66,6 +68,7 @@
 - [[sources/Joshua Heward-Mills/The Holy Spirit The Power Of The God Pleaser  Joshua Heward-Mills [gnGQUpwt0Tk]|The Holy Spirit: The Power Of The God Pleaser — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=gnGQUpwt0Tk) · Meeting God
 - [[sources/Joshua Heward-Mills/The Key Of Watching And Praying  Joshua Heward-Mills [5wwv2lgV2dg]|The Key Of Watching And Praying — Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=5wwv2lgV2dg) · Meeting God
 - [[sources/Joshua Heward-Mills/The Key of Watching and Praying - Joshua Heward-Mills [SjN_1ebXaCs]|The Key of Watching and Praying - Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=SjN_1ebXaCs) · Meeting God
+- [[sources/Joshua Heward-Mills/The Powerful Effects of the Holy Spirit on your Life (Lapaz) - Joshua Heward-Millls [MK9hhCqL9Hc]|The Powerful Effects of the Holy Spirit on your Life (Lapaz) - Joshua Heward-Millls]] · [original](https://www.youtube.com/watch?v=MK9hhCqL9Hc) · Meeting God
 - [[sources/Joshua Heward-Mills/The Presence of the Holy Spirit - Joshua Heward-Mills [4Z_AU_Iqw3Q]|The Presence of the Holy Spirit - Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=4Z_AU_Iqw3Q) · Meeting God
 - [[sources/Joshua Heward-Mills/The Prodigal Son - Joshua Heward-Mills [PlHOHg4uIPg]|The Prodigal Son - Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=PlHOHg4uIPg) · Meeting God
 - [[sources/Joshua Heward-Mills/The Strange Woman  - Joshua Heward-Mills [yu8IlfRoxR4]|The Strange Woman  - Joshua Heward-Mills]] · [original](https://www.youtube.com/watch?v=yu8IlfRoxR4) · Meeting God

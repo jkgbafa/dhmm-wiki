@@ -1,13 +1,13 @@
 {
   "model": "mlx-community/whisper-large-v3-turbo",
-  "total_queued": 33,
-  "completed": 1,
+  "total_queued": 34,
+  "completed": 0,
   "failed": 0,
   "errors": [],
-  "updated": "2026-10-06T11:19:11.557958+00:00",
+  "updated": "2026-10-06T14:08:19.423121+00:00",
   "current": {
-    "index": 2,
-    "source_id": "youtube:DpXMs9wa-10",
-    "title": "The Men Who Met God | Meeting God with Joshua Heward-Mills"
+    "index": 1,
+    "source_id": "youtube:y3wZmnZywac",
+    "title": "The Qualities Needed For Watching And Praying | Joshua Heward-Mills"
   }
 }
